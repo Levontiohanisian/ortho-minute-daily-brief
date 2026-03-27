@@ -86,14 +86,25 @@ Return ONLY the JSON array, no other text."""
     scored = json.loads(response_text)
     scored.sort(key=lambda x: x["score"], reverse=True)
 
-    # Attach scores to paper objects
+    # Attach scores to paper objects, enforcing journal diversity
+    # Max 2 papers per journal so the brief spans the full journal list
+    MAX_PER_JOURNAL = 2
+    journal_counts = {}
     ranked_papers = []
-    for entry in scored[:top_n]:
+
+    for entry in scored:
+        if len(ranked_papers) >= top_n:
+            break
         idx = entry["paper_index"]
         if 0 <= idx < len(papers):
             paper = papers[idx].copy()
+            journal_key = paper.get("journal_abbrev") or paper["journal"]
+            count = journal_counts.get(journal_key, 0)
+            if count >= MAX_PER_JOURNAL:
+                continue  # Skip, too many from this journal
             paper["score"] = entry["score"]
             paper["score_reasoning"] = entry["reasoning"]
             ranked_papers.append(paper)
+            journal_counts[journal_key] = count + 1
 
     return ranked_papers
