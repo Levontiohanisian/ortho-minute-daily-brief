@@ -65,7 +65,7 @@ Return ONLY the JSON array, no other text."""
 
     response = _get_client().messages.create(
         model=CLAUDE_MODEL,
-        max_tokens=2000,
+        max_tokens=4000,
         messages=[{"role": "user", "content": prompt}],
     )
 
@@ -75,6 +75,15 @@ Return ONLY the JSON array, no other text."""
     if response_text.startswith("```"):
         lines = response_text.split("\n")
         response_text = "\n".join(lines[1:-1])
+
+    # Try to extract JSON array if there's extra text
+    import re
+    json_match = re.search(r'\[.*\]', response_text, re.DOTALL)
+    if json_match:
+        response_text = json_match.group(0)
+
+    # Fix trailing commas (common LLM JSON issue)
+    response_text = re.sub(r',\s*([}\]])', r'\1', response_text)
 
     scored = json.loads(response_text)
     scored.sort(key=lambda x: x["score"], reverse=True)
