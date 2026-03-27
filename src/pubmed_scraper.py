@@ -8,24 +8,18 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
 from typing import Optional
 
-from .config import JOURNAL_QUERY, SUBSPECIALTY_QUERIES
+from .config import JOURNAL_QUERY
 
 
 ESEARCH_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
 EFETCH_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
 
 
-def _build_query(subspecialty: str, days_back: int = 1) -> str:
-    """Build PubMed search query for a subspecialty."""
+def _build_query(days_back: int = 1) -> str:
+    """Build PubMed search query across all journals."""
     date_filter = f'("last {days_back} days"[Date - Publication])'
     journal_filter = f"({JOURNAL_QUERY})"
-    subspec_filter = SUBSPECIALTY_QUERIES.get(subspecialty, "")
-
-    if subspec_filter:
-        return f"{subspec_filter} AND {journal_filter} AND {date_filter}"
-    else:
-        # Wildcard: search all journals, no subspecialty filter
-        return f"{journal_filter} AND {date_filter}"
+    return f"{journal_filter} AND {date_filter}"
 
 
 def _esearch(query: str, retmax: int = 50) -> list[str]:
@@ -150,15 +144,15 @@ def _format_authors_short(authors: list[str]) -> str:
     return f"{authors[0]}, {authors[1]}, et al."
 
 
-def scrape_papers(subspecialty: str, days_back: int = 1) -> list[dict]:
+def scrape_papers(days_back: int = 1) -> list[dict]:
     """
-    Scrape PubMed for papers matching a subspecialty.
+    Scrape PubMed for recent papers across all orthopaedic journals.
 
     Falls back to 48 hours if no results in 24 hours.
     """
-    print(f"Scraping PubMed for: {subspecialty} (last {days_back} day(s))")
+    print(f"Scraping PubMed: all journals (last {days_back} day(s))")
 
-    query = _build_query(subspecialty, days_back=days_back)
+    query = _build_query(days_back=days_back)
     print(f"  Query: {query[:120]}...")
 
     pmids = _esearch(query)
@@ -166,11 +160,11 @@ def scrape_papers(subspecialty: str, days_back: int = 1) -> list[dict]:
 
     if not pmids and days_back == 1:
         print("  No results in 24h, expanding to 48h...")
-        return scrape_papers(subspecialty, days_back=2)
+        return scrape_papers(days_back=2)
 
     if not pmids and days_back == 2:
         print("  No results in 48h, expanding to 7 days...")
-        return scrape_papers(subspecialty, days_back=7)
+        return scrape_papers(days_back=7)
 
     if not pmids:
         print("  No results found even after expanding window.")

@@ -11,18 +11,12 @@ from .config import (
 )
 
 
-def _build_brief_html(
-    date: datetime,
-    slot1_name: str,
-    slot1_paper: dict,
-    slot2_name: str,
-    slot2_paper: dict,
-) -> str:
+def _build_brief_html(date: datetime, paper1: dict, paper2: dict) -> str:
     """Build the final subscriber brief HTML."""
 
     date_str = date.strftime("%A, %B %d")
 
-    def paper_section(section_title: str, paper: dict) -> str:
+    def paper_section(paper: dict) -> str:
         bullets = ""
         for b in paper.get("bullets", []):
             bullets += f"- {b}<br>\n"
@@ -31,7 +25,6 @@ def _build_brief_html(
 
         return f"""
 <tr><td style="padding:24px 0 0 0;">
-  <p style="font-size:11px; letter-spacing:2px; color:#888; margin:0 0 12px 0;">{section_title.upper()}</p>
   <p style="font-size:17px; font-weight:bold; margin:0 0 4px 0; line-height:1.3;">{paper['title']}</p>
   <p style="color:#666; margin:0 0 12px 0; font-size:14px;">{journal_display} ({paper['year']})</p>
   <p style="font-size:15px; line-height:1.6; margin:0 0 12px 0;">
@@ -56,9 +49,9 @@ def _build_brief_html(
   <p style="color:#666; margin:0; font-size:14px;">{date_str}</p>
 </td></tr>
 
-{paper_section(slot1_name, slot1_paper)}
+{paper_section(paper1)}
 {separator}
-{paper_section(slot2_name, slot2_paper)}
+{paper_section(paper2)}
 {separator}
 
 <tr><td style="padding:24px 0 0 0; text-align:center;">
@@ -74,30 +67,20 @@ def _build_brief_html(
     return html
 
 
-def send_to_beehiiv(
-    date: datetime,
-    slot1_name: str,
-    slot1_paper: dict,
-    slot2_name: str,
-    slot2_paper: dict,
-) -> bool:
+def send_to_beehiiv(date: datetime, paper1: dict, paper2: dict) -> bool:
     """Send the brief to Beehiiv subscribers."""
 
     date_str = date.strftime("%A, %B %d")
-    subject = f"The Ortho Minute Daily Brief"
+    subject = "The Ortho Minute Daily Brief"
 
-    html = _build_brief_html(
-        date, slot1_name, slot1_paper,
-        slot2_name, slot2_paper,
-    )
+    html = _build_brief_html(date, paper1, paper2)
 
-    # Beehiiv API: Create a post and schedule/publish it
     url = f"https://api.beehiiv.com/v2/publications/{BEEHIIV_PUBLICATION_ID}/posts"
 
     payload = {
         "title": subject,
         "subtitle": date_str,
-        "status": "confirmed",  # Sends immediately
+        "status": "confirmed",
         "content_html": html,
     }
 
@@ -119,7 +102,6 @@ def send_to_beehiiv(
         error_body = e.read().decode() if e.fp else ""
         print(f"Beehiiv API error ({e.code}): {error_body}")
 
-        # Retry once
         print("Retrying Beehiiv send...")
         try:
             req2 = urllib.request.Request(url, data=data, headers=headers, method="POST")

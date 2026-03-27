@@ -2,9 +2,8 @@
 
 import imaplib
 import email
-from email.header import decode_header
-from datetime import datetime, timedelta
 import re
+from datetime import datetime, timedelta
 
 from .config import GMAIL_ADDRESS, GMAIL_APP_PASSWORD
 
@@ -15,22 +14,14 @@ def check_for_approval(date: datetime) -> dict:
 
     Returns:
         {
-            "approved": bool,
-            "edits": str or None,  # raw edit instructions if any
-            "swap_subspecialty": int or None,  # paper number to swap to
-            "swap_arthroplasty": int or None,
+            "picks": [int, int] or None,  # 0-indexed paper picks
+            "no_response": bool,
         }
     """
     result = {
-        "approved": False,
-        "edits": None,
-        "swap_subspecialty": None,
-        "swap_arthroplasty": None,
+        "picks": None,
         "no_response": True,
     }
-
-    date_str = date.strftime("%A, %B %d")
-    search_subject = f"PREVIEW] Ortho Minute"
 
     try:
         mail = imaplib.IMAP4_SSL("imap.gmail.com")
@@ -39,7 +30,7 @@ def check_for_approval(date: datetime) -> dict:
 
         # Search for replies to preview emails from today
         since_date = (date - timedelta(days=1)).strftime("%d-%b-%Y")
-        search_criteria = f'(SINCE "{since_date}" SUBJECT "{search_subject}")'
+        search_criteria = f'(SINCE "{since_date}" SUBJECT "PREVIEW")'
         status, message_ids = mail.search(None, search_criteria)
 
         if status != "OK" or not message_ids[0]:
@@ -54,38 +45,20 @@ def check_for_approval(date: datetime) -> dict:
                 continue
 
             msg = email.message_from_bytes(msg_data[0][1])
-
-            # Get body text
             body = _get_email_body(msg)
             if not body:
                 continue
 
-            body_lower = body.strip().lower()
+            body = body.strip()
 
-            # Check for APPROVE
-            if "approve" in body_lower:
-                result["approved"] = True
+            # Look for two numbers (e.g., "1, 4" or "1 4" or "1 and 4")
+            numbers = re.findall(r'\b(\d{1,2})\b', body)
+            if len(numbers) >= 2:
+                pick1 = int(numbers[0]) - 1  # Convert to 0-indexed
+                pick2 = int(numbers[1]) - 1
+                result["picks"] = [pick1, pick2]
                 result["no_response"] = False
                 break
-
-            # Check for swap instructions
-            swap_match = re.search(
-                r"use #(\d+)\s+for\s+(subspecialty|arthroplasty)",
-                body_lower,
-            )
-            if swap_match:
-                num = int(swap_match.group(1))
-                slot = swap_match.group(2)
-                if slot == "subspecialty":
-                    result["swap_subspecialty"] = num - 1  # 0-indexed
-                else:
-                    result["swap_arthroplasty"] = num - 1
-                result["no_response"] = False
-
-            # Check for edit instructions
-            if "edit" in body_lower:
-                result["edits"] = body.strip()
-                result["no_response"] = False
 
         mail.logout()
 

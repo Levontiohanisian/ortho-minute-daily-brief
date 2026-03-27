@@ -16,7 +16,7 @@ def _get_client() -> Anthropic:
     return client
 
 
-def score_papers(papers: list[dict], subspecialty: str, top_n: int = 5) -> list[dict]:
+def score_papers(papers: list[dict], top_n: int = 10) -> list[dict]:
     """
     Score and rank papers by clinical relevance. Returns top N papers
     with scores and reasoning.
@@ -40,8 +40,6 @@ def score_papers(papers: list[dict], subspecialty: str, top_n: int = 5) -> list[
     papers_text = "\n---\n".join(paper_list)
 
     prompt = f"""You are an orthopaedic surgery research curator. Score and rank these papers for a daily research brief aimed at practicing orthopaedic surgeons.
-
-Subspecialty focus: {subspecialty}
 
 Score each paper 1-100 based on:
 - Clinical relevance and direct applicability to practice (40 points)

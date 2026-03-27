@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Morning pipeline: Check for approval, apply edits, send brief to Beehiiv.
+Morning pipeline: Check for approval, send brief to Beehiiv.
 Runs at 7am Pacific daily via GitHub Actions.
 """
 
@@ -13,7 +13,6 @@ sys.path.insert(0, os.path.dirname(__file__))
 
 from src.config import PACIFIC, DATA_DIR
 from src.approval_checker import check_for_approval
-from src.summarizer import summarize_paper
 from src.beehiiv_sender import send_to_beehiiv
 
 
@@ -40,76 +39,52 @@ def main():
         print("Brief was cancelled. Skipping send.")
         return 0
 
-    slot1_name = data["subspecialty"]
-    slot2_name = data["second_slot"]
-    slot1_candidates = data["subspecialty_candidates"]
-    slot2_candidates = data["second_slot_candidates"]
+    candidates = data["candidates"]
+    picks = data.get("picks", [0, 1])
 
-    print(f"Slot 1: {slot1_name}")
-    print(f"Slot 2: {slot2_name}")
-    print(f"Slot 1 candidates: {len(slot1_candidates)}")
-    print(f"Slot 2 candidates: {len(slot2_candidates)}")
+    print(f"Candidates available: {len(candidates)}")
     print()
 
-    # Check for approval/edits
+    # Check for editor response
     print("--- Checking for editor response ---")
     approval = check_for_approval(now)
 
-    sub_idx = data.get("selected_subspecialty_index", 0)
-    sec_idx = data.get("selected_second_index", 0)
-
     if approval["no_response"]:
-        print("No response received. Using top-ranked papers (default).")
-    elif approval["approved"]:
-        print("Editor approved. Using top-ranked papers.")
-    else:
-        if approval["swap_subspecialty"] is not None:
-            new_idx = approval["swap_subspecialty"]
-            if 0 <= new_idx < len(slot1_candidates):
-                sub_idx = new_idx
-                print(f"Swapping slot 1 paper to candidate #{new_idx + 1}")
-        if approval["swap_arthroplasty"] is not None:
-            new_idx = approval["swap_arthroplasty"]
-            if 0 <= new_idx < len(slot2_candidates):
-                sec_idx = new_idx
-                print(f"Swapping slot 2 paper to candidate #{new_idx + 1}")
-        if approval["edits"]:
-            print(f"Edit instructions received: {approval['edits'][:200]}")
+        print("No response received. Using top 2 papers (default).")
+    elif approval["picks"]:
+        new_picks = approval["picks"]
+        # Validate picks are in range
+        valid = all(0 <= p < len(candidates) for p in new_picks)
+        if valid:
+            picks = new_picks
+            print(f"Editor picked papers #{picks[0]+1} and #{picks[1]+1}")
+        else:
+            print(f"Invalid picks {new_picks}, using default top 2.")
 
     print()
 
     # Select final papers
-    if not slot1_candidates:
-        print("ERROR: No slot 1 candidates available.")
-        return 1
-    if not slot2_candidates:
-        print("ERROR: No slot 2 candidates available.")
+    if len(candidates) < 2:
+        print("ERROR: Not enough candidates.")
         return 1
 
-    sub_idx = min(sub_idx, len(slot1_candidates) - 1)
-    sec_idx = min(sec_idx, len(slot2_candidates) - 1)
+    pick1 = min(picks[0], len(candidates) - 1)
+    pick2 = min(picks[1], len(candidates) - 1)
 
-    final_slot1 = slot1_candidates[sub_idx]
-    final_slot2 = slot2_candidates[sec_idx]
+    paper1 = candidates[pick1]
+    paper2 = candidates[pick2]
 
-    print(f"Final slot 1 paper: {final_slot1['title'][:80]}...")
-    print(f"Final slot 2 paper: {final_slot2['title'][:80]}...")
+    print(f"Paper 1: {paper1['title'][:80]}...")
+    print(f"Paper 2: {paper2['title'][:80]}...")
     print()
 
     # Send to Beehiiv
     print("--- Sending brief to Beehiiv ---")
-    success = send_to_beehiiv(
-        now,
-        slot1_name,
-        final_slot1,
-        slot2_name,
-        final_slot2,
-    )
+    success = send_to_beehiiv(now, paper1, paper2)
 
     if success:
         data["status"] = "sent"
-        data["selected_subspecialty_index"] = sub_idx
-        data["selected_second_index"] = sec_idx
+        data["picks"] = [pick1, pick2]
         with open(data_path, "w") as f:
             json.dump(data, f, indent=2)
         print("Morning pipeline complete. Brief sent to subscribers.")
