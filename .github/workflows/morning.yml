@@ -2,9 +2,9 @@ name: Morning Pipeline - Send Brief
 
 on:
   schedule:
-    # 7am Pacific = 2pm or 3pm UTC depending on DST
-    # Using 3pm UTC (7am PDT) — adjust to 2pm for PST
-    - cron: '0 15 * * *'
+    # 5am Pacific = 1pm UTC (PDT) or 12pm UTC (PST)
+    # Using 12pm UTC (5am PDT)
+    - cron: '0 12 * * *'
   workflow_dispatch:  # Allow manual trigger
 
 jobs:
