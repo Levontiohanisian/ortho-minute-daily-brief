@@ -1,410 +1,296 @@
 {
   "brief_date": "2026-03-27",
   "brief_date_display": "Friday, March 27",
-  "subspecialty": "Sports Medicine",
-  "second_slot": "Foot & Ankle",
-  "subspecialty_candidates": [
+  "candidates": [
     {
-      "pmid": "41276068",
-      "title": "2025 Neer Award Part 2: the PMADS trial: personality, motivation, and attitude determinants of success with rehabilitation for reverse total shoulder arthroplasty.",
+      "pmid": "41884952",
+      "title": "A Comparison of Continuous Epidural, Spinal Opioid,and Patient-Controlled Analgesia for Posterior Spinal Fusion for Adolescent Idiopathic Scoliosis: A Multicenter, International Database Study.",
       "authors": [
-        "Garrigues GE",
-        "Cook CE",
-        "Kennedy J",
-        "Reinke EK",
-        "Gillespie RJ",
-        "Hatzidakis AM",
-        "Jawa A",
-        "Johnston PS",
-        "Nagda SH",
-        "Nicholson GP",
-        "Sears BW",
-        "Wiesel BB",
-        "Wickman JR",
-        "Menendez ME",
-        "Cotter EJ",
-        "Lawande NV",
-        "Scanaliato JP",
-        "Williams TC"
+        "Halpern LM",
+        "Zhang DA",
+        "Kogan CJ",
+        "Ryan KA",
+        "Correll Z",
+        "Bronson W"
       ],
-      "authors_short": "Garrigues GE, Cook CE, et al.",
-      "journal": "Journal of shoulder and elbow surgery",
-      "journal_abbrev": "J Shoulder Elbow Surg",
-      "year": "2026",
-      "abstract": "BACKGROUND: A subset of patients from \"Part 1- The SHORT trial: Multicenter, Randomized, Controlled Trial of Surgeon-Directed Home Therapy vs. Outpatient Rehabilitation by Physical Therapists for Reverse Total Shoulder Arthroplasty\" were analyzed for various personality, psychological, and health motivation scores to elucidate if these characteristics might influence success with either clinic-based physical therapy or surgeon-directed home therapy (HT). METHODS: Three of the original centers from the SHORT trial participated with the same patients and inclusion/exclusion criteria. Surveys designed to capture psychological traits, motivation, and gauge comprehensive patient health were administered to assess for moderating effects on American Shoulder and Elbow Surgeons score, pain intensity score, Single Assessment Numeric Evaluation score, and complications for both physical therapy and HT groups. RESULTS: A total of 89 patients across 3 sites were included for analysis. Moderator analysis demonstrated no association among the Short Grit Scale (P = .54, P = .48, P = .51, P = .61), the Short Health Anxiety Inventory (P = .34, P = .97, P = .37, P = .71), the Motivations and Attitudes Towards Changing Health score (P = .24, P = .41, P = .21, P = .95), the Shoulder Activity Scale (P = .97, P = .42, P = .08, P = .66), the Optimal Screening for Prediction of Referral and Outcome-Yellow Flag assessment tool (OSPRO-YF) negative mood (P = .41, P = .95, P = .33, P = .87), OSPRO-YF fear (P = .38, P = .30, P = .75, P = .37), and OSPRO-YF coping (P = .50, P = .77, P = .75, P = .45) on American Shoulder and Elbow Surgeons scores, pain intensity scores, Single Assessment Numeric Evaluation scores, and complications respectively at final 2-year follow-up. CONCLUSION: No personality, attitude, grit, psychological, or motivational characteristics were found to be associated with success or failure with surgeon-directed HT.",
-      "pub_types": [
-        "Journal Article",
-        "Multicenter Study",
-        "Randomized Controlled Trial"
-      ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41276068/",
-      "score": 89,
-      "score_reasoning": "Multicenter RCT from prestigious JSES comparing rehabilitation approaches for reverse TSA with excellent methodology, large sample size (222 shoulders), and high clinical relevance to daily practice.",
-      "bullets": [
-        "This study tested whether personality traits, motivation levels, and psychological factors predict success with home therapy versus formal physical therapy after reverse shoulder replacement in 89 patients.",
-        "None of the measured psychological characteristics, including grit, health anxiety, motivation to change, or fear avoidance, influenced outcomes at two years for either rehabilitation approach.",
-        "Patient personality and psychological profile do not need to guide the choice between surgeon-directed home therapy and outpatient physical therapy after reverse total shoulder arthroplasty."
-      ]
-    },
-    {
-      "pmid": "41177296",
-      "title": "2025 Neer Award Part 1: The SHORT trial: multicenter, randomized, controlled trial of surgeon-directed home therapy vs. outpatient rehabilitation by physical therapists for reverse total shoulder arthroplasty.",
-      "authors": [
-        "Garrigues GE",
-        "Cook CE",
-        "Kennedy J",
-        "Reinke EK",
-        "Gillespie RJ",
-        "Hatzidakis AM",
-        "Jawa A",
-        "Johnston PS",
-        "Nagda SH",
-        "Nicholson GP",
-        "Sears BW",
-        "Wiesel BB",
-        "Wickman JR",
-        "Menendez ME",
-        "Cotter EJ",
-        "Lawande NV",
-        "Scanaliato JP",
-        "Williams TC"
-      ],
-      "authors_short": "Garrigues GE, Cook CE, et al.",
-      "journal": "Journal of shoulder and elbow surgery",
-      "journal_abbrev": "J Shoulder Elbow Surg",
-      "year": "2026",
-      "abstract": "BACKGROUND: Reverse total shoulder arthroplasty (rTSA) has experienced exponential growth in popularity, although the optimal rehabilitation strategy remains unclear. The primary purpose of the SHORT multicenter randomized controlled trial was to compare patient reported outcomes (PROs) and range of motion (ROM) after rTSA when rehabilitation is directed by outpatient, clinic-based physical therapists (PT group) versus home therapy, instructed by the patient's surgeon at post-operative appointments (HT group). Secondary aims include comparisons of complications, cost of care, and quality of life between the 2 groups. METHODS: Seven sites with 9 shoulder and elbow fellowship-trained, high-volume arthroplasty surgeons randomized 222 shoulders in 216 consecutive, consented patients. There were 117 shoulders in the PT group and 105 shoulders in the HT group. Data were gathered pre-operatively and at 2, 6, and 12 weeks, 6 months, 1 year, and 2 years following surgery. Active and passive ROM, PROs, complications, and costs were collected. RESULTS: At our primary endpoint of one year, we had 93% (174/187) follow-up, at 2 years we had 88% (161/183). There was no statistically significant difference between the 2 groups at any time point with respect to active and passive ROM: scaption, external rotation at 90\u00b0 abduction (ER90), ER at 0\u00b0 abduction (ER0), and internal rotation (IR) at 1 year and 2 years. Similarly, there were no differences with regard to PROs, including pain level, the Single Assessment Numeric Evaluation (SANE) score, the American Shoulder and Elbow Surgeons (ASES) score, and quality of life (measured by PROMIS 29 v.2.0). There was no difference in the complication or revision rate. Crossovers were anticipated and statistical significance was not reached whether analyzed with intention-to-treat including patients who crossed over or per-protocol, truncated to the time patients crossed over. HT group showed decreased 1-year care cycle costs with a statistically significant economic value benefit on incremental cost-effectiveness ratio analysis (PT = $17,837.48 [SD = 2,687.34] and HT = $11,284.97 [SD = 1,578.08], P < .01). CONCLUSION: On average, surgeon-directed home therapy after rTSA offers a better value proposition than formal PT, by providing equivalent clinical benefit at a reduced cost.",
-      "pub_types": [
-        "Journal Article",
-        "Multicenter Study",
-        "Randomized Controlled Trial",
-        "Comparative Study"
-      ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41177296/",
-      "score": 86,
-      "score_reasoning": "Part 2 of Neer Award winning multicenter RCT examining psychological factors in reverse TSA rehabilitation, providing novel insights into patient selection with strong methodology.",
-      "bullets": [
-        "Surgeon-directed home therapy produces identical outcomes to formal physical therapy after reverse shoulder arthroplasty at 1 and 2 years across all range of motion and patient-reported outcome measures.",
-        "This multicenter randomized trial of 222 shoulders found no difference in complications, revisions, or functional recovery between home therapy and outpatient physical therapy groups.",
-        "Home therapy costs $6,500 less per patient than formal physical therapy while delivering equivalent clinical results, making it the more cost-effective rehabilitation option."
-      ]
-    },
-    {
-      "pmid": "40975204",
-      "title": "Outcomes of arthroscopic versus open Bankart repair in collision athletes following a first episode of anterior shoulder dislocation: a 5-year prospective cohort study.",
-      "authors": [
-        "Bitar IJ",
-        "Nores CA",
-        "Marangoni LD",
-        "Bustos DG",
-        "Pezzutti L",
-        "Bitar LB",
-        "Rivera Bacile JV"
-      ],
-      "authors_short": "Bitar IJ, Nores CA, et al.",
-      "journal": "Journal of shoulder and elbow surgery",
-      "journal_abbrev": "J Shoulder Elbow Surg",
-      "year": "2026",
-      "abstract": "BACKGROUND: Isolated arthroscopic Bankart repair (IABR) and open Bankart repair plus inferior capsular shift (OBICS) have not been previously compared in the context of a first episode of anterior shoulder dislocation (FEAD). This study aimed to compare the recurrence rate, functional outcomes, range of motion (ROM), and return to preinjury sport (RTS) level between IABR and OBICS in collision athletes with FEAD. We hypothesized that OBICS would yield clinical outcomes comparable to those of IABR. METHODS: A prospective cohort study involving 80 collision athletes, divided into 2 groups of 40 patients each, was conducted. The inclusion criteria were age \u2264 30 years, with or without a glenoid bone defect \u2264 13%, and on-track Hill-Sachs lesions, all of which presented with first-time anterior shoulder dislocation. The mean follow-up was 68.9 months (range, 60-85) for the OBICS group and 70.5 months (range, 60-87) for the IABR group. The recurrence rate was considered the primary outcome, whereas the Western Ontario Shoulder Instability Index (WOSI), American Shoulder and Elbow Surgeons (ASES) score, ROM, and RTS were secondary outcomes. All assessments were conducted at baseline, 6 months, 12 months, and a minimum of 60 months postoperatively. All outcomes were compared between the 2 groups. RESULTS: The OBICS group demonstrated a significantly lower recurrence rate (2.5%) than did the IABR group (17.5%) (P = .031). Both groups showed significant improvements in WOSI and ASES scores from baseline to the final follow-up (P = .001); however, no significant differences were found between the groups at the 5-year follow-up (WOSI: P = .38; ASES: P = .72). There were no significant differences in ROM within or between groups. The degree of external rotation was similar in both groups (rotation at the side: OBICS P = .82, IABR P = .91; at 90\u00b0 abduction: OBICS P = .68, IABR P = .43). RTS rates were also comparable, with 80% of OBICS patients and 82.5% of IABR patients returning to their preinjury level (P = .69) and 17.5% (OBICS) and 15% (IABR) returning to a lower level (P = .47). CONCLUSIONS: Compared with IABR, OBICS resulted in a significantly lower recurrence rate. The functional scores and the ROM and RTS outcomes were comparable between the groups. We highly recommend OBICS for collision athletes with FEADs.",
-      "pub_types": [
-        "Journal Article",
-        "Comparative Study"
-      ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/40975204/",
-      "score": 82,
-      "score_reasoning": "Prospective comparative study in JSES of collision athletes after first-time shoulder dislocation comparing arthroscopic vs open Bankart repair with excellent 5-year follow-up and high sports medicine relevance.",
-      "bullets": [
-        "In collision athletes under 30 with first-time anterior shoulder dislocation, open Bankart repair with capsular shift had 2.5% recurrence versus 17.5% with arthroscopic repair at 5 years.",
-        "Both surgical approaches produced similar functional scores, range of motion, and return to sport rates (around 80% returned to preinjury level).",
-        "Open repair provides better stability without compromising motion or function in young collision athletes after first dislocation."
-      ]
-    },
-    {
-      "pmid": "41072715",
-      "title": "Surgical and patient factors associated with baseplate failures after reverse shoulder arthroplasty: a study by the ASES Complications of RSA Multicenter Research Group.",
-      "authors": [
-        "Bowler A",
-        "Glass EA",
-        "Corban J",
-        "Diestel DR",
-        "McDonald-Stahl M",
-        "Stevens CS",
-        "Arnold RP",
-        "Sahi H",
-        "Puzzitiello R",
-        "Swanson DP",
-        "Moverman MA",
-        "Lohre R",
-        "Mahendraraj KA",
-        "Le K",
-        "Dunn WR",
-        "Cannon DJ",
-        "Carlson H",
-        "Chabot PJ",
-        "Cogan C",
-        "Colatruglio MR",
-        "Friedman LG",
-        "Gaudette JA",
-        "Green J",
-        "Grobaty L",
-        "Gutman M",
-        "Ho JC",
-        "Hones K",
-        "Kahsai E",
-        "Kakalecik J",
-        "Kirkham M",
-        "Kloby MA",
-        "Konrade EN",
-        "Knack MC",
-        "LaMonica T",
-        "Loveland A",
-        "Mathew JI",
-        "Merrill E",
-        "Mousad AD",
-        "Myhre L",
-        "Nahr A",
-        "Nyfeler J",
-        "Parsell DE",
-        "Patel M",
-        "Pazik M",
-        "Polisetty TS",
-        "Ponnuru P",
-        "Scanaliato J",
-        "Shen A",
-        "Smith KM",
-        "Sprengel KA",
-        "Thakar O",
-        "Turnbull L",
-        "Vaughan A",
-        "Wheelwright JC",
-        "Whitson A",
-        "Williams AB",
-        "Williams T",
-        "Abboud J",
-        "Armstrong A",
-        "Austin L",
-        "Brolin T",
-        "Entezari V",
-        "Garrigues GE",
-        "Grawe B",
-        "Gulotta LV",
-        "Hobgood R",
-        "Horneff JG",
-        "Iannotti J",
-        "Hsu JE",
-        "Khazzam M",
-        "King JJ",
-        "Kirsch JM",
-        "Levy JC",
-        "Murthi A",
-        "Namdari S",
-        "Nicholson GP",
-        "Otto RJ",
-        "Ricchetti ET",
-        "Tashjian RZ",
-        "Throckmorton T",
-        "Wright T",
-        "Jawa A"
-      ],
-      "authors_short": "Bowler A, Glass EA, et al.",
-      "journal": "Journal of shoulder and elbow surgery",
-      "journal_abbrev": "J Shoulder Elbow Surg",
-      "year": "2026",
-      "abstract": "BACKGROUND: Baseplate failure is a rare but serious complication following reverse shoulder arthroplasty (rTSA), often leading to poor outcomes and revision surgery. Existing studies are limited by small samples or single-center designs. This multicenter study aimed to identify surgical, implant, and patient-related risk factors for baseplate failure after rTSA. METHODS: A multicenter, retrospective study was conducted across 15 U S. institutions involving 24 ASES surgeons. Patients who underwent rTSA from June 2013 to May 2019 with a minimum 3-month follow-up were included. Study parameters were established using the Delphi method. Patients with confirmed baseplate failure were compared to those without using univariate and multivariable logistic regression analyses. Failure was defined radiographically as gross baseplate shift or hardware breakage. RESULTS: Among 5,049 cases, 83 (1.6%) experienced baseplate failure at a median of 72 weeks post-surgery. Most failures (76%) were atraumatic; 12% were traumatic, and 12% had an unknown mechanism. Radiographs showed hardware breakage in 68.7% of the failures-33.3% involved central screw/post fractures and 86.0% involved peripheral screw fractures. Baseplate shift occurred in 78.3% of cases. Independent predictors of failure included revision arthroplasty (OR = 4.57; P < .001), use of bone graft (OR = 2.81; P < .001), and total glenoid-sided lateral offset (OR = 1.08; P = .002). Central screw fixation reduced failure risk (OR = 0.55; P = .014). In primary rTSA, bone grafting (OR = 4.42; P < .001) and lateral offset (OR = 1.07; P = .046) were significant predictors. In revision rTSA, only bone grafting remained significant (OR = 3.75; P < .001). Allograft use led to higher failure rates than autograft (14.7% vs 3.9%; P = .001). CONCLUSION: Revision surgery, bone grafting (especially allografts), and increased lateral offset were significantly associated with higher odds of baseplate failure after rTSA. Central screw fixation appears protective. Most failures were atraumatic, underscoring the importance of achieving stable bone ingrowth. These findings may inform surgical planning and patient counseling regarding factors associated with increased failure risk.",
-      "pub_types": [
-        "Journal Article",
-        "Multicenter Study"
-      ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41072715/",
-      "score": 79,
-      "score_reasoning": "Multicenter study identifying risk factors for baseplate failure in reverse TSA with large sample size (5,049 cases) and high clinical applicability for complication prevention.",
-      "bullets": [
-        "Baseplate failure occurs in 1.6% of reverse shoulder arthroplasties, with most failures happening atraumatically at a median of 72 weeks after surgery.",
-        "Revision surgery, bone grafting (especially allograft), and increased lateral offset significantly increase baseplate failure risk, while central screw fixation is protective.",
-        "Among bone graft types, allograft carries higher failure rates than autograft (14.7% versus 3.9%) in reverse shoulder arthroplasty patients."
-      ]
-    },
-    {
-      "pmid": "40975210",
-      "title": "The effect of pretreatment of the pilosebaceous unit on Cutibacterium acnes burden during shoulder arthroplasty: a randomized controlled trial.",
-      "authors": [
-        "Hutchinson ID",
-        "Posner AD",
-        "Mathew JI",
-        "Zanaros GS",
-        "Das S",
-        "Dines DM",
-        "Dines JS",
-        "Fu MC",
-        "Taylor SA",
-        "Zimmerman JP",
-        "Gulotta LV"
-      ],
-      "authors_short": "Hutchinson ID, Posner AD, et al.",
-      "journal": "Journal of shoulder and elbow surgery",
-      "journal_abbrev": "J Shoulder Elbow Surg",
-      "year": "2026",
-      "abstract": "BACKGROUND: Cutibacterium acnes (C. acnes) is the most common pathogen associated with prosthetic shoulder infection and can be cultured from the surgical field, with a reservoir is in the pilosebaceous unit. Benzoyl peroxide (BPO) and blue-light phototherapy (BLT) are commonly used to target the pilosebaceous reservoir of C. acnes in the treatment of acne vulgaris. The aim of this study is to evaluate the effect of targeted pretreatment of pilosebaceous unit on C. acnes culture positivity within the surgical field during shoulder arthroplasty. We tested two hypotheses: 1) combination therapy is required to decrease overall C. acnes burden and 2) superficial culture positivity on the approach is associated with deep culture positivity, collected before closure. METHODS: A prospective, multicenter, randomized controlled trial was initiated across two sites and three shoulder arthroplasty study arms were recruited: 1) control: standard preparation; 2) BPO group: 2 days of 10% BPO wash preparation in the shower prior to surgery; and 3) BPO and BLT: 2 days of BPO washes with 3 preoperative treatments of blue spectrum phototherapy daily. Two specimens were taken at the surgical approach (full thickness incisional skin biopsy and superficial dermal swab) and a deep glenohumeral swab was taken prior to closure. RESULTS: Following an a priori analysis, 122 patients were enrolled in the study, (41 controls, 41 BPO, and 40 BPO/BLT). No adverse side effects were reported. Demographic characteristics did not differ between treatment groups. Overall culture positivity was decreased in the BPO/BLT group compared to the control (13.3% vs. 26.8%, P = 0.026), odds ratio 0.420, 95% confidence interval [0.217, 0.812], P < 0.001. There was no difference between intervention groups: BPO/BLT and BPO (13.3% vs. 16.5%, P > 0.999). Superficial culture positivity on the approach (full-thickness biopsy and superficial swab) was associated with deep culture positivity at closure (P < 0.001). Otherwise, overall culture positivity was associated with male sex (P < 0.001), increasing height (P < 0.001), and decreased body mass index (P = 0.0235). CONCLUSION: Targeted pretreatment of the pilosebaceous unit with combination BPO wash and BLT decreased C. acnes culture positivity within the surgical field. Positive superficial cultures on the approach were associated with positive deep cultures collected before closure. Ultimately, it is hoped that a decrease in C. acnes burden in the surgical field will positively impact the incidence of shoulder prosthetic joint infection.",
-      "pub_types": [
-        "Journal Article",
-        "Randomized Controlled Trial",
-        "Multicenter Study"
-      ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/40975210/",
-      "score": 76,
-      "score_reasoning": "Multicenter RCT evaluating pretreatment strategies for C. acnes reduction in shoulder arthroplasty, addressing a clinically relevant infection prevention concern.",
-      "bullets": [
-        "Preoperative benzoyl peroxide wash plus blue light therapy reduced C. acnes culture positivity from 27% to 13% in shoulder arthroplasty patients.",
-        "Positive superficial cultures at the surgical approach predicted positive deep cultures before closure, suggesting surface contamination spreads to deeper tissues.",
-        "Male patients with greater height and lower BMI had higher rates of C. acnes contamination during shoulder arthroplasty."
-      ]
-    }
-  ],
-  "second_slot_candidates": [
-    {
-      "pmid": "41379072",
-      "title": "Comparison of 2 Different Cast Configurations for Ponseti Cast: A Randomized Controlled Study.",
-      "authors": [
-        "Sachdeva K",
-        "Agarwal A",
-        "Garg V",
-        "Iqbal MZ",
-        "Bhalla S"
-      ],
-      "authors_short": "Sachdeva K, Agarwal A, et al.",
+      "authors_short": "Halpern LM, Zhang DA, et al.",
       "journal": "Journal of pediatric orthopedics",
       "journal_abbrev": "J Pediatr Orthop",
       "year": "2026",
-      "abstract": "PURPOSE: Different cast configurations are available in the literature for the application of the Ponseti cast. To dispel the ambiguity and generate better evidence, we tested 2 cast configurations (standard vs. reinforced) for their effectiveness in terms of retained ankle dorsiflexion and overall cast integrity. METHODS: We randomized the 2 limbs of a child with bilateral idiopathic clubfeet (n=30 children) to receive a weight-matched standard cast (circular rolls only) or a reinforced cast (additional knee and plantar slabs). The post tenotomy cast was chosen as the index cast for the research purpose. Evaluations included clinical ankle dorsiflexion, immediate post tenotomy, and at the time of cast removal. Any cast breakages were also noted. RESULTS: The mean child's age was 3.5 months. The mean ankle dorsiflexion achieved immediately post tenotomy in either cast configuration was identical (15.5 degrees). At follow-up, 9 children presented with broken casts, 2 bilaterally. Overall, 9 standard (30%) and 2 reinforced (7%) casts were broken. For the broken casts, the ankle dorsiflexion was lost significantly. On intergroup comparisons, the reinforced casted limbs retained the ankle dorsiflexion significantly better ( P =0.008) compared with the standard configuration. CONCLUSIONS: The reinforced cast configuration retained the ankle dorsiflexion much better than the standard cast. Frequent breakages were also noted with the standard cast.",
+      "abstract": "BACKGROUND: There is conflicting evidence for the optimal method of analgesia following posterior spinal fusion for adolescent idiopathic scoliosis. The primary objective of this study is to test which method of postoperative analgesia (continuous epidural, spinal opioids, or patient-controlled analgesia) is associated with reduced opioid requirements, pain scores, complications, and length of stay. METHODS: This is a retrospective, multicenter study of the Shriners Children's International Pediatric Spine Database. Patients ages 13 to 19 years who had posterior spinal fusion with segmental spinal instrumentation for adolescent idiopathic scoliosis between January 01, 2011, and November 5, 2021, were eligible. Patients were divided into 3 cohorts based on the primary method of postoperative analgesia: continuous epidural (EPI), spinal opioid (SPI), or patient-controlled analgesia (PCA). We compared total parenteral and oral opioid usage, verbal numeric pain scores, complications, and the length of stay. RESULTS: A total of 2371 patients from 13 hospitals were included in the study. Total parenteral and oral opioid usage in the spinal and epidural groups was significantly lower compared with the patient-controlled analgesia group [OME/kg: SPI 1.7 (95% CI: 1.1-2.5) vs. EPI 1.9 (95% CI: 1.1-3.2) vs. PCA 4.1 (95% CI: 3.4-4.8): P<0.002]. There were no clinically significant differences in mean daily pain scores, complications, or length of stay. CONCLUSIONS: Spinal opioid and continuous epidural analgesia decrease parenteral and oral opioid requirements compared with patient-controlled analgesia. The increased opioid usage in the patient-controlled analgesia group does not lead to clinically significant differences in pain scores, complications or length of stay. We conclude that all 3 methods of analgesia provide safe and effective pain relief. This study reinforces the need for collaboration between pediatric orthopaedic surgeons and anesthesiologists to effectively manage postoperative pain following posterior spinal fusion for adolescent idiopathic scoliosis. LEVEL OF EVIDENCE: Level III-therapeutic study.",
       "pub_types": [
-        "Journal Article",
-        "Randomized Controlled Trial",
-        "Comparative Study"
+        "Journal Article"
       ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41379072/",
-      "score": 82,
-      "score_reasoning": "High-quality RCT with direct clinical applicability to clubfoot treatment, published in a respected journal with clear practical implications for cast configuration choice.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41884952/",
+      "score": 85,
+      "score_reasoning": "Large multicenter retrospective study (2371 patients) directly comparing pain management methods for adolescent scoliosis surgery with clear clinical applicability for practicing spine surgeons.",
       "bullets": [
-        "In 30 children with bilateral clubfoot, reinforced casts (with knee and plantar slabs) maintained ankle dorsiflexion better than standard circular casts after tenotomy.",
-        "Standard casts broke in 30% of cases versus only 7% for reinforced casts, with broken casts losing significant dorsiflexion correction.",
-        "Reinforced cast configuration should be considered for post-tenotomy Ponseti casting to reduce cast breakage and maintain correction."
+        "Spinal opioids and epidural analgesia reduced total opioid use by more than half compared to PCA in 2,371 adolescents undergoing posterior spinal fusion for scoliosis.",
+        "Despite higher opioid consumption with PCA, pain scores, complications, and length of stay were similar across all three analgesic methods.",
+        "All three pain control methods (epidural, spinal opioids, PCA) provide safe and effective analgesia for adolescent scoliosis surgery patients."
       ]
     },
     {
-      "pmid": "41134209",
-      "title": "The Modified Posteromedial Approach for Posterior Malleolar Fractures: Report of Soft Tissue Complications After Ten Years of Experience.",
+      "pmid": "41884750",
+      "title": "Antiresorptive Therapy and Revision Risk After Primary Total Knee Arthroplasty: A Systematic Review and Meta-Analysis.",
       "authors": [
-        "Bru\u00e9 J",
-        "Acker A",
-        "Pierobon F",
-        "Drittenbass L",
-        "Dubois-Ferriere V",
-        "Assal M"
+        "Huffman AB",
+        "Burbelo A",
+        "Stone W",
+        "Darbandi A",
+        "Cleary L",
+        "Vadapalli RC",
+        "Bullock M"
       ],
-      "authors_short": "Bru\u00e9 J, Acker A, et al.",
-      "journal": "Journal of orthopaedic trauma",
-      "journal_abbrev": "J Orthop Trauma",
+      "authors_short": "Huffman AB, Burbelo A, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
       "year": "2026",
-      "abstract": "OBJECTIVES: To evaluate soft tissue complications and the incidence of neurovascular bundle (NVB) injury following the modified posteromedial approach (moPMA) for posterior malleolar (PM) fractures, and to describe its indications in clinical practice. DESIGN: Retrospective, observational case-series study. SETTING: Single center with a dedicated foot and ankle trauma unit. PATIENT SELECTION CRITERIA: Consecutive adult patients who underwent open reduction and internal fixation (ORIF) of PM fractures (AO/OTA 44 or 43) using the moPMA between 2014 and 2024. Exclusion criteria were open or pathological fractures, prior surgery at other institutions, or incomplete clinical records. OUTCOME MEASURES: Primary outcomes were incidence of soft tissue complications and NVB injuries, graded according to the modified Clavien-Dindo classification for foot and ankle surgery. Secondary outcomes included fracture classification according to AO/OTA and Barton\u00ed\u010dek-Rammelt, associated procedures and approaches, surgical staging, fixation type, follow-up, and use of intraoperative imaging. RESULTS: The mean age was 47 years (range 18-83 years), there were 14 male and 40 female patients. The mean time from injury to surgery was 5.9 days. According to the Barton\u00ed\u010dek-Rammelt classification, 51.9% were type C, 31.5% type B, and 14.8% type D. Most cases (77.8%) were AO/OTA 44B3. The moPMA was used in the first surgical stage in 77.8% of cases. A second approach was required in 90.7%, most commonly for fibular fixation through a lateral approach (70.4%). Associated procedures were performed in 92.6%, with fibular osteosynthesis being the most frequent (66.7%). Fixation was plate-based in 92.5%. The mean follow-up was 63.1 \u00b1 31.4 months. Hardware removal of the posterior fixation was performed in 37.1%. Soft tissue complications occurred in 4 patients (7.4%), all classified as grade IA. No NVB injuries or tibialis posterior tendon contractures were reported. CONCLUSIONS: The modified posteromedial approach for fixation of posterior malleolar fractures demonstrated low complication rates and no neurovascular injuries, supporting its use in a wide range of posterior malleolar fractures. LEVEL OF EVIDENCE: Therapeutic Level IV. See Instructions for Authors for a complete description of levels of evidence.",
+      "abstract": "BACKGROUND: This systematic review evaluates whether the use of bisphosphonates or denosumab influences the rate of revision and aseptic loosening after primary total knee arthroplasty (TKA). Additionally, the effects of antiresorptive therapy on periprosthetic fracture risk, bone mineral density (BMD) loss, and migration after TKA were evaluated, along with the potential adverse effects associated with these therapies. METHODS: A systematic review and meta-analysis were conducted using PubMed, Cochrane Library databases, and gray literature between January 2009 and July 2025 to identify studies evaluating bisphosphonate or denosumab use after primary TKA. RESULTS: After screening 253 results, 12 studies encompassing 426,920 patients met the inclusion criteria, with 4 studies eligible for meta-analysis. There were 7 randomized controlled trials) and 5 prospective/retrospective cohort studies; meta-analytic estimates were derived exclusively from registry-based cohorts. Bisphosphonate use was associated with a significantly lower rate of all-cause revision (1.37% vs 2.71%; P = .0046, confidence interval: 0.255-0.779, odds ratio = 0.446), although heterogeneity was substantial (P < .0001, I 2 = 95.5%). No significant protective effect was observed for aseptic loosening, periprosthetic fracture, or BMD beyond 12 months. In assessments of component maximum total point motion, denosumab demonstrated reduced early implant migration (P = .01 and P = .048), with no survivorship outcomes reported. CONCLUSIONS: Bisphosphonate therapy after TKA is associated with a lower risk of all-cause revision; however, the certainty of evidence is low, and the findings are limited by substantial heterogeneity. No consistent benefit was observed for aseptic loosening, periprosthetic fracture, or long-term BMD preservation.",
       "pub_types": [
-        "Journal Article",
-        "Observational Study"
+        "Journal Article"
       ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41134209/",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41884750/",
+      "score": 82,
+      "score_reasoning": "High-quality systematic review and meta-analysis of 426,920 patients examining clinically relevant outcomes of antiresorptive therapy after total knee arthroplasty with direct practice implications.",
+      "bullets": [
+        "Bisphosphonate use after primary total knee arthroplasty reduces all-cause revision rates from 2.71% to 1.37% based on registry data from 426,920 patients.",
+        "Bisphosphonates showed no protective effect against aseptic loosening, periprosthetic fractures, or bone mineral density loss beyond 12 months after total knee arthroplasty.",
+        "Denosumab reduces early implant migration after total knee arthroplasty but lacks data on long-term revision outcomes."
+      ]
+    },
+    {
+      "pmid": "41884888",
+      "title": "Age at Fusion of Ischiopubic Synchondrosis Is a Predictor for Residual Acetabular Dysplasia After Closed Reduction for Developmental Dysplasia of the Hip.",
+      "authors": [
+        "Liao W",
+        "Ma Y",
+        "Yang H",
+        "Zhang T",
+        "Lyu X"
+      ],
+      "authors_short": "Liao W, Ma Y, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Previous studies have evaluated risk factors of residual acetabular dysplasia (RAD) following closed reduction (CR). However, none of them have focused on the association between the age at fusion of the ischiopubic synchondrosis and RAD. The objective of this study was to determine whether the age at fusion of the ischiopubic synchondrosis was associated with RAD after CR and to evaluate other predictors for RAD. METHODS: We retrospectively reviewed children who underwent closed reduction for developmental dysplasia of the hip (DDH) between 2008 and 2018 and were followed for at least 5 years. Exclusion criteria included inadequate follow-up, a diagnosis of teratologic hip dislocation or the presence of other neuromusculoskeletal diseases, and inadequate radiographs and clinical records. RAD was defined as a Severin classification grade of3 at last follow-up or having undergone a secondary reconstructive surgery. The AP pelvis plain radiograph was used to identify the age at fusion of the ischiopubic synchondrosis, IHDI grade, avascular necrosis (AVN), and to measure the acetabular index (AI). Statistical analysis was performed. RESULTS: A total of 150 children (187 hips) with an average age of 13.6 months (range: 4 to 22\u00a0mo) at closed reduction were included. For an average duration of 7.6\u00b12.1 years (range: 5 to 14\u00a0y) of follow-up, 53 (28.3%) hips were classified in Severin grade 3/4, and 73 (39%) hips underwent a secondary procedure. There was a significant difference in AI pre-CR and post-CR between the non-RAD and RAD groups. Analysis of the groups showed that the RAD group had a higher IHDI grade than the non-RAD group (P<0.01). The incidence of RAD was significantly higher in children with ischiopubic synchondrosis fused younger than 5 years compared with those with ischiopubic synchondrosis fused 5 years and older (82.9% vs. 63.2%, respectively; P=0.02). The mean AI declined after a reduction in both groups, with the greatest fall occurring in the first year. Cutoff values of AI were 30 degrees at 1 year and 27 degrees at 2 to 3 years post-CR. CONCLUSION: In patients with CR of DDH, higher IHDI grade and larger AI pre-CR were associated with increased RAD. Age at fusion of the ischiopubic synchondrosis is a predictor for RAD. The acetabulum continued to remodel for 5 years after CR, suggesting long-term observation to identify acetabular dysplasia.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41884888/",
+      "score": 78,
+      "score_reasoning": "Retrospective study of 187 hips examining predictors for residual acetabular dysplasia after DDH treatment, providing valuable insights for pediatric hip surgery outcomes.",
+      "bullets": [
+        "Children with DDH who have ischiopubic synchondrosis fusion before age 5 have 83% risk of residual acetabular dysplasia after closed reduction compared to 63% in those fusing at age 5 or later.",
+        "Higher IHDI grade and larger pre-reduction acetabular index predict residual dysplasia, with cutoff values of 30 degrees at 1 year and 27 degrees at 2-3 years post-reduction indicating poor remodeling.",
+        "Acetabular remodeling continues for 5 years after closed reduction in DDH patients, requiring long-term follow-up as 39% eventually need secondary reconstructive surgery."
+      ]
+    },
+    {
+      "pmid": "41860573",
+      "title": "Femoral Distraction Osteogenesis in Fibular Hemimelia: Risks and Advantages Using Magnetically Driven Antegrade Intramedullary Lengthening Nails.",
+      "authors": [
+        "Frommer A",
+        "Porokhovnikov I",
+        "Gosheger G",
+        "Vogt B",
+        "Laufer A",
+        "Tretow H",
+        "Roedl R",
+        "Toporowski G"
+      ],
+      "authors_short": "Frommer A, Porokhovnikov I, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Fibular hemimelia (FH) is a rare congenital condition characterized by longitudinal lower limb deficiency with fibular hypoplasia or aplasia commonly associated with femoral and tibial shortening resulting in leg length discrepancy (LLD). Femoral distraction osteogenesis represents a well-established reconstructive approach in patients with LLD exceeding 2 cm. METHODS: Twenty-three patients with FH were treated with antegrade femoral distraction osteogenesis between 2018 and 2021 using magnetically controlled motorized intramedullary lengthening nails (Precice P2 or Stryde, NuVasive/Globus Medical). The primary end points included accuracy, precision, reliability, distraction and consolidation index, and the complication profile. Radiographic and clinical outcomes were assessed over a median follow-up period of 39 (interquartile range [IQR], 26 to 52) months. RESULTS: The median preoperative LLD of 45 (IQR, 39 to 53) mm was reduced to 9 (IQR, 4 to 13) mm (P < 0.001) following a median distraction length of 40 (IQR, 34 to 44) mm. Planned lengthening was achieved with an accuracy of 91% \u00b1 8% and a precision of 91%. The mean distraction index was 0.8 \u00b1 0.2 mm/d, and a consolidation index of 36 \u00b1 15 d/cm. At least one complication was observed in 70% of cases, including transient or persistent knee stiffness (39%) and pain (39%). Unplanned additional surgery related to complications was conducted in 17% of patients and all complications were successfully treated without permanent sequelae. The reliability of the treatment was 96%. No significant correlation was observed between distraction length and complications or revision surgery. CONCLUSION: Femoral distraction osteogenesis using magnetically driven intramedullary lengthening nails represents a precise and reliable treatment for LLD in FH. Despite favorable radiographic outcomes and high distraction accuracy, the notable complication rate underscores the necessity of rigorous patient selection and structured postoperative management.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41860573/",
       "score": 75,
-      "score_reasoning": "Retrospective cohort study addressing important clinical question about operative necessity for pediatric ballistic arthrotomies with good sample size and clear practice implications.",
+      "score_reasoning": "Large multicenter study (23 patients) on magnetically controlled intramedullary lengthening for fibular hemimelia with comprehensive outcome analysis and high clinical relevance.",
       "bullets": [
-        "Modified posteromedial approach for posterior malleolar fractures showed 7.4% soft tissue complication rate with no neurovascular injuries in 54 patients over 10 years.",
-        "Most cases required a second approach for fibular fixation (90.7%), typically through a lateral approach, with plate fixation used in 92.5% of cases.",
-        "Hardware removal of posterior fixation was needed in 37% of patients, but no tibialis posterior tendon contractures occurred."
+        "Magnetic intramedullary lengthening nails reduced leg length discrepancy from 45mm to 9mm in fibular hemimelia patients with 91% accuracy.",
+        "Seventy percent of patients experienced complications, most commonly knee stiffness and pain, with 17% requiring additional surgery.",
+        "All complications resolved without permanent problems, making this a reliable option for leg length discrepancies over 2cm in fibular hemimelia."
       ]
     },
     {
-      "pmid": "40921223",
-      "title": "Residual Hindfoot Valgus Alignment Detected by True Mechanical Axis Is Associated With Poorer Clinical Outcomes After Total Knee Arthroplasty: The Role of Ankle Osteoarthritis.",
+      "pmid": "41853807",
+      "title": "Deviation From AI-Predicted Implant Sizes in Total Hip Arthroplasty Is Associated With Increased Complication Risk.",
       "authors": [
-        "Park HJ",
-        "Jeon Y",
-        "Suh DH",
-        "Moon SR",
-        "Kim JG"
+        "Murphy MP",
+        "Schneider AM",
+        "Killen CJ",
+        "Schmitt DR",
+        "Brown NM"
       ],
-      "authors_short": "Park HJ, Jeon Y, et al.",
-      "journal": "The Journal of arthroplasty",
-      "journal_abbrev": "J Arthroplasty",
+      "authors_short": "Murphy MP, Schneider AM, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
       "year": "2026",
-      "abstract": "BACKGROUND: Lower-limb alignment should be accurately assessed to achieve favorable outcomes after total knee arthroplasty (TKA). Compared to conventional alignment methods, the recently adopted hip-to-calcaneus (HTC) axis better reflects actual weight-bearing alignment by including hindfoot alignment. However, whether discrepancies between two mechanical alignments vary according to ankle osteoarthritis (OA) and whether such discrepancies are clinically meaningful remain unclear. METHODS: Data from 145 knees from 107 patients who underwent primary total knee arthroplasty for knee OA were retrospectively analyzed. Postoperative alignment was assessed using conventional hip-to-talus (HTT) and HTC methods. Patients were grouped by ankle OA and residual hindfoot valgus alignment, defined as more valgus on HTC than HTT. Clinical outcomes were evaluated using Western Ontario and McMaster University Osteoarthritis Index (WOMAC) scores. Logistic regression analyses determined factors associated with residual valgus alignment and clinical outcomes. Sobel tests assessed whether residual valgus alignment mediated the relationship between ankle OA and postoperative clinical outcomes. RESULTS: Patients who have ankle OA were more likely to exhibit residual valgus alignment as measured by the HTC method (odds ratio = 2.59; 95% confidence interval, 1.18 to 5.72; P = 0.018). In multivariate analyses, residual hindfoot valgus alignment (P = 0.030) and older age (P = 0.033) were independently associated with worse postoperative WOMAC scores. However, ankle OA did not impact WOMAC outcomes (P = 0.94). Hindfoot valgus alignment may have a mediating effect, although this was not statistically significant (P = 0.093). CONCLUSIONS: Ankle OA was significantly associated with residual hindfoot valgus alignment based on HTC. Although ankle OA did not directly affect clinical outcomes, residual valgus alignment and older age were independently associated with worse postoperative WOMAC scores.",
+      "abstract": "BACKGROUND: Patient characteristics may predict implant sizes in total hip arthroplasty (THA), but the clinical value and generalizability of such models remain uncertain. This study evaluated the accuracy and relevance of an artificial intelligence (AI)-driven prediction tool for THA sizing in a diverse population. METHODS: We retrospectively reviewed 2410 primary THAs at 2 academic hospitals (2007-2021). Data included patient characteristics, surgical approach, surgeon fellowship training, and complications (periprosthetic femur fracture [PPF], aseptic loosening within 1 year). An AI model predicted femoral stem and acetabular cup sizes using age, sex, height, weight, and race/ethnicity, and these predictions were compared with implanted sizes. In a subset, predictions were compared to traditional radiographic templating. Multivariate analyses assessed associations between size deviation and complications. RESULTS: AI-predicted femoral stems and cups were within one size of implanted components in 72.0% and 77.7% of cases, and within 2 sizes in 91.2% and 94.7%, respectively. Excluding complex cases (dysplasia, avascular necrosis, head collapse, conversion THA) improved accuracy (P < .0001). In subgroup analysis, AI predictions outperformed radiographic templating for stems (mean deviation 0.731 vs 1.179; P < .0001) and cups (0.673 vs 1.071; P = .036). Arthroplasty-trained surgeons implanted components significantly closer to AI-predicted sizes (P < .001). Closer alignment with AI-predicted stem size was associated with reduced aseptic loosening and PPF (P < .0001). CONCLUSIONS: A free AI-assisted prediction tool (Mortho) demonstrated strong accuracy and generalizability for implant sizing in primary THA, particularly in standard cases. Predictions mirrored arthroplasty-trained surgeons' selections and outperformed radiographic templating, supporting patient characteristic-based AI as a valuable adjunct for THA planning.",
       "pub_types": [
         "Journal Article"
       ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/40921223/",
-      "score": 73,
-      "score_reasoning": "Relevant case series with substantial 10-year experience addressing complications of a specific surgical approach for posterior malleolar fractures, directly applicable to foot and ankle practice.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41853807/",
+      "score": 72,
+      "score_reasoning": "Innovative AI-based study of 2410 THAs showing that deviation from predicted implant sizes correlates with complications, offering novel clinical decision-making tool.",
       "bullets": [
-        "Patients with ankle arthritis are 2.6 times more likely to have residual hindfoot valgus alignment after total knee arthroplasty when measured using hip-to-calcaneus axis.",
-        "Residual hindfoot valgus alignment after total knee arthroplasty independently predicts worse WOMAC scores regardless of ankle arthritis status.",
-        "Hip-to-calcaneus alignment assessment may be more clinically relevant than conventional hip-to-talus measurements for predicting total knee arthroplasty outcomes."
+        "AI predicted THA implant sizes within one size of actual implants in 72% of stems and 78% of cups across 2410 cases.",
+        "Deviating from AI predicted implant sizes was associated with higher rates of aseptic loosening and periprosthetic fractures.",
+        "AI predictions were more accurate than traditional radiographic templating and matched choices made by fellowship trained arthroplasty surgeons."
       ]
     },
     {
-      "pmid": "41324303",
-      "title": "How Low is Low? A Normative Study Defining Flexor Hallucis Longus Anatomic Location From Late Childhood Through Adolescence.",
+      "pmid": "41860574",
+      "title": "Improvement in Antimicrobial Stewardship for Orthopaedics Procedures: A NSQIP Quality-Improvement Project.",
       "authors": [
-        "Swanson ME",
-        "Chaclas N",
-        "Patel V",
-        "Sarkar S",
-        "Nguyen J",
-        "Maguire KJ"
+        "Nash A",
+        "Mason M",
+        "Kiesel K",
+        "Vodzak J",
+        "McCann A",
+        "Kestecher B",
+        "Atanda AW",
+        "Berman L",
+        "Shah SA",
+        "Franzone JM"
       ],
-      "authors_short": "Swanson ME, Chaclas N, et al.",
-      "journal": "Journal of pediatric orthopedics",
-      "journal_abbrev": "J Pediatr Orthop",
+      "authors_short": "Nash A, Mason M, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
       "year": "2026",
-      "abstract": "BACKGROUND: The flexor hallucis longus (FHL) muscle and tendon are implicated in pathologies involving the posteromedial ankle-especially if the muscle belly extends distally into the tarsal tunnel. Clinicians often include FHL tenosynovitis and a low-lying FHL muscle belly as contributors to posterior ankle impingement syndrome. We aimed to define the spectrum of normative location and relative position of the FHL muscle belly during late childhood and adolescence. METHODS: A retrospective review was conducted of patients who underwent ankle magnetic resonance imaging (MRI) for pathology unrelated to the posteromedial ankle at a single institution from 2015 to 2023. Demographics (age, sex, race, ethnicity, height, and weight) and imaging indications were collected. FHL musculotendinous junction (MTJ) location was first defined by its distance from the most distal aspect of the posterior tibia (absolute MTJ distance). It was then set relative to the length from the same point on the distal tibia to the point at which FHL tendon dives anteriorly into the tarsal tunnel (relative MTJ distance). Using the axial slice at the mid-talus, the cross-sectional area of the FHL was measured. Descriptive statistics, univariate analyses, and regression were performed. RESULTS: Sixty-eight patients (38 females, aged 8 to 18\u00a0y) underwent 72 ankle MRIs. The mean MTJ distance was 13.5\u00b18.3 millimeters (mm) with 72/79 cases considered \"low-lying\" by current criteria. Simple linear regression demonstrated age as a significant predictor of MTJ distance with FHL muscle belly progressing distally by 1.0\u00a0mm/year with increasing age ( P =0.004). Statistically significant differences in FHL tendon and FHL tendon/muscle belly cross-sectional areas, absolute and relative MTJ distances, MTJ distance/patient height, and MTJ distance/talar height ratios were observed between skeletally immature versus mature subjects. CONCLUSIONS: Our results show an age- and maturation-dependent normative difference in positioning of the FHL MTJ, suggesting that the currently used single cutoff value for \"low-lying\" FHL may not adequately distinguish normal from pathology when used in children and adolescents. LEVEL OF EVIDENCE: Level IV.",
+      "abstract": "INTRODUCTION: Antimicrobial resistance is a notable threat to global health. In an institution-specific report generated through National Surgical Quality-Improvement Pediatric Program (NSQIP-P) for our institution, our orthopaedic surgery department was a high outlier for postoperative antibiotic prophylaxis duration of >24 hours. We describe an initiative to reduce the incidence of postoperative duration of antibiotics of >24 hours for pediatric patients undergoing orthopaedic surgery. METHODS: An interdisciplinary team was formed to identify and monitor interventions for improvement. Patients undergoing orthopaedic surgeries and receiving postoperative intravenous antibiotics were included. First-stage interventions included verbal education for front-line staff to ensure that postoperative antibiotic prescribing did not exceed two doses. Second-stage interventions included a modification that changed the default postoperative antibiotic dose from three to two doses for the three most used orthopaedic admission order sets in the electronic medical record. Patient-level, electronic health record data elements were extracted and presented through a created electronic dashboard to track near-real-time metrics. Surgical site infections were tracked through NSQIP-P database as a balancing measure. RESULTS: A total of 2,546 surgical cases met study criteria: 1,680 and 866 cases in the pre- and post-intervention cohorts, respectively. Cefazolin was the primary postoperative antibiotic prescribed in 95.4% of cases. In the preintervention cohort, <24 hours of postoperative antibiotics was 36.7% compared with 84.7% (48.0% improvement) in the post-second stage intervention cohort. A sampling of postintervention cases demonstrated no notable increase in surgical site infection events compared with matched period sampling of preintervention cases. CONCLUSION: NSQIP-P can be leveraged to improve antibiotic stewardship in pediatric orthopaedic surgical cases. Multidisciplinary collaboration, front-line staff education coupled with electronic medical record order set modification, and near-real-time data tracking for provider feedback resulted in a 48.0% improvement of patients receiving <24 hours of perioperative antibiotics. LEVEL OF EVIDENCE: III.",
       "pub_types": [
         "Journal Article"
       ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41324303/",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41860574/",
+      "score": 70,
+      "score_reasoning": "Quality improvement study using NSQIP data demonstrating successful reduction in prolonged antibiotic use, with direct applicability to antimicrobial stewardship.",
+      "bullets": [
+        "A pediatric orthopaedic department reduced prolonged antibiotic use from 63% to 15% of cases through staff education and changing default order sets from 3 to 2 postoperative doses.",
+        "The intervention applied to 2,546 pediatric orthopaedic surgery cases with cefazolin as the primary antibiotic in 95% of patients.",
+        "Surgical site infection rates remained unchanged despite the 48% reduction in patients receiving antibiotics beyond 24 hours postoperatively."
+      ]
+    },
+    {
+      "pmid": "41799749",
+      "title": "Parkinson's Disease Patients Face Higher 90-Day Readmission, Reoperation, and Infection Risk Following Total Knee Arthroplasty.",
+      "authors": [
+        "Maman D",
+        "Steinfeld Y",
+        "Berkovich Y"
+      ],
+      "authors_short": "Maman D, Steinfeld Y, Berkovich Y",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Parkinson's disease (PD) is an increasingly common comorbidity in patients undergoing total knee arthroplasty (TKA), yet its impact on readmissions remains poorly defined. METHODS: Using the Nationwide Readmissions Database 2020-2022, we identified elective, primary TKA cases. Patients with oncologic diagnoses, COVID-19-related admissions, acute fractures, and contralateral knee arthroplasty were excluded. Only the first readmission within 90 days was analyzed. Propensity score matching (1:1) was performed for demographics, comorbidities, hospital factors, and primary payer. The primary outcome was 90-day readmission. Secondary outcomes included infection-related readmissions, surgical procedures during readmission, readmission length of stay, readmission costs, and in-hospital mortality. RESULTS: After matching, 7286 patients were included (3675 PD vs 3611 non-PD). PD patients had a significantly higher 90-day readmission rate (13.0% vs 7.3%; P < .01). Infection-related readmissions (4.1% vs 2.2%; P < .01) and surgical procedures during readmission (7.5% vs 4.1%; P < .01) were more frequent in PD patients. Readmission length of stay was longer (5.9 vs 4.1 days; P < .01), and readmission costs were higher ($63,023 vs $48,855; P < .01). In-hospital mortality during readmission was also higher in PD patients (0.3% vs 0.1%; P < .01). CONCLUSIONS: PD is associated with a significantly higher risk of 90-day readmission following TKA, with readmissions frequently involving infection-related complications and surgical intervention. These findings highlight the importance of tailored perioperative care and enhanced postdischarge monitoring in this vulnerable population. LEVELS OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41799749/",
       "score": 68,
-      "score_reasoning": "Retrospective study of rare condition with reasonable sample size and long follow-up, moderately relevant to foot and ankle specialists treating pediatric congenital conditions.",
+      "score_reasoning": "Large database study (7286 patients) demonstrating significantly higher readmission and complication rates in Parkinson's patients after TKA with important clinical implications.",
       "bullets": [
-        "The flexor hallucis longus muscle belly moves 1 mm distally per year during growth in children and adolescents aged 8 to 18 years.",
-        "Current adult criteria classify 72 of 79 pediatric ankles as having low-lying flexor hallucis longus, suggesting these criteria are inappropriate for children.",
-        "Age-specific normative values are needed when evaluating flexor hallucis longus position in pediatric patients with posterior ankle impingement."
+        "Parkinson's patients have nearly double the 90-day readmission rate after TKA compared to matched controls (13.0% vs 7.3%).",
+        "Infection-related readmissions and need for surgical procedures during readmission are both significantly higher in Parkinson's patients.",
+        "Readmissions in Parkinson's patients cost more, last longer, and carry higher mortality risk than in patients without the disease."
       ]
     },
     {
-      "pmid": "41481822",
-      "title": "Lower Extremity Above Ankle Fractures Are Associated With Significantly Lower Serum 25-Hydroxyvitamin D Levels and Lower Vitamin D Sufficiency Compared to Upper Extremity and Ankle/Foot Fractures.",
+      "pmid": "41853805",
+      "title": "A Novel Preoperative Calculator for 90-Day Prosthetic Joint Infection Following Total Joint Arthroplasty Based off the Michigan Arthroplasty Registry Collaborative Quality Initiative Database.",
       "authors": [
-        "Kim S",
-        "Zotter SF",
-        "Guzm\u00e1n SH",
-        "Connolly M",
-        "Culata CJ",
-        "Schillinger A"
+        "Gerow D",
+        "Zheng H",
+        "Hughes RE",
+        "Hallstrom B",
+        "Johnson K"
       ],
-      "authors_short": "Kim S, Zotter SF, et al.",
-      "journal": "Journal of pediatric orthopedics",
-      "journal_abbrev": "J Pediatr Orthop",
+      "authors_short": "Gerow D, Zheng H, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
       "year": "2026",
-      "abstract": "BACKGROUND: Studies on the effect of low serum 25-hydroxyvitamin D level (25OH vit D) on the fracture risk in pediatric patients have had inconsistent results when comparing patients with fractures to healthy controls and patients with upper to lower extremity fractures. Some studies reported that low 25OH vit D was associated with operative treatment of fractures. We decided to compare 25OH vit D between different fracture sites and between fractures treated operatively and nonoperatively. Our primary null hypothesis was that there would not be any differences in 25OH vit D between different sites of fracture. Secondary null hypothesis was that there would be no difference in 25OH vit D between operative and non-operative treatment subgroups. METHODS: After IRB approval, we prospectively enrolled pediatric patients with fractures and ordered the lab test for 25OH vit D between October 2021 and April 2025. Inclusion criteria were ages 3 to 18 and upper or lower extremity fractures; exclusion criteria were pathologic fracture, vertebral or pelvic fracture, or patients with metabolic and neuromuscular disorders. Eligible patients were divided into upper extremity (UE), lower extremity above ankle (LEAA), and ankle/foot (AF) fracture groups. RESULTS: The 25OH vit D in the LEAA group (18.9\u00a0ng/mL, n=52) was significantly lower than that in the UE group (25.7\u00a0ng/mL, n=64, P <.0001) and that in the AF group (23.7\u00a0ng/mL, n=40, P =.0033). Defining vitamin D deficiency as 25OH vit D <20\u00a0ng/mL and sufficiency as \u2265 30\u00a0ng/mL, the percentage of patients with vitamin D deficiency in LEAA group (58%) was significantly greater than that in the UE (30%) and in the AF (30%) groups. The percentage of patients with 25OH vit D sufficiency in the LEAA group (8%) was significantly less than that in the UE (31%) and in the AF (23%) groups. The overall operative treatment subgroup 25OH vit D (21.4\u00a0ng/mL, n=87) was lower than that of the non-operative treatment subgroup (24.7\u00a0ng/mL, n=69, P =.02). However, within each group, LEAA, UE, and AF, 25OH vit D in the operative and nonoperative treatment subgroups were not significantly different. CONCLUSIONS: In our study, lower extremity above ankle fractures had significantly lower 25OH vit D, higher incidence of vitamin D deficiency, and lower incidence of vitamin D sufficiency compared with upper extremity or ankle/foot fractures. Comparing operative and non-operative treatment subgroups, 25OH vit D was lower in the overall operative treatment subgroup but within each group, UE, LEAA, and AF, no significant differences were found between the subgroups. One possible explanation for the discrepancy was that a greater percentage of upper extremity fractures with the higher 25OH vit D was treated nonoperatively (58% = 37/64) and a greater percentage of LEAA fractures with the lower 25OH vit D was treated operatively (81%=42/52). Further studies to confirm these findings and to study associations of vitamin D levels with sites of fracture and treatment methods are needed. Our finding that vitamin D deficiency is in \u226530% of pediatric patients with upper and lower extremity fractures would support the recommendation made by other authors to test 25OH vit D in all pediatric fracture patients. LEVEL OF EVIDENCE: Diagnostic level II-development of diagnostic criteria on basis of consecutive patients.",
+      "abstract": "BACKGROUND: Total joint arthroplasty has become one of the most successful surgeries in regard to quality of life and cost-effectiveness. Periprosthetic joint infections can have catastrophic effects on a patient's surgical outcome, quality of life, and function. Shared decision-making can help patients reduce their risk by changing modifiable risk factors. METHODS: Logistic regression was used to construct an infection risk prediction model for primary total joint arthroplasty of hips and knees using data from the Michigan Arthroplasty Registry Collaborative Quality Initiative dataset, which included 140,884 total knee arthroplasties and 82,110 total hip arthroplasties. The resulting model was deployed using a web-based interface that allows surgeons to counsel their patients in the clinic by showing them in real time how adjusting modifiable risk factors will affect their overall risk of infection. RESULTS: To our knowledge, this study is novel in finding preoperative opioid use and use of assistive devices to be correlated with infection after primary total knee arthroplasties and total hip arthroplasties. Modifiable risk factors that were found to significantly affect risk included body mass index, smoking, and preop narcotic use. Nonmodifiable risk factors included sex assigned at birth, marital status, race, type of payer, preoperative use of assistive devices, and annual surgeon volume <100 cases per year. CONCLUSIONS: While some of these risk factors are nonmodifiable, others can be addressed and optimized prior to surgery. Surgeons must be equipped with infection risk information to accurately counsel patients preoperatively, while also using data to drive patient selection.",
       "pub_types": [
-        "Journal Article",
-        "Comparative Study"
+        "Journal Article"
       ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41481822/",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41853805/",
       "score": 65,
-      "score_reasoning": "Prospective study with good methodology but limited direct foot and ankle relevance, focusing on pediatric vitamin D levels across different fracture sites.",
+      "score_reasoning": "Novel preoperative infection risk calculator based on large registry data (222,994 patients) providing valuable shared decision-making tool for arthroplasty surgeons.",
       "bullets": [
-        "Children with lower extremity fractures above the ankle have significantly lower vitamin D levels (18.9 ng/mL) compared to upper extremity (25.7 ng/mL) or ankle/foot fractures (23.7 ng/mL).",
-        "Vitamin D deficiency affects 58% of children with lower extremity above ankle fractures versus only 30% with upper extremity or ankle/foot fractures.",
-        "At least 30% of all pediatric fracture patients have vitamin D deficiency, supporting routine vitamin D testing in this population."
+        "Researchers developed a preoperative calculator using 223,000 hip and knee replacements that predicts 90-day infection risk for individual patients.",
+        "Modifiable infection risk factors include high BMI, smoking, and preoperative opioid use, while preoperative assistive device use was a newly identified non-modifiable risk factor.",
+        "The web-based tool allows surgeons to show patients in real time how weight loss or smoking cessation would reduce their specific infection risk."
+      ]
+    },
+    {
+      "pmid": "41860575",
+      "title": "Critical Analysis of Pediatric Orthopaedic Surgery Medical Malpractice Litigation: A Nationwide Retrospective Review.",
+      "authors": [
+        "Arif HA",
+        "Devkumar D",
+        "Pyle A",
+        "Moore ST",
+        "Williams KA",
+        "Conklin MJ",
+        "Ghomrawi HK",
+        "Gilbert SR"
+      ],
+      "authors_short": "Arif HA, Devkumar D, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "PURPOSE: The primary aim of this study was to identify and characterize medical malpractice lawsuits pertaining to pediatric orthopaedic surgery. METHODS: The Westlaw research database was queried for all jury verdicts and settlements pertaining to pediatric orthopaedic medical malpractice from 1980 to 2024. Cases were only included if the primary basis of litigation rested on a malpractice claim related to pediatric orthopaedic surgery and were levied against an orthopaedic surgeon. Data collected included date and state of case filing, patient (plaintiff) and surgeon (defendant) demographics, jury verdict, monetary awards, alleged negligence, and patient complications. RESULTS: Of 5,031 cases screened for inclusion, a total of 100 cases met the inclusion and exclusion criteria and were subsequently included in the final analysis. Plaintiff favorable outcomes were more commonly seen than a defendant verdict (56% vs. 44%). Patients most commonly presented for fracture management (62%), and most commonly underwent casting (30%). Alleged failure to diagnose was the most frequent basis of litigation (30%) and was predictive of a plaintiff outcome. The most frequent complication was the presence of permanent deformity (22%). A pediatric orthopaedic surgeon was the primary defendant in 59% of cases and was more commonly named following closed reduction and percutaneous pinning. Adult orthopaedic surgeons (41%) were more commonly named following fracture casting. CONCLUSION: The majority of medical malpractice cases in pediatric orthopaedic surgery result in plaintiff-favorable outcomes. Pediatric orthopaedic medical malpractice cases most often arise in the setting of fracture care and allegations of missed diagnoses. Patients pursuing litigation most frequently sustain permanent deformity as a result of the alleged negligence. Both pediatric and adult orthopaedic surgeons primarily face litigation following call-related fracture cases.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41860575/",
+      "score": 63,
+      "score_reasoning": "Comprehensive analysis of pediatric orthopaedic malpractice litigation (100 cases) providing valuable risk management insights for practicing surgeons.",
+      "bullets": [
+        "Pediatric orthopaedic malpractice cases favor plaintiffs 56% of the time, with fracture care accounting for 62% of all lawsuits.",
+        "Failure to diagnose is the most common allegation (30%) and predicts plaintiff victory, while permanent deformity is the most frequent complication (22%).",
+        "Pediatric orthopaedic surgeons face more lawsuits after closed reduction and pinning, while adult orthopaedic surgeons are sued more often after casting."
+      ]
+    },
+    {
+      "pmid": "41853803",
+      "title": "Weight Loss in Primary Total Hip and Knee Arthroplasty: A Comparative Study of Glucagon-Like Peptide-1 Receptor Agonists and Bariatric Surgery.",
+      "authors": [
+        "Ledford CK",
+        "Mika AP",
+        "Lopez RJ",
+        "Spencer-Gardner LS",
+        "Hannon CP",
+        "Clarke HD",
+        "Abdel MP",
+        "Springer BD"
+      ],
+      "authors_short": "Ledford CK, Mika AP, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Our study evaluated 90-day outcomes of patients treated preoperatively with glucagon-like peptide-1 receptor agonists (GLP-1) or bariatric surgery compared to no weight loss intervention prior to total hip arthroplasty (THA) and total knee arthroplasty (TKA). METHODS: A multicenter institutional cohort of patients undergoing primary THA (n = 5710) and TKA (n = 6770) from 2023 to 2024 was identified. Preoperative weight-loss strategies included no intervention (89%), perioperative use of GLP-1 (10%), or prior bariatric surgery (1%). Ninety-day readmissions and reoperations were compared among groups. Subanalyses were performed stratifying obesity (body mass index) classification and diabetes mellitus status vs others to contextualize these independent risk factors. RESULTS: Among all patients undergoing THA and TKA, those who had undergone bariatric surgery experienced significantly higher reoperation rates at 90 days compared to those without intervention and GLP-1 groups (2.2 vs 0.5 vs 0.8%, respectively; P = .014). For THA, both the no intervention and GLP-1 groups had significantly lower readmission rates compared to the bariatric surgery group (4.4 vs 6.5 vs 8.8%, respectively; P = .04) and lower reoperation rates (0.4 vs 1.4 vs 2.2%; P = .006). For TKA, there were no significant differences in readmission (P \u2265  .47) or reoperation rates (P \u2265 .067) among the groups or by body mass index class and diabetes mellitus status. CONCLUSIONS: Compared to no weight loss intervention, patients utilizing perioperative GLP-1s demonstrated similar 90-day readmission and reoperation rates after primary THA and TKA. Those with prior bariatric surgery showed the greatest risk of readmission and reoperation, particularly after THA. LEVEL OF EVIDENCE: IV, Retrospective Review.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41853803/",
+      "score": 62,
+      "score_reasoning": "Study comparing GLP-1 agonists and bariatric surgery outcomes before arthroplasty (12,480 patients) addressing timely clinical question with practical implications.",
+      "bullets": [
+        "Patients using GLP-1 medications before hip or knee replacement had similar 90-day complication rates compared to those with no weight loss intervention.",
+        "Prior bariatric surgery patients had higher reoperation rates at 90 days (2.2%) compared to GLP-1 users (0.8%) and controls (0.5%).",
+        "Hip replacement patients with prior bariatric surgery had particularly high readmission rates (8.8%) compared to GLP-1 users (6.5%) and controls (4.4%)."
       ]
     }
   ],
-  "selected_subspecialty_index": 0,
-  "selected_second_index": 0,
+  "picks": [
+    0,
+    1
+  ],
   "status": "pending_approval"
 }
