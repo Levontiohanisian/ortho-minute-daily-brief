@@ -36,15 +36,15 @@ def main():
     with open(data_path) as f:
         data = json.load(f)
 
-    subspecialty = data["subspecialty"]
-    arthroplasty_slot = data["arthroplasty_slot"]
-    subspec_candidates = data["subspecialty_candidates"]
-    arthro_candidates = data["arthroplasty_candidates"]
+    slot1_name = data["subspecialty"]
+    slot2_name = data["second_slot"]
+    slot1_candidates = data["subspecialty_candidates"]
+    slot2_candidates = data["second_slot_candidates"]
 
-    print(f"Subspecialty: {subspecialty}")
-    print(f"Arthroplasty: {arthroplasty_slot}")
-    print(f"Subspecialty candidates: {len(subspec_candidates)}")
-    print(f"Arthroplasty candidates: {len(arthro_candidates)}")
+    print(f"Slot 1: {slot1_name}")
+    print(f"Slot 2: {slot2_name}")
+    print(f"Slot 1 candidates: {len(slot1_candidates)}")
+    print(f"Slot 2 candidates: {len(slot2_candidates)}")
     print()
 
     # Check for approval/edits
@@ -52,7 +52,7 @@ def main():
     approval = check_for_approval(now)
 
     sub_idx = data.get("selected_subspecialty_index", 0)
-    art_idx = data.get("selected_arthroplasty_index", 0)
+    sec_idx = data.get("selected_second_index", 0)
 
     if approval["no_response"]:
         print("No response received. Using top-ranked papers (default).")
@@ -61,54 +61,51 @@ def main():
     else:
         if approval["swap_subspecialty"] is not None:
             new_idx = approval["swap_subspecialty"]
-            if 0 <= new_idx < len(subspec_candidates):
+            if 0 <= new_idx < len(slot1_candidates):
                 sub_idx = new_idx
-                print(f"Swapping subspecialty paper to candidate #{new_idx + 1}")
+                print(f"Swapping slot 1 paper to candidate #{new_idx + 1}")
         if approval["swap_arthroplasty"] is not None:
             new_idx = approval["swap_arthroplasty"]
-            if 0 <= new_idx < len(arthro_candidates):
-                art_idx = new_idx
-                print(f"Swapping arthroplasty paper to candidate #{new_idx + 1}")
+            if 0 <= new_idx < len(slot2_candidates):
+                sec_idx = new_idx
+                print(f"Swapping slot 2 paper to candidate #{new_idx + 1}")
         if approval["edits"]:
             print(f"Edit instructions received: {approval['edits'][:200]}")
-            # Re-summarize affected papers with edit context
-            # For now, keep existing summaries (edits would need more complex parsing)
 
     print()
 
     # Select final papers
-    if not subspec_candidates:
-        print("ERROR: No subspecialty candidates available.")
+    if not slot1_candidates:
+        print("ERROR: No slot 1 candidates available.")
         return 1
-    if not arthro_candidates:
-        print("ERROR: No arthroplasty candidates available.")
+    if not slot2_candidates:
+        print("ERROR: No slot 2 candidates available.")
         return 1
 
-    sub_idx = min(sub_idx, len(subspec_candidates) - 1)
-    art_idx = min(art_idx, len(arthro_candidates) - 1)
+    sub_idx = min(sub_idx, len(slot1_candidates) - 1)
+    sec_idx = min(sec_idx, len(slot2_candidates) - 1)
 
-    final_subspec = subspec_candidates[sub_idx]
-    final_arthro = arthro_candidates[art_idx]
+    final_slot1 = slot1_candidates[sub_idx]
+    final_slot2 = slot2_candidates[sec_idx]
 
-    print(f"Final subspecialty paper: {final_subspec['title'][:80]}...")
-    print(f"Final arthroplasty paper: {final_arthro['title'][:80]}...")
+    print(f"Final slot 1 paper: {final_slot1['title'][:80]}...")
+    print(f"Final slot 2 paper: {final_slot2['title'][:80]}...")
     print()
 
     # Send to Beehiiv
     print("--- Sending brief to Beehiiv ---")
     success = send_to_beehiiv(
         now,
-        subspecialty,
-        final_subspec,
-        arthroplasty_slot,
-        final_arthro,
+        slot1_name,
+        final_slot1,
+        slot2_name,
+        final_slot2,
     )
 
     if success:
-        # Update status
         data["status"] = "sent"
         data["selected_subspecialty_index"] = sub_idx
-        data["selected_arthroplasty_index"] = art_idx
+        data["selected_second_index"] = sec_idx
         with open(data_path, "w") as f:
             json.dump(data, f, indent=2)
         print("Morning pipeline complete. Brief sent to subscribers.")

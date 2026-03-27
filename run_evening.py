@@ -16,7 +16,7 @@ from src.config import (
     PACIFIC,
     DATA_DIR,
     get_today_subspecialty,
-    get_arthroplasty_slot,
+    get_second_slot,
 )
 from src.pubmed_scraper import scrape_papers
 from src.paper_scorer import score_papers
@@ -33,44 +33,36 @@ def main():
     print(f"Running at: {now.strftime('%Y-%m-%d %H:%M %Z')}")
     print(f"Brief date: {brief_date.strftime('%A, %B %d, %Y')}")
 
-    subspecialty = get_today_subspecialty(brief_date)
-    arthroplasty_slot = get_arthroplasty_slot(brief_date)
+    slot1 = get_today_subspecialty(brief_date)
+    slot2 = get_second_slot(brief_date)
 
-    # If subspecialty is the same as arthroplasty slot, adjust
-    if subspecialty == arthroplasty_slot:
-        arthroplasty_slot = (
-            "Total Knee Arthroplasty"
-            if arthroplasty_slot == "Total Hip Arthroplasty"
-            else "Total Hip Arthroplasty"
-        )
-
-    print(f"Subspecialty: {subspecialty}")
-    print(f"Arthroplasty slot: {arthroplasty_slot}")
+    print(f"Slot 1: {slot1}")
+    print(f"Slot 2: {slot2}")
     print()
 
     # Step 1: Scrape papers for both slots
     print("--- Step 1: Scraping PubMed ---")
-    subspec_papers = scrape_papers(subspecialty)
-    arthro_papers = scrape_papers(arthroplasty_slot)
+    slot1_papers = scrape_papers(slot1)
+    slot2_papers = scrape_papers(slot2)
     print()
 
-    if not subspec_papers:
-        print(f"WARNING: No papers found for {subspecialty}")
-    if not arthro_papers:
-        print(f"WARNING: No papers found for {arthroplasty_slot}")
+    if not slot1_papers:
+        print(f"WARNING: No papers found for {slot1}")
+    if not slot2_papers:
+        print(f"WARNING: No papers found for {slot2}")
 
     # Step 2: Score papers
     print("--- Step 2: Scoring papers ---")
-    subspec_ranked = score_papers(subspec_papers, subspecialty, top_n=5)
-    arthro_ranked = score_papers(arthro_papers, arthroplasty_slot, top_n=5)
-    print(f"  Subspecialty candidates: {len(subspec_ranked)}")
-    print(f"  Arthroplasty candidates: {len(arthro_ranked)}")
+    slot1_ranked = score_papers(slot1_papers, slot1, top_n=5)
+    slot2_ranked = score_papers(slot2_papers, slot2, top_n=5)
+    print(f"  Slot 1 candidates: {len(slot1_ranked)}")
+    print(f"  Slot 2 candidates: {len(slot2_ranked)}")
     print()
 
     # Step 3: Summarize all candidates
     print("--- Step 3: Summarizing papers ---")
-    subspec_ranked = summarize_papers(subspec_ranked)
-    arthro_ranked = summarize_papers(arthro_ranked)
+    slot1_ranked = summarize_papers(slot1_ranked)
+    slot2_ranked = summarize_papers(slot2_ranked)
     print()
 
     # Step 4: Save candidates to JSON
@@ -79,12 +71,12 @@ def main():
     output = {
         "brief_date": date_key,
         "brief_date_display": brief_date.strftime("%A, %B %d"),
-        "subspecialty": subspecialty,
-        "arthroplasty_slot": arthroplasty_slot,
-        "subspecialty_candidates": subspec_ranked,
-        "arthroplasty_candidates": arthro_ranked,
-        "selected_subspecialty_index": 0,  # Default: top-ranked
-        "selected_arthroplasty_index": 0,
+        "subspecialty": slot1,
+        "second_slot": slot2,
+        "subspecialty_candidates": slot1_ranked,
+        "second_slot_candidates": slot2_ranked,
+        "selected_subspecialty_index": 0,
+        "selected_second_index": 0,
         "status": "pending_approval",
     }
 
@@ -99,10 +91,10 @@ def main():
     print("--- Step 5: Sending preview email ---")
     success = send_preview_email(
         brief_date,
-        subspecialty,
-        subspec_ranked,
-        arthroplasty_slot,
-        arthro_ranked,
+        slot1,
+        slot1_ranked,
+        slot2,
+        slot2_ranked,
     )
 
     if success:

@@ -26,6 +26,11 @@ JOURNALS = {
     "Foot Ankle Int": "Foot Ankle Int",
     "AJSM": "Am J Sports Med",
     "KSSTA": "Knee Surg Sports Traumatol Arthrosc",
+    "J Orthop Trauma": "J Orthop Trauma",
+    "J Hand Surg Am": "J Hand Surg Am",
+    "JAAOS": "J Am Acad Orthop Surg",
+    "J Pediatr Orthop": "J Pediatr Orthop",
+    "J Shoulder Elbow Surg": "J Shoulder Elbow Surg",
 }
 
 # Journal name for PubMed query
@@ -35,24 +40,24 @@ JOURNAL_QUERY = " OR ".join(
 
 # Weekly subspecialty rotation (0=Monday, 6=Sunday)
 SUBSPECIALTY_ROTATION = {
-    0: "Total Hip Arthroplasty",
-    1: "Total Knee Arthroplasty",
-    2: "Trauma",
-    3: "Foot & Ankle",
-    4: "Shoulder",
-    5: "Sports Medicine",
-    6: "Wildcard",
+    0: "Adult Reconstruction",
+    1: "Trauma",
+    2: "Foot & Ankle",
+    3: "Shoulder",
+    4: "Sports Medicine",
+    5: "Wildcard",
+    6: "Adult Reconstruction",
 }
 
 # PubMed search terms per subspecialty
 SUBSPECIALTY_QUERIES = {
-    "Total Hip Arthroplasty": (
+    "Adult Reconstruction": (
         '("total hip arthroplasty" OR "total hip replacement" OR "hip resurfacing"'
-        ' OR "hip revision" OR "hip prosthesis")'
-    ),
-    "Total Knee Arthroplasty": (
-        '("total knee arthroplasty" OR "total knee replacement"'
-        ' OR "knee revision" OR "unicompartmental knee")'
+        ' OR "hip revision" OR "hip prosthesis"'
+        ' OR "total knee arthroplasty" OR "total knee replacement"'
+        ' OR "knee revision" OR "unicompartmental knee"'
+        ' OR "total joint arthroplasty" OR "periprosthetic"'
+        ' OR "joint replacement" OR "adult reconstruction")'
     ),
     "Trauma": (
         '("fracture fixation" OR "fracture management" OR "orthopaedic trauma"'
@@ -76,12 +81,18 @@ SUBSPECIALTY_QUERIES = {
     "Wildcard": "",  # No subspecialty filter for wildcard
 }
 
-# Arthroplasty alternation: even days = THA, odd days = TKA
-def get_arthroplasty_slot(date: datetime) -> str:
-    return "Total Hip Arthroplasty" if date.day % 2 == 0 else "Total Knee Arthroplasty"
-
 def get_today_subspecialty(date: datetime) -> str:
     return SUBSPECIALTY_ROTATION[date.weekday()]
+
+def get_second_slot(date: datetime) -> str:
+    """Second slot is Adult Reconstruction, unless today is already Adult Reconstruction,
+    in which case use the next subspecialty in the rotation."""
+    primary = SUBSPECIALTY_ROTATION[date.weekday()]
+    if primary != "Adult Reconstruction":
+        return "Adult Reconstruction"
+    # On Adult Reconstruction days, use the next day's subspecialty as second slot
+    next_day = (date.weekday() + 1) % 7
+    return SUBSPECIALTY_ROTATION[next_day]
 
 # Claude model for scoring/summarization
 CLAUDE_MODEL = "claude-sonnet-4-20250514"
