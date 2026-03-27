@@ -1,0 +1,45 @@
+name: Morning Pipeline - Send Brief
+
+on:
+  schedule:
+    # 7am Pacific = 2pm or 3pm UTC depending on DST
+    # Using 3pm UTC (7am PDT) — adjust to 2pm for PST
+    - cron: '0 15 * * *'
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  send-brief:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Pull latest data
+        run: git pull --rebase origin main
+
+      - name: Run morning pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          BEEHIIV_API_KEY: ${{ secrets.BEEHIIV_API_KEY }}
+          BEEHIIV_PUBLICATION_ID: ${{ secrets.BEEHIIV_PUBLICATION_ID }}
+        run: python run_morning.py
+
+      - name: Commit updated status
+        run: |
+          git config user.name "ortho-minute-bot"
+          git config user.email "bot@theorthominute.com"
+          git add data/daily/
+          git diff --cached --quiet || git commit -m "Update brief status for $(date -u +%Y-%m-%d)"
+          git push

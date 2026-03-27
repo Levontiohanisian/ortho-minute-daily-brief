@@ -1,0 +1,41 @@
+name: Evening Pipeline - Scrape & Preview
+
+on:
+  schedule:
+    # 7pm Pacific = 2am or 3am UTC depending on DST
+    # Using 3am UTC (7pm PDT) — adjust to 2am for PST
+    - cron: '0 3 * * *'
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  scrape-and-preview:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run evening pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          PREVIEW_RECIPIENT: ${{ secrets.PREVIEW_RECIPIENT }}
+        run: python run_evening.py
+
+      - name: Commit candidate data
+        run: |
+          git config user.name "ortho-minute-bot"
+          git config user.email "bot@theorthominute.com"
+          git add data/daily/
+          git diff --cached --quiet || git commit -m "Add daily candidates for $(date -u +%Y-%m-%d)"
+          git push
