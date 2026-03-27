@@ -144,30 +144,21 @@ def _format_authors_short(authors: list[str]) -> str:
     return f"{authors[0]}, {authors[1]}, et al."
 
 
-def scrape_papers(days_back: int = 1) -> list[dict]:
+def scrape_papers(days_back: int = 30) -> list[dict]:
     """
     Scrape PubMed for recent papers across all orthopaedic journals.
-
-    Falls back to 48 hours if no results in 24 hours.
+    Defaults to last 30 days for maximum journal diversity.
     """
     print(f"Scraping PubMed: all journals (last {days_back} day(s))")
 
     query = _build_query(days_back=days_back)
     print(f"  Query: {query[:120]}...")
 
-    pmids = _esearch(query)
+    pmids = _esearch(query, retmax=100)
     print(f"  Found {len(pmids)} PMIDs")
 
-    if not pmids and days_back == 1:
-        print("  No results in 24h, expanding to 48h...")
-        return scrape_papers(days_back=2)
-
-    if not pmids and days_back == 2:
-        print("  No results in 48h, expanding to 7 days...")
-        return scrape_papers(days_back=7)
-
     if not pmids:
-        print("  No results found even after expanding window.")
+        print("  No results found.")
         return []
 
     time.sleep(0.4)  # Respect PubMed rate limits
