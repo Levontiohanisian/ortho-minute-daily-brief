@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Morning pipeline: Check for approval, send brief to Beehiiv.
+Morning pipeline: Check for approval, send brief to Buttondown.
 Runs at 7am Pacific daily via GitHub Actions.
 """
 
@@ -13,7 +13,7 @@ sys.path.insert(0, os.path.dirname(__file__))
 
 from src.config import PACIFIC, DATA_DIR
 from src.approval_checker import check_for_approval
-from src.beehiiv_sender import send_to_beehiiv
+from src.buttondown_sender import send_to_buttondown
 
 
 def main():
@@ -88,9 +88,9 @@ def main():
     print(f"Paper 2: {paper2['title'][:80]}...")
     print()
 
-    # Send to Beehiiv
-    print("--- Sending brief to Beehiiv ---")
-    success = send_to_beehiiv(now, paper1, paper2)
+    # Send to Buttondown
+    print("--- Sending brief to Buttondown ---")
+    success = send_to_buttondown(now, paper1, paper2)
 
     if success:
         data["status"] = "sent"
@@ -102,7 +102,7 @@ def main():
         data["status"] = "send_failed"
         with open(data_path, "w") as f:
             json.dump(data, f, indent=2)
-        print("ERROR: Failed to send brief to Beehiiv.")
+        print("ERROR: Failed to send brief to Buttondown.")
 
     return 0 if success else 1
 

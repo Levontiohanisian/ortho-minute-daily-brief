@@ -8,8 +8,7 @@ PACIFIC = timezone(timedelta(hours=-7))  # PDT; change to -8 for PST
 
 # API Keys (loaded from environment / GitHub Secrets)
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
-BEEHIIV_API_KEY = os.environ.get("BEEHIIV_API_KEY", "")
-BEEHIIV_PUBLICATION_ID = os.environ.get("BEEHIIV_PUBLICATION_ID", "")
+BUTTONDOWN_API_KEY = os.environ.get("BUTTONDOWN_API_KEY", "")
 GMAIL_ADDRESS = os.environ.get("GMAIL_ADDRESS", "info@theorthominute.com")
 GMAIL_APP_PASSWORD = os.environ.get("GMAIL_APP_PASSWORD", "")
 PREVIEW_RECIPIENT = os.environ.get("PREVIEW_RECIPIENT", "info@theorthominute.com")

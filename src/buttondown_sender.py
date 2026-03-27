@@ -1,12 +1,11 @@
-"""Send the final brief to subscribers via Beehiiv API."""
+"""Send the final brief to subscribers via Buttondown API."""
 
 import json
 import urllib.request
 from datetime import datetime
 
 from .config import (
-    BEEHIIV_API_KEY,
-    BEEHIIV_PUBLICATION_ID,
+    BUTTONDOWN_API_KEY,
     WEBSITE_URL,
 )
 
@@ -67,26 +66,25 @@ def _build_brief_html(date: datetime, paper1: dict, paper2: dict) -> str:
     return html
 
 
-def send_to_beehiiv(date: datetime, paper1: dict, paper2: dict) -> bool:
-    """Send the brief to Beehiiv subscribers."""
+def send_to_buttondown(date: datetime, paper1: dict, paper2: dict) -> bool:
+    """Send the brief to Buttondown subscribers."""
 
     date_str = date.strftime("%A, %B %d")
     subject = "The Ortho Minute Daily Brief"
 
     html = _build_brief_html(date, paper1, paper2)
 
-    url = f"https://api.beehiiv.com/v2/publications/{BEEHIIV_PUBLICATION_ID}/posts"
+    url = "https://api.buttondown.com/v1/emails"
 
     payload = {
-        "title": subject,
-        "subtitle": date_str,
-        "status": "confirmed",
-        "content_html": html,
+        "subject": subject,
+        "body": html,
+        "status": "about_to_send",
     }
 
     headers = {
         "Content-Type": "application/json",
-        "Authorization": f"Bearer {BEEHIIV_API_KEY}",
+        "Authorization": f"Token {BUTTONDOWN_API_KEY}",
     }
 
     data = json.dumps(payload).encode("utf-8")
@@ -95,14 +93,14 @@ def send_to_beehiiv(date: datetime, paper1: dict, paper2: dict) -> bool:
     try:
         with urllib.request.urlopen(req, timeout=30) as resp:
             response_data = json.loads(resp.read().decode())
-            post_id = response_data.get("data", {}).get("id", "unknown")
-            print(f"Brief sent to Beehiiv. Post ID: {post_id}")
+            email_id = response_data.get("id", "unknown")
+            print(f"Brief sent to Buttondown. Email ID: {email_id}")
             return True
     except urllib.error.HTTPError as e:
         error_body = e.read().decode() if e.fp else ""
-        print(f"Beehiiv API error ({e.code}): {error_body}")
+        print(f"Buttondown API error ({e.code}): {error_body}")
 
-        print("Retrying Beehiiv send...")
+        print("Retrying Buttondown send...")
         try:
             req2 = urllib.request.Request(url, data=data, headers=headers, method="POST")
             with urllib.request.urlopen(req2, timeout=30) as resp:
@@ -112,5 +110,5 @@ def send_to_beehiiv(date: datetime, paper1: dict, paper2: dict) -> bool:
             print(f"Retry also failed: {retry_err}")
             return False
     except Exception as e:
-        print(f"Failed to send to Beehiiv: {e}")
+        print(f"Failed to send to Buttondown: {e}")
         return False
