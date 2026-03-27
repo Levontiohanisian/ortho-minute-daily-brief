@@ -2,8 +2,50 @@
   "brief_date": "2026-03-27",
   "brief_date_display": "Friday, March 27",
   "subspecialty": "Sports Medicine",
-  "second_slot": "Adult Reconstruction",
+  "second_slot": "Foot & Ankle",
   "subspecialty_candidates": [
+    {
+      "pmid": "41276068",
+      "title": "2025 Neer Award Part 2: the PMADS trial: personality, motivation, and attitude determinants of success with rehabilitation for reverse total shoulder arthroplasty.",
+      "authors": [
+        "Garrigues GE",
+        "Cook CE",
+        "Kennedy J",
+        "Reinke EK",
+        "Gillespie RJ",
+        "Hatzidakis AM",
+        "Jawa A",
+        "Johnston PS",
+        "Nagda SH",
+        "Nicholson GP",
+        "Sears BW",
+        "Wiesel BB",
+        "Wickman JR",
+        "Menendez ME",
+        "Cotter EJ",
+        "Lawande NV",
+        "Scanaliato JP",
+        "Williams TC"
+      ],
+      "authors_short": "Garrigues GE, Cook CE, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: A subset of patients from \"Part 1- The SHORT trial: Multicenter, Randomized, Controlled Trial of Surgeon-Directed Home Therapy vs. Outpatient Rehabilitation by Physical Therapists for Reverse Total Shoulder Arthroplasty\" were analyzed for various personality, psychological, and health motivation scores to elucidate if these characteristics might influence success with either clinic-based physical therapy or surgeon-directed home therapy (HT). METHODS: Three of the original centers from the SHORT trial participated with the same patients and inclusion/exclusion criteria. Surveys designed to capture psychological traits, motivation, and gauge comprehensive patient health were administered to assess for moderating effects on American Shoulder and Elbow Surgeons score, pain intensity score, Single Assessment Numeric Evaluation score, and complications for both physical therapy and HT groups. RESULTS: A total of 89 patients across 3 sites were included for analysis. Moderator analysis demonstrated no association among the Short Grit Scale (P = .54, P = .48, P = .51, P = .61), the Short Health Anxiety Inventory (P = .34, P = .97, P = .37, P = .71), the Motivations and Attitudes Towards Changing Health score (P = .24, P = .41, P = .21, P = .95), the Shoulder Activity Scale (P = .97, P = .42, P = .08, P = .66), the Optimal Screening for Prediction of Referral and Outcome-Yellow Flag assessment tool (OSPRO-YF) negative mood (P = .41, P = .95, P = .33, P = .87), OSPRO-YF fear (P = .38, P = .30, P = .75, P = .37), and OSPRO-YF coping (P = .50, P = .77, P = .75, P = .45) on American Shoulder and Elbow Surgeons scores, pain intensity scores, Single Assessment Numeric Evaluation scores, and complications respectively at final 2-year follow-up. CONCLUSION: No personality, attitude, grit, psychological, or motivational characteristics were found to be associated with success or failure with surgeon-directed HT.",
+      "pub_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41276068/",
+      "score": 89,
+      "score_reasoning": "Multicenter RCT from prestigious JSES comparing rehabilitation approaches for reverse TSA with excellent methodology, large sample size (222 shoulders), and high clinical relevance to daily practice.",
+      "bullets": [
+        "This study tested whether personality traits, motivation levels, and psychological factors predict success with home therapy versus formal physical therapy after reverse shoulder replacement in 89 patients.",
+        "None of the measured psychological characteristics, including grit, health anxiety, motivation to change, or fear avoidance, influenced outcomes at two years for either rehabilitation approach.",
+        "Patient personality and psychological profile do not need to guide the choice between surgeon-directed home therapy and outpatient physical therapy after reverse total shoulder arthroplasty."
+      ]
+    },
     {
       "pmid": "41177296",
       "title": "2025 Neer Award Part 1: The SHORT trial: multicenter, randomized, controlled trial of surgeon-directed home therapy vs. outpatient rehabilitation by physical therapists for reverse total shoulder arthroplasty.",
@@ -39,54 +81,12 @@
         "Comparative Study"
       ],
       "link": "https://pubmed.ncbi.nlm.nih.gov/41177296/",
-      "score": 85,
-      "score_reasoning": "High-quality multicenter RCT published in prestigious JSES comparing rehabilitation strategies for reverse TSA with excellent clinical applicability and strong study design.",
+      "score": 86,
+      "score_reasoning": "Part 2 of Neer Award winning multicenter RCT examining psychological factors in reverse TSA rehabilitation, providing novel insights into patient selection with strong methodology.",
       "bullets": [
-        "Surgeon-directed home therapy after reverse total shoulder arthroplasty produces equivalent range of motion, pain scores, and functional outcomes compared to formal outpatient physical therapy at 1 and 2 years.",
-        "This multicenter trial of 222 shoulders found no difference in complication rates between home therapy guided by surgeons versus traditional physical therapy rehabilitation.",
-        "Home therapy costs significantly less than formal physical therapy ($11,285 vs $17,837 per patient) while achieving the same clinical results."
-      ]
-    },
-    {
-      "pmid": "41276068",
-      "title": "2025 Neer Award Part 2: the PMADS trial: personality, motivation, and attitude determinants of success with rehabilitation for reverse total shoulder arthroplasty.",
-      "authors": [
-        "Garrigues GE",
-        "Cook CE",
-        "Kennedy J",
-        "Reinke EK",
-        "Gillespie RJ",
-        "Hatzidakis AM",
-        "Jawa A",
-        "Johnston PS",
-        "Nagda SH",
-        "Nicholson GP",
-        "Sears BW",
-        "Wiesel BB",
-        "Wickman JR",
-        "Menendez ME",
-        "Cotter EJ",
-        "Lawande NV",
-        "Scanaliato JP",
-        "Williams TC"
-      ],
-      "authors_short": "Garrigues GE, Cook CE, et al.",
-      "journal": "Journal of shoulder and elbow surgery",
-      "journal_abbrev": "J Shoulder Elbow Surg",
-      "year": "2026",
-      "abstract": "BACKGROUND: A subset of patients from \"Part 1- The SHORT trial: Multicenter, Randomized, Controlled Trial of Surgeon-Directed Home Therapy vs. Outpatient Rehabilitation by Physical Therapists for Reverse Total Shoulder Arthroplasty\" were analyzed for various personality, psychological, and health motivation scores to elucidate if these characteristics might influence success with either clinic-based physical therapy or surgeon-directed home therapy (HT). METHODS: Three of the original centers from the SHORT trial participated with the same patients and inclusion/exclusion criteria. Surveys designed to capture psychological traits, motivation, and gauge comprehensive patient health were administered to assess for moderating effects on American Shoulder and Elbow Surgeons score, pain intensity score, Single Assessment Numeric Evaluation score, and complications for both physical therapy and HT groups. RESULTS: A total of 89 patients across 3 sites were included for analysis. Moderator analysis demonstrated no association among the Short Grit Scale (P = .54, P = .48, P = .51, P = .61), the Short Health Anxiety Inventory (P = .34, P = .97, P = .37, P = .71), the Motivations and Attitudes Towards Changing Health score (P = .24, P = .41, P = .21, P = .95), the Shoulder Activity Scale (P = .97, P = .42, P = .08, P = .66), the Optimal Screening for Prediction of Referral and Outcome-Yellow Flag assessment tool (OSPRO-YF) negative mood (P = .41, P = .95, P = .33, P = .87), OSPRO-YF fear (P = .38, P = .30, P = .75, P = .37), and OSPRO-YF coping (P = .50, P = .77, P = .75, P = .45) on American Shoulder and Elbow Surgeons scores, pain intensity scores, Single Assessment Numeric Evaluation scores, and complications respectively at final 2-year follow-up. CONCLUSION: No personality, attitude, grit, psychological, or motivational characteristics were found to be associated with success or failure with surgeon-directed HT.",
-      "pub_types": [
-        "Journal Article",
-        "Multicenter Study",
-        "Randomized Controlled Trial"
-      ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41276068/",
-      "score": 82,
-      "score_reasoning": "RCT in JSES examining personality factors in reverse TSA rehabilitation with novel findings and strong methodology, though smaller sample size.",
-      "bullets": [
-        "Personality traits, motivation levels, and psychological factors do not predict which reverse shoulder arthroplasty patients will succeed with home therapy versus formal physical therapy.",
-        "This analysis of 89 patients found no association between grit, health anxiety, fear, coping skills, or activity level and rehabilitation outcomes at 2 years.",
-        "Surgeons can recommend either home therapy or outpatient physical therapy for reverse shoulder patients regardless of their psychological profile or motivation."
+        "Surgeon-directed home therapy produces identical outcomes to formal physical therapy after reverse shoulder arthroplasty at 1 and 2 years across all range of motion and patient-reported outcome measures.",
+        "This multicenter randomized trial of 222 shoulders found no difference in complications, revisions, or functional recovery between home therapy and outpatient physical therapy groups.",
+        "Home therapy costs $6,500 less per patient than formal physical therapy while delivering equivalent clinical results, making it the more cost-effective rehabilitation option."
       ]
     },
     {
@@ -111,47 +111,12 @@
         "Comparative Study"
       ],
       "link": "https://pubmed.ncbi.nlm.nih.gov/40975204/",
-      "score": 78,
-      "score_reasoning": "Prospective comparative study in JSES on arthroscopic vs open Bankart repair in collision athletes with excellent clinical relevance and 5-year follow-up.",
+      "score": 82,
+      "score_reasoning": "Prospective comparative study in JSES of collision athletes after first-time shoulder dislocation comparing arthroscopic vs open Bankart repair with excellent 5-year follow-up and high sports medicine relevance.",
       "bullets": [
-        "Open Bankart repair with capsular shift had 2.5% recurrence versus 17.5% for arthroscopic repair in collision athletes under 30 after first dislocation.",
-        "Both procedures achieved similar functional scores, range of motion, and return to sport rates at 5 years.",
-        "Open repair may be preferred for collision athletes despite similar functional outcomes due to lower re-dislocation risk."
-      ]
-    },
-    {
-      "pmid": "40975210",
-      "title": "The effect of pretreatment of the pilosebaceous unit on Cutibacterium acnes burden during shoulder arthroplasty: a randomized controlled trial.",
-      "authors": [
-        "Hutchinson ID",
-        "Posner AD",
-        "Mathew JI",
-        "Zanaros GS",
-        "Das S",
-        "Dines DM",
-        "Dines JS",
-        "Fu MC",
-        "Taylor SA",
-        "Zimmerman JP",
-        "Gulotta LV"
-      ],
-      "authors_short": "Hutchinson ID, Posner AD, et al.",
-      "journal": "Journal of shoulder and elbow surgery",
-      "journal_abbrev": "J Shoulder Elbow Surg",
-      "year": "2026",
-      "abstract": "BACKGROUND: Cutibacterium acnes (C. acnes) is the most common pathogen associated with prosthetic shoulder infection and can be cultured from the surgical field, with a reservoir is in the pilosebaceous unit. Benzoyl peroxide (BPO) and blue-light phototherapy (BLT) are commonly used to target the pilosebaceous reservoir of C. acnes in the treatment of acne vulgaris. The aim of this study is to evaluate the effect of targeted pretreatment of pilosebaceous unit on C. acnes culture positivity within the surgical field during shoulder arthroplasty. We tested two hypotheses: 1) combination therapy is required to decrease overall C. acnes burden and 2) superficial culture positivity on the approach is associated with deep culture positivity, collected before closure. METHODS: A prospective, multicenter, randomized controlled trial was initiated across two sites and three shoulder arthroplasty study arms were recruited: 1) control: standard preparation; 2) BPO group: 2 days of 10% BPO wash preparation in the shower prior to surgery; and 3) BPO and BLT: 2 days of BPO washes with 3 preoperative treatments of blue spectrum phototherapy daily. Two specimens were taken at the surgical approach (full thickness incisional skin biopsy and superficial dermal swab) and a deep glenohumeral swab was taken prior to closure. RESULTS: Following an a priori analysis, 122 patients were enrolled in the study, (41 controls, 41 BPO, and 40 BPO/BLT). No adverse side effects were reported. Demographic characteristics did not differ between treatment groups. Overall culture positivity was decreased in the BPO/BLT group compared to the control (13.3% vs. 26.8%, P = 0.026), odds ratio 0.420, 95% confidence interval [0.217, 0.812], P < 0.001. There was no difference between intervention groups: BPO/BLT and BPO (13.3% vs. 16.5%, P > 0.999). Superficial culture positivity on the approach (full-thickness biopsy and superficial swab) was associated with deep culture positivity at closure (P < 0.001). Otherwise, overall culture positivity was associated with male sex (P < 0.001), increasing height (P < 0.001), and decreased body mass index (P = 0.0235). CONCLUSION: Targeted pretreatment of the pilosebaceous unit with combination BPO wash and BLT decreased C. acnes culture positivity within the surgical field. Positive superficial cultures on the approach were associated with positive deep cultures collected before closure. Ultimately, it is hoped that a decrease in C. acnes burden in the surgical field will positively impact the incidence of shoulder prosthetic joint infection.",
-      "pub_types": [
-        "Journal Article",
-        "Randomized Controlled Trial",
-        "Multicenter Study"
-      ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/40975210/",
-      "score": 75,
-      "score_reasoning": "RCT in JSES investigating pretreatment strategies for C. acnes reduction during shoulder arthroplasty with high clinical relevance for infection prevention.",
-      "bullets": [
-        "Two days of benzoyl peroxide wash plus blue light therapy reduced C. acnes culture positivity from 27% to 13% during shoulder arthroplasty compared to standard prep.",
-        "Positive superficial cultures at the surgical approach strongly predict positive deep cultures at closure, suggesting surface contamination drives deep infection risk.",
-        "Male patients with taller height and lower BMI had higher rates of C. acnes culture positivity during shoulder arthroplasty procedures."
+        "In collision athletes under 30 with first-time anterior shoulder dislocation, open Bankart repair with capsular shift had 2.5% recurrence versus 17.5% with arthroscopic repair at 5 years.",
+        "Both surgical approaches produced similar functional scores, range of motion, and return to sport rates (around 80% returned to preinjury level).",
+        "Open repair provides better stability without compromising motion or function in young collision athletes after first dislocation."
       ]
     },
     {
@@ -251,164 +216,195 @@
         "Multicenter Study"
       ],
       "link": "https://pubmed.ncbi.nlm.nih.gov/41072715/",
-      "score": 73,
-      "score_reasoning": "Multicenter study in JSES identifying risk factors for baseplate failure in reverse TSA with large sample size and important safety implications.",
+      "score": 79,
+      "score_reasoning": "Multicenter study identifying risk factors for baseplate failure in reverse TSA with large sample size (5,049 cases) and high clinical applicability for complication prevention.",
       "bullets": [
-        "Baseplate failure occurs in 1.6% of reverse shoulder arthroplasties, with most failures being atraumatic and occurring at a median of 72 weeks post-surgery.",
-        "Revision arthroplasty, bone grafting (especially allograft), and increased lateral offset significantly increase baseplate failure risk, while central screw fixation appears protective.",
-        "Allograft bone grafting has nearly 4 times higher failure rates compared to autograft (14.7% versus 3.9%)."
+        "Baseplate failure occurs in 1.6% of reverse shoulder arthroplasties, with most failures happening atraumatically at a median of 72 weeks after surgery.",
+        "Revision surgery, bone grafting (especially allograft), and increased lateral offset significantly increase baseplate failure risk, while central screw fixation is protective.",
+        "Among bone graft types, allograft carries higher failure rates than autograft (14.7% versus 3.9%) in reverse shoulder arthroplasty patients."
+      ]
+    },
+    {
+      "pmid": "40975210",
+      "title": "The effect of pretreatment of the pilosebaceous unit on Cutibacterium acnes burden during shoulder arthroplasty: a randomized controlled trial.",
+      "authors": [
+        "Hutchinson ID",
+        "Posner AD",
+        "Mathew JI",
+        "Zanaros GS",
+        "Das S",
+        "Dines DM",
+        "Dines JS",
+        "Fu MC",
+        "Taylor SA",
+        "Zimmerman JP",
+        "Gulotta LV"
+      ],
+      "authors_short": "Hutchinson ID, Posner AD, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Cutibacterium acnes (C. acnes) is the most common pathogen associated with prosthetic shoulder infection and can be cultured from the surgical field, with a reservoir is in the pilosebaceous unit. Benzoyl peroxide (BPO) and blue-light phototherapy (BLT) are commonly used to target the pilosebaceous reservoir of C. acnes in the treatment of acne vulgaris. The aim of this study is to evaluate the effect of targeted pretreatment of pilosebaceous unit on C. acnes culture positivity within the surgical field during shoulder arthroplasty. We tested two hypotheses: 1) combination therapy is required to decrease overall C. acnes burden and 2) superficial culture positivity on the approach is associated with deep culture positivity, collected before closure. METHODS: A prospective, multicenter, randomized controlled trial was initiated across two sites and three shoulder arthroplasty study arms were recruited: 1) control: standard preparation; 2) BPO group: 2 days of 10% BPO wash preparation in the shower prior to surgery; and 3) BPO and BLT: 2 days of BPO washes with 3 preoperative treatments of blue spectrum phototherapy daily. Two specimens were taken at the surgical approach (full thickness incisional skin biopsy and superficial dermal swab) and a deep glenohumeral swab was taken prior to closure. RESULTS: Following an a priori analysis, 122 patients were enrolled in the study, (41 controls, 41 BPO, and 40 BPO/BLT). No adverse side effects were reported. Demographic characteristics did not differ between treatment groups. Overall culture positivity was decreased in the BPO/BLT group compared to the control (13.3% vs. 26.8%, P = 0.026), odds ratio 0.420, 95% confidence interval [0.217, 0.812], P < 0.001. There was no difference between intervention groups: BPO/BLT and BPO (13.3% vs. 16.5%, P > 0.999). Superficial culture positivity on the approach (full-thickness biopsy and superficial swab) was associated with deep culture positivity at closure (P < 0.001). Otherwise, overall culture positivity was associated with male sex (P < 0.001), increasing height (P < 0.001), and decreased body mass index (P = 0.0235). CONCLUSION: Targeted pretreatment of the pilosebaceous unit with combination BPO wash and BLT decreased C. acnes culture positivity within the surgical field. Positive superficial cultures on the approach were associated with positive deep cultures collected before closure. Ultimately, it is hoped that a decrease in C. acnes burden in the surgical field will positively impact the incidence of shoulder prosthetic joint infection.",
+      "pub_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/40975210/",
+      "score": 76,
+      "score_reasoning": "Multicenter RCT evaluating pretreatment strategies for C. acnes reduction in shoulder arthroplasty, addressing a clinically relevant infection prevention concern.",
+      "bullets": [
+        "Preoperative benzoyl peroxide wash plus blue light therapy reduced C. acnes culture positivity from 27% to 13% in shoulder arthroplasty patients.",
+        "Positive superficial cultures at the surgical approach predicted positive deep cultures before closure, suggesting surface contamination spreads to deeper tissues.",
+        "Male patients with greater height and lower BMI had higher rates of C. acnes contamination during shoulder arthroplasty."
       ]
     }
   ],
   "second_slot_candidates": [
     {
-      "pmid": "41884750",
-      "title": "Antiresorptive Therapy and Revision Risk After Primary Total Knee Arthroplasty: A Systematic Review and Meta-Analysis.",
+      "pmid": "41379072",
+      "title": "Comparison of 2 Different Cast Configurations for Ponseti Cast: A Randomized Controlled Study.",
       "authors": [
-        "Huffman AB",
-        "Burbelo A",
-        "Stone W",
-        "Darbandi A",
-        "Cleary L",
-        "Vadapalli RC",
-        "Bullock M"
+        "Sachdeva K",
+        "Agarwal A",
+        "Garg V",
+        "Iqbal MZ",
+        "Bhalla S"
       ],
-      "authors_short": "Huffman AB, Burbelo A, et al.",
-      "journal": "Arthroplasty today",
-      "journal_abbrev": "Arthroplast Today",
+      "authors_short": "Sachdeva K, Agarwal A, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
       "year": "2026",
-      "abstract": "BACKGROUND: This systematic review evaluates whether the use of bisphosphonates or denosumab influences the rate of revision and aseptic loosening after primary total knee arthroplasty (TKA). Additionally, the effects of antiresorptive therapy on periprosthetic fracture risk, bone mineral density (BMD) loss, and migration after TKA were evaluated, along with the potential adverse effects associated with these therapies. METHODS: A systematic review and meta-analysis were conducted using PubMed, Cochrane Library databases, and gray literature between January 2009 and July 2025 to identify studies evaluating bisphosphonate or denosumab use after primary TKA. RESULTS: After screening 253 results, 12 studies encompassing 426,920 patients met the inclusion criteria, with 4 studies eligible for meta-analysis. There were 7 randomized controlled trials) and 5 prospective/retrospective cohort studies; meta-analytic estimates were derived exclusively from registry-based cohorts. Bisphosphonate use was associated with a significantly lower rate of all-cause revision (1.37% vs 2.71%; P = .0046, confidence interval: 0.255-0.779, odds ratio = 0.446), although heterogeneity was substantial (P < .0001, I 2 = 95.5%). No significant protective effect was observed for aseptic loosening, periprosthetic fracture, or BMD beyond 12 months. In assessments of component maximum total point motion, denosumab demonstrated reduced early implant migration (P = .01 and P = .048), with no survivorship outcomes reported. CONCLUSIONS: Bisphosphonate therapy after TKA is associated with a lower risk of all-cause revision; however, the certainty of evidence is low, and the findings are limited by substantial heterogeneity. No consistent benefit was observed for aseptic loosening, periprosthetic fracture, or long-term BMD preservation.",
+      "abstract": "PURPOSE: Different cast configurations are available in the literature for the application of the Ponseti cast. To dispel the ambiguity and generate better evidence, we tested 2 cast configurations (standard vs. reinforced) for their effectiveness in terms of retained ankle dorsiflexion and overall cast integrity. METHODS: We randomized the 2 limbs of a child with bilateral idiopathic clubfeet (n=30 children) to receive a weight-matched standard cast (circular rolls only) or a reinforced cast (additional knee and plantar slabs). The post tenotomy cast was chosen as the index cast for the research purpose. Evaluations included clinical ankle dorsiflexion, immediate post tenotomy, and at the time of cast removal. Any cast breakages were also noted. RESULTS: The mean child's age was 3.5 months. The mean ankle dorsiflexion achieved immediately post tenotomy in either cast configuration was identical (15.5 degrees). At follow-up, 9 children presented with broken casts, 2 bilaterally. Overall, 9 standard (30%) and 2 reinforced (7%) casts were broken. For the broken casts, the ankle dorsiflexion was lost significantly. On intergroup comparisons, the reinforced casted limbs retained the ankle dorsiflexion significantly better ( P =0.008) compared with the standard configuration. CONCLUSIONS: The reinforced cast configuration retained the ankle dorsiflexion much better than the standard cast. Frequent breakages were also noted with the standard cast.",
       "pub_types": [
-        "Journal Article"
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Comparative Study"
       ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41884750/",
-      "score": 88,
-      "score_reasoning": "High-quality systematic review and meta-analysis of 426,920 patients examining clinically relevant antiresorptive therapy effects on TKA revision rates, with direct applicability to practice decisions.",
-      "bullets": [
-        "Bisphosphonate therapy after primary TKA reduces all-cause revision risk from 2.71% to 1.37% based on registry data of 426,920 patients.",
-        "Antiresorptive therapy shows no consistent protection against aseptic loosening, periprosthetic fractures, or bone density loss beyond 12 months after TKA.",
-        "Denosumab reduces early implant migration in TKA patients, but evidence quality remains low with substantial study heterogeneity across all outcomes."
-      ]
-    },
-    {
-      "pmid": "41853805",
-      "title": "A Novel Preoperative Calculator for 90-Day Prosthetic Joint Infection Following Total Joint Arthroplasty Based off the Michigan Arthroplasty Registry Collaborative Quality Initiative Database.",
-      "authors": [
-        "Gerow D",
-        "Zheng H",
-        "Hughes RE",
-        "Hallstrom B",
-        "Johnson K"
-      ],
-      "authors_short": "Gerow D, Zheng H, et al.",
-      "journal": "Arthroplasty today",
-      "journal_abbrev": "Arthroplast Today",
-      "year": "2026",
-      "abstract": "BACKGROUND: Total joint arthroplasty has become one of the most successful surgeries in regard to quality of life and cost-effectiveness. Periprosthetic joint infections can have catastrophic effects on a patient's surgical outcome, quality of life, and function. Shared decision-making can help patients reduce their risk by changing modifiable risk factors. METHODS: Logistic regression was used to construct an infection risk prediction model for primary total joint arthroplasty of hips and knees using data from the Michigan Arthroplasty Registry Collaborative Quality Initiative dataset, which included 140,884 total knee arthroplasties and 82,110 total hip arthroplasties. The resulting model was deployed using a web-based interface that allows surgeons to counsel their patients in the clinic by showing them in real time how adjusting modifiable risk factors will affect their overall risk of infection. RESULTS: To our knowledge, this study is novel in finding preoperative opioid use and use of assistive devices to be correlated with infection after primary total knee arthroplasties and total hip arthroplasties. Modifiable risk factors that were found to significantly affect risk included body mass index, smoking, and preop narcotic use. Nonmodifiable risk factors included sex assigned at birth, marital status, race, type of payer, preoperative use of assistive devices, and annual surgeon volume <100 cases per year. CONCLUSIONS: While some of these risk factors are nonmodifiable, others can be addressed and optimized prior to surgery. Surgeons must be equipped with infection risk information to accurately counsel patients preoperatively, while also using data to drive patient selection.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41853805/",
-      "score": 85,
-      "score_reasoning": "Novel preoperative calculator for PJI risk based on large registry data (222,994 patients) with direct clinical utility for patient counseling and shared decision-making.",
-      "bullets": [
-        "Researchers developed a preoperative calculator using 223,000 hip and knee arthroplasties to predict 90-day infection risk for individual patients.",
-        "Modifiable infection risk factors include high BMI, smoking, and preoperative opioid use, while preoperative assistive device use and low surgeon volume also increase risk.",
-        "The web-based calculator allows real-time patient counseling by showing how optimizing modifiable factors reduces their personal infection risk."
-      ]
-    },
-    {
-      "pmid": "41067455",
-      "title": "Fellowship Training in Adult Reconstruction Is Associated With Decreased Complications up to Two Years Following Total Knee Arthroplasty.",
-      "authors": [
-        "Katanbaf R",
-        "Hoveidaei AH",
-        "Swartz GN",
-        "Misch M",
-        "Stokes L",
-        "Ihekweazu UN",
-        "Mont MA",
-        "Nace J",
-        "Delanois RE"
-      ],
-      "authors_short": "Katanbaf R, Hoveidaei AH, et al.",
-      "journal": "The Journal of arthroplasty",
-      "journal_abbrev": "J Arthroplasty",
-      "year": "2026",
-      "abstract": "BACKGROUND: Fellowship training has become increasingly popular among orthopaedic residents, although its impact on arthroplasty outcomes has been underexplored. This study aimed to compare the incidences of complications, including periprosthetic joint infection (PJI), manipulation under anesthesia (MUA), aseptic revision, and aseptic loosening between patients who underwent primary total knee arthroplasty (TKA) by an arthroplasty-trained surgeon versus a non-arthroplasty-trained surgeon at 90 days, one year, and two years postoperatively. METHODS: A national insurance database was used to identify patients who underwent elective TKA from 2010 to 2021. A physician report was obtained for this cohort of patients, which included the name and National Provider Identifier of the operative surgeon. Using this information, we performed a web search to identify whether each physician had undergone adult reconstruction fellowship training. Once surgeons were classified by training, we split the patients into two cohorts: those operated on by arthroplasty-trained surgeons and non-arthroplasty-trained surgeons. We used a propensity score match to account for demographic differences, resulting in two cohorts with 361,362 patients each. RESULTS: At 90 days, patients who were operated on by non-arthroplasty-trained surgeons experienced increased rates of surgical site infection (odds ratio [OR] 1.39, 95% confidence interval [CI] 1.26 to 1.54), venous thromboembolism (OR 1.14, 95% CI 1.02 to 1.26), PJI (OR 1.40, 95% CI 1.24 to 1.58), aseptic loosening (OR 1.62, 95% CI 1.15 to 2.29), and MUA (OR 1.23, 95% CI 1.16 to 1.30). At one and two years, higher incidences of PJI, aseptic loosening, and MUA persisted in the nonarthroplasty cohort. In addition, the nonarthroplasty cohort demonstrated higher odds of aseptic revision at one year (OR 1.16, 95% CI 1.04 to 1.28) and two years (OR 1.28, 95% CI 1.18 to 1.39). CONCLUSIONS: Patients who underwent TKA with arthroplasty-trained surgeons experienced fewer complications at 90 days, one year, and two years postoperatively.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41067455/",
-      "score": 83,
-      "score_reasoning": "Comprehensive meta-analysis comparing stem designs in THA with large sample size (51,375 stems) and high clinical relevance for implant selection decisions.",
-      "bullets": [
-        "Fellowship-trained arthroplasty surgeons had lower rates of periprosthetic joint infection, manipulation under anesthesia, and aseptic loosening after TKA compared to non-fellowship trained surgeons in a matched cohort of 722,724 patients.",
-        "The complication advantage for fellowship-trained surgeons persisted at 90 days, one year, and two years, with aseptic revision rates becoming significantly higher in the non-fellowship group by one year postoperatively.",
-        "Non-fellowship trained surgeons also showed higher early complications including surgical site infections and venous thromboembolism at 90 days after TKA."
-      ]
-    },
-    {
-      "pmid": "41047089",
-      "title": "The Impact of Fellowship Training on Surgical Outcomes in Total Hip Arthroplasty: A Propensity Score-Matched Analysis.",
-      "authors": [
-        "Katanbaf R",
-        "Hoveidaei AH",
-        "Swartz GN",
-        "Katanbaf A",
-        "Misch M",
-        "Ihekweazu UN",
-        "Mont MA",
-        "Nace J",
-        "Delanois RE"
-      ],
-      "authors_short": "Katanbaf R, Hoveidaei AH, et al.",
-      "journal": "The Journal of arthroplasty",
-      "journal_abbrev": "J Arthroplasty",
-      "year": "2026",
-      "abstract": "BACKGROUND: Fellowship training has become increasingly popular in the field of orthopaedics, with adult reconstruction being one of the most heavily pursued training pathways among residents. However, the value of this training is underexplored in the literature. This study sought to compare the incidences of complications, including periprosthetic joint infections (PJIs), periprosthetic fractures (PPFXs), and dislocations, between patients who underwent elective total hip arthroplasty (THA) by an arthroplasty-trained surgeon versus a nonarthroplasty surgeon at 90 days, one year, and two years. METHODS: We utilized a national database to identify a national cohort of patients who underwent elective THA from 2010 to 2021. From this set of patients, we obtained a physician report, which included the name, National Provider Identifier, and location of the operating surgeon. A web search was utilized to identify whether the physician had undergone fellowship training in adult reconstruction. Utilizing this information, patients were split into two cohorts based on their surgeon: arthroplasty-trained and nonarthroplasty-trained. A propensity score match was used to match patients based on demographics, comorbidities, and surgeon case volume, resulting in two cohorts of 177,777 patients each. RESULTS: At 90 days, patients in the nonarthroplasty cohort experienced higher incidences of surgical site infection (P = 0.002), venous thromboembolism (P = 0.006), PJI (P = 0.035), PPFX (P = 0.001), aseptic revision (P < 0.001), and dislocation (P < 0.001). At one and two years, these trends continued, with patients in the nonarthroplasty cohort experiencing higher rates of PJI, PPFX, aseptic revision, and dislocation (all P < 0.05). CONCLUSIONS: Patients who underwent elective THA with arthroplasty-trained surgeons experienced fewer complications up to two years postoperatively.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41047089/",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41379072/",
       "score": 82,
-      "score_reasoning": "Large propensity-matched study (722,724 patients) demonstrating superior outcomes with fellowship-trained arthroplasty surgeons in TKA, highly relevant for quality improvement.",
+      "score_reasoning": "High-quality RCT with direct clinical applicability to clubfoot treatment, published in a respected journal with clear practical implications for cast configuration choice.",
       "bullets": [
-        "Fellowship-trained arthroplasty surgeons have lower complication rates than general orthopaedic surgeons performing total hip arthroplasty, including fewer infections, dislocations, and periprosthetic fractures.",
-        "The benefit of fellowship training persists through two years postoperatively across all major THA complications including revision surgery.",
-        "This analysis of over 350,000 matched patients suggests fellowship training provides measurable clinical value in primary total hip arthroplasty outcomes."
+        "In 30 children with bilateral clubfoot, reinforced casts (with knee and plantar slabs) maintained ankle dorsiflexion better than standard circular casts after tenotomy.",
+        "Standard casts broke in 30% of cases versus only 7% for reinforced casts, with broken casts losing significant dorsiflexion correction.",
+        "Reinforced cast configuration should be considered for post-tenotomy Ponseti casting to reduce cast breakage and maintain correction."
       ]
     },
     {
-      "pmid": "41033592",
-      "title": "Results of Cementless Total Hip Arthroplasty Using Third-Generation Ceramic-On-Ceramic Bearings: A Minimum 15-Year Follow-Up.",
+      "pmid": "41134209",
+      "title": "The Modified Posteromedial Approach for Posterior Malleolar Fractures: Report of Soft Tissue Complications After Ten Years of Experience.",
       "authors": [
-        "Bahk JH",
-        "Jo WL",
-        "Lee KH",
-        "Song JH",
-        "Kim SC",
-        "Lim YW"
+        "Bru\u00e9 J",
+        "Acker A",
+        "Pierobon F",
+        "Drittenbass L",
+        "Dubois-Ferriere V",
+        "Assal M"
       ],
-      "authors_short": "Bahk JH, Jo WL, et al.",
+      "authors_short": "Bru\u00e9 J, Acker A, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To evaluate soft tissue complications and the incidence of neurovascular bundle (NVB) injury following the modified posteromedial approach (moPMA) for posterior malleolar (PM) fractures, and to describe its indications in clinical practice. DESIGN: Retrospective, observational case-series study. SETTING: Single center with a dedicated foot and ankle trauma unit. PATIENT SELECTION CRITERIA: Consecutive adult patients who underwent open reduction and internal fixation (ORIF) of PM fractures (AO/OTA 44 or 43) using the moPMA between 2014 and 2024. Exclusion criteria were open or pathological fractures, prior surgery at other institutions, or incomplete clinical records. OUTCOME MEASURES: Primary outcomes were incidence of soft tissue complications and NVB injuries, graded according to the modified Clavien-Dindo classification for foot and ankle surgery. Secondary outcomes included fracture classification according to AO/OTA and Barton\u00ed\u010dek-Rammelt, associated procedures and approaches, surgical staging, fixation type, follow-up, and use of intraoperative imaging. RESULTS: The mean age was 47 years (range 18-83 years), there were 14 male and 40 female patients. The mean time from injury to surgery was 5.9 days. According to the Barton\u00ed\u010dek-Rammelt classification, 51.9% were type C, 31.5% type B, and 14.8% type D. Most cases (77.8%) were AO/OTA 44B3. The moPMA was used in the first surgical stage in 77.8% of cases. A second approach was required in 90.7%, most commonly for fibular fixation through a lateral approach (70.4%). Associated procedures were performed in 92.6%, with fibular osteosynthesis being the most frequent (66.7%). Fixation was plate-based in 92.5%. The mean follow-up was 63.1 \u00b1 31.4 months. Hardware removal of the posterior fixation was performed in 37.1%. Soft tissue complications occurred in 4 patients (7.4%), all classified as grade IA. No NVB injuries or tibialis posterior tendon contractures were reported. CONCLUSIONS: The modified posteromedial approach for fixation of posterior malleolar fractures demonstrated low complication rates and no neurovascular injuries, supporting its use in a wide range of posterior malleolar fractures. LEVEL OF EVIDENCE: Therapeutic Level IV. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article",
+        "Observational Study"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41134209/",
+      "score": 75,
+      "score_reasoning": "Retrospective cohort study addressing important clinical question about operative necessity for pediatric ballistic arthrotomies with good sample size and clear practice implications.",
+      "bullets": [
+        "Modified posteromedial approach for posterior malleolar fractures showed 7.4% soft tissue complication rate with no neurovascular injuries in 54 patients over 10 years.",
+        "Most cases required a second approach for fibular fixation (90.7%), typically through a lateral approach, with plate fixation used in 92.5% of cases.",
+        "Hardware removal of posterior fixation was needed in 37% of patients, but no tibialis posterior tendon contractures occurred."
+      ]
+    },
+    {
+      "pmid": "40921223",
+      "title": "Residual Hindfoot Valgus Alignment Detected by True Mechanical Axis Is Associated With Poorer Clinical Outcomes After Total Knee Arthroplasty: The Role of Ankle Osteoarthritis.",
+      "authors": [
+        "Park HJ",
+        "Jeon Y",
+        "Suh DH",
+        "Moon SR",
+        "Kim JG"
+      ],
+      "authors_short": "Park HJ, Jeon Y, et al.",
       "journal": "The Journal of arthroplasty",
       "journal_abbrev": "J Arthroplasty",
       "year": "2026",
-      "abstract": "BACKGROUND: The third-generation ceramic-on-ceramic total hip arthroplasty (THA) offers excellent wear resistance and biocompatibility but is associated with unique complications such as ceramic fracture and squeaking. While fourth-generation ceramics have become the standard, long-term outcomes of third-generation bearings remain clinically relevant, especially in patients still living with these implants. METHODS: We retrospectively reviewed 533 hips in 417 patients who underwent primary alumina-on-alumina THA using ceramic bearings with a minimum 15-year follow-up (mean 17.4). After excluding deaths and losses to follow-up, 317 hips in 234 patients were analyzed. Kaplan-Meier analysis assessed implant survivorship, and multivariate logistic regressions identified risk factors for ceramic fractures, reoperations, and audible joint noises. RESULTS: The 20-year implant survivorship was 85.2% when considering reoperation for any cause and 94.4% when limited to ceramic fracture. Most fractures (11 of 12) occurred after 10.9 years postoperatively. Significant risk factors for ceramic fracture included men (odds ratio (OR) = 6.94, P = 0.022), higher body mass index (exponential \u03b2 = 1.22, P = 0.035), short-neck heads (OR = 9.17, P = 0.020), sandwich liners (OR = 17.41, P = 0.007), and prior audible noise (OR = 6.03, P = 0.013). Squeaking and clunking were particularly associated with increased fracture and reoperation risk. Despite these complications, average patient-reported outcome measures remained within acceptable ranges. CONCLUSIONS: A gradual decline in survivorship was observed beyond 15 years in third-generation ceramic-on-ceramic THAs, with a notable incidence of late-onset ceramic fractures. Risk factors included men, higher body mass index, short-neck heads, sandwich liners, and articular noises. The use of 28-mm heads, even with medium necks, should be avoided when possible in favor of 32-mm or larger heads. For patients who have previously had a 28-mm implant, annual follow-up is recommended to monitor for late complications.",
+      "abstract": "BACKGROUND: Lower-limb alignment should be accurately assessed to achieve favorable outcomes after total knee arthroplasty (TKA). Compared to conventional alignment methods, the recently adopted hip-to-calcaneus (HTC) axis better reflects actual weight-bearing alignment by including hindfoot alignment. However, whether discrepancies between two mechanical alignments vary according to ankle osteoarthritis (OA) and whether such discrepancies are clinically meaningful remain unclear. METHODS: Data from 145 knees from 107 patients who underwent primary total knee arthroplasty for knee OA were retrospectively analyzed. Postoperative alignment was assessed using conventional hip-to-talus (HTT) and HTC methods. Patients were grouped by ankle OA and residual hindfoot valgus alignment, defined as more valgus on HTC than HTT. Clinical outcomes were evaluated using Western Ontario and McMaster University Osteoarthritis Index (WOMAC) scores. Logistic regression analyses determined factors associated with residual valgus alignment and clinical outcomes. Sobel tests assessed whether residual valgus alignment mediated the relationship between ankle OA and postoperative clinical outcomes. RESULTS: Patients who have ankle OA were more likely to exhibit residual valgus alignment as measured by the HTC method (odds ratio = 2.59; 95% confidence interval, 1.18 to 5.72; P = 0.018). In multivariate analyses, residual hindfoot valgus alignment (P = 0.030) and older age (P = 0.033) were independently associated with worse postoperative WOMAC scores. However, ankle OA did not impact WOMAC outcomes (P = 0.94). Hindfoot valgus alignment may have a mediating effect, although this was not statistically significant (P = 0.093). CONCLUSIONS: Ankle OA was significantly associated with residual hindfoot valgus alignment based on HTC. Although ankle OA did not directly affect clinical outcomes, residual valgus alignment and older age were independently associated with worse postoperative WOMAC scores.",
       "pub_types": [
         "Journal Article"
       ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41033592/",
-      "score": 81,
-      "score_reasoning": "Large matched analysis (355,554 patients) showing improved outcomes with fellowship-trained surgeons in THA, with direct implications for surgeon credentialing and referral patterns.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/40921223/",
+      "score": 73,
+      "score_reasoning": "Relevant case series with substantial 10-year experience addressing complications of a specific surgical approach for posterior malleolar fractures, directly applicable to foot and ankle practice.",
       "bullets": [
-        "Third-generation ceramic-on-ceramic hips show 85% 20-year survival for any reoperation, with most ceramic fractures occurring after 11 years.",
-        "Male patients with higher BMI, short-neck heads, and sandwich liners have significantly higher ceramic fracture risk in these bearings.",
-        "Patients with existing third-generation ceramic implants should receive annual monitoring for late complications, especially if they develop joint noise."
+        "Patients with ankle arthritis are 2.6 times more likely to have residual hindfoot valgus alignment after total knee arthroplasty when measured using hip-to-calcaneus axis.",
+        "Residual hindfoot valgus alignment after total knee arthroplasty independently predicts worse WOMAC scores regardless of ankle arthritis status.",
+        "Hip-to-calcaneus alignment assessment may be more clinically relevant than conventional hip-to-talus measurements for predicting total knee arthroplasty outcomes."
+      ]
+    },
+    {
+      "pmid": "41324303",
+      "title": "How Low is Low? A Normative Study Defining Flexor Hallucis Longus Anatomic Location From Late Childhood Through Adolescence.",
+      "authors": [
+        "Swanson ME",
+        "Chaclas N",
+        "Patel V",
+        "Sarkar S",
+        "Nguyen J",
+        "Maguire KJ"
+      ],
+      "authors_short": "Swanson ME, Chaclas N, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: The flexor hallucis longus (FHL) muscle and tendon are implicated in pathologies involving the posteromedial ankle-especially if the muscle belly extends distally into the tarsal tunnel. Clinicians often include FHL tenosynovitis and a low-lying FHL muscle belly as contributors to posterior ankle impingement syndrome. We aimed to define the spectrum of normative location and relative position of the FHL muscle belly during late childhood and adolescence. METHODS: A retrospective review was conducted of patients who underwent ankle magnetic resonance imaging (MRI) for pathology unrelated to the posteromedial ankle at a single institution from 2015 to 2023. Demographics (age, sex, race, ethnicity, height, and weight) and imaging indications were collected. FHL musculotendinous junction (MTJ) location was first defined by its distance from the most distal aspect of the posterior tibia (absolute MTJ distance). It was then set relative to the length from the same point on the distal tibia to the point at which FHL tendon dives anteriorly into the tarsal tunnel (relative MTJ distance). Using the axial slice at the mid-talus, the cross-sectional area of the FHL was measured. Descriptive statistics, univariate analyses, and regression were performed. RESULTS: Sixty-eight patients (38 females, aged 8 to 18\u00a0y) underwent 72 ankle MRIs. The mean MTJ distance was 13.5\u00b18.3 millimeters (mm) with 72/79 cases considered \"low-lying\" by current criteria. Simple linear regression demonstrated age as a significant predictor of MTJ distance with FHL muscle belly progressing distally by 1.0\u00a0mm/year with increasing age ( P =0.004). Statistically significant differences in FHL tendon and FHL tendon/muscle belly cross-sectional areas, absolute and relative MTJ distances, MTJ distance/patient height, and MTJ distance/talar height ratios were observed between skeletally immature versus mature subjects. CONCLUSIONS: Our results show an age- and maturation-dependent normative difference in positioning of the FHL MTJ, suggesting that the currently used single cutoff value for \"low-lying\" FHL may not adequately distinguish normal from pathology when used in children and adolescents. LEVEL OF EVIDENCE: Level IV.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41324303/",
+      "score": 68,
+      "score_reasoning": "Retrospective study of rare condition with reasonable sample size and long follow-up, moderately relevant to foot and ankle specialists treating pediatric congenital conditions.",
+      "bullets": [
+        "The flexor hallucis longus muscle belly moves 1 mm distally per year during growth in children and adolescents aged 8 to 18 years.",
+        "Current adult criteria classify 72 of 79 pediatric ankles as having low-lying flexor hallucis longus, suggesting these criteria are inappropriate for children.",
+        "Age-specific normative values are needed when evaluating flexor hallucis longus position in pediatric patients with posterior ankle impingement."
+      ]
+    },
+    {
+      "pmid": "41481822",
+      "title": "Lower Extremity Above Ankle Fractures Are Associated With Significantly Lower Serum 25-Hydroxyvitamin D Levels and Lower Vitamin D Sufficiency Compared to Upper Extremity and Ankle/Foot Fractures.",
+      "authors": [
+        "Kim S",
+        "Zotter SF",
+        "Guzm\u00e1n SH",
+        "Connolly M",
+        "Culata CJ",
+        "Schillinger A"
+      ],
+      "authors_short": "Kim S, Zotter SF, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Studies on the effect of low serum 25-hydroxyvitamin D level (25OH vit D) on the fracture risk in pediatric patients have had inconsistent results when comparing patients with fractures to healthy controls and patients with upper to lower extremity fractures. Some studies reported that low 25OH vit D was associated with operative treatment of fractures. We decided to compare 25OH vit D between different fracture sites and between fractures treated operatively and nonoperatively. Our primary null hypothesis was that there would not be any differences in 25OH vit D between different sites of fracture. Secondary null hypothesis was that there would be no difference in 25OH vit D between operative and non-operative treatment subgroups. METHODS: After IRB approval, we prospectively enrolled pediatric patients with fractures and ordered the lab test for 25OH vit D between October 2021 and April 2025. Inclusion criteria were ages 3 to 18 and upper or lower extremity fractures; exclusion criteria were pathologic fracture, vertebral or pelvic fracture, or patients with metabolic and neuromuscular disorders. Eligible patients were divided into upper extremity (UE), lower extremity above ankle (LEAA), and ankle/foot (AF) fracture groups. RESULTS: The 25OH vit D in the LEAA group (18.9\u00a0ng/mL, n=52) was significantly lower than that in the UE group (25.7\u00a0ng/mL, n=64, P <.0001) and that in the AF group (23.7\u00a0ng/mL, n=40, P =.0033). Defining vitamin D deficiency as 25OH vit D <20\u00a0ng/mL and sufficiency as \u2265 30\u00a0ng/mL, the percentage of patients with vitamin D deficiency in LEAA group (58%) was significantly greater than that in the UE (30%) and in the AF (30%) groups. The percentage of patients with 25OH vit D sufficiency in the LEAA group (8%) was significantly less than that in the UE (31%) and in the AF (23%) groups. The overall operative treatment subgroup 25OH vit D (21.4\u00a0ng/mL, n=87) was lower than that of the non-operative treatment subgroup (24.7\u00a0ng/mL, n=69, P =.02). However, within each group, LEAA, UE, and AF, 25OH vit D in the operative and nonoperative treatment subgroups were not significantly different. CONCLUSIONS: In our study, lower extremity above ankle fractures had significantly lower 25OH vit D, higher incidence of vitamin D deficiency, and lower incidence of vitamin D sufficiency compared with upper extremity or ankle/foot fractures. Comparing operative and non-operative treatment subgroups, 25OH vit D was lower in the overall operative treatment subgroup but within each group, UE, LEAA, and AF, no significant differences were found between the subgroups. One possible explanation for the discrepancy was that a greater percentage of upper extremity fractures with the higher 25OH vit D was treated nonoperatively (58% = 37/64) and a greater percentage of LEAA fractures with the lower 25OH vit D was treated operatively (81%=42/52). Further studies to confirm these findings and to study associations of vitamin D levels with sites of fracture and treatment methods are needed. Our finding that vitamin D deficiency is in \u226530% of pediatric patients with upper and lower extremity fractures would support the recommendation made by other authors to test 25OH vit D in all pediatric fracture patients. LEVEL OF EVIDENCE: Diagnostic level II-development of diagnostic criteria on basis of consecutive patients.",
+      "pub_types": [
+        "Journal Article",
+        "Comparative Study"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41481822/",
+      "score": 65,
+      "score_reasoning": "Prospective study with good methodology but limited direct foot and ankle relevance, focusing on pediatric vitamin D levels across different fracture sites.",
+      "bullets": [
+        "Children with lower extremity fractures above the ankle have significantly lower vitamin D levels (18.9 ng/mL) compared to upper extremity (25.7 ng/mL) or ankle/foot fractures (23.7 ng/mL).",
+        "Vitamin D deficiency affects 58% of children with lower extremity above ankle fractures versus only 30% with upper extremity or ankle/foot fractures.",
+        "At least 30% of all pediatric fracture patients have vitamin D deficiency, supporting routine vitamin D testing in this population."
       ]
     }
   ],
   "selected_subspecialty_index": 0,
   "selected_second_index": 0,
-  "status": "cancelled"
+  "status": "pending_approval"
 }
