@@ -3,6 +3,35 @@
   "brief_date_display": "Friday, March 27",
   "candidates": [
     {
+      "pmid": "41885649",
+      "title": "Long-term Survival of Proximal Interphalangeal Joint Denervation of the Hand: Time-to-Event Analysis.",
+      "authors": [
+        "Holc F",
+        "Chammas PE",
+        "Esslinger O",
+        "Dorfmann A",
+        "Braga Silva J",
+        "Chammas M",
+        "Boretto JG"
+      ],
+      "authors_short": "Holc F, Chammas PE, et al.",
+      "journal": "The Journal of hand surgery",
+      "journal_abbrev": "J Hand Surg Am",
+      "year": "2026",
+      "abstract": "PURPOSE: The primary aim of this study was to assess the long-term survival rate of proximal interphalangeal (PIP) joint denervation, defined as the duration until revision with a salvage procedure. The secondary aims were to evaluate pain relief, patient satisfaction, progression of osteoarthritis, and factors associated with treatment failure. METHODS: A multicenter retrospective cohort study was conducted, including patients aged \u226518 years with PIP joint arthropathy undergoing denervation surgery. Revision surgery was the endpoint for survival analysis. Pain levels, patient satisfaction, and radiographic osteoarthritis grading were recorded. RESULTS: A total of 116 fingers from 69 patients across two centers were included in this study. At 10 years, the revision-free survival rate was 82% (95% CI, 75-89), with all 20 (17%) revisions occurring within the first 3 years. Survival rates remained stable after the third year, with 94% (95% CI, 90-98) at 1 year, 88% (95% CI, 82-94) at 2 years, and 82% (95% CI, 75-89) at 3 years. Median pain scores significantly decreased from 8 (IQR 7-9) to 1.0 (IQR 0-2.5), representing an 87.5% relative reduction in pain intensity. Clinically, 92% of patients achieved the minimal clinically important difference for the visual analog scale, and 91% reached the substantial clinical benefit threshold. The overall patient satisfaction rate was 88%. No predictors of failure were identified in either univariate or multivariate analysis. CONCLUSIONS: PIP joint denervation provides durable, effective pain relief with high patient satisfaction, despite osteoarthritis progression, supporting its consideration as a surgical option for symptomatic PIP joint osteoarthritis. TYPE OF STUDY/LEVEL OF EVIDENCE: Therapeutic IV.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41885649/",
+      "score": 88,
+      "score_reasoning": "A multicenter retrospective cohort study of 116 fingers with 10-year survival data (82% revision-free survival) for PIP joint denervation has high clinical relevance for hand surgeons dealing with arthropathy, published in a respected hand surgery journal.",
+      "bullets": [
+        "Summary generation failed for this paper.",
+        "Please review the abstract directly.",
+        "See the PubMed link below for full details."
+      ]
+    },
+    {
       "pmid": "41884952",
       "title": "A Comparison of Continuous Epidural, Spinal Opioid,and Patient-Controlled Analgesia for Posterior Spinal Fusion for Adolescent Idiopathic Scoliosis: A Multicenter, International Database Study.",
       "authors": [
@@ -22,12 +51,12 @@
         "Journal Article"
       ],
       "link": "https://pubmed.ncbi.nlm.nih.gov/41884952/",
-      "score": 85,
-      "score_reasoning": "Large multicenter retrospective study (2371 patients) directly comparing pain management methods for adolescent scoliosis surgery with clear clinical applicability for practicing spine surgeons.",
+      "score": 84,
+      "score_reasoning": "A large multicenter study (2,371 patients) published in Journal of Pediatric Orthopaedics comparing pain management methods after scoliosis surgery provides valuable evidence for pediatric orthopaedic surgeons on optimizing postoperative care.",
       "bullets": [
-        "Spinal opioids and epidural analgesia reduced total opioid use by more than half compared to PCA in 2,371 adolescents undergoing posterior spinal fusion for scoliosis.",
-        "Despite higher opioid consumption with PCA, pain scores, complications, and length of stay were similar across all three analgesic methods.",
-        "All three pain control methods (epidural, spinal opioids, PCA) provide safe and effective analgesia for adolescent scoliosis surgery patients."
+        "Spinal opioids and epidural analgesia reduce total opioid use by more than half compared to PCA after posterior spinal fusion for adolescent idiopathic scoliosis.",
+        "Despite lower opioid consumption with spinal and epidural methods, pain scores, complications, and length of stay were similar across all three analgesic approaches.",
+        "All three pain management strategies provide safe and effective analgesia for adolescent scoliosis surgery patients aged 13 to 19 years."
       ]
     },
     {
@@ -52,11 +81,124 @@
       ],
       "link": "https://pubmed.ncbi.nlm.nih.gov/41884750/",
       "score": 82,
-      "score_reasoning": "High-quality systematic review and meta-analysis of 426,920 patients examining clinically relevant outcomes of antiresorptive therapy after total knee arthroplasty with direct practice implications.",
+      "score_reasoning": "A systematic review and meta-analysis of 426,920 patients examining antiresorptive therapy effects on TKA revision risk provides high-quality evidence with direct clinical applicability for arthroplasty surgeons.",
       "bullets": [
-        "Bisphosphonate use after primary total knee arthroplasty reduces all-cause revision rates from 2.71% to 1.37% based on registry data from 426,920 patients.",
-        "Bisphosphonates showed no protective effect against aseptic loosening, periprosthetic fractures, or bone mineral density loss beyond 12 months after total knee arthroplasty.",
-        "Denosumab reduces early implant migration after total knee arthroplasty but lacks data on long-term revision outcomes."
+        "Bisphosphonates after primary TKA reduce all-cause revision rates from 2.7% to 1.4% in registry studies, though evidence quality is low due to high study variability.",
+        "No significant protection against aseptic loosening or periprosthetic fractures was found with bisphosphonate use after TKA.",
+        "Denosumab reduces early implant migration in TKA patients, but long-term revision outcomes with denosumab remain unknown."
+      ]
+    },
+    {
+      "pmid": "41880536",
+      "title": "Effect of Timing of First Consultation with a Sarcoma Specialist Following Unplanned Excision: Oncologic Outcomes of Patients with Soft-Tissue Sarcomas.",
+      "authors": [
+        "Jahn J",
+        "Dean KK",
+        "Travis LM",
+        "Ramos-Pascua LR",
+        "Garc\u00eda de la Blanca JC",
+        "Temple HT",
+        "Pretell-Mazzini J"
+      ],
+      "authors_short": "Jahn J, Dean KK, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Unplanned excisions (UEs) of soft-tissue sarcoma are resections performed without appropriate preoperative imaging or biopsy confirmation. These procedures represent a large proportion of referrals to sarcoma centers and can negatively influence oncologic outcomes. Limited evidence exists regarding the impact of consultation timing after UE. This study aimed to compare oncologic outcomes of patients evaluated early versus late at a sarcoma center following UE. METHODS: Of 397 patients treated for soft-tissue sarcoma from 2012 to 2020 at 2 tertiary centers, 117 underwent UE followed by later tumor bed excision and were analyzed. Consultation with a sarcoma specialist was defined as the patient's first visit with a multidisciplinary sarcoma team member, marking entry into the coordinated cancer center. Patients were stratified into early (\u22642 months) and late (>2 months) consultation groups. Demographic, clinical, and tumor characteristics were collected. Primary outcomes included local recurrence-free survival (LRFS), metastasis-free survival (MFS), and overall survival (OS). Chi-square and t tests were used for univariate comparisons, and Kaplan-Meier analyses were performed. Multivariable Cox regression and logistic regression analyses were performed, adjusting for patient age, sex, and comorbidities; tumor size, depth, grade, stage, and margin status; and/or follow-up duration. RESULTS: Among the 117 patients (mean age, 56 years; 55% female; 84% White; 65% non-Hispanic), 26 were seen early and 91 late. The rate of metastasis was significantly higher in the late cohort (48.4% versus 11.5%, p = 0.0016), as was mortality (30.8% versus 3.8%, p = 0.0109). Five-year Kaplan-Meier survival outcomes favored early consultation, including LRFS (84.6% versus 63.7%, p = 0.041), MFS (88.5% versus 50.5%, p = 0.003), and OS (96.2% versus 64.8%, p = 0.005). On multivariable analysis, late consultation was independently associated with inferior LRFS (hazard ratio [HR] = 1.95, p = 0.046), MFS (HR = 2.76, p = 0.004), and OS (HR = 2.53, p = 0.022). Logistic regression showed increased odds of metastasis (odds ratio [OR] = 7.11, p = 0.0027) and mortality (OR = 11.29, p = 0.021) at 5 years in the late group. CONCLUSIONS: Delayed consultation after UE was associated with significantly worse outcomes, including higher rates of metastasis and mortality and lower LRFS, MFS, and OS. These results emphasize the importance of timely referral to sarcoma centers for early multidisciplinary management. LEVEL OF EVIDENCE: Prognostic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41880536/",
+      "score": 80,
+      "score_reasoning": "A retrospective study of 108 IPFL procedures and 29,070 THAs examining iliopsoas impingement risk with collared stems provides clinically relevant findings for hip arthroplasty surgeons regarding implant selection.",
+      "bullets": [
+        "Soft tissue sarcoma patients seen by sarcoma specialists within 2 months after unplanned excision had significantly better survival than those seen later (96% vs 65% five-year overall survival).",
+        "Late consultation after unplanned excision was associated with nearly triple the risk of metastasis and death compared to early consultation within 2 months.",
+        "This applies to the common scenario where soft tissue sarcomas are inadvertently excised without proper imaging or biopsy, emphasizing urgent referral to sarcoma centers."
+      ]
+    },
+    {
+      "pmid": "41879276",
+      "title": "Acute or Delayed TKA for Tibial Plateau Fracture? An Observational Study From the Swedish Arthroplasty Register.",
+      "authors": [
+        "Olerud F",
+        "Garland A",
+        "Dahl AW",
+        "Hailer NP",
+        "Wolf O"
+      ],
+      "authors_short": "Olerud F, Garland A, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Acute TKA has been proposed as an alternative to open reduction and internal fixation for complex tibial plateau fractures in patients who are older and who have compromised bone quality. The alternative is a delayed TKA after primary fracture management with an unfavorable outcome. However, the long-term outcomes and risk for reoperation after acute TKA compared with delayed TKA for fracture sequelae remain unclear. QUESTIONS/PURPOSES: When comparing acute TKA (< 3 months after injury) for tibial plateau fracture with delayed TKA for fracture sequelae, we asked: (1) Do the risks of reoperation or revision for any cause differ? (2) Do the risks of reoperation or revision for infection differ? (3) Do the risks of reoperation or revision for loosening differ? METHODS: Data for all TKAs performed between 2014 and 2023 with the indication of acute tibial plateau fracture (n = 152) or fracture sequelae (n = 950) were extracted from the Swedish Arthroplasty Register. Patients who underwent TKA for acute tibial plateau fractures were older (73 versus 66 years), more often women (78% [118 of 152] versus 57% [539 of 950]), had lower BMI (26.7 versus 27.9 kg/m2), and received constrained or hinged implants more frequently (59% [89 of 152] versus 33% [311 of 950]). Reoperations were identified in the Swedish Arthroplasty Register through subsequent procedures on the index knee and classified as reoperations (where the implant remained in situ) or revisions (with exchange, addition, or removal of components). When bilateral procedures occurred within the study period, only the first TKA was retained to ensure independence of observations. Loss to follow-up because of emigration or incomplete revision reporting was expected to be minimal, as the Swedish Arthroplasty Register captures approximately 98% of primary TKAs and 94% of revisions nationally. We estimated the cumulative event probability of secondary procedures using the Kaplan-Meier method and used logistic regression models to estimate adjusted ORs for (1) any reoperation or revision, (2) infection-related procedures, and (3) loosening-related procedures, adjusting for age, gender, and BMI. Because implant type reflects the underlying clinical situation and cannot be reliably adjusted for, it was reported descriptively. RESULTS: During follow-up, 7% (78 of 1102) of patients underwent a reoperation and 5% (60 of 1102) of patients underwent a revision. At 5 years, the cumulative event probability of any revision was 8% (95% confidence interval [CI] 2% to 14%) for acute TKA and 5% (95% CI 4% to 7%) for delayed TKA (p = 0.41). For reoperations, the cumulative event probability at 5 years was 9% (95% CI 3% to 15%) for acute TKA and 7% (95% CI 5% to 9%) in the delayed TKA group (p = 0.26). After adjusting for age, gender, and BMI, there was no difference between groups in odds for any reoperation (OR 0.76 [95% CI 0.38 to 1.5]; p = 0.43) or any revision (OR 0.68 [95% CI 0.31 to 1.5]; p = 0.32). Infections accounted for 9% (1 of 11) of reoperations for acute TKAs and 40% (27 of 67) of delayed TKAs. At 5 years, the cumulative event probability of reoperation or revision due to infection was 2% (95% CI 0% to 5%) for acute TKA and 3% (95% CI 2% to 4%) for delayed TKA (p = 0.06). There was no difference in the adjusted odds of infection-related reoperation (OR 3.7 [95% CI 0.48 to 28]; p = 0.21) or infection-related revision (OR 3.0 [95% CI 0.40 to 23]; p = 0.28). Loosening accounted for 27% (3 of 11) of revisions after acute TKAs and 9% (6 of 67) after delayed TKAs. At 5 years, the cumulative event probability of loosening-related revision was 2.9% (95% CI 0% to 7.1%) for acute TKAs and 0.6% (95% CI 0.1% to 1.2%) for delayed TKAs (p = 0.50). The adjusted odds of loosening-related revision were lower for delayed TKAs (OR 0.21 [95% CI 0.05 to 0.97]; p = 0.045). CONCLUSION: The timing and pattern of revision differ between the two investigated groups, with delayed TKAs undergoing unplanned reoperation or revision earlier and with a higher proportion of infection-related revisions, whereas acute TKAs underwent reoperation or revision later and with a higher proportion of revisions for mechanical loosening. In the absence of large prospective trials, future observational work should include evaluation of pre- and postoperative radiographs and patient-reported outcomes, to determine which patients may benefit from acute TKA for tibial plateau fracture. LEVEL OF EVIDENCE: Level III, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41879276/",
+      "score": 78,
+      "score_reasoning": "A Swedish registry study comparing acute vs delayed TKA for tibial plateau fractures (1,102 patients) provides valuable population-level data on surgical timing decisions for orthopaedic trauma surgeons.",
+      "bullets": [
+        "Acute TKA for tibial plateau fractures has similar overall reoperation and revision rates compared to delayed TKA for fracture sequelae at 5 years.",
+        "Delayed TKA has more early infection-related revisions while acute TKA has more late mechanical loosening revisions.",
+        "Acute TKA patients are typically older women who receive constrained implants more frequently than delayed TKA patients."
+      ]
+    },
+    {
+      "pmid": "41881206",
+      "title": "Baseline Characteristics Explain Sex Differences in Primary Total Knee Arthroplasty Outcomes: A Prospective Multicenter Study with 4-Year Follow-Up.",
+      "authors": [
+        "Bayram JM",
+        "Chopra S",
+        "Clement ND",
+        "Deehan DJ",
+        "London NJ",
+        "Pandit HG",
+        "Holloway NJ",
+        "Clarke JV"
+      ],
+      "authors_short": "Bayram JM, Chopra S, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Women report worse outcomes following total knee arthroplasty (TKA), but it remains unclear whether sex independently predicts outcomes or whether observed differences reflect baseline characteristics. This study aimed to characterize sex differences across a four-year recovery period and determine whether they persist after adjusting for confounding factors. METHODS: This prospective multicenter cohort study included 229 patients (114 women, 115 men; mean age 64 years) who underwent primary TKA. Patient-reported outcome measures (PROMs), including the Oxford Knee Score (OKS), Knee Injury and Osteoarthritis Outcome Score (KOOS) subscales, Forgotten Joint Score, and the EuroQol 5-Dimension (EQ-5D), along with physical measures (Objective Knee Society Score and range of motion), were collected preoperatively, at six weeks, six months, and annually up to four years postoperatively. Linear mixed-effects models assessed sex differences in postoperative trajectories with three levels of adjustment: unadjusted, demographic-adjusted, and baseline-adjusted (including preoperative scores). RESULTS: Women demonstrated lower-scoring postoperative trajectories than men across nearly all PROMs in unadjusted models, with the largest differences in functional outcomes (OKS: \u03b2 = -2.7, P < 0.001; KOOS Activities of Daily Living (ADL): \u03b2 = -5.7, P < 0.001). Women also had significantly worse preoperative scores across all knee-specific PROMs (P < 0.05). Demographic adjustment attenuated sex effects, leaving only OKS (P = 0.009) and KOOS ADL (P = 0.012) significant. After additional adjustment for preoperative scores, sex differences in all PROMs were eliminated (P > 0.05). CONCLUSION: Sex was not an independent predictor of TKA outcomes once baseline characteristics and preoperative scores were accounted for. Women present with less favorable preoperative profiles, including worse pain and function, higher body mass index, and greater prevalence of anxiety and depression. Improving preoperative status in women through earlier referral, optimized management of affective disorders, and targeted interventions may help narrow disparities in TKA outcomes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41881206/",
+      "score": 76,
+      "score_reasoning": "A large database study (7,530 patients) showing untreated onychomycosis increases PJI risk provides actionable preoperative screening information for arthroplasty surgeons.",
+      "bullets": [
+        "Women have worse outcomes after total knee arthroplasty, but this difference disappears when accounting for their worse preoperative pain, function, and mental health status.",
+        "Female patients present for surgery with significantly worse baseline knee scores, higher BMI, and more anxiety and depression compared to men.",
+        "Earlier referral and preoperative optimization of women's physical and mental health status may improve their postoperative outcomes to match men's results."
+      ]
+    },
+    {
+      "pmid": "41862142",
+      "title": "Kinematic and Mechanical Alignment Yield Similar Outcomes in Total Knee Arthroplasty: A Systematic Review and A Meta-analysis of Randomized Controlled Trials.",
+      "authors": [
+        "Blackman B",
+        "Burow C",
+        "Macciacchera M",
+        "Hayes E",
+        "Garceau S"
+      ],
+      "authors_short": "Blackman B, Burow C, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: While mechanical alignment (MA) is the current gold standard for total knee arthroplasty (TKA), suboptimal patient satisfaction rates have prompted the exploration of alternative alignment strategies. This review examined whether kinematic alignment (KA) improves outcomes following TKA compared to MA. METHODS: There were four databases searched from inception to September 23, 2024, to identify randomized controlled trials (RCTs) investigating TKA using KA compared to MA. Patient demographics, operative techniques, objective outcomes, and patient-reported outcome measures (PROMs) were abstracted. Meta-analyses were performed to compare survivorship, Western Ontario and McMaster Universities Arthritis Index (WOMAC), Oxford Knee Score (OKS), and Forgotten Joint Score (FJS). Risk of bias was assessed using the RoB 2 tool for RCTs. There were 11 RCTs and 972 patients included (KA: 484, MA: 488). The mean follow-up was 3.9 years (range, one to 13). RESULTS: There was no statistically significant difference in all-cause reoperation rate between groups (relative risk (RR): 1.34, 95% confidence interval (CI): 0.71 to 2.52, I2 = 0%, P = 0.37). A meta-analysis of two studies with greater than 10-year follow-up found no statistically significant difference in all-cause reoperations (RR: 1.21, 95% CI: 0.6 to 2.47, I2 = 0%, P = 0.59) and component revisions (RR: 1.26, 95% CI: 0.38 to 4.14, I2 = 0%, P = 0.71) between groups. There was no statistically significant difference in PROMs between groups. In two studies including patients who underwent bilateral TKA (KA versus MA), KA was significantly more likely to be the preferred knee (RR: 2.15, 95% CI: 1.36 to 3.40, I2 = 0%, P = 0.00). CONCLUSION: There is no significant difference in objective outcomes or PROMs when comparing KA with MA. However, within-subject comparison from bilateral TKA studies indicates patients are more than twice as likely to prefer their KA knee. Future longer-term studies are warranted to better understand the application of varying alignment strategies in TKA, including which populations may benefit most from KA. LEVEL OF EVIDENCE: Level I.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41862142/",
+      "score": 75,
+      "score_reasoning": "A systematic review and meta-analysis of 972 patients comparing kinematic vs mechanical alignment in TKA addresses a current hot topic in arthroplasty with high clinical relevance.",
+      "bullets": [
+        "Kinematic alignment and mechanical alignment show no difference in reoperation rates, revisions, or patient reported outcome scores at average 4 year followup across 11 randomized trials.",
+        "In bilateral knee replacement patients who had one kinematic and one mechanical alignment knee, patients preferred the kinematic alignment knee twice as often.",
+        "Both alignment strategies appear equally safe and effective by standard measures, but kinematic alignment may provide subjective benefits that current outcome tools do not capture."
       ]
     },
     {
@@ -78,213 +220,68 @@
         "Journal Article"
       ],
       "link": "https://pubmed.ncbi.nlm.nih.gov/41884888/",
-      "score": 78,
-      "score_reasoning": "Retrospective study of 187 hips examining predictors for residual acetabular dysplasia after DDH treatment, providing valuable insights for pediatric hip surgery outcomes.",
-      "bullets": [
-        "Children with DDH who have ischiopubic synchondrosis fusion before age 5 have 83% risk of residual acetabular dysplasia after closed reduction compared to 63% in those fusing at age 5 or later.",
-        "Higher IHDI grade and larger pre-reduction acetabular index predict residual dysplasia, with cutoff values of 30 degrees at 1 year and 27 degrees at 2-3 years post-reduction indicating poor remodeling.",
-        "Acetabular remodeling continues for 5 years after closed reduction in DDH patients, requiring long-term follow-up as 39% eventually need secondary reconstructive surgery."
-      ]
-    },
-    {
-      "pmid": "41860573",
-      "title": "Femoral Distraction Osteogenesis in Fibular Hemimelia: Risks and Advantages Using Magnetically Driven Antegrade Intramedullary Lengthening Nails.",
-      "authors": [
-        "Frommer A",
-        "Porokhovnikov I",
-        "Gosheger G",
-        "Vogt B",
-        "Laufer A",
-        "Tretow H",
-        "Roedl R",
-        "Toporowski G"
-      ],
-      "authors_short": "Frommer A, Porokhovnikov I, et al.",
-      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
-      "journal_abbrev": "J Am Acad Orthop Surg",
-      "year": "2026",
-      "abstract": "BACKGROUND: Fibular hemimelia (FH) is a rare congenital condition characterized by longitudinal lower limb deficiency with fibular hypoplasia or aplasia commonly associated with femoral and tibial shortening resulting in leg length discrepancy (LLD). Femoral distraction osteogenesis represents a well-established reconstructive approach in patients with LLD exceeding 2 cm. METHODS: Twenty-three patients with FH were treated with antegrade femoral distraction osteogenesis between 2018 and 2021 using magnetically controlled motorized intramedullary lengthening nails (Precice P2 or Stryde, NuVasive/Globus Medical). The primary end points included accuracy, precision, reliability, distraction and consolidation index, and the complication profile. Radiographic and clinical outcomes were assessed over a median follow-up period of 39 (interquartile range [IQR], 26 to 52) months. RESULTS: The median preoperative LLD of 45 (IQR, 39 to 53) mm was reduced to 9 (IQR, 4 to 13) mm (P < 0.001) following a median distraction length of 40 (IQR, 34 to 44) mm. Planned lengthening was achieved with an accuracy of 91% \u00b1 8% and a precision of 91%. The mean distraction index was 0.8 \u00b1 0.2 mm/d, and a consolidation index of 36 \u00b1 15 d/cm. At least one complication was observed in 70% of cases, including transient or persistent knee stiffness (39%) and pain (39%). Unplanned additional surgery related to complications was conducted in 17% of patients and all complications were successfully treated without permanent sequelae. The reliability of the treatment was 96%. No significant correlation was observed between distraction length and complications or revision surgery. CONCLUSION: Femoral distraction osteogenesis using magnetically driven intramedullary lengthening nails represents a precise and reliable treatment for LLD in FH. Despite favorable radiographic outcomes and high distraction accuracy, the notable complication rate underscores the necessity of rigorous patient selection and structured postoperative management.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41860573/",
-      "score": 75,
-      "score_reasoning": "Large multicenter study (23 patients) on magnetically controlled intramedullary lengthening for fibular hemimelia with comprehensive outcome analysis and high clinical relevance.",
-      "bullets": [
-        "Magnetic intramedullary lengthening nails reduced leg length discrepancy from 45mm to 9mm in fibular hemimelia patients with 91% accuracy.",
-        "Seventy percent of patients experienced complications, most commonly knee stiffness and pain, with 17% requiring additional surgery.",
-        "All complications resolved without permanent problems, making this a reliable option for leg length discrepancies over 2cm in fibular hemimelia."
-      ]
-    },
-    {
-      "pmid": "41853807",
-      "title": "Deviation From AI-Predicted Implant Sizes in Total Hip Arthroplasty Is Associated With Increased Complication Risk.",
-      "authors": [
-        "Murphy MP",
-        "Schneider AM",
-        "Killen CJ",
-        "Schmitt DR",
-        "Brown NM"
-      ],
-      "authors_short": "Murphy MP, Schneider AM, et al.",
-      "journal": "Arthroplasty today",
-      "journal_abbrev": "Arthroplast Today",
-      "year": "2026",
-      "abstract": "BACKGROUND: Patient characteristics may predict implant sizes in total hip arthroplasty (THA), but the clinical value and generalizability of such models remain uncertain. This study evaluated the accuracy and relevance of an artificial intelligence (AI)-driven prediction tool for THA sizing in a diverse population. METHODS: We retrospectively reviewed 2410 primary THAs at 2 academic hospitals (2007-2021). Data included patient characteristics, surgical approach, surgeon fellowship training, and complications (periprosthetic femur fracture [PPF], aseptic loosening within 1 year). An AI model predicted femoral stem and acetabular cup sizes using age, sex, height, weight, and race/ethnicity, and these predictions were compared with implanted sizes. In a subset, predictions were compared to traditional radiographic templating. Multivariate analyses assessed associations between size deviation and complications. RESULTS: AI-predicted femoral stems and cups were within one size of implanted components in 72.0% and 77.7% of cases, and within 2 sizes in 91.2% and 94.7%, respectively. Excluding complex cases (dysplasia, avascular necrosis, head collapse, conversion THA) improved accuracy (P < .0001). In subgroup analysis, AI predictions outperformed radiographic templating for stems (mean deviation 0.731 vs 1.179; P < .0001) and cups (0.673 vs 1.071; P = .036). Arthroplasty-trained surgeons implanted components significantly closer to AI-predicted sizes (P < .001). Closer alignment with AI-predicted stem size was associated with reduced aseptic loosening and PPF (P < .0001). CONCLUSIONS: A free AI-assisted prediction tool (Mortho) demonstrated strong accuracy and generalizability for implant sizing in primary THA, particularly in standard cases. Predictions mirrored arthroplasty-trained surgeons' selections and outperformed radiographic templating, supporting patient characteristic-based AI as a valuable adjunct for THA planning.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41853807/",
-      "score": 72,
-      "score_reasoning": "Innovative AI-based study of 2410 THAs showing that deviation from predicted implant sizes correlates with complications, offering novel clinical decision-making tool.",
-      "bullets": [
-        "AI predicted THA implant sizes within one size of actual implants in 72% of stems and 78% of cups across 2410 cases.",
-        "Deviating from AI predicted implant sizes was associated with higher rates of aseptic loosening and periprosthetic fractures.",
-        "AI predictions were more accurate than traditional radiographic templating and matched choices made by fellowship trained arthroplasty surgeons."
-      ]
-    },
-    {
-      "pmid": "41860574",
-      "title": "Improvement in Antimicrobial Stewardship for Orthopaedics Procedures: A NSQIP Quality-Improvement Project.",
-      "authors": [
-        "Nash A",
-        "Mason M",
-        "Kiesel K",
-        "Vodzak J",
-        "McCann A",
-        "Kestecher B",
-        "Atanda AW",
-        "Berman L",
-        "Shah SA",
-        "Franzone JM"
-      ],
-      "authors_short": "Nash A, Mason M, et al.",
-      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
-      "journal_abbrev": "J Am Acad Orthop Surg",
-      "year": "2026",
-      "abstract": "INTRODUCTION: Antimicrobial resistance is a notable threat to global health. In an institution-specific report generated through National Surgical Quality-Improvement Pediatric Program (NSQIP-P) for our institution, our orthopaedic surgery department was a high outlier for postoperative antibiotic prophylaxis duration of >24 hours. We describe an initiative to reduce the incidence of postoperative duration of antibiotics of >24 hours for pediatric patients undergoing orthopaedic surgery. METHODS: An interdisciplinary team was formed to identify and monitor interventions for improvement. Patients undergoing orthopaedic surgeries and receiving postoperative intravenous antibiotics were included. First-stage interventions included verbal education for front-line staff to ensure that postoperative antibiotic prescribing did not exceed two doses. Second-stage interventions included a modification that changed the default postoperative antibiotic dose from three to two doses for the three most used orthopaedic admission order sets in the electronic medical record. Patient-level, electronic health record data elements were extracted and presented through a created electronic dashboard to track near-real-time metrics. Surgical site infections were tracked through NSQIP-P database as a balancing measure. RESULTS: A total of 2,546 surgical cases met study criteria: 1,680 and 866 cases in the pre- and post-intervention cohorts, respectively. Cefazolin was the primary postoperative antibiotic prescribed in 95.4% of cases. In the preintervention cohort, <24 hours of postoperative antibiotics was 36.7% compared with 84.7% (48.0% improvement) in the post-second stage intervention cohort. A sampling of postintervention cases demonstrated no notable increase in surgical site infection events compared with matched period sampling of preintervention cases. CONCLUSION: NSQIP-P can be leveraged to improve antibiotic stewardship in pediatric orthopaedic surgical cases. Multidisciplinary collaboration, front-line staff education coupled with electronic medical record order set modification, and near-real-time data tracking for provider feedback resulted in a 48.0% improvement of patients receiving <24 hours of perioperative antibiotics. LEVEL OF EVIDENCE: III.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41860574/",
-      "score": 70,
-      "score_reasoning": "Quality improvement study using NSQIP data demonstrating successful reduction in prolonged antibiotic use, with direct applicability to antimicrobial stewardship.",
-      "bullets": [
-        "A pediatric orthopaedic department reduced prolonged antibiotic use from 63% to 15% of cases through staff education and changing default order sets from 3 to 2 postoperative doses.",
-        "The intervention applied to 2,546 pediatric orthopaedic surgery cases with cefazolin as the primary antibiotic in 95% of patients.",
-        "Surgical site infection rates remained unchanged despite the 48% reduction in patients receiving antibiotics beyond 24 hours postoperatively."
-      ]
-    },
-    {
-      "pmid": "41799749",
-      "title": "Parkinson's Disease Patients Face Higher 90-Day Readmission, Reoperation, and Infection Risk Following Total Knee Arthroplasty.",
-      "authors": [
-        "Maman D",
-        "Steinfeld Y",
-        "Berkovich Y"
-      ],
-      "authors_short": "Maman D, Steinfeld Y, Berkovich Y",
-      "journal": "Arthroplasty today",
-      "journal_abbrev": "Arthroplast Today",
-      "year": "2026",
-      "abstract": "BACKGROUND: Parkinson's disease (PD) is an increasingly common comorbidity in patients undergoing total knee arthroplasty (TKA), yet its impact on readmissions remains poorly defined. METHODS: Using the Nationwide Readmissions Database 2020-2022, we identified elective, primary TKA cases. Patients with oncologic diagnoses, COVID-19-related admissions, acute fractures, and contralateral knee arthroplasty were excluded. Only the first readmission within 90 days was analyzed. Propensity score matching (1:1) was performed for demographics, comorbidities, hospital factors, and primary payer. The primary outcome was 90-day readmission. Secondary outcomes included infection-related readmissions, surgical procedures during readmission, readmission length of stay, readmission costs, and in-hospital mortality. RESULTS: After matching, 7286 patients were included (3675 PD vs 3611 non-PD). PD patients had a significantly higher 90-day readmission rate (13.0% vs 7.3%; P < .01). Infection-related readmissions (4.1% vs 2.2%; P < .01) and surgical procedures during readmission (7.5% vs 4.1%; P < .01) were more frequent in PD patients. Readmission length of stay was longer (5.9 vs 4.1 days; P < .01), and readmission costs were higher ($63,023 vs $48,855; P < .01). In-hospital mortality during readmission was also higher in PD patients (0.3% vs 0.1%; P < .01). CONCLUSIONS: PD is associated with a significantly higher risk of 90-day readmission following TKA, with readmissions frequently involving infection-related complications and surgical intervention. These findings highlight the importance of tailored perioperative care and enhanced postdischarge monitoring in this vulnerable population. LEVELS OF EVIDENCE: Level III.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41799749/",
       "score": 68,
-      "score_reasoning": "Large database study (7286 patients) demonstrating significantly higher readmission and complication rates in Parkinson's patients after TKA with important clinical implications.",
+      "score_reasoning": "A retrospective review of 150 children with DDH examining predictors of residual acetabular dysplasia provides valuable prognostic information for pediatric orthopaedic surgeons.",
       "bullets": [
-        "Parkinson's patients have nearly double the 90-day readmission rate after TKA compared to matched controls (13.0% vs 7.3%).",
-        "Infection-related readmissions and need for surgical procedures during readmission are both significantly higher in Parkinson's patients.",
-        "Readmissions in Parkinson's patients cost more, last longer, and carry higher mortality risk than in patients without the disease."
+        "Children with ischiopubic synchondrosis fusion before age 5 had 83% incidence of residual acetabular dysplasia after closed reduction for DDH versus 63% in those fusing at age 5 or later.",
+        "Higher IHDI grade and larger preoperative acetabular index predict residual acetabular dysplasia after closed reduction in DDH patients.",
+        "Acetabular remodeling continues for 5 years after closed reduction with cutoff acetabular index values of 30 degrees at 1 year and 27 degrees at 2 to 3 years post reduction."
       ]
     },
     {
-      "pmid": "41853805",
-      "title": "A Novel Preoperative Calculator for 90-Day Prosthetic Joint Infection Following Total Joint Arthroplasty Based off the Michigan Arthroplasty Registry Collaborative Quality Initiative Database.",
+      "pmid": "41875234",
+      "title": "Outcomes and Complications of Vertebral Body Tethering in Skeletally Immature Patients with Idiopathic Scoliosis.",
       "authors": [
-        "Gerow D",
-        "Zheng H",
-        "Hughes RE",
-        "Hallstrom B",
-        "Johnson K"
+        "Imbeault R",
+        "Shen J",
+        "Alzakri A",
+        "Barchi S",
+        "Roy-Beaudry M",
+        "Turgeon I",
+        "Parent S"
       ],
-      "authors_short": "Gerow D, Zheng H, et al.",
-      "journal": "Arthroplasty today",
-      "journal_abbrev": "Arthroplast Today",
+      "authors_short": "Imbeault R, Shen J, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
       "year": "2026",
-      "abstract": "BACKGROUND: Total joint arthroplasty has become one of the most successful surgeries in regard to quality of life and cost-effectiveness. Periprosthetic joint infections can have catastrophic effects on a patient's surgical outcome, quality of life, and function. Shared decision-making can help patients reduce their risk by changing modifiable risk factors. METHODS: Logistic regression was used to construct an infection risk prediction model for primary total joint arthroplasty of hips and knees using data from the Michigan Arthroplasty Registry Collaborative Quality Initiative dataset, which included 140,884 total knee arthroplasties and 82,110 total hip arthroplasties. The resulting model was deployed using a web-based interface that allows surgeons to counsel their patients in the clinic by showing them in real time how adjusting modifiable risk factors will affect their overall risk of infection. RESULTS: To our knowledge, this study is novel in finding preoperative opioid use and use of assistive devices to be correlated with infection after primary total knee arthroplasties and total hip arthroplasties. Modifiable risk factors that were found to significantly affect risk included body mass index, smoking, and preop narcotic use. Nonmodifiable risk factors included sex assigned at birth, marital status, race, type of payer, preoperative use of assistive devices, and annual surgeon volume <100 cases per year. CONCLUSIONS: While some of these risk factors are nonmodifiable, others can be addressed and optimized prior to surgery. Surgeons must be equipped with infection risk information to accurately counsel patients preoperatively, while also using data to drive patient selection.",
+      "abstract": "BACKGROUND: Vertebral body tethering (VBT) aims to gradually correct scoliosis using patients' growth while preserving spinal motion. We report 5 to 8-year outcomes and complications in skeletally immature patients. METHODS: This prospective single-center cohort study included 74 patients who had idiopathic scoliosis and a \u22655-year follow-up. Preoperative, first postoperative visit, 1-year, 2-year, and \u22655-year radiographs were analyzed. A \u22655\u00b0 increase in the interscrew angle suggested tether breakage. RESULTS: All 74 patients (5 male and 69 female) were skeletally immature at surgery. The mean age at surgery was 11.8 \u00b1 1.3 years, and the mean follow-up time was 63.4 \u00b1 8.4 months. Of the 74 patients, 68 patients were White, 4 were Black, and 2 were Middle Eastern or North African. VBT was performed on a mean of 7.4 vertebral levels. The maximum Cobb angle was 47.9\u00b0 \u00b1 9.4\u00b0 preoperatively, whereas the instrumented Cobb angle measured 17.2\u00b0 \u00b1 12.3\u00b0 at 2 years and 25.7\u00b0 \u00b1 14.0\u00b0 at \u22655 years postoperatively. An unplanned return to the operating room occurred in 16 patients (21.6%). Forty-nine patients (66%) had a suspected broken tether at the final follow-up. The mean time of the first tether breakage was 38.1 \u00b1 15 months. Forty-nine patients (66%) also had a curve of <40\u00b0 without an unplanned return to the operating room at a minimum of 5 years postoperatively. CONCLUSIONS: In our cohort, 66% (49 patients) had a radiographically suspected tether breakage after 5 years and 13.5% (10 patients) required posterior spinal fusion to date. VBT yielded significant correction in the coronal plane (p < 0.001) and transverse plane (p = 0.006) postoperatively, with a reoperation rate of 21.6%. LEVEL OF EVIDENCE: Therapeutic Level II. See Instructions for Authors for a complete description of levels of evidence.",
       "pub_types": [
         "Journal Article"
       ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41853805/",
-      "score": 65,
-      "score_reasoning": "Novel preoperative infection risk calculator based on large registry data (222,994 patients) providing valuable shared decision-making tool for arthroplasty surgeons.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41875234/",
+      "score": 64,
+      "score_reasoning": "A prospective single-center study of 74 patients with 5-8 year outcomes after vertebral body tethering provides long-term data on this newer scoliosis treatment modality.",
       "bullets": [
-        "Researchers developed a preoperative calculator using 223,000 hip and knee replacements that predicts 90-day infection risk for individual patients.",
-        "Modifiable infection risk factors include high BMI, smoking, and preoperative opioid use, while preoperative assistive device use was a newly identified non-modifiable risk factor.",
-        "The web-based tool allows surgeons to show patients in real time how weight loss or smoking cessation would reduce their specific infection risk."
+        "Vertebral body tethering in 74 skeletally immature scoliosis patients reduced curves from 48\u00b0 to 26\u00b0 at 5+ years, with 66% maintaining curves under 40\u00b0.",
+        "Tether breakage occurred in 66% of patients at average 38 months, but only 14% required conversion to posterior spinal fusion by final follow-up.",
+        "Overall reoperation rate was 22%, suggesting VBT can delay or avoid fusion in most adolescent idiopathic scoliosis patients with moderate curves."
       ]
     },
     {
-      "pmid": "41860575",
-      "title": "Critical Analysis of Pediatric Orthopaedic Surgery Medical Malpractice Litigation: A Nationwide Retrospective Review.",
+      "pmid": "41882938",
+      "title": "Hip Arthroscopy in Patients With Acetabular Dysplasia: A Systematic Review of Clinical Outcomes at Long-term Follow-up.",
       "authors": [
-        "Arif HA",
-        "Devkumar D",
-        "Pyle A",
-        "Moore ST",
-        "Williams KA",
-        "Conklin MJ",
-        "Ghomrawi HK",
-        "Gilbert SR"
+        "Sparks CA",
+        "Monty TL",
+        "Brinkman JC",
+        "Barton KI",
+        "Nho SJ"
       ],
-      "authors_short": "Arif HA, Devkumar D, et al.",
-      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
-      "journal_abbrev": "J Am Acad Orthop Surg",
+      "authors_short": "Sparks CA, Monty TL, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
       "year": "2026",
-      "abstract": "PURPOSE: The primary aim of this study was to identify and characterize medical malpractice lawsuits pertaining to pediatric orthopaedic surgery. METHODS: The Westlaw research database was queried for all jury verdicts and settlements pertaining to pediatric orthopaedic medical malpractice from 1980 to 2024. Cases were only included if the primary basis of litigation rested on a malpractice claim related to pediatric orthopaedic surgery and were levied against an orthopaedic surgeon. Data collected included date and state of case filing, patient (plaintiff) and surgeon (defendant) demographics, jury verdict, monetary awards, alleged negligence, and patient complications. RESULTS: Of 5,031 cases screened for inclusion, a total of 100 cases met the inclusion and exclusion criteria and were subsequently included in the final analysis. Plaintiff favorable outcomes were more commonly seen than a defendant verdict (56% vs. 44%). Patients most commonly presented for fracture management (62%), and most commonly underwent casting (30%). Alleged failure to diagnose was the most frequent basis of litigation (30%) and was predictive of a plaintiff outcome. The most frequent complication was the presence of permanent deformity (22%). A pediatric orthopaedic surgeon was the primary defendant in 59% of cases and was more commonly named following closed reduction and percutaneous pinning. Adult orthopaedic surgeons (41%) were more commonly named following fracture casting. CONCLUSION: The majority of medical malpractice cases in pediatric orthopaedic surgery result in plaintiff-favorable outcomes. Pediatric orthopaedic medical malpractice cases most often arise in the setting of fracture care and allegations of missed diagnoses. Patients pursuing litigation most frequently sustain permanent deformity as a result of the alleged negligence. Both pediatric and adult orthopaedic surgeons primarily face litigation following call-related fracture cases.",
+      "abstract": "BACKGROUND: Hip arthroscopy has shown satisfactory outcomes for the treatment of intra-articular pathology and femoroacetabular impingement syndrome (FAIS) in the setting of acetabular dysplasia at short- and mid-term follow-up. However, the long-term outcomes remain less understood. PURPOSE: To systematically review the literature to determine patient-reported outcomes (PROs), clinically significant outcome (CSO) achievement, reoperation rates, and predictors of failure in patients with acetabular dysplasia undergoing hip arthroscopy at long-term follow-up. STUDY DESIGN: Systematic review; Level of evidence, 4. METHODS: Three databases were searched around the following terms: hip arthroscopy, dysplasia, and long-term follow-up. Articles available in English, presenting original data, and reporting on a mean follow-up of \u226510 years after primary hip arthroscopy using either PROs, CSOs, or conversion to total hip arthroplasty (THA) and/or revision surgery were included. Quality assessment was completed using Methodological Index for Non-Randomized Studies (MINORS) assessment. RESULTS: Five studies (555 hips) were included in the systematic review: patients had a mean age of 30 to 41 years, 13% to 88% of patients were female, and follow-up ranged from 9.6 to 12 years. MINORS assessment ranged from 11 to 21. All studies included PROs and reported statistically significant improvement for most PROs. The most frequent PRO was the Modified Harris Hip Score (mHHS) (n = 5). All studies reported CSO achievement, with mHHS and Hip Outcome Score-Sport Specific (HOS-SS) being the most common (n = 4). Revision surgery and conversion to THA ranged from 2.6% to 15.2% and from 2.6% to 23.7%, respectively across dysplasia cohorts. The most common definition of failure was conversion to THA, and T\u00f6nnis angle was the most common predictor of failure. Four studies made comparisons to a nondysplasia group, with 1 study finding inferior HOS-SS and inferior achievement of Patient Acceptable Symptom State across multiple PROs in the dysplasia group. All 4 comparative studies found no differences in rates of revision surgery or conversion to THA between groups. CONCLUSION: Hip arthroscopy can reliably provide durable and clinically meaningful improvements for the treatment of intra-articular pathology and FAIS in patients with acetabular dysplasia at long-term follow-up, with comparable rates of revision surgery and conversion to THA to nondysplastic cohorts, although select dysplastic populations may demonstrate inferior patient-reported outcomes.",
       "pub_types": [
         "Journal Article"
       ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41860575/",
-      "score": 63,
-      "score_reasoning": "Comprehensive analysis of pediatric orthopaedic malpractice litigation (100 cases) providing valuable risk management insights for practicing surgeons.",
-      "bullets": [
-        "Pediatric orthopaedic malpractice cases favor plaintiffs 56% of the time, with fracture care accounting for 62% of all lawsuits.",
-        "Failure to diagnose is the most common allegation (30%) and predicts plaintiff victory, while permanent deformity is the most frequent complication (22%).",
-        "Pediatric orthopaedic surgeons face more lawsuits after closed reduction and pinning, while adult orthopaedic surgeons are sued more often after casting."
-      ]
-    },
-    {
-      "pmid": "41853803",
-      "title": "Weight Loss in Primary Total Hip and Knee Arthroplasty: A Comparative Study of Glucagon-Like Peptide-1 Receptor Agonists and Bariatric Surgery.",
-      "authors": [
-        "Ledford CK",
-        "Mika AP",
-        "Lopez RJ",
-        "Spencer-Gardner LS",
-        "Hannon CP",
-        "Clarke HD",
-        "Abdel MP",
-        "Springer BD"
-      ],
-      "authors_short": "Ledford CK, Mika AP, et al.",
-      "journal": "Arthroplasty today",
-      "journal_abbrev": "Arthroplast Today",
-      "year": "2026",
-      "abstract": "BACKGROUND: Our study evaluated 90-day outcomes of patients treated preoperatively with glucagon-like peptide-1 receptor agonists (GLP-1) or bariatric surgery compared to no weight loss intervention prior to total hip arthroplasty (THA) and total knee arthroplasty (TKA). METHODS: A multicenter institutional cohort of patients undergoing primary THA (n = 5710) and TKA (n = 6770) from 2023 to 2024 was identified. Preoperative weight-loss strategies included no intervention (89%), perioperative use of GLP-1 (10%), or prior bariatric surgery (1%). Ninety-day readmissions and reoperations were compared among groups. Subanalyses were performed stratifying obesity (body mass index) classification and diabetes mellitus status vs others to contextualize these independent risk factors. RESULTS: Among all patients undergoing THA and TKA, those who had undergone bariatric surgery experienced significantly higher reoperation rates at 90 days compared to those without intervention and GLP-1 groups (2.2 vs 0.5 vs 0.8%, respectively; P = .014). For THA, both the no intervention and GLP-1 groups had significantly lower readmission rates compared to the bariatric surgery group (4.4 vs 6.5 vs 8.8%, respectively; P = .04) and lower reoperation rates (0.4 vs 1.4 vs 2.2%; P = .006). For TKA, there were no significant differences in readmission (P \u2265  .47) or reoperation rates (P \u2265 .067) among the groups or by body mass index class and diabetes mellitus status. CONCLUSIONS: Compared to no weight loss intervention, patients utilizing perioperative GLP-1s demonstrated similar 90-day readmission and reoperation rates after primary THA and TKA. Those with prior bariatric surgery showed the greatest risk of readmission and reoperation, particularly after THA. LEVEL OF EVIDENCE: IV, Retrospective Review.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41853803/",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41882938/",
       "score": 62,
-      "score_reasoning": "Study comparing GLP-1 agonists and bariatric surgery outcomes before arthroplasty (12,480 patients) addressing timely clinical question with practical implications.",
+      "score_reasoning": "A systematic review of hip arthroscopy outcomes in acetabular dysplasia at long-term follow-up (555 hips) provides valuable prognostic information for hip preservation surgeons.",
       "bullets": [
-        "Patients using GLP-1 medications before hip or knee replacement had similar 90-day complication rates compared to those with no weight loss intervention.",
-        "Prior bariatric surgery patients had higher reoperation rates at 90 days (2.2%) compared to GLP-1 users (0.8%) and controls (0.5%).",
-        "Hip replacement patients with prior bariatric surgery had particularly high readmission rates (8.8%) compared to GLP-1 users (6.5%) and controls (4.4%)."
+        "Hip arthroscopy in acetabular dysplasia patients shows durable improvement in pain and function at 10+ year follow-up across multiple outcome measures.",
+        "Conversion to total hip replacement occurs in 3% to 24% of dysplastic hips, with higher T\u00f6nnis angles predicting failure.",
+        "Dysplastic patients have similar revision and conversion rates compared to normal hips, though some may have worse patient-reported outcomes."
       ]
     }
   ],
