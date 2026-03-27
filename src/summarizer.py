@@ -69,15 +69,25 @@ Return ONLY a JSON array of exactly 3 strings, one per bullet point. No other te
 
 
 def summarize_papers(papers: list[dict]) -> list[dict]:
-    """Add bullet point summaries to each paper."""
+    """Add bullet point summaries to each paper.
+
+    Papers that fail summarization get bullets set to an empty list
+    so the caller can detect and replace them.
+    """
     for paper in papers:
         try:
-            paper["bullets"] = summarize_paper(paper)
+            bullets = summarize_paper(paper)
+            # Verify we got exactly 3 non-empty bullet points
+            if (
+                not isinstance(bullets, list)
+                or len(bullets) != 3
+                or any(not b or not b.strip() for b in bullets)
+            ):
+                raise ValueError(
+                    f"Expected 3 non-empty bullets, got {bullets!r}"
+                )
+            paper["bullets"] = bullets
         except Exception as e:
-            print(f"  Error summarizing '{paper['title'][:60]}': {e}")
-            paper["bullets"] = [
-                "Summary generation failed for this paper.",
-                "Please review the abstract directly.",
-                "See the PubMed link below for full details.",
-            ]
+            print(f"  FAILED summarizing '{paper['title'][:60]}': {e}")
+            paper["bullets"] = []
     return papers

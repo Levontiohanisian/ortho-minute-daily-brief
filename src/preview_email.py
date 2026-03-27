@@ -61,7 +61,19 @@ def _build_preview_html(date: datetime, candidates: list[dict]) -> str:
 
 
 def send_preview_email(date: datetime, candidates: list[dict]) -> bool:
-    """Send preview email to editor for review."""
+    """Send preview email to editor for review.
+
+    Papers without exactly 3 bullet points are filtered out as a safety net.
+    """
+    # Safety net: never include a paper missing bullet points
+    candidates = [
+        p for p in candidates
+        if isinstance(p.get("bullets"), list) and len(p["bullets"]) == 3
+    ]
+
+    if not candidates:
+        print("ERROR: No candidates with valid bullet points. Cannot send preview.")
+        return False
 
     date_str = date.strftime("%A, %B %d")
     subject = f"[PREVIEW] The Ortho Minute Daily Brief | {date_str}"

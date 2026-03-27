@@ -36,15 +36,35 @@ def main():
         print("WARNING: No papers found.")
         return 1
 
-    # Step 2: Score papers
+    # Step 2: Score papers (fetch more than 10 so we have replacements)
     print("--- Step 2: Scoring papers ---")
-    ranked = score_papers(papers, top_n=10)
-    print(f"  Top candidates: {len(ranked)}")
+    TARGET = 10
+    POOL_SIZE = TARGET + 10  # Extra candidates in case summarization fails
+    pool = score_papers(papers, top_n=POOL_SIZE)
+    print(f"  Scored pool: {len(pool)} papers")
     print()
 
-    # Step 3: Summarize candidates
+    # Step 3: Summarize top candidates, replacing failures from the pool
     print("--- Step 3: Summarizing papers ---")
-    ranked = summarize_papers(ranked)
+    ranked = []
+    pool_idx = 0
+    while len(ranked) < TARGET and pool_idx < len(pool):
+        # Take the next batch of unsummarized papers from the pool
+        batch_end = min(pool_idx + (TARGET - len(ranked)), len(pool))
+        batch = pool[pool_idx:batch_end]
+        pool_idx = batch_end
+
+        summarize_papers(batch)
+
+        for paper in batch:
+            if len(paper.get("bullets", [])) == 3:
+                ranked.append(paper)
+                if len(ranked) >= TARGET:
+                    break
+            else:
+                print(f"  Dropping (no bullets): '{paper['title'][:60]}'")
+
+    print(f"  Final candidates with bullets: {len(ranked)}")
     print()
 
     # Step 4: Save candidates

@@ -63,9 +63,19 @@ def main():
 
     print()
 
+    # Filter out any candidates missing bullet points (safety net)
+    valid_candidates = [
+        p for p in candidates
+        if isinstance(p.get("bullets"), list) and len(p["bullets"]) == 3
+    ]
+    if len(valid_candidates) < len(candidates):
+        dropped = len(candidates) - len(valid_candidates)
+        print(f"  Dropped {dropped} candidate(s) missing bullet points.")
+        candidates = valid_candidates
+
     # Select final papers
     if len(candidates) < 2:
-        print("ERROR: Not enough candidates.")
+        print("ERROR: Not enough candidates with valid bullet points.")
         return 1
 
     pick1 = min(picks[0], len(candidates) - 1)
