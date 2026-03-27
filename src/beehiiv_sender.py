@@ -13,10 +13,10 @@ from .config import (
 
 def _build_brief_html(
     date: datetime,
-    subspecialty: str,
-    subspecialty_paper: dict,
-    arthroplasty_slot: str,
-    arthroplasty_paper: dict,
+    slot1_name: str,
+    slot1_paper: dict,
+    slot2_name: str,
+    slot2_paper: dict,
 ) -> str:
     """Build the final subscriber brief HTML."""
 
@@ -49,14 +49,16 @@ def _build_brief_html(
 <body style="margin:0; padding:0; background:#f9f9f9;">
 <table cellpadding="0" cellspacing="0" width="100%" style="max-width:600px; margin:0 auto; font-family:Georgia, serif; color:#222; background:#fff; padding:32px;">
 
-<tr><td style="padding-bottom:16px; border-bottom:2px solid #222;">
+<tr><td style="border-bottom:2px solid #222; padding-bottom:16px;">
   <h1 style="font-size:20px; margin:0; letter-spacing:1px;">THE ORTHO MINUTE DAILY BRIEF</h1>
-  <p style="color:#666; margin:4px 0 0 0; font-size:14px;">{date_str}</p>
+</td></tr>
+<tr><td style="padding:12px 0 0 0;">
+  <p style="color:#666; margin:0; font-size:14px;">{date_str}</p>
 </td></tr>
 
-{paper_section(subspecialty, subspecialty_paper)}
+{paper_section(slot1_name, slot1_paper)}
 {separator}
-{paper_section(arthroplasty_slot, arthroplasty_paper)}
+{paper_section(slot2_name, slot2_paper)}
 {separator}
 
 <tr><td style="padding:24px 0 0 0; text-align:center;">
@@ -72,62 +74,21 @@ def _build_brief_html(
     return html
 
 
-def _build_brief_text(
-    date: datetime,
-    subspecialty: str,
-    subspecialty_paper: dict,
-    arthroplasty_slot: str,
-    arthroplasty_paper: dict,
-) -> str:
-    """Build plain text version of the brief."""
-
-    date_str = date.strftime("%A, %B %d")
-
-    def paper_block(title: str, paper: dict) -> str:
-        journal_display = paper.get("journal_abbrev") or paper["journal"]
-        bullets = "\n".join(f"- {b}" for b in paper.get("bullets", []))
-        return f"""{title.upper()}
-
-{paper['title']}
-{journal_display} ({paper['year']})
-
-{bullets}
-
-Read the paper: {paper['link']}"""
-
-    return f"""THE ORTHO MINUTE DAILY BRIEF
-{date_str}
-
------
-
-{paper_block(subspecialty, subspecialty_paper)}
-
------
-
-{paper_block(arthroplasty_slot, arthroplasty_paper)}
-
------
-
-The Ortho Minute
-Curated orthopaedic research. Daily.
-{WEBSITE_URL}"""
-
-
 def send_to_beehiiv(
     date: datetime,
-    subspecialty: str,
-    subspecialty_paper: dict,
-    arthroplasty_slot: str,
-    arthroplasty_paper: dict,
+    slot1_name: str,
+    slot1_paper: dict,
+    slot2_name: str,
+    slot2_paper: dict,
 ) -> bool:
     """Send the brief to Beehiiv subscribers."""
 
     date_str = date.strftime("%A, %B %d")
-    subject = f"Ortho Minute Daily Brief | {subspecialty} + {arthroplasty_slot} | {date_str}"
+    subject = f"The Ortho Minute Daily Brief"
 
     html = _build_brief_html(
-        date, subspecialty, subspecialty_paper,
-        arthroplasty_slot, arthroplasty_paper,
+        date, slot1_name, slot1_paper,
+        slot2_name, slot2_paper,
     )
 
     # Beehiiv API: Create a post and schedule/publish it
@@ -135,7 +96,7 @@ def send_to_beehiiv(
 
     payload = {
         "title": subject,
-        "subtitle": f"{subspecialty} + {arthroplasty_slot}",
+        "subtitle": date_str,
         "status": "confirmed",  # Sends immediately
         "content_html": html,
     }
@@ -161,7 +122,8 @@ def send_to_beehiiv(
         # Retry once
         print("Retrying Beehiiv send...")
         try:
-            with urllib.request.urlopen(req, timeout=30) as resp:
+            req2 = urllib.request.Request(url, data=data, headers=headers, method="POST")
+            with urllib.request.urlopen(req2, timeout=30) as resp:
                 print("Retry successful.")
                 return True
         except Exception as retry_err:

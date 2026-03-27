@@ -95,7 +95,7 @@ def send_preview_email(
     """Send preview email to editor for review."""
 
     date_str = date.strftime("%A, %B %d")
-    subject = f"[PREVIEW] Ortho Minute | {subspecialty} + {arthroplasty_slot} | {date_str}"
+    subject = f"[PREVIEW] The Ortho Minute Daily Brief | {date_str}"
 
     html = _build_preview_html(
         date, subspecialty, subspecialty_candidates,

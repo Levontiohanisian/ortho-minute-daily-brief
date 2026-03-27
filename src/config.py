@@ -1,6 +1,7 @@
 """Configuration constants for The Ortho Minute Daily Brief."""
 
 import os
+import hashlib
 from datetime import datetime, timezone, timedelta
 
 # Timezone
@@ -38,16 +39,14 @@ JOURNAL_QUERY = " OR ".join(
     f'"{name}"[Journal]' for name in JOURNALS.values()
 )
 
-# Weekly subspecialty rotation (0=Monday, 6=Sunday)
-SUBSPECIALTY_ROTATION = {
-    0: "Adult Reconstruction",
-    1: "Trauma",
-    2: "Foot & Ankle",
-    3: "Shoulder",
-    4: "Sports Medicine",
-    5: "Wildcard",
-    6: "Adult Reconstruction",
-}
+# All subspecialties (randomly rotated daily)
+SUBSPECIALTIES = [
+    "Adult Reconstruction",
+    "Trauma",
+    "Foot & Ankle",
+    "Shoulder",
+    "Sports Medicine",
+]
 
 # PubMed search terms per subspecialty
 SUBSPECIALTY_QUERIES = {
@@ -81,18 +80,22 @@ SUBSPECIALTY_QUERIES = {
     "Wildcard": "",  # No subspecialty filter for wildcard
 }
 
+def _date_hash(date: datetime, salt: str = "") -> int:
+    """Deterministic hash from date so rotation is consistent but varied."""
+    key = f"{date.strftime('%Y-%m-%d')}-{salt}"
+    return int(hashlib.md5(key.encode()).hexdigest(), 16)
+
 def get_today_subspecialty(date: datetime) -> str:
-    return SUBSPECIALTY_ROTATION[date.weekday()]
+    """Pick a subspecialty based on the date. Varies daily, no fixed pattern."""
+    idx = _date_hash(date, "slot1") % len(SUBSPECIALTIES)
+    return SUBSPECIALTIES[idx]
 
 def get_second_slot(date: datetime) -> str:
-    """Second slot is Adult Reconstruction, unless today is already Adult Reconstruction,
-    in which case use the next subspecialty in the rotation."""
-    primary = SUBSPECIALTY_ROTATION[date.weekday()]
-    if primary != "Adult Reconstruction":
-        return "Adult Reconstruction"
-    # On Adult Reconstruction days, use the next day's subspecialty as second slot
-    next_day = (date.weekday() + 1) % 7
-    return SUBSPECIALTY_ROTATION[next_day]
+    """Pick a different subspecialty for the second slot."""
+    first = get_today_subspecialty(date)
+    remaining = [s for s in SUBSPECIALTIES if s != first]
+    idx = _date_hash(date, "slot2") % len(remaining)
+    return remaining[idx]
 
 # Claude model for scoring/summarization
 CLAUDE_MODEL = "claude-sonnet-4-20250514"

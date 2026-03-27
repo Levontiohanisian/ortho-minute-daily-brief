@@ -36,6 +36,10 @@ def main():
     with open(data_path) as f:
         data = json.load(f)
 
+    if data.get("status") == "cancelled":
+        print("Brief was cancelled. Skipping send.")
+        return 0
+
     slot1_name = data["subspecialty"]
     slot2_name = data["second_slot"]
     slot1_candidates = data["subspecialty_candidates"]
