@@ -85,6 +85,7 @@ def send_to_buttondown(date: datetime, paper1: dict, paper2: dict) -> bool:
     headers = {
         "Content-Type": "application/json",
         "Authorization": f"Token {BUTTONDOWN_API_KEY}",
+        "X-Buttondown-Live-Dangerously": "true",
     }
 
     data = json.dumps(payload).encode("utf-8")
