@@ -10,75 +10,52 @@ from .config import (
 )
 
 
-def _build_brief_html(date: datetime, paper1: dict, paper2: dict) -> str:
-    """Build the final subscriber brief HTML."""
+def _build_brief_markdown(date: datetime, paper1: dict, paper2: dict) -> str:
+    """Build the final subscriber brief in markdown (Buttondown's native format)."""
 
     date_str = date.strftime("%A, %B %d")
 
     def paper_section(paper: dict) -> str:
+        journal_display = paper.get("journal_abbrev") or paper["journal"]
         bullets = ""
         for b in paper.get("bullets", []):
-            bullets += f"- {b}<br>\n"
+            bullets += f"- {b}\n"
 
-        journal_display = paper.get("journal_abbrev") or paper["journal"]
+        return (
+            f"**{paper['title']}**\n\n"
+            f"*{journal_display} ({paper['year']})*\n\n"
+            f"{bullets}\n"
+            f"[Read the paper]({paper['link']})"
+        )
 
-        return f"""
-<tr><td style="padding:24px 0 0 0;">
-  <p style="font-size:17px; font-weight:bold; margin:0 0 4px 0; line-height:1.3;">{paper['title']}</p>
-  <p style="color:#666; margin:0 0 12px 0; font-size:14px;">{journal_display} ({paper['year']})</p>
-  <p style="font-size:15px; line-height:1.6; margin:0 0 12px 0;">
-{bullets}  </p>
-  <p style="margin:0;"><a href="{paper['link']}" style="color:#1a5276; font-size:14px;">Read the paper</a></p>
-</td></tr>"""
+    brief = (
+        f"# THE ORTHO MINUTE DAILY BRIEF\n\n"
+        f"---\n\n"
+        f"{date_str}\n\n"
+        f"{paper_section(paper1)}\n\n"
+        f"---\n\n"
+        f"{paper_section(paper2)}\n\n"
+        f"---\n\n"
+        f"**The Ortho Minute**\n\n"
+        f"Curated orthopaedic research. Daily.\n\n"
+        f"[theorthominute.com]({WEBSITE_URL})"
+    )
 
-    separator = """
-<tr><td style="padding:16px 0;">
-  <hr style="border:none; border-top:1px solid #ddd; margin:0;">
-</td></tr>"""
-
-    html = f"""
-<html>
-<body style="margin:0; padding:0; background:#f9f9f9;">
-<table cellpadding="0" cellspacing="0" width="100%" style="max-width:600px; margin:0 auto; font-family:Georgia, serif; color:#222; background:#fff; padding:32px;">
-
-<tr><td style="border-bottom:2px solid #222; padding-bottom:16px;">
-  <h1 style="font-size:20px; margin:0; letter-spacing:1px;">THE ORTHO MINUTE DAILY BRIEF</h1>
-</td></tr>
-<tr><td style="padding:12px 0 0 0;">
-  <p style="color:#666; margin:0; font-size:14px;">{date_str}</p>
-</td></tr>
-
-{paper_section(paper1)}
-{separator}
-{paper_section(paper2)}
-{separator}
-
-<tr><td style="padding:24px 0 0 0; text-align:center;">
-  <p style="color:#888; font-size:13px; margin:0 0 4px 0;"><strong>The Ortho Minute</strong></p>
-  <p style="color:#888; font-size:13px; margin:0 0 4px 0;">Curated orthopaedic research. Daily.</p>
-  <p style="margin:0;"><a href="{WEBSITE_URL}" style="color:#1a5276; font-size:13px;">{WEBSITE_URL}</a></p>
-</td></tr>
-
-</table>
-</body>
-</html>"""
-
-    return html
+    return brief
 
 
 def send_to_buttondown(date: datetime, paper1: dict, paper2: dict) -> bool:
     """Send the brief to Buttondown subscribers."""
 
-    date_str = date.strftime("%A, %B %d")
     subject = "The Ortho Minute Daily Brief"
 
-    html = _build_brief_html(date, paper1, paper2)
+    body = _build_brief_markdown(date, paper1, paper2)
 
     url = "https://api.buttondown.com/v1/emails"
 
     payload = {
         "subject": subject,
-        "body": html,
+        "body": body,
         "status": "about_to_send",
     }
 
