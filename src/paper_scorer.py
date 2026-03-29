@@ -83,7 +83,15 @@ Return ONLY the JSON array, no other text."""
     # Fix trailing commas (common LLM JSON issue)
     response_text = re.sub(r',\s*([}\]])', r'\1', response_text)
 
-    scored = json.loads(response_text)
+    # Fix truncated JSON — close any unclosed array/objects
+    try:
+        scored = json.loads(response_text)
+    except json.JSONDecodeError:
+        # Try truncating to last complete object in the array
+        last_brace = response_text.rfind("}")
+        if last_brace != -1:
+            response_text = response_text[:last_brace + 1] + "]"
+        scored = json.loads(response_text)
     scored.sort(key=lambda x: x["score"], reverse=True)
 
     # Attach scores to paper objects, enforcing journal diversity
