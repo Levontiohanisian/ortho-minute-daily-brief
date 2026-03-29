@@ -2,9 +2,8 @@ name: Evening Pipeline - Scrape & Preview
 
 on:
   schedule:
-    # 7pm Pacific = 2am or 3am UTC depending on DST
-    # Using 3am UTC (7pm PDT) — adjust to 2am for PST
-    - cron: '0 3 * * *'
+    # 5pm Pacific = midnight UTC (PDT) or 1am UTC (PST)
+    - cron: '0 0 * * *'
   workflow_dispatch:  # Allow manual trigger
 
 jobs:
