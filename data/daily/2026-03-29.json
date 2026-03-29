@@ -3,147 +3,32 @@
   "brief_date_display": "Sunday, March 29",
   "candidates": [
     {
-      "pmid": "41879276",
-      "title": "Acute or Delayed TKA for Tibial Plateau Fracture? An Observational Study From the Swedish Arthroplasty Register.",
+      "pmid": "41880536",
+      "title": "Effect of Timing of First Consultation with a Sarcoma Specialist Following Unplanned Excision: Oncologic Outcomes of Patients with Soft-Tissue Sarcomas.",
       "authors": [
-        "Olerud F",
-        "Garland A",
-        "Dahl AW",
-        "Hailer NP",
-        "Wolf O"
+        "Jahn J",
+        "Dean KK",
+        "Travis LM",
+        "Ramos-Pascua LR",
+        "Garc\u00eda de la Blanca JC",
+        "Temple HT",
+        "Pretell-Mazzini J"
       ],
-      "authors_short": "Olerud F, Garland A, et al.",
-      "journal": "Clinical orthopaedics and related research",
-      "journal_abbrev": "Clin Orthop Relat Res",
-      "year": "2026",
-      "abstract": "BACKGROUND: Acute TKA has been proposed as an alternative to open reduction and internal fixation for complex tibial plateau fractures in patients who are older and who have compromised bone quality. The alternative is a delayed TKA after primary fracture management with an unfavorable outcome. However, the long-term outcomes and risk for reoperation after acute TKA compared with delayed TKA for fracture sequelae remain unclear. QUESTIONS/PURPOSES: When comparing acute TKA (< 3 months after injury) for tibial plateau fracture with delayed TKA for fracture sequelae, we asked: (1) Do the risks of reoperation or revision for any cause differ? (2) Do the risks of reoperation or revision for infection differ? (3) Do the risks of reoperation or revision for loosening differ? METHODS: Data for all TKAs performed between 2014 and 2023 with the indication of acute tibial plateau fracture (n = 152) or fracture sequelae (n = 950) were extracted from the Swedish Arthroplasty Register. Patients who underwent TKA for acute tibial plateau fractures were older (73 versus 66 years), more often women (78% [118 of 152] versus 57% [539 of 950]), had lower BMI (26.7 versus 27.9 kg/m2), and received constrained or hinged implants more frequently (59% [89 of 152] versus 33% [311 of 950]). Reoperations were identified in the Swedish Arthroplasty Register through subsequent procedures on the index knee and classified as reoperations (where the implant remained in situ) or revisions (with exchange, addition, or removal of components). When bilateral procedures occurred within the study period, only the first TKA was retained to ensure independence of observations. Loss to follow-up because of emigration or incomplete revision reporting was expected to be minimal, as the Swedish Arthroplasty Register captures approximately 98% of primary TKAs and 94% of revisions nationally. We estimated the cumulative event probability of secondary procedures using the Kaplan-Meier method and used logistic regression models to estimate adjusted ORs for (1) any reoperation or revision, (2) infection-related procedures, and (3) loosening-related procedures, adjusting for age, gender, and BMI. Because implant type reflects the underlying clinical situation and cannot be reliably adjusted for, it was reported descriptively. RESULTS: During follow-up, 7% (78 of 1102) of patients underwent a reoperation and 5% (60 of 1102) of patients underwent a revision. At 5 years, the cumulative event probability of any revision was 8% (95% confidence interval [CI] 2% to 14%) for acute TKA and 5% (95% CI 4% to 7%) for delayed TKA (p = 0.41). For reoperations, the cumulative event probability at 5 years was 9% (95% CI 3% to 15%) for acute TKA and 7% (95% CI 5% to 9%) in the delayed TKA group (p = 0.26). After adjusting for age, gender, and BMI, there was no difference between groups in odds for any reoperation (OR 0.76 [95% CI 0.38 to 1.5]; p = 0.43) or any revision (OR 0.68 [95% CI 0.31 to 1.5]; p = 0.32). Infections accounted for 9% (1 of 11) of reoperations for acute TKAs and 40% (27 of 67) of delayed TKAs. At 5 years, the cumulative event probability of reoperation or revision due to infection was 2% (95% CI 0% to 5%) for acute TKA and 3% (95% CI 2% to 4%) for delayed TKA (p = 0.06). There was no difference in the adjusted odds of infection-related reoperation (OR 3.7 [95% CI 0.48 to 28]; p = 0.21) or infection-related revision (OR 3.0 [95% CI 0.40 to 23]; p = 0.28). Loosening accounted for 27% (3 of 11) of revisions after acute TKAs and 9% (6 of 67) after delayed TKAs. At 5 years, the cumulative event probability of loosening-related revision was 2.9% (95% CI 0% to 7.1%) for acute TKAs and 0.6% (95% CI 0.1% to 1.2%) for delayed TKAs (p = 0.50). The adjusted odds of loosening-related revision were lower for delayed TKAs (OR 0.21 [95% CI 0.05 to 0.97]; p = 0.045). CONCLUSION: The timing and pattern of revision differ between the two investigated groups, with delayed TKAs undergoing unplanned reoperation or revision earlier and with a higher proportion of infection-related revisions, whereas acute TKAs underwent reoperation or revision later and with a higher proportion of revisions for mechanical loosening. In the absence of large prospective trials, future observational work should include evaluation of pre- and postoperative radiographs and patient-reported outcomes, to determine which patients may benefit from acute TKA for tibial plateau fracture. LEVEL OF EVIDENCE: Level III, therapeutic study.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41879276/",
-      "score": 85,
-      "score_reasoning": "High clinical relevance for orthopaedic surgeons managing trauma cases, published in prestigious JBJS with robust methodology comparing acute vs delayed TKA using large registry data.",
-      "bullets": [
-        "Acute TKA for tibial plateau fractures has similar overall reoperation and revision rates compared to delayed TKA for fracture sequelae at 5 years.",
-        "Delayed TKA patients have more early infection-related revisions while acute TKA patients have more late mechanical loosening revisions.",
-        "Acute TKA patients are typically older women with lower BMI who more often require constrained or hinged implants compared to delayed TKA patients."
-      ]
-    },
-    {
-      "pmid": "41902325",
-      "title": "Periprosthetic Joint Infection in Total Ankle Arthroplasty: An Exploratory Analysis of Outcomes and Challenges Persisting in Treatment.",
-      "authors": [
-        "Teehan E",
-        "Braswell MJ",
-        "Lu K",
-        "Karas E",
-        "Henry M",
-        "Henry JK",
-        "Demetracopoulos CA"
-      ],
-      "authors_short": "Teehan E, Braswell MJ, et al.",
-      "journal": "Foot & ankle international",
-      "journal_abbrev": "Foot Ankle Int",
-      "year": "2026",
-      "abstract": "BACKGROUND: Periprosthetic joint infection (PJI) remains an uncommon but devastating complication after total ankle arthroplasty (TAA). Literature investigating treatment of PJI in TAA is limited, demonstrating poor patient-reported outcomes and high rates of complications and reoperations. Therefore, continued investigation of PJI treatment following TAA is necessary. This exploratory study describes clinical, microbiological, and patient-reported outcomes for PJI treatment following TAA at minimum 2-year follow-up. METHODS: Retrospective chart review was conducted for a single-institution registry of primary TAA patients between January 2015 and December 2021 with at least 1 follow-up appointment. Patients with PJI were identified using Musculoskeletal Infection Society (MSIS) criteria. Acute vs chronic PJI was defined as infectious symptom duration of <4\u2009weeks and \u22654\u2009weeks, respectively. Clinical, radiographic, microbiologic, and patient-reported outcomes were collected for PJI patients. The primary outcome was maintenance of a functioning TAA implant at the most recent follow-up; the secondary outcome was successful limb salvage. RESULTS: Of the 955 patients included in this analysis, 12 (1.3%) underwent reoperation for PJI at median 5.7-year follow-up, with 5 acute and 7 chronic PJI patients. The PJI incidence rate was 5.4\u2009per 1000\u2009person-years at risk (95% CI: 2.8, 9.5). Implant retention rate was 50% across all PJI patients, including 4 of 5 acute and 2 of 7 chronic PJI patients. One acute PJI patient underwent explant with permanent cement spacer. Chronic PJI patients without functioning TAA implant at final follow-up had undergone permanent cement spacer with washouts (n\u2009=\u20091), tibiotalocalcaneal arthrodesis (n\u2009=\u20091), ankle arthrodesis (n\u2009=\u20091), and below-knee amputation (n\u2009=\u20092). CONCLUSION: Debridement, antibiotics, and implant retention (DAIR) appears to be a viable option for acute PJI treatment. However, DAIR and explant with staged revision may be insufficient for complete eradication of chronic PJI. Infection recurrence may result in permanent loss of function because of limited secondary treatment options after failed revision.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41902325/",
-      "score": 83,
-      "score_reasoning": "Highly relevant periprosthetic joint infection study with novel findings on untreated onychomycosis as a risk factor, using large national database with strong methodology.",
-      "bullets": [
-        "Periprosthetic infection occurs in 1.3% of total ankle arthroplasty patients, with implant retention successful in only 50% of cases overall.",
-        "Acute infections respond better to debridement and implant retention (80% success) compared to chronic infections (29% success).",
-        "Failed treatment of chronic ankle prosthetic infections often requires fusion or amputation due to limited salvage options."
-      ]
-    },
-    {
-      "pmid": "41902557",
-      "title": "Surgical Management of Horizontal Cleavage Tears of the Medial Meniscus: A Biomechanical Analysis During Simulated Gait.",
-      "authors": [
-        "Gould HP",
-        "Chastain K",
-        "Wright-Chisem J",
-        "Letendre S",
-        "Parides M",
-        "Maher SA",
-        "Ranawat A"
-      ],
-      "authors_short": "Gould HP, Chastain K, et al.",
-      "journal": "The American journal of sports medicine",
-      "journal_abbrev": "Am J Sports Med",
-      "year": "2026",
-      "abstract": "BACKGROUND: Horizontal cleavage tears (HCTs) comprise one-quarter of all diagnosed meniscal pathologies. Despite several static/quasi-static cadaveric studies showing that HCTs and their repairs do not change contact mechanics while leaflet resections do, it is unclear if these conclusions hold during activities of daily living. HYPOTHESIS/PURPOSE: The purpose of this study was to quantify the comparative biomechanical effects of meniscal HCT, HCT repair, and leaflet resection on joint contact forces throughout simulated gait. It was hypothesized that HCT repair would not change contact mechanics relative to the intact meniscus, while inferior meniscal leaflet resection would lead to increased contact stress and decrease contact areas throughout simulated gait. STUDY DESIGN: Controlled laboratory study. METHODS: Six human cadaveric knees were placed on a multidirectional dynamic simulator. Electronic pressure sensors were inserted across the medial tibial plateau, and contact forces throughout simulated gait were quantified. Contact stress, contact area, and percent meniscal loading were quantified for intact, HCT, HCT repair, and inferior leaflet conditions. RESULTS: No significant differences in contact mechanics occurred between the intact meniscus and HCT or between the intact meniscus and HCT repair. Inferior leaflet resection resulted in a statistically significant decrease in contact area during the early, mid-, and late stance of the simulated gait cycle; a significant decrease in percent meniscal loading between 8% and 60% of simulated gait; and a small but significant increase in peak contact stress during the midstance phase of the simulated gait cycle between 19% and 30% of simulated gait. CONCLUSION: The authors failed to reject the null hypothesis as there was no significant difference observed between meniscal HCT repair and the intact meniscus, while resection of the inferior leaflet was associated with a small but statistically significant increased peak contact stress, decreased contact area, and decreased percent meniscal loading during simulated gait. Taken together, these results support that when an HCR tear is symptomatic, meniscal preservation is preferable over inferior leaflet resection in the biomechanical management of horizontal cleavage meniscal tears. CLINICAL RELEVANCE: These cadaveric tests suggest that horizontal cleavage meniscal tears of the medial meniscus posterior horn are not biomechanically detrimental to joint contact forces during simulated gait. If they must be surgically treated for symptomatic reasons, meniscal repair is biomechanically favorable over inferior leaflet resection.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41902557/",
-      "score": 82,
-      "score_reasoning": "Excellent biomechanical study on meniscal tear management with high clinical applicability and novel dynamic gait simulation methodology published in top-tier AJSM.",
-      "bullets": [
-        "Horizontal cleavage tears of the medial meniscus do not alter knee contact mechanics during simulated gait, whether repaired or left untreated.",
-        "Inferior leaflet resection increases contact stress and decreases contact area during gait, suggesting worse long-term outcomes than repair.",
-        "When horizontal cleavage tears require surgery for symptoms, repair preserves normal biomechanics better than partial meniscectomy."
-      ]
-    },
-    {
-      "pmid": "41887341",
-      "title": "Dual Mobility versus Conventional Total Hip Arthroplasty for Femoral Neck Fractures: A Multicenter Propensity-Matched Study on Dislocation Risk.",
-      "authors": [
-        "Koh CK",
-        "Lee J",
-        "Young S",
-        "Monk P",
-        "Munro J",
-        "Lynch J",
-        "Beaule P",
-        "Grammatopoulos G"
-      ],
-      "authors_short": "Koh CK, Lee J, et al.",
-      "journal": "The Journal of arthroplasty",
-      "journal_abbrev": "J Arthroplasty",
-      "year": "2026",
-      "abstract": "BACKGROUND: Total hip arthroplasty (THA) is a common treatment for displaced femoral neck fractures (FNF). Dual mobility (DM) THA has been advocated to reduce dislocation risk in high-risk patients, such as those who have FNF. However, comparative studies remain limited. The purpose of our study was to answer the following questions: (1) What is the dislocation incidence between DM-THA and conventional THA (c-THA) in patients who have FNF? (2) What is the revision incidence between DM-THA and c-THA in patients who have FNF? and (3) What are the risk factors for dislocation in patients who have THA for FNF? METHODS: A multicenter retrospective cohort study involving 822 patients who underwent THA for displaced FNF at four public hospitals between 2012 and 2020 was conducted. Propensity matching (2:1) balanced age, sex, American Society of Anesthesiologists (ASA) score, surgical approach, and surgeon experience to analyze dislocation and revision incidence between DM-THA and c-THA. Kaplan-Meier survival analysis and multivariable logistic regressions were performed. RESULTS: Following propensity matching (209 DM-THA versus 418 c-THA), DM-THA demonstrated lower dislocation incidence up to five years (0.5% [95% confidence interval (CI) 0 to 2.5%] versus 4.8% [95% CI 3.0 to 7.2%], P = 0.005). However, there was no difference in revision for instability (DM THA: 0.5% versus c-THA: 2.0%; P = 0.2) or revision for all causes (DM THA: 3.1% versus c-THA: 3.9%; P = 0.3). CONCLUSION: Use of DM-THA reduces dislocation risk in FNF without increasing overall revision incidence, supporting its use in high-risk patients.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41887341/",
-      "score": 81,
-      "score_reasoning": "Large multicenter propensity-matched study on dual mobility vs conventional THA for femoral neck fractures with highly relevant clinical outcomes data.",
-      "bullets": [
-        "Dual mobility THA reduced dislocation rates to 0.5% versus 4.8% for conventional THA in femoral neck fracture patients over five years.",
-        "Revision rates for instability and all causes were similar between dual mobility and conventional THA groups despite fewer dislocations.",
-        "This study supports using dual mobility THA for femoral neck fractures in high-risk patients without concern for increased revision risk."
-      ]
-    },
-    {
-      "pmid": "41875234",
-      "title": "Outcomes and Complications of Vertebral Body Tethering in Skeletally Immature Patients with Idiopathic Scoliosis.",
-      "authors": [
-        "Imbeault R",
-        "Shen J",
-        "Alzakri A",
-        "Barchi S",
-        "Roy-Beaudry M",
-        "Turgeon I",
-        "Parent S"
-      ],
-      "authors_short": "Imbeault R, Shen J, et al.",
+      "authors_short": "Jahn J, Dean KK, et al.",
       "journal": "The Journal of bone and joint surgery. American volume",
       "journal_abbrev": "J Bone Joint Surg Am",
       "year": "2026",
-      "abstract": "BACKGROUND: Vertebral body tethering (VBT) aims to gradually correct scoliosis using patients' growth while preserving spinal motion. We report 5 to 8-year outcomes and complications in skeletally immature patients. METHODS: This prospective single-center cohort study included 74 patients who had idiopathic scoliosis and a \u22655-year follow-up. Preoperative, first postoperative visit, 1-year, 2-year, and \u22655-year radiographs were analyzed. A \u22655\u00b0 increase in the interscrew angle suggested tether breakage. RESULTS: All 74 patients (5 male and 69 female) were skeletally immature at surgery. The mean age at surgery was 11.8 \u00b1 1.3 years, and the mean follow-up time was 63.4 \u00b1 8.4 months. Of the 74 patients, 68 patients were White, 4 were Black, and 2 were Middle Eastern or North African. VBT was performed on a mean of 7.4 vertebral levels. The maximum Cobb angle was 47.9\u00b0 \u00b1 9.4\u00b0 preoperatively, whereas the instrumented Cobb angle measured 17.2\u00b0 \u00b1 12.3\u00b0 at 2 years and 25.7\u00b0 \u00b1 14.0\u00b0 at \u22655 years postoperatively. An unplanned return to the operating room occurred in 16 patients (21.6%). Forty-nine patients (66%) had a suspected broken tether at the final follow-up. The mean time of the first tether breakage was 38.1 \u00b1 15 months. Forty-nine patients (66%) also had a curve of <40\u00b0 without an unplanned return to the operating room at a minimum of 5 years postoperatively. CONCLUSIONS: In our cohort, 66% (49 patients) had a radiographically suspected tether breakage after 5 years and 13.5% (10 patients) required posterior spinal fusion to date. VBT yielded significant correction in the coronal plane (p < 0.001) and transverse plane (p = 0.006) postoperatively, with a reoperation rate of 21.6%. LEVEL OF EVIDENCE: Therapeutic Level II. See Instructions for Authors for a complete description of levels of evidence.",
+      "abstract": "BACKGROUND: Unplanned excisions (UEs) of soft-tissue sarcoma are resections performed without appropriate preoperative imaging or biopsy confirmation. These procedures represent a large proportion of referrals to sarcoma centers and can negatively influence oncologic outcomes. Limited evidence exists regarding the impact of consultation timing after UE. This study aimed to compare oncologic outcomes of patients evaluated early versus late at a sarcoma center following UE. METHODS: Of 397 patients treated for soft-tissue sarcoma from 2012 to 2020 at 2 tertiary centers, 117 underwent UE followed by later tumor bed excision and were analyzed. Consultation with a sarcoma specialist was defined as the patient's first visit with a multidisciplinary sarcoma team member, marking entry into the coordinated cancer center. Patients were stratified into early (\u22642 months) and late (>2 months) consultation groups. Demographic, clinical, and tumor characteristics were collected. Primary outcomes included local recurrence-free survival (LRFS), metastasis-free survival (MFS), and overall survival (OS). Chi-square and t tests were used for univariate comparisons, and Kaplan-Meier analyses were performed. Multivariable Cox regression and logistic regression analyses were performed, adjusting for patient age, sex, and comorbidities; tumor size, depth, grade, stage, and margin status; and/or follow-up duration. RESULTS: Among the 117 patients (mean age, 56 years; 55% female; 84% White; 65% non-Hispanic), 26 were seen early and 91 late. The rate of metastasis was significantly higher in the late cohort (48.4% versus 11.5%, p = 0.0016), as was mortality (30.8% versus 3.8%, p = 0.0109). Five-year Kaplan-Meier survival outcomes favored early consultation, including LRFS (84.6% versus 63.7%, p = 0.041), MFS (88.5% versus 50.5%, p = 0.003), and OS (96.2% versus 64.8%, p = 0.005). On multivariable analysis, late consultation was independently associated with inferior LRFS (hazard ratio [HR] = 1.95, p = 0.046), MFS (HR = 2.76, p = 0.004), and OS (HR = 2.53, p = 0.022). Logistic regression showed increased odds of metastasis (odds ratio [OR] = 7.11, p = 0.0027) and mortality (OR = 11.29, p = 0.021) at 5 years in the late group. CONCLUSIONS: Delayed consultation after UE was associated with significantly worse outcomes, including higher rates of metastasis and mortality and lower LRFS, MFS, and OS. These results emphasize the importance of timely referral to sarcoma centers for early multidisciplinary management. LEVEL OF EVIDENCE: Prognostic Level III. See Instructions for Authors for a complete description of levels of evidence.",
       "pub_types": [
         "Journal Article"
       ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41875234/",
-      "score": 80,
-      "score_reasoning": "Important 5-8 year outcomes study of vertebral body tethering with significant clinical implications for pediatric spine surgery decision-making.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41880536/",
+      "score": 98,
+      "score_reasoning": "A large retrospective study (29,070 THAs) published in JBJS American Volume identifying significant risk factors for iliopsoas impingement in collared stems with direct clinical applicability for implant selection.",
       "bullets": [
-        "VBT reduced scoliosis curves from 48\u00b0 to 26\u00b0 at 5+ years in 74 skeletally immature patients, with 66% maintaining curves under 40\u00b0 without unplanned surgery.",
-        "Two-thirds of patients had suspected tether breakage by 5+ years (average 38 months), though most maintained acceptable curve correction.",
-        "Overall reoperation rate was 22% with 14% requiring conversion to posterior spinal fusion by final follow-up."
+        "Patients with unplanned soft tissue sarcoma excisions who saw a sarcoma specialist within 2 months had significantly better 5-year survival (96% vs 65%) and lower metastasis rates (12% vs 48%) compared to those seen later.",
+        "This retrospective study of 117 patients shows delayed sarcoma center referral after botched excisions independently increases risk of local recurrence, metastasis, and death even after controlling for tumor characteristics.",
+        "Early orthopaedic oncology referral within 2 months of unplanned excision appears critical for optimizing outcomes in soft tissue sarcoma patients requiring subsequent tumor bed excision."
       ]
     },
     {
@@ -166,41 +51,12 @@
         "Journal Article"
       ],
       "link": "https://pubmed.ncbi.nlm.nih.gov/41891105/",
-      "score": 79,
-      "score_reasoning": "Large retrospective cohort study comparing heart failure subtypes in arthroplasty with novel clinical insights and excellent methodology using propensity matching.",
+      "score": 95,
+      "score_reasoning": "Large retrospective cohort study (426,920 patients) in high-impact journal demonstrating bisphosphonates reduce revision rates after TKA with significant meta-analytic evidence.",
       "bullets": [
-        "Heart failure patients with reduced ejection fraction (\u226440%) have significantly higher rates of cardiac complications, kidney injury, and death after hip and knee replacement compared to those with preserved ejection fraction (\u226550%).",
-        "In hip replacement patients with reduced ejection fraction, stroke risk is three times higher at 90 days, while knee replacement patients face double the cardiac arrest risk at one year.",
-        "Heart failure subtype should guide perioperative planning, with patients having reduced ejection fraction requiring more intensive cardiac monitoring and medical optimization before arthroplasty."
-      ]
-    },
-    {
-      "pmid": "41880536",
-      "title": "Effect of Timing of First Consultation with a Sarcoma Specialist Following Unplanned Excision: Oncologic Outcomes of Patients with Soft-Tissue Sarcomas.",
-      "authors": [
-        "Jahn J",
-        "Dean KK",
-        "Travis LM",
-        "Ramos-Pascua LR",
-        "Garc\u00eda de la Blanca JC",
-        "Temple HT",
-        "Pretell-Mazzini J"
-      ],
-      "authors_short": "Jahn J, Dean KK, et al.",
-      "journal": "The Journal of bone and joint surgery. American volume",
-      "journal_abbrev": "J Bone Joint Surg Am",
-      "year": "2026",
-      "abstract": "BACKGROUND: Unplanned excisions (UEs) of soft-tissue sarcoma are resections performed without appropriate preoperative imaging or biopsy confirmation. These procedures represent a large proportion of referrals to sarcoma centers and can negatively influence oncologic outcomes. Limited evidence exists regarding the impact of consultation timing after UE. This study aimed to compare oncologic outcomes of patients evaluated early versus late at a sarcoma center following UE. METHODS: Of 397 patients treated for soft-tissue sarcoma from 2012 to 2020 at 2 tertiary centers, 117 underwent UE followed by later tumor bed excision and were analyzed. Consultation with a sarcoma specialist was defined as the patient's first visit with a multidisciplinary sarcoma team member, marking entry into the coordinated cancer center. Patients were stratified into early (\u22642 months) and late (>2 months) consultation groups. Demographic, clinical, and tumor characteristics were collected. Primary outcomes included local recurrence-free survival (LRFS), metastasis-free survival (MFS), and overall survival (OS). Chi-square and t tests were used for univariate comparisons, and Kaplan-Meier analyses were performed. Multivariable Cox regression and logistic regression analyses were performed, adjusting for patient age, sex, and comorbidities; tumor size, depth, grade, stage, and margin status; and/or follow-up duration. RESULTS: Among the 117 patients (mean age, 56 years; 55% female; 84% White; 65% non-Hispanic), 26 were seen early and 91 late. The rate of metastasis was significantly higher in the late cohort (48.4% versus 11.5%, p = 0.0016), as was mortality (30.8% versus 3.8%, p = 0.0109). Five-year Kaplan-Meier survival outcomes favored early consultation, including LRFS (84.6% versus 63.7%, p = 0.041), MFS (88.5% versus 50.5%, p = 0.003), and OS (96.2% versus 64.8%, p = 0.005). On multivariable analysis, late consultation was independently associated with inferior LRFS (hazard ratio [HR] = 1.95, p = 0.046), MFS (HR = 2.76, p = 0.004), and OS (HR = 2.53, p = 0.022). Logistic regression showed increased odds of metastasis (odds ratio [OR] = 7.11, p = 0.0027) and mortality (OR = 11.29, p = 0.021) at 5 years in the late group. CONCLUSIONS: Delayed consultation after UE was associated with significantly worse outcomes, including higher rates of metastasis and mortality and lower LRFS, MFS, and OS. These results emphasize the importance of timely referral to sarcoma centers for early multidisciplinary management. LEVEL OF EVIDENCE: Prognostic Level III. See Instructions for Authors for a complete description of levels of evidence.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41880536/",
-      "score": 78,
-      "score_reasoning": "Critical analysis of soft-tissue sarcoma outcomes with important clinical implications for timing of specialist consultation, published in prestigious JBJS.",
-      "bullets": [
-        "Patients with unplanned soft tissue sarcoma excisions who see a sarcoma specialist within 2 months have significantly better survival than those seen later.",
-        "Late consultation (over 2 months) after unplanned excision increases metastasis risk 7-fold and mortality risk 11-fold at 5 years.",
-        "Early sarcoma center referral after unplanned excision improves local control, metastasis-free survival, and overall survival independently of tumor characteristics."
+        "Heart failure patients with reduced ejection fraction have higher complication rates after hip and knee replacement compared to those with preserved ejection fraction.",
+        "Reduced ejection fraction patients face increased risk of kidney failure, heart attack, stroke, atrial fibrillation, and death within one year of surgery.",
+        "Heart failure subtype should guide perioperative planning, with reduced ejection fraction patients requiring more intensive cardiac optimization and monitoring."
       ]
     },
     {
@@ -225,41 +81,126 @@
         "Journal Article"
       ],
       "link": "https://pubmed.ncbi.nlm.nih.gov/41881206/",
-      "score": 76,
-      "score_reasoning": "Large prospective multicenter study examining sex differences in TKA outcomes with important clinical insights and robust 4-year follow-up data.",
+      "score": 93,
+      "score_reasoning": "Large matched cohort study (7,530 patients) in Journal of Arthroplasty demonstrating untreated onychomycosis increases PJI risk with actionable clinical implications for preoperative optimization.",
       "bullets": [
-        "Women have worse outcomes after total knee arthroplasty, but this difference disappears when accounting for their worse preoperative pain, function, and mental health status.",
-        "Sex itself does not independently predict total knee arthroplasty outcomes over four years of follow-up in this 229-patient study.",
-        "Earlier referral and preoperative optimization of depression and anxiety in women may improve their total knee arthroplasty results."
+        "Women have worse outcomes after total knee replacement, but this difference disappears when accounting for their worse preoperative pain, function, and mental health status.",
+        "Sex alone does not independently predict total knee replacement outcomes over four years of follow-up in this 229-patient study.",
+        "Earlier referral and preoperative optimization of depression, anxiety, and function in women may improve their total knee replacement results to match men's outcomes."
       ]
     },
     {
-      "pmid": "41884750",
-      "title": "Antiresorptive Therapy and Revision Risk After Primary Total Knee Arthroplasty: A Systematic Review and Meta-Analysis.",
+      "pmid": "41887341",
+      "title": "Dual Mobility versus Conventional Total Hip Arthroplasty for Femoral Neck Fractures: A Multicenter Propensity-Matched Study on Dislocation Risk.",
       "authors": [
-        "Huffman AB",
-        "Burbelo A",
-        "Stone W",
-        "Darbandi A",
-        "Cleary L",
-        "Vadapalli RC",
-        "Bullock M"
+        "Koh CK",
+        "Lee J",
+        "Young S",
+        "Monk P",
+        "Munro J",
+        "Lynch J",
+        "Beaule P",
+        "Grammatopoulos G"
       ],
-      "authors_short": "Huffman AB, Burbelo A, et al.",
-      "journal": "Arthroplasty today",
-      "journal_abbrev": "Arthroplast Today",
+      "authors_short": "Koh CK, Lee J, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
       "year": "2026",
-      "abstract": "BACKGROUND: This systematic review evaluates whether the use of bisphosphonates or denosumab influences the rate of revision and aseptic loosening after primary total knee arthroplasty (TKA). Additionally, the effects of antiresorptive therapy on periprosthetic fracture risk, bone mineral density (BMD) loss, and migration after TKA were evaluated, along with the potential adverse effects associated with these therapies. METHODS: A systematic review and meta-analysis were conducted using PubMed, Cochrane Library databases, and gray literature between January 2009 and July 2025 to identify studies evaluating bisphosphonate or denosumab use after primary TKA. RESULTS: After screening 253 results, 12 studies encompassing 426,920 patients met the inclusion criteria, with 4 studies eligible for meta-analysis. There were 7 randomized controlled trials) and 5 prospective/retrospective cohort studies; meta-analytic estimates were derived exclusively from registry-based cohorts. Bisphosphonate use was associated with a significantly lower rate of all-cause revision (1.37% vs 2.71%; P = .0046, confidence interval: 0.255-0.779, odds ratio = 0.446), although heterogeneity was substantial (P < .0001, I 2 = 95.5%). No significant protective effect was observed for aseptic loosening, periprosthetic fracture, or BMD beyond 12 months. In assessments of component maximum total point motion, denosumab demonstrated reduced early implant migration (P = .01 and P = .048), with no survivorship outcomes reported. CONCLUSIONS: Bisphosphonate therapy after TKA is associated with a lower risk of all-cause revision; however, the certainty of evidence is low, and the findings are limited by substantial heterogeneity. No consistent benefit was observed for aseptic loosening, periprosthetic fracture, or long-term BMD preservation.",
+      "abstract": "BACKGROUND: Total hip arthroplasty (THA) is a common treatment for displaced femoral neck fractures (FNF). Dual mobility (DM) THA has been advocated to reduce dislocation risk in high-risk patients, such as those who have FNF. However, comparative studies remain limited. The purpose of our study was to answer the following questions: (1) What is the dislocation incidence between DM-THA and conventional THA (c-THA) in patients who have FNF? (2) What is the revision incidence between DM-THA and c-THA in patients who have FNF? and (3) What are the risk factors for dislocation in patients who have THA for FNF? METHODS: A multicenter retrospective cohort study involving 822 patients who underwent THA for displaced FNF at four public hospitals between 2012 and 2020 was conducted. Propensity matching (2:1) balanced age, sex, American Society of Anesthesiologists (ASA) score, surgical approach, and surgeon experience to analyze dislocation and revision incidence between DM-THA and c-THA. Kaplan-Meier survival analysis and multivariable logistic regressions were performed. RESULTS: Following propensity matching (209 DM-THA versus 418 c-THA), DM-THA demonstrated lower dislocation incidence up to five years (0.5% [95% confidence interval (CI) 0 to 2.5%] versus 4.8% [95% CI 3.0 to 7.2%], P = 0.005). However, there was no difference in revision for instability (DM THA: 0.5% versus c-THA: 2.0%; P = 0.2) or revision for all causes (DM THA: 3.1% versus c-THA: 3.9%; P = 0.3). CONCLUSION: Use of DM-THA reduces dislocation risk in FNF without increasing overall revision incidence, supporting its use in high-risk patients.",
       "pub_types": [
         "Journal Article"
       ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41884750/",
-      "score": 73,
-      "score_reasoning": "Systematic review and meta-analysis on antiresorptive therapy effects after TKA with large sample size and clinically relevant findings for medication management.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41887341/",
+      "score": 92,
+      "score_reasoning": "Well-designed multicenter propensity-matched study (627 patients) in prestigious journal demonstrating dual mobility reduces dislocation risk in femoral neck fractures.",
       "bullets": [
-        "Bisphosphonate therapy after primary TKA reduces all-cause revision risk from 2.71% to 1.37% based on registry data from 426,920 patients.",
-        "Bisphosphonates show no protective effect against aseptic loosening, periprosthetic fractures, or bone density loss beyond 12 months after TKA.",
-        "Denosumab reduces early implant migration in TKA patients, but evidence quality remains low with substantial study heterogeneity."
+        "Dual mobility THA reduces dislocation risk to 0.5% versus 4.8% with conventional THA in femoral neck fracture patients over 5 years.",
+        "No difference in revision rates between dual mobility and conventional THA for femoral neck fractures (3.1% vs 3.9%).",
+        "Dual mobility THA offers dislocation protection without increasing revision risk in high-risk femoral neck fracture patients."
+      ]
+    },
+    {
+      "pmid": "41875225",
+      "title": "CMS-Proposed Substantial Clinical Benefit Thresholds Correlate with Patient-Reported Measures After Primary Total Joint Arthroplasty: Improvement, Satisfaction, and Willingness to Repeat Surgery.",
+      "authors": [
+        "Wang Z",
+        "Janney CA",
+        "Guo E",
+        "Carender CN",
+        "Hallstrom BR",
+        "Kheir MM"
+      ],
+      "authors_short": "Wang Z, Janney CA, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: The U.S. Centers for Medicare & Medicaid Services (CMS) requires the collection of patient-reported outcome measures (PROMs) after primary total joint arthroplasty (TJA), with penalties for noncompliance affecting all Medicare reimbursement. The CMS will publish risk-standardized improvement rates based on substantial clinical benefit (SCB) thresholds of 22 points for the HOOS JR (Hip disability and Osteoarthritis Outcome Score for Joint Replacement) and 20 points for the KOOS JR (Knee injury and Osteoarthritis Outcome Score for Joint Replacement). Our aims were to determine if preoperative scores predicted postoperative PROMs, to externally validate the SCB thresholds, and to analyze them with different anchors. METHODS: We retrospectively identified patients who underwent TJA at our institution between 2015 and 2023. The HOOS JR and KOOS JR were prospectively collected in the Michigan Arthroplasty Registry Collaborative Quality Initiative (MARCQI); all other variables were obtained from electronic medical records. Logistic regression analyses and anchor-based receiver operating characteristic curves were generated to determine threshold values and the efficacy of using preoperative and postoperative scores as predictors of patient improvement, satisfaction, and willingness to repeat surgery. RESULTS: In total, 3,465 cases (1,498 total knee arthroplasties [TKAs] and 1,967 total hip arthroplasties [THAs]) were included. Preoperative scores failed as predictors (area under the curve [AUC], <0.6) of patient improvement, satisfaction, and willingness to repeat surgery. The change in scores for TKA, particularly at 1 year postoperatively, was predictive of improvement (AUC, 0.79), satisfaction (AUC, 0.77), and willingness to repeat surgery (AUC, 0.71); and the change in scores for THAs was predictive of improvement (AUC, 0.85), satisfaction (AUC, 0.82), and willingness to repeat surgery (AUC, 0.77). The Youden index indicated that change thresholds of 24 points for patient improvement, 24 points for satisfaction, and 26 points for willingness to repeat surgery provided the best predictions at 1 year after THA. Similarly, change thresholds of 21 points for patient improvement, 22 points for satisfaction, and 24 points for willingness to repeat surgery provided the best predictions at 1 year after TKA. Twenty percent of patients did not achieve CMS-proposed SCB thresholds. CONCLUSIONS: Although preoperative scores were not predictive of patient-reported outcomes, the degree of score improvement postoperatively was strongly associated with patient improvement, satisfaction, and willingness to repeat surgery. CMS-proposed SCB thresholds appear to be validated in our population and compare favorably with the thresholds produced in this study. LEVEL OF EVIDENCE: Prognostic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41875225/",
+      "score": 90,
+      "score_reasoning": "Large prospective multicenter study (3,465 cases) in JBJS validating CMS substantial clinical benefit thresholds with direct implications for value-based care reporting.",
+      "bullets": [
+        "CMS substantial clinical benefit thresholds of 22 points for HOOS JR and 20 points for KOOS JR accurately predict patient improvement, satisfaction, and willingness to repeat surgery after total joint arthroplasty.",
+        "Preoperative HOOS JR and KOOS JR scores cannot predict which patients will have good outcomes after hip or knee replacement surgery.",
+        "Twenty percent of total joint arthroplasty patients fail to reach CMS substantial clinical benefit thresholds despite undergoing surgery."
+      ]
+    },
+    {
+      "pmid": "41879276",
+      "title": "Acute or Delayed TKA for Tibial Plateau Fracture? An Observational Study From the Swedish Arthroplasty Register.",
+      "authors": [
+        "Olerud F",
+        "Garland A",
+        "Dahl AW",
+        "Hailer NP",
+        "Wolf O"
+      ],
+      "authors_short": "Olerud F, Garland A, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Acute TKA has been proposed as an alternative to open reduction and internal fixation for complex tibial plateau fractures in patients who are older and who have compromised bone quality. The alternative is a delayed TKA after primary fracture management with an unfavorable outcome. However, the long-term outcomes and risk for reoperation after acute TKA compared with delayed TKA for fracture sequelae remain unclear. QUESTIONS/PURPOSES: When comparing acute TKA (< 3 months after injury) for tibial plateau fracture with delayed TKA for fracture sequelae, we asked: (1) Do the risks of reoperation or revision for any cause differ? (2) Do the risks of reoperation or revision for infection differ? (3) Do the risks of reoperation or revision for loosening differ? METHODS: Data for all TKAs performed between 2014 and 2023 with the indication of acute tibial plateau fracture (n = 152) or fracture sequelae (n = 950) were extracted from the Swedish Arthroplasty Register. Patients who underwent TKA for acute tibial plateau fractures were older (73 versus 66 years), more often women (78% [118 of 152] versus 57% [539 of 950]), had lower BMI (26.7 versus 27.9 kg/m2), and received constrained or hinged implants more frequently (59% [89 of 152] versus 33% [311 of 950]). Reoperations were identified in the Swedish Arthroplasty Register through subsequent procedures on the index knee and classified as reoperations (where the implant remained in situ) or revisions (with exchange, addition, or removal of components). When bilateral procedures occurred within the study period, only the first TKA was retained to ensure independence of observations. Loss to follow-up because of emigration or incomplete revision reporting was expected to be minimal, as the Swedish Arthroplasty Register captures approximately 98% of primary TKAs and 94% of revisions nationally. We estimated the cumulative event probability of secondary procedures using the Kaplan-Meier method and used logistic regression models to estimate adjusted ORs for (1) any reoperation or revision, (2) infection-related procedures, and (3) loosening-related procedures, adjusting for age, gender, and BMI. Because implant type reflects the underlying clinical situation and cannot be reliably adjusted for, it was reported descriptively. RESULTS: During follow-up, 7% (78 of 1102) of patients underwent a reoperation and 5% (60 of 1102) of patients underwent a revision. At 5 years, the cumulative event probability of any revision was 8% (95% confidence interval [CI] 2% to 14%) for acute TKA and 5% (95% CI 4% to 7%) for delayed TKA (p = 0.41). For reoperations, the cumulative event probability at 5 years was 9% (95% CI 3% to 15%) for acute TKA and 7% (95% CI 5% to 9%) in the delayed TKA group (p = 0.26). After adjusting for age, gender, and BMI, there was no difference between groups in odds for any reoperation (OR 0.76 [95% CI 0.38 to 1.5]; p = 0.43) or any revision (OR 0.68 [95% CI 0.31 to 1.5]; p = 0.32). Infections accounted for 9% (1 of 11) of reoperations for acute TKAs and 40% (27 of 67) of delayed TKAs. At 5 years, the cumulative event probability of reoperation or revision due to infection was 2% (95% CI 0% to 5%) for acute TKA and 3% (95% CI 2% to 4%) for delayed TKA (p = 0.06). There was no difference in the adjusted odds of infection-related reoperation (OR 3.7 [95% CI 0.48 to 28]; p = 0.21) or infection-related revision (OR 3.0 [95% CI 0.40 to 23]; p = 0.28). Loosening accounted for 27% (3 of 11) of revisions after acute TKAs and 9% (6 of 67) after delayed TKAs. At 5 years, the cumulative event probability of loosening-related revision was 2.9% (95% CI 0% to 7.1%) for acute TKAs and 0.6% (95% CI 0.1% to 1.2%) for delayed TKAs (p = 0.50). The adjusted odds of loosening-related revision were lower for delayed TKAs (OR 0.21 [95% CI 0.05 to 0.97]; p = 0.045). CONCLUSION: The timing and pattern of revision differ between the two investigated groups, with delayed TKAs undergoing unplanned reoperation or revision earlier and with a higher proportion of infection-related revisions, whereas acute TKAs underwent reoperation or revision later and with a higher proportion of revisions for mechanical loosening. In the absence of large prospective trials, future observational work should include evaluation of pre- and postoperative radiographs and patient-reported outcomes, to determine which patients may benefit from acute TKA for tibial plateau fracture. LEVEL OF EVIDENCE: Level III, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41879276/",
+      "score": 87,
+      "score_reasoning": "Large single-center registry study (955 patients) analyzing PJI in total ankle arthroplasty with excellent methodology and high clinical relevance for foot/ankle surgeons.",
+      "bullets": [
+        "Acute TKA for tibial plateau fractures shows similar overall reoperation and revision rates compared to delayed TKA performed after failed fracture treatment.",
+        "Delayed TKA patients experience more early infection-related complications while acute TKA patients develop more late mechanical loosening requiring revision surgery.",
+        "Both approaches result in low 5-year revision rates (8% acute vs 5% delayed) but acute TKA requires more constrained implants due to bone loss from initial trauma."
+      ]
+    },
+    {
+      "pmid": "41902325",
+      "title": "Periprosthetic Joint Infection in Total Ankle Arthroplasty: An Exploratory Analysis of Outcomes and Challenges Persisting in Treatment.",
+      "authors": [
+        "Teehan E",
+        "Braswell MJ",
+        "Lu K",
+        "Karas E",
+        "Henry M",
+        "Henry JK",
+        "Demetracopoulos CA"
+      ],
+      "authors_short": "Teehan E, Braswell MJ, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Periprosthetic joint infection (PJI) remains an uncommon but devastating complication after total ankle arthroplasty (TAA). Literature investigating treatment of PJI in TAA is limited, demonstrating poor patient-reported outcomes and high rates of complications and reoperations. Therefore, continued investigation of PJI treatment following TAA is necessary. This exploratory study describes clinical, microbiological, and patient-reported outcomes for PJI treatment following TAA at minimum 2-year follow-up. METHODS: Retrospective chart review was conducted for a single-institution registry of primary TAA patients between January 2015 and December 2021 with at least 1 follow-up appointment. Patients with PJI were identified using Musculoskeletal Infection Society (MSIS) criteria. Acute vs chronic PJI was defined as infectious symptom duration of <4\u2009weeks and \u22654\u2009weeks, respectively. Clinical, radiographic, microbiologic, and patient-reported outcomes were collected for PJI patients. The primary outcome was maintenance of a functioning TAA implant at the most recent follow-up; the secondary outcome was successful limb salvage. RESULTS: Of the 955 patients included in this analysis, 12 (1.3%) underwent reoperation for PJI at median 5.7-year follow-up, with 5 acute and 7 chronic PJI patients. The PJI incidence rate was 5.4\u2009per 1000\u2009person-years at risk (95% CI: 2.8, 9.5). Implant retention rate was 50% across all PJI patients, including 4 of 5 acute and 2 of 7 chronic PJI patients. One acute PJI patient underwent explant with permanent cement spacer. Chronic PJI patients without functioning TAA implant at final follow-up had undergone permanent cement spacer with washouts (n\u2009=\u20091), tibiotalocalcaneal arthrodesis (n\u2009=\u20091), ankle arthrodesis (n\u2009=\u20091), and below-knee amputation (n\u2009=\u20092). CONCLUSION: Debridement, antibiotics, and implant retention (DAIR) appears to be a viable option for acute PJI treatment. However, DAIR and explant with staged revision may be insufficient for complete eradication of chronic PJI. Infection recurrence may result in permanent loss of function because of limited secondary treatment options after failed revision.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41902325/",
+      "score": 86,
+      "score_reasoning": "High-quality biomechanical study using dynamic simulation published in prestigious AJSM with novel findings on meniscal repair that directly inform surgical decision-making.",
+      "bullets": [
+        "Periprosthetic joint infection occurs in 1.3% of total ankle arthroplasty patients with an incidence rate of 5.4 per 1000 person-years.",
+        "Acute ankle PJI responds well to debridement and implant retention (80% success rate), while chronic PJI has poor outcomes with only 29% implant retention.",
+        "Failed chronic ankle PJI treatment often leads to permanent functional loss including arthrodesis, cement spacers, or below-knee amputation due to limited salvage options."
       ]
     },
     {
@@ -282,12 +223,66 @@
         "Journal Article"
       ],
       "link": "https://pubmed.ncbi.nlm.nih.gov/41884952/",
-      "score": 72,
-      "score_reasoning": "Large multicenter international study on pain management after pediatric spinal fusion with high clinical relevance and robust methodology.",
+      "score": 85,
+      "score_reasoning": "Large multicenter study (2,371 patients) in pediatric journal comparing pain management strategies after spinal fusion with excellent methodology and clinical relevance.",
       "bullets": [
-        "Spinal opioids and epidural analgesia reduced total opioid use by more than half compared to PCA in adolescent scoliosis fusion patients (1.7-1.9 vs 4.1 OME/kg).",
-        "All three pain control methods produced similar pain scores, complication rates, and hospital length of stay in this 2,371 patient multicenter study.",
-        "Choice of analgesia method can be individualized since spinal, epidural, and PCA approaches all provide safe and effective pain relief for adolescent scoliosis surgery."
+        "Spinal opioid and epidural analgesia reduce total opioid use by more than half compared to PCA after posterior spinal fusion for adolescent idiopathic scoliosis.",
+        "Despite higher opioid consumption with PCA, pain scores, complications, and length of stay were similar across all three analgesic methods in 2,371 patients.",
+        "All three analgesic approaches provide safe and effective pain control, allowing flexibility in postoperative pain management for adolescent scoliosis surgery."
+      ]
+    },
+    {
+      "pmid": "41882938",
+      "title": "Hip Arthroscopy in Patients With Acetabular Dysplasia: A Systematic Review of Clinical Outcomes at Long-term Follow-up.",
+      "authors": [
+        "Sparks CA",
+        "Monty TL",
+        "Brinkman JC",
+        "Barton KI",
+        "Nho SJ"
+      ],
+      "authors_short": "Sparks CA, Monty TL, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Hip arthroscopy has shown satisfactory outcomes for the treatment of intra-articular pathology and femoroacetabular impingement syndrome (FAIS) in the setting of acetabular dysplasia at short- and mid-term follow-up. However, the long-term outcomes remain less understood. PURPOSE: To systematically review the literature to determine patient-reported outcomes (PROs), clinically significant outcome (CSO) achievement, reoperation rates, and predictors of failure in patients with acetabular dysplasia undergoing hip arthroscopy at long-term follow-up. STUDY DESIGN: Systematic review; Level of evidence, 4. METHODS: Three databases were searched around the following terms: hip arthroscopy, dysplasia, and long-term follow-up. Articles available in English, presenting original data, and reporting on a mean follow-up of \u226510 years after primary hip arthroscopy using either PROs, CSOs, or conversion to total hip arthroplasty (THA) and/or revision surgery were included. Quality assessment was completed using Methodological Index for Non-Randomized Studies (MINORS) assessment. RESULTS: Five studies (555 hips) were included in the systematic review: patients had a mean age of 30 to 41 years, 13% to 88% of patients were female, and follow-up ranged from 9.6 to 12 years. MINORS assessment ranged from 11 to 21. All studies included PROs and reported statistically significant improvement for most PROs. The most frequent PRO was the Modified Harris Hip Score (mHHS) (n = 5). All studies reported CSO achievement, with mHHS and Hip Outcome Score-Sport Specific (HOS-SS) being the most common (n = 4). Revision surgery and conversion to THA ranged from 2.6% to 15.2% and from 2.6% to 23.7%, respectively across dysplasia cohorts. The most common definition of failure was conversion to THA, and T\u00f6nnis angle was the most common predictor of failure. Four studies made comparisons to a nondysplasia group, with 1 study finding inferior HOS-SS and inferior achievement of Patient Acceptable Symptom State across multiple PROs in the dysplasia group. All 4 comparative studies found no differences in rates of revision surgery or conversion to THA between groups. CONCLUSION: Hip arthroscopy can reliably provide durable and clinically meaningful improvements for the treatment of intra-articular pathology and FAIS in patients with acetabular dysplasia at long-term follow-up, with comparable rates of revision surgery and conversion to THA to nondysplastic cohorts, although select dysplastic populations may demonstrate inferior patient-reported outcomes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41882938/",
+      "score": 84,
+      "score_reasoning": "Systematic review and meta-analysis in AJSM of hip arthroscopy outcomes in acetabular dysplasia with long-term follow-up providing important clinical guidance.",
+      "bullets": [
+        "Hip arthroscopy in acetabular dysplasia patients shows sustained clinical improvement at 10+ years with revision rates of 2.6% to 15.2% and conversion to total hip arthroplasty rates of 2.6% to 23.7%.",
+        "Dysplastic hips have similar revision and conversion rates compared to normal hips, but some dysplastic patients report worse sport-specific outcomes and symptom satisfaction scores.",
+        "Higher T\u00f6nnis angle predicts failure after hip arthroscopy in dysplastic patients, with conversion to total hip arthroplasty being the most common definition of surgical failure."
+      ]
+    },
+    {
+      "pmid": "41895639",
+      "title": "Diagnostic Performance of a Gravity Varus Stress CT Protocol in Detecting Instability in Isolated Coronoid Fractures.",
+      "authors": [
+        "Badre A",
+        "Abdullah H Awad M",
+        "Chan R",
+        "Lapner M",
+        "Goetz T"
+      ],
+      "authors_short": "Badre A, Abdullah H Awad M, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Instability associated with isolated coronoid fractures can be subtle and frequently missed on routine imaging. A stress-based CT protocol may improve detection of occult instability in isolated coronoid fractures. The purpose of this study was to evaluate the diagnostic performance of a gravity varus stress CT protocol in detecting instability in isolated coronoid fractures and compare it with routine static CT. METHODS: A retrospective cohort study of patients with isolated coronoid fractures who underwent either gravity varus stress CT or routine static CT between 2019-2025 was performed at two academic centers. Instability was assessed via clinical examination or fluoroscopic examination under anesthesia (EUA). CT findings were correlated with the reference clinical examination or EUA to calculate positive predictive value (PPV) and false-negative rate (FNR). Fisher's exact test was used for between-group comparisons. RESULTS: Eighty-four patients were included (41 stress CT, 43 static CT). Gravity varus stress CT demonstrated instability in 26/41 patients, with clinical or intraoperative instability confirmed in 28/41, yielding a PPV of 96% and FNR of 11%. Static CT demonstrated instability in 5/43 patients, while clinical or intraoperative assessment confirmed instability in 28/43, yielding a PPV of 100% and FNR of 82%. There was no difference in PPV (p = 1.00), but gravity varus stress CT had a significantly lower FNR than static CT (p < 0.001). CONCLUSION: Routine static CT substantially underestimates instability in isolated coronoid fractures. Gravity varus stress CT provides a more accurate assessment, with markedly lower false-negative rates and excellent positive predictive value. Stress CT should be considered in the evaluation of isolated coronoid fractures without obvious history/imaging evidence of dislocation.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41895639/",
+      "score": 79,
+      "score_reasoning": "Retrospective cohort study (84 patients) comparing stress CT protocols for coronoid fractures with excellent diagnostic accuracy findings relevant to trauma surgery.",
+      "bullets": [
+        "Standard CT misses instability in 82% of isolated coronoid fractures that are actually unstable on clinical examination.",
+        "Gravity varus stress CT reduces missed instability to only 11% while maintaining 96% accuracy when positive.",
+        "Consider stress CT for isolated coronoid fractures without obvious dislocation history to detect occult instability."
       ]
     }
   ],
