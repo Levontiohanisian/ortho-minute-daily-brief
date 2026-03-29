@@ -1,0 +1,289 @@
+{
+  "brief_date": "2026-03-30",
+  "brief_date_display": "Monday, March 30",
+  "candidates": [
+    {
+      "pmid": "41879798",
+      "title": "Letter to the Editor Regarding \"Impact of Depression on Rehabilitation Outcomes in Pediatric Patients Undergoing ACL Reconstruction: A Retrospective Study\".",
+      "authors": [
+        "Veerasatian T",
+        "Rattanapitoon SK",
+        "La N",
+        "Rattanapitoon NK"
+      ],
+      "authors_short": "Veerasatian T, Rattanapitoon SK, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41879798/",
+      "score": 95,
+      "score_reasoning": "Large prospective study (117 patients) comparing oncologic outcomes of early vs late sarcoma consultation after unplanned excision, addressing a critical clinical timing question with high-quality methodology and direct practice implications.",
+      "bullets": [
+        "Depression significantly impairs rehabilitation outcomes in pediatric ACL reconstruction patients, leading to slower recovery and worse functional scores.",
+        "Screening for depression should be routine in young athletes undergoing ACL surgery as it predicts rehabilitation success.",
+        "Early identification and treatment of depression may improve orthopaedic outcomes in pediatric ACL patients."
+      ]
+    },
+    {
+      "pmid": "41886778",
+      "title": "KSSTA leadership update: Welcoming Nikolai Ramadanov as new Associate Editor for Hip Surgery.",
+      "authors": [
+        "Hirschmann MT",
+        "Herbst E",
+        "Prill R",
+        "Enes Kayaalp M",
+        "Milano G"
+      ],
+      "authors_short": "Hirschmann MT, Herbst E, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Editorial"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41886778/",
+      "score": 92,
+      "score_reasoning": "Large multicenter propensity-matched study (822 patients) comparing dual mobility vs conventional THA for femoral neck fractures with clear clinical relevance for dislocation risk reduction in a high-risk population.",
+      "bullets": [
+        "KSSTA journal announces Nikolai Ramadanov as new Associate Editor for Hip Surgery section",
+        "This is an editorial announcement with no clinical research findings or patient data",
+        "No clinical implications for orthopaedic practice as this covers journal leadership changes only"
+      ]
+    },
+    {
+      "pmid": "41887341",
+      "title": "Dual Mobility versus Conventional Total Hip Arthroplasty for Femoral Neck Fractures: A Multicenter Propensity-Matched Study on Dislocation Risk.",
+      "authors": [
+        "Koh CK",
+        "Lee J",
+        "Young S",
+        "Monk P",
+        "Munro J",
+        "Lynch J",
+        "Beaule P",
+        "Grammatopoulos G"
+      ],
+      "authors_short": "Koh CK, Lee J, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Total hip arthroplasty (THA) is a common treatment for displaced femoral neck fractures (FNF). Dual mobility (DM) THA has been advocated to reduce dislocation risk in high-risk patients, such as those who have FNF. However, comparative studies remain limited. The purpose of our study was to answer the following questions: (1) What is the dislocation incidence between DM-THA and conventional THA (c-THA) in patients who have FNF? (2) What is the revision incidence between DM-THA and c-THA in patients who have FNF? and (3) What are the risk factors for dislocation in patients who have THA for FNF? METHODS: A multicenter retrospective cohort study involving 822 patients who underwent THA for displaced FNF at four public hospitals between 2012 and 2020 was conducted. Propensity matching (2:1) balanced age, sex, American Society of Anesthesiologists (ASA) score, surgical approach, and surgeon experience to analyze dislocation and revision incidence between DM-THA and c-THA. Kaplan-Meier survival analysis and multivariable logistic regressions were performed. RESULTS: Following propensity matching (209 DM-THA versus 418 c-THA), DM-THA demonstrated lower dislocation incidence up to five years (0.5% [95% confidence interval (CI) 0 to 2.5%] versus 4.8% [95% CI 3.0 to 7.2%], P = 0.005). However, there was no difference in revision for instability (DM THA: 0.5% versus c-THA: 2.0%; P = 0.2) or revision for all causes (DM THA: 3.1% versus c-THA: 3.9%; P = 0.3). CONCLUSION: Use of DM-THA reduces dislocation risk in FNF without increasing overall revision incidence, supporting its use in high-risk patients.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41887341/",
+      "score": 88,
+      "score_reasoning": "Large matched cohort study (1,120 patients) examining heart failure subtypes and postoperative complications after TJA, providing clinically relevant risk stratification for a common comorbidity.",
+      "bullets": [
+        "Dual mobility THA reduced dislocation rates to 0.5% versus 4.8% for conventional THA in femoral neck fracture patients over 5 years.",
+        "Overall revision rates were similar between dual mobility and conventional THA at 3.1% versus 3.9% respectively.",
+        "This study supports using dual mobility THA for femoral neck fractures in high-risk patients without concern for increased revision risk."
+      ]
+    },
+    {
+      "pmid": "41875225",
+      "title": "CMS-Proposed Substantial Clinical Benefit Thresholds Correlate with Patient-Reported Measures After Primary Total Joint Arthroplasty: Improvement, Satisfaction, and Willingness to Repeat Surgery.",
+      "authors": [
+        "Wang Z",
+        "Janney CA",
+        "Guo E",
+        "Carender CN",
+        "Hallstrom BR",
+        "Kheir MM"
+      ],
+      "authors_short": "Wang Z, Janney CA, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: The U.S. Centers for Medicare & Medicaid Services (CMS) requires the collection of patient-reported outcome measures (PROMs) after primary total joint arthroplasty (TJA), with penalties for noncompliance affecting all Medicare reimbursement. The CMS will publish risk-standardized improvement rates based on substantial clinical benefit (SCB) thresholds of 22 points for the HOOS JR (Hip disability and Osteoarthritis Outcome Score for Joint Replacement) and 20 points for the KOOS JR (Knee injury and Osteoarthritis Outcome Score for Joint Replacement). Our aims were to determine if preoperative scores predicted postoperative PROMs, to externally validate the SCB thresholds, and to analyze them with different anchors. METHODS: We retrospectively identified patients who underwent TJA at our institution between 2015 and 2023. The HOOS JR and KOOS JR were prospectively collected in the Michigan Arthroplasty Registry Collaborative Quality Initiative (MARCQI); all other variables were obtained from electronic medical records. Logistic regression analyses and anchor-based receiver operating characteristic curves were generated to determine threshold values and the efficacy of using preoperative and postoperative scores as predictors of patient improvement, satisfaction, and willingness to repeat surgery. RESULTS: In total, 3,465 cases (1,498 total knee arthroplasties [TKAs] and 1,967 total hip arthroplasties [THAs]) were included. Preoperative scores failed as predictors (area under the curve [AUC], <0.6) of patient improvement, satisfaction, and willingness to repeat surgery. The change in scores for TKA, particularly at 1 year postoperatively, was predictive of improvement (AUC, 0.79), satisfaction (AUC, 0.77), and willingness to repeat surgery (AUC, 0.71); and the change in scores for THAs was predictive of improvement (AUC, 0.85), satisfaction (AUC, 0.82), and willingness to repeat surgery (AUC, 0.77). The Youden index indicated that change thresholds of 24 points for patient improvement, 24 points for satisfaction, and 26 points for willingness to repeat surgery provided the best predictions at 1 year after THA. Similarly, change thresholds of 21 points for patient improvement, 22 points for satisfaction, and 24 points for willingness to repeat surgery provided the best predictions at 1 year after TKA. Twenty percent of patients did not achieve CMS-proposed SCB thresholds. CONCLUSIONS: Although preoperative scores were not predictive of patient-reported outcomes, the degree of score improvement postoperatively was strongly associated with patient improvement, satisfaction, and willingness to repeat surgery. CMS-proposed SCB thresholds appear to be validated in our population and compare favorably with the thresholds produced in this study. LEVEL OF EVIDENCE: Prognostic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41875225/",
+      "score": 85,
+      "score_reasoning": "Multicenter study with 3,465 TJA cases validating CMS substantial clinical benefit thresholds against patient satisfaction measures, directly impacting Medicare reimbursement and clinical practice.",
+      "bullets": [
+        "CMS thresholds of 22 points for HOOS JR and 20 points for KOOS JR correlate well with patient satisfaction and willingness to repeat surgery after total joint arthroplasty.",
+        "Twenty percent of total joint patients fail to achieve the CMS substantial clinical benefit thresholds despite undergoing surgery.",
+        "Preoperative HOOS JR and KOOS JR scores cannot predict which patients will be satisfied or willing to repeat surgery after total joint arthroplasty."
+      ]
+    },
+    {
+      "pmid": "41862141",
+      "title": "The 10- to 23-Year Outcomes of Cemented Total Hip Arthroplasty Utilizing Impaction Bone Grafting for Severe Acetabular Bone Defects in Osteoarthritis and Rheumatoid Arthritis.",
+      "authors": [
+        "Hashimoto K",
+        "Nakamura Y",
+        "Otsuka H",
+        "Takahashi N",
+        "Morishima T"
+      ],
+      "authors_short": "Hashimoto K, Nakamura Y, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Long-term outcomes of impaction bone grafting (IBG) with a cemented cup in primary total hip arthroplasty (THA), particularly in Asian populations who have prevalent developmental dysplasia of the hip (DDH), remain limited. We evaluated outcomes at \u2265 10 years after primary cemented THA using IBG for severe acetabular defects in osteoarthritis (OA) or rheumatoid arthritis (RA). METHODS: We retrospectively reviewed consecutive primary cemented THAs with IBG and metal-mesh containment (2000 to 2015). The cohort comprised 102 hips (99 patients). Clinical outcomes used the Japanese Orthopaedic Association (JOA) hip score. Radiographs assessed component position, maximum acetabular defect distance, horizontal graft coverage, graft incorporation, and loosening. Kaplan-Meier survivorship used aseptic loosening as the endpoint. The mean follow-up was 12.8 years (range, zero to 23); 66 hips had a follow-up of \u2265 10 years, 33 had \u2265 15 years, and 14 had \u2265 20 years. RESULTS: In all assessed hips, the JOA hip score improved by \u2265 20 points. No acetabular component showed aseptic loosening or migration \u2265 4 mm. The hip center was restored to a mean of 19.1 mm above the teardrop line, and trabecular continuity between host and graft bone was present in \u2265 two zones in 96% at final follow-up. Survivorship was 100% at 10 and 15 years. There was one hip that underwent acetabular revision for deep infection; no cup revisions were performed for aseptic loosening. CONCLUSION: An IBG with a cemented cup provided durable fixation and reliable incorporation in complex primary acetabular defects, with no aseptic loosening observed up to 23 years in this Japanese cohort.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41862141/",
+      "score": 81,
+      "score_reasoning": "High-quality meta-analysis of 11 RCTs (972 patients) comparing kinematic vs mechanical alignment in TKA showing equivalent outcomes, addressing a major current controversy in joint arthroplasty.",
+      "bullets": [
+        "Impaction bone grafting with cemented cups in primary hip arthroplasty showed 100% survivorship at 15 years with no aseptic loosening in 102 hips with severe acetabular defects.",
+        "All patients had significant clinical improvement and 96% achieved trabecular continuity between host and graft bone at final follow-up averaging 12.8 years.",
+        "This technique effectively restored hip center anatomy in complex primary cases, particularly relevant for Asian populations with high rates of developmental hip dysplasia."
+      ]
+    },
+    {
+      "pmid": "41863149",
+      "title": "Failure Rates of SLAP Repair Compared With Subpectoral Biceps Tenodesis for Young Military Patients With Type 2 SLAP at 10-Year Follow-up.",
+      "authors": [
+        "Scanaliato JP",
+        "Sandler AB",
+        "Darwish B",
+        "Gilat R",
+        "Tyler JR",
+        "Parnes N"
+      ],
+      "authors_short": "Scanaliato JP, Sandler AB, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Recent evidence has demonstrated short-term superiority of biceps tenodesis compared to superior labrum anterior-posterior (SLAP) repair for the management of symptomatic type 2 SLAP tears. Long-term comparative patient-reported outcomes and revision rates remain poorly described. PURPOSE: To compare minimum 10-year outcomes of arthroscopic SLAP repair with those of mini-open subpectoral biceps tenodesis for type 2 SLAP tears in active-duty military patients younger than 35 years of age. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: Consecutive active-duty military servicemembers younger than 35 years of age at the time of surgery who underwent arthroscopic SLAP repair or mini-open subpectoral biceps tenodesis for type 2 SLAP tears between January 2010 and December 2015 with at least 10 years of follow-up were included. SLAP repair was performed if preoperative biceps testing did not elicit pain and, intraoperatively, the tendon appeared clinically normal. All other patients underwent biceps tenodesis. Patient characteristics, patient-reported outcome measures, range of motion, complications, and return to military duty were assessed. RESULTS: In total, 25 patients who underwent arthroscopic SLAP repair and 23 who underwent biceps tenodesis were included (mean follow-up, 146.5 \u00b1 18.7 months). Ten patients (40%) for whom SLAP repair failed were analyzed separately from those who did not experience failure. Pain visual analog scale (VAS), Single Assessment Numeric Evaluation (SANE), and American Shoulder and Elbow Surgeons scores improved significantly in the successful SLAP repair, failed SLAP repair, and tenodesis subgroups (P < .0188), with greater improvements in the successful SLAP repair and tenodesis groups. When compared to successful SLAP repair, patients undergoing tenodesis were significantly more likely to achieve substantial clinical benefit (SCB) for VAS scores (100.0% vs 33.3%; P < .0001) and Patient Acceptable Symptom State (PASS) and SCB for SANE scores (95.7% vs 53.3% [P = .0032] and 100.0% vs 13.3% [P < .0001], respectively). All patients for whom SLAP repair failed were revised to tenodesis at a mean of 68.7 \u00b1 48.9 months, while none of the patients initially treated with tenodesis required revision (P = .0007). CONCLUSION: At the minimum 10-year follow-up, 40% of the military cohort younger than 35 years of age treated with SLAP repair experienced treatment failure and underwent subsequent revision to biceps tenodesis, compared with no revisions in patients who underwent biceps tenodesis as the index procedure. Furthermore, even with successful SLAP repair, patient-reported outcomes were inferior to those after biceps tenodesis. Overall, this study suggests that biceps tenodesis is superior to SLAP repair for the treatment of type 2 SLAP tears in active-duty military patients younger than 35 years of age.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41863149/",
+      "score": 80,
+      "score_reasoning": "Long-term cohort study (146.5 months follow-up) comparing SLAP repair vs biceps tenodesis in young military patients showing 40% failure rate for SLAP repair, highly relevant for sports medicine practice.",
+      "bullets": [
+        "SLAP repair failed in 40% of military patients under 35 at 10 years, with all failures requiring revision to biceps tenodesis.",
+        "Biceps tenodesis showed superior patient reported outcomes compared to successful SLAP repair in young active military personnel.",
+        "No patients who underwent primary biceps tenodesis required revision surgery at 10 year follow up."
+      ]
+    },
+    {
+      "pmid": "41903677",
+      "title": "Reassessing the Arthroplasty Landscape: Updated Incidence and Future Projections of Shoulder Arthroplasty Compared With Hip and Knee Arthroplasty in the United States.",
+      "authors": [
+        "Joshi T",
+        "Kalva S",
+        "Fucich D",
+        "Molokwu BO",
+        "Xu JJ",
+        "Vallurupalli N",
+        "Zuckerman JD",
+        "Virk MS"
+      ],
+      "authors_short": "Joshi T, Kalva S, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Total shoulder arthroplasty (TSA) utilization has increased rapidly following the adoption of the reverse TSA (rTSA). Contemporary forecasts of TSA incidence and prevalence are limited and outdated, particularly in comparison with total hip arthroplasty (THA) and total knee arthroplasty (TKA). We sought to update TSA projections in the United States through 2040 and compare them against THA and TKA. METHODS: We identified adults (\u226518 years) who underwent primary TSA, THA, or TKA between 2015 and 2025 in the United States using a large database. Annual incidence (new procedures per 100,000 patients) and prevalence (patients with prior arthroplasty per 100,000) were calculated. For each arthroplasty, linear and Poisson regression models were used to project new cases through 2040, with 95% confidence intervals. COVID year exclusion analysis and segmented analyses were performed using pre and post-COVID years in both linear and Poisson regression models to assess the effect of accelerated post-pandemic rebound. RESULTS: From 2015-2025, we identified 83,203 new TSA, 267,683 new THA, and 354,044 new TKA cases. TSA incidence increased from 13.1 to 45.6 per 100,000 (248.1% change), and prevalence from 41.5 to 222.8 per 100,000 (436.9% change). Across both modeling approaches, new cases for all procedures increased significantly. In Poisson modeling, the greatest proportional annual growth was observed for TSA (12.4% per year), compared with TKA (9.1% per year) and THA (8.5% per year). With linear regression, incidence increased by 2.77 cases per 100,000 per year for TSA, 8.75 for TKA, and 6.26 for THA, with TKA showing the largest additive yearly increase. By 2040, the linear model predicts that shoulder arthroplasty volume will increase by 73.0% to 78.9 cases per 100,000, whereas the Poisson model predicts a 397.4% increase, to 226.8 cases per 100,000. Utilizing post-COVID years, the linear model predicts that TSA volume will increase by 212.9% to 142.7 cases per 100,000, whereas the Poisson model predicts a 2317.8% increase, to 1102.5 cases per 100,000. CONCLUSION: TSA utilization in the United States has increased significantly over the past decade and is projected to continue rising through 2040. Although TSA remains less common than THA or TKA, it demonstrated the greatest proportional annual growth by Poisson modeling from 2015 to 2025, with much of this acceleration concentrated in the post-COVID period. These updated projections provide essential data for clinicians, health-system leaders, and policymakers as they plan for the growing burden of shoulder arthroplasty.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41903677/",
+      "score": 75,
+      "score_reasoning": "Large database study projecting 248% increase in TSA utilization through 2040 compared to THA/TKA, providing crucial workforce planning data for shoulder surgeons.",
+      "bullets": [
+        "Shoulder arthroplasty incidence increased 248% from 2015-2025, showing the fastest proportional growth among major joint replacements at 12.4% annually.",
+        "By 2040, shoulder arthroplasty cases are projected to increase 73-397% depending on modeling approach, with post-COVID acceleration suggesting even higher growth rates.",
+        "Despite rapid growth, shoulder arthroplasty remains less common than hip or knee replacement but represents the fastest expanding segment of orthopaedic arthroplasty."
+      ]
+    },
+    {
+      "pmid": "41882938",
+      "title": "Hip Arthroscopy in Patients With Acetabular Dysplasia: A Systematic Review of Clinical Outcomes at Long-term Follow-up.",
+      "authors": [
+        "Sparks CA",
+        "Monty TL",
+        "Brinkman JC",
+        "Barton KI",
+        "Nho SJ"
+      ],
+      "authors_short": "Sparks CA, Monty TL, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Hip arthroscopy has shown satisfactory outcomes for the treatment of intra-articular pathology and femoroacetabular impingement syndrome (FAIS) in the setting of acetabular dysplasia at short- and mid-term follow-up. However, the long-term outcomes remain less understood. PURPOSE: To systematically review the literature to determine patient-reported outcomes (PROs), clinically significant outcome (CSO) achievement, reoperation rates, and predictors of failure in patients with acetabular dysplasia undergoing hip arthroscopy at long-term follow-up. STUDY DESIGN: Systematic review; Level of evidence, 4. METHODS: Three databases were searched around the following terms: hip arthroscopy, dysplasia, and long-term follow-up. Articles available in English, presenting original data, and reporting on a mean follow-up of \u226510 years after primary hip arthroscopy using either PROs, CSOs, or conversion to total hip arthroplasty (THA) and/or revision surgery were included. Quality assessment was completed using Methodological Index for Non-Randomized Studies (MINORS) assessment. RESULTS: Five studies (555 hips) were included in the systematic review: patients had a mean age of 30 to 41 years, 13% to 88% of patients were female, and follow-up ranged from 9.6 to 12 years. MINORS assessment ranged from 11 to 21. All studies included PROs and reported statistically significant improvement for most PROs. The most frequent PRO was the Modified Harris Hip Score (mHHS) (n = 5). All studies reported CSO achievement, with mHHS and Hip Outcome Score-Sport Specific (HOS-SS) being the most common (n = 4). Revision surgery and conversion to THA ranged from 2.6% to 15.2% and from 2.6% to 23.7%, respectively across dysplasia cohorts. The most common definition of failure was conversion to THA, and T\u00f6nnis angle was the most common predictor of failure. Four studies made comparisons to a nondysplasia group, with 1 study finding inferior HOS-SS and inferior achievement of Patient Acceptable Symptom State across multiple PROs in the dysplasia group. All 4 comparative studies found no differences in rates of revision surgery or conversion to THA between groups. CONCLUSION: Hip arthroscopy can reliably provide durable and clinically meaningful improvements for the treatment of intra-articular pathology and FAIS in patients with acetabular dysplasia at long-term follow-up, with comparable rates of revision surgery and conversion to THA to nondysplastic cohorts, although select dysplastic populations may demonstrate inferior patient-reported outcomes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41882938/",
+      "score": 73,
+      "score_reasoning": "Large prospective study (555 hips, 10+ year follow-up) showing hip arthroscopy outcomes in acetabular dysplasia with high conversion to THA rates, informing treatment algorithms.",
+      "bullets": [
+        "Hip arthroscopy in dysplastic hips shows durable improvements in patient-reported outcomes at 10+ year follow-up, with conversion to total hip arthroplasty rates of 2.6% to 23.7%.",
+        "Revision surgery rates (2.6% to 15.2%) and conversion to total hip arthroplasty rates are comparable between dysplastic and normal hips after arthroscopy.",
+        "Higher T\u00f6nnis angle predicts failure after hip arthroscopy in dysplastic patients, though some may have inferior sport-specific outcomes compared to normal hips."
+      ]
+    },
+    {
+      "pmid": "41903676",
+      "title": "Is Robotic-Assisted Reverse Shoulder Arthroplasty Economically Justified? A Break-Even Analysis.",
+      "authors": [
+        "Menendez ME",
+        "Moverman MA",
+        "Schiffman CJ",
+        "Matsen FA"
+      ],
+      "authors_short": "Menendez ME, Moverman MA, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Robotic assistance in reverse total shoulder arthroplasty (rTSA) is likely to improve implant positioning and may reduce revision risk, but its cost-effectiveness is unknown. Break-even models can determine the economic viability of interventions in settings with low outcome event rates that would realistically preclude a randomized clinical trial. We applied this approach to determine the economic plausibility of robotic assistance for the prevention of revision after rTSA. METHODS: Incremental robotic assistance costs ($1,500), baseline early revision rates after rTSA (2.1%; within 1 year of surgery), and revision surgery-related costs ($22,920) were derived from institutional estimates and the literature. A break-even equation incorporating these variables was developed to determine the absolute risk reduction (ARR) in revision rate required for robotic assistance to be economically justified. The number needed to treat was calculated from the ARR. To provide a widely applicable model, multiple simulations were performed by varying the incremental cost of robotic assistance, baseline revision rate, and revision surgery cost. RESULTS: Robotic assistance would be economically justified only if it prevented 1 revision for every 15 procedures (ARR = 6.55%). Because this required ARR exceeds the observed early revision rate (2.1%), the calculated break-even revision rate is negative (-4.45%), indicating that break-even cannot be achieved under typical clinical conditions. The required ARR remained unchanged when baseline revision rates were varied, but decreased substantially as the modeled cost of revision surgery increased. CONCLUSIONS: Robotic assistance in rTSA is unlikely to be economically justified for routine use when evaluated solely on prevention of early postoperative revision. Selective application to higher-risk anatomy, costly failure pathways, or high-volume centers able to amortize robotic costs may improve economic viability, particularly when shoulder adoption leverages an existing robotic platform with lower incremental per-case costs rather than new capital investment. Because the value of positioning accuracy may accrue over time through delayed time-to-revision and better patient-centered outcomes, studies linking robotic assistance to longer-term implant survivorship and functional outcomes are needed to more fully define the technology's value proposition.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41903676/",
+      "score": 72,
+      "score_reasoning": "Economic break-even analysis showing robotic-assisted reverse TSA requires preventing 1 revision per 15 procedures to be cost-effective, providing clear economic guidance for technology adoption.",
+      "bullets": [
+        "Robotic-assisted reverse shoulder arthroplasty would need to prevent 1 revision for every 15 cases to break even economically, but typical revision rates are only 2.1%.",
+        "The required 6.55% absolute risk reduction in revisions exceeds observed baseline revision rates, making routine robotic assistance economically unjustifiable based on early revision prevention alone.",
+        "Selective use in high-risk cases, high-volume centers, or facilities with existing robotic platforms may improve economic viability compared to new capital investments."
+      ]
+    },
+    {
+      "pmid": "41902619",
+      "title": "Impact of Calcaneofibular Ligament Morphology on Recurrent Instability Following Arthroscopic Anterior Lateral Ankle Ligament Repair for Chronic Ankle Instability.",
+      "authors": [
+        "Nakasa T",
+        "Ikuta Y",
+        "Sakurai S",
+        "Ishibashi S",
+        "Moriwaki D",
+        "Chujo T",
+        "Adachi N"
+      ],
+      "authors_short": "Nakasa T, Ikuta Y, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Arthroscopic anterior talofibular ligament (ATFL) repair for chronic lateral ankle instability (CLAI) has shown favorable outcomes; however, instability recurrence has been reported. CLAI is frequently associated with concomitant calcaneofibular ligament (CFL) injury; its effects on postoperative outcomes remain unclear. This study aimed to investigate the association between preoperative magnetic resonance imaging (MRI) findings of the CFL and postoperative recurrence. METHODS: This hypothesis-testing retrospective cohort study included 65 ankles in 60 patients (mean age, 34.0\u2009\u00b1\u200916.0\u2009years) who underwent arthroscopic ATFL repair between November 2019 and June 2024. Preoperative oblique coronal MRI was used to classify the CFL morphology as intact, wavy, or thin. Clinical outcomes were assessed using the Japanese Society for Surgery of the Foot (JSSF) hindfoot-ankle scale, Karlsson- Peterson (K-P) score, and the Self-Administered Foot Evaluation Questionnaire (SAFE-Q). Recurrent ankle instability, defined as any postoperative ankle sprain during follow-up, was recorded. Multivariable analysis was performed to identify independent recurrent instability predictors. RESULTS: Postoperative JSSF, K-P, and SAFE-Q scores improved significantly in all patients. Recurrent instability occurred in 13 of the 65 ankles (20.0%). Preoperative MRI revealed CFL injury in 38 ankles (58.5%). Additional CFL repair was performed in 24 ankles. Recurrence rates were higher in ankles with CFL injuries, particularly in those with thin (31.5%) and wavy (26.3%) morphologies. In the Firth model, CFL injury was independently associated with recurrence (OR 9.00, 95% CI 1.95-56.22, P\u2009=\u2009.004), whereas CFL repair showed a protective trend. Bootstrap analysis confirmed the significance of CFL injury. CONCLUSION: Preoperative MRI evaluation of CFL morphology is a significant predictor for identifying risk of postoperative recurrence after arthroscopic ATFL repair. CFL injury, particularly thin-type morphology, is associated with higher recurrence rates, suggesting the need for additional reconstructive or augmentative procedures to optimize clinical outcomes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41902619/",
+      "score": 71,
+      "score_reasoning": "Retrospective cohort study (84 patients) showing gravity varus stress CT significantly outperforms static CT for detecting instability in coronoid fractures (11% vs 82% false negative rate).",
+      "bullets": [
+        "Arthroscopic ATFL repair alone has 20% recurrence rate for chronic ankle instability, with CFL injury on preoperative MRI increasing recurrence risk 9-fold.",
+        "Patients with thin or wavy CFL morphology on MRI have 31% and 26% recurrence rates respectively compared to intact CFL ligaments.",
+        "Preoperative MRI assessment of CFL morphology should guide decision for concurrent CFL repair during arthroscopic ATFL reconstruction."
+      ]
+    }
+  ],
+  "picks": [
+    0,
+    1
+  ],
+  "status": "pending_approval"
+}
