@@ -40,7 +40,7 @@ def main():
         return 0
 
     candidates = data["candidates"]
-    picks = data.get("picks", [0, 1])
+    picks = data.get("picks", [0])
 
     print(f"Candidates available: {len(candidates)}")
     print()
@@ -50,16 +50,15 @@ def main():
     approval = check_for_approval(now)
 
     if approval["no_response"]:
-        print("No response received. Using top 2 papers (default).")
+        print("No response received. Using top paper (default).")
     elif approval["picks"]:
-        new_picks = approval["picks"]
-        # Validate picks are in range
+        new_picks = approval["picks"][:1]  # Only take first pick
         valid = all(0 <= p < len(candidates) for p in new_picks)
         if valid:
             picks = new_picks
-            print(f"Editor picked papers #{picks[0]+1} and #{picks[1]+1}")
+            print(f"Editor picked paper #{picks[0]+1}")
         else:
-            print(f"Invalid picks {new_picks}, using default top 2.")
+            print(f"Invalid pick {new_picks}, using default top paper.")
 
     print()
 
@@ -73,28 +72,24 @@ def main():
         print(f"  Dropped {dropped} candidate(s) missing bullet points.")
         candidates = valid_candidates
 
-    # Select final papers
-    if len(candidates) < 2:
-        print("ERROR: Not enough candidates with valid bullet points.")
+    # Select final paper
+    if len(candidates) < 1:
+        print("ERROR: No candidates with valid bullet points.")
         return 1
 
     pick1 = min(picks[0], len(candidates) - 1)
-    pick2 = min(picks[1], len(candidates) - 1)
-
     paper1 = candidates[pick1]
-    paper2 = candidates[pick2]
 
-    print(f"Paper 1: {paper1['title'][:80]}...")
-    print(f"Paper 2: {paper2['title'][:80]}...")
+    print(f"Paper: {paper1['title'][:80]}...")
     print()
 
     # Send to Buttondown
     print("--- Sending brief to Buttondown ---")
-    success = send_to_buttondown(now, paper1, paper2)
+    success = send_to_buttondown(now, paper1)
 
     if success:
         data["status"] = "sent"
-        data["picks"] = [pick1, pick2]
+        data["picks"] = [pick1]
         with open(data_path, "w") as f:
             json.dump(data, f, indent=2)
         print("Morning pipeline complete. Brief sent to subscribers.")

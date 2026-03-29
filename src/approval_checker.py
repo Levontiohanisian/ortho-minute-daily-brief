@@ -51,12 +51,11 @@ def check_for_approval(date: datetime) -> dict:
 
             body = body.strip()
 
-            # Look for two numbers (e.g., "1, 4" or "1 4" or "1 and 4")
+            # Look for a number (e.g., "3" or "paper 3")
             numbers = re.findall(r'\b(\d{1,2})\b', body)
-            if len(numbers) >= 2:
+            if len(numbers) >= 1:
                 pick1 = int(numbers[0]) - 1  # Convert to 0-indexed
-                pick2 = int(numbers[1]) - 1
-                result["picks"] = [pick1, pick2]
+                result["picks"] = [pick1]
                 result["no_response"] = False
                 break
 

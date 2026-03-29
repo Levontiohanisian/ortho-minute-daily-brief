@@ -10,31 +10,24 @@ from .config import (
 )
 
 
-def _build_brief_markdown(date: datetime, paper1: dict, paper2: dict) -> str:
+def _build_brief_markdown(date: datetime, paper: dict) -> str:
     """Build the final subscriber brief in markdown (Buttondown's native format)."""
 
     date_str = date.strftime("%A, %B %d")
 
-    def paper_section(paper: dict) -> str:
-        journal_display = paper.get("journal_abbrev") or paper["journal"]
-        bullets = ""
-        for b in paper.get("bullets", []):
-            bullets += f"- {b}\n"
-
-        return (
-            f"**{paper['title']}**\n\n"
-            f"*{journal_display} ({paper['year']})*\n\n"
-            f"{bullets}\n"
-            f"[Read the paper]({paper['link']})"
-        )
+    journal_display = paper.get("journal_abbrev") or paper["journal"]
+    bullets = ""
+    for b in paper.get("bullets", []):
+        bullets += f"- {b}\n"
 
     brief = (
         f"# THE ORTHO MINUTE DAILY BRIEF\n\n"
         f"---\n\n"
         f"{date_str}\n\n"
-        f"{paper_section(paper1)}\n\n"
-        f"---\n\n"
-        f"{paper_section(paper2)}\n\n"
+        f"**{paper['title']}**\n\n"
+        f"*{journal_display} ({paper['year']})*\n\n"
+        f"{bullets}\n"
+        f"[Read the paper]({paper['link']})\n\n"
         f"---\n\n"
         f"**The Ortho Minute**\n\n"
         f"Curated orthopaedic research. Daily.\n\n"
@@ -44,12 +37,12 @@ def _build_brief_markdown(date: datetime, paper1: dict, paper2: dict) -> str:
     return brief
 
 
-def send_to_buttondown(date: datetime, paper1: dict, paper2: dict) -> bool:
+def send_to_buttondown(date: datetime, paper: dict) -> bool:
     """Send the brief to Buttondown subscribers."""
 
     subject = "The Ortho Minute Daily Brief"
 
-    body = _build_brief_markdown(date, paper1, paper2)
+    body = _build_brief_markdown(date, paper)
 
     url = "https://api.buttondown.com/v1/emails"
 
