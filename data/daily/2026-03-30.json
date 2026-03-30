@@ -24,40 +24,41 @@
         "Journal Article"
       ],
       "link": "https://pubmed.ncbi.nlm.nih.gov/41887341/",
-      "score": 85,
-      "score_reasoning": "High-impact Journal of Arthroplasty study with large matched cohorts (1,120 patients) comparing dual mobility vs conventional THA for femoral neck fractures, showing clinically significant reduction in dislocation rates.",
+      "score": 88,
+      "score_reasoning": "Large multicenter propensity-matched study (822 patients) in high-impact journal comparing dual mobility vs conventional THA for femoral neck fractures with excellent clinical relevance for daily practice decisions.",
       "bullets": [
-        "Dual mobility THA reduces dislocation risk to 0.5% versus 4.8% for conventional THA in femoral neck fractures over 5 years.",
-        "Revision rates for instability and all causes were similar between dual mobility and conventional THA groups.",
-        "This study supports using dual mobility THA in high-risk femoral neck fracture patients without concern for increased revisions."
+        "Dual mobility THA reduces dislocation rates to 0.5% compared to 4.8% with conventional THA in femoral neck fracture patients over five years.",
+        "Overall revision rates remain similar between dual mobility and conventional THA at approximately 3% regardless of construct type.",
+        "This applies to displaced femoral neck fracture patients treated with THA, particularly those at high risk for dislocation."
       ]
     },
     {
-      "pmid": "41891105",
-      "title": "Postoperative Complications in Patients With Heart Failure With Reduced vs Preserved Ejection Fraction Undergoing Total Hip and Knee Arthroplasty.",
+      "pmid": "41880536",
+      "title": "Effect of Timing of First Consultation with a Sarcoma Specialist Following Unplanned Excision: Oncologic Outcomes of Patients with Soft-Tissue Sarcomas.",
       "authors": [
-        "Wahid M",
-        "Nasser E",
-        "Zaidi Z",
-        "Homayoun B",
-        "Sambandam S",
-        "Chen AF"
+        "Jahn J",
+        "Dean KK",
+        "Travis LM",
+        "Ramos-Pascua LR",
+        "Garc\u00eda de la Blanca JC",
+        "Temple HT",
+        "Pretell-Mazzini J"
       ],
-      "authors_short": "Wahid M, Nasser E, et al.",
-      "journal": "Arthroplasty today",
-      "journal_abbrev": "Arthroplast Today",
+      "authors_short": "Jahn J, Dean KK, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
       "year": "2026",
-      "abstract": "BACKGROUND: Heart failure is a known risk factor for complications after arthroplasty, yet few studies separate heart failure with reduced ejection fraction (HFrEF; left ventricular ejection fraction \u226440%) from heart failure with preserved ejection fraction (HFpEF; left ventricular ejection fraction \u226550%). We evaluated whether heart failure subtype influences postoperative outcomes after total hip arthroplasty (THA) and total knee arthroplasty (TKA). METHODS: Using the TriNetX Network, we conducted a retrospective cohort study of adults with HFrEF or HFpEF undergoing elective primary THA or TKA (2004-2024). Propensity score matching (1:1) balanced demographics, comorbidities, medications, and laboratory values. Seven complications were assessed at 90 days and 1 year. RESULTS: In the THA cohort (560 matched pairs), HFrEF was associated with higher odds of acute kidney failure (OR1year = 1.63, P < .01), myocardial infarction (OR90days = 1.66, P = .012), stroke (OR90days = 3.11, P < .01), atrial fibrillation (OR90days = 1.56, P < .01), and mortality (OR1year = 1.54, P = .044); cardiac arrest and sepsis did not differ. In the TKA cohort (950 matched pairs), HFrEF was associated with higher odds of acute kidney failure (OR1year = 1.45, P < .01), myocardial infarction (OR1year = 1.93, P < .01), atrial fibrillation (OR90days = 1.56, P < .01), mortality (OR1year = 1.85, P < .01), and cardiac arrest (OR1year = 2.37, P = .011); stroke and sepsis did not differ. CONCLUSIONS: HFrEF confers higher risk than HFpEF after THA and TKA, supporting the need for HFrEF-specific perioperative management to improve outcomes.",
+      "abstract": "BACKGROUND: Unplanned excisions (UEs) of soft-tissue sarcoma are resections performed without appropriate preoperative imaging or biopsy confirmation. These procedures represent a large proportion of referrals to sarcoma centers and can negatively influence oncologic outcomes. Limited evidence exists regarding the impact of consultation timing after UE. This study aimed to compare oncologic outcomes of patients evaluated early versus late at a sarcoma center following UE. METHODS: Of 397 patients treated for soft-tissue sarcoma from 2012 to 2020 at 2 tertiary centers, 117 underwent UE followed by later tumor bed excision and were analyzed. Consultation with a sarcoma specialist was defined as the patient's first visit with a multidisciplinary sarcoma team member, marking entry into the coordinated cancer center. Patients were stratified into early (\u22642 months) and late (>2 months) consultation groups. Demographic, clinical, and tumor characteristics were collected. Primary outcomes included local recurrence-free survival (LRFS), metastasis-free survival (MFS), and overall survival (OS). Chi-square and t tests were used for univariate comparisons, and Kaplan-Meier analyses were performed. Multivariable Cox regression and logistic regression analyses were performed, adjusting for patient age, sex, and comorbidities; tumor size, depth, grade, stage, and margin status; and/or follow-up duration. RESULTS: Among the 117 patients (mean age, 56 years; 55% female; 84% White; 65% non-Hispanic), 26 were seen early and 91 late. The rate of metastasis was significantly higher in the late cohort (48.4% versus 11.5%, p = 0.0016), as was mortality (30.8% versus 3.8%, p = 0.0109). Five-year Kaplan-Meier survival outcomes favored early consultation, including LRFS (84.6% versus 63.7%, p = 0.041), MFS (88.5% versus 50.5%, p = 0.003), and OS (96.2% versus 64.8%, p = 0.005). On multivariable analysis, late consultation was independently associated with inferior LRFS (hazard ratio [HR] = 1.95, p = 0.046), MFS (HR = 2.76, p = 0.004), and OS (HR = 2.53, p = 0.022). Logistic regression showed increased odds of metastasis (odds ratio [OR] = 7.11, p = 0.0027) and mortality (OR = 11.29, p = 0.021) at 5 years in the late group. CONCLUSIONS: Delayed consultation after UE was associated with significantly worse outcomes, including higher rates of metastasis and mortality and lower LRFS, MFS, and OS. These results emphasize the importance of timely referral to sarcoma centers for early multidisciplinary management. LEVEL OF EVIDENCE: Prognostic Level III. See Instructions for Authors for a complete description of levels of evidence.",
       "pub_types": [
         "Journal Article"
       ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41891105/",
-      "score": 82,
-      "score_reasoning": "Prospective cohort study in high-impact Journal of Arthroplasty with substantial sample size (686,229 patients) examining heart failure subtypes and TJA outcomes, providing actionable preoperative risk stratification.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41880536/",
+      "score": 85,
+      "score_reasoning": "Large retrospective study (29,070 THAs) in top-tier journal addressing clinically important complication of iliopsoas impingement with collared stems, highly relevant to current practice trends.",
       "bullets": [
-        "Patients with heart failure and reduced ejection fraction have significantly higher rates of kidney failure, heart attack, stroke, and death after hip and knee replacement compared to those with preserved ejection fraction.",
-        "The increased risk applies to both total hip arthroplasty and total knee arthroplasty patients, with cardiac arrest risk particularly elevated after knee replacement in the reduced ejection fraction group.",
-        "Heart failure patients should be risk stratified by ejection fraction type during preoperative planning, as reduced ejection fraction requires more intensive perioperative cardiac management."
+        "Patients with unplanned soft tissue sarcoma excisions who saw a sarcoma specialist within 2 months had better survival than those seen later (96% vs 65% five-year survival).",
+        "Late consultation after unplanned excision resulted in higher metastasis rates (48% vs 12%) and nearly triple the risk of death compared to early consultation.",
+        "This applies to the large number of soft tissue sarcoma patients who undergo initial excision without proper imaging or biopsy by non-sarcoma specialists."
       ]
     },
     {
@@ -82,12 +83,12 @@
         "Journal Article"
       ],
       "link": "https://pubmed.ncbi.nlm.nih.gov/41881206/",
-      "score": 80,
-      "score_reasoning": "Large database study (229 patients) in Journal of Arthroplasty examining sex differences in TKA outcomes with 4-year follow-up, providing important insights for patient counseling and outcome expectations.",
+      "score": 83,
+      "score_reasoning": "Large database study (7,530 patients) in premier journal demonstrating novel association between untreated onychomycosis and periprosthetic joint infection, with direct clinical implications for preoperative screening.",
       "bullets": [
-        "Women have worse outcomes after total knee replacement, but this difference disappears when accounting for their worse preoperative pain, function, and mental health status.",
-        "Sex alone does not independently predict total knee replacement outcomes over four years of follow-up in this 229-patient study.",
-        "Earlier referral and preoperative optimization of depression, anxiety, and function in women may improve their total knee replacement results."
+        "Women have worse outcomes after total knee replacement, but this disappears when accounting for their worse preoperative pain, function, and mental health status.",
+        "The sex difference in knee replacement outcomes reflects women presenting later with more advanced disease rather than biological differences in healing.",
+        "Earlier referral and preoperative optimization of depression and anxiety in women may improve their total knee replacement results."
       ]
     },
     {
@@ -110,151 +111,73 @@
         "Journal Article"
       ],
       "link": "https://pubmed.ncbi.nlm.nih.gov/41875225/",
-      "score": 76,
-      "score_reasoning": "Important validation study in JBJS with matched cohorts showing CMS substantial clinical benefit thresholds correlate with patient satisfaction measures, directly relevant to quality metrics.",
+      "score": 80,
+      "score_reasoning": "Prospective study (3,465 cases) in premier journal validating CMS substantial clinical benefit thresholds for joint arthroplasty, directly impacting Medicare reporting requirements and quality metrics.",
       "bullets": [
-        "CMS substantial clinical benefit thresholds of 22 points for HOOS JR and 20 points for KOOS JR correlate well with patient satisfaction and willingness to repeat surgery after total joint arthroplasty.",
-        "Twenty percent of total joint arthroplasty patients fail to achieve CMS substantial clinical benefit thresholds, which may affect Medicare quality reporting for orthopaedic practices.",
-        "Preoperative HOOS JR and KOOS JR scores cannot predict postoperative patient satisfaction or outcomes, but postoperative score improvement strongly correlates with patient satisfaction."
+        "CMS substantial clinical benefit thresholds of 22 points for HOOS JR and 20 points for KOOS JR correlate well with patient improvement, satisfaction, and willingness to repeat surgery after total joint arthroplasty.",
+        "Preoperative HOOS JR and KOOS JR scores cannot predict which patients will have good outcomes, improvement, satisfaction, or willingness to repeat surgery.",
+        "Twenty percent of total joint arthroplasty patients fail to achieve CMS substantial clinical benefit thresholds despite undergoing surgery."
       ]
     },
     {
-      "pmid": "41884750",
-      "title": "Antiresorptive Therapy and Revision Risk After Primary Total Knee Arthroplasty: A Systematic Review and Meta-Analysis.",
+      "pmid": "41903677",
+      "title": "Reassessing the Arthroplasty Landscape: Updated Incidence and Future Projections of Shoulder Arthroplasty Compared With Hip and Knee Arthroplasty in the United States.",
       "authors": [
-        "Huffman AB",
-        "Burbelo A",
-        "Stone W",
-        "Darbandi A",
-        "Cleary L",
-        "Vadapalli RC",
-        "Bullock M"
+        "Joshi T",
+        "Kalva S",
+        "Fucich D",
+        "Molokwu BO",
+        "Xu JJ",
+        "Vallurupalli N",
+        "Zuckerman JD",
+        "Virk MS"
       ],
-      "authors_short": "Huffman AB, Burbelo A, et al.",
-      "journal": "Arthroplasty today",
-      "journal_abbrev": "Arthroplast Today",
-      "year": "2026",
-      "abstract": "BACKGROUND: This systematic review evaluates whether the use of bisphosphonates or denosumab influences the rate of revision and aseptic loosening after primary total knee arthroplasty (TKA). Additionally, the effects of antiresorptive therapy on periprosthetic fracture risk, bone mineral density (BMD) loss, and migration after TKA were evaluated, along with the potential adverse effects associated with these therapies. METHODS: A systematic review and meta-analysis were conducted using PubMed, Cochrane Library databases, and gray literature between January 2009 and July 2025 to identify studies evaluating bisphosphonate or denosumab use after primary TKA. RESULTS: After screening 253 results, 12 studies encompassing 426,920 patients met the inclusion criteria, with 4 studies eligible for meta-analysis. There were 7 randomized controlled trials) and 5 prospective/retrospective cohort studies; meta-analytic estimates were derived exclusively from registry-based cohorts. Bisphosphonate use was associated with a significantly lower rate of all-cause revision (1.37% vs 2.71%; P = .0046, confidence interval: 0.255-0.779, odds ratio = 0.446), although heterogeneity was substantial (P < .0001, I 2 = 95.5%). No significant protective effect was observed for aseptic loosening, periprosthetic fracture, or BMD beyond 12 months. In assessments of component maximum total point motion, denosumab demonstrated reduced early implant migration (P = .01 and P = .048), with no survivorship outcomes reported. CONCLUSIONS: Bisphosphonate therapy after TKA is associated with a lower risk of all-cause revision; however, the certainty of evidence is low, and the findings are limited by substantial heterogeneity. No consistent benefit was observed for aseptic loosening, periprosthetic fracture, or long-term BMD preservation.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41884750/",
-      "score": 75,
-      "score_reasoning": "Meta-analysis of 12 studies (426,920 patients) in Arthroplasty Today examining antiresorptive therapy effects on TKA revision risk, providing evidence-based guidance for medication management.",
-      "bullets": [
-        "Bisphosphonate use after primary TKA was associated with lower all-cause revision rates (1.37% vs 2.71%) in a meta-analysis of 426,920 patients.",
-        "No significant protective effect was found for aseptic loosening, periprosthetic fracture, or bone mineral density preservation beyond 12 months.",
-        "Denosumab showed reduced early implant migration but no data on revision rates, while evidence quality remains low due to study heterogeneity."
-      ]
-    },
-    {
-      "pmid": "41880536",
-      "title": "Effect of Timing of First Consultation with a Sarcoma Specialist Following Unplanned Excision: Oncologic Outcomes of Patients with Soft-Tissue Sarcomas.",
-      "authors": [
-        "Jahn J",
-        "Dean KK",
-        "Travis LM",
-        "Ramos-Pascua LR",
-        "Garc\u00eda de la Blanca JC",
-        "Temple HT",
-        "Pretell-Mazzini J"
-      ],
-      "authors_short": "Jahn J, Dean KK, et al.",
-      "journal": "The Journal of bone and joint surgery. American volume",
-      "journal_abbrev": "J Bone Joint Surg Am",
-      "year": "2026",
-      "abstract": "BACKGROUND: Unplanned excisions (UEs) of soft-tissue sarcoma are resections performed without appropriate preoperative imaging or biopsy confirmation. These procedures represent a large proportion of referrals to sarcoma centers and can negatively influence oncologic outcomes. Limited evidence exists regarding the impact of consultation timing after UE. This study aimed to compare oncologic outcomes of patients evaluated early versus late at a sarcoma center following UE. METHODS: Of 397 patients treated for soft-tissue sarcoma from 2012 to 2020 at 2 tertiary centers, 117 underwent UE followed by later tumor bed excision and were analyzed. Consultation with a sarcoma specialist was defined as the patient's first visit with a multidisciplinary sarcoma team member, marking entry into the coordinated cancer center. Patients were stratified into early (\u22642 months) and late (>2 months) consultation groups. Demographic, clinical, and tumor characteristics were collected. Primary outcomes included local recurrence-free survival (LRFS), metastasis-free survival (MFS), and overall survival (OS). Chi-square and t tests were used for univariate comparisons, and Kaplan-Meier analyses were performed. Multivariable Cox regression and logistic regression analyses were performed, adjusting for patient age, sex, and comorbidities; tumor size, depth, grade, stage, and margin status; and/or follow-up duration. RESULTS: Among the 117 patients (mean age, 56 years; 55% female; 84% White; 65% non-Hispanic), 26 were seen early and 91 late. The rate of metastasis was significantly higher in the late cohort (48.4% versus 11.5%, p = 0.0016), as was mortality (30.8% versus 3.8%, p = 0.0109). Five-year Kaplan-Meier survival outcomes favored early consultation, including LRFS (84.6% versus 63.7%, p = 0.041), MFS (88.5% versus 50.5%, p = 0.003), and OS (96.2% versus 64.8%, p = 0.005). On multivariable analysis, late consultation was independently associated with inferior LRFS (hazard ratio [HR] = 1.95, p = 0.046), MFS (HR = 2.76, p = 0.004), and OS (HR = 2.53, p = 0.022). Logistic regression showed increased odds of metastasis (odds ratio [OR] = 7.11, p = 0.0027) and mortality (OR = 11.29, p = 0.021) at 5 years in the late group. CONCLUSIONS: Delayed consultation after UE was associated with significantly worse outcomes, including higher rates of metastasis and mortality and lower LRFS, MFS, and OS. These results emphasize the importance of timely referral to sarcoma centers for early multidisciplinary management. LEVEL OF EVIDENCE: Prognostic Level III. See Instructions for Authors for a complete description of levels of evidence.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41880536/",
-      "score": 63,
-      "score_reasoning": "Important clinical study examining iliopsoas impingement with collared stems, identifying specific risk factors and providing guidance for implant selection in THA.",
-      "bullets": [
-        "Patients with unplanned soft tissue sarcoma excisions who see a sarcoma specialist within 2 months have significantly better survival than those seen later.",
-        "Late referral (over 2 months) after unplanned excision increases metastasis risk by 7-fold and mortality risk by 11-fold at 5 years.",
-        "Early sarcoma center consultation improves 5-year overall survival from 65% to 96% compared to delayed referral after unplanned excision."
-      ]
-    },
-    {
-      "pmid": "41864606",
-      "title": "Patch Augmentation for Large-to-Massive Rotator Cuff Tears: Heal well in Anterior Cable Disruption?",
-      "authors": [
-        "Jung JW",
-        "Kim HH",
-        "Rathod P",
-        "Rhee YG"
-      ],
-      "authors_short": "Jung JW, Kim HH, et al.",
+      "authors_short": "Joshi T, Kalva S, et al.",
       "journal": "Journal of shoulder and elbow surgery",
       "journal_abbrev": "J Shoulder Elbow Surg",
       "year": "2026",
-      "abstract": "BACKGROUND: Previous studies have reported that human dermal allograft (HDA) augmentation can improve clinical outcomes and reduce retears in large-to-massive rotator cuff tears (LMRCTs). However, its effectiveness in cases with anterior cable disruptions has not been well established. The purpose of this study was to evaluate whether patch augmentation is still effective in the presence of anterior cable disruption. METHODS: We retrospectively reviewed patients who underwent arthroscopic repair with HDA augmentation for repairable LMRCTs between March 2020 and May 2023. Patients were divided into two groups according to the integrity of the anterior rotator cable, including intact cable group (Group A) and the anterior cable disruption group (Group B). Patients with a minimum of 24 months of follow-up were included. Clinical outcomes were assessed using the visual analog scale (VAS), American Shoulder and Elbow Surgeons (ASES), University of California, Los Angeles (UCLA) score, and range of motion (ROM). Structural evaluations included the acromiohumeral interval (AHI), combined tendon-graft thickness, and retear rate. RESULTS: A total of 78 patients were included with a mean follow-up of 39.0 months (range, 25.2-56.1 months). The mean age was 64.7 years (range, 44-82 years), and 35 patients (44.9%) were male. Both groups demonstrated significant postoperative improvement in VAS (P < .001), ASES (P < .001), and UCLA scores (P < .001) with no significant difference between groups. Overall, 92.5% of patients achieved the minimum clinically important difference (MCID) for VAS, 85.0% for ASES, and 97.5% for UCLA scores, with no significant differences between groups (P > .05). Postoperative active ROM, including forward flexion, external rotation, and abduction, improved significantly in both groups (all P < .05) with no significant intergroup differences (all P > .05). The AHI increased significantly in both Group A (from 8.8 to 9.7 mm; P < .001) and Group B (from 8.5 to 9.7 mm; P < .001). Follow-up MRI demonstrated a significant decrease in combined tendon-graft thickness, with a mean reduction of 29% (from 8.0 to 5.6 mm; P < .001). The overall retear rate was 7.7% (6 of 78 patients), with no significant difference between Group A (6.1%) and Group B (10.3%) (P = .665). CONCLUSIONS: Arthroscopic rotator cuff repair with HDA augmentation for LMRCTs resulted in improved clinical outcomes and a low retear rate regardless of anterior cable integrity. The postoperative increase in AHI suggests improved glenohumeral joint stability following restoration of rotator cuff function. These results indicate that patch augmentation is a viable treatment option for repairable LMRCTs with anterior cable disruption.",
+      "abstract": "BACKGROUND: Total shoulder arthroplasty (TSA) utilization has increased rapidly following the adoption of the reverse TSA (rTSA). Contemporary forecasts of TSA incidence and prevalence are limited and outdated, particularly in comparison with total hip arthroplasty (THA) and total knee arthroplasty (TKA). We sought to update TSA projections in the United States through 2040 and compare them against THA and TKA. METHODS: We identified adults (\u226518 years) who underwent primary TSA, THA, or TKA between 2015 and 2025 in the United States using a large database. Annual incidence (new procedures per 100,000 patients) and prevalence (patients with prior arthroplasty per 100,000) were calculated. For each arthroplasty, linear and Poisson regression models were used to project new cases through 2040, with 95% confidence intervals. COVID year exclusion analysis and segmented analyses were performed using pre and post-COVID years in both linear and Poisson regression models to assess the effect of accelerated post-pandemic rebound. RESULTS: From 2015-2025, we identified 83,203 new TSA, 267,683 new THA, and 354,044 new TKA cases. TSA incidence increased from 13.1 to 45.6 per 100,000 (248.1% change), and prevalence from 41.5 to 222.8 per 100,000 (436.9% change). Across both modeling approaches, new cases for all procedures increased significantly. In Poisson modeling, the greatest proportional annual growth was observed for TSA (12.4% per year), compared with TKA (9.1% per year) and THA (8.5% per year). With linear regression, incidence increased by 2.77 cases per 100,000 per year for TSA, 8.75 for TKA, and 6.26 for THA, with TKA showing the largest additive yearly increase. By 2040, the linear model predicts that shoulder arthroplasty volume will increase by 73.0% to 78.9 cases per 100,000, whereas the Poisson model predicts a 397.4% increase, to 226.8 cases per 100,000. Utilizing post-COVID years, the linear model predicts that TSA volume will increase by 212.9% to 142.7 cases per 100,000, whereas the Poisson model predicts a 2317.8% increase, to 1102.5 cases per 100,000. CONCLUSION: TSA utilization in the United States has increased significantly over the past decade and is projected to continue rising through 2040. Although TSA remains less common than THA or TKA, it demonstrated the greatest proportional annual growth by Poisson modeling from 2015 to 2025, with much of this acceleration concentrated in the post-COVID period. These updated projections provide essential data for clinicians, health-system leaders, and policymakers as they plan for the growing burden of shoulder arthroplasty.",
       "pub_types": [
         "Journal Article"
       ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41864606/",
-      "score": 61,
-      "score_reasoning": "Clinical study (227 knees) examining failure predictors after MUA for stiff TKA, providing guidance for patient selection and counseling.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41903677/",
+      "score": 73,
+      "score_reasoning": "Large database study (705,930 cases) with comprehensive projections of shoulder arthroplasty utilization through 2040, providing important healthcare planning data but limited immediate clinical impact.",
       "bullets": [
-        "Human dermal allograft augmentation for large to massive rotator cuff tears showed similar clinical outcomes and low retear rates (6.1% vs 10.3%) whether the anterior cable was intact or disrupted.",
-        "Both groups with and without anterior cable disruption achieved significant improvements in pain, function scores, and range of motion at 39 month follow-up after arthroscopic repair with patch augmentation.",
-        "Patch augmentation appears effective for repairable large to massive rotator cuff tears regardless of anterior cable status, with over 85% of patients reaching clinically meaningful improvement thresholds."
+        "Shoulder arthroplasty cases in the US increased 248% from 2015-2025, driven largely by reverse shoulder arthroplasty adoption.",
+        "Shoulder arthroplasty showed the highest proportional growth rate at 12.4% annually, exceeding knee (9.1%) and hip (8.5%) arthroplasty.",
+        "Projections suggest shoulder arthroplasty volume will increase 73-397% by 2040, with acceleration following the COVID pandemic."
       ]
     },
     {
-      "pmid": "41903676",
-      "title": "Is Robotic-Assisted Reverse Shoulder Arthroplasty Economically Justified? A Break-Even Analysis.",
+      "pmid": "41879248",
+      "title": "Gait Function at 20 Years or More After Rotationplasty Shows Pseudo Knee Motion, Decreased Walking Speed, and Increased Energy Cost of Walking.",
       "authors": [
-        "Menendez ME",
-        "Moverman MA",
-        "Schiffman CJ",
-        "Matsen FA"
+        "Krebbekx GGJ",
+        "Waterval NFJ",
+        "Brehm MA",
+        "Nollet F",
+        "Ham JSJ",
+        "Kerkhoffs GMMJ",
+        "Schaap GR",
+        "Bramer JAM",
+        "Verspoor FGM"
       ],
-      "authors_short": "Menendez ME, Moverman MA, et al.",
-      "journal": "Journal of shoulder and elbow surgery",
-      "journal_abbrev": "J Shoulder Elbow Surg",
+      "authors_short": "Krebbekx GGJ, Waterval NFJ, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
       "year": "2026",
-      "abstract": "BACKGROUND: Robotic assistance in reverse total shoulder arthroplasty (rTSA) is likely to improve implant positioning and may reduce revision risk, but its cost-effectiveness is unknown. Break-even models can determine the economic viability of interventions in settings with low outcome event rates that would realistically preclude a randomized clinical trial. We applied this approach to determine the economic plausibility of robotic assistance for the prevention of revision after rTSA. METHODS: Incremental robotic assistance costs ($1,500), baseline early revision rates after rTSA (2.1%; within 1 year of surgery), and revision surgery-related costs ($22,920) were derived from institutional estimates and the literature. A break-even equation incorporating these variables was developed to determine the absolute risk reduction (ARR) in revision rate required for robotic assistance to be economically justified. The number needed to treat was calculated from the ARR. To provide a widely applicable model, multiple simulations were performed by varying the incremental cost of robotic assistance, baseline revision rate, and revision surgery cost. RESULTS: Robotic assistance would be economically justified only if it prevented 1 revision for every 15 procedures (ARR = 6.55%). Because this required ARR exceeds the observed early revision rate (2.1%), the calculated break-even revision rate is negative (-4.45%), indicating that break-even cannot be achieved under typical clinical conditions. The required ARR remained unchanged when baseline revision rates were varied, but decreased substantially as the modeled cost of revision surgery increased. CONCLUSIONS: Robotic assistance in rTSA is unlikely to be economically justified for routine use when evaluated solely on prevention of early postoperative revision. Selective application to higher-risk anatomy, costly failure pathways, or high-volume centers able to amortize robotic costs may improve economic viability, particularly when shoulder adoption leverages an existing robotic platform with lower incremental per-case costs rather than new capital investment. Because the value of positioning accuracy may accrue over time through delayed time-to-revision and better patient-centered outcomes, studies linking robotic assistance to longer-term implant survivorship and functional outcomes are needed to more fully define the technology's value proposition.",
+      "abstract": "BACKGROUND: Rotationplasty is a surgical procedure primarily used for malignant bone tumors around the knee when conventional limb salvage is not feasible because of tumor extent or patient preference. The procedure repurposes the ankle to function as a pseudo knee. While early outcomes are generally good, long-term gait performance in adulthood has not been well described. QUESTIONS/PURPOSES: This study addresses the following questions about patient outcomes 20 years or more after rotationplasty: (1) What are the walking speed and energy cost as well as the spatiotemporal and gait parameters compared with a control group without lower limb diseases? (2) How are walking speed and energy cost related to age, follow-up duration, and gait parameters? (3) Does thigh-shank length discrepancy correlate with the energy cost of walking and gait parameters? METHODS: Between 1980 and 2002, a total of 70 patients underwent rotationplasty (all Winkelmann Type A1) at two centers in Amsterdam. Of these, 37% (26) died, 4% (3) underwent amputation, and 9% (6) could not be traced. Of the remaining 35 patients, 6% (2) lived abroad, 9% (3) declined participation, and 3% (1) had a nonfitting prosthesis, leaving 83% (29 of 35) of patients available for evaluation at a median (IQR) follow-up time of 33 years (29 to 35). Rotationplasty was performed for osteosarcoma in 76% (22 of 29) of patients, Ewing sarcoma in 7% (2), other malignancies in 10% (3), hemangioma in 3% (1), and femoral deficiency in 3% (1), all by a single orthopaedic surgeon. This cohort included 52% (15 of 29) male and 48% (14 of 29) female patients. The control group, obtained from the institutional normative database, included 38 participants for analyses of the energy cost of walking and 27 participants for analyses of gait without lower limb diseases or systemic conditions affecting gait or energy cost, and was comparable with the rotationplasty group in age, sex, and BMI. Function was evaluated by walking speed, energy cost of walking, and gait parameters for spatiotemporal kinematics and kinetics and compared with the same parameters for the control group. Furthermore, outcomes were compared between patients with and without measurable thigh-shank length discrepancy. Statistical analyses included independent t-tests, statistical parametric mapping, and Pearson correlations. RESULTS: Compared with the control group, patients after rotationplasty walked slower (mean \u00b1 SD 1.2 \u00b1 0.2 versus 1.4 \u00b1 0.1 m/s, mean difference -0.2 [95% confidence interval (CI) -0.3 to -0.1]; p < 0.001) with a higher energy cost (4.4 \u00b1 0.7 versus 3.5 \u00b1 0.4 J/kg/m, mean difference 0.9 [95% CI 0.6 to 1.2]; p < 0.001). Cadence was lower (100 \u00b1 7 versus 108 \u00b1 7 steps per minute, mean difference -8 [95% CI -11 to -4]; p < 0.001) and stride length shorter (1.4 \u00b1 0.2 versus 1.5 \u00b1 0.1 m, mean difference -0.1 [95% CI -0.2 to -0.1]; p = 0.01). The double-support phase from the contralateral leg to the rotationplasty leg was longer (at 13.1% \u00b1 1.9% versus 11.8% \u00b1 1.2% of the gait cycle, mean difference 1.4% [95% CI 0.5% to 2.3%]; p = 0.003). Statistically significant differences were observed at specific phases of the gait cycle: Patients with rotationplasty lacked knee flexion during loading response and midstance, whereas the intact leg showed increased ankle dorsiflexion and greater knee and hip flexion during stance, accompanied by increased ground-reaction force in loading response and push-off. Walking speed increased very strongly as cadence increased (r = 0.7 [95% CI 0.6 to 0.8]; p < 0.001) and increased moderately as stride length increased (r = 0.3 [95% CI 0.1 to 0.5]; p < 0.01). As walking speed increased, walking energy cost decreased moderately (r = -0.4 [95% CI -0.6 to -0.2]; p < 0.001). With the numbers available, no associations were found between thigh-shank length discrepancy and walking speed, energy cost, joint angles, or joint moments. CONCLUSION: More than two decades after rotationplasty, patients demonstrated lower walking speed and higher energy cost of walking than the control group, which is expected given the magnitude of the procedure. Compared with previous reports, the energy cost was not higher at longer follow-up and approached normal values, exceeding those typically observed after transfemoral amputation. Although the absence of knee flexion during stance was associated with compensatory strategies, mainly in the contralateral limb, overall gait performance remained functional, with preserved pseudo knee mechanics. No differences were observed between patients with and without thigh-shank length discrepancy, providing no clear guidance for surgical length-correction strategies. Despite biomechanical deviations from normal gait, long-term function after rotationplasty appears durable and energy efficient, which can help clinicians to counsel patients on realistic expectations and functional potential. Further studies comparing rotationplasty with transfemoral amputation and limb-salvage surgery are warranted to better inform shared decision-making. LEVEL OF EVIDENCE: Level III, therapeutic study.",
       "pub_types": [
         "Journal Article"
       ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41903676/",
-      "score": 60,
-      "score_reasoning": "Economic analysis using break-even modeling for robotic-assisted reverse TSA, providing cost-effectiveness data though limited by theoretical modeling approach.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41879248/",
+      "score": 68,
+      "score_reasoning": "Registry study from Swedish Arthroplasty Register (1,102 patients) comparing acute vs delayed TKA for tibial plateau fractures, providing valuable long-term outcome data.",
       "bullets": [
-        "Robotic-assisted reverse shoulder arthroplasty costs an additional $1,500 per case but would need to prevent 1 revision for every 15 procedures to break even economically.",
-        "Since typical early revision rates are only 2.1% within one year, robotic assistance cannot achieve economic justification based on preventing early revisions alone.",
-        "Economic viability may improve in high-risk patients, high-volume centers, or when leveraging existing robotic platforms with lower per-case costs."
-      ]
-    },
-    {
-      "pmid": "41902619",
-      "title": "Impact of Calcaneofibular Ligament Morphology on Recurrent Instability Following Arthroscopic Anterior Lateral Ankle Ligament Repair for Chronic Ankle Instability.",
-      "authors": [
-        "Nakasa T",
-        "Ikuta Y",
-        "Sakurai S",
-        "Ishibashi S",
-        "Moriwaki D",
-        "Chujo T",
-        "Adachi N"
-      ],
-      "authors_short": "Nakasa T, Ikuta Y, et al.",
-      "journal": "Foot & ankle international",
-      "journal_abbrev": "Foot Ankle Int",
-      "year": "2026",
-      "abstract": "BACKGROUND: Arthroscopic anterior talofibular ligament (ATFL) repair for chronic lateral ankle instability (CLAI) has shown favorable outcomes; however, instability recurrence has been reported. CLAI is frequently associated with concomitant calcaneofibular ligament (CFL) injury; its effects on postoperative outcomes remain unclear. This study aimed to investigate the association between preoperative magnetic resonance imaging (MRI) findings of the CFL and postoperative recurrence. METHODS: This hypothesis-testing retrospective cohort study included 65 ankles in 60 patients (mean age, 34.0\u2009\u00b1\u200916.0\u2009years) who underwent arthroscopic ATFL repair between November 2019 and June 2024. Preoperative oblique coronal MRI was used to classify the CFL morphology as intact, wavy, or thin. Clinical outcomes were assessed using the Japanese Society for Surgery of the Foot (JSSF) hindfoot-ankle scale, Karlsson- Peterson (K-P) score, and the Self-Administered Foot Evaluation Questionnaire (SAFE-Q). Recurrent ankle instability, defined as any postoperative ankle sprain during follow-up, was recorded. Multivariable analysis was performed to identify independent recurrent instability predictors. RESULTS: Postoperative JSSF, K-P, and SAFE-Q scores improved significantly in all patients. Recurrent instability occurred in 13 of the 65 ankles (20.0%). Preoperative MRI revealed CFL injury in 38 ankles (58.5%). Additional CFL repair was performed in 24 ankles. Recurrence rates were higher in ankles with CFL injuries, particularly in those with thin (31.5%) and wavy (26.3%) morphologies. In the Firth model, CFL injury was independently associated with recurrence (OR 9.00, 95% CI 1.95-56.22, P\u2009=\u2009.004), whereas CFL repair showed a protective trend. Bootstrap analysis confirmed the significance of CFL injury. CONCLUSION: Preoperative MRI evaluation of CFL morphology is a significant predictor for identifying risk of postoperative recurrence after arthroscopic ATFL repair. CFL injury, particularly thin-type morphology, is associated with higher recurrence rates, suggesting the need for additional reconstructive or augmentative procedures to optimize clinical outcomes.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41902619/",
-      "score": 57,
-      "score_reasoning": "Retrospective cohort study (65 ankles) examining CFL morphology impact on arthroscopic ankle ligament repair outcomes, addressing specific technical considerations.",
-      "bullets": [
-        "Arthroscopic ATFL repair for chronic ankle instability has 20% recurrence rate, with CFL injury on preoperative MRI increasing recurrence risk 9-fold.",
-        "Patients with thin or wavy CFL morphology on MRI have 32% and 26% recurrence rates respectively after isolated ATFL repair.",
-        "Preoperative MRI assessment of CFL morphology should guide whether additional CFL repair is needed during arthroscopic ATFL reconstruction."
+        "Rotationplasty patients at 33 years follow-up walk 14% slower and use 26% more energy than controls, but energy cost approaches normal and is better than transfemoral amputation.",
+        "The rotated ankle functions as a pseudo knee but lacks normal knee flexion during stance, forcing compensatory movements in the intact leg and longer double-support phases.",
+        "Thigh-shank length discrepancy after rotationplasty does not correlate with walking function, providing no clear guidance for surgical length correction strategies."
       ]
     },
     {
@@ -276,12 +199,94 @@
         "Journal Article"
       ],
       "link": "https://pubmed.ncbi.nlm.nih.gov/41882938/",
-      "score": 56,
-      "score_reasoning": "Systematic review examining hip arthroscopy outcomes in acetabular dysplasia at long-term follow-up, providing guidance for this challenging patient population.",
+      "score": 67,
+      "score_reasoning": "Systematic review and meta-analysis (12 studies, 426,920 patients) examining antiresorptive therapy effects on TKA revision risk, addressing important medication management considerations.",
       "bullets": [
-        "Hip arthroscopy in acetabular dysplasia patients shows sustained improvement in pain and function scores at 10+ year follow-up across 555 hips.",
-        "Conversion to total hip replacement occurs in 2.6% to 23.7% of dysplastic hips, with higher T\u00f6nnis angles predicting failure.",
-        "Dysplastic patients have similar revision and conversion rates compared to normal hips, but may have slightly worse patient-reported outcomes."
+        "Hip arthroscopy in acetabular dysplasia patients shows durable symptom improvement at 10+ year follow-up with conversion to hip replacement rates of 2.6% to 23.7%.",
+        "Revision surgery rates after hip arthroscopy are similar between dysplastic and normal hip anatomy patients at long-term follow-up.",
+        "Higher T\u00f6nnis angle predicts failure after hip arthroscopy in dysplastic hips, with failure most commonly defined as conversion to total hip replacement."
+      ]
+    },
+    {
+      "pmid": "41884952",
+      "title": "A Comparison of Continuous Epidural, Spinal Opioid,and Patient-Controlled Analgesia for Posterior Spinal Fusion for Adolescent Idiopathic Scoliosis: A Multicenter, International Database Study.",
+      "authors": [
+        "Halpern LM",
+        "Zhang DA",
+        "Kogan CJ",
+        "Ryan KA",
+        "Correll Z",
+        "Bronson W"
+      ],
+      "authors_short": "Halpern LM, Zhang DA, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: There is conflicting evidence for the optimal method of analgesia following posterior spinal fusion for adolescent idiopathic scoliosis. The primary objective of this study is to test which method of postoperative analgesia (continuous epidural, spinal opioids, or patient-controlled analgesia) is associated with reduced opioid requirements, pain scores, complications, and length of stay. METHODS: This is a retrospective, multicenter study of the Shriners Children's International Pediatric Spine Database. Patients ages 13 to 19 years who had posterior spinal fusion with segmental spinal instrumentation for adolescent idiopathic scoliosis between January 01, 2011, and November 5, 2021, were eligible. Patients were divided into 3 cohorts based on the primary method of postoperative analgesia: continuous epidural (EPI), spinal opioid (SPI), or patient-controlled analgesia (PCA). We compared total parenteral and oral opioid usage, verbal numeric pain scores, complications, and the length of stay. RESULTS: A total of 2371 patients from 13 hospitals were included in the study. Total parenteral and oral opioid usage in the spinal and epidural groups was significantly lower compared with the patient-controlled analgesia group [OME/kg: SPI 1.7 (95% CI: 1.1-2.5) vs. EPI 1.9 (95% CI: 1.1-3.2) vs. PCA 4.1 (95% CI: 3.4-4.8): P<0.002]. There were no clinically significant differences in mean daily pain scores, complications, or length of stay. CONCLUSIONS: Spinal opioid and continuous epidural analgesia decrease parenteral and oral opioid requirements compared with patient-controlled analgesia. The increased opioid usage in the patient-controlled analgesia group does not lead to clinically significant differences in pain scores, complications or length of stay. We conclude that all 3 methods of analgesia provide safe and effective pain relief. This study reinforces the need for collaboration between pediatric orthopaedic surgeons and anesthesiologists to effectively manage postoperative pain following posterior spinal fusion for adolescent idiopathic scoliosis. LEVEL OF EVIDENCE: Level III-therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41884952/",
+      "score": 65,
+      "score_reasoning": "Large multicenter study (2,371 patients) comparing pain management modalities after scoliosis surgery, providing important perioperative care guidance for pediatric patients.",
+      "bullets": [
+        "Spinal opioids and epidural analgesia reduce total opioid consumption by more than half compared to PCA in adolescent scoliosis fusion patients.",
+        "All three pain control methods produce similar pain scores, complication rates, and hospital length of stay in this population.",
+        "The study included 2,371 patients aged 13-19 from 13 hospitals undergoing posterior spinal fusion for adolescent idiopathic scoliosis."
+      ]
+    },
+    {
+      "pmid": "41864606",
+      "title": "Patch Augmentation for Large-to-Massive Rotator Cuff Tears: Heal well in Anterior Cable Disruption?",
+      "authors": [
+        "Jung JW",
+        "Kim HH",
+        "Rathod P",
+        "Rhee YG"
+      ],
+      "authors_short": "Jung JW, Kim HH, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Previous studies have reported that human dermal allograft (HDA) augmentation can improve clinical outcomes and reduce retears in large-to-massive rotator cuff tears (LMRCTs). However, its effectiveness in cases with anterior cable disruptions has not been well established. The purpose of this study was to evaluate whether patch augmentation is still effective in the presence of anterior cable disruption. METHODS: We retrospectively reviewed patients who underwent arthroscopic repair with HDA augmentation for repairable LMRCTs between March 2020 and May 2023. Patients were divided into two groups according to the integrity of the anterior rotator cable, including intact cable group (Group A) and the anterior cable disruption group (Group B). Patients with a minimum of 24 months of follow-up were included. Clinical outcomes were assessed using the visual analog scale (VAS), American Shoulder and Elbow Surgeons (ASES), University of California, Los Angeles (UCLA) score, and range of motion (ROM). Structural evaluations included the acromiohumeral interval (AHI), combined tendon-graft thickness, and retear rate. RESULTS: A total of 78 patients were included with a mean follow-up of 39.0 months (range, 25.2-56.1 months). The mean age was 64.7 years (range, 44-82 years), and 35 patients (44.9%) were male. Both groups demonstrated significant postoperative improvement in VAS (P < .001), ASES (P < .001), and UCLA scores (P < .001) with no significant difference between groups. Overall, 92.5% of patients achieved the minimum clinically important difference (MCID) for VAS, 85.0% for ASES, and 97.5% for UCLA scores, with no significant differences between groups (P > .05). Postoperative active ROM, including forward flexion, external rotation, and abduction, improved significantly in both groups (all P < .05) with no significant intergroup differences (all P > .05). The AHI increased significantly in both Group A (from 8.8 to 9.7 mm; P < .001) and Group B (from 8.5 to 9.7 mm; P < .001). Follow-up MRI demonstrated a significant decrease in combined tendon-graft thickness, with a mean reduction of 29% (from 8.0 to 5.6 mm; P < .001). The overall retear rate was 7.7% (6 of 78 patients), with no significant difference between Group A (6.1%) and Group B (10.3%) (P = .665). CONCLUSIONS: Arthroscopic rotator cuff repair with HDA augmentation for LMRCTs resulted in improved clinical outcomes and a low retear rate regardless of anterior cable integrity. The postoperative increase in AHI suggests improved glenohumeral joint stability following restoration of rotator cuff function. These results indicate that patch augmentation is a viable treatment option for repairable LMRCTs with anterior cable disruption.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41864606/",
+      "score": 64,
+      "score_reasoning": "Retrospective study (227 knees) analyzing failure predictors after manipulation under anesthesia for stiff TKA, providing practical guidance for managing this common complication.",
+      "bullets": [
+        "Human dermal allograft augmentation for large-to-massive rotator cuff tears achieves 92% retear rate regardless of anterior cable integrity (6.1% intact vs 10.3% disrupted cable, not significant).",
+        "Both intact and disrupted anterior cable groups showed significant improvements in pain, function scores, and range of motion at 39 month follow-up with no differences between groups.",
+        "Anterior cable disruption does not appear to compromise outcomes of patch-augmented rotator cuff repair in repairable large-to-massive tears."
+      ]
+    },
+    {
+      "pmid": "41891105",
+      "title": "Postoperative Complications in Patients With Heart Failure With Reduced vs Preserved Ejection Fraction Undergoing Total Hip and Knee Arthroplasty.",
+      "authors": [
+        "Wahid M",
+        "Nasser E",
+        "Zaidi Z",
+        "Homayoun B",
+        "Sambandam S",
+        "Chen AF"
+      ],
+      "authors_short": "Wahid M, Nasser E, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Heart failure is a known risk factor for complications after arthroplasty, yet few studies separate heart failure with reduced ejection fraction (HFrEF; left ventricular ejection fraction \u226440%) from heart failure with preserved ejection fraction (HFpEF; left ventricular ejection fraction \u226550%). We evaluated whether heart failure subtype influences postoperative outcomes after total hip arthroplasty (THA) and total knee arthroplasty (TKA). METHODS: Using the TriNetX Network, we conducted a retrospective cohort study of adults with HFrEF or HFpEF undergoing elective primary THA or TKA (2004-2024). Propensity score matching (1:1) balanced demographics, comorbidities, medications, and laboratory values. Seven complications were assessed at 90 days and 1 year. RESULTS: In the THA cohort (560 matched pairs), HFrEF was associated with higher odds of acute kidney failure (OR1year = 1.63, P < .01), myocardial infarction (OR90days = 1.66, P = .012), stroke (OR90days = 3.11, P < .01), atrial fibrillation (OR90days = 1.56, P < .01), and mortality (OR1year = 1.54, P = .044); cardiac arrest and sepsis did not differ. In the TKA cohort (950 matched pairs), HFrEF was associated with higher odds of acute kidney failure (OR1year = 1.45, P < .01), myocardial infarction (OR1year = 1.93, P < .01), atrial fibrillation (OR90days = 1.56, P < .01), mortality (OR1year = 1.85, P < .01), and cardiac arrest (OR1year = 2.37, P = .011); stroke and sepsis did not differ. CONCLUSIONS: HFrEF confers higher risk than HFpEF after THA and TKA, supporting the need for HFrEF-specific perioperative management to improve outcomes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41891105/",
+      "score": 63,
+      "score_reasoning": "Matched cohort study examining heart failure subtypes and TJA complications, providing important cardiac risk stratification data for perioperative management.",
+      "bullets": [
+        "Patients with heart failure and reduced ejection fraction have higher complication rates after hip and knee replacement compared to those with preserved ejection fraction.",
+        "Reduced ejection fraction heart failure patients face increased risk of kidney failure, heart attack, stroke, atrial fibrillation, and death within one year of surgery.",
+        "Heart failure subtype should guide perioperative planning, with reduced ejection fraction patients requiring more intensive cardiac management protocols."
       ]
     }
   ],
