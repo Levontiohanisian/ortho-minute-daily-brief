@@ -1,0 +1,55 @@
+name: Watchdog - Ensure Pipelines Run
+
+on:
+  schedule:
+    # Run every 2 hours to catch any missed runs
+    - cron: '17 */2 * * *'
+  workflow_dispatch:
+
+jobs:
+  check-and-trigger:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Check and trigger missed pipelines
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Current hour in UTC
+          HOUR_UTC=$(date -u +%H)
+          DAY_OF_WEEK=$(date -u +%u)
+
+          echo "Current UTC hour: $HOUR_UTC"
+
+          # Evening pipeline should run at midnight UTC (5pm Pacific)
+          # Check between 1-4 UTC if it ran today
+          if [ "$HOUR_UTC" -ge 1 ] && [ "$HOUR_UTC" -le 4 ]; then
+            echo "Checking if evening pipeline ran today..."
+            EVENING_RAN=$(gh run list --workflow=evening.yml --limit=1 --json createdAt --jq '.[0].createdAt' 2>/dev/null || echo "")
+            TODAY=$(date -u +%Y-%m-%d)
+
+            if echo "$EVENING_RAN" | grep -q "$TODAY"; then
+              echo "Evening pipeline already ran today. Skipping."
+            else
+              echo "Evening pipeline MISSED. Triggering now."
+              gh workflow run evening.yml
+            fi
+          fi
+
+          # Morning pipeline should run at noon UTC (5am Pacific)
+          # Check between 13-16 UTC if it ran today
+          if [ "$HOUR_UTC" -ge 13 ] && [ "$HOUR_UTC" -le 16 ]; then
+            echo "Checking if morning pipeline ran today..."
+            MORNING_RAN=$(gh run list --workflow=morning.yml --limit=1 --json createdAt --jq '.[0].createdAt' 2>/dev/null || echo "")
+            TODAY=$(date -u +%Y-%m-%d)
+
+            if echo "$MORNING_RAN" | grep -q "$TODAY"; then
+              echo "Morning pipeline already ran today. Skipping."
+            else
+              echo "Morning pipeline MISSED. Triggering now."
+              gh workflow run morning.yml
+            fi
+          fi
+
+          echo "Watchdog check complete."
