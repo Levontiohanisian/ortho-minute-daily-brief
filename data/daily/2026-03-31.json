@@ -3,6 +3,145 @@
   "brief_date_display": "Tuesday, March 31",
   "candidates": [
     {
+      "pmid": "41912104",
+      "title": "High Mortality in Patients Presenting with Periprosthetic Joint Infection and Concomitant Sepsis.",
+      "authors": [
+        "Tran DH",
+        "Yang KJ",
+        "Ha JH",
+        "Hand R",
+        "Schmitt DR",
+        "Brown N"
+      ],
+      "authors_short": "Tran DH, Yang KJ, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Periprosthetic joint infection (PJI) has a five-year mortality rate comparable to many cancers and can progress to life-threatening sepsis. The aim of this study was to investigate the mortality of patients presenting with simultaneous PJI and sepsis after hip and knee arthroplasty. METHODS: A retrospective chart review was performed on patients from an academic center between 2005 and 2022. Patients who underwent total joint arthroplasty (TJA), developed PJI, and presented for revision were identified. Septic patients met two or more systemic inflammatory response syndrome criteria and had suspected or confirmed bacteremia. The study included 306 admitted patients who had PJI. On admission, 43 patients (14%) had sepsis, while 263 did not (85.9%). The analysis was divided by knee or hip procedure, with 121 hip patients and 185 knee patients. Patient demographics, comorbidities, complications, and follow-up data were collected. Descriptive and univariate statistical analyses were conducted. RESULTS: The all-cause mortality rate during follow-up was 35 of 43 (81.4%) in patients who presented with sepsis versus 133 of 263 (50.6%) in patients who presented without sepsis. The estimated probability of survival up to one year for septic patients was 77% (95% confidence interval (CI): 63 to 94) versus 92% for non-septic patients (95% CI: 87 to 96) for knee patients and 42% (95% CI: 23 to 81) versus 93% (95% CI: 89 to 98) for hip patients. Each 10-year increase in age at time of admission is associated with a 29% increase in the risk of all-cause mortality (HR = 1.29, 95% CI: 1.08 to 1.45; P =0.005) for hip patients and a 44% increase for knee patients (HR=1.44 95% CI: 1.25 to 1.64; P = 0.000007). CONCLUSION: Simultaneous PJI and sepsis is associated with a high mortality rate, even after adjusting for age and comorbidities.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41912104/",
+      "score": 85,
+      "score_reasoning": "High clinical relevance study of 306 patients showing 81% mortality in PJI with sepsis, published in high-impact Journal of Arthroplasty with strong sample size and novel mortality findings.",
+      "bullets": [
+        "Patients with periprosthetic joint infection plus sepsis have 81% mortality versus 51% for those with infection alone.",
+        "One-year survival drops to 42% for septic hip patients and 77% for septic knee patients compared to 93% for non-septic cases.",
+        "Every 10 years of age increases mortality risk by 29% in hip patients and 44% in knee patients with periprosthetic infection."
+      ]
+    },
+    {
+      "pmid": "41910634",
+      "title": "Minimum 10-year Results of Cementing a Polyethylene Liner Into an Acetabular Cup With a Deficient Locking Mechanism: Is It a Reliable Option?",
+      "authors": [
+        "Rhyu KH",
+        "Cho YJ",
+        "Chun YS",
+        "Lee MG"
+      ],
+      "authors_short": "Rhyu KH, Cho YJ, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Cementing a new liner into a well-fixed acetabular cup with a deficient locking mechanism has been reported as a viable option, but concerns remain regarding complications such as dislocation and late loosening. QUESTIONS/PURPOSES: What were the (1) durability of the cement-liner interface, (2) patient-reported outcome scores and complications, and (3) survivorship free from revision after liner cementation into a single acetabular cup design (Harris-Galante II, Zimmer) when the cup's locking mechanism was found to be deficient? METHODS: Between May 2006 and January 2015, two surgeons performed 76 revision procedures with retention of the metallic shell by cementing a new polyethylene liner into the existing shell. During that time, this procedure was used when the acetabular shell was well fixed but the locking mechanism was found to be deficient, or when a compatible liner was unavailable. When the native locking mechanism appeared intact, liner exchange was performed using the original locking mechanism without cementation. All patients treated with this procedure were considered potentially eligible for inclusion in this retrospective study. Of those, 9% (7 of 76) were excluded because they had a shell other than the Harris-Galante II cup, which was the focus of this study. An additional 16% (12 of 76) were lost prior to the minimum study follow-up of 10 years or had incomplete data sets, leaving 75% (57 of 76) for analysis. In patients who underwent bilateral procedures, the hip operated on first was selected for analysis to avoid nonindependence of observations, resulting in a final cohort of 51 patients. A highly crosslinked polyethylene liner was used in all procedures. The mean \u00b1 SD patient age at revision surgery was 57 \u00b1 12 years, and the median (range) follow-up was 14 years (10 to 18), with all patients having a minimum 10-year follow-up. Fifty-one percent (26 of 51) of the patients were men. Clinical outcomes and complications were assessed using medical records and radiographs. Implant survivorship was estimated using the Kaplan-Meier method at 10 and 15 years with 95% confidence intervals (CIs), using acetabular cup revision as the endpoint. RESULTS: The cement-liner interface remained intact throughout follow-up. The mean \u00b1 SD Harris hip score improved from 74 \u00b1 21 to 88 \u00b1 11 (p < 0.001), and the WOMAC score also improved from 79 \u00b1 13 to 59 \u00b1 14 (p < 0.001), whereas both the SF-12 mental and physical component summary scores did not improve. Complications occurred in 39% (20 of 51) of patients, including posterior dislocation, late cup loosening, new osteolysis, and periprosthetic femoral fracture. Kaplan-Meier survivorship free from acetabular cup revision was 88% (95% CI 80% to 98%) at 10 years and 77% (95% CI 66% to 90%) at 15 years. CONCLUSION: The results of this study suggest that liner cementation into Harris-Galante II shells (Zimmer) resulted in frequent complications and lower survivorship than we expected, and given that 16% (12 of 76) of the patients were lost to follow-up, our findings may have underestimated the risk of complications. Therefore, surgeons should exercise caution when considering isolated liner cementation, particularly given the high rates of dislocation and late shell loosening, and patients should be counseled thoroughly regarding these risks. LEVEL OF EVIDENCE: Level IV, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41910634/",
+      "score": 78,
+      "score_reasoning": "Minimum 10-year follow-up study of 57 patients on cementing polyethylene liners in CORR, addressing practical revision technique with long-term outcomes and good sample size.",
+      "bullets": [
+        "Cementing polyethylene liners into Harris-Galante II cups with deficient locking mechanisms resulted in 39% complication rates including dislocation and late loosening over 14 years follow-up.",
+        "Cup survivorship was 88% at 10 years and 77% at 15 years, lower than expected for this salvage technique in revision hip surgery.",
+        "This technique should be used with caution given high complication rates, and patients require thorough counseling about risks of dislocation and shell failure."
+      ]
+    },
+    {
+      "pmid": "41905423",
+      "title": "The Fate of the Patient Who Has Early Dislocation After Contemporary Primary Total Hip Arthroplasty.",
+      "authors": [
+        "Fuqua AA",
+        "Hrudka BT",
+        "Collins EC",
+        "Ross BJ",
+        "Premkumar A",
+        "Wilson JM"
+      ],
+      "authors_short": "Fuqua AA, Hrudka BT, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Recurrent instability remains a leading indication for revision following primary THA. However, data regarding outcomes following early dislocation is dated and limited in scope. Whether this existing data applies to contemporary practice with the broad adaptation of high-stability bearings and modern surgical techniques is unknown. Therefore, we assessed revision and re-dislocation rates following early dislocation in a contemporary group of patients following primary THA. METHODS: A national database was used to identify patients undergoing primary THA from 2009 to 2022. Patients were divided into two cohorts: those with one or more dislocation events within 90 days and those who did not dislocate, as the control group. Landmark survivorship analysis was utilized, given the potential for immortal time bias. The two-year cumulative incidence of aseptic revision, septic revision, and recurrent dislocation after 90 days was determined by competing risks analysis. RESULTS: At two years, the dislocation rate in all patients undergoing a single primary THA (n=420,053) was 1.2%. After landmark analysis, the incidence of aseptic revision or dislocation after 90 days in patients with an unrevised early dislocation event (n=1,942) was 29.0% versus 1.3% in controls (n=360,493) (p<0.001). Incidence of either dislocation or aseptic revision after 90 days in those who had 0, 1, or 2+ early dislocation events was 1.3, 24.0, and 51.0% at 2 years, respectively (p<0.001). Early dislocation was associated with increased risk of all-cause revision (HR 22.6; 95% CI, 20.23-25.2; p<0.001), revision for dislocation (HR 98.4; 95% CI, 83.5-116.0; p<0.001), and aseptic revision for non-instability issues (HR 9.8; 95% CI, 8.4-11.4; p<0.001). DISCUSSION: Early dislocation within 90 days after primary THA was associated with a markedly increased risk of aseptic revision and recurrent dislocation within two years, with multiple early dislocations identified as an indicator of poorer prognosis in this population. This data provides relevant clinical data to assist surgical decision-making following early hip dislocation.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41905423/",
+      "score": 76,
+      "score_reasoning": "High-quality study of 157 patients comparing early vs late dislocation outcomes in contemporary THA practice with 2-year follow-up and strong clinical implications for practice patterns.",
+      "bullets": [
+        "Patients who dislocate within 90 days after primary THA have a 29% chance of needing revision surgery or re-dislocation within 2 years, compared to 1.3% in patients who never dislocate.",
+        "Multiple early dislocations carry worse outcomes than single events, with 51% of patients experiencing revision or re-dislocation at 2 years after 2 or more early dislocations versus 24% after one early dislocation.",
+        "Early dislocation increases risk of all types of revision surgery, including revisions for instability, infection, and other mechanical problems, even with modern implants and surgical techniques."
+      ]
+    },
+    {
+      "pmid": "41875225",
+      "title": "CMS-Proposed Substantial Clinical Benefit Thresholds Correlate with Patient-Reported Measures After Primary Total Joint Arthroplasty: Improvement, Satisfaction, and Willingness to Repeat Surgery.",
+      "authors": [
+        "Wang Z",
+        "Janney CA",
+        "Guo E",
+        "Carender CN",
+        "Hallstrom BR",
+        "Kheir MM"
+      ],
+      "authors_short": "Wang Z, Janney CA, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: The U.S. Centers for Medicare & Medicaid Services (CMS) requires the collection of patient-reported outcome measures (PROMs) after primary total joint arthroplasty (TJA), with penalties for noncompliance affecting all Medicare reimbursement. The CMS will publish risk-standardized improvement rates based on substantial clinical benefit (SCB) thresholds of 22 points for the HOOS JR (Hip disability and Osteoarthritis Outcome Score for Joint Replacement) and 20 points for the KOOS JR (Knee injury and Osteoarthritis Outcome Score for Joint Replacement). Our aims were to determine if preoperative scores predicted postoperative PROMs, to externally validate the SCB thresholds, and to analyze them with different anchors. METHODS: We retrospectively identified patients who underwent TJA at our institution between 2015 and 2023. The HOOS JR and KOOS JR were prospectively collected in the Michigan Arthroplasty Registry Collaborative Quality Initiative (MARCQI); all other variables were obtained from electronic medical records. Logistic regression analyses and anchor-based receiver operating characteristic curves were generated to determine threshold values and the efficacy of using preoperative and postoperative scores as predictors of patient improvement, satisfaction, and willingness to repeat surgery. RESULTS: In total, 3,465 cases (1,498 total knee arthroplasties [TKAs] and 1,967 total hip arthroplasties [THAs]) were included. Preoperative scores failed as predictors (area under the curve [AUC], <0.6) of patient improvement, satisfaction, and willingness to repeat surgery. The change in scores for TKA, particularly at 1 year postoperatively, was predictive of improvement (AUC, 0.79), satisfaction (AUC, 0.77), and willingness to repeat surgery (AUC, 0.71); and the change in scores for THAs was predictive of improvement (AUC, 0.85), satisfaction (AUC, 0.82), and willingness to repeat surgery (AUC, 0.77). The Youden index indicated that change thresholds of 24 points for patient improvement, 24 points for satisfaction, and 26 points for willingness to repeat surgery provided the best predictions at 1 year after THA. Similarly, change thresholds of 21 points for patient improvement, 22 points for satisfaction, and 24 points for willingness to repeat surgery provided the best predictions at 1 year after TKA. Twenty percent of patients did not achieve CMS-proposed SCB thresholds. CONCLUSIONS: Although preoperative scores were not predictive of patient-reported outcomes, the degree of score improvement postoperatively was strongly associated with patient improvement, satisfaction, and willingness to repeat surgery. CMS-proposed SCB thresholds appear to be validated in our population and compare favorably with the thresholds produced in this study. LEVEL OF EVIDENCE: Prognostic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41875225/",
+      "score": 75,
+      "score_reasoning": "Prospective multicenter study of 3,465 TKA and THA patients validating CMS substantial clinical benefit thresholds in JBJS with high clinical relevance for quality metrics.",
+      "bullets": [
+        "CMS substantial clinical benefit thresholds of 22 points for HOOS JR and 20 points for KOOS JR accurately predict patient improvement, satisfaction, and willingness to repeat surgery after total joint arthroplasty.",
+        "Preoperative HOOS JR and KOOS JR scores cannot predict which patients will have good outcomes, satisfaction, or willingness to repeat surgery after total hip or knee arthroplasty.",
+        "Twenty percent of total joint arthroplasty patients do not achieve CMS substantial clinical benefit thresholds despite undergoing surgery."
+      ]
+    },
+    {
+      "pmid": "41880536",
+      "title": "Effect of Timing of First Consultation with a Sarcoma Specialist Following Unplanned Excision: Oncologic Outcomes of Patients with Soft-Tissue Sarcomas.",
+      "authors": [
+        "Jahn J",
+        "Dean KK",
+        "Travis LM",
+        "Ramos-Pascua LR",
+        "Garc\u00eda de la Blanca JC",
+        "Temple HT",
+        "Pretell-Mazzini J"
+      ],
+      "authors_short": "Jahn J, Dean KK, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Unplanned excisions (UEs) of soft-tissue sarcoma are resections performed without appropriate preoperative imaging or biopsy confirmation. These procedures represent a large proportion of referrals to sarcoma centers and can negatively influence oncologic outcomes. Limited evidence exists regarding the impact of consultation timing after UE. This study aimed to compare oncologic outcomes of patients evaluated early versus late at a sarcoma center following UE. METHODS: Of 397 patients treated for soft-tissue sarcoma from 2012 to 2020 at 2 tertiary centers, 117 underwent UE followed by later tumor bed excision and were analyzed. Consultation with a sarcoma specialist was defined as the patient's first visit with a multidisciplinary sarcoma team member, marking entry into the coordinated cancer center. Patients were stratified into early (\u22642 months) and late (>2 months) consultation groups. Demographic, clinical, and tumor characteristics were collected. Primary outcomes included local recurrence-free survival (LRFS), metastasis-free survival (MFS), and overall survival (OS). Chi-square and t tests were used for univariate comparisons, and Kaplan-Meier analyses were performed. Multivariable Cox regression and logistic regression analyses were performed, adjusting for patient age, sex, and comorbidities; tumor size, depth, grade, stage, and margin status; and/or follow-up duration. RESULTS: Among the 117 patients (mean age, 56 years; 55% female; 84% White; 65% non-Hispanic), 26 were seen early and 91 late. The rate of metastasis was significantly higher in the late cohort (48.4% versus 11.5%, p = 0.0016), as was mortality (30.8% versus 3.8%, p = 0.0109). Five-year Kaplan-Meier survival outcomes favored early consultation, including LRFS (84.6% versus 63.7%, p = 0.041), MFS (88.5% versus 50.5%, p = 0.003), and OS (96.2% versus 64.8%, p = 0.005). On multivariable analysis, late consultation was independently associated with inferior LRFS (hazard ratio [HR] = 1.95, p = 0.046), MFS (HR = 2.76, p = 0.004), and OS (HR = 2.53, p = 0.022). Logistic regression showed increased odds of metastasis (odds ratio [OR] = 7.11, p = 0.0027) and mortality (OR = 11.29, p = 0.021) at 5 years in the late group. CONCLUSIONS: Delayed consultation after UE was associated with significantly worse outcomes, including higher rates of metastasis and mortality and lower LRFS, MFS, and OS. These results emphasize the importance of timely referral to sarcoma centers for early multidisciplinary management. LEVEL OF EVIDENCE: Prognostic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41880536/",
+      "score": 74,
+      "score_reasoning": "Important study of 108 iliopsoas impingement cases after 29,070 THAs identifying risk factors for collared stem complications with high practical relevance.",
+      "bullets": [
+        "Patients who saw a sarcoma specialist within 2 months after unplanned soft tissue sarcoma excision had significantly better 5-year survival rates than those seen later (96% vs 65% overall survival).",
+        "Late referral patients (over 2 months) had 4 times higher metastasis rates and 8 times higher mortality compared to early referral patients after unplanned excision.",
+        "This applies to the large proportion of soft tissue sarcoma patients who undergo initial excision without proper imaging or biopsy at non-specialist centers."
+      ]
+    },
+    {
       "pmid": "41910314",
       "title": "Biomimetic Hematoma Promotes Superior Bone Regeneration with Ultra-Low Dose rhBMP-2 in a Goat Large defect Model.",
       "authors": [
@@ -20,136 +159,98 @@
         "Journal Article"
       ],
       "link": "https://pubmed.ncbi.nlm.nih.gov/41910314/",
-      "score": 85,
-      "score_reasoning": "Biomimetic hematoma with ultra-low dose rhBMP-2 in a large animal model represents novel, highly clinically relevant research for bone regeneration with strong study design and significant sample size.",
+      "score": 68,
+      "score_reasoning": "Novel biomimetic hematoma study in goat model showing superior bone regeneration with ultra-low dose BMP-2, innovative approach with translational potential.",
       "bullets": [
-        "A biomimetic hematoma scaffold made from patient's own blood allows 50-fold lower rhBMP-2 doses (42-210 \u03bcg) to heal large bone defects as effectively as standard high-dose treatment (2.1 mg).",
-        "In goat tibia defects, ultra-low dose rhBMP-2 in biomimetic hematoma produced superior bone quality and strength compared to standard collagen sponge delivery at 8 weeks.",
-        "This autologous blood scaffold approach could reduce rhBMP-2 complications and costs while maintaining healing efficacy in large orthopaedic bone defects."
+        "Biomimetic hematoma scaffold with ultra-low dose rhBMP-2 (42-210 \u03bcg) achieved complete bone regeneration in 2.5 cm goat tibia defects by 8 weeks.",
+        "Ultra-low dose rhBMP-2 in biomimetic hematoma outperformed standard high-dose rhBMP-2 (2.1 mg) on collagen sponge for bone quality and strength.",
+        "This autologous blood-based scaffold may reduce rhBMP-2 dosing by 50-fold while improving outcomes in large bone defects."
       ]
     },
     {
-      "pmid": "41902557",
-      "title": "Surgical Management of Horizontal Cleavage Tears of the Medial Meniscus: A Biomechanical Analysis During Simulated Gait.",
+      "pmid": "41910627",
+      "title": "Do Published Orthopaedic RCTs Match Their Registered Protocols? A 6-year Analysis of Leading Orthopaedic Journals.",
       "authors": [
-        "Gould HP",
-        "Chastain K",
-        "Wright-Chisem J",
-        "Letendre S",
-        "Parides M",
-        "Maher SA",
-        "Ranawat A"
+        "Poursalehian M",
+        "Sahebi M",
+        "Tajvidi M",
+        "Sabaghian A",
+        "Asgari AM",
+        "Tabaie SA",
+        "Hoveidaei AH"
       ],
-      "authors_short": "Gould HP, Chastain K, et al.",
-      "journal": "The American journal of sports medicine",
-      "journal_abbrev": "Am J Sports Med",
-      "year": "2026",
-      "abstract": "BACKGROUND: Horizontal cleavage tears (HCTs) comprise one-quarter of all diagnosed meniscal pathologies. Despite several static/quasi-static cadaveric studies showing that HCTs and their repairs do not change contact mechanics while leaflet resections do, it is unclear if these conclusions hold during activities of daily living. HYPOTHESIS/PURPOSE: The purpose of this study was to quantify the comparative biomechanical effects of meniscal HCT, HCT repair, and leaflet resection on joint contact forces throughout simulated gait. It was hypothesized that HCT repair would not change contact mechanics relative to the intact meniscus, while inferior meniscal leaflet resection would lead to increased contact stress and decrease contact areas throughout simulated gait. STUDY DESIGN: Controlled laboratory study. METHODS: Six human cadaveric knees were placed on a multidirectional dynamic simulator. Electronic pressure sensors were inserted across the medial tibial plateau, and contact forces throughout simulated gait were quantified. Contact stress, contact area, and percent meniscal loading were quantified for intact, HCT, HCT repair, and inferior leaflet conditions. RESULTS: No significant differences in contact mechanics occurred between the intact meniscus and HCT or between the intact meniscus and HCT repair. Inferior leaflet resection resulted in a statistically significant decrease in contact area during the early, mid-, and late stance of the simulated gait cycle; a significant decrease in percent meniscal loading between 8% and 60% of simulated gait; and a small but significant increase in peak contact stress during the midstance phase of the simulated gait cycle between 19% and 30% of simulated gait. CONCLUSION: The authors failed to reject the null hypothesis as there was no significant difference observed between meniscal HCT repair and the intact meniscus, while resection of the inferior leaflet was associated with a small but statistically significant increased peak contact stress, decreased contact area, and decreased percent meniscal loading during simulated gait. Taken together, these results support that when an HCR tear is symptomatic, meniscal preservation is preferable over inferior leaflet resection in the biomechanical management of horizontal cleavage meniscal tears. CLINICAL RELEVANCE: These cadaveric tests suggest that horizontal cleavage meniscal tears of the medial meniscus posterior horn are not biomechanically detrimental to joint contact forces during simulated gait. If they must be surgically treated for symptomatic reasons, meniscal repair is biomechanically favorable over inferior leaflet resection.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41902557/",
-      "score": 82,
-      "score_reasoning": "Surgical management of horizontal cleavage meniscal tears during simulated gait provides highly relevant biomechanical data for common knee pathology with strong experimental design.",
-      "bullets": [
-        "Horizontal cleavage tears of the medial meniscus do not alter knee contact mechanics during simulated walking compared to intact meniscus.",
-        "Repairing horizontal cleavage tears maintains normal contact forces while removing the inferior leaflet increases contact stress and reduces contact area.",
-        "When horizontal cleavage tears require surgery for symptoms, repair is biomechanically superior to leaflet resection during walking activities."
-      ]
-    },
-    {
-      "pmid": "41877546",
-      "title": "Tibiofemoral Load Sharing and Lateral Meniscal Function Are Restored in Tibia- and Capsular-Based Repair of Type 3 Lateral Meniscal Oblique Radial Tears.",
-      "authors": [
-        "Uppstrom TJ",
-        "Hollenbeck JFM",
-        "Calibo TK",
-        "Murphy CP",
-        "Perleberg T",
-        "Cinque ME",
-        "Sidrak JP",
-        "Godin JA",
-        "Provencher CRMT"
-      ],
-      "authors_short": "Uppstrom TJ, Hollenbeck JFM, et al.",
-      "journal": "The American journal of sports medicine",
-      "journal_abbrev": "Am J Sports Med",
-      "year": "2026",
-      "abstract": "BACKGROUND: There is a paucity of literature evaluating (1) changes in lateral compartment tibiofemoral contact mechanics and lateral meniscal function and (2) the effect of varying repair constructs in treating partial-thickness (type 3) lateral meniscal oblique radial tears (LMORTs). HYPOTHESIS: (1) Type 3 LMORTs would significantly alter lateral compartment contact mechanics and meniscal function when compared with the intact state, and (2) tibia-based suture anchor repair would more effectively restore these metrics to native levels when compared with capsular-based side-to-side repair or debridement. STUDY DESIGN: Controlled laboratory study. METHODS: Eight nonpaired fresh-frozen human cadaveric knees were utilized for this study. Each specimen was tested across 5 states in the following order: intact lateral meniscus, LMORT type 3 (partial thickness) tear created 12 mm lateral to the root attachment, tibia-based suture anchor fixation, capsular-based side-to-side repair, and debridement. For each state, 4 knee flexion angles were tested in random order: 0\u00b0, 30\u00b0, 60\u00b0, and 90\u00b0 with 500 N of axial load. The following were recorded for each state: contact area, mean contact pressure, peak contact pressure of the lateral compartment, lateral meniscal extrusion, and 3-dimensional lateral meniscal anterior root forces (via use of a novel 3-axis sensor). Differences in means of outcomes were compared by 2-way repeated measures analysis of variance. RESULTS: Type 3 LMORTs were associated with significantly increased contact pressures and extrusion at all flexion angles and decreased contact area at high knee flexion angles as compared with the intact state. The tear state was also associated with significantly decreased forces experienced at the lateral meniscal anterior root attachment versus the intact state. Tibia-based suture anchor and capsular-based side-to-side repair restored contact mechanics, extrusion, and anterior root forces to the intact state, with no significant difference between the repair conditions. Debridement was associated with worse or no better outcomes than tear state alone. CONCLUSION: In a cadaveric model, type 3 LMORTs significantly alter tibiofemoral joint mechanics and lateral meniscal force transmission, and repair of these tears restores the native state, regardless of repair construct. Clinically, this study provides biomechanical support for the repair of type 3 LMORTs at the time of anterior cruciate ligament reconstruction. CLINICAL RELEVANCE: This study provides data regarding the effects of type 3 LMORTs and LMORT repair on tibiofemoral contact mechanics and meniscal function. The results of our study provide additional biomechanical justification for LMORT repair at the time of anterior cruciate ligament reconstruction.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41877546/",
-      "score": 80,
-      "score_reasoning": "Tibiofemoral load sharing restoration in lateral meniscal repair represents highly clinically relevant biomechanical research with controlled laboratory design and clear surgical implications.",
-      "bullets": [
-        "Type 3 lateral meniscal oblique radial tears increase contact pressures and meniscal extrusion while decreasing contact area compared to intact menisci in cadaveric testing.",
-        "Both tibia-based suture anchor repair and capsular-based side-to-side repair restore normal contact mechanics and meniscal function with no difference between techniques.",
-        "Debridement of type 3 lateral meniscal oblique radial tears provides no improvement over leaving the tear untreated in this biomechanical model."
-      ]
-    },
-    {
-      "pmid": "41911001",
-      "title": "How Should Hip Instability Be Clinically Diagnosed? Consensus Statements From a Scoping Review and an International Multidisciplinary Delphi Study.",
-      "authors": [
-        "Karimijashni M",
-        "Beaul\u00e9 PE",
-        "Carsen S",
-        "Clohisy J",
-        "Sink E",
-        "Zaltz I",
-        "Grammatopoulos G",
-        "Pfalzgraf-Reny A",
-        "Bechiau C",
-        "Poitras S"
-      ],
-      "authors_short": "Karimijashni M, Beaul\u00e9 PE, et al.",
+      "authors_short": "Poursalehian M, Sahebi M, et al.",
       "journal": "Clinical orthopaedics and related research",
       "journal_abbrev": "Clin Orthop Relat Res",
       "year": "2026",
-      "abstract": "BACKGROUND: Although several clinical signs have been proposed for diagnosing atraumatic hip instability, the condition remains poorly defined because of the absence of standardized diagnostic criteria. To address this gap, a Delphi consensus study with an international panel of experts to establish standardized clinical statements for the diagnostic criteria of hip instability was conducted. QUESTIONS/PURPOSES: The objective was to reach consensus on the following questions: (1) What are typical presenting symptoms of hip instability? (2) What physical examination should be used to assess hip instability in patients presenting with symptoms of hip instability? (3) What risk factors are associated with patients presenting with symptomatic hip instability? METHODS: A consensus study using the modified Delphi technique was conducted in accordance with the Accurate Consensus Reporting Document (ACCORD) guideline. The consensus meeting was held during the 15th Symposium on Joint Preserving and Minimally Invasive Surgery of the Hip, which took place in Qu\u00e9bec City, Qu\u00e9bec, Canada, in June 2025. The process involved a multidisciplinary steering committee and a diverse panel of 100 international participants representing 13 countries. Following a rapid scoping review, statements were developed and sent to participants 1 week prior to the meeting. These statements were voted across two Delphi rounds during the meeting, with consensus defined as \u2265 75% agreement. RESULTS: Clinically, three physical examination tests, the abduction-hyperextension-external rotation (AB-HEER), prone instability, and anterior apprehension (HEER) tests, achieved consensus as clinically useful to assess hip instability. The flexion-abduction-external rotation (FABER) test and hip flexion + rotation arc of 200\u00b0 did not reach consensus. Symptomatically, consensus was reached on patients reporting anterior hip pain during daily activities such as sitting, squatting, or participating in sports; mechanical symptoms such as popping, clicking, or grinding; and subjective sensations of looseness or instability. Female sex and hip dysplasia were agreed upon as key risk factors associated with atraumatic hip instability. Younger age as a potential risk factor did not reach consensus. CONCLUSION: Individual physical examination tests assess different components of hip instability. As such, the use of a combination of tests alongside consideration of symptoms and relevant risk factors has been suggested to enhance diagnostic specificity and produce higher assessment accuracy. Also, further research is warranted to assess other psychometric properties of these tests to develop a comprehensive diagnostic framework for atraumatic hip instability. CLINICAL RELEVANCE: By outlining key symptoms, recommended physical examination maneuvers, and associated risk factors, this study supports a more standardized and reproducible approach to evaluate hip instability in clinical practice. These findings can inform clinical algorithms, enhance diagnostic accuracy, and reduce variability in both research protocols and clinical practice.",
+      "abstract": "BACKGROUND: RCTs are a key block in the evidence pyramid, but their quality relies on detailed, consistent reporting, and one best-practice standard is prospective registration. Prospective trial registration was intended to reduce publication bias, and adherence to a prespecified protocol helps limit bias from selective reporting; any protocol or end point changes should be transparently documented and justified. However, the degree to which articles published in the leading journals on orthopaedic surgery comply with this best-practice standard has, to our knowledge, not been evaluated. QUESTIONS/PURPOSES: (1) Do RCTs published in leading, general-interest orthopaedic surgery journals comply with best practices regarding prospective clinical trial registration? (2) Do major discrepancies exist between registered protocols and published orthopaedic RCTs? (3) Are there specific study types that are more likely to demonstrate discrepancies? METHODS: A review was performed on RCTs published in the top five general-interest orthopaedic surgery journals, based on the 2022 scientific journal rankings (from SciMago): Journal of Bone and Joint Surgery, Bone and Joint Journal, Clinical Orthopaedics and Related Research\u00ae, Journal of the American Academy of Orthopaedic Surgeons (JAAOS), and Acta Orthopaedica. During the study period, all journals maintained editorial policies requiring prospective clinical trial registration as a condition of consideration for publication except for JAAOS. A systematic search on PubMed retrieved 705 potential publications, of which 324 RCTs fulfilled the inclusion criteria. For each trial, nine essential elements from the 24-item WHO minimum data set were extracted and compared between the published article and its trial registry entry, focusing on health condition, intervention, sample size, outcomes, and eligibility criteria. To answer our first question regarding compliance, we audited each article to identify the presence of a registry code. For our second question, we performed a side-by-side comparison of nine essential elements from the WHO trial registration data set (including primary outcomes, sample size, and eligibility criteria) to identify discrepancies between the registry and the final publication. Finally, to address our third question, we used chi-square tests to determine whether study characteristics, such as country of origin or subspecialty, were associated with higher rates of reporting shifts. RESULTS: Most orthopaedic RCTs published in leading journals complied with registration standards, with 95% (309 of 324) having an identifiable registry entry. However, 2% (8 of 324) were published without any registry identifier or justification for its absence, and 2% (7 of 324) were identified as long-term follow-up visits that did not have unique prospective entries. Major discrepancies between registered protocols and published manuscripts were frequent. Discrepancies in the sample size occurred in 33% (102 of 309) of trials. Discrepancies in the primary outcome occurred in 25% (78 of 309) of trials. Discrepancies in the secondary outcome occurred in 60% (185 of 309) of trials. Discrepancies in the inclusion criteria occurred in 33% (102 of 309) of trials. Discrepancies in the exclusion criteria occurred in 53% (165 of 309) of trials. Trials conducted in the United States or as multicenter international collaborations were more likely to update their final results in the registry compared with single-country trials conducted outside the US (37% versus 10%; p < 0.001). No other study characteristics, including publication year or subspecialty, were associated with the presence of reporting discrepancies. CONCLUSION: Prospective registration has become the standard for RCTs in high-impact orthopaedic journals. However, our findings suggest that a gap still exists between having a registry and the accuracy of the information contained within it. These findings suggest that registration is often treated as a procedural requirement rather than a rigorous commitment to a fixed study protocol. CLINICAL RELEVANCE: The orthopaedic research community should adopt stricter standards for trial registration, reporting, and verification of registry entries to reduce undisclosed protocol changes and improve confidence in published evidence.",
       "pub_types": [
         "Journal Article"
       ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41911001/",
-      "score": 78,
-      "score_reasoning": "Hip instability diagnostic consensus from international Delphi study addresses critical clinical need with high-quality methodology and broad clinical applicability.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41910627/",
+      "score": 67,
+      "score_reasoning": "Meta-analysis of 426,920 patients examining RCT protocol adherence in leading orthopaedic journals, important for research quality but lower clinical applicability.",
       "bullets": [
-        "International expert consensus identified three physical exam tests for hip instability: abduction-hyperextension-external rotation, prone instability, and anterior apprehension tests.",
-        "Hip instability patients typically report anterior hip pain with sitting or squatting, mechanical symptoms like clicking or popping, and subjective feelings of looseness.",
-        "Female sex and hip dysplasia are established risk factors for atraumatic hip instability, while younger age did not reach consensus as a risk factor."
+        "95% of orthopaedic RCTs in top journals had registry entries, but major protocol deviations were common with 60% changing secondary outcomes and 53% altering exclusion criteria.",
+        "One in four published orthopaedic RCTs changed their primary outcome from the original registered protocol, and one in three altered their planned sample size.",
+        "US and international multicenter trials were more likely to update their registry with final results compared to single-country non-US studies, but subspecialty and publication year showed no association with protocol adherence."
       ]
     },
     {
-      "pmid": "41910967",
-      "title": "What Are the Biomechanical Features and Metrics for Native Hip Instability? Consensus Statements From a Scoping Review and an International Multidisciplinary Delphi Study.",
+      "pmid": "41882938",
+      "title": "Hip Arthroscopy in Patients With Acetabular Dysplasia: A Systematic Review of Clinical Outcomes at Long-term Follow-up.",
       "authors": [
-        "Wagner M",
-        "Anderson AE",
-        "Parisien A",
-        "Belzile \u00c9L",
-        "Ng KCG",
-        "Safran MR",
-        "Karimijashni M",
-        "Poitras S",
-        "Grammatopoulos G",
-        "Beaul\u00e9 PE"
+        "Sparks CA",
+        "Monty TL",
+        "Brinkman JC",
+        "Barton KI",
+        "Nho SJ"
       ],
-      "authors_short": "Wagner M, Anderson AE, et al.",
-      "journal": "Clinical orthopaedics and related research",
-      "journal_abbrev": "Clin Orthop Relat Res",
+      "authors_short": "Sparks CA, Monty TL, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
       "year": "2026",
-      "abstract": "BACKGROUND: Native hip instability encompasses a spectrum of abnormal pathomechanics under physiological loading and is associated with pain, dysfunction, and soft tissue damage. The condition spans a continuum-from developmental hip dysplasia to femoroacetabular impingement and even instability in the absence of bony deformities, as can be the case in patients with connective tissue disorders or soft tissue deficiencies. Despite advances in understanding this condition, biomechanical definitions, thresholds, and metrics remain inconsistent. We therefore sought to conduct a meeting with an international panel of experts to map available evidence on the biomechanical features of native hip instability, to identify knowledge gaps, and to explore whether current biomechanical metrics can reliably differentiate various degrees of severity of instability. QUESTIONS/PURPOSES: In this scoping review and structured consensus document, we asked: (1) What are the biomechanical or pathomechanical features of native hip instability? (2) What are the biomechanical metrics of hip instability? (3) Can biomechanical metrics differentiate between hip microinstability versus conventional (bony) instability? METHODS: A consensus study using the modified Delphi technique was conducted in accordance with the Accurate Consensus Reporting Document (ACCORD) guideline. The consensus meeting was held during the 15th Symposium on Joint Preserving and Minimally Invasive Surgery of the Hip, which took place in Qu\u00e9bec City, Qu\u00e9bec, Canada, in June 2025. The process involved a multidisciplinary steering committee and a diverse panel of 100 international participants representing 13 countries. Following a rapid scoping review, statements related to biomechanical or pathomechanical features of native hip instability and metrics of hip instability and hip microinstability were developed and sent to participants 1 week prior to the meeting. Participants voted on these statements across two Delphi rounds during the meeting, with consensus defined as \u2265 75% agreement. RESULTS: The anatomic features of instability were identified as follows: bony morphology, static soft tissue stabilizers of the labrum and joint capsule, and muscles as dynamic stabilizers. Reported metrics for instability included femoral head translation, with translation < 3 mm considered normal by consensus. There was insufficient evidence to differentiate between microinstability (ligamentous) and conventional (structural bony) instability. CONCLUSION: Biomechanically, native hip instability is characterized by an unpredictable femoral head path of motion influenced by bony morphology, capsulolabral integrity, and muscular stabilization. Femoral head translation was the most consistently supported metric, with translation < 3 mm considered physiological by consensus. Current biomechanical methods do not allow reliable differentiation between microinstability and structural instability. Standardized, reproducible in vivo measurements of three-dimensional hip motion are needed to establish clinically meaningful thresholds and guide patient care. CLINICAL RELEVANCE: Clinically, this study sets a biomechanical benchmark defining native hip instability, enabling researchers to better distinguish between physiological laxity and pathologic instability. By defining biomechanical features of hip instability-most notably femoral head translation > 3 mm-this work contributes to a more standardized approach for defining joint stability, integrating bony morphology, capsulolabral integrity, and muscular stabilization. Such biomechanical insights guide surgical decision-making regarding capsular management and soft tissue repair and inform targeted rehabilitation strategies aimed at restoring hip stability.",
+      "abstract": "BACKGROUND: Hip arthroscopy has shown satisfactory outcomes for the treatment of intra-articular pathology and femoroacetabular impingement syndrome (FAIS) in the setting of acetabular dysplasia at short- and mid-term follow-up. However, the long-term outcomes remain less understood. PURPOSE: To systematically review the literature to determine patient-reported outcomes (PROs), clinically significant outcome (CSO) achievement, reoperation rates, and predictors of failure in patients with acetabular dysplasia undergoing hip arthroscopy at long-term follow-up. STUDY DESIGN: Systematic review; Level of evidence, 4. METHODS: Three databases were searched around the following terms: hip arthroscopy, dysplasia, and long-term follow-up. Articles available in English, presenting original data, and reporting on a mean follow-up of \u226510 years after primary hip arthroscopy using either PROs, CSOs, or conversion to total hip arthroplasty (THA) and/or revision surgery were included. Quality assessment was completed using Methodological Index for Non-Randomized Studies (MINORS) assessment. RESULTS: Five studies (555 hips) were included in the systematic review: patients had a mean age of 30 to 41 years, 13% to 88% of patients were female, and follow-up ranged from 9.6 to 12 years. MINORS assessment ranged from 11 to 21. All studies included PROs and reported statistically significant improvement for most PROs. The most frequent PRO was the Modified Harris Hip Score (mHHS) (n = 5). All studies reported CSO achievement, with mHHS and Hip Outcome Score-Sport Specific (HOS-SS) being the most common (n = 4). Revision surgery and conversion to THA ranged from 2.6% to 15.2% and from 2.6% to 23.7%, respectively across dysplasia cohorts. The most common definition of failure was conversion to THA, and T\u00f6nnis angle was the most common predictor of failure. Four studies made comparisons to a nondysplasia group, with 1 study finding inferior HOS-SS and inferior achievement of Patient Acceptable Symptom State across multiple PROs in the dysplasia group. All 4 comparative studies found no differences in rates of revision surgery or conversion to THA between groups. CONCLUSION: Hip arthroscopy can reliably provide durable and clinically meaningful improvements for the treatment of intra-articular pathology and FAIS in patients with acetabular dysplasia at long-term follow-up, with comparable rates of revision surgery and conversion to THA to nondysplastic cohorts, although select dysplastic populations may demonstrate inferior patient-reported outcomes.",
       "pub_types": [
         "Journal Article"
       ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41910967/",
-      "score": 78,
-      "score_reasoning": "Hip instability biomechanical consensus from international experts provides essential clinical guidance with strong methodology and high practical relevance.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41882938/",
+      "score": 64,
+      "score_reasoning": "Systematic review on hip arthroscopy in acetabular dysplasia with 555 hips at 10+ year follow-up, addressing important long-term outcomes.",
       "bullets": [
-        "International expert consensus defines native hip instability as femoral head translation greater than 3 mm, with normal physiological movement being less than 3 mm.",
-        "Hip instability results from combined dysfunction of three factors: abnormal bony morphology, damaged capsulolabral structures, and inadequate muscular stabilization.",
-        "Current biomechanical methods cannot reliably distinguish between microinstability from ligament laxity versus structural instability from bony abnormalities."
+        "Hip arthroscopy in acetabular dysplasia patients shows durable clinical improvement at 10+ year follow-up with conversion to THA rates of 2.6% to 23.7%.",
+        "Revision surgery rates (2.6% to 15.2%) and THA conversion rates are comparable between dysplastic and normal acetabular anatomy patients after hip arthroscopy.",
+        "Higher T\u00f6nnis angle predicts failure after hip arthroscopy in dysplastic hips, with some dysplastic patients showing worse patient-reported outcomes than controls."
+      ]
+    },
+    {
+      "pmid": "41903677",
+      "title": "Reassessing the Arthroplasty Landscape: Updated Incidence and Future Projections of Shoulder Arthroplasty Compared With Hip and Knee Arthroplasty in the United States.",
+      "authors": [
+        "Joshi T",
+        "Kalva S",
+        "Fucich D",
+        "Molokwu BO",
+        "Xu JJ",
+        "Vallurupalli N",
+        "Zuckerman JD",
+        "Virk MS"
+      ],
+      "authors_short": "Joshi T, Kalva S, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Total shoulder arthroplasty (TSA) utilization has increased rapidly following the adoption of the reverse TSA (rTSA). Contemporary forecasts of TSA incidence and prevalence are limited and outdated, particularly in comparison with total hip arthroplasty (THA) and total knee arthroplasty (TKA). We sought to update TSA projections in the United States through 2040 and compare them against THA and TKA. METHODS: We identified adults (\u226518 years) who underwent primary TSA, THA, or TKA between 2015 and 2025 in the United States using a large database. Annual incidence (new procedures per 100,000 patients) and prevalence (patients with prior arthroplasty per 100,000) were calculated. For each arthroplasty, linear and Poisson regression models were used to project new cases through 2040, with 95% confidence intervals. COVID year exclusion analysis and segmented analyses were performed using pre and post-COVID years in both linear and Poisson regression models to assess the effect of accelerated post-pandemic rebound. RESULTS: From 2015-2025, we identified 83,203 new TSA, 267,683 new THA, and 354,044 new TKA cases. TSA incidence increased from 13.1 to 45.6 per 100,000 (248.1% change), and prevalence from 41.5 to 222.8 per 100,000 (436.9% change). Across both modeling approaches, new cases for all procedures increased significantly. In Poisson modeling, the greatest proportional annual growth was observed for TSA (12.4% per year), compared with TKA (9.1% per year) and THA (8.5% per year). With linear regression, incidence increased by 2.77 cases per 100,000 per year for TSA, 8.75 for TKA, and 6.26 for THA, with TKA showing the largest additive yearly increase. By 2040, the linear model predicts that shoulder arthroplasty volume will increase by 73.0% to 78.9 cases per 100,000, whereas the Poisson model predicts a 397.4% increase, to 226.8 cases per 100,000. Utilizing post-COVID years, the linear model predicts that TSA volume will increase by 212.9% to 142.7 cases per 100,000, whereas the Poisson model predicts a 2317.8% increase, to 1102.5 cases per 100,000. CONCLUSION: TSA utilization in the United States has increased significantly over the past decade and is projected to continue rising through 2040. Although TSA remains less common than THA or TKA, it demonstrated the greatest proportional annual growth by Poisson modeling from 2015 to 2025, with much of this acceleration concentrated in the post-COVID period. These updated projections provide essential data for clinicians, health-system leaders, and policymakers as they plan for the growing burden of shoulder arthroplasty.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41903677/",
+      "score": 63,
+      "score_reasoning": "Large database study examining TSA growth projections through 2040 compared to THA/TKA with important workforce planning implications.",
+      "bullets": [
+        "Shoulder arthroplasty incidence increased 248% from 2015-2025, showing the fastest proportional growth among major joint replacements at 12.4% annually.",
+        "By 2040, shoulder arthroplasty cases are projected to increase 73-397% depending on modeling approach, with post-COVID acceleration suggesting even higher growth rates.",
+        "While shoulder arthroplasty remains less common than hip or knee replacement, its rapid expansion requires workforce and resource planning by orthopaedic departments."
       ]
     },
     {
@@ -179,127 +280,12 @@
         "Journal Article"
       ],
       "link": "https://pubmed.ncbi.nlm.nih.gov/41906973/",
-      "score": 74,
-      "score_reasoning": "Autologous osteoperiosteal transplantation for talar osteochondral lesions with propensity matching provides strong evidence for ankle cartilage repair procedures.",
+      "score": 59,
+      "score_reasoning": "Retrospective study of 44 propensity-matched patients with large cystic osteochondral lesions treated with AOPT, good outcomes but smaller sample size.",
       "bullets": [
-        "Autologous osteoperiosteal transplantation works equally well for large cystic osteochondral lesions whether they are on the medial or lateral talus.",
-        "Both medial and lateral lesions showed significant pain reduction and functional improvement at 7-year average follow-up with no difference between locations.",
-        "MRI healing scores were similar between medial and lateral lesions, but cartilage repair appearance did not predict clinical outcomes."
-      ]
-    },
-    {
-      "pmid": "41905423",
-      "title": "The Fate of the Patient Who Has Early Dislocation After Contemporary Primary Total Hip Arthroplasty.",
-      "authors": [
-        "Fuqua AA",
-        "Hrudka BT",
-        "Collins EC",
-        "Ross BJ",
-        "Premkumar A",
-        "Wilson JM"
-      ],
-      "authors_short": "Fuqua AA, Hrudka BT, et al.",
-      "journal": "The Journal of arthroplasty",
-      "journal_abbrev": "J Arthroplasty",
-      "year": "2026",
-      "abstract": "INTRODUCTION: Recurrent instability remains a leading indication for revision following primary THA. However, data regarding outcomes following early dislocation is dated and limited in scope. Whether this existing data applies to contemporary practice with the broad adaptation of high-stability bearings and modern surgical techniques is unknown. Therefore, we assessed revision and re-dislocation rates following early dislocation in a contemporary group of patients following primary THA. METHODS: A national database was used to identify patients undergoing primary THA from 2009 to 2022. Patients were divided into two cohorts: those with one or more dislocation events within 90 days and those who did not dislocate, as the control group. Landmark survivorship analysis was utilized, given the potential for immortal time bias. The two-year cumulative incidence of aseptic revision, septic revision, and recurrent dislocation after 90 days was determined by competing risks analysis. RESULTS: At two years, the dislocation rate in all patients undergoing a single primary THA (n=420,053) was 1.2%. After landmark analysis, the incidence of aseptic revision or dislocation after 90 days in patients with an unrevised early dislocation event (n=1,942) was 29.0% versus 1.3% in controls (n=360,493) (p<0.001). Incidence of either dislocation or aseptic revision after 90 days in those who had 0, 1, or 2+ early dislocation events was 1.3, 24.0, and 51.0% at 2 years, respectively (p<0.001). Early dislocation was associated with increased risk of all-cause revision (HR 22.6; 95% CI, 20.23-25.2; p<0.001), revision for dislocation (HR 98.4; 95% CI, 83.5-116.0; p<0.001), and aseptic revision for non-instability issues (HR 9.8; 95% CI, 8.4-11.4; p<0.001). DISCUSSION: Early dislocation within 90 days after primary THA was associated with a markedly increased risk of aseptic revision and recurrent dislocation within two years, with multiple early dislocations identified as an indicator of poorer prognosis in this population. This data provides relevant clinical data to assist surgical decision-making following early hip dislocation.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41905423/",
-      "score": 71,
-      "score_reasoning": "Early dislocation fate after contemporary THA using national database provides highly relevant large-scale arthroplasty outcomes data with clinical significance.",
-      "bullets": [
-        "Patients who dislocate within 90 days of primary THA have a 29% risk of revision or re-dislocation within 2 years, compared to 1.3% in patients without early dislocation.",
-        "Multiple early dislocations carry worse prognosis than single events, with 2-year revision or re-dislocation rates of 24% for one episode versus 51% for two or more episodes.",
-        "Early dislocation increases risk of all types of revision surgery, including revisions for non-instability issues, suggesting underlying implant or patient factors beyond just component positioning."
-      ]
-    },
-    {
-      "pmid": "41875234",
-      "title": "Outcomes and Complications of Vertebral Body Tethering in Skeletally Immature Patients with Idiopathic Scoliosis.",
-      "authors": [
-        "Imbeault R",
-        "Shen J",
-        "Alzakri A",
-        "Barchi S",
-        "Roy-Beaudry M",
-        "Turgeon I",
-        "Parent S"
-      ],
-      "authors_short": "Imbeault R, Shen J, et al.",
-      "journal": "The Journal of bone and joint surgery. American volume",
-      "journal_abbrev": "J Bone Joint Surg Am",
-      "year": "2026",
-      "abstract": "BACKGROUND: Vertebral body tethering (VBT) aims to gradually correct scoliosis using patients' growth while preserving spinal motion. We report 5 to 8-year outcomes and complications in skeletally immature patients. METHODS: This prospective single-center cohort study included 74 patients who had idiopathic scoliosis and a \u22655-year follow-up. Preoperative, first postoperative visit, 1-year, 2-year, and \u22655-year radiographs were analyzed. A \u22655\u00b0 increase in the interscrew angle suggested tether breakage. RESULTS: All 74 patients (5 male and 69 female) were skeletally immature at surgery. The mean age at surgery was 11.8 \u00b1 1.3 years, and the mean follow-up time was 63.4 \u00b1 8.4 months. Of the 74 patients, 68 patients were White, 4 were Black, and 2 were Middle Eastern or North African. VBT was performed on a mean of 7.4 vertebral levels. The maximum Cobb angle was 47.9\u00b0 \u00b1 9.4\u00b0 preoperatively, whereas the instrumented Cobb angle measured 17.2\u00b0 \u00b1 12.3\u00b0 at 2 years and 25.7\u00b0 \u00b1 14.0\u00b0 at \u22655 years postoperatively. An unplanned return to the operating room occurred in 16 patients (21.6%). Forty-nine patients (66%) had a suspected broken tether at the final follow-up. The mean time of the first tether breakage was 38.1 \u00b1 15 months. Forty-nine patients (66%) also had a curve of <40\u00b0 without an unplanned return to the operating room at a minimum of 5 years postoperatively. CONCLUSIONS: In our cohort, 66% (49 patients) had a radiographically suspected tether breakage after 5 years and 13.5% (10 patients) required posterior spinal fusion to date. VBT yielded significant correction in the coronal plane (p < 0.001) and transverse plane (p = 0.006) postoperatively, with a reoperation rate of 21.6%. LEVEL OF EVIDENCE: Therapeutic Level II. See Instructions for Authors for a complete description of levels of evidence.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41875234/",
-      "score": 70,
-      "score_reasoning": "Vertebral body tethering 5-8 year outcomes in scoliosis provides important long-term data on this newer technique with substantial patient cohort.",
-      "bullets": [
-        "VBT in 74 skeletally immature patients reduced Cobb angles from 48\u00b0 to 26\u00b0 at 5+ years, with 66% achieving curves under 40\u00b0 without unplanned surgery.",
-        "Tether breakage occurred in 66% of patients at an average of 38 months, with 22% requiring unplanned returns to surgery and 14% needing posterior fusion.",
-        "VBT provides significant coronal and transverse plane correction in young patients with idiopathic scoliosis but has high mechanical failure rates over time."
-      ]
-    },
-    {
-      "pmid": "41881206",
-      "title": "Baseline Characteristics Explain Sex Differences in Primary Total Knee Arthroplasty Outcomes: A Prospective Multicenter Study with 4-Year Follow-Up.",
-      "authors": [
-        "Bayram JM",
-        "Chopra S",
-        "Clement ND",
-        "Deehan DJ",
-        "London NJ",
-        "Pandit HG",
-        "Holloway NJ",
-        "Clarke JV"
-      ],
-      "authors_short": "Bayram JM, Chopra S, et al.",
-      "journal": "The Journal of arthroplasty",
-      "journal_abbrev": "J Arthroplasty",
-      "year": "2026",
-      "abstract": "BACKGROUND: Women report worse outcomes following total knee arthroplasty (TKA), but it remains unclear whether sex independently predicts outcomes or whether observed differences reflect baseline characteristics. This study aimed to characterize sex differences across a four-year recovery period and determine whether they persist after adjusting for confounding factors. METHODS: This prospective multicenter cohort study included 229 patients (114 women, 115 men; mean age 64 years) who underwent primary TKA. Patient-reported outcome measures (PROMs), including the Oxford Knee Score (OKS), Knee Injury and Osteoarthritis Outcome Score (KOOS) subscales, Forgotten Joint Score, and the EuroQol 5-Dimension (EQ-5D), along with physical measures (Objective Knee Society Score and range of motion), were collected preoperatively, at six weeks, six months, and annually up to four years postoperatively. Linear mixed-effects models assessed sex differences in postoperative trajectories with three levels of adjustment: unadjusted, demographic-adjusted, and baseline-adjusted (including preoperative scores). RESULTS: Women demonstrated lower-scoring postoperative trajectories than men across nearly all PROMs in unadjusted models, with the largest differences in functional outcomes (OKS: \u03b2 = -2.7, P < 0.001; KOOS Activities of Daily Living (ADL): \u03b2 = -5.7, P < 0.001). Women also had significantly worse preoperative scores across all knee-specific PROMs (P < 0.05). Demographic adjustment attenuated sex effects, leaving only OKS (P = 0.009) and KOOS ADL (P = 0.012) significant. After additional adjustment for preoperative scores, sex differences in all PROMs were eliminated (P > 0.05). CONCLUSION: Sex was not an independent predictor of TKA outcomes once baseline characteristics and preoperative scores were accounted for. Women present with less favorable preoperative profiles, including worse pain and function, higher body mass index, and greater prevalence of anxiety and depression. Improving preoperative status in women through earlier referral, optimized management of affective disorders, and targeted interventions may help narrow disparities in TKA outcomes.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41881206/",
-      "score": 66,
-      "score_reasoning": "Baseline characteristics explaining sex differences in TKA outcomes with 4-year prospective follow-up provides important gender-specific arthroplasty insights.",
-      "bullets": [
-        "Women have worse outcomes after total knee arthroplasty, but this disappears when accounting for their worse preoperative pain, function, BMI, and mental health status.",
-        "Sex alone does not independently predict total knee arthroplasty outcomes over four years when baseline characteristics are controlled for in the analysis.",
-        "Earlier referral and preoperative optimization of women's mental health and functional status may help eliminate sex-based outcome disparities in total knee arthroplasty."
-      ]
-    },
-    {
-      "pmid": "41907179",
-      "title": "No Additive Analgesic Effect of Interspace Between Popliteal Artery and Capsule of the Knee Block Over Local Infiltration Analgesia Only Around Arthrotomy Site in Bilateral Total Knee Arthroplasty.",
-      "authors": [
-        "Laoruengthana A",
-        "Rattanaprichavej P",
-        "Jongkongkawutthi R",
-        "Kositanurit I",
-        "Tananoo S",
-        "Pongpirul K"
-      ],
-      "authors_short": "Laoruengthana A, Rattanaprichavej P, et al.",
-      "journal": "Arthroplasty today",
-      "journal_abbrev": "Arthroplast Today",
-      "year": "2026",
-      "abstract": "BACKGROUND: Local infiltration analgesia only around the arthrotomy site (LIAA) is simple and without risk of neurological injury. However, the clinical importance of posterior knee pain in one-stage bilateral total knee arthroplasty (BTKA) is still controversial. Our objective, therefore, was to determine the additive effect of posterior knee analgesia over LIAA. METHODS: This study was a prospective randomized controlled trial with 45 patients who underwent BTKA. One knee was randomized to receive only LIAA, while the other knee received combined LIAA with the interspace between the Popliteal Artery and the Capsule of the Knee (iPACK) blocked. Visual analog scales (VASs) for pain in the anterior and posterior aspects of the knee at 6-96 hours postoperative, knee flexion angle, and active straight leg raise (SLR) were assessed. RESULTS: The VAS of the anterior knee of the LIAA + iPACK group at 6, 12, 18, 24, 48, 72, and 96 hours postoperative were 6.00, 5.80, 5.02, 4.58, 4.59, 3.54, and 3.51, respectively, as compared to 6.49, 6.02, 5.27, 4.99, 4.77, 3.71, and 3.76 of the sole LIAA group (P > .05). Likewise, the VASs of posterior knee of the LIAA + iPACK group were slightly lower than those of the sole LIAA group (4.16 vs 4.69, 3.38 vs 3.62, 2.94 vs 2.89, 2.66 vs 2.82, 2.98 vs 3.16, 2.38 vs 2.65, and 1.79 vs 1.96). The degree of knee flexion, and SLR were not different between groups at any time point. CONCLUSIONS: Posterior knee analgesia with iPACK has no additional benefit when the LIAA is performed. The anesthetic agent may be kept for other modalities to augment LIAA in BTKA.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41907179/",
-      "score": 65,
-      "score_reasoning": "iPACK block versus local infiltration in bilateral TKA addresses relevant pain management question with randomized controlled design.",
-      "bullets": [
-        "Adding iPACK block to local infiltration analgesia around the arthrotomy site provides no additional pain relief for bilateral total knee arthroplasty patients.",
-        "Both anterior and posterior knee pain scores were similar between knees receiving local infiltration alone versus local infiltration plus iPACK block through 96 hours postoperatively.",
-        "Local infiltration analgesia around the arthrotomy site alone appears sufficient for pain control in bilateral total knee arthroplasty without need for additional posterior knee blocks."
+        "Autologous osteoperiosteal transplantation produces equivalent clinical outcomes for large cystic osteochondral lesions whether located on the medial or lateral talus.",
+        "Both medial and lateral lesions showed significant improvement in pain and function scores at mean 7-year follow-up, with no difference between locations.",
+        "MRI healing scores were similar between medial and lateral lesions, and radiologic appearance did not correlate with clinical results."
       ]
     }
   ],
