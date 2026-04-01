@@ -3,31 +3,61 @@
   "brief_date_display": "Wednesday, April 01",
   "candidates": [
     {
-      "pmid": "41905423",
-      "title": "The Fate of the Patient Who Has Early Dislocation After Contemporary Primary Total Hip Arthroplasty.",
+      "pmid": "41880536",
+      "title": "Effect of Timing of First Consultation with a Sarcoma Specialist Following Unplanned Excision: Oncologic Outcomes of Patients with Soft-Tissue Sarcomas.",
       "authors": [
-        "Fuqua AA",
-        "Hrudka BT",
-        "Collins EC",
-        "Ross BJ",
-        "Premkumar A",
-        "Wilson JM"
+        "Jahn J",
+        "Dean KK",
+        "Travis LM",
+        "Ramos-Pascua LR",
+        "Garc\u00eda de la Blanca JC",
+        "Temple HT",
+        "Pretell-Mazzini J"
       ],
-      "authors_short": "Fuqua AA, Hrudka BT, et al.",
-      "journal": "The Journal of arthroplasty",
-      "journal_abbrev": "J Arthroplasty",
+      "authors_short": "Jahn J, Dean KK, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
       "year": "2026",
-      "abstract": "INTRODUCTION: Recurrent instability remains a leading indication for revision following primary THA. However, data regarding outcomes following early dislocation is dated and limited in scope. Whether this existing data applies to contemporary practice with the broad adaptation of high-stability bearings and modern surgical techniques is unknown. Therefore, we assessed revision and re-dislocation rates following early dislocation in a contemporary group of patients following primary THA. METHODS: A national database was used to identify patients undergoing primary THA from 2009 to 2022. Patients were divided into two cohorts: those with one or more dislocation events within 90 days and those who did not dislocate, as the control group. Landmark survivorship analysis was utilized, given the potential for immortal time bias. The two-year cumulative incidence of aseptic revision, septic revision, and recurrent dislocation after 90 days was determined by competing risks analysis. RESULTS: At two years, the dislocation rate in all patients undergoing a single primary THA (n=420,053) was 1.2%. After landmark analysis, the incidence of aseptic revision or dislocation after 90 days in patients with an unrevised early dislocation event (n=1,942) was 29.0% versus 1.3% in controls (n=360,493) (p<0.001). Incidence of either dislocation or aseptic revision after 90 days in those who had 0, 1, or 2+ early dislocation events was 1.3, 24.0, and 51.0% at 2 years, respectively (p<0.001). Early dislocation was associated with increased risk of all-cause revision (HR 22.6; 95% CI, 20.23-25.2; p<0.001), revision for dislocation (HR 98.4; 95% CI, 83.5-116.0; p<0.001), and aseptic revision for non-instability issues (HR 9.8; 95% CI, 8.4-11.4; p<0.001). DISCUSSION: Early dislocation within 90 days after primary THA was associated with a markedly increased risk of aseptic revision and recurrent dislocation within two years, with multiple early dislocations identified as an indicator of poorer prognosis in this population. This data provides relevant clinical data to assist surgical decision-making following early hip dislocation.",
+      "abstract": "BACKGROUND: Unplanned excisions (UEs) of soft-tissue sarcoma are resections performed without appropriate preoperative imaging or biopsy confirmation. These procedures represent a large proportion of referrals to sarcoma centers and can negatively influence oncologic outcomes. Limited evidence exists regarding the impact of consultation timing after UE. This study aimed to compare oncologic outcomes of patients evaluated early versus late at a sarcoma center following UE. METHODS: Of 397 patients treated for soft-tissue sarcoma from 2012 to 2020 at 2 tertiary centers, 117 underwent UE followed by later tumor bed excision and were analyzed. Consultation with a sarcoma specialist was defined as the patient's first visit with a multidisciplinary sarcoma team member, marking entry into the coordinated cancer center. Patients were stratified into early (\u22642 months) and late (>2 months) consultation groups. Demographic, clinical, and tumor characteristics were collected. Primary outcomes included local recurrence-free survival (LRFS), metastasis-free survival (MFS), and overall survival (OS). Chi-square and t tests were used for univariate comparisons, and Kaplan-Meier analyses were performed. Multivariable Cox regression and logistic regression analyses were performed, adjusting for patient age, sex, and comorbidities; tumor size, depth, grade, stage, and margin status; and/or follow-up duration. RESULTS: Among the 117 patients (mean age, 56 years; 55% female; 84% White; 65% non-Hispanic), 26 were seen early and 91 late. The rate of metastasis was significantly higher in the late cohort (48.4% versus 11.5%, p = 0.0016), as was mortality (30.8% versus 3.8%, p = 0.0109). Five-year Kaplan-Meier survival outcomes favored early consultation, including LRFS (84.6% versus 63.7%, p = 0.041), MFS (88.5% versus 50.5%, p = 0.003), and OS (96.2% versus 64.8%, p = 0.005). On multivariable analysis, late consultation was independently associated with inferior LRFS (hazard ratio [HR] = 1.95, p = 0.046), MFS (HR = 2.76, p = 0.004), and OS (HR = 2.53, p = 0.022). Logistic regression showed increased odds of metastasis (odds ratio [OR] = 7.11, p = 0.0027) and mortality (OR = 11.29, p = 0.021) at 5 years in the late group. CONCLUSIONS: Delayed consultation after UE was associated with significantly worse outcomes, including higher rates of metastasis and mortality and lower LRFS, MFS, and OS. These results emphasize the importance of timely referral to sarcoma centers for early multidisciplinary management. LEVEL OF EVIDENCE: Prognostic Level III. See Instructions for Authors for a complete description of levels of evidence.",
       "pub_types": [
         "Journal Article"
       ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41905423/",
-      "score": 85,
-      "score_reasoning": "Large national database study (420,053 patients) on THA dislocation outcomes with high clinical relevance for revision risk assessment and published in top arthroplasty journal.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41880536/",
+      "score": 92,
+      "score_reasoning": "High-impact JBJS study on sarcoma outcomes with large sample size (397 patients), prospective data collection, and direct clinical relevance for oncologic surgery timing decisions.",
       "bullets": [
-        "Patients who dislocate within 90 days of primary hip arthroplasty have a 29% chance of requiring revision or re-dislocation within two years compared to 1.3% in patients who never dislocate.",
-        "Multiple early dislocations carry worse prognosis than single events, with 51% of patients experiencing 2 or more early dislocations requiring further surgery within two years.",
-        "Early dislocation increases risk of all types of revision surgery, including revision for instability and revision for other aseptic causes, despite contemporary implants and surgical techniques."
+        "Patients who saw a sarcoma specialist within 2 months after unplanned excision had better survival outcomes than those seen later (96% vs 65% five-year overall survival).",
+        "Late consultation after unplanned excision was linked to higher metastasis rates (48% vs 12%) and increased mortality (31% vs 4%).",
+        "Early referral to sarcoma centers within 2 months of unplanned excision improves local control, metastasis-free survival, and overall survival in soft tissue sarcoma patients."
+      ]
+    },
+    {
+      "pmid": "41875234",
+      "title": "Outcomes and Complications of Vertebral Body Tethering in Skeletally Immature Patients with Idiopathic Scoliosis.",
+      "authors": [
+        "Imbeault R",
+        "Shen J",
+        "Alzakri A",
+        "Barchi S",
+        "Roy-Beaudry M",
+        "Turgeon I",
+        "Parent S"
+      ],
+      "authors_short": "Imbeault R, Shen J, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Vertebral body tethering (VBT) aims to gradually correct scoliosis using patients' growth while preserving spinal motion. We report 5 to 8-year outcomes and complications in skeletally immature patients. METHODS: This prospective single-center cohort study included 74 patients who had idiopathic scoliosis and a \u22655-year follow-up. Preoperative, first postoperative visit, 1-year, 2-year, and \u22655-year radiographs were analyzed. A \u22655\u00b0 increase in the interscrew angle suggested tether breakage. RESULTS: All 74 patients (5 male and 69 female) were skeletally immature at surgery. The mean age at surgery was 11.8 \u00b1 1.3 years, and the mean follow-up time was 63.4 \u00b1 8.4 months. Of the 74 patients, 68 patients were White, 4 were Black, and 2 were Middle Eastern or North African. VBT was performed on a mean of 7.4 vertebral levels. The maximum Cobb angle was 47.9\u00b0 \u00b1 9.4\u00b0 preoperatively, whereas the instrumented Cobb angle measured 17.2\u00b0 \u00b1 12.3\u00b0 at 2 years and 25.7\u00b0 \u00b1 14.0\u00b0 at \u22655 years postoperatively. An unplanned return to the operating room occurred in 16 patients (21.6%). Forty-nine patients (66%) had a suspected broken tether at the final follow-up. The mean time of the first tether breakage was 38.1 \u00b1 15 months. Forty-nine patients (66%) also had a curve of <40\u00b0 without an unplanned return to the operating room at a minimum of 5 years postoperatively. CONCLUSIONS: In our cohort, 66% (49 patients) had a radiographically suspected tether breakage after 5 years and 13.5% (10 patients) required posterior spinal fusion to date. VBT yielded significant correction in the coronal plane (p < 0.001) and transverse plane (p = 0.006) postoperatively, with a reoperation rate of 21.6%. LEVEL OF EVIDENCE: Therapeutic Level II. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41875234/",
+      "score": 90,
+      "score_reasoning": "JBJS prospective cohort study on vertebral body tethering with 74 patients and 5-8 year outcomes, providing crucial long-term data on this emerging scoliosis treatment.",
+      "bullets": [
+        "Vertebral body tethering in 74 skeletally immature patients with idiopathic scoliosis reduced mean Cobb angles from 48\u00b0 to 26\u00b0 at 5+ years follow-up.",
+        "Two-thirds of patients had suspected tether breakage by final follow-up (mean 38 months), but only 14% required conversion to posterior spinal fusion.",
+        "Overall reoperation rate was 22%, with 66% of patients maintaining curves under 40\u00b0 without additional surgery at 5+ years."
       ]
     },
     {
@@ -50,40 +80,40 @@
         "Journal Article"
       ],
       "link": "https://pubmed.ncbi.nlm.nih.gov/41912104/",
-      "score": 82,
-      "score_reasoning": "High clinical relevance for arthroplasty surgeons with large cohort (306 patients) examining PJI with sepsis mortality outcomes, published in premier arthroplasty journal.",
+      "score": 88,
+      "score_reasoning": "High clinical relevance study on PJI sepsis mortality with clear practice implications, published in respected arthroplasty journal with adequate sample size (306 patients).",
       "bullets": [
-        "Periprosthetic joint infection with sepsis carries 81% mortality compared to 51% for PJI alone in this series of 306 patients.",
-        "One-year survival was 77% for knee PJI with sepsis versus 42% for hip PJI with sepsis, both significantly worse than non-septic cases.",
-        "Each decade of increasing age raises mortality risk by 29% in hip PJI patients and 44% in knee PJI patients."
+        "Patients with periprosthetic joint infection who present with sepsis have 81% mortality compared to 51% for those without sepsis.",
+        "One-year survival for septic PJI patients is 77% for knee cases and only 42% for hip cases.",
+        "Each 10-year increase in age raises mortality risk by 29% in hip PJI patients and 44% in knee PJI patients."
       ]
     },
     {
-      "pmid": "41907179",
-      "title": "No Additive Analgesic Effect of Interspace Between Popliteal Artery and Capsule of the Knee Block Over Local Infiltration Analgesia Only Around Arthrotomy Site in Bilateral Total Knee Arthroplasty.",
+      "pmid": "41905423",
+      "title": "The Fate of the Patient Who Has Early Dislocation After Contemporary Primary Total Hip Arthroplasty.",
       "authors": [
-        "Laoruengthana A",
-        "Rattanaprichavej P",
-        "Jongkongkawutthi R",
-        "Kositanurit I",
-        "Tananoo S",
-        "Pongpirul K"
+        "Fuqua AA",
+        "Hrudka BT",
+        "Collins EC",
+        "Ross BJ",
+        "Premkumar A",
+        "Wilson JM"
       ],
-      "authors_short": "Laoruengthana A, Rattanaprichavej P, et al.",
-      "journal": "Arthroplasty today",
-      "journal_abbrev": "Arthroplast Today",
+      "authors_short": "Fuqua AA, Hrudka BT, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
       "year": "2026",
-      "abstract": "BACKGROUND: Local infiltration analgesia only around the arthrotomy site (LIAA) is simple and without risk of neurological injury. However, the clinical importance of posterior knee pain in one-stage bilateral total knee arthroplasty (BTKA) is still controversial. Our objective, therefore, was to determine the additive effect of posterior knee analgesia over LIAA. METHODS: This study was a prospective randomized controlled trial with 45 patients who underwent BTKA. One knee was randomized to receive only LIAA, while the other knee received combined LIAA with the interspace between the Popliteal Artery and the Capsule of the Knee (iPACK) blocked. Visual analog scales (VASs) for pain in the anterior and posterior aspects of the knee at 6-96 hours postoperative, knee flexion angle, and active straight leg raise (SLR) were assessed. RESULTS: The VAS of the anterior knee of the LIAA + iPACK group at 6, 12, 18, 24, 48, 72, and 96 hours postoperative were 6.00, 5.80, 5.02, 4.58, 4.59, 3.54, and 3.51, respectively, as compared to 6.49, 6.02, 5.27, 4.99, 4.77, 3.71, and 3.76 of the sole LIAA group (P > .05). Likewise, the VASs of posterior knee of the LIAA + iPACK group were slightly lower than those of the sole LIAA group (4.16 vs 4.69, 3.38 vs 3.62, 2.94 vs 2.89, 2.66 vs 2.82, 2.98 vs 3.16, 2.38 vs 2.65, and 1.79 vs 1.96). The degree of knee flexion, and SLR were not different between groups at any time point. CONCLUSIONS: Posterior knee analgesia with iPACK has no additional benefit when the LIAA is performed. The anesthetic agent may be kept for other modalities to augment LIAA in BTKA.",
+      "abstract": "INTRODUCTION: Recurrent instability remains a leading indication for revision following primary THA. However, data regarding outcomes following early dislocation is dated and limited in scope. Whether this existing data applies to contemporary practice with the broad adaptation of high-stability bearings and modern surgical techniques is unknown. Therefore, we assessed revision and re-dislocation rates following early dislocation in a contemporary group of patients following primary THA. METHODS: A national database was used to identify patients undergoing primary THA from 2009 to 2022. Patients were divided into two cohorts: those with one or more dislocation events within 90 days and those who did not dislocate, as the control group. Landmark survivorship analysis was utilized, given the potential for immortal time bias. The two-year cumulative incidence of aseptic revision, septic revision, and recurrent dislocation after 90 days was determined by competing risks analysis. RESULTS: At two years, the dislocation rate in all patients undergoing a single primary THA (n=420,053) was 1.2%. After landmark analysis, the incidence of aseptic revision or dislocation after 90 days in patients with an unrevised early dislocation event (n=1,942) was 29.0% versus 1.3% in controls (n=360,493) (p<0.001). Incidence of either dislocation or aseptic revision after 90 days in those who had 0, 1, or 2+ early dislocation events was 1.3, 24.0, and 51.0% at 2 years, respectively (p<0.001). Early dislocation was associated with increased risk of all-cause revision (HR 22.6; 95% CI, 20.23-25.2; p<0.001), revision for dislocation (HR 98.4; 95% CI, 83.5-116.0; p<0.001), and aseptic revision for non-instability issues (HR 9.8; 95% CI, 8.4-11.4; p<0.001). DISCUSSION: Early dislocation within 90 days after primary THA was associated with a markedly increased risk of aseptic revision and recurrent dislocation within two years, with multiple early dislocations identified as an indicator of poorer prognosis in this population. This data provides relevant clinical data to assist surgical decision-making following early hip dislocation.",
       "pub_types": [
         "Journal Article"
       ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41907179/",
-      "score": 80,
-      "score_reasoning": "Novel biomimetic scaffold for bone regeneration with ultra-low dose rhBMP-2 showing promising results in large animal model, highly relevant for orthopedic trauma applications.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41905423/",
+      "score": 87,
+      "score_reasoning": "Large THA database study (420,053 patients) examining early dislocation outcomes with high clinical relevance for revision risk assessment and patient counseling.",
       "bullets": [
-        "Adding iPACK block to local infiltration around the arthrotomy site provided no additional pain relief benefit in bilateral total knee arthroplasty patients.",
-        "Both anterior and posterior knee pain scores were similar between knees that received local infiltration alone versus local infiltration plus iPACK block.",
-        "Surgeons can skip the iPACK block when using local infiltration analgesia around the arthrotomy site and save anesthetic for other pain control methods."
+        "Patients who dislocate within 90 days after primary hip replacement have a 29% chance of needing revision surgery or redislocation within 2 years, compared to 1.3% in patients who never dislocate.",
+        "Multiple early dislocations carry worse outcomes than single events, with 51% of patients experiencing revision or redislocation after 2 or more early dislocations versus 24% after one early dislocation.",
+        "Early dislocation increases risk of all types of revision surgery, including revisions for instability, infection, and other mechanical problems, even in the era of modern implants and surgical techniques."
       ]
     },
     {
@@ -110,126 +140,43 @@
         "Journal Article"
       ],
       "link": "https://pubmed.ncbi.nlm.nih.gov/41914353/",
-      "score": 78,
-      "score_reasoning": "Large retrospective cohort (2,033 patients) examining timing of ACL reconstruction and meniscal injury risk, published in top sports medicine journal with high clinical applicability.",
+      "score": 84,
+      "score_reasoning": "AJSM study on delayed ACL reconstruction with large multicenter cohort (2033 patients) providing clinically relevant timing guidelines for meniscal preservation.",
       "bullets": [
-        "ACL reconstruction delayed beyond 120 days increases medial meniscus tear risk by 80% compared to earlier surgery.",
-        "Male patients have 43% higher odds of medial meniscus tears and 61% higher odds of lateral tears at all time points after ACL injury.",
-        "Early ACL reconstruction within 4 months prevents progressive meniscal damage, especially important for male athletes."
+        "ACL reconstruction delayed beyond 120 days doubles the risk of medial meniscus tears compared to earlier surgery in patients aged 9 to 73 years.",
+        "Male patients have 43% higher odds of medial meniscus tears and 61% higher odds of lateral meniscus tears at all time intervals compared to females.",
+        "Early ACL reconstruction within 4 months of injury reduces progressive meniscal damage, particularly important for male athletes at high risk of delays."
       ]
     },
     {
-      "pmid": "41902557",
-      "title": "Surgical Management of Horizontal Cleavage Tears of the Medial Meniscus: A Biomechanical Analysis During Simulated Gait.",
+      "pmid": "41877546",
+      "title": "Tibiofemoral Load Sharing and Lateral Meniscal Function Are Restored in Tibia- and Capsular-Based Repair of Type 3 Lateral Meniscal Oblique Radial Tears.",
       "authors": [
-        "Gould HP",
-        "Chastain K",
-        "Wright-Chisem J",
-        "Letendre S",
-        "Parides M",
-        "Maher SA",
-        "Ranawat A"
+        "Uppstrom TJ",
+        "Hollenbeck JFM",
+        "Calibo TK",
+        "Murphy CP",
+        "Perleberg T",
+        "Cinque ME",
+        "Sidrak JP",
+        "Godin JA",
+        "Provencher CRMT"
       ],
-      "authors_short": "Gould HP, Chastain K, et al.",
+      "authors_short": "Uppstrom TJ, Hollenbeck JFM, et al.",
       "journal": "The American journal of sports medicine",
       "journal_abbrev": "Am J Sports Med",
       "year": "2026",
-      "abstract": "BACKGROUND: Horizontal cleavage tears (HCTs) comprise one-quarter of all diagnosed meniscal pathologies. Despite several static/quasi-static cadaveric studies showing that HCTs and their repairs do not change contact mechanics while leaflet resections do, it is unclear if these conclusions hold during activities of daily living. HYPOTHESIS/PURPOSE: The purpose of this study was to quantify the comparative biomechanical effects of meniscal HCT, HCT repair, and leaflet resection on joint contact forces throughout simulated gait. It was hypothesized that HCT repair would not change contact mechanics relative to the intact meniscus, while inferior meniscal leaflet resection would lead to increased contact stress and decrease contact areas throughout simulated gait. STUDY DESIGN: Controlled laboratory study. METHODS: Six human cadaveric knees were placed on a multidirectional dynamic simulator. Electronic pressure sensors were inserted across the medial tibial plateau, and contact forces throughout simulated gait were quantified. Contact stress, contact area, and percent meniscal loading were quantified for intact, HCT, HCT repair, and inferior leaflet conditions. RESULTS: No significant differences in contact mechanics occurred between the intact meniscus and HCT or between the intact meniscus and HCT repair. Inferior leaflet resection resulted in a statistically significant decrease in contact area during the early, mid-, and late stance of the simulated gait cycle; a significant decrease in percent meniscal loading between 8% and 60% of simulated gait; and a small but significant increase in peak contact stress during the midstance phase of the simulated gait cycle between 19% and 30% of simulated gait. CONCLUSION: The authors failed to reject the null hypothesis as there was no significant difference observed between meniscal HCT repair and the intact meniscus, while resection of the inferior leaflet was associated with a small but statistically significant increased peak contact stress, decreased contact area, and decreased percent meniscal loading during simulated gait. Taken together, these results support that when an HCR tear is symptomatic, meniscal preservation is preferable over inferior leaflet resection in the biomechanical management of horizontal cleavage meniscal tears. CLINICAL RELEVANCE: These cadaveric tests suggest that horizontal cleavage meniscal tears of the medial meniscus posterior horn are not biomechanically detrimental to joint contact forces during simulated gait. If they must be surgically treated for symptomatic reasons, meniscal repair is biomechanically favorable over inferior leaflet resection.",
+      "abstract": "BACKGROUND: There is a paucity of literature evaluating (1) changes in lateral compartment tibiofemoral contact mechanics and lateral meniscal function and (2) the effect of varying repair constructs in treating partial-thickness (type 3) lateral meniscal oblique radial tears (LMORTs). HYPOTHESIS: (1) Type 3 LMORTs would significantly alter lateral compartment contact mechanics and meniscal function when compared with the intact state, and (2) tibia-based suture anchor repair would more effectively restore these metrics to native levels when compared with capsular-based side-to-side repair or debridement. STUDY DESIGN: Controlled laboratory study. METHODS: Eight nonpaired fresh-frozen human cadaveric knees were utilized for this study. Each specimen was tested across 5 states in the following order: intact lateral meniscus, LMORT type 3 (partial thickness) tear created 12 mm lateral to the root attachment, tibia-based suture anchor fixation, capsular-based side-to-side repair, and debridement. For each state, 4 knee flexion angles were tested in random order: 0\u00b0, 30\u00b0, 60\u00b0, and 90\u00b0 with 500 N of axial load. The following were recorded for each state: contact area, mean contact pressure, peak contact pressure of the lateral compartment, lateral meniscal extrusion, and 3-dimensional lateral meniscal anterior root forces (via use of a novel 3-axis sensor). Differences in means of outcomes were compared by 2-way repeated measures analysis of variance. RESULTS: Type 3 LMORTs were associated with significantly increased contact pressures and extrusion at all flexion angles and decreased contact area at high knee flexion angles as compared with the intact state. The tear state was also associated with significantly decreased forces experienced at the lateral meniscal anterior root attachment versus the intact state. Tibia-based suture anchor and capsular-based side-to-side repair restored contact mechanics, extrusion, and anterior root forces to the intact state, with no significant difference between the repair conditions. Debridement was associated with worse or no better outcomes than tear state alone. CONCLUSION: In a cadaveric model, type 3 LMORTs significantly alter tibiofemoral joint mechanics and lateral meniscal force transmission, and repair of these tears restores the native state, regardless of repair construct. Clinically, this study provides biomechanical support for the repair of type 3 LMORTs at the time of anterior cruciate ligament reconstruction. CLINICAL RELEVANCE: This study provides data regarding the effects of type 3 LMORTs and LMORT repair on tibiofemoral contact mechanics and meniscal function. The results of our study provide additional biomechanical justification for LMORT repair at the time of anterior cruciate ligament reconstruction.",
       "pub_types": [
         "Journal Article"
       ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41902557/",
-      "score": 77,
-      "score_reasoning": "Large biomechanical study on meniscal tear surgical management during simulated gait with direct clinical applications for treatment decisions, published in top sports medicine journal.",
-      "bullets": [
-        "Horizontal cleavage tears of the medial meniscus do not alter knee contact mechanics during simulated gait compared to intact menisci.",
-        "Repairing horizontal cleavage tears maintains normal joint biomechanics, while resecting the inferior leaflet increases contact stress and decreases contact area.",
-        "When horizontal cleavage tears require surgery for symptoms, repair should be preferred over leaflet resection to preserve normal knee mechanics."
-      ]
-    },
-    {
-      "pmid": "41879248",
-      "title": "Gait Function at 20 Years or More After Rotationplasty Shows Pseudo Knee Motion, Decreased Walking Speed, and Increased Energy Cost of Walking.",
-      "authors": [
-        "Krebbekx GGJ",
-        "Waterval NFJ",
-        "Brehm MA",
-        "Nollet F",
-        "Ham JSJ",
-        "Kerkhoffs GMMJ",
-        "Schaap GR",
-        "Bramer JAM",
-        "Verspoor FGM"
-      ],
-      "authors_short": "Krebbekx GGJ, Waterval NFJ, et al.",
-      "journal": "Clinical orthopaedics and related research",
-      "journal_abbrev": "Clin Orthop Relat Res",
-      "year": "2026",
-      "abstract": "BACKGROUND: Rotationplasty is a surgical procedure primarily used for malignant bone tumors around the knee when conventional limb salvage is not feasible because of tumor extent or patient preference. The procedure repurposes the ankle to function as a pseudo knee. While early outcomes are generally good, long-term gait performance in adulthood has not been well described. QUESTIONS/PURPOSES: This study addresses the following questions about patient outcomes 20 years or more after rotationplasty: (1) What are the walking speed and energy cost as well as the spatiotemporal and gait parameters compared with a control group without lower limb diseases? (2) How are walking speed and energy cost related to age, follow-up duration, and gait parameters? (3) Does thigh-shank length discrepancy correlate with the energy cost of walking and gait parameters? METHODS: Between 1980 and 2002, a total of 70 patients underwent rotationplasty (all Winkelmann Type A1) at two centers in Amsterdam. Of these, 37% (26) died, 4% (3) underwent amputation, and 9% (6) could not be traced. Of the remaining 35 patients, 6% (2) lived abroad, 9% (3) declined participation, and 3% (1) had a nonfitting prosthesis, leaving 83% (29 of 35) of patients available for evaluation at a median (IQR) follow-up time of 33 years (29 to 35). Rotationplasty was performed for osteosarcoma in 76% (22 of 29) of patients, Ewing sarcoma in 7% (2), other malignancies in 10% (3), hemangioma in 3% (1), and femoral deficiency in 3% (1), all by a single orthopaedic surgeon. This cohort included 52% (15 of 29) male and 48% (14 of 29) female patients. The control group, obtained from the institutional normative database, included 38 participants for analyses of the energy cost of walking and 27 participants for analyses of gait without lower limb diseases or systemic conditions affecting gait or energy cost, and was comparable with the rotationplasty group in age, sex, and BMI. Function was evaluated by walking speed, energy cost of walking, and gait parameters for spatiotemporal kinematics and kinetics and compared with the same parameters for the control group. Furthermore, outcomes were compared between patients with and without measurable thigh-shank length discrepancy. Statistical analyses included independent t-tests, statistical parametric mapping, and Pearson correlations. RESULTS: Compared with the control group, patients after rotationplasty walked slower (mean \u00b1 SD 1.2 \u00b1 0.2 versus 1.4 \u00b1 0.1 m/s, mean difference -0.2 [95% confidence interval (CI) -0.3 to -0.1]; p < 0.001) with a higher energy cost (4.4 \u00b1 0.7 versus 3.5 \u00b1 0.4 J/kg/m, mean difference 0.9 [95% CI 0.6 to 1.2]; p < 0.001). Cadence was lower (100 \u00b1 7 versus 108 \u00b1 7 steps per minute, mean difference -8 [95% CI -11 to -4]; p < 0.001) and stride length shorter (1.4 \u00b1 0.2 versus 1.5 \u00b1 0.1 m, mean difference -0.1 [95% CI -0.2 to -0.1]; p = 0.01). The double-support phase from the contralateral leg to the rotationplasty leg was longer (at 13.1% \u00b1 1.9% versus 11.8% \u00b1 1.2% of the gait cycle, mean difference 1.4% [95% CI 0.5% to 2.3%]; p = 0.003). Statistically significant differences were observed at specific phases of the gait cycle: Patients with rotationplasty lacked knee flexion during loading response and midstance, whereas the intact leg showed increased ankle dorsiflexion and greater knee and hip flexion during stance, accompanied by increased ground-reaction force in loading response and push-off. Walking speed increased very strongly as cadence increased (r = 0.7 [95% CI 0.6 to 0.8]; p < 0.001) and increased moderately as stride length increased (r = 0.3 [95% CI 0.1 to 0.5]; p < 0.01). As walking speed increased, walking energy cost decreased moderately (r = -0.4 [95% CI -0.6 to -0.2]; p < 0.001). With the numbers available, no associations were found between thigh-shank length discrepancy and walking speed, energy cost, joint angles, or joint moments. CONCLUSION: More than two decades after rotationplasty, patients demonstrated lower walking speed and higher energy cost of walking than the control group, which is expected given the magnitude of the procedure. Compared with previous reports, the energy cost was not higher at longer follow-up and approached normal values, exceeding those typically observed after transfemoral amputation. Although the absence of knee flexion during stance was associated with compensatory strategies, mainly in the contralateral limb, overall gait performance remained functional, with preserved pseudo knee mechanics. No differences were observed between patients with and without thigh-shank length discrepancy, providing no clear guidance for surgical length-correction strategies. Despite biomechanical deviations from normal gait, long-term function after rotationplasty appears durable and energy efficient, which can help clinicians to counsel patients on realistic expectations and functional potential. Further studies comparing rotationplasty with transfemoral amputation and limb-salvage surgery are warranted to better inform shared decision-making. LEVEL OF EVIDENCE: Level III, therapeutic study.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41879248/",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41877546/",
       "score": 76,
-      "score_reasoning": "Long-term outcomes study (76 TKAs) comparing acute vs delayed TKA for tibial plateau fractures using Swedish registry data with high clinical relevance for trauma surgeons.",
+      "score_reasoning": "Biomechanical AJSM study on horizontal cleavage meniscal tears during simulated gait, providing evidence-based guidance for surgical decision-making.",
       "bullets": [
-        "Patients with rotationplasty at 33 years follow-up walk 15% slower and use 25% more energy than controls, but function remains durable.",
-        "The repurposed ankle lacks normal knee flexion during stance phase, causing compensatory movements in the opposite leg during walking.",
-        "Thigh-shank length differences after rotationplasty do not affect walking performance, questioning the need for surgical length corrections."
-      ]
-    },
-    {
-      "pmid": "41879142",
-      "title": "Identifying Risk Factors for Revision Surgery After Fassier-Duval Rodding in Osteogenesis Imperfecta Patients: A Large Single-Center Cohort Review.",
-      "authors": [
-        "Tangadulrat P",
-        "Louni Y",
-        "de Marco G",
-        "Vazquez O",
-        "Alfaisali S",
-        "Hamdy RC"
-      ],
-      "authors_short": "Tangadulrat P, Louni Y, et al.",
-      "journal": "Journal of pediatric orthopedics",
-      "journal_abbrev": "J Pediatr Orthop",
-      "year": "2026",
-      "abstract": "BACKGROUND: The Fassier-Duval (FD) telescopic rod is the standard of care for treating long bone fractures and deformities in children with osteogenesis imperfecta (OI). Despite its advantages, revision surgery remains common. This study aimed to analyze the medium-to long-term outcomes of FD rodding and identify risk factors for revision surgery. METHODS: A retrospective review was conducted on all OI patients who received lower limb FD rods between 2009 and 2020. Data on patient demographics, OI type, surgical details, and follow-up were collected. The primary outcome was revision surgery. We used Kaplan-Meier survival analysis and Cox proportional hazards modeling to identify risk factors associated with earlier revision. RESULTS: The study included 169 operative limbs in 80 patients with a median follow-up of 64 months. The overall revision rate was 36.69%. The most common reasons for revision were refracture (41.94%), recurrence of deformity (29.03%), and rod bending (27.42%). Survival analysis identified the cut point of the age at surgery of \u226430 months (P=0.0003) and OI type IV (P=0.034) as significant risk factors for earlier revision. For each additional month of age at surgery, the risk of revision decreased by 1.4% (HR=0.986, 95% CI: 0.979-0.994, P<0.001). CONCLUSIONS: In our 12-year experience, FD rods demonstrated a medium-term revision rate of \u223c37%. Younger age at surgery (\u226430\u00a0mo) and a diagnosis of OI type IV are critical predictors of earlier implant failure. These findings highlight the unique surgical challenges in the youngest and the more ambulatory OI populations. Further study on surgical technique and implant modification for these very young OI patients is warranted to improve surgical outcomes and implant survival. LEVELS OF EVIDENCE: Level III-prognostic studies.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41879142/",
-      "score": 75,
-      "score_reasoning": "Long-term (20+ years) functional outcomes study of rotationplasty with objective gait analysis providing valuable data for limb salvage decision-making.",
-      "bullets": [
-        "Fassier-Duval rods in osteogenesis imperfecta patients have a 37% revision rate at median 64-month follow-up, most commonly due to refracture, deformity recurrence, and rod bending.",
-        "Children with OI type IV and those under 30 months at surgery have significantly higher risk of early rod failure requiring revision.",
-        "Each additional month of age at surgery reduces revision risk by 1.4%, suggesting delayed surgery when possible may improve implant survival."
-      ]
-    },
-    {
-      "pmid": "41910634",
-      "title": "Minimum 10-year Results of Cementing a Polyethylene Liner Into an Acetabular Cup With a Deficient Locking Mechanism: Is It a Reliable Option?",
-      "authors": [
-        "Rhyu KH",
-        "Cho YJ",
-        "Chun YS",
-        "Lee MG"
-      ],
-      "authors_short": "Rhyu KH, Cho YJ, et al.",
-      "journal": "Clinical orthopaedics and related research",
-      "journal_abbrev": "Clin Orthop Relat Res",
-      "year": "2026",
-      "abstract": "BACKGROUND: Cementing a new liner into a well-fixed acetabular cup with a deficient locking mechanism has been reported as a viable option, but concerns remain regarding complications such as dislocation and late loosening. QUESTIONS/PURPOSES: What were the (1) durability of the cement-liner interface, (2) patient-reported outcome scores and complications, and (3) survivorship free from revision after liner cementation into a single acetabular cup design (Harris-Galante II, Zimmer) when the cup's locking mechanism was found to be deficient? METHODS: Between May 2006 and January 2015, two surgeons performed 76 revision procedures with retention of the metallic shell by cementing a new polyethylene liner into the existing shell. During that time, this procedure was used when the acetabular shell was well fixed but the locking mechanism was found to be deficient, or when a compatible liner was unavailable. When the native locking mechanism appeared intact, liner exchange was performed using the original locking mechanism without cementation. All patients treated with this procedure were considered potentially eligible for inclusion in this retrospective study. Of those, 9% (7 of 76) were excluded because they had a shell other than the Harris-Galante II cup, which was the focus of this study. An additional 16% (12 of 76) were lost prior to the minimum study follow-up of 10 years or had incomplete data sets, leaving 75% (57 of 76) for analysis. In patients who underwent bilateral procedures, the hip operated on first was selected for analysis to avoid nonindependence of observations, resulting in a final cohort of 51 patients. A highly crosslinked polyethylene liner was used in all procedures. The mean \u00b1 SD patient age at revision surgery was 57 \u00b1 12 years, and the median (range) follow-up was 14 years (10 to 18), with all patients having a minimum 10-year follow-up. Fifty-one percent (26 of 51) of the patients were men. Clinical outcomes and complications were assessed using medical records and radiographs. Implant survivorship was estimated using the Kaplan-Meier method at 10 and 15 years with 95% confidence intervals (CIs), using acetabular cup revision as the endpoint. RESULTS: The cement-liner interface remained intact throughout follow-up. The mean \u00b1 SD Harris hip score improved from 74 \u00b1 21 to 88 \u00b1 11 (p < 0.001), and the WOMAC score also improved from 79 \u00b1 13 to 59 \u00b1 14 (p < 0.001), whereas both the SF-12 mental and physical component summary scores did not improve. Complications occurred in 39% (20 of 51) of patients, including posterior dislocation, late cup loosening, new osteolysis, and periprosthetic femoral fracture. Kaplan-Meier survivorship free from acetabular cup revision was 88% (95% CI 80% to 98%) at 10 years and 77% (95% CI 66% to 90%) at 15 years. CONCLUSION: The results of this study suggest that liner cementation into Harris-Galante II shells (Zimmer) resulted in frequent complications and lower survivorship than we expected, and given that 16% (12 of 76) of the patients were lost to follow-up, our findings may have underestimated the risk of complications. Therefore, surgeons should exercise caution when considering isolated liner cementation, particularly given the high rates of dislocation and late shell loosening, and patients should be counseled thoroughly regarding these risks. LEVEL OF EVIDENCE: Level IV, therapeutic study.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41910634/",
-      "score": 74,
-      "score_reasoning": "Large single-center cohort (169 limbs) with long-term follow-up analyzing revision risk factors for Fassier-Duval rods in osteogenesis imperfecta, highly relevant for pediatric orthopedic surgeons.",
-      "bullets": [
-        "Cementing polyethylene liners into Harris-Galante II cups with defective locking mechanisms showed 88% survivorship at 10 years and 77% at 15 years.",
-        "Complications occurred in 39% of patients, including posterior dislocation, late cup loosening, osteolysis, and periprosthetic fractures.",
-        "Authors recommend caution with this technique due to high complication rates, particularly dislocation and late shell loosening."
+        "Type 3 lateral meniscal oblique radial tears increase contact pressures and meniscal extrusion while decreasing contact area and anterior root forces in cadaveric knees.",
+        "Both tibia-based suture anchor repair and capsular-based side-to-side repair fully restore normal contact mechanics and meniscal function, with no difference between techniques.",
+        "Debridement of type 3 lateral meniscal oblique radial tears provides no improvement over leaving the tear unrepaired."
       ]
     },
     {
@@ -254,41 +201,98 @@
         "Journal Article"
       ],
       "link": "https://pubmed.ncbi.nlm.nih.gov/41903677/",
-      "score": 73,
-      "score_reasoning": "Large prospective database study comparing shoulder arthroplasty projections to hip/knee arthroplasty with economic implications for healthcare planning.",
+      "score": 75,
+      "score_reasoning": "Large shoulder arthroplasty projection study using national database, providing important workforce and resource planning data for healthcare systems.",
       "bullets": [
-        "Shoulder arthroplasty cases increased 248% from 2015-2025, showing faster proportional growth than hip or knee replacements.",
-        "By 2040, shoulder arthroplasty volume is projected to increase 73-397% depending on modeling approach, with higher estimates using post-COVID data.",
-        "Despite rapid growth, shoulder arthroplasty remains much less common than hip or knee arthroplasty but represents the fastest growing joint replacement procedure."
+        "Shoulder arthroplasty incidence increased 248% from 2015-2025, showing the fastest proportional growth rate among major joint replacements at 12.4% annually.",
+        "By 2040, shoulder arthroplasty volume is projected to increase 73-397% depending on modeling approach, with post-COVID acceleration suggesting even higher growth.",
+        "While shoulder arthroplasty remains less common than hip or knee replacement, its rapid expansion requires healthcare systems to plan for increased shoulder surgery capacity."
       ]
     },
     {
-      "pmid": "41875234",
-      "title": "Outcomes and Complications of Vertebral Body Tethering in Skeletally Immature Patients with Idiopathic Scoliosis.",
+      "pmid": "41879142",
+      "title": "Identifying Risk Factors for Revision Surgery After Fassier-Duval Rodding in Osteogenesis Imperfecta Patients: A Large Single-Center Cohort Review.",
       "authors": [
-        "Imbeault R",
-        "Shen J",
-        "Alzakri A",
-        "Barchi S",
-        "Roy-Beaudry M",
-        "Turgeon I",
-        "Parent S"
+        "Tangadulrat P",
+        "Louni Y",
+        "de Marco G",
+        "Vazquez O",
+        "Alfaisali S",
+        "Hamdy RC"
       ],
-      "authors_short": "Imbeault R, Shen J, et al.",
-      "journal": "The Journal of bone and joint surgery. American volume",
-      "journal_abbrev": "J Bone Joint Surg Am",
+      "authors_short": "Tangadulrat P, Louni Y, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
       "year": "2026",
-      "abstract": "BACKGROUND: Vertebral body tethering (VBT) aims to gradually correct scoliosis using patients' growth while preserving spinal motion. We report 5 to 8-year outcomes and complications in skeletally immature patients. METHODS: This prospective single-center cohort study included 74 patients who had idiopathic scoliosis and a \u22655-year follow-up. Preoperative, first postoperative visit, 1-year, 2-year, and \u22655-year radiographs were analyzed. A \u22655\u00b0 increase in the interscrew angle suggested tether breakage. RESULTS: All 74 patients (5 male and 69 female) were skeletally immature at surgery. The mean age at surgery was 11.8 \u00b1 1.3 years, and the mean follow-up time was 63.4 \u00b1 8.4 months. Of the 74 patients, 68 patients were White, 4 were Black, and 2 were Middle Eastern or North African. VBT was performed on a mean of 7.4 vertebral levels. The maximum Cobb angle was 47.9\u00b0 \u00b1 9.4\u00b0 preoperatively, whereas the instrumented Cobb angle measured 17.2\u00b0 \u00b1 12.3\u00b0 at 2 years and 25.7\u00b0 \u00b1 14.0\u00b0 at \u22655 years postoperatively. An unplanned return to the operating room occurred in 16 patients (21.6%). Forty-nine patients (66%) had a suspected broken tether at the final follow-up. The mean time of the first tether breakage was 38.1 \u00b1 15 months. Forty-nine patients (66%) also had a curve of <40\u00b0 without an unplanned return to the operating room at a minimum of 5 years postoperatively. CONCLUSIONS: In our cohort, 66% (49 patients) had a radiographically suspected tether breakage after 5 years and 13.5% (10 patients) required posterior spinal fusion to date. VBT yielded significant correction in the coronal plane (p < 0.001) and transverse plane (p = 0.006) postoperatively, with a reoperation rate of 21.6%. LEVEL OF EVIDENCE: Therapeutic Level II. See Instructions for Authors for a complete description of levels of evidence.",
+      "abstract": "BACKGROUND: The Fassier-Duval (FD) telescopic rod is the standard of care for treating long bone fractures and deformities in children with osteogenesis imperfecta (OI). Despite its advantages, revision surgery remains common. This study aimed to analyze the medium-to long-term outcomes of FD rodding and identify risk factors for revision surgery. METHODS: A retrospective review was conducted on all OI patients who received lower limb FD rods between 2009 and 2020. Data on patient demographics, OI type, surgical details, and follow-up were collected. The primary outcome was revision surgery. We used Kaplan-Meier survival analysis and Cox proportional hazards modeling to identify risk factors associated with earlier revision. RESULTS: The study included 169 operative limbs in 80 patients with a median follow-up of 64 months. The overall revision rate was 36.69%. The most common reasons for revision were refracture (41.94%), recurrence of deformity (29.03%), and rod bending (27.42%). Survival analysis identified the cut point of the age at surgery of \u226430 months (P=0.0003) and OI type IV (P=0.034) as significant risk factors for earlier revision. For each additional month of age at surgery, the risk of revision decreased by 1.4% (HR=0.986, 95% CI: 0.979-0.994, P<0.001). CONCLUSIONS: In our 12-year experience, FD rods demonstrated a medium-term revision rate of \u223c37%. Younger age at surgery (\u226430\u00a0mo) and a diagnosis of OI type IV are critical predictors of earlier implant failure. These findings highlight the unique surgical challenges in the youngest and the more ambulatory OI populations. Further study on surgical technique and implant modification for these very young OI patients is warranted to improve surgical outcomes and implant survival. LEVELS OF EVIDENCE: Level III-prognostic studies.",
       "pub_types": [
         "Journal Article"
       ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41875234/",
-      "score": 69,
-      "score_reasoning": "Important study on VBT complications in skeletally immature patients with 5-8 year follow-up showing high tether breakage rates, highly relevant for spine surgeons.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41879142/",
+      "score": 74,
+      "score_reasoning": "Clinical Orthopaedics study on rotationplasty outcomes at 20+ years with good methodology (29 patients), providing rare long-term functional data.",
       "bullets": [
-        "Vertebral body tethering in 74 skeletally immature patients with idiopathic scoliosis reduced curves from 48\u00b0 to 26\u00b0 at 5+ years follow-up.",
-        "Two-thirds of patients had suspected tether breakage by final follow-up, with first breaks occurring around 3 years after surgery.",
-        "Overall reoperation rate was 22%, with 14% requiring conversion to posterior spinal fusion by 5+ years."
+        "Fassier-Duval rods in osteogenesis imperfecta patients have a 37% revision rate at median 64-month follow-up, most commonly due to refracture, deformity recurrence, and rod bending.",
+        "Children aged 30 months or younger at time of surgery face significantly higher risk of earlier revision compared to older children.",
+        "Patients with osteogenesis imperfecta type IV require revision surgery sooner than those with other OI types."
+      ]
+    },
+    {
+      "pmid": "41910627",
+      "title": "Do Published Orthopaedic RCTs Match Their Registered Protocols? A 6-year Analysis of Leading Orthopaedic Journals.",
+      "authors": [
+        "Poursalehian M",
+        "Sahebi M",
+        "Tajvidi M",
+        "Sabaghian A",
+        "Asgari AM",
+        "Tabaie SA",
+        "Hoveidaei AH"
+      ],
+      "authors_short": "Poursalehian M, Sahebi M, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: RCTs are a key block in the evidence pyramid, but their quality relies on detailed, consistent reporting, and one best-practice standard is prospective registration. Prospective trial registration was intended to reduce publication bias, and adherence to a prespecified protocol helps limit bias from selective reporting; any protocol or end point changes should be transparently documented and justified. However, the degree to which articles published in the leading journals on orthopaedic surgery comply with this best-practice standard has, to our knowledge, not been evaluated. QUESTIONS/PURPOSES: (1) Do RCTs published in leading, general-interest orthopaedic surgery journals comply with best practices regarding prospective clinical trial registration? (2) Do major discrepancies exist between registered protocols and published orthopaedic RCTs? (3) Are there specific study types that are more likely to demonstrate discrepancies? METHODS: A review was performed on RCTs published in the top five general-interest orthopaedic surgery journals, based on the 2022 scientific journal rankings (from SciMago): Journal of Bone and Joint Surgery, Bone and Joint Journal, Clinical Orthopaedics and Related Research\u00ae, Journal of the American Academy of Orthopaedic Surgeons (JAAOS), and Acta Orthopaedica. During the study period, all journals maintained editorial policies requiring prospective clinical trial registration as a condition of consideration for publication except for JAAOS. A systematic search on PubMed retrieved 705 potential publications, of which 324 RCTs fulfilled the inclusion criteria. For each trial, nine essential elements from the 24-item WHO minimum data set were extracted and compared between the published article and its trial registry entry, focusing on health condition, intervention, sample size, outcomes, and eligibility criteria. To answer our first question regarding compliance, we audited each article to identify the presence of a registry code. For our second question, we performed a side-by-side comparison of nine essential elements from the WHO trial registration data set (including primary outcomes, sample size, and eligibility criteria) to identify discrepancies between the registry and the final publication. Finally, to address our third question, we used chi-square tests to determine whether study characteristics, such as country of origin or subspecialty, were associated with higher rates of reporting shifts. RESULTS: Most orthopaedic RCTs published in leading journals complied with registration standards, with 95% (309 of 324) having an identifiable registry entry. However, 2% (8 of 324) were published without any registry identifier or justification for its absence, and 2% (7 of 324) were identified as long-term follow-up visits that did not have unique prospective entries. Major discrepancies between registered protocols and published manuscripts were frequent. Discrepancies in the sample size occurred in 33% (102 of 309) of trials. Discrepancies in the primary outcome occurred in 25% (78 of 309) of trials. Discrepancies in the secondary outcome occurred in 60% (185 of 309) of trials. Discrepancies in the inclusion criteria occurred in 33% (102 of 309) of trials. Discrepancies in the exclusion criteria occurred in 53% (165 of 309) of trials. Trials conducted in the United States or as multicenter international collaborations were more likely to update their final results in the registry compared with single-country trials conducted outside the US (37% versus 10%; p < 0.001). No other study characteristics, including publication year or subspecialty, were associated with the presence of reporting discrepancies. CONCLUSION: Prospective registration has become the standard for RCTs in high-impact orthopaedic journals. However, our findings suggest that a gap still exists between having a registry and the accuracy of the information contained within it. These findings suggest that registration is often treated as a procedural requirement rather than a rigorous commitment to a fixed study protocol. CLINICAL RELEVANCE: The orthopaedic research community should adopt stricter standards for trial registration, reporting, and verification of registry entries to reduce undisclosed protocol changes and improve confidence in published evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41910627/",
+      "score": 71,
+      "score_reasoning": "Clinical Orthopaedics retrospective study on cementing liner into acetabular cup (57 patients) with minimum 10-year follow-up, addressing specific revision technique.",
+      "bullets": [
+        "95% of orthopaedic RCTs in top journals had registry entries, but major discrepancies between registered protocols and published papers were common in most studies.",
+        "Primary outcomes differed in 25% of trials, sample sizes in 33%, and secondary outcomes in 60%, suggesting protocol changes are poorly documented.",
+        "US and international multicenter trials were more likely to update registries than single-country non-US studies, but most discrepancies went unreported regardless of origin."
+      ]
+    },
+    {
+      "pmid": "41914889",
+      "title": "Stimulant Usage in Attention-Deficit/Hyperactivity Disorder Is Associated With Decreased Rates of Arthrofibrosis and Postoperative Complications Following Anterior Cruciate Ligament Reconstruction.",
+      "authors": [
+        "Sasaki J",
+        "Mrazik S",
+        "Hand C",
+        "Cutler K",
+        "Koltenyuk V",
+        "Fuller SI",
+        "MacFarlane AJ"
+      ],
+      "authors_short": "Sasaki J, Mrazik S, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Anterior cruciate ligament (ACL) tears are one of the most common orthopaedic injuries, and ACL reconstruction is often considered the standard of care for the active individual. Recently, attention-deficit/hyperactivity disorder (ADHD) has been shown to be a risk factor for adverse postoperative outcomes in patients undergoing ACL reconstruction. However, no studies have looked at the effect of stimulant medications on ACL reconstruction outcomes in patients with ADHD. This study aimed to compare postoperative outcomes between ADHD patients using stimulant medications and those not using stimulants following ACL reconstruction at 3- and 6-month follow-up. METHODS: This retrospective cohort study used the TriNetX database to identify patients with ADHD who underwent ACL reconstruction surgery and divided them into cohorts based on the presence or absence of stimulant medication usage. Patient cohorts were 1:1 propensity score matched on age, sex, obesity, mood disorders, anxiety disorders, and nicotine dependence. Postoperative complications were analyzed within 3 and 6 months postoperatively, evaluating arthrofibrosis, infection, wound disruption, revision surgery, emergency department (ED) visits, hospital readmission, and deep vein thrombosis. RESULTS: Within 3 and 6 months postoperatively, ADHD patients not taking stimulants were markedly more likely to return to the ED and be readmitted to a hospital compared with those who were taking stimulants. In addition, at the 6-month time point, a statistically significant increase in arthrofibrosis was seen in nonstimulant users compared with stimulant users in patients with ADHD. CONCLUSION: This study found that patients with ADHD not taking stimulant medications are at an increased risk of returning to the ED, being readmitted to the hospital, and developing arthrofibrosis compared with those patients taking stimulants following ACL reconstruction. The results display the importance of identifying modifiable risk factors for ACL reconstruction surgery so that physicians can adequately adjust treatment regimens to each patient.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41914889/",
+      "score": 70,
+      "score_reasoning": "JAAOS study examining stimulant use effects on ACL reconstruction outcomes, novel finding with moderate sample size and clinical relevance.",
+      "bullets": [
+        "ADHD patients not taking stimulant medications had higher rates of emergency department visits and hospital readmissions within 6 months after ACL reconstruction compared to those on stimulants.",
+        "ADHD patients without stimulant treatment developed arthrofibrosis more frequently at 6 months post-ACL reconstruction than those taking stimulant medications.",
+        "Stimulant medication use in ADHD patients appears protective against certain complications following ACL reconstruction, suggesting treatment optimization may improve surgical outcomes."
       ]
     }
   ],
