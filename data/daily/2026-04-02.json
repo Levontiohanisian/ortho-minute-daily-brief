@@ -1,0 +1,283 @@
+{
+  "brief_date": "2026-04-02",
+  "brief_date_display": "Thursday, April 02",
+  "candidates": [
+    {
+      "pmid": "41915794",
+      "title": "CORR Insights\u00ae: Gait Function at 20 Years or More After Rotationplasty Shows Pseudo Knee Motion, Decreased Walking Speed, and Increased Energy Cost of Walking.",
+      "authors": [
+        "Leithner A"
+      ],
+      "authors_short": "Leithner A",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41915794/",
+      "score": 85,
+      "score_reasoning": "Large retrospective cohort study (664 patients) examining predictors of delayed MCID/SCB achievement after TKA with 24-month follow-up in high-impact journal with direct clinical relevance for patient counseling.",
+      "bullets": [
+        "Rotationplasty patients at 20+ years follow-up walk slower and use more energy than normal controls during gait analysis.",
+        "The rotated ankle creates pseudo knee motion that partially compensates for the absent biological knee joint.",
+        "Long-term functional outcomes show persistent gait abnormalities despite the reconstructive benefits of rotationplasty for oncologic limb salvage."
+      ]
+    },
+    {
+      "pmid": "41903677",
+      "title": "Reassessing the Arthroplasty Landscape: Updated Incidence and Future Projections of Shoulder Arthroplasty Compared With Hip and Knee Arthroplasty in the United States.",
+      "authors": [
+        "Joshi T",
+        "Kalva S",
+        "Fucich D",
+        "Molokwu BO",
+        "Xu JJ",
+        "Vallurupalli N",
+        "Zuckerman JD",
+        "Virk MS"
+      ],
+      "authors_short": "Joshi T, Kalva S, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Total shoulder arthroplasty (TSA) utilization has increased rapidly following the adoption of the reverse TSA (rTSA). Contemporary forecasts of TSA incidence and prevalence are limited and outdated, particularly in comparison with total hip arthroplasty (THA) and total knee arthroplasty (TKA). We sought to update TSA projections in the United States through 2040 and compare them against THA and TKA. METHODS: We identified adults (\u226518 years) who underwent primary TSA, THA, or TKA between 2015 and 2025 in the United States using a large database. Annual incidence (new procedures per 100,000 patients) and prevalence (patients with prior arthroplasty per 100,000) were calculated. For each arthroplasty, linear and Poisson regression models were used to project new cases through 2040, with 95% confidence intervals. COVID year exclusion analysis and segmented analyses were performed using pre and post-COVID years in both linear and Poisson regression models to assess the effect of accelerated post-pandemic rebound. RESULTS: From 2015-2025, we identified 83,203 new TSA, 267,683 new THA, and 354,044 new TKA cases. TSA incidence increased from 13.1 to 45.6 per 100,000 (248.1% change), and prevalence from 41.5 to 222.8 per 100,000 (436.9% change). Across both modeling approaches, new cases for all procedures increased significantly. In Poisson modeling, the greatest proportional annual growth was observed for TSA (12.4% per year), compared with TKA (9.1% per year) and THA (8.5% per year). With linear regression, incidence increased by 2.77 cases per 100,000 per year for TSA, 8.75 for TKA, and 6.26 for THA, with TKA showing the largest additive yearly increase. By 2040, the linear model predicts that shoulder arthroplasty volume will increase by 73.0% to 78.9 cases per 100,000, whereas the Poisson model predicts a 397.4% increase, to 226.8 cases per 100,000. Utilizing post-COVID years, the linear model predicts that TSA volume will increase by 212.9% to 142.7 cases per 100,000, whereas the Poisson model predicts a 2317.8% increase, to 1102.5 cases per 100,000. CONCLUSION: TSA utilization in the United States has increased significantly over the past decade and is projected to continue rising through 2040. Although TSA remains less common than THA or TKA, it demonstrated the greatest proportional annual growth by Poisson modeling from 2015 to 2025, with much of this acceleration concentrated in the post-COVID period. These updated projections provide essential data for clinicians, health-system leaders, and policymakers as they plan for the growing burden of shoulder arthroplasty.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41903677/",
+      "score": 82,
+      "score_reasoning": "Large database study (420,053 patients) examining contemporary dislocation patterns after primary THA with landmark survivorship analysis, highly relevant for current practice patterns.",
+      "bullets": [
+        "Shoulder arthroplasty incidence increased 248% from 2015-2025, showing the highest proportional growth rate among major joint replacements at 12.4% per year.",
+        "Despite remaining less common than hip or knee replacement, shoulder arthroplasty volume is projected to increase 73-397% by 2040 depending on the model used.",
+        "The post-COVID period showed accelerated growth in shoulder arthroplasty cases, likely driven by increased adoption of reverse total shoulder arthroplasty techniques."
+      ]
+    },
+    {
+      "pmid": "41886778",
+      "title": "KSSTA leadership update: Welcoming Nikolai Ramadanov as new Associate Editor for Hip Surgery.",
+      "authors": [
+        "Hirschmann MT",
+        "Herbst E",
+        "Prill R",
+        "Enes Kayaalp M",
+        "Milano G"
+      ],
+      "authors_short": "Hirschmann MT, Herbst E, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Editorial"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41886778/",
+      "score": 80,
+      "score_reasoning": "Multicenter propensity-matched study (822 patients) comparing dual mobility vs conventional THA for femoral neck fractures, addressing key clinical question with robust methodology.",
+      "bullets": [
+        "KSSTA journal announces Nikolai Ramadanov as new Associate Editor for Hip Surgery section",
+        "Editorial leadership change affects submissions and review process for hip-related research",
+        "No clinical findings or patient outcomes reported in this editorial announcement"
+      ]
+    },
+    {
+      "pmid": "41911399",
+      "title": "Letter to the Editor: Can Nutritional and Inflammatory Markers Be Combined to Develop an Accurate Survival Model for Surgical Decision-making in Patients With Lung Cancer Bone Metastases?",
+      "authors": [
+        "Zheng W"
+      ],
+      "authors_short": "Zheng W",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41911399/",
+      "score": 78,
+      "score_reasoning": "Large retrospective study (306 patients) examining mortality in PJI patients presenting with sepsis, addressing critical clinical scenario with substantial sample size.",
+      "bullets": [
+        "The paper is a letter to the editor commenting on survival models for lung cancer bone metastases, not original research with clinical findings",
+        "No new data or patient outcomes are presented that would inform surgical decision making in metastatic bone disease",
+        "The letter discusses methodology of combining nutritional and inflammatory markers but provides no actionable clinical recommendations"
+      ]
+    },
+    {
+      "pmid": "41914160",
+      "title": "Biomechanical Differences in Young Patients With True Femoral Retrotorsion: Correlations Between Gait Deviations, Clinical Measurements, and Imaging Data.",
+      "authors": [
+        "Alexander N",
+        "Dreher T",
+        "Lengnick H",
+        "Nieuwland A",
+        "Cip J",
+        "Krautwurst BK"
+      ],
+      "authors_short": "Alexander N, Dreher T, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Torsional abnormalities of the femur, such as femoral retrotorsion, can significantly impact gait and joint biomechanics in children and adolescents. However, the resulting gait patterns as well as the relationship between static imaging measurements and dynamic gait deviations remain unclear. This study aimed to investigate biomechanical differences in gait between young individuals with true femoral retrotorsion and typically developing peers, examining correlations between gait deviations, clinical measurements, and imaging data. METHODS: A multicenter retrospective study was conducted, including 31 patients with unilateral or bilateral femoral retrotorsion and a control group of typically developing children. Femoral torsion was assessed using MRI or CT, while 3D motion capture was used for gait analysis. Clinical hip rotation was measured, and statistical analyses, including correlation assessments, were performed to evaluate relationships between imaging, clinical, and gait parameters. RESULTS: Patients exhibited significantly increased hip external rotation and out-toeing gait compared with controls. However, no correlation was found between femoral torsion measured by imaging and hip rotation during gait or foot progression angle. In contrast, the midpoint of clinical hip rotation correlated moderately with both hip rotation and foot progression angle during gait. In addition, patients had higher BMI and demonstrated compensatory knee valgus, despite no radiologic evidence of knee malalignment. CONCLUSION: Children and adolescents with femoral retrotorsion exhibit distinct gait deviations, but static imaging alone does not reliably predict dynamic gait patterns. This emphasizes the need for dynamic assessment in clinical decision-making.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41914160/",
+      "score": 77,
+      "score_reasoning": "Multicenter retrospective cohort (2033 patients) examining timing factors for meniscal injury after ACL reconstruction with multivariable analysis in high-impact sports medicine journal.",
+      "bullets": [
+        "Children with femoral retrotorsion walk with increased hip external rotation and out-toeing compared to normal peers.",
+        "Static MRI or CT measurements of femoral torsion do not correlate with actual gait patterns, while clinical hip rotation measurements do.",
+        "Patients develop compensatory knee valgus during walking despite having normal knee alignment on imaging."
+      ]
+    },
+    {
+      "pmid": "41881205",
+      "title": "Kinematic Impact of Patella Resurfacing in Bicruciate-Stabilized Total Knee Arthroplasty: A Comparative Analysis of Femoro-Tibial Motion and Patellar Classification.",
+      "authors": [
+        "LaCour M",
+        "Smith L",
+        "Dessinger G",
+        "Chesney C",
+        "Komistek RD"
+      ],
+      "authors_short": "LaCour M, Smith L, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Understanding patello-femoral and femoro-tibial kinematics is essential for optimizing outcomes following total knee arthroplasty (TKA). Registry data indicate higher revision rates in TKA patients who have unresurfaced patellae, yet the kinematic implications of patellar resurfacing remain underexplored. This study investigated the influence of patellar resurfacing on patellar height classification and knee kinematics. METHODS: A retrospective observational study of 167 Bicruciate-Stabilized (BCS) TKA patients who were from six surgeons was evaluated-128 with resurfaced and 39 with unresurfaced patellae. Subjects underwent fluoroscopic analysis during weight-bearing deep knee bends. Femoro-tibial kinematics, including antero-posterior condylar motion and axial rotation, were assessed via three-dimensional model-fitting. Patellar height was classified using the Blackburne-Peel ratio at 30\u00b0 flexion. RESULTS: The resurfaced cohort exhibited a lower incidence of patella baja (22%) and alta (2%) compared to the unresurfaced group (38 and 5%, respectively), with patella baja significantly more common in the unresurfaced group (P = 0.033). The resurfaced group also demonstrated more lateral condylar rollback (-14.4 \u00b1 5.4 versus -11.8 \u00b1 5.6 mm, P = 0.012) and greater overall axial rotation during flexion (9.4 \u00b1 5.4 versus 7.4 \u00b1 5.8\u00b0, P = 0.043), with fewer instances of reverse axial rotation (7 versus 13%, P = 0.049). Finally, resurfaced knees had marginally greater weight-bearing range-of-motion (113 \u00b1 16.9 versus 110 \u00b1 10.8\u00b0, P = 0.369), though not statistically significant. CONCLUSION: This study suggests that patellar resurfacing in BCS TKA may contribute to more favorable patellar height classifications, more natural kinematics, and reduced incidences of reverse rotation. The observed trends highlight the potential of resurfacing in achieving improved TKA kinematics, although variability in surgeon technique and lack of preoperative data limit the generalizability of these results.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41881205/",
+      "score": 75,
+      "score_reasoning": "Prospective multicenter study (229 patients) with 4-year follow-up examining sex differences in TKA outcomes with comprehensive adjustment for confounders.",
+      "bullets": [
+        "Patellar resurfacing in bicruciate-stabilized TKA reduces patella baja incidence from 38% to 22% compared to unresurfaced patellae.",
+        "Resurfaced patellae produce more normal knee kinematics with greater lateral condylar rollback and improved axial rotation patterns during flexion.",
+        "This fluoroscopic study of 167 TKA patients suggests patellar resurfacing may optimize knee mechanics, though surgeon variability limits broader conclusions."
+      ]
+    },
+    {
+      "pmid": "41903676",
+      "title": "Is Robotic-Assisted Reverse Shoulder Arthroplasty Economically Justified? A Break-Even Analysis.",
+      "authors": [
+        "Menendez ME",
+        "Moverman MA",
+        "Schiffman CJ",
+        "Matsen FA"
+      ],
+      "authors_short": "Menendez ME, Moverman MA, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Robotic assistance in reverse total shoulder arthroplasty (rTSA) is likely to improve implant positioning and may reduce revision risk, but its cost-effectiveness is unknown. Break-even models can determine the economic viability of interventions in settings with low outcome event rates that would realistically preclude a randomized clinical trial. We applied this approach to determine the economic plausibility of robotic assistance for the prevention of revision after rTSA. METHODS: Incremental robotic assistance costs ($1,500), baseline early revision rates after rTSA (2.1%; within 1 year of surgery), and revision surgery-related costs ($22,920) were derived from institutional estimates and the literature. A break-even equation incorporating these variables was developed to determine the absolute risk reduction (ARR) in revision rate required for robotic assistance to be economically justified. The number needed to treat was calculated from the ARR. To provide a widely applicable model, multiple simulations were performed by varying the incremental cost of robotic assistance, baseline revision rate, and revision surgery cost. RESULTS: Robotic assistance would be economically justified only if it prevented 1 revision for every 15 procedures (ARR = 6.55%). Because this required ARR exceeds the observed early revision rate (2.1%), the calculated break-even revision rate is negative (-4.45%), indicating that break-even cannot be achieved under typical clinical conditions. The required ARR remained unchanged when baseline revision rates were varied, but decreased substantially as the modeled cost of revision surgery increased. CONCLUSIONS: Robotic assistance in rTSA is unlikely to be economically justified for routine use when evaluated solely on prevention of early postoperative revision. Selective application to higher-risk anatomy, costly failure pathways, or high-volume centers able to amortize robotic costs may improve economic viability, particularly when shoulder adoption leverages an existing robotic platform with lower incremental per-case costs rather than new capital investment. Because the value of positioning accuracy may accrue over time through delayed time-to-revision and better patient-centered outcomes, studies linking robotic assistance to longer-term implant survivorship and functional outcomes are needed to more fully define the technology's value proposition.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41903676/",
+      "score": 74,
+      "score_reasoning": "Large database study updating shoulder arthroplasty projections through 2040 with comparison to hip and knee arthroplasty, important for healthcare planning and resource allocation.",
+      "bullets": [
+        "Robotic assistance in reverse shoulder arthroplasty costs an additional $1,500 per case but would need to prevent 1 revision for every 15 procedures to break even economically.",
+        "This required 6.55% absolute risk reduction exceeds the baseline 2.1% early revision rate, making routine robotic assistance economically unjustified for preventing early revisions.",
+        "Economic viability may improve in high-risk cases, high-volume centers, or when leveraging existing robotic platforms with lower per-case costs."
+      ]
+    },
+    {
+      "pmid": "41914889",
+      "title": "Stimulant Usage in Attention-Deficit/Hyperactivity Disorder Is Associated With Decreased Rates of Arthrofibrosis and Postoperative Complications Following Anterior Cruciate Ligament Reconstruction.",
+      "authors": [
+        "Sasaki J",
+        "Mrazik S",
+        "Hand C",
+        "Cutler K",
+        "Koltenyuk V",
+        "Fuller SI",
+        "MacFarlane AJ"
+      ],
+      "authors_short": "Sasaki J, Mrazik S, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Anterior cruciate ligament (ACL) tears are one of the most common orthopaedic injuries, and ACL reconstruction is often considered the standard of care for the active individual. Recently, attention-deficit/hyperactivity disorder (ADHD) has been shown to be a risk factor for adverse postoperative outcomes in patients undergoing ACL reconstruction. However, no studies have looked at the effect of stimulant medications on ACL reconstruction outcomes in patients with ADHD. This study aimed to compare postoperative outcomes between ADHD patients using stimulant medications and those not using stimulants following ACL reconstruction at 3- and 6-month follow-up. METHODS: This retrospective cohort study used the TriNetX database to identify patients with ADHD who underwent ACL reconstruction surgery and divided them into cohorts based on the presence or absence of stimulant medication usage. Patient cohorts were 1:1 propensity score matched on age, sex, obesity, mood disorders, anxiety disorders, and nicotine dependence. Postoperative complications were analyzed within 3 and 6 months postoperatively, evaluating arthrofibrosis, infection, wound disruption, revision surgery, emergency department (ED) visits, hospital readmission, and deep vein thrombosis. RESULTS: Within 3 and 6 months postoperatively, ADHD patients not taking stimulants were markedly more likely to return to the ED and be readmitted to a hospital compared with those who were taking stimulants. In addition, at the 6-month time point, a statistically significant increase in arthrofibrosis was seen in nonstimulant users compared with stimulant users in patients with ADHD. CONCLUSION: This study found that patients with ADHD not taking stimulant medications are at an increased risk of returning to the ED, being readmitted to the hospital, and developing arthrofibrosis compared with those patients taking stimulants following ACL reconstruction. The results display the importance of identifying modifiable risk factors for ACL reconstruction surgery so that physicians can adequately adjust treatment regimens to each patient.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41914889/",
+      "score": 73,
+      "score_reasoning": "Retrospective cohort (767 patients) evaluating utility of ACS-NSQIP risk calculator in distal radius fracture surgery, directly applicable to preoperative risk assessment.",
+      "bullets": [
+        "ADHD patients not taking stimulants had higher rates of ED visits and hospital readmissions within 3 and 6 months after ACL reconstruction compared to those on stimulants.",
+        "ADHD patients not on stimulants developed arthrofibrosis more frequently at 6 months post ACL reconstruction than those taking stimulant medications.",
+        "Stimulant medication appears protective against postoperative complications in ADHD patients undergoing ACL reconstruction, suggesting medication optimization before surgery may improve outcomes."
+      ]
+    },
+    {
+      "pmid": "41881206",
+      "title": "Baseline Characteristics Explain Sex Differences in Primary Total Knee Arthroplasty Outcomes: A Prospective Multicenter Study with 4-Year Follow-Up.",
+      "authors": [
+        "Bayram JM",
+        "Chopra S",
+        "Clement ND",
+        "Deehan DJ",
+        "London NJ",
+        "Pandit HG",
+        "Holloway NJ",
+        "Clarke JV"
+      ],
+      "authors_short": "Bayram JM, Chopra S, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Women report worse outcomes following total knee arthroplasty (TKA), but it remains unclear whether sex independently predicts outcomes or whether observed differences reflect baseline characteristics. This study aimed to characterize sex differences across a four-year recovery period and determine whether they persist after adjusting for confounding factors. METHODS: This prospective multicenter cohort study included 229 patients (114 women, 115 men; mean age 64 years) who underwent primary TKA. Patient-reported outcome measures (PROMs), including the Oxford Knee Score (OKS), Knee Injury and Osteoarthritis Outcome Score (KOOS) subscales, Forgotten Joint Score, and the EuroQol 5-Dimension (EQ-5D), along with physical measures (Objective Knee Society Score and range of motion), were collected preoperatively, at six weeks, six months, and annually up to four years postoperatively. Linear mixed-effects models assessed sex differences in postoperative trajectories with three levels of adjustment: unadjusted, demographic-adjusted, and baseline-adjusted (including preoperative scores). RESULTS: Women demonstrated lower-scoring postoperative trajectories than men across nearly all PROMs in unadjusted models, with the largest differences in functional outcomes (OKS: \u03b2 = -2.7, P < 0.001; KOOS Activities of Daily Living (ADL): \u03b2 = -5.7, P < 0.001). Women also had significantly worse preoperative scores across all knee-specific PROMs (P < 0.05). Demographic adjustment attenuated sex effects, leaving only OKS (P = 0.009) and KOOS ADL (P = 0.012) significant. After additional adjustment for preoperative scores, sex differences in all PROMs were eliminated (P > 0.05). CONCLUSION: Sex was not an independent predictor of TKA outcomes once baseline characteristics and preoperative scores were accounted for. Women present with less favorable preoperative profiles, including worse pain and function, higher body mass index, and greater prevalence of anxiety and depression. Improving preoperative status in women through earlier referral, optimized management of affective disorders, and targeted interventions may help narrow disparities in TKA outcomes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41881206/",
+      "score": 71,
+      "score_reasoning": "Large database study (7,530 patients) examining association between onychomycosis and PJI risk after TJA with propensity matching and treatment stratification.",
+      "bullets": [
+        "Women have worse pain and function scores after TKA, but this reflects their worse preoperative condition rather than sex itself affecting outcomes.",
+        "Women present for TKA with higher BMI, more anxiety and depression, and worse baseline knee pain and function compared to men.",
+        "Earlier referral and preoperative optimization of mental health and physical status in women may improve their TKA outcomes."
+      ]
+    },
+    {
+      "pmid": "41902557",
+      "title": "Surgical Management of Horizontal Cleavage Tears of the Medial Meniscus: A Biomechanical Analysis During Simulated Gait.",
+      "authors": [
+        "Gould HP",
+        "Chastain K",
+        "Wright-Chisem J",
+        "Letendre S",
+        "Parides M",
+        "Maher SA",
+        "Ranawat A"
+      ],
+      "authors_short": "Gould HP, Chastain K, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Horizontal cleavage tears (HCTs) comprise one-quarter of all diagnosed meniscal pathologies. Despite several static/quasi-static cadaveric studies showing that HCTs and their repairs do not change contact mechanics while leaflet resections do, it is unclear if these conclusions hold during activities of daily living. HYPOTHESIS/PURPOSE: The purpose of this study was to quantify the comparative biomechanical effects of meniscal HCT, HCT repair, and leaflet resection on joint contact forces throughout simulated gait. It was hypothesized that HCT repair would not change contact mechanics relative to the intact meniscus, while inferior meniscal leaflet resection would lead to increased contact stress and decrease contact areas throughout simulated gait. STUDY DESIGN: Controlled laboratory study. METHODS: Six human cadaveric knees were placed on a multidirectional dynamic simulator. Electronic pressure sensors were inserted across the medial tibial plateau, and contact forces throughout simulated gait were quantified. Contact stress, contact area, and percent meniscal loading were quantified for intact, HCT, HCT repair, and inferior leaflet conditions. RESULTS: No significant differences in contact mechanics occurred between the intact meniscus and HCT or between the intact meniscus and HCT repair. Inferior leaflet resection resulted in a statistically significant decrease in contact area during the early, mid-, and late stance of the simulated gait cycle; a significant decrease in percent meniscal loading between 8% and 60% of simulated gait; and a small but significant increase in peak contact stress during the midstance phase of the simulated gait cycle between 19% and 30% of simulated gait. CONCLUSION: The authors failed to reject the null hypothesis as there was no significant difference observed between meniscal HCT repair and the intact meniscus, while resection of the inferior leaflet was associated with a small but statistically significant increased peak contact stress, decreased contact area, and decreased percent meniscal loading during simulated gait. Taken together, these results support that when an HCR tear is symptomatic, meniscal preservation is preferable over inferior leaflet resection in the biomechanical management of horizontal cleavage meniscal tears. CLINICAL RELEVANCE: These cadaveric tests suggest that horizontal cleavage meniscal tears of the medial meniscus posterior horn are not biomechanically detrimental to joint contact forces during simulated gait. If they must be surgically treated for symptomatic reasons, meniscal repair is biomechanically favorable over inferior leaflet resection.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41902557/",
+      "score": 62,
+      "score_reasoning": "Retrospective cohort (65 ankles) examining CFL morphology effects on arthroscopic ATFL repair outcomes with multivariable analysis in specialized journal.",
+      "bullets": [
+        "Horizontal cleavage tears of the medial meniscus do not alter knee contact mechanics during gait simulation compared to intact menisci.",
+        "Repair of horizontal cleavage tears preserves normal contact mechanics, while inferior leaflet resection increases contact stress and decreases contact area during gait.",
+        "When horizontal cleavage tears require surgery, repair is biomechanically superior to leaflet resection for preserving joint function."
+      ]
+    }
+  ],
+  "picks": [
+    0,
+    1
+  ],
+  "status": "pending_approval"
+}
