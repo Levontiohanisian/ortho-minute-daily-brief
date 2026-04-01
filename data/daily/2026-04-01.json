@@ -1,0 +1,303 @@
+{
+  "brief_date": "2026-04-01",
+  "brief_date_display": "Wednesday, April 01",
+  "candidates": [
+    {
+      "pmid": "41914889",
+      "title": "Stimulant Usage in Attention-Deficit/Hyperactivity Disorder Is Associated With Decreased Rates of Arthrofibrosis and Postoperative Complications Following Anterior Cruciate Ligament Reconstruction.",
+      "authors": [
+        "Sasaki J",
+        "Mrazik S",
+        "Hand C",
+        "Cutler K",
+        "Koltenyuk V",
+        "Fuller SI",
+        "MacFarlane AJ"
+      ],
+      "authors_short": "Sasaki J, Mrazik S, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Anterior cruciate ligament (ACL) tears are one of the most common orthopaedic injuries, and ACL reconstruction is often considered the standard of care for the active individual. Recently, attention-deficit/hyperactivity disorder (ADHD) has been shown to be a risk factor for adverse postoperative outcomes in patients undergoing ACL reconstruction. However, no studies have looked at the effect of stimulant medications on ACL reconstruction outcomes in patients with ADHD. This study aimed to compare postoperative outcomes between ADHD patients using stimulant medications and those not using stimulants following ACL reconstruction at 3- and 6-month follow-up. METHODS: This retrospective cohort study used the TriNetX database to identify patients with ADHD who underwent ACL reconstruction surgery and divided them into cohorts based on the presence or absence of stimulant medication usage. Patient cohorts were 1:1 propensity score matched on age, sex, obesity, mood disorders, anxiety disorders, and nicotine dependence. Postoperative complications were analyzed within 3 and 6 months postoperatively, evaluating arthrofibrosis, infection, wound disruption, revision surgery, emergency department (ED) visits, hospital readmission, and deep vein thrombosis. RESULTS: Within 3 and 6 months postoperatively, ADHD patients not taking stimulants were markedly more likely to return to the ED and be readmitted to a hospital compared with those who were taking stimulants. In addition, at the 6-month time point, a statistically significant increase in arthrofibrosis was seen in nonstimulant users compared with stimulant users in patients with ADHD. CONCLUSION: This study found that patients with ADHD not taking stimulant medications are at an increased risk of returning to the ED, being readmitted to the hospital, and developing arthrofibrosis compared with those patients taking stimulants following ACL reconstruction. The results display the importance of identifying modifiable risk factors for ACL reconstruction surgery so that physicians can adequately adjust treatment regimens to each patient.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41914889/",
+      "score": 92,
+      "score_reasoning": "Large retrospective cohort study on ADHD stimulant use and ACL reconstruction outcomes with high clinical relevance for sports medicine surgeons and novel findings on reduced complications with stimulant treatment.",
+      "bullets": [
+        "ADHD patients not taking stimulant medications have higher rates of emergency department visits and hospital readmissions after ACL reconstruction compared to those on stimulants.",
+        "ADHD patients not using stimulants develop arthrofibrosis more frequently at 6 months post ACL reconstruction than stimulant users.",
+        "This study suggests stimulant medication compliance in ADHD patients may be a modifiable risk factor for improving ACL reconstruction outcomes."
+      ]
+    },
+    {
+      "pmid": "41914353",
+      "title": "Prevalence of Medial Meniscus Injury After Delayed ACL Reconstruction.",
+      "authors": [
+        "Nickelberry C",
+        "Laxson S",
+        "Lapite IO",
+        "Haddock AT",
+        "Yim A",
+        "Abdul Rahman HQ",
+        "Nhem Z",
+        "Phan A",
+        "Yoo JU",
+        "Brady JM"
+      ],
+      "authors_short": "Nickelberry C, Laxson S, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: The menisci serve as secondary stabilizers in the knee, and anterior cruciate ligament (ACL) tears have been associated with meniscal tears. Previous studies have indicated that a delay \u226512 months is associated with development of new meniscal pathology in an ACL-deficient knee. Some studies have indicated that the time period might be shorter in the pediatric and adolescent population, and other predictive factors remain poorly defined. PURPOSE: To examine the association between time, patient-related factors, and the extent and location of meniscal pathology for patients of all ages with ACL reconstruction. STUDY DESIGN: Cohort study (prognosis); Level of evidence, 3. METHODS: This multicenter retrospective cohort analysis of 2033 patients with ACL reconstruction, aged 9 to 73 years, included those who underwent ACL reconstruction between 2013 and 2023. Multivariable logistic regression analysis was used to model meniscal tear patterns based on age, sex, activity level, and surgery interval. RESULTS: Delayed ACL reconstruction (>120 days postinjury) was associated with a significantly higher prevalence of medial meniscus tears (P < .001). Multivariable analyses revealed that delayed surgery increased the odds of medial meniscus tears by 80% (adjusted odds ratio [aOR], 1.80; 95% CI, 1.47-2.21; P < .001) and both medial and lateral tears by 47% (aOR, 1.47; 95% CI, 1.10-1.97; P < .009). Furthermore, male sex was associated with an elevated prevalence for meniscal tears at all time points compared to female sex, demonstrating 43% higher odds of medial meniscus tears (aOR, 1.43; 95% CI, 1.18-1.74; P < .001), 61% higher odds of lateral meniscus tears (aOR, 1.61; 95% CI, 1.34-1.93; P < .001), and 50% higher odds of both medial and lateral meniscus tears (aOR, 1.50; 95% CI, 1.13-1.98; P < .005). CONCLUSION: These results highlight the importance of timely surgical management to mitigate progressive intra-articular damage, with special consideration for male athletes and patients at high risk for delayed intervention.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41914353/",
+      "score": 90,
+      "score_reasoning": "Multicenter retrospective cohort study with 2,033 patients examining timing of ACL reconstruction and meniscal injury risk, highly applicable to sports medicine practice with strong methodology.",
+      "bullets": [
+        "ACL reconstruction delayed beyond 120 days increases medial meniscus tear risk by 80% compared to earlier surgery.",
+        "Male patients have 43% higher odds of medial meniscus tears and 61% higher odds of lateral meniscus tears at all time points.",
+        "Early ACL reconstruction reduces progressive meniscal damage, particularly important for male athletes at high risk for delays."
+      ]
+    },
+    {
+      "pmid": "41912104",
+      "title": "High Mortality in Patients Presenting with Periprosthetic Joint Infection and Concomitant Sepsis.",
+      "authors": [
+        "Tran DH",
+        "Yang KJ",
+        "Ha JH",
+        "Hand R",
+        "Schmitt DR",
+        "Brown N"
+      ],
+      "authors_short": "Tran DH, Yang KJ, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Periprosthetic joint infection (PJI) has a five-year mortality rate comparable to many cancers and can progress to life-threatening sepsis. The aim of this study was to investigate the mortality of patients presenting with simultaneous PJI and sepsis after hip and knee arthroplasty. METHODS: A retrospective chart review was performed on patients from an academic center between 2005 and 2022. Patients who underwent total joint arthroplasty (TJA), developed PJI, and presented for revision were identified. Septic patients met two or more systemic inflammatory response syndrome criteria and had suspected or confirmed bacteremia. The study included 306 admitted patients who had PJI. On admission, 43 patients (14%) had sepsis, while 263 did not (85.9%). The analysis was divided by knee or hip procedure, with 121 hip patients and 185 knee patients. Patient demographics, comorbidities, complications, and follow-up data were collected. Descriptive and univariate statistical analyses were conducted. RESULTS: The all-cause mortality rate during follow-up was 35 of 43 (81.4%) in patients who presented with sepsis versus 133 of 263 (50.6%) in patients who presented without sepsis. The estimated probability of survival up to one year for septic patients was 77% (95% confidence interval (CI): 63 to 94) versus 92% for non-septic patients (95% CI: 87 to 96) for knee patients and 42% (95% CI: 23 to 81) versus 93% (95% CI: 89 to 98) for hip patients. Each 10-year increase in age at time of admission is associated with a 29% increase in the risk of all-cause mortality (HR = 1.29, 95% CI: 1.08 to 1.45; P =0.005) for hip patients and a 44% increase for knee patients (HR=1.44 95% CI: 1.25 to 1.64; P = 0.000007). CONCLUSION: Simultaneous PJI and sepsis is associated with a high mortality rate, even after adjusting for age and comorbidities.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41912104/",
+      "score": 88,
+      "score_reasoning": "High-impact periprosthetic joint infection study from Journal of Arthroplasty with critical survival data comparing septic versus non-septic presentations, directly applicable to arthroplasty practice.",
+      "bullets": [
+        "Patients with periprosthetic joint infection who present with sepsis have 81% mortality compared to 51% mortality in those without sepsis.",
+        "One-year survival for septic PJI patients is 77% for knees and only 42% for hips compared to over 90% for non-septic cases.",
+        "Each 10-year increase in age raises mortality risk by 29% in hip PJI patients and 44% in knee PJI patients."
+      ]
+    },
+    {
+      "pmid": "41911001",
+      "title": "How Should Hip Instability Be Clinically Diagnosed? Consensus Statements From a Scoping Review and an International Multidisciplinary Delphi Study.",
+      "authors": [
+        "Karimijashni M",
+        "Beaul\u00e9 PE",
+        "Carsen S",
+        "Clohisy J",
+        "Sink E",
+        "Zaltz I",
+        "Grammatopoulos G",
+        "Pfalzgraf-Reny A",
+        "Bechiau C",
+        "Poitras S"
+      ],
+      "authors_short": "Karimijashni M, Beaul\u00e9 PE, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Although several clinical signs have been proposed for diagnosing atraumatic hip instability, the condition remains poorly defined because of the absence of standardized diagnostic criteria. To address this gap, a Delphi consensus study with an international panel of experts to establish standardized clinical statements for the diagnostic criteria of hip instability was conducted. QUESTIONS/PURPOSES: The objective was to reach consensus on the following questions: (1) What are typical presenting symptoms of hip instability? (2) What physical examination should be used to assess hip instability in patients presenting with symptoms of hip instability? (3) What risk factors are associated with patients presenting with symptomatic hip instability? METHODS: A consensus study using the modified Delphi technique was conducted in accordance with the Accurate Consensus Reporting Document (ACCORD) guideline. The consensus meeting was held during the 15th Symposium on Joint Preserving and Minimally Invasive Surgery of the Hip, which took place in Qu\u00e9bec City, Qu\u00e9bec, Canada, in June 2025. The process involved a multidisciplinary steering committee and a diverse panel of 100 international participants representing 13 countries. Following a rapid scoping review, statements were developed and sent to participants 1 week prior to the meeting. These statements were voted across two Delphi rounds during the meeting, with consensus defined as \u2265 75% agreement. RESULTS: Clinically, three physical examination tests, the abduction-hyperextension-external rotation (AB-HEER), prone instability, and anterior apprehension (HEER) tests, achieved consensus as clinically useful to assess hip instability. The flexion-abduction-external rotation (FABER) test and hip flexion + rotation arc of 200\u00b0 did not reach consensus. Symptomatically, consensus was reached on patients reporting anterior hip pain during daily activities such as sitting, squatting, or participating in sports; mechanical symptoms such as popping, clicking, or grinding; and subjective sensations of looseness or instability. Female sex and hip dysplasia were agreed upon as key risk factors associated with atraumatic hip instability. Younger age as a potential risk factor did not reach consensus. CONCLUSION: Individual physical examination tests assess different components of hip instability. As such, the use of a combination of tests alongside consideration of symptoms and relevant risk factors has been suggested to enhance diagnostic specificity and produce higher assessment accuracy. Also, further research is warranted to assess other psychometric properties of these tests to develop a comprehensive diagnostic framework for atraumatic hip instability. CLINICAL RELEVANCE: By outlining key symptoms, recommended physical examination maneuvers, and associated risk factors, this study supports a more standardized and reproducible approach to evaluate hip instability in clinical practice. These findings can inform clinical algorithms, enhance diagnostic accuracy, and reduce variability in both research protocols and clinical practice.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41911001/",
+      "score": 86,
+      "score_reasoning": "International Delphi consensus study on hip instability diagnosis published in high-impact CORR with direct clinical applicability for diagnosis and examination techniques.",
+      "bullets": [
+        "International expert consensus identified three key physical tests for hip instability: AB-HEER, prone instability, and anterior apprehension tests.",
+        "Typical symptoms include anterior hip pain with sitting or squatting, mechanical symptoms like popping or clicking, and subjective feelings of looseness.",
+        "Female sex and hip dysplasia are established risk factors for atraumatic hip instability in young patients."
+      ]
+    },
+    {
+      "pmid": "41910634",
+      "title": "Minimum 10-year Results of Cementing a Polyethylene Liner Into an Acetabular Cup With a Deficient Locking Mechanism: Is It a Reliable Option?",
+      "authors": [
+        "Rhyu KH",
+        "Cho YJ",
+        "Chun YS",
+        "Lee MG"
+      ],
+      "authors_short": "Rhyu KH, Cho YJ, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Cementing a new liner into a well-fixed acetabular cup with a deficient locking mechanism has been reported as a viable option, but concerns remain regarding complications such as dislocation and late loosening. QUESTIONS/PURPOSES: What were the (1) durability of the cement-liner interface, (2) patient-reported outcome scores and complications, and (3) survivorship free from revision after liner cementation into a single acetabular cup design (Harris-Galante II, Zimmer) when the cup's locking mechanism was found to be deficient? METHODS: Between May 2006 and January 2015, two surgeons performed 76 revision procedures with retention of the metallic shell by cementing a new polyethylene liner into the existing shell. During that time, this procedure was used when the acetabular shell was well fixed but the locking mechanism was found to be deficient, or when a compatible liner was unavailable. When the native locking mechanism appeared intact, liner exchange was performed using the original locking mechanism without cementation. All patients treated with this procedure were considered potentially eligible for inclusion in this retrospective study. Of those, 9% (7 of 76) were excluded because they had a shell other than the Harris-Galante II cup, which was the focus of this study. An additional 16% (12 of 76) were lost prior to the minimum study follow-up of 10 years or had incomplete data sets, leaving 75% (57 of 76) for analysis. In patients who underwent bilateral procedures, the hip operated on first was selected for analysis to avoid nonindependence of observations, resulting in a final cohort of 51 patients. A highly crosslinked polyethylene liner was used in all procedures. The mean \u00b1 SD patient age at revision surgery was 57 \u00b1 12 years, and the median (range) follow-up was 14 years (10 to 18), with all patients having a minimum 10-year follow-up. Fifty-one percent (26 of 51) of the patients were men. Clinical outcomes and complications were assessed using medical records and radiographs. Implant survivorship was estimated using the Kaplan-Meier method at 10 and 15 years with 95% confidence intervals (CIs), using acetabular cup revision as the endpoint. RESULTS: The cement-liner interface remained intact throughout follow-up. The mean \u00b1 SD Harris hip score improved from 74 \u00b1 21 to 88 \u00b1 11 (p < 0.001), and the WOMAC score also improved from 79 \u00b1 13 to 59 \u00b1 14 (p < 0.001), whereas both the SF-12 mental and physical component summary scores did not improve. Complications occurred in 39% (20 of 51) of patients, including posterior dislocation, late cup loosening, new osteolysis, and periprosthetic femoral fracture. Kaplan-Meier survivorship free from acetabular cup revision was 88% (95% CI 80% to 98%) at 10 years and 77% (95% CI 66% to 90%) at 15 years. CONCLUSION: The results of this study suggest that liner cementation into Harris-Galante II shells (Zimmer) resulted in frequent complications and lower survivorship than we expected, and given that 16% (12 of 76) of the patients were lost to follow-up, our findings may have underestimated the risk of complications. Therefore, surgeons should exercise caution when considering isolated liner cementation, particularly given the high rates of dislocation and late shell loosening, and patients should be counseled thoroughly regarding these risks. LEVEL OF EVIDENCE: Level IV, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41910634/",
+      "score": 84,
+      "score_reasoning": "Long-term survival study of acetabular cup liner cementation technique with 10-year follow-up data, highly relevant for revision arthroplasty surgeons.",
+      "bullets": [
+        "Cementing polyethylene liners into Harris-Galante II cups with defective locking mechanisms had 39% complication rate and 77% survivorship at 15 years.",
+        "Common complications included posterior dislocation, late cup loosening, new osteolysis, and periprosthetic femoral fractures in revision hip arthroplasty patients.",
+        "This technique should be used cautiously given high failure rates, with patients requiring thorough counseling about dislocation and loosening risks."
+      ]
+    },
+    {
+      "pmid": "41903677",
+      "title": "Reassessing the Arthroplasty Landscape: Updated Incidence and Future Projections of Shoulder Arthroplasty Compared With Hip and Knee Arthroplasty in the United States.",
+      "authors": [
+        "Joshi T",
+        "Kalva S",
+        "Fucich D",
+        "Molokwu BO",
+        "Xu JJ",
+        "Vallurupalli N",
+        "Zuckerman JD",
+        "Virk MS"
+      ],
+      "authors_short": "Joshi T, Kalva S, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Total shoulder arthroplasty (TSA) utilization has increased rapidly following the adoption of the reverse TSA (rTSA). Contemporary forecasts of TSA incidence and prevalence are limited and outdated, particularly in comparison with total hip arthroplasty (THA) and total knee arthroplasty (TKA). We sought to update TSA projections in the United States through 2040 and compare them against THA and TKA. METHODS: We identified adults (\u226518 years) who underwent primary TSA, THA, or TKA between 2015 and 2025 in the United States using a large database. Annual incidence (new procedures per 100,000 patients) and prevalence (patients with prior arthroplasty per 100,000) were calculated. For each arthroplasty, linear and Poisson regression models were used to project new cases through 2040, with 95% confidence intervals. COVID year exclusion analysis and segmented analyses were performed using pre and post-COVID years in both linear and Poisson regression models to assess the effect of accelerated post-pandemic rebound. RESULTS: From 2015-2025, we identified 83,203 new TSA, 267,683 new THA, and 354,044 new TKA cases. TSA incidence increased from 13.1 to 45.6 per 100,000 (248.1% change), and prevalence from 41.5 to 222.8 per 100,000 (436.9% change). Across both modeling approaches, new cases for all procedures increased significantly. In Poisson modeling, the greatest proportional annual growth was observed for TSA (12.4% per year), compared with TKA (9.1% per year) and THA (8.5% per year). With linear regression, incidence increased by 2.77 cases per 100,000 per year for TSA, 8.75 for TKA, and 6.26 for THA, with TKA showing the largest additive yearly increase. By 2040, the linear model predicts that shoulder arthroplasty volume will increase by 73.0% to 78.9 cases per 100,000, whereas the Poisson model predicts a 397.4% increase, to 226.8 cases per 100,000. Utilizing post-COVID years, the linear model predicts that TSA volume will increase by 212.9% to 142.7 cases per 100,000, whereas the Poisson model predicts a 2317.8% increase, to 1102.5 cases per 100,000. CONCLUSION: TSA utilization in the United States has increased significantly over the past decade and is projected to continue rising through 2040. Although TSA remains less common than THA or TKA, it demonstrated the greatest proportional annual growth by Poisson modeling from 2015 to 2025, with much of this acceleration concentrated in the post-COVID period. These updated projections provide essential data for clinicians, health-system leaders, and policymakers as they plan for the growing burden of shoulder arthroplasty.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41903677/",
+      "score": 80,
+      "score_reasoning": "Large national database study on early THA dislocation outcomes with contemporary data affecting arthroplasty practice decisions and patient counseling.",
+      "bullets": [
+        "Total shoulder arthroplasty incidence increased 248% from 2015-2025, showing the fastest proportional growth among joint replacements at 12.4% per year.",
+        "Shoulder arthroplasty volume is projected to increase 73-397% by 2040 depending on modeling approach, with much higher growth if post-COVID trends continue.",
+        "Despite rapid growth, shoulder arthroplasty remains significantly less common than hip or knee replacement but represents the fastest expanding segment of orthopaedic arthroplasty."
+      ]
+    },
+    {
+      "pmid": "41887341",
+      "title": "Dual Mobility versus Conventional Total Hip Arthroplasty for Femoral Neck Fractures: A Multicenter Propensity-Matched Study on Dislocation Risk.",
+      "authors": [
+        "Koh CK",
+        "Lee J",
+        "Young S",
+        "Monk P",
+        "Munro J",
+        "Lynch J",
+        "Beaule P",
+        "Grammatopoulos G"
+      ],
+      "authors_short": "Koh CK, Lee J, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Total hip arthroplasty (THA) is a common treatment for displaced femoral neck fractures (FNF). Dual mobility (DM) THA has been advocated to reduce dislocation risk in high-risk patients, such as those who have FNF. However, comparative studies remain limited. The purpose of our study was to answer the following questions: (1) What is the dislocation incidence between DM-THA and conventional THA (c-THA) in patients who have FNF? (2) What is the revision incidence between DM-THA and c-THA in patients who have FNF? and (3) What are the risk factors for dislocation in patients who have THA for FNF? METHODS: A multicenter retrospective cohort study involving 822 patients who underwent THA for displaced FNF at four public hospitals between 2012 and 2020 was conducted. Propensity matching (2:1) balanced age, sex, American Society of Anesthesiologists (ASA) score, surgical approach, and surgeon experience to analyze dislocation and revision incidence between DM-THA and c-THA. Kaplan-Meier survival analysis and multivariable logistic regressions were performed. RESULTS: Following propensity matching (209 DM-THA versus 418 c-THA), DM-THA demonstrated lower dislocation incidence up to five years (0.5% [95% confidence interval (CI) 0 to 2.5%] versus 4.8% [95% CI 3.0 to 7.2%], P = 0.005). However, there was no difference in revision for instability (DM THA: 0.5% versus c-THA: 2.0%; P = 0.2) or revision for all causes (DM THA: 3.1% versus c-THA: 3.9%; P = 0.3). CONCLUSION: Use of DM-THA reduces dislocation risk in FNF without increasing overall revision incidence, supporting its use in high-risk patients.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41887341/",
+      "score": 78,
+      "score_reasoning": "Multicenter propensity-matched study comparing dual mobility versus conventional THA for femoral neck fractures, directly applicable to trauma and arthroplasty surgeons.",
+      "bullets": [
+        "Dual mobility THA reduces dislocation rates compared to conventional THA in femoral neck fractures (0.5% vs 4.8% at 5 years).",
+        "Revision rates for instability and overall complications remain similar between dual mobility and conventional THA groups.",
+        "This multicenter study of 627 matched patients supports dual mobility use in high-risk femoral neck fracture cases."
+      ]
+    },
+    {
+      "pmid": "41880536",
+      "title": "Effect of Timing of First Consultation with a Sarcoma Specialist Following Unplanned Excision: Oncologic Outcomes of Patients with Soft-Tissue Sarcomas.",
+      "authors": [
+        "Jahn J",
+        "Dean KK",
+        "Travis LM",
+        "Ramos-Pascua LR",
+        "Garc\u00eda de la Blanca JC",
+        "Temple HT",
+        "Pretell-Mazzini J"
+      ],
+      "authors_short": "Jahn J, Dean KK, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Unplanned excisions (UEs) of soft-tissue sarcoma are resections performed without appropriate preoperative imaging or biopsy confirmation. These procedures represent a large proportion of referrals to sarcoma centers and can negatively influence oncologic outcomes. Limited evidence exists regarding the impact of consultation timing after UE. This study aimed to compare oncologic outcomes of patients evaluated early versus late at a sarcoma center following UE. METHODS: Of 397 patients treated for soft-tissue sarcoma from 2012 to 2020 at 2 tertiary centers, 117 underwent UE followed by later tumor bed excision and were analyzed. Consultation with a sarcoma specialist was defined as the patient's first visit with a multidisciplinary sarcoma team member, marking entry into the coordinated cancer center. Patients were stratified into early (\u22642 months) and late (>2 months) consultation groups. Demographic, clinical, and tumor characteristics were collected. Primary outcomes included local recurrence-free survival (LRFS), metastasis-free survival (MFS), and overall survival (OS). Chi-square and t tests were used for univariate comparisons, and Kaplan-Meier analyses were performed. Multivariable Cox regression and logistic regression analyses were performed, adjusting for patient age, sex, and comorbidities; tumor size, depth, grade, stage, and margin status; and/or follow-up duration. RESULTS: Among the 117 patients (mean age, 56 years; 55% female; 84% White; 65% non-Hispanic), 26 were seen early and 91 late. The rate of metastasis was significantly higher in the late cohort (48.4% versus 11.5%, p = 0.0016), as was mortality (30.8% versus 3.8%, p = 0.0109). Five-year Kaplan-Meier survival outcomes favored early consultation, including LRFS (84.6% versus 63.7%, p = 0.041), MFS (88.5% versus 50.5%, p = 0.003), and OS (96.2% versus 64.8%, p = 0.005). On multivariable analysis, late consultation was independently associated with inferior LRFS (hazard ratio [HR] = 1.95, p = 0.046), MFS (HR = 2.76, p = 0.004), and OS (HR = 2.53, p = 0.022). Logistic regression showed increased odds of metastasis (odds ratio [OR] = 7.11, p = 0.0027) and mortality (OR = 11.29, p = 0.021) at 5 years in the late group. CONCLUSIONS: Delayed consultation after UE was associated with significantly worse outcomes, including higher rates of metastasis and mortality and lower LRFS, MFS, and OS. These results emphasize the importance of timely referral to sarcoma centers for early multidisciplinary management. LEVEL OF EVIDENCE: Prognostic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41880536/",
+      "score": 74,
+      "score_reasoning": "National database study examining oncologic outcomes after unplanned sarcoma excisions, highly relevant for orthopaedic oncology and general orthopaedists who may encounter these cases.",
+      "bullets": [
+        "Soft tissue sarcoma patients who see a sarcoma specialist within 2 months after unplanned excision have significantly better survival than those seen later (96% vs 65% at 5 years).",
+        "Late consultation (over 2 months) after unplanned excision increases metastasis risk by 7-fold and mortality risk by 11-fold compared to early referral.",
+        "This study of 117 patients shows timing of sarcoma center referral after botched excisions directly impacts local recurrence, metastasis, and death rates."
+      ]
+    },
+    {
+      "pmid": "41875234",
+      "title": "Outcomes and Complications of Vertebral Body Tethering in Skeletally Immature Patients with Idiopathic Scoliosis.",
+      "authors": [
+        "Imbeault R",
+        "Shen J",
+        "Alzakri A",
+        "Barchi S",
+        "Roy-Beaudry M",
+        "Turgeon I",
+        "Parent S"
+      ],
+      "authors_short": "Imbeault R, Shen J, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Vertebral body tethering (VBT) aims to gradually correct scoliosis using patients' growth while preserving spinal motion. We report 5 to 8-year outcomes and complications in skeletally immature patients. METHODS: This prospective single-center cohort study included 74 patients who had idiopathic scoliosis and a \u22655-year follow-up. Preoperative, first postoperative visit, 1-year, 2-year, and \u22655-year radiographs were analyzed. A \u22655\u00b0 increase in the interscrew angle suggested tether breakage. RESULTS: All 74 patients (5 male and 69 female) were skeletally immature at surgery. The mean age at surgery was 11.8 \u00b1 1.3 years, and the mean follow-up time was 63.4 \u00b1 8.4 months. Of the 74 patients, 68 patients were White, 4 were Black, and 2 were Middle Eastern or North African. VBT was performed on a mean of 7.4 vertebral levels. The maximum Cobb angle was 47.9\u00b0 \u00b1 9.4\u00b0 preoperatively, whereas the instrumented Cobb angle measured 17.2\u00b0 \u00b1 12.3\u00b0 at 2 years and 25.7\u00b0 \u00b1 14.0\u00b0 at \u22655 years postoperatively. An unplanned return to the operating room occurred in 16 patients (21.6%). Forty-nine patients (66%) had a suspected broken tether at the final follow-up. The mean time of the first tether breakage was 38.1 \u00b1 15 months. Forty-nine patients (66%) also had a curve of <40\u00b0 without an unplanned return to the operating room at a minimum of 5 years postoperatively. CONCLUSIONS: In our cohort, 66% (49 patients) had a radiographically suspected tether breakage after 5 years and 13.5% (10 patients) required posterior spinal fusion to date. VBT yielded significant correction in the coronal plane (p < 0.001) and transverse plane (p = 0.006) postoperatively, with a reoperation rate of 21.6%. LEVEL OF EVIDENCE: Therapeutic Level II. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41875234/",
+      "score": 70,
+      "score_reasoning": "Multicenter study on vertebral body tethering outcomes with 5-8 year follow-up, highly relevant for pediatric spine surgeons treating adolescent scoliosis.",
+      "bullets": [
+        "Vertebral body tethering in 74 skeletally immature patients with idiopathic scoliosis reduced mean Cobb angles from 48\u00b0 to 26\u00b0 at 5+ years follow-up.",
+        "Two-thirds of patients had suspected tether breakage by final follow-up (mean 38 months), but 66% maintained curves under 40\u00b0 without reoperation.",
+        "Overall reoperation rate was 22% at 5+ years, with 14% requiring conversion to posterior spinal fusion."
+      ]
+    },
+    {
+      "pmid": "41914902",
+      "title": "What Is the Role of American College of Surgeons National Surgical Quality Improvement Program's Risk Calculator in Fracture Surgery?",
+      "authors": [
+        "Martinez FA",
+        "Shin AY",
+        "Wright BH",
+        "Hannon CP",
+        "Pulos N"
+      ],
+      "authors_short": "Martinez FA, Shin AY, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "IMPORTANCE: The American College of Surgeons (ACS) created the National Surgical Quality Improvement Program (NSQIP) risk calculator and database for use across surgical subspecialties and is frequently cited in surgical subspecialty peer-reviewed journals. In addition, Medicare has endorsed clinically using this risk calculator. This risk calculator has not been formally evaluated for use in distal radius fracture surgery. OBJECTIVE: This study aimed to assess the utility of the ACS-NSQIP risk calculator in hand surgery by comparing complication rates predicted by the ACS-NSQIP risk calculator against those observed from an institutional database. DESIGN: Retrospective cohort study between May 2000 and May 2020. SETTING: Academic level 1 trauma center. PARTICIPANTS: Seven hundred sixty-seven patients who underwent of open reduction and internal fixation of 790 distal radius fractures were prospectively enrolled into an institutional database. Patients aged 18 years or older who underwent volar plate fixation within 2 weeks following a distal radius fracture. MAIN OUTCOMES AND MEASURES: The primary study outcomes were the rate of \"any\" complications, as defined by ACS-NSQIP, and the rate of \"hand-related\" complications, as defined by a peer-reviewed journal publication. RESULTS: Overall, 767 patients were identified who sustained 790 distal radius fractures treated with volar plating to make up the cohort of the study. Mean age was 56.9 years, 77.0% were female, and 33.0% were type 23C1 distal radius fractures. ACS-NSQIP predicted an \"any\" complication rate of 1.85% (confidence interval [CI], 1.75 to 1.95). Institutional data observed \"any\" complication rate of 2.15% (CI, 1.01-2.91) within 30 days and 11.14% (CI, 8.99-13.42) for \"long-term\" any. Institutional data observed \"hand-related\" complication rate of 6.84% (CI, 5.18-8.83) within 30 days and 27.72% (CI, 24.56 to 30.89) for \"long-term\" any. CONCLUSIONS AND RELEVANCE: ACS-NSQIP fails to accurately predict the number of \"hand-related\" complications from distal radius fracture surgery. From a health policy, quality control, and clinical standpoint, ACS-NSQIP should be used cautiously with distal radius fracture surgery.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41914902/",
+      "score": 64,
+      "score_reasoning": "Large retrospective study validating ACS-NSQIP risk calculator for distal radius fracture surgery, directly applicable to hand surgeons and risk assessment.",
+      "bullets": [
+        "The ACS-NSQIP risk calculator significantly underestimates complications in distal radius fracture surgery, predicting 1.85% when actual rates reach 11.14% overall and 27.72% for hand-specific complications.",
+        "This study of 767 patients with distal radius fractures treated with volar plating found the calculator fails to capture orthopaedic-specific complications that matter most to patients.",
+        "Surgeons should avoid relying on ACS-NSQIP for preoperative counseling in distal radius surgery as it provides falsely reassuring complication estimates."
+      ]
+    }
+  ],
+  "picks": [
+    0,
+    1
+  ],
+  "status": "pending_approval"
+}
