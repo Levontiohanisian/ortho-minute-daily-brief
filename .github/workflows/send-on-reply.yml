@@ -1,18 +1,15 @@
-name: Morning Pipeline - Send Brief
+name: Send On Reply - Check for reply and send
 
 on:
   schedule:
-    # 5am Pacific = 1pm UTC (PDT) or 12pm UTC (PST)
-    # Using 12pm UTC (5am PDT)
-    - cron: '0 12 * * *'
-  workflow_dispatch:  # Allow manual trigger
-  repository_dispatch:
-    types: [trigger-morning]
+    # Every 10 minutes between 12:10-17:50 UTC (5:10am-10:50am Pacific)
+    - cron: '*/10 12-17 * * *'
+  workflow_dispatch:
 
 jobs:
-  send-brief:
+  check-and-send:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
 
     steps:
       - name: Checkout repository
@@ -29,13 +26,13 @@ jobs:
       - name: Pull latest data
         run: git pull --rebase origin main
 
-      - name: Run morning pipeline
+      - name: Check for reply and send if ready
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
-        run: python run_morning.py
+        run: python run_send_on_reply.py
 
       - name: Commit updated status
         run: |

@@ -24,31 +24,17 @@ jobs:
           echo "Current UTC time: $(date -u)"
           echo "Today: $TODAY"
 
-          # Evening pipeline should run around midnight UTC (5pm Pacific)
-          # Check from 0-6 UTC (5pm-11pm Pacific)
-          if [ "$HOUR_UTC" -ge 0 ] && [ "$HOUR_UTC" -le 6 ]; then
-            echo "Checking if evening pipeline ran..."
-            LAST_EVENING=$(gh run list --workflow=evening.yml --limit=1 --json createdAt --jq '.[0].createdAt' 2>/dev/null || echo "")
+          # Morning preview should run around noon UTC (5am Pacific)
+          # Check from 12-16 UTC (5am-9am Pacific)
+          if [ "$HOUR_UTC" -ge 12 ] && [ "$HOUR_UTC" -le 16 ]; then
+            echo "Checking if morning preview ran today..."
+            LAST_PREVIEW=$(gh run list --workflow=morning-preview.yml --limit=1 --json createdAt --jq '.[0].createdAt' 2>/dev/null || echo "")
 
-            if echo "$LAST_EVENING" | grep -q "$TODAY"; then
-              echo "Evening pipeline already ran today. OK."
+            if echo "$LAST_PREVIEW" | grep -q "$TODAY"; then
+              echo "Morning preview already ran today. OK."
             else
-              echo "Evening pipeline has NOT run today. Triggering now."
-              gh workflow run evening.yml
-            fi
-          fi
-
-          # Morning pipeline should run around noon UTC (5am Pacific)
-          # Check from 12-18 UTC (5am-11am Pacific)
-          if [ "$HOUR_UTC" -ge 12 ] && [ "$HOUR_UTC" -le 18 ]; then
-            echo "Checking if morning pipeline ran..."
-            LAST_MORNING=$(gh run list --workflow=morning.yml --limit=1 --json createdAt --jq '.[0].createdAt' 2>/dev/null || echo "")
-
-            if echo "$LAST_MORNING" | grep -q "$TODAY"; then
-              echo "Morning pipeline already ran today. OK."
-            else
-              echo "Morning pipeline has NOT run today. Triggering now."
-              gh workflow run morning.yml
+              echo "Morning preview has NOT run today. Triggering now."
+              gh workflow run morning-preview.yml
             fi
           fi
 

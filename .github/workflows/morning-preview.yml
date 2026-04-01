@@ -1,12 +1,10 @@
-name: Evening Pipeline - Scrape & Preview
+name: Morning Preview - Scrape & Send Preview
 
 on:
   schedule:
-    # 5pm Pacific = midnight UTC (PDT) or 1am UTC (PST)
-    - cron: '0 0 * * *'
-  workflow_dispatch:  # Allow manual trigger
-  repository_dispatch:
-    types: [trigger-evening]
+    # 5am Pacific = noon UTC (PDT)
+    - cron: '0 12 * * *'
+  workflow_dispatch:
 
 jobs:
   scrape-and-preview:

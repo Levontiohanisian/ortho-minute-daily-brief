@@ -69,13 +69,14 @@ def main():
 
     # Step 4: Save candidates
     print("--- Step 4: Saving candidates ---")
-    date_key = brief_date.strftime("%Y-%m-%d")
+    date_key = now.strftime("%Y-%m-%d")
     output = {
         "brief_date": date_key,
-        "brief_date_display": brief_date.strftime("%A, %B %d"),
+        "brief_date_display": now.strftime("%A, %B %d"),
         "candidates": ranked,
-        "picks": [0, 1],  # Default: top 2
+        "picks": [0],
         "status": "pending_approval",
+        "preview_sent_at": now.isoformat(),
     }
 
     os.makedirs(DATA_DIR, exist_ok=True)
