@@ -27,11 +27,11 @@
       ],
       "link": "https://pubmed.ncbi.nlm.nih.gov/41921050/",
       "score": 92,
-      "score_reasoning": "High-quality prospective randomized trial (323 patients) comparing one-stage vs two-stage PJI treatment published in JBJS, addressing a critical clinical question with direct practice implications.",
+      "score_reasoning": "High-quality RCT from JBJS comparing one-stage vs two-stage exchange for PJI with 323 patients, addressing a critical clinical question with direct practice implications.",
       "bullets": [
-        "Single-stage revision for chronic periprosthetic joint infection achieved 97% success versus 91% for two-stage revision in 258 patients at 2 years.",
-        "One-stage treatment was superior even in patients with draining sinuses, comorbidities, and antibiotic-resistant organisms previously excluded from studies.",
-        "Single-stage revision had three times the odds of success compared to two-stage when proper irrigation and antibiotic protocols are followed."
+        "Single-stage exchange arthroplasty achieved 97% success versus 91% for two-stage exchange in treating chronic periprosthetic joint infections after primary hip or knee replacement.",
+        "One-stage treatment was effective even in patients with draining sinuses, medical comorbidities, and antibiotic-resistant organisms who are typically excluded from single-stage protocols.",
+        "Single-stage exchange had three times higher odds of success than two-stage exchange at two years, challenging the standard preference for staged treatment."
       ]
     },
     {
@@ -53,134 +53,139 @@
         "Journal Article"
       ],
       "link": "https://pubmed.ncbi.nlm.nih.gov/41923655/",
-      "score": 88,
-      "score_reasoning": "Comprehensive systematic review and meta-analysis of arthroscopy infection risk factors across multiple joints (125 studies, 426,920 patients) published in AJSM with high clinical relevance for infection prevention.",
+      "score": 89,
+      "score_reasoning": "Large systematic review and meta-analysis from AJSM identifying infection risk factors across multiple joints with 125 studies, providing actionable clinical guidance.",
       "bullets": [
-        "Arthroscopic infection risk increases significantly with steroid injections within 4 weeks of surgery, with intraoperative injection carrying 6 times higher risk than no steroid use.",
-        "Obesity (BMI 30-40) increases infection risk by 29% and morbid obesity (BMI >40) by 76% compared to normal weight patients undergoing arthroscopy.",
-        "Elbow arthroscopy has the highest infection rate at 2.3% while shoulder, hip, and knee procedures have rates below 1%."
+        "Arthroscopic infection rates vary by joint, with elbow highest at 2.3% and shoulder lowest at 0.47%.",
+        "Steroid injections increase infection risk most when given intraoperatively or within 2 weeks preoperatively.",
+        "Obesity (BMI over 30), diabetes, and smoking all significantly increase post-arthroscopic infection rates."
       ]
     },
     {
-      "pmid": "41921831",
-      "title": "Polymerase Chain Reaction as an Adjunct to Conventional Culture for Periprosthetic Joint Infection Diagnosis.",
+      "pmid": "41921058",
+      "title": "Surgical Treatment of Recurrent Lumbar Disc Herniation: To Fuse or Not To Fuse: A Single-Center Analysis of Clinical and Radiographic Characteristics and Surgical Outcomes of 450 Patients.",
       "authors": [
-        "Sarfraz A",
-        "Ruff G",
-        "DePillis R",
-        "Wang GH",
-        "Otto C",
-        "Pham V",
-        "Schwarzkopf R",
-        "Aggarwal VK"
+        "Fischer G",
+        "Kilian E",
+        "Sch\u00f6mig F",
+        "Vitale J",
+        "Oriordan D",
+        "Puhakka J",
+        "Reitmeir R",
+        "Ropelato M",
+        "Haschtmann D",
+        "Kleinst\u00fcck F",
+        "Fekete T",
+        "Jeszenszky DJ",
+        "Porchet F",
+        "Vajkoczy P",
+        "Galbusera F",
+        "Loibl M"
       ],
-      "authors_short": "Sarfraz A, Ruff G, et al.",
-      "journal": "The Journal of arthroplasty",
-      "journal_abbrev": "J Arthroplasty",
-      "year": "2026",
-      "abstract": "BACKGROUND: Periprosthetic joint infection (PJI) remains one of the most challenging complications after total joint arthroplasty (TJA). While conventional culture remains the standard for identification of causative pathogens in PJI, rapid identification techniques such as polymerase chain reaction (PCR) are becoming increasingly popular, with little comparative data. METHODS: A retrospective review was performed on a database of consecutive patients who underwent workup for PJI at a tertiary referral center from January 1, 2023, to May 31, 2025. Patients who underwent both standard synovial fluid culture and a PCR panel on the same day were included. Synovial fluid culture was used as the reference standard, and test result concordance and turnaround time were assessed. RESULTS: Results from the PCR panel showed strong agreement with synovial fluid culture in the 225 cases analyzed, with 88% culture-positive agreement. The PCR false negatives were due to organisms not included in the PCR panel (n = six), a false-positive culture from contamination (n = one), and a patient who had a PJI due to Candida parapsilosis (n = two). When only considering true positives with organisms included in the panel, the PCR displayed a 97.1% culture-positive agreement. The panel also detected organisms in eight culture-negative cases (94.7% culture-negative agreement). Those cases each met the 2018 International Consensus Meeting definition of PJI, were treated as PJIs, and their negative culture results were hypothesized to be due to antibiotic use before culture. The panel's turnaround time (TAT) (median 8.4 hours) is significantly faster than both culture-positive (P < 0.001) (69.2 hours) and culture-negative (P < 0.001) (139.5 hours) results from synovial fluid culture. CONCLUSIONS: The high concordance between the panel and conventional culture techniques suggests that PCR may be added as an adjunctive diagnostic tool for PJI workup after TJA. Our results also suggest that PCR may be more accurate than fluid culture in patients who have current antibiotic usage. The PCR's advantage of rapid TAT is particularly helpful in the timely optimization of antibiotic therapy.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41921831/",
-      "score": 85,
-      "score_reasoning": "High-quality PCR vs culture comparison study for PJI diagnosis (225 cases) published in JAR with strong concordance data and immediate clinical applicability for infection workup.",
-      "bullets": [
-        "PCR testing for periprosthetic joint infection shows 97% agreement with synovial fluid culture when organisms are included in the PCR panel.",
-        "PCR detects bacteria in some culture-negative cases, particularly in patients who received antibiotics before sample collection.",
-        "PCR results are available in 8 hours compared to 69 hours for positive cultures and 140 hours for negative cultures."
-      ]
-    },
-    {
-      "pmid": "41912104",
-      "title": "High Mortality in Patients Presenting with Periprosthetic Joint Infection and Concomitant Sepsis.",
-      "authors": [
-        "Tran DH",
-        "Yang KJ",
-        "Ha JH",
-        "Hand R",
-        "Schmitt DR",
-        "Brown N"
-      ],
-      "authors_short": "Tran DH, Yang KJ, et al.",
-      "journal": "The Journal of arthroplasty",
-      "journal_abbrev": "J Arthroplasty",
-      "year": "2026",
-      "abstract": "BACKGROUND: Periprosthetic joint infection (PJI) has a five-year mortality rate comparable to many cancers and can progress to life-threatening sepsis. The aim of this study was to investigate the mortality of patients presenting with simultaneous PJI and sepsis after hip and knee arthroplasty. METHODS: A retrospective chart review was performed on patients from an academic center between 2005 and 2022. Patients who underwent total joint arthroplasty (TJA), developed PJI, and presented for revision were identified. Septic patients met two or more systemic inflammatory response syndrome criteria and had suspected or confirmed bacteremia. The study included 306 admitted patients who had PJI. On admission, 43 patients (14%) had sepsis, while 263 did not (85.9%). The analysis was divided by knee or hip procedure, with 121 hip patients and 185 knee patients. Patient demographics, comorbidities, complications, and follow-up data were collected. Descriptive and univariate statistical analyses were conducted. RESULTS: The all-cause mortality rate during follow-up was 35 of 43 (81.4%) in patients who presented with sepsis versus 133 of 263 (50.6%) in patients who presented without sepsis. The estimated probability of survival up to one year for septic patients was 77% (95% confidence interval (CI): 63 to 94) versus 92% for non-septic patients (95% CI: 87 to 96) for knee patients and 42% (95% CI: 23 to 81) versus 93% (95% CI: 89 to 98) for hip patients. Each 10-year increase in age at time of admission is associated with a 29% increase in the risk of all-cause mortality (HR = 1.29, 95% CI: 1.08 to 1.45; P =0.005) for hip patients and a 44% increase for knee patients (HR=1.44 95% CI: 1.25 to 1.64; P = 0.000007). CONCLUSION: Simultaneous PJI and sepsis is associated with a high mortality rate, even after adjusting for age and comorbidities.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41912104/",
-      "score": 82,
-      "score_reasoning": "Prospective multicenter study of sepsis and PJI mortality (306 patients) published in JAR showing critically important 81% mortality rate in septic patients with immediate clinical implications.",
-      "bullets": [
-        "Patients with periprosthetic joint infection and sepsis had 81% mortality versus 51% for those with infection alone.",
-        "One-year survival was 77% for septic knee patients and only 42% for septic hip patients compared to over 90% without sepsis.",
-        "Each decade of age increased mortality risk by 29% in hip patients and 44% in knee patients with periprosthetic infection."
-      ]
-    },
-    {
-      "pmid": "41914160",
-      "title": "Biomechanical Differences in Young Patients With True Femoral Retrotorsion: Correlations Between Gait Deviations, Clinical Measurements, and Imaging Data.",
-      "authors": [
-        "Alexander N",
-        "Dreher T",
-        "Lengnick H",
-        "Nieuwland A",
-        "Cip J",
-        "Krautwurst BK"
-      ],
-      "authors_short": "Alexander N, Dreher T, et al.",
-      "journal": "Journal of pediatric orthopedics",
-      "journal_abbrev": "J Pediatr Orthop",
-      "year": "2026",
-      "abstract": "BACKGROUND: Torsional abnormalities of the femur, such as femoral retrotorsion, can significantly impact gait and joint biomechanics in children and adolescents. However, the resulting gait patterns as well as the relationship between static imaging measurements and dynamic gait deviations remain unclear. This study aimed to investigate biomechanical differences in gait between young individuals with true femoral retrotorsion and typically developing peers, examining correlations between gait deviations, clinical measurements, and imaging data. METHODS: A multicenter retrospective study was conducted, including 31 patients with unilateral or bilateral femoral retrotorsion and a control group of typically developing children. Femoral torsion was assessed using MRI or CT, while 3D motion capture was used for gait analysis. Clinical hip rotation was measured, and statistical analyses, including correlation assessments, were performed to evaluate relationships between imaging, clinical, and gait parameters. RESULTS: Patients exhibited significantly increased hip external rotation and out-toeing gait compared with controls. However, no correlation was found between femoral torsion measured by imaging and hip rotation during gait or foot progression angle. In contrast, the midpoint of clinical hip rotation correlated moderately with both hip rotation and foot progression angle during gait. In addition, patients had higher BMI and demonstrated compensatory knee valgus, despite no radiologic evidence of knee malalignment. CONCLUSION: Children and adolescents with femoral retrotorsion exhibit distinct gait deviations, but static imaging alone does not reliably predict dynamic gait patterns. This emphasizes the need for dynamic assessment in clinical decision-making.",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41914160/",
-      "score": 80,
-      "score_reasoning": "Large multicenter retrospective cohort (2,033 patients) published in AJSM demonstrating 80% increased odds of meniscal tears with delayed ACL reconstruction, highly relevant for surgical timing decisions.",
-      "bullets": [
-        "Children with femoral retrotorsion walk with increased hip external rotation and out-toeing compared to normal controls.",
-        "Static MRI or CT measurements of femoral torsion do not correlate with actual gait patterns, while clinical hip rotation exam does predict walking mechanics.",
-        "Patients develop compensatory knee valgus during walking despite having normal knee alignment on imaging studies."
-      ]
-    },
-    {
-      "pmid": "41921051",
-      "title": "Clinical Outcomes Following Open Tibial Fractures in Latin America: A Multicenter Prospective Study.",
-      "authors": [
-        "MacKechnie MC",
-        "Quintero JE",
-        "Amadei R",
-        "Rio M",
-        "Shearer DW",
-        "Bidolegui F",
-        "Madrigal R",
-        "Gonz\u00e1lez Torres JC",
-        "Segovia J",
-        "Salazar Del Villar M",
-        "Vega MO",
-        "Morshed S",
-        "Kohn MA",
-        "Miclau T"
-      ],
-      "authors_short": "MacKechnie MC, Quintero JE, et al.",
+      "authors_short": "Fischer G, Kilian E, et al.",
       "journal": "The Journal of bone and joint surgery. American volume",
       "journal_abbrev": "J Bone Joint Surg Am",
       "year": "2026",
-      "abstract": "BACKGROUND: The study compared health-related quality of life and fracture-healing based on the fixation method following isolated open tibial fractures in Latin America. METHODS: A prospective study was conducted across 18 trauma centers in 8 countries. Adult patients with isolated open tibial diaphyseal fractures were included. The primary outcome measures were Physical Component Summary (PCS) and Mental Component Summary (MCS) scores of the 12-Item Short Form Health Survey (SF-12), which was administered at baseline and at follow-up at 6, 12, 26, and 52 weeks. The secondary outcome measure was the modified Radiographic Union Scale for Tibial Fractures (mRUST) score. RESULTS: Of 422 patients, 389 had a baseline evaluation, with 352 (83.4% of the 422) completing at least 1 SF-12 follow-up and 309 (73.2%) completing at least 1 SF-12 follow-up and having radiographic follow-up within 1 year postoperatively. Initial definitive intramedullary nailing and external fixation or casting followed by staged intramedullary nailing were the most common fixation strategies. Both fixation methods were performed with similar frequency for Gustilo-Anderson (GA) Type-I and II injuries. The majority of GA Type-IIIA and IIIB/C fractures were treated with staged fixation. The presence of minimal or superficial contamination did not influence whether fractures were treated with initial intramedullary nailing or staged intramedullary nailing, whereas the presence of deep contamination was associated with staged management. For all GA types combined, initial definitive intramedullary nailing was associated with significantly higher PCS and MCS scores at 1 year than staged fixation. The mRUST scores at 1 year for all GA types combined were higher with initial definitive intramedullary nailing than with staged intramedullary nailing. CONCLUSIONS: Staged treatment remains common in Latin America, even for less severe injuries. Initial intramedullary nailing was associated with improved PCS and MCS scores and significantly higher mRUST scores relative to staged intramedullary nailing. LEVEL OF EVIDENCE: Therapeutic Level II. See Instructions for Authors for a complete description of levels of evidence.",
+      "abstract": "BACKGROUND: Optimal surgical treatment for recurrence of lumbar disc herniation (LDH) remains controversial, with options ranging from repeat microdiscectomy (MD) to instrumented fusion (IF). This study aimed to guide surgical decision-making by analyzing reoperation rates, clinical and radiographic risk factors for treatment failure, and functional outcomes following MD versus IF. METHODS: Prospectively collected data from 450 patients in our outcomes database who underwent surgery for recurrent LDH from 2004 through 2023 were retrospectively analyzed. Clinical assessment included predominant symptoms, neurological deficits, and American Society of Anesthesiologists (ASA) grade. Radiographic assessment included disc height, Pfirrmann grade, facet angle, and Modic changes on magnetic resonance imaging, as well as spinopelvic parameters on standing radiographs. Patient-reported outcomes were assessed using the Core Outcome Measures Index (COMI) and achievement of the minimal clinically important change (MCIC) of \u22652.2 points. Propensity-score matching (PSM) was performed to control for confounding factors. Reoperation rates were analyzed with a minimum 5-year follow-up. RESULTS: Of 450 patients with recurrent LDH, 316 (70.2%) underwent MD and 134 (29.8%) underwent IF. In 192 patients after PSM, IF showed nonsignificantly higher MCIC achievement (odds ratio [OR] = 1.20, 95% confidence interval [CI]: 0.66 to 2.17, p = 0.65) and lower COMI scores compared with the MD group (3.34 \u00b1 2.89 versus 4.01 \u00b1 2.95, p = 0.059; derived Oswestry Disability Index [ODI]: 23.8 versus 28.1). IF demonstrated significantly lower reoperation risk compared with MD (15.7% [116/316] versus 36.7% [21/34], p < 0.001). The reoperations following MD were predominantly subsequent IF (73.3%) and repeat MD (23.3%), while the reoperations after IF were predominantly adjacent segment surgery (57.1%) and hardware revision (33.3%). BMI of \u226535 kg/m2 was a significant predictor of reoperation after MD (univariate OR = 3.63, p = 0.039), while disc height of <6 mm (OR = 1.97) and Modic type-1 changes (OR = 1.78) showed trends toward increased reoperation risk (both p < 0.10). CONCLUSIONS: Although both procedures achieved clinical improvement, IF demonstrated superior long-term durability as shown by significantly lower reoperation rates over extended follow-up. Our findings support a risk-stratified surgical selection: IF should be strongly considered in patients with BMI of \u226535 kg/m2 and those with progressive disc degeneration, whereas MD remains appropriate for patients without these risk factors. LEVEL OF EVIDENCE: Therapeutic Level III. See Instructions for Authors for a complete description of levels of evidence.",
       "pub_types": [
         "Journal Article"
       ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41921051/",
-      "score": 78,
-      "score_reasoning": "Multicenter prospective study (422 patients) of open tibial fractures in Latin America published in JBJS with good sample size and clinical relevance for trauma outcomes.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41921058/",
+      "score": 86,
+      "score_reasoning": "Large retrospective study from JBJS comparing 450 patients with recurrent lumbar disc herniation, addressing surgical decision-making with propensity matching.",
       "bullets": [
-        "Open tibial fractures treated with immediate intramedullary nailing had better quality of life scores at one year compared to staged fixation across all Gustilo-Anderson types.",
-        "Immediate nailing also showed superior radiographic healing scores compared to external fixation followed by delayed nailing in this 422-patient Latin American study.",
-        "Staged treatment was commonly used even for lower-grade open fractures, suggesting potential for increased primary nailing in appropriate cases."
+        "For recurrent lumbar disc herniation, fusion had significantly lower reoperation rates than repeat microdiscectomy (15.7% vs 36.7%) over 5+ years in 450 patients.",
+        "Patients with BMI over 35 kg/m2 had 3.6 times higher risk of needing another operation after repeat microdiscectomy compared to normal weight patients.",
+        "Both procedures improved symptoms similarly, but fusion provides better long-term durability especially in obese patients and those with advanced disc degeneration."
+      ]
+    },
+    {
+      "pmid": "41881207",
+      "title": "Untreated Onychomycosis Prior to Total Joint Arthroplasty is Associated with an Increased Risk of Periprosthetic Joint Infection.",
+      "authors": [
+        "Shen V",
+        "Tan D",
+        "Pydi R",
+        "Ranson R",
+        "Sterling R",
+        "Martinez JV"
+      ],
+      "authors_short": "Shen V, Tan D, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Onychomycosis, a fungal infection of the nail, is often perceived as a benign condition. The purpose of this study was to evaluate whether onychomycosis is associated with an increased risk of periprosthetic joint infection (PJI) in patients undergoing total joint arthroplasty (TJA). METHODS: Patients who underwent total knee arthroplasty (TKA) and total hip arthroplasty (THA) were identified using a large national database. Control cohorts of patients who did not have a history of onychomycosis were 1:1 propensity score matched to comparison cohorts of patients who had onychomycosis diagnosed within the year prior to their surgery. The comparison cohorts were further stratified by receipt of antifungal treatment. The 90-day surgical site infection (SSI) and one-year PJI and reoperation rates were assessed. There was a total of 7,530 patients who had a history of onychomycosis, of which 4,620 patients underwent TKA, and 2,910 patients underwent THA. RESULTS: Onychomycosis was associated with increased one-year reoperations [odds ratio (OR): 1.43 (95% confidence interval (CI): 1.04 to 1.97), P = 0.029], but not with SSI or PJI (P > 0.05) after TKA. There were no significant differences in SSI, PJI, or reoperations (P > 0.05) after THA. Subgroup analyses revealed that patients who have onychomycosis and did not receive treatment had an elevated risk of one-year PJI (both TKA and THA: P < 0.05), with TKA patients demonstrating higher one-year reoperation rates [OR: 1.57 (95% CI: 1.10 to 2.25), P = 0.013] and THA patients showing a trend towards significance [OR: 1.53 (95% CI: 0.98 to 2.38), P = 0.060]. CONCLUSION: Untreated onychomycosis was associated with a significantly higher risk of one-year PJI in patients undergoing TJA and may represent a modifiable risk factor in the preoperative setting. Future research should evaluate whether treatment of onychomycosis reduces the risk of PJI and reoperations.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41881207/",
+      "score": 83,
+      "score_reasoning": "Large database study from TJA on onychomycosis and PJI risk with 7,530 patients, providing novel insight into an underrecognized risk factor.",
+      "bullets": [
+        "Untreated onychomycosis before total joint arthroplasty increases one-year periprosthetic joint infection risk in both hip and knee patients.",
+        "Total knee patients with untreated nail fungus have 57% higher reoperation rates at one year compared to matched controls.",
+        "Treating onychomycosis before surgery may reduce infection risk, making it a potentially modifiable preoperative risk factor."
+      ]
+    },
+    {
+      "pmid": "41921833",
+      "title": "Patello-femoral Tracking Optimization in Robotic-Assisted Total Knee Arthroplasty.",
+      "authors": [
+        "Reddy H",
+        "Di Gangi C",
+        "DeGuzman G",
+        "Schaffer O",
+        "Rozell JC",
+        "Hepinstall MS",
+        "Meftah M"
+      ],
+      "authors_short": "Reddy H, Di Gangi C, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Robotic-assisted total knee arthroplasty (RA-TKA) allows for intraoperative component positioning to personalize alignment and gaps. However, traditional trochlear designs not optimized for patellar tracking in kinematic alignment result in femoral internal rotation relative to the surgical transepicondylar axis (TEA). We sought to determine the femoral component alignment's effect on patellar tracking in RA-TKA. METHODS: We retrospectively reviewed 932 RA-TKA cases performed from January 2023 to August 2024 using a computed tomography (CT)-based robotic platform with a single radius femoral component with a 6\u00b0 trochlear sulcus angle. Femoral rotation was defined as internal (IR) and external (ER) relative to TEA. Femoral coronal alignment was defined as varus (Var) or valgus (Val) relative to the mechanical axis. Patient-reported outcomes were collected at six weeks, three months, and one year postoperatively. Outcomes were analyzed using one-way analyses of variance and Chi-square tests. RESULTS: There were 445 (48%) Var-ER, 242 (26%) Val-ER, 105 (11%) Var-IR, and 141 (15%) Val-IR cases. Mean femoral component rotation (\u00b0 external) was Var-ER: 2.8\u00b0 (range, 0.2 to 6.5); Val-ER: 2.4\u00b0 (range, 0.1 to 5.0); Var-IR: -0.6\u00b0 (range, -3.4 to 0); and Val-IR: -1.0\u00b0 (range, -4.2 to 0). There were three patella-related complications, two of which had further reoperations, all of which occurred in the Val-IR cohort (P < 0.001). Knee Injury and Osteoarthritis Outcome for Joint Replacement (KOOS, JR) at six weeks was lowest in the Var-ER cohort (52.3, P < 0.039). Planned femoral IR had no statistically significant impact on three-month and one-year KOOS, JR scores; there were no differences in Patient-Reported Outcomes Measurement Information System (PROMIS) scores at postoperative intervals studied. CONCLUSION: Planned femoral IR was not associated with statistically significant differences in patient-reported outcomes beyond six weeks postoperatively. However, all patella-related complications occurred in the Val-IR cohort. We caution surgeons against placing excessive combined valgus and IR with femoral implants designed with narrower trochlear sulcus angles.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41921833/",
+      "score": 81,
+      "score_reasoning": "Large retrospective study from TJA on robotic TKA with 932 cases, addressing contemporary surgical technique with direct clinical relevance.",
+      "bullets": [
+        "In 932 robotic total knee arthroplasties, all three patella-related complications requiring reoperation occurred in knees with combined valgus and internal rotation femoral component positioning.",
+        "Planned femoral internal rotation did not significantly affect patient outcomes beyond six weeks compared to external rotation positioning.",
+        "Surgeons should avoid excessive combined valgus and internal rotation when using femoral components with narrow trochlear sulcus angles due to increased patella complication risk."
+      ]
+    },
+    {
+      "pmid": "41914353",
+      "title": "Prevalence of Medial Meniscus Injury After Delayed ACL Reconstruction.",
+      "authors": [
+        "Nickelberry C",
+        "Laxson S",
+        "Lapite IO",
+        "Haddock AT",
+        "Yim A",
+        "Abdul Rahman HQ",
+        "Nhem Z",
+        "Phan A",
+        "Yoo JU",
+        "Brady JM"
+      ],
+      "authors_short": "Nickelberry C, Laxson S, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: The menisci serve as secondary stabilizers in the knee, and anterior cruciate ligament (ACL) tears have been associated with meniscal tears. Previous studies have indicated that a delay \u226512 months is associated with development of new meniscal pathology in an ACL-deficient knee. Some studies have indicated that the time period might be shorter in the pediatric and adolescent population, and other predictive factors remain poorly defined. PURPOSE: To examine the association between time, patient-related factors, and the extent and location of meniscal pathology for patients of all ages with ACL reconstruction. STUDY DESIGN: Cohort study (prognosis); Level of evidence, 3. METHODS: This multicenter retrospective cohort analysis of 2033 patients with ACL reconstruction, aged 9 to 73 years, included those who underwent ACL reconstruction between 2013 and 2023. Multivariable logistic regression analysis was used to model meniscal tear patterns based on age, sex, activity level, and surgery interval. RESULTS: Delayed ACL reconstruction (>120 days postinjury) was associated with a significantly higher prevalence of medial meniscus tears (P < .001). Multivariable analyses revealed that delayed surgery increased the odds of medial meniscus tears by 80% (adjusted odds ratio [aOR], 1.80; 95% CI, 1.47-2.21; P < .001) and both medial and lateral tears by 47% (aOR, 1.47; 95% CI, 1.10-1.97; P < .009). Furthermore, male sex was associated with an elevated prevalence for meniscal tears at all time points compared to female sex, demonstrating 43% higher odds of medial meniscus tears (aOR, 1.43; 95% CI, 1.18-1.74; P < .001), 61% higher odds of lateral meniscus tears (aOR, 1.61; 95% CI, 1.34-1.93; P < .001), and 50% higher odds of both medial and lateral meniscus tears (aOR, 1.50; 95% CI, 1.13-1.98; P < .005). CONCLUSION: These results highlight the importance of timely surgical management to mitigate progressive intra-articular damage, with special consideration for male athletes and patients at high risk for delayed intervention.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41914353/",
+      "score": 75,
+      "score_reasoning": "Large retrospective study from AJSM on ACL reconstruction timing with 2,033 patients, providing guidance on surgical timing decisions.",
+      "bullets": [
+        "ACL reconstruction delayed beyond 120 days increases medial meniscus tear risk by 80% compared to earlier surgery",
+        "Male patients have 43% higher odds of medial meniscus tears and 61% higher odds of lateral meniscus tears at all time points",
+        "Early ACL reconstruction within 4 months reduces progressive meniscal damage, especially important for male athletes"
       ]
     },
     {
@@ -205,39 +210,72 @@
         "Journal Article"
       ],
       "link": "https://pubmed.ncbi.nlm.nih.gov/41903677/",
-      "score": 68,
-      "score_reasoning": "Large national database study (420,053 patients) published in JAR examining early dislocation outcomes after THA with landmark survivorship analysis and high clinical relevance.",
+      "score": 63,
+      "score_reasoning": "Large database study from JSE on shoulder arthroplasty projections with contemporary data, providing important epidemiological insights for practice planning.",
       "bullets": [
-        "Shoulder arthroplasty incidence increased 248% from 2015-2025, showing the highest proportional growth rate among major joint replacements at 12.4% annually.",
-        "By 2040, shoulder arthroplasty volumes are projected to increase 73-397% depending on modeling approach, with post-COVID trends suggesting even higher growth potential.",
-        "Despite rapid growth, shoulder arthroplasty remains less common than hip or knee replacement but represents the fastest expanding segment of orthopaedic arthroplasty practice."
+        "Shoulder arthroplasty volume increased 248% from 2015-2025, showing the fastest proportional growth rate among major joint replacements at 12.4% annually.",
+        "By 2040, shoulder arthroplasty cases are projected to increase 73-397% depending on modeling approach, with post-COVID acceleration suggesting even higher growth potential.",
+        "Despite rapid growth, shoulder arthroplasty remains less common than hip or knee replacement but represents the fastest expanding segment of orthopaedic arthroplasty."
       ]
     },
     {
-      "pmid": "41882938",
-      "title": "Hip Arthroscopy in Patients With Acetabular Dysplasia: A Systematic Review of Clinical Outcomes at Long-term Follow-up.",
+      "pmid": "41911001",
+      "title": "How Should Hip Instability Be Clinically Diagnosed? Consensus Statements From a Scoping Review and an International Multidisciplinary Delphi Study.",
       "authors": [
-        "Sparks CA",
-        "Monty TL",
-        "Brinkman JC",
-        "Barton KI",
-        "Nho SJ"
+        "Karimijashni M",
+        "Beaul\u00e9 PE",
+        "Carsen S",
+        "Clohisy J",
+        "Sink E",
+        "Zaltz I",
+        "Grammatopoulos G",
+        "Pfalzgraf-Reny A",
+        "Bechiau C",
+        "Poitras S"
       ],
-      "authors_short": "Sparks CA, Monty TL, et al.",
-      "journal": "The American journal of sports medicine",
-      "journal_abbrev": "Am J Sports Med",
+      "authors_short": "Karimijashni M, Beaul\u00e9 PE, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
       "year": "2026",
-      "abstract": "BACKGROUND: Hip arthroscopy has shown satisfactory outcomes for the treatment of intra-articular pathology and femoroacetabular impingement syndrome (FAIS) in the setting of acetabular dysplasia at short- and mid-term follow-up. However, the long-term outcomes remain less understood. PURPOSE: To systematically review the literature to determine patient-reported outcomes (PROs), clinically significant outcome (CSO) achievement, reoperation rates, and predictors of failure in patients with acetabular dysplasia undergoing hip arthroscopy at long-term follow-up. STUDY DESIGN: Systematic review; Level of evidence, 4. METHODS: Three databases were searched around the following terms: hip arthroscopy, dysplasia, and long-term follow-up. Articles available in English, presenting original data, and reporting on a mean follow-up of \u226510 years after primary hip arthroscopy using either PROs, CSOs, or conversion to total hip arthroplasty (THA) and/or revision surgery were included. Quality assessment was completed using Methodological Index for Non-Randomized Studies (MINORS) assessment. RESULTS: Five studies (555 hips) were included in the systematic review: patients had a mean age of 30 to 41 years, 13% to 88% of patients were female, and follow-up ranged from 9.6 to 12 years. MINORS assessment ranged from 11 to 21. All studies included PROs and reported statistically significant improvement for most PROs. The most frequent PRO was the Modified Harris Hip Score (mHHS) (n = 5). All studies reported CSO achievement, with mHHS and Hip Outcome Score-Sport Specific (HOS-SS) being the most common (n = 4). Revision surgery and conversion to THA ranged from 2.6% to 15.2% and from 2.6% to 23.7%, respectively across dysplasia cohorts. The most common definition of failure was conversion to THA, and T\u00f6nnis angle was the most common predictor of failure. Four studies made comparisons to a nondysplasia group, with 1 study finding inferior HOS-SS and inferior achievement of Patient Acceptable Symptom State across multiple PROs in the dysplasia group. All 4 comparative studies found no differences in rates of revision surgery or conversion to THA between groups. CONCLUSION: Hip arthroscopy can reliably provide durable and clinically meaningful improvements for the treatment of intra-articular pathology and FAIS in patients with acetabular dysplasia at long-term follow-up, with comparable rates of revision surgery and conversion to THA to nondysplastic cohorts, although select dysplastic populations may demonstrate inferior patient-reported outcomes.",
+      "abstract": "BACKGROUND: Although several clinical signs have been proposed for diagnosing atraumatic hip instability, the condition remains poorly defined because of the absence of standardized diagnostic criteria. To address this gap, a Delphi consensus study with an international panel of experts to establish standardized clinical statements for the diagnostic criteria of hip instability was conducted. QUESTIONS/PURPOSES: The objective was to reach consensus on the following questions: (1) What are typical presenting symptoms of hip instability? (2) What physical examination should be used to assess hip instability in patients presenting with symptoms of hip instability? (3) What risk factors are associated with patients presenting with symptomatic hip instability? METHODS: A consensus study using the modified Delphi technique was conducted in accordance with the Accurate Consensus Reporting Document (ACCORD) guideline. The consensus meeting was held during the 15th Symposium on Joint Preserving and Minimally Invasive Surgery of the Hip, which took place in Qu\u00e9bec City, Qu\u00e9bec, Canada, in June 2025. The process involved a multidisciplinary steering committee and a diverse panel of 100 international participants representing 13 countries. Following a rapid scoping review, statements were developed and sent to participants 1 week prior to the meeting. These statements were voted across two Delphi rounds during the meeting, with consensus defined as \u2265 75% agreement. RESULTS: Clinically, three physical examination tests, the abduction-hyperextension-external rotation (AB-HEER), prone instability, and anterior apprehension (HEER) tests, achieved consensus as clinically useful to assess hip instability. The flexion-abduction-external rotation (FABER) test and hip flexion + rotation arc of 200\u00b0 did not reach consensus. Symptomatically, consensus was reached on patients reporting anterior hip pain during daily activities such as sitting, squatting, or participating in sports; mechanical symptoms such as popping, clicking, or grinding; and subjective sensations of looseness or instability. Female sex and hip dysplasia were agreed upon as key risk factors associated with atraumatic hip instability. Younger age as a potential risk factor did not reach consensus. CONCLUSION: Individual physical examination tests assess different components of hip instability. As such, the use of a combination of tests alongside consideration of symptoms and relevant risk factors has been suggested to enhance diagnostic specificity and produce higher assessment accuracy. Also, further research is warranted to assess other psychometric properties of these tests to develop a comprehensive diagnostic framework for atraumatic hip instability. CLINICAL RELEVANCE: By outlining key symptoms, recommended physical examination maneuvers, and associated risk factors, this study supports a more standardized and reproducible approach to evaluate hip instability in clinical practice. These findings can inform clinical algorithms, enhance diagnostic accuracy, and reduce variability in both research protocols and clinical practice.",
       "pub_types": [
         "Journal Article"
       ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41882938/",
-      "score": 66,
-      "score_reasoning": "Systematic review and meta-analysis of antiresorptive therapy effects on TKA revision published in Arthroplasty Today with 426,920 patients showing reduced revision rates.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41911001/",
+      "score": 60,
+      "score_reasoning": "Consensus study from CORR on hip instability diagnosis using Delphi methodology with international experts, establishing standardized criteria.",
       "bullets": [
-        "Hip arthroscopy in acetabular dysplasia patients shows durable symptom improvement at 10+ year follow-up with conversion to total hip replacement rates of 2.6% to 23.7%.",
-        "Revision surgery rates (2.6% to 15.2%) and conversion to total hip replacement rates are similar between dysplastic and normal hip patients after arthroscopy.",
-        "Higher T\u00f6nnis angle predicts failure after hip arthroscopy in dysplastic patients, though most achieve clinically meaningful outcome improvements long-term."
+        "International experts agreed that three tests are useful for diagnosing hip instability: AB-HEER, prone instability, and anterior apprehension tests.",
+        "Patients with hip instability typically report anterior hip pain with sitting or squatting, mechanical symptoms like clicking, and subjective feelings of looseness.",
+        "Female sex and hip dysplasia are the main risk factors associated with atraumatic hip instability in clinical practice."
+      ]
+    },
+    {
+      "pmid": "41906598",
+      "title": "Clinical Presentation and Patient-reported Function in Children With Sprengel's Deformity.",
+      "authors": [
+        "Lee J",
+        "Buttrick E",
+        "Vuillermin C",
+        "Wall L",
+        "Samora J",
+        "Shah AS"
+      ],
+      "authors_short": "Lee J, Buttrick E, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Sprengel's deformity is a rare congenital anomaly of the scapula, characterized by an elevated position, inferior tilting of the glenoid, and hypoplasia. Due to limited data on the impact of this congenital anomaly, the purpose of this study is to objectively characterize the initial clinical presentation and quantify both the range of motion and patient-reported function in children with Sprengel's deformity. METHODS: Children with Sprengel's deformity were prospectively enrolled into the multicenter Congenital Upper Limb Differences (CoULD) Registry between 2014 and 2023. Shoulder range of motion and patient-reported outcomes (PROs) data were collected from the patient's most recent preoperative follow-up and compared with normative values. PROs included the Pediatric Outcomes Data Collection Instrument (PODCI) and PROMIS Upper Extremity, Pain Interference, Depression, Anxiety, and Peer Relations domains. Univariate analysis was performed to compare unilateral versus bilateral presentation, non-syndromic versus syndromic association, and Cavendish grades. RESULTS: In total, 59 patients (52.5% female) were included with a median age of 5.9 years. Most patients presented with unilateral involvement (96.6%) and without an associated syndrome (78.0%). Cavendish grade III was the most common (50.8%) presentation. Average shoulder abduction (113 degrees) and forward elevation (120 degrees) were significantly less than the normal range (P<0.001). Children with Sprengel's deformity reported less anxiety and depression than the normative population (P=0.017 and 0.028, respectively). Patients scored significantly lower on PODCI Upper Extremity Function, Sports, and Global Function modules than the normative population (P<0.05). PODCI Transfer sub-scores significantly varied by Cavendish classification (P=0.011). Neither bilateral presentation nor syndromic association significantly affected other PROs (P>0.05). CONCLUSIONS: Children with Sprengel's deformity have decreased shoulder range of motion, specifically abduction and forward elevation. Regardless of bilateral or syndromic presentation, patients generally demonstrated significantly lower physical function and sports abilities, but reported less anxiety and depression than population norms. A higher Cavendish grade was associated with worse transfer and mobility function. LEVEL OF EVIDENCE: Therapeutic level II.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41906598/",
+      "score": 48,
+      "score_reasoning": "Retrospective study from FAI on ankle OLT treatment with propensity matching, addressing surgical outcomes for specific pathology.",
+      "bullets": [
+        "Children with Sprengel's deformity have significantly reduced shoulder abduction (113 degrees) and forward elevation (120 degrees) compared to normal ranges.",
+        "Patients report lower physical function and sports abilities than normal children, but surprisingly have less anxiety and depression than population norms.",
+        "Higher Cavendish grades correlate with worse transfer and mobility function, while bilateral presentation and syndromic associations do not significantly affect outcomes."
       ]
     },
     {
@@ -261,35 +299,12 @@
         "Journal Article"
       ],
       "link": "https://pubmed.ncbi.nlm.nih.gov/41902619/",
-      "score": 58,
-      "score_reasoning": "Large retrospective study (1,164 patients) published in JAR examining BMD effects on UKA outcomes showing worse functional scores in osteoporotic patients.",
+      "score": 44,
+      "score_reasoning": "Retrospective study from FAI on ankle instability with 65 patients examining MRI predictors, providing diagnostic guidance.",
       "bullets": [
-        "Arthroscopic ATFL repair alone has 20% recurrence rate for chronic ankle instability, with higher rates when CFL is also injured on preoperative MRI.",
-        "CFL injury on MRI increases recurrence risk 9-fold, particularly with thin or wavy ligament morphology compared to intact CFL.",
-        "Preoperative MRI assessment of CFL morphology should guide whether additional CFL repair is needed during arthroscopic ATFL repair."
-      ]
-    },
-    {
-      "pmid": "41915794",
-      "title": "CORR Insights\u00ae: Gait Function at 20 Years or More After Rotationplasty Shows Pseudo Knee Motion, Decreased Walking Speed, and Increased Energy Cost of Walking.",
-      "authors": [
-        "Leithner A"
-      ],
-      "authors_short": "Leithner A",
-      "journal": "Clinical orthopaedics and related research",
-      "journal_abbrev": "Clin Orthop Relat Res",
-      "year": "2026",
-      "abstract": "",
-      "pub_types": [
-        "Journal Article"
-      ],
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41915794/",
-      "score": 53,
-      "score_reasoning": "Registry study (664 patients) published in JAR examining delayed MCID achievement after TKA with practical implications for patient counseling and expectations.",
-      "bullets": [
-        "Rotationplasty patients develop pseudo knee motion at their ankle joint to compensate for lost knee function during walking.",
-        "Walking speed remains permanently reduced and energy expenditure increases significantly even 20+ years after rotationplasty.",
-        "These gait limitations persist long-term in rotationplasty patients despite functional adaptation of the rotated ankle joint."
+        "Twenty percent of patients had recurrent instability after arthroscopic ATFL repair for chronic ankle instability in this 65-ankle study.",
+        "Preoperative MRI showing CFL injury increased recurrence risk 9-fold, with thin and wavy CFL morphology having the highest rates at 32% and 26%.",
+        "CFL repair during ATFL reconstruction showed a protective trend against instability recurrence in patients with preoperative CFL injury."
       ]
     }
   ],
@@ -297,5 +312,5 @@
     0
   ],
   "status": "pending_approval",
-  "preview_sent_at": "2026-04-02T05:05:21.509834-07:00"
+  "preview_sent_at": "2026-04-02T08:38:20.762926-07:00"
 }
