@@ -1,0 +1,315 @@
+{
+  "brief_date": "2026-04-03",
+  "brief_date_display": "Friday, April 03",
+  "candidates": [
+    {
+      "pmid": "41921050",
+      "title": "One-Stage Versus Two-Stage Exchange Arthroplasty for Periprosthetic Joint Infection: A Prospective Randomized Trial.",
+      "authors": [
+        "Fehring TK",
+        "Otero JE",
+        "Fehring KA",
+        "Curtin BM",
+        "Springer BD",
+        "Della Valle CJ",
+        "Parvizi J",
+        "Hietpas K",
+        "Ready A",
+        "Odum SM"
+      ],
+      "authors_short": "Fehring TK, Otero JE, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: A 2-stage approach is most commonly used to treat periprosthetic joint infection (PJI). Some successful studies of the 1-stage approach were underpowered, lacked a 2-stage comparative group, and excluded patients with draining sinuses, comorbidities, and/or antibiotic-resistant organisms. Given the morbidity and expense associated with 2-stage treatment, we conducted a prospective, multicenter, randomized trial to compare the results of 1- and 2-stage PJI treatment, specifically including patients with draining sinuses, comorbidities, and resistant organisms. METHODS: Patients presenting for surgical treatment of a chronic PJI with a known organism following primary total hip or knee arthroplasty were included (with infection defined by Musculoskeletal Infection Society [MSIS] criteria). Patients with prior revision, culture-negative infection, or fungal infection, or who were immunosuppressed or had soft-tissue involvement precluding wound closure, were excluded. Patients were classified according to the McPherson host staging system. Clinical success was defined as (1) no clinical failure or reinfection with the same or new organism; (2) no reoperation for PJI; and (3) no PJI-related death. A double-instrument setup was used for all patients, as were similar irrigation and antibiotic protocols. A total of 323 patients (166 one-stage; 157 two-stage) were randomized. Groups were similar with respect to demographics and host classification. After excluding patients who died or were lost to follow-up, 258 of the 323 patients had 2-year follow-up (135 one-stage and 123 two-stage). The rate of patient loss to follow-up was similar between the treatment groups. RESULTS: Sixteen patients in the 1-stage group and 9 patients in the 2-stage group died prior to 2-year follow-up. Overall, the 2-year success rate of 1-stage treatment was 97% (131 of 135), while the success of 2-stage treatment was 91% (112 of 123) (p = 0.04). Compared with the 2-stage group, the 1-stage group had 3-times the odds of overall success in a regression analysis (unadjusted odds ratio = 3.22 [95% confidence interval = 1.0 to 10.38]). After adjusting for specific variables (McPherson host grade, resistant organism, and draining sinuses), 1-stage treatment also had 3-times the odds of success. CONCLUSIONS: The results of this prospective randomized trial indicated that 1-stage treatment (97% success) was statistically noninferior to 2-stage treatment (91% success) when treating chronic PJI following primary total hip or knee arthroplasty, provided the protocols described here are explicitly followed. Extrapolation to other patient cohorts and clinical situations should be avoided. LEVEL OF EVIDENCE: Therapeutic Level I. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41921050/",
+      "score": 95,
+      "score_reasoning": "Prospective randomized trial comparing one-stage vs two-stage PJI treatment published in JBJS with large sample size and high clinical relevance for joint replacement surgeons.",
+      "bullets": [
+        "Single-stage exchange had 97% success versus 91% for two-stage exchange in treating chronic periprosthetic joint infections after primary hip or knee replacement.",
+        "Study included patients with draining sinuses, comorbidities, and antibiotic-resistant organisms that previous trials excluded.",
+        "Single-stage treatment showed three times higher odds of success compared to two-stage when following strict surgical and antibiotic protocols."
+      ]
+    },
+    {
+      "pmid": "41921058",
+      "title": "Surgical Treatment of Recurrent Lumbar Disc Herniation: To Fuse or Not To Fuse: A Single-Center Analysis of Clinical and Radiographic Characteristics and Surgical Outcomes of 450 Patients.",
+      "authors": [
+        "Fischer G",
+        "Kilian E",
+        "Sch\u00f6mig F",
+        "Vitale J",
+        "Oriordan D",
+        "Puhakka J",
+        "Reitmeir R",
+        "Ropelato M",
+        "Haschtmann D",
+        "Kleinst\u00fcck F",
+        "Fekete T",
+        "Jeszenszky DJ",
+        "Porchet F",
+        "Vajkoczy P",
+        "Galbusera F",
+        "Loibl M"
+      ],
+      "authors_short": "Fischer G, Kilian E, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Optimal surgical treatment for recurrence of lumbar disc herniation (LDH) remains controversial, with options ranging from repeat microdiscectomy (MD) to instrumented fusion (IF). This study aimed to guide surgical decision-making by analyzing reoperation rates, clinical and radiographic risk factors for treatment failure, and functional outcomes following MD versus IF. METHODS: Prospectively collected data from 450 patients in our outcomes database who underwent surgery for recurrent LDH from 2004 through 2023 were retrospectively analyzed. Clinical assessment included predominant symptoms, neurological deficits, and American Society of Anesthesiologists (ASA) grade. Radiographic assessment included disc height, Pfirrmann grade, facet angle, and Modic changes on magnetic resonance imaging, as well as spinopelvic parameters on standing radiographs. Patient-reported outcomes were assessed using the Core Outcome Measures Index (COMI) and achievement of the minimal clinically important change (MCIC) of \u22652.2 points. Propensity-score matching (PSM) was performed to control for confounding factors. Reoperation rates were analyzed with a minimum 5-year follow-up. RESULTS: Of 450 patients with recurrent LDH, 316 (70.2%) underwent MD and 134 (29.8%) underwent IF. In 192 patients after PSM, IF showed nonsignificantly higher MCIC achievement (odds ratio [OR] = 1.20, 95% confidence interval [CI]: 0.66 to 2.17, p = 0.65) and lower COMI scores compared with the MD group (3.34 \u00b1 2.89 versus 4.01 \u00b1 2.95, p = 0.059; derived Oswestry Disability Index [ODI]: 23.8 versus 28.1). IF demonstrated significantly lower reoperation risk compared with MD (15.7% [116/316] versus 36.7% [21/34], p < 0.001). The reoperations following MD were predominantly subsequent IF (73.3%) and repeat MD (23.3%), while the reoperations after IF were predominantly adjacent segment surgery (57.1%) and hardware revision (33.3%). BMI of \u226535 kg/m2 was a significant predictor of reoperation after MD (univariate OR = 3.63, p = 0.039), while disc height of <6 mm (OR = 1.97) and Modic type-1 changes (OR = 1.78) showed trends toward increased reoperation risk (both p < 0.10). CONCLUSIONS: Although both procedures achieved clinical improvement, IF demonstrated superior long-term durability as shown by significantly lower reoperation rates over extended follow-up. Our findings support a risk-stratified surgical selection: IF should be strongly considered in patients with BMI of \u226535 kg/m2 and those with progressive disc degeneration, whereas MD remains appropriate for patients without these risk factors. LEVEL OF EVIDENCE: Therapeutic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41921058/",
+      "score": 92,
+      "score_reasoning": "Large retrospective study (450 patients) on recurrent lumbar disc herniation treatment published in JBJS with excellent clinical applicability and propensity-score matching methodology.",
+      "bullets": [
+        "In 450 patients with recurrent lumbar disc herniation, fusion had significantly lower reoperation rates than repeat microdiscectomy (15.7% vs 36.7%) over 5+ years.",
+        "Patients with BMI over 35, disc height under 6mm, or Modic type 1 changes had higher failure rates with repeat microdiscectomy and should be considered for fusion.",
+        "Both procedures improved symptoms similarly, but fusion provides better long-term durability while microdiscectomy remains appropriate for lower-risk patients."
+      ]
+    },
+    {
+      "pmid": "41925673",
+      "title": "Thirty-Six Percent Conversion to Surgery Rate for Nonsurgical Treatment of Complete and Partial Distal Biceps Tears.",
+      "authors": [
+        "Schultz MJ",
+        "Riebesell S",
+        "Kwan S",
+        "Radack T",
+        "Rivlin M",
+        "Tulipan J"
+      ],
+      "authors_short": "Schultz MJ, Riebesell S, et al.",
+      "journal": "The Journal of hand surgery",
+      "journal_abbrev": "J Hand Surg Am",
+      "year": "2026",
+      "abstract": "PURPOSE: This purpose of this study was to evaluate the patient-reported outcomes of surgically and nonsurgically treated complete and partial distal biceps tears (DBTs) and report the conversion-to-surgery rate for patients initially treated nonsurgically. METHODS: A retrospective cohort study was conducted of patients with DBTs treated surgically or nonsurgically at a single, large institution. Patients were identified through an international classification of disease code query of our institution's database from January 1, 2018, to December 31, 2022. Records were reviewed for demographics and to confirm DBT diagnosis via magnetic resonance imaging. Patients completed shortened Disabilities of the Arm, Shoulder, and Hand (QuickDASH) questionnaires for treatment and outcome assessment. Regression analyses were performed to compare QuickDASH scores and the rate of achieving a patient-acceptable symptom state (PASS). RESULTS: Of 1,549 patients surveyed, 488 responses were received (32% response rate), with a mean follow-up of 43.9 months. Among respondents, 423 were treated surgically, and 65 were treated nonsurgically. The conversion-to-surgery rate was 36%, with no significant differences between partial (34%) and complete tears (39%) (P = .7). For complete tears, regression analysis found that surgery was associated with better QuickDASH scores (adjusted mean difference -4.92, 95% confidence interval [CI] -9.75 to -0.09), but there was no difference in PASS achievement rate (odds ratio 3.01, 95% CI 0.90-8.69). For partial tears, there was no difference in QuickDASH score or PASS achievement rate between treatment groups; however, female sex was a predictor of worse QuickDASH scores (adjusted mean difference 25.50, 95% CI 13.65-37.35). CONCLUSIONS: Surgical management of DBTs was a predictor of improved patient-reported outcomes only for patients with complete tears. For patients initially treated nonsurgically, the conversion-to-surgery rate was 36%. Nonsurgical treatment of DBTs remains a reasonable first-line option as most patients achieve an acceptable symptom state. TYPE OF STUDY/LEVEL OF EVIDENCE: Therapeutic III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41925673/",
+      "score": 85,
+      "score_reasoning": "Large retrospective cohort study (488 responses) on distal biceps tears published in Journal of Hand Surgery with strong clinical utility for hand surgeons.",
+      "bullets": [
+        "36% of patients with distal biceps tears initially treated nonsurgically eventually required surgery, with similar rates for complete and partial tears.",
+        "Surgery provided better functional outcomes than nonsurgical treatment only for complete distal biceps tears, not partial tears.",
+        "Most patients with distal biceps tears achieved acceptable symptoms with nonsurgical treatment, making it a reasonable first-line option."
+      ]
+    },
+    {
+      "pmid": "41923655",
+      "title": "Risk Factors for Infection After Ankle, Knee, Hip, Shoulder, or Elbow Arthroscopy: A Systematic Review and Meta-analysis.",
+      "authors": [
+        "Saraf A",
+        "Iwamoto S",
+        "Krishna S",
+        "Young VG",
+        "Bowman EN"
+      ],
+      "authors_short": "Saraf A, Iwamoto S, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Arthroscopy is a commonly performed orthopaedic procedure with postoperative infection risk factors including male sex, tobacco use, and preoperative steroid injections. However, studies focusing on risk factors are limited to single joints with limited numbers of patients; therefore, inconsistencies remain. PURPOSE: To review and analyze predictive risk factors for postarthroscopy infections across arthroscopy of the ankle, knee, hip, shoulder, and elbow. STUDY DESIGN: Systematic review and meta-analysis; Level of evidence, 3. METHODS: The PubMed, Scopus, and Embase databases were searched using terms related to \"arthroscopy\" and \"infection\" to determine risk associated with patient-specific factors. Pooled analysis was conducted using R for smoking, diabetes mellitus (DM), body mass index (BMI) between\u200930 and 40, BMI >40, intraoperative corticosteroid injection (CSI), and preoperative CSI administration at 2-week intervals up to 8 weeks before operation. RESULTS: The search included 1384 studies, of which 125 were determined to meet all inclusion criteria. Postarthroscopic infection risk is significantly increased in patients who had intraoperative intra-articular steroid use (OR, 5.97; 95% CI, 2.66-13.39), steroid use within 2 weeks (OR, 3.36; 95% CI, 2.43-4.65) and 2 to 4 weeks before operation (OR, 1.89; 95% CI, 1.48-2.42), DM (OR, 1.49; 95% CI, 1.24-1.79), BMI of 30 to 40 (OR, 1.29; 95% CI, 1.22-1.37), and BMI >40 (OR, 1.76; 95% CI, 1.41-2.19) and patients who smoked tobacco (OR, 1.59; 95% CI, 1.38-1.83).The overall risk of infection was 0.84%. Across joints, infection rates varied by procedure type. Knee and hip surgeries demonstrated low weighted mean infection rates (0.61% and 0.59%, respectively), as did shoulder procedures (0.47%). Elbow surgeries had the highest mean infection rate (2.3%), and limited data suggested a low rate for ankle procedures (0.27%). CONCLUSION: Significant increases in postoperative infection risk in patients who underwent arthroscopy of the ankle, knee, hip, shoulder, and elbow were noted with intraoperative intra-articular CSI administration or preoperative CSI administration within 4 weeks of surgery, BMI >30, diabetes, and smoking tobacco. Given the prevalence of these risk factors, patient-specific considerations and interventions should be used to mitigate risk and improve patient outcomes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41923655/",
+      "score": 83,
+      "score_reasoning": "Systematic review and meta-analysis on arthroscopy infection risk factors published in AJSM with excellent clinical relevance and comprehensive methodology.",
+      "bullets": [
+        "Steroid injections carry the highest infection risk after arthroscopy, with intraoperative injections increasing risk 6-fold and preoperative injections within 2-4 weeks increasing risk 2-3 fold.",
+        "Obesity doubles infection risk in severely obese patients (BMI >40) compared to a 30% increase in moderately obese patients (BMI 30-40), while diabetes and smoking each increase risk by approximately 50%.",
+        "Elbow arthroscopy has the highest infection rate at 2.3%, followed by knee and hip at 0.6%, shoulder at 0.5%, and ankle at 0.3%."
+      ]
+    },
+    {
+      "pmid": "41923442",
+      "title": "Surgical Timing and Outcomes in Medial Meniscus Posterior Root Tear Repair: A Systematic Review.",
+      "authors": [
+        "Moews LD",
+        "Thamrongskulsiri N",
+        "Morgan JT",
+        "Vega TF",
+        "Perez Lloveras GO",
+        "Casanova F",
+        "Verma NN",
+        "Chahla J"
+      ],
+      "authors_short": "Moews LD, Thamrongskulsiri N, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Medial meniscus posterior root tears (MMPRTs) compromise hoop stress transmission and tibiofemoral load distribution, accelerating degenerative changes comparable with total meniscectomy. While early repair has been recommended, many patients present late because of a delayed diagnosis or an insidious onset of symptoms. The effect of delayed surgical management on outcomes remains unclear. PURPOSE: To systematically review the literature comparing clinical outcomes, radiological progression, and complication rates of MMPRT repair performed at <3 months, 3 to 6 months, and >6 months after the injury. STUDY DESIGN: Systematic review; Level of evidence, 4. METHODS: A systematic search of PubMed, Embase, and Scopus was conducted in accordance with PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines and registered with PROSPERO. A total of 11 studies (366 patients) reporting isolated transtibial pullout repair with a documented time from injury to surgery were included. Extracted data included patient-reported outcome scores (International Knee Documentation Committee [IKDC], Lysholm), osteoarthritis progression by the Kellgren-Lawrence grade, meniscal extrusion, healing status, and surgical failures or complications. RESULTS: Across all surgical timing groups, MMPRT repair resulted in significant functional improvements. Patients treated at <3 months demonstrated the greatest gains (IKDC: +39.0; Lysholm: +44), while those undergoing repair at 3 to 6 months also achieved clinically meaningful improvements (IKDC: +26.5 to +31.8; Lysholm: +25.0 to +40.4). Delayed repair >6 months remained beneficial, with increases of +22.9 in the IKDC score and +33.1 to +36.1 in the Lysholm score. Subgroup analyses confirmed statistically significant improvements in both the IKDC and Lysholm scores at all time points. Osteoarthritis progression by the Kellgren-Lawrence grade was reported in 24.2% of patients treated at <3 months, 30.2% to 52.2% at 3 to 6 months, and 4.8% to 10.0% at >6 months. Magnetic resonance imaging showed variable meniscal extrusion changes, with partial to complete healing observed in both the 3- to 6-month group and >6-month group. Failure rates ranged from 5.9% to 20.9% without a consistent association with surgical timing. CONCLUSION: Both early and delayed repair (<3 months and >6 months, respectively) yielded significant improvements in outcomes for patients with MMPRTs; however, the early repair group had clinically significant increases in patient-reported outcomes over the delayed repair group. Although data were limited by the number and quality of included studies, this finding suggests that while delayed repair of the meniscus root results in worthwhile improvements for properly selected patients and meets the minimal clinically important difference, early treatment of these tears should be pursued to limit the knee's exposure to altered biomechanics and to provide patients with the best chance at complete healing and lasting improvements. REGISTRATION: CRD420251145118 (PROSPERO).",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41923442/",
+      "score": 82,
+      "score_reasoning": "Systematic review on medial meniscus root tear repair timing published in AJSM with high clinical relevance for sports medicine practitioners.",
+      "bullets": [
+        "Medial meniscus posterior root tear repair improves function regardless of timing, but early repair within 3 months provides the greatest improvement in patient outcomes.",
+        "Repair performed after 6 months still provides meaningful functional gains and meets minimal clinically important difference thresholds for knee scores.",
+        "Osteoarthritis progression rates vary inconsistently across timing groups, with failure rates of 6% to 21% showing no clear relationship to surgical delay."
+      ]
+    },
+    {
+      "pmid": "41921833",
+      "title": "Patello-femoral Tracking Optimization in Robotic-Assisted Total Knee Arthroplasty.",
+      "authors": [
+        "Reddy H",
+        "Di Gangi C",
+        "DeGuzman G",
+        "Schaffer O",
+        "Rozell JC",
+        "Hepinstall MS",
+        "Meftah M"
+      ],
+      "authors_short": "Reddy H, Di Gangi C, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Robotic-assisted total knee arthroplasty (RA-TKA) allows for intraoperative component positioning to personalize alignment and gaps. However, traditional trochlear designs not optimized for patellar tracking in kinematic alignment result in femoral internal rotation relative to the surgical transepicondylar axis (TEA). We sought to determine the femoral component alignment's effect on patellar tracking in RA-TKA. METHODS: We retrospectively reviewed 932 RA-TKA cases performed from January 2023 to August 2024 using a computed tomography (CT)-based robotic platform with a single radius femoral component with a 6\u00b0 trochlear sulcus angle. Femoral rotation was defined as internal (IR) and external (ER) relative to TEA. Femoral coronal alignment was defined as varus (Var) or valgus (Val) relative to the mechanical axis. Patient-reported outcomes were collected at six weeks, three months, and one year postoperatively. Outcomes were analyzed using one-way analyses of variance and Chi-square tests. RESULTS: There were 445 (48%) Var-ER, 242 (26%) Val-ER, 105 (11%) Var-IR, and 141 (15%) Val-IR cases. Mean femoral component rotation (\u00b0 external) was Var-ER: 2.8\u00b0 (range, 0.2 to 6.5); Val-ER: 2.4\u00b0 (range, 0.1 to 5.0); Var-IR: -0.6\u00b0 (range, -3.4 to 0); and Val-IR: -1.0\u00b0 (range, -4.2 to 0). There were three patella-related complications, two of which had further reoperations, all of which occurred in the Val-IR cohort (P < 0.001). Knee Injury and Osteoarthritis Outcome for Joint Replacement (KOOS, JR) at six weeks was lowest in the Var-ER cohort (52.3, P < 0.039). Planned femoral IR had no statistically significant impact on three-month and one-year KOOS, JR scores; there were no differences in Patient-Reported Outcomes Measurement Information System (PROMIS) scores at postoperative intervals studied. CONCLUSION: Planned femoral IR was not associated with statistically significant differences in patient-reported outcomes beyond six weeks postoperatively. However, all patella-related complications occurred in the Val-IR cohort. We caution surgeons against placing excessive combined valgus and IR with femoral implants designed with narrower trochlear sulcus angles.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41921833/",
+      "score": 76,
+      "score_reasoning": "Study on robotic-assisted TKA and patellofemoral tracking published in Journal of Arthroplasty with good clinical relevance for modern practice.",
+      "bullets": [
+        "All patella-related complications in 932 robotic knee replacements occurred in patients with combined valgus and internal rotation femoral positioning.",
+        "Planned femoral internal rotation did not affect patient outcomes beyond 6 weeks compared to external rotation positioning.",
+        "Surgeons should avoid excessive valgus plus internal rotation when using femoral implants with narrow trochlear sulcus angles."
+      ]
+    },
+    {
+      "pmid": "41921831",
+      "title": "Polymerase Chain Reaction as an Adjunct to Conventional Culture for Periprosthetic Joint Infection Diagnosis.",
+      "authors": [
+        "Sarfraz A",
+        "Ruff G",
+        "DePillis R",
+        "Wang GH",
+        "Otto C",
+        "Pham V",
+        "Schwarzkopf R",
+        "Aggarwal VK"
+      ],
+      "authors_short": "Sarfraz A, Ruff G, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Periprosthetic joint infection (PJI) remains one of the most challenging complications after total joint arthroplasty (TJA). While conventional culture remains the standard for identification of causative pathogens in PJI, rapid identification techniques such as polymerase chain reaction (PCR) are becoming increasingly popular, with little comparative data. METHODS: A retrospective review was performed on a database of consecutive patients who underwent workup for PJI at a tertiary referral center from January 1, 2023, to May 31, 2025. Patients who underwent both standard synovial fluid culture and a PCR panel on the same day were included. Synovial fluid culture was used as the reference standard, and test result concordance and turnaround time were assessed. RESULTS: Results from the PCR panel showed strong agreement with synovial fluid culture in the 225 cases analyzed, with 88% culture-positive agreement. The PCR false negatives were due to organisms not included in the PCR panel (n = six), a false-positive culture from contamination (n = one), and a patient who had a PJI due to Candida parapsilosis (n = two). When only considering true positives with organisms included in the panel, the PCR displayed a 97.1% culture-positive agreement. The panel also detected organisms in eight culture-negative cases (94.7% culture-negative agreement). Those cases each met the 2018 International Consensus Meeting definition of PJI, were treated as PJIs, and their negative culture results were hypothesized to be due to antibiotic use before culture. The panel's turnaround time (TAT) (median 8.4 hours) is significantly faster than both culture-positive (P < 0.001) (69.2 hours) and culture-negative (P < 0.001) (139.5 hours) results from synovial fluid culture. CONCLUSIONS: The high concordance between the panel and conventional culture techniques suggests that PCR may be added as an adjunctive diagnostic tool for PJI workup after TJA. Our results also suggest that PCR may be more accurate than fluid culture in patients who have current antibiotic usage. The PCR's advantage of rapid TAT is particularly helpful in the timely optimization of antibiotic therapy.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41921831/",
+      "score": 75,
+      "score_reasoning": "PCR vs conventional culture study for PJI diagnosis published in Journal of Arthroplasty with strong clinical utility and good sample size.",
+      "bullets": [
+        "PCR testing shows 97% agreement with synovial fluid culture when organisms are included in the PCR panel, with results available in 8.4 hours versus 69-139 hours for culture.",
+        "PCR detected organisms in 8 culture-negative cases that met PJI criteria, suggesting PCR may be more reliable in patients on antibiotics before testing.",
+        "PCR panels miss organisms not included in their design and may not detect all fungal infections like Candida parapsilosis that cause periprosthetic joint infections."
+      ]
+    },
+    {
+      "pmid": "41914160",
+      "title": "Biomechanical Differences in Young Patients With True Femoral Retrotorsion: Correlations Between Gait Deviations, Clinical Measurements, and Imaging Data.",
+      "authors": [
+        "Alexander N",
+        "Dreher T",
+        "Lengnick H",
+        "Nieuwland A",
+        "Cip J",
+        "Krautwurst BK"
+      ],
+      "authors_short": "Alexander N, Dreher T, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Torsional abnormalities of the femur, such as femoral retrotorsion, can significantly impact gait and joint biomechanics in children and adolescents. However, the resulting gait patterns as well as the relationship between static imaging measurements and dynamic gait deviations remain unclear. This study aimed to investigate biomechanical differences in gait between young individuals with true femoral retrotorsion and typically developing peers, examining correlations between gait deviations, clinical measurements, and imaging data. METHODS: A multicenter retrospective study was conducted, including 31 patients with unilateral or bilateral femoral retrotorsion and a control group of typically developing children. Femoral torsion was assessed using MRI or CT, while 3D motion capture was used for gait analysis. Clinical hip rotation was measured, and statistical analyses, including correlation assessments, were performed to evaluate relationships between imaging, clinical, and gait parameters. RESULTS: Patients exhibited significantly increased hip external rotation and out-toeing gait compared with controls. However, no correlation was found between femoral torsion measured by imaging and hip rotation during gait or foot progression angle. In contrast, the midpoint of clinical hip rotation correlated moderately with both hip rotation and foot progression angle during gait. In addition, patients had higher BMI and demonstrated compensatory knee valgus, despite no radiologic evidence of knee malalignment. CONCLUSION: Children and adolescents with femoral retrotorsion exhibit distinct gait deviations, but static imaging alone does not reliably predict dynamic gait patterns. This emphasizes the need for dynamic assessment in clinical decision-making.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41914160/",
+      "score": 68,
+      "score_reasoning": "Biomechanical study on femoral retrotorsion in young patients published in Journal of Pediatric Orthopedics with good clinical relevance.",
+      "bullets": [
+        "Children with femoral retrotorsion walk with increased hip external rotation and out-toeing compared to normal peers.",
+        "Static imaging measurements of femoral torsion do not correlate with actual gait patterns, but clinical hip rotation range does predict walking mechanics.",
+        "Patients develop compensatory knee valgus during walking despite having normal knee alignment on imaging."
+      ]
+    },
+    {
+      "pmid": "41906973",
+      "title": "Autologous Osteoperiosteal Transplantation Provides Comparable Clinical and Radiologic Outcomes for Lateral and Medial Large Cystic Osteochondral Lesions of the Talus: A Propensity Score-Matched Comparative Analysis.",
+      "authors": [
+        "Yang S",
+        "Liu Z",
+        "Chen Z",
+        "Zhu C",
+        "Hu F",
+        "Shao Q",
+        "Pan J",
+        "Xie X",
+        "Jiang D",
+        "Jiao C",
+        "Hu Y",
+        "Shi W",
+        "Guo Q"
+      ],
+      "authors_short": "Yang S, Liu Z, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Autologous osteoperiosteal transplantation (AOPT) is a promising treatment for large cystic osteochondral lesions of the talus (OLTs), but the influence of lesion laterality remains unclear. The purpose of this study was to compare the clinical and radiologic outcomes of lateral vs medial large cystic OLTs treated with AOPT. METHODS: Patients with lateral or medial large cystic OLTs who underwent AOPT between 2010 and 2023 were retrospectively reviewed. Patients were propensity matched in 1:1 ratio on sex, age, body mass index, affected side, and lesion profiles (area, depth, volume). Clinical outcomes were assessed using the visual analog scale for pain (VAS), the Foot Ankle Outcome Score (FAOS), and the ankle activity score (AAS). The final FAOS score was designated as the primary outcome measure. Radiologic outcomes were evaluated using the MOCART (magnetic resonance observation of cartilage repair tissue) 2.0 ankle score. RESULTS: A total of 22 matched patients per group were included, with a mean follow-up of 84.6\u2009\u00b1\u200945.9\u2009months. The lateral group comprised 20 males and 2 females (mean age, 40.4\u2009\u00b1\u200911.2\u2009years), whereas the medial group included 18 males and 4 females (mean age, 38.0\u2009\u00b1\u20098.4\u2009years). Both groups demonstrated significant improvements in total FAOS scores (lateral: 53.4\u2009\u00b1\u200913.8 to 87.2\u2009\u00b1\u200910.1, P\u2009<\u2009.001; medial: 51.1\u2009\u00b1\u200912.6 to 89.7\u2009\u00b1\u20098.4, P\u2009<\u2009.001) and in all secondary clinical outcomes at final follow-up (all P\u2009<\u2009.001), with no intergroup differences (all P\u2009>\u2009.05). Similarly, there were no significant differences in the total MOCART 2.0 ankle score (73.8\u2009\u00b1\u200910.7 vs 73.0\u2009\u00b1\u20099.9; nonsignificant) or in any of its individual subcomponents. CONCLUSION: This cohort study demonstrated that AOPT yields comparable mid\u2011 to long\u2011term clinical and radiologic outcomes for medial and lateral large cystic OLTs, and that radiologic results were not significantly associated with clinical outcomes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41906973/",
+      "score": 66,
+      "score_reasoning": "Study on ankle OCD treatment outcomes published in Foot & Ankle International with good clinical relevance and propensity matching.",
+      "bullets": [
+        "Autologous osteoperiosteal transplantation produces equivalent clinical outcomes for large cystic osteochondral lesions whether they occur on the medial or lateral talus.",
+        "Both medial and lateral lesions showed significant improvement in pain and function scores at average 7-year follow-up, with no difference between locations.",
+        "MRI appearance of the repair tissue was similar between medial and lateral lesions and did not correlate with clinical outcomes."
+      ]
+    },
+    {
+      "pmid": "41914902",
+      "title": "What Is the Role of American College of Surgeons National Surgical Quality Improvement Program's Risk Calculator in Fracture Surgery?",
+      "authors": [
+        "Martinez FA",
+        "Shin AY",
+        "Wright BH",
+        "Hannon CP",
+        "Pulos N"
+      ],
+      "authors_short": "Martinez FA, Shin AY, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "IMPORTANCE: The American College of Surgeons (ACS) created the National Surgical Quality Improvement Program (NSQIP) risk calculator and database for use across surgical subspecialties and is frequently cited in surgical subspecialty peer-reviewed journals. In addition, Medicare has endorsed clinically using this risk calculator. This risk calculator has not been formally evaluated for use in distal radius fracture surgery. OBJECTIVE: This study aimed to assess the utility of the ACS-NSQIP risk calculator in hand surgery by comparing complication rates predicted by the ACS-NSQIP risk calculator against those observed from an institutional database. DESIGN: Retrospective cohort study between May 2000 and May 2020. SETTING: Academic level 1 trauma center. PARTICIPANTS: Seven hundred sixty-seven patients who underwent of open reduction and internal fixation of 790 distal radius fractures were prospectively enrolled into an institutional database. Patients aged 18 years or older who underwent volar plate fixation within 2 weeks following a distal radius fracture. MAIN OUTCOMES AND MEASURES: The primary study outcomes were the rate of \"any\" complications, as defined by ACS-NSQIP, and the rate of \"hand-related\" complications, as defined by a peer-reviewed journal publication. RESULTS: Overall, 767 patients were identified who sustained 790 distal radius fractures treated with volar plating to make up the cohort of the study. Mean age was 56.9 years, 77.0% were female, and 33.0% were type 23C1 distal radius fractures. ACS-NSQIP predicted an \"any\" complication rate of 1.85% (confidence interval [CI], 1.75 to 1.95). Institutional data observed \"any\" complication rate of 2.15% (CI, 1.01-2.91) within 30 days and 11.14% (CI, 8.99-13.42) for \"long-term\" any. Institutional data observed \"hand-related\" complication rate of 6.84% (CI, 5.18-8.83) within 30 days and 27.72% (CI, 24.56 to 30.89) for \"long-term\" any. CONCLUSIONS AND RELEVANCE: ACS-NSQIP fails to accurately predict the number of \"hand-related\" complications from distal radius fracture surgery. From a health policy, quality control, and clinical standpoint, ACS-NSQIP should be used cautiously with distal radius fracture surgery.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41914902/",
+      "score": 63,
+      "score_reasoning": "Study on fracture surgery risk prediction using ACS-NSQIP published in JAAOS with practical clinical application.",
+      "bullets": [
+        "The ACS-NSQIP risk calculator significantly underestimates complications in distal radius fracture surgery, predicting 1.85% versus observed rates of 6.84% for hand-related complications at 30 days.",
+        "In 767 patients undergoing volar plate fixation for distal radius fractures, long-term hand-related complications occurred in 27.7% of cases, far exceeding NSQIP predictions.",
+        "NSQIP should be used cautiously for preoperative counseling and quality metrics in distal radius surgery due to poor prediction accuracy for hand-specific complications."
+      ]
+    }
+  ],
+  "picks": [
+    1
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-04-03T05:37:43.447542-07:00"
+}
