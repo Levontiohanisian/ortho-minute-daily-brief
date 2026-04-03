@@ -11,9 +11,6 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
       - name: Check and trigger missed pipelines
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -22,18 +19,17 @@ jobs:
           TODAY=$(date -u +%Y-%m-%d)
 
           echo "Current UTC time: $(date -u)"
-          echo "Today: $TODAY"
 
-          # Morning preview should run around noon UTC (5am Pacific)
-          # Check from 12-16 UTC (5am-9am Pacific)
-          if [ "$HOUR_UTC" -ge 12 ] && [ "$HOUR_UTC" -le 16 ]; then
-            echo "Checking if morning preview ran today..."
-            LAST_PREVIEW=$(gh run list --workflow=morning-preview.yml --limit=1 --json createdAt --jq '.[0].createdAt' 2>/dev/null || echo "")
+          # Morning pipeline should run around noon UTC (5am Pacific)
+          # Check from 13-18 UTC (6am-11am Pacific) - give it 1 hour grace
+          if [ "$HOUR_UTC" -ge 13 ] && [ "$HOUR_UTC" -le 18 ]; then
+            echo "Checking if morning pipeline ran today..."
+            LAST_RUN=$(gh run list --workflow=morning-preview.yml --limit=1 --json createdAt --jq '.[0].createdAt' 2>/dev/null || echo "")
 
-            if echo "$LAST_PREVIEW" | grep -q "$TODAY"; then
-              echo "Morning preview already ran today. OK."
+            if echo "$LAST_RUN" | grep -q "$TODAY"; then
+              echo "Morning pipeline already ran today. OK."
             else
-              echo "Morning preview has NOT run today. Triggering now."
+              echo "Morning pipeline has NOT run today. Triggering now."
               gh workflow run morning-preview.yml
             fi
           fi

@@ -1,4 +1,4 @@
-name: Morning Preview - Scrape & Send Preview
+name: Morning Pipeline - Preview and Send
 
 on:
   schedule:
@@ -7,9 +7,9 @@ on:
   workflow_dispatch:
 
 jobs:
-  scrape-and-preview:
+  preview-and-send:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 45
 
     steps:
       - name: Checkout repository
@@ -23,18 +23,19 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run evening pipeline
+      - name: Run combined pipeline (scrape, preview, wait for reply, send)
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           PREVIEW_RECIPIENT: ${{ secrets.PREVIEW_RECIPIENT }}
-        run: python run_evening.py
+          BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
+        run: python run_morning_combined.py
 
-      - name: Commit candidate data
+      - name: Commit data
         run: |
           git config user.name "ortho-minute-bot"
           git config user.email "bot@theorthominute.com"
           git add data/daily/
-          git diff --cached --quiet || git commit -m "Add daily candidates for $(date -u +%Y-%m-%d)"
+          git diff --cached --quiet || git commit -m "Daily brief for $(date -u +%Y-%m-%d)"
           git push
