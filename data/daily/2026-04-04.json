@@ -1,0 +1,318 @@
+{
+  "brief_date": "2026-04-04",
+  "brief_date_display": "Saturday, April 04",
+  "candidates": [
+    {
+      "pmid": "41921050",
+      "title": "One-Stage Versus Two-Stage Exchange Arthroplasty for Periprosthetic Joint Infection: A Prospective Randomized Trial.",
+      "authors": [
+        "Fehring TK",
+        "Otero JE",
+        "Fehring KA",
+        "Curtin BM",
+        "Springer BD",
+        "Della Valle CJ",
+        "Parvizi J",
+        "Hietpas K",
+        "Ready A",
+        "Odum SM"
+      ],
+      "authors_short": "Fehring TK, Otero JE, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: A 2-stage approach is most commonly used to treat periprosthetic joint infection (PJI). Some successful studies of the 1-stage approach were underpowered, lacked a 2-stage comparative group, and excluded patients with draining sinuses, comorbidities, and/or antibiotic-resistant organisms. Given the morbidity and expense associated with 2-stage treatment, we conducted a prospective, multicenter, randomized trial to compare the results of 1- and 2-stage PJI treatment, specifically including patients with draining sinuses, comorbidities, and resistant organisms. METHODS: Patients presenting for surgical treatment of a chronic PJI with a known organism following primary total hip or knee arthroplasty were included (with infection defined by Musculoskeletal Infection Society [MSIS] criteria). Patients with prior revision, culture-negative infection, or fungal infection, or who were immunosuppressed or had soft-tissue involvement precluding wound closure, were excluded. Patients were classified according to the McPherson host staging system. Clinical success was defined as (1) no clinical failure or reinfection with the same or new organism; (2) no reoperation for PJI; and (3) no PJI-related death. A double-instrument setup was used for all patients, as were similar irrigation and antibiotic protocols. A total of 323 patients (166 one-stage; 157 two-stage) were randomized. Groups were similar with respect to demographics and host classification. After excluding patients who died or were lost to follow-up, 258 of the 323 patients had 2-year follow-up (135 one-stage and 123 two-stage). The rate of patient loss to follow-up was similar between the treatment groups. RESULTS: Sixteen patients in the 1-stage group and 9 patients in the 2-stage group died prior to 2-year follow-up. Overall, the 2-year success rate of 1-stage treatment was 97% (131 of 135), while the success of 2-stage treatment was 91% (112 of 123) (p = 0.04). Compared with the 2-stage group, the 1-stage group had 3-times the odds of overall success in a regression analysis (unadjusted odds ratio = 3.22 [95% confidence interval = 1.0 to 10.38]). After adjusting for specific variables (McPherson host grade, resistant organism, and draining sinuses), 1-stage treatment also had 3-times the odds of success. CONCLUSIONS: The results of this prospective randomized trial indicated that 1-stage treatment (97% success) was statistically noninferior to 2-stage treatment (91% success) when treating chronic PJI following primary total hip or knee arthroplasty, provided the protocols described here are explicitly followed. Extrapolation to other patient cohorts and clinical situations should be avoided. LEVEL OF EVIDENCE: Therapeutic Level I. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41921050/",
+      "score": 95,
+      "score_reasoning": "High-impact RCT with large sample size (323 patients) directly addressing optimal surgical treatment for PJI, a major complication in joint arthroplasty with significant clinical implications.",
+      "bullets": [
+        "Single-stage exchange achieved 97% infection cure versus 91% for two-stage exchange in 258 patients with chronic hip and knee periprosthetic joint infections at 2 years.",
+        "One-stage treatment was effective even in patients with draining sinuses, medical comorbidities, and antibiotic-resistant organisms who are typically excluded from single-stage protocols.",
+        "Single-stage exchange offers comparable infection control to two-stage revision while avoiding the morbidity and cost of multiple surgeries and prolonged antibiotic spacer periods."
+      ]
+    },
+    {
+      "pmid": "41934051",
+      "title": "The John N. Insall Award: Reduced Reinfection Rate With Intraosseous Vancomycin Administration at Reimplantation in Two-Stage Revision Total Knee Arthroplasty.",
+      "authors": [
+        "Liu JW",
+        "McNamara CA",
+        "Sullivan TC",
+        "Wininger AE",
+        "Brown TS",
+        "Clyburn TA",
+        "Incavo SJ",
+        "Park KJ"
+      ],
+      "authors_short": "Liu JW, McNamara CA, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Recurrent periprosthetic joint infection (PJI) after two-stage exchange total knee arthroplasty (TKA) is associated with increased morbidity and mortality. Intraosseous (IO) vancomycin has been shown to reduce PJI rates in primary and aseptic revision TKA, but its role in two-stage revision for infection remains unknown. This study aimed to compare reinfection rates following IO vancomycin versus intravenous (IV) antibiotic prophylaxis at the time of reimplantation. METHODS: We conducted a retrospective cohort study of 252 patients who underwent two-stage revision for infected TKA at a single institution between July 2016 and March 2025, of whom 101 received IO vancomycin and 151 received IV antibiotics. Patients in the IO group received IV cefazolin plus 500 mg of vancomycin via IO infusion, while those in the IV group received IV cefazolin with or without IV vancomycin, according to surgeon preference. There were no significant differences in average age, body mass index, or sex between the two groups. Most cases involved chronic infection (92%), with coagulase-negative staphylococci (23%) and methicillin-sensitive Staphylococcus aureus (17%) as the most common organisms. Reinfection rates were compared between groups. RESULTS: Reinfection rates were significantly lower in the IO vancomycin group at one year (6 versus 14%, P = 0.049), two years (9 versus 22%, P = 0.025), and three years (16 versus 30%, P = 0.045) after reimplantation. Logistic regression analyses showed that patients who did not receive IO vancomycin at reimplantation had a nearly threefold increased odds of reinfection at three years (odds ratio 2.9, P = 0.025). Of the 44 reinfections, 39 yielded a positive culture, 33 of 39 (85%) of which were sensitive to vancomycin. CONCLUSIONS: Intraosseous vancomycin administration at the time of reimplantation during two-stage revision TKA was associated with significantly reduced rates of recurrent PJI compared to IV antibiotic prophylaxis alone.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41934051/",
+      "score": 88,
+      "score_reasoning": "John Insall Award winner addressing critical PJI prevention in two-stage revision TKA with large cohort (252 patients) and clinically significant findings on reinfection reduction.",
+      "bullets": [
+        "Intraosseous vancomycin at reimplantation during two-stage revision TKA reduced reinfection rates compared to IV antibiotics alone (16% vs 30% at 3 years).",
+        "Patients not receiving intraosseous vancomycin had nearly three times higher odds of reinfection within three years of reimplantation surgery.",
+        "Most reinfections (85%) were caused by vancomycin-sensitive organisms, supporting the targeted use of intraosseous vancomycin in this patient population."
+      ]
+    },
+    {
+      "pmid": "41932406",
+      "title": "Association Between Adoption of Robotic Total Knee Arthroplasty in Canada and Major Surgical Complications.",
+      "authors": [
+        "Pincus D",
+        "Ekhtiari S",
+        "Lex JR",
+        "Schemitsch E",
+        "Ruangsomboon P",
+        "Paterson JM",
+        "Ravi B"
+      ],
+      "authors_short": "Pincus D, Ekhtiari S, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Robotic-assisted total knee arthroplasty (rTKA) is being adopted rapidly, but data on its real-world safety compared with conventional TKA (cTKA) outside specialized centers are limited. The purpose of this study was to evaluate the association between rTKA and major surgical complications in a large, population-based cohort. METHODS: We conducted a propensity-score matched population-based cohort study of all adults undergoing primary rTKA versus cTKA for osteoarthritis in Ontario, Canada, from April 1, 2019, to October 31, 2023, with follow-up through October 31, 2024. Use of robotic assistance versus conventional instrumentation during primary TKA was identified for each case. During the study period, 74,359 TKAs were performed across 62 hospitals by 345 surgeons: 1,613 rTKAs and 72,746 cTKAs. The primary outcome was major surgical complications within one year, defined as a composite of revision arthroplasty, deep infection requiring surgery, or fracture requiring surgery. Outcomes were compared between matched groups using Cox proportional hazards regressions to estimate hazard ratios (HR) and absolute risk differences (ARD). RESULTS: Robotic adoption increased from 1.7% of cases in 2019 to 5.8% in 2023 (P < 0.001). Compared to matched cTKA patients, those undergoing rTKA had a significantly higher rate of major complications within one year (2.0 versus 1.0%; ARD = 0.99% [95% confidence interval (CI), 0.25 to 1.73%]; HR = 2.01 [95% CI, 1.31 to 3.07]). CONCLUSIONS: Adoption of rTKA in Ontario, Canada, was associated with an increased risk of major surgical complications as compared to cTKA. Further work is required to ensure implementation proceeds safely and that theoretical benefits of robotics translate into improved outcomes for patients.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41932406/",
+      "score": 85,
+      "score_reasoning": "Large population-based study (74,359 TKAs) addressing safety concerns of robotic TKA adoption with propensity-score matching and concerning findings about increased complications.",
+      "bullets": [
+        "Robotic total knee arthroplasty doubled the risk of major complications compared to conventional TKA in this population study of 74,359 cases across Ontario hospitals.",
+        "Major complications (revision, deep infection requiring surgery, or fracture requiring surgery) occurred in 2.0% of robotic cases versus 1.0% of conventional cases within one year.",
+        "This applies to real-world orthopaedic practice across 62 hospitals and 345 surgeons, not just specialized robotic centers."
+      ]
+    },
+    {
+      "pmid": "41921051",
+      "title": "Clinical Outcomes Following Open Tibial Fractures in Latin America: A Multicenter Prospective Study.",
+      "authors": [
+        "MacKechnie MC",
+        "Quintero JE",
+        "Amadei R",
+        "Rio M",
+        "Shearer DW",
+        "Bidolegui F",
+        "Madrigal R",
+        "Gonz\u00e1lez Torres JC",
+        "Segovia J",
+        "Salazar Del Villar M",
+        "Vega MO",
+        "Morshed S",
+        "Kohn MA",
+        "Miclau T"
+      ],
+      "authors_short": "MacKechnie MC, Quintero JE, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: The study compared health-related quality of life and fracture-healing based on the fixation method following isolated open tibial fractures in Latin America. METHODS: A prospective study was conducted across 18 trauma centers in 8 countries. Adult patients with isolated open tibial diaphyseal fractures were included. The primary outcome measures were Physical Component Summary (PCS) and Mental Component Summary (MCS) scores of the 12-Item Short Form Health Survey (SF-12), which was administered at baseline and at follow-up at 6, 12, 26, and 52 weeks. The secondary outcome measure was the modified Radiographic Union Scale for Tibial Fractures (mRUST) score. RESULTS: Of 422 patients, 389 had a baseline evaluation, with 352 (83.4% of the 422) completing at least 1 SF-12 follow-up and 309 (73.2%) completing at least 1 SF-12 follow-up and having radiographic follow-up within 1 year postoperatively. Initial definitive intramedullary nailing and external fixation or casting followed by staged intramedullary nailing were the most common fixation strategies. Both fixation methods were performed with similar frequency for Gustilo-Anderson (GA) Type-I and II injuries. The majority of GA Type-IIIA and IIIB/C fractures were treated with staged fixation. The presence of minimal or superficial contamination did not influence whether fractures were treated with initial intramedullary nailing or staged intramedullary nailing, whereas the presence of deep contamination was associated with staged management. For all GA types combined, initial definitive intramedullary nailing was associated with significantly higher PCS and MCS scores at 1 year than staged fixation. The mRUST scores at 1 year for all GA types combined were higher with initial definitive intramedullary nailing than with staged intramedullary nailing. CONCLUSIONS: Staged treatment remains common in Latin America, even for less severe injuries. Initial intramedullary nailing was associated with improved PCS and MCS scores and significantly higher mRUST scores relative to staged intramedullary nailing. LEVEL OF EVIDENCE: Therapeutic Level II. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41921051/",
+      "score": 83,
+      "score_reasoning": "Prospective multicenter study (422 patients) from Latin America providing valuable international perspective on open tibial fracture outcomes with robust methodology.",
+      "bullets": [
+        "Open tibial fractures treated with immediate intramedullary nailing had better quality of life scores and faster healing compared to staged fixation at one year.",
+        "This finding applied across all Gustilo-Anderson fracture types in a study of 422 patients from 18 Latin American trauma centers.",
+        "Deep contamination was associated with staged management, but superficial contamination did not influence the choice between immediate versus delayed nailing."
+      ]
+    },
+    {
+      "pmid": "41914353",
+      "title": "Prevalence of Medial Meniscus Injury After Delayed ACL Reconstruction.",
+      "authors": [
+        "Nickelberry C",
+        "Laxson S",
+        "Lapite IO",
+        "Haddock AT",
+        "Yim A",
+        "Abdul Rahman HQ",
+        "Nhem Z",
+        "Phan A",
+        "Yoo JU",
+        "Brady JM"
+      ],
+      "authors_short": "Nickelberry C, Laxson S, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: The menisci serve as secondary stabilizers in the knee, and anterior cruciate ligament (ACL) tears have been associated with meniscal tears. Previous studies have indicated that a delay \u226512 months is associated with development of new meniscal pathology in an ACL-deficient knee. Some studies have indicated that the time period might be shorter in the pediatric and adolescent population, and other predictive factors remain poorly defined. PURPOSE: To examine the association between time, patient-related factors, and the extent and location of meniscal pathology for patients of all ages with ACL reconstruction. STUDY DESIGN: Cohort study (prognosis); Level of evidence, 3. METHODS: This multicenter retrospective cohort analysis of 2033 patients with ACL reconstruction, aged 9 to 73 years, included those who underwent ACL reconstruction between 2013 and 2023. Multivariable logistic regression analysis was used to model meniscal tear patterns based on age, sex, activity level, and surgery interval. RESULTS: Delayed ACL reconstruction (>120 days postinjury) was associated with a significantly higher prevalence of medial meniscus tears (P < .001). Multivariable analyses revealed that delayed surgery increased the odds of medial meniscus tears by 80% (adjusted odds ratio [aOR], 1.80; 95% CI, 1.47-2.21; P < .001) and both medial and lateral tears by 47% (aOR, 1.47; 95% CI, 1.10-1.97; P < .009). Furthermore, male sex was associated with an elevated prevalence for meniscal tears at all time points compared to female sex, demonstrating 43% higher odds of medial meniscus tears (aOR, 1.43; 95% CI, 1.18-1.74; P < .001), 61% higher odds of lateral meniscus tears (aOR, 1.61; 95% CI, 1.34-1.93; P < .001), and 50% higher odds of both medial and lateral meniscus tears (aOR, 1.50; 95% CI, 1.13-1.98; P < .005). CONCLUSION: These results highlight the importance of timely surgical management to mitigate progressive intra-articular damage, with special consideration for male athletes and patients at high risk for delayed intervention.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41914353/",
+      "score": 76,
+      "score_reasoning": "Large multicenter retrospective study (2033 patients) examining timing factors for meniscal tears in ACL reconstruction with practical implications for surgical timing.",
+      "bullets": [
+        "ACL reconstruction delayed beyond 120 days increases medial meniscus tear risk by 80% compared to earlier surgery.",
+        "Male patients have 43% higher odds of medial meniscus tears and 61% higher odds of lateral tears at all time intervals after ACL injury.",
+        "Early ACL reconstruction within 4 months reduces progressive meniscal damage, especially important for male athletes."
+      ]
+    },
+    {
+      "pmid": "41923442",
+      "title": "Surgical Timing and Outcomes in Medial Meniscus Posterior Root Tear Repair: A Systematic Review.",
+      "authors": [
+        "Moews LD",
+        "Thamrongskulsiri N",
+        "Morgan JT",
+        "Vega TF",
+        "Perez Lloveras GO",
+        "Casanova F",
+        "Verma NN",
+        "Chahla J"
+      ],
+      "authors_short": "Moews LD, Thamrongskulsiri N, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Medial meniscus posterior root tears (MMPRTs) compromise hoop stress transmission and tibiofemoral load distribution, accelerating degenerative changes comparable with total meniscectomy. While early repair has been recommended, many patients present late because of a delayed diagnosis or an insidious onset of symptoms. The effect of delayed surgical management on outcomes remains unclear. PURPOSE: To systematically review the literature comparing clinical outcomes, radiological progression, and complication rates of MMPRT repair performed at <3 months, 3 to 6 months, and >6 months after the injury. STUDY DESIGN: Systematic review; Level of evidence, 4. METHODS: A systematic search of PubMed, Embase, and Scopus was conducted in accordance with PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines and registered with PROSPERO. A total of 11 studies (366 patients) reporting isolated transtibial pullout repair with a documented time from injury to surgery were included. Extracted data included patient-reported outcome scores (International Knee Documentation Committee [IKDC], Lysholm), osteoarthritis progression by the Kellgren-Lawrence grade, meniscal extrusion, healing status, and surgical failures or complications. RESULTS: Across all surgical timing groups, MMPRT repair resulted in significant functional improvements. Patients treated at <3 months demonstrated the greatest gains (IKDC: +39.0; Lysholm: +44), while those undergoing repair at 3 to 6 months also achieved clinically meaningful improvements (IKDC: +26.5 to +31.8; Lysholm: +25.0 to +40.4). Delayed repair >6 months remained beneficial, with increases of +22.9 in the IKDC score and +33.1 to +36.1 in the Lysholm score. Subgroup analyses confirmed statistically significant improvements in both the IKDC and Lysholm scores at all time points. Osteoarthritis progression by the Kellgren-Lawrence grade was reported in 24.2% of patients treated at <3 months, 30.2% to 52.2% at 3 to 6 months, and 4.8% to 10.0% at >6 months. Magnetic resonance imaging showed variable meniscal extrusion changes, with partial to complete healing observed in both the 3- to 6-month group and >6-month group. Failure rates ranged from 5.9% to 20.9% without a consistent association with surgical timing. CONCLUSION: Both early and delayed repair (<3 months and >6 months, respectively) yielded significant improvements in outcomes for patients with MMPRTs; however, the early repair group had clinically significant increases in patient-reported outcomes over the delayed repair group. Although data were limited by the number and quality of included studies, this finding suggests that while delayed repair of the meniscus root results in worthwhile improvements for properly selected patients and meets the minimal clinically important difference, early treatment of these tears should be pursued to limit the knee's exposure to altered biomechanics and to provide patients with the best chance at complete healing and lasting improvements. REGISTRATION: CRD420251145118 (PROSPERO).",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41923442/",
+      "score": 73,
+      "score_reasoning": "Comprehensive meta-analysis (125 studies) identifying risk factors for post-arthroscopy infections across multiple joints with pooled analysis and practical clinical implications.",
+      "bullets": [
+        "Medial meniscus posterior root tear repair improves function regardless of timing, but early repair within 3 months provides the greatest functional gains compared to delayed repair.",
+        "Osteoarthritis progression occurs in 24% of patients repaired within 3 months versus 30-52% when repaired between 3-6 months after injury.",
+        "Even delayed repair beyond 6 months still provides clinically meaningful functional improvement, making it worthwhile for properly selected patients."
+      ]
+    },
+    {
+      "pmid": "41903677",
+      "title": "Reassessing the Arthroplasty Landscape: Updated Incidence and Future Projections of Shoulder Arthroplasty Compared With Hip and Knee Arthroplasty in the United States.",
+      "authors": [
+        "Joshi T",
+        "Kalva S",
+        "Fucich D",
+        "Molokwu BO",
+        "Xu JJ",
+        "Vallurupalli N",
+        "Zuckerman JD",
+        "Virk MS"
+      ],
+      "authors_short": "Joshi T, Kalva S, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Total shoulder arthroplasty (TSA) utilization has increased rapidly following the adoption of the reverse TSA (rTSA). Contemporary forecasts of TSA incidence and prevalence are limited and outdated, particularly in comparison with total hip arthroplasty (THA) and total knee arthroplasty (TKA). We sought to update TSA projections in the United States through 2040 and compare them against THA and TKA. METHODS: We identified adults (\u226518 years) who underwent primary TSA, THA, or TKA between 2015 and 2025 in the United States using a large database. Annual incidence (new procedures per 100,000 patients) and prevalence (patients with prior arthroplasty per 100,000) were calculated. For each arthroplasty, linear and Poisson regression models were used to project new cases through 2040, with 95% confidence intervals. COVID year exclusion analysis and segmented analyses were performed using pre and post-COVID years in both linear and Poisson regression models to assess the effect of accelerated post-pandemic rebound. RESULTS: From 2015-2025, we identified 83,203 new TSA, 267,683 new THA, and 354,044 new TKA cases. TSA incidence increased from 13.1 to 45.6 per 100,000 (248.1% change), and prevalence from 41.5 to 222.8 per 100,000 (436.9% change). Across both modeling approaches, new cases for all procedures increased significantly. In Poisson modeling, the greatest proportional annual growth was observed for TSA (12.4% per year), compared with TKA (9.1% per year) and THA (8.5% per year). With linear regression, incidence increased by 2.77 cases per 100,000 per year for TSA, 8.75 for TKA, and 6.26 for THA, with TKA showing the largest additive yearly increase. By 2040, the linear model predicts that shoulder arthroplasty volume will increase by 73.0% to 78.9 cases per 100,000, whereas the Poisson model predicts a 397.4% increase, to 226.8 cases per 100,000. Utilizing post-COVID years, the linear model predicts that TSA volume will increase by 212.9% to 142.7 cases per 100,000, whereas the Poisson model predicts a 2317.8% increase, to 1102.5 cases per 100,000. CONCLUSION: TSA utilization in the United States has increased significantly over the past decade and is projected to continue rising through 2040. Although TSA remains less common than THA or TKA, it demonstrated the greatest proportional annual growth by Poisson modeling from 2015 to 2025, with much of this acceleration concentrated in the post-COVID period. These updated projections provide essential data for clinicians, health-system leaders, and policymakers as they plan for the growing burden of shoulder arthroplasty.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41903677/",
+      "score": 68,
+      "score_reasoning": "Large shoulder arthroplasty database study with projections through 2040 providing valuable healthcare planning data, though more epidemiologic than immediately actionable.",
+      "bullets": [
+        "Shoulder arthroplasty incidence increased 248% from 2015-2025, showing the highest proportional growth rate among major joint replacements at 12.4% annually.",
+        "By 2040, shoulder arthroplasty cases are projected to increase 73-397% depending on modeling approach, with post-COVID acceleration suggesting even higher growth rates.",
+        "While shoulder arthroplasty remains less common than hip or knee replacement, its rapid expansion will significantly impact orthopaedic practice planning and resource allocation."
+      ]
+    },
+    {
+      "pmid": "41925673",
+      "title": "Thirty-Six Percent Conversion to Surgery Rate for Nonsurgical Treatment of Complete and Partial Distal Biceps Tears.",
+      "authors": [
+        "Schultz MJ",
+        "Riebesell S",
+        "Kwan S",
+        "Radack T",
+        "Rivlin M",
+        "Tulipan J"
+      ],
+      "authors_short": "Schultz MJ, Riebesell S, et al.",
+      "journal": "The Journal of hand surgery",
+      "journal_abbrev": "J Hand Surg Am",
+      "year": "2026",
+      "abstract": "PURPOSE: This purpose of this study was to evaluate the patient-reported outcomes of surgically and nonsurgically treated complete and partial distal biceps tears (DBTs) and report the conversion-to-surgery rate for patients initially treated nonsurgically. METHODS: A retrospective cohort study was conducted of patients with DBTs treated surgically or nonsurgically at a single, large institution. Patients were identified through an international classification of disease code query of our institution's database from January 1, 2018, to December 31, 2022. Records were reviewed for demographics and to confirm DBT diagnosis via magnetic resonance imaging. Patients completed shortened Disabilities of the Arm, Shoulder, and Hand (QuickDASH) questionnaires for treatment and outcome assessment. Regression analyses were performed to compare QuickDASH scores and the rate of achieving a patient-acceptable symptom state (PASS). RESULTS: Of 1,549 patients surveyed, 488 responses were received (32% response rate), with a mean follow-up of 43.9 months. Among respondents, 423 were treated surgically, and 65 were treated nonsurgically. The conversion-to-surgery rate was 36%, with no significant differences between partial (34%) and complete tears (39%) (P = .7). For complete tears, regression analysis found that surgery was associated with better QuickDASH scores (adjusted mean difference -4.92, 95% confidence interval [CI] -9.75 to -0.09), but there was no difference in PASS achievement rate (odds ratio 3.01, 95% CI 0.90-8.69). For partial tears, there was no difference in QuickDASH score or PASS achievement rate between treatment groups; however, female sex was a predictor of worse QuickDASH scores (adjusted mean difference 25.50, 95% CI 13.65-37.35). CONCLUSIONS: Surgical management of DBTs was a predictor of improved patient-reported outcomes only for patients with complete tears. For patients initially treated nonsurgically, the conversion-to-surgery rate was 36%. Nonsurgical treatment of DBTs remains a reasonable first-line option as most patients achieve an acceptable symptom state. TYPE OF STUDY/LEVEL OF EVIDENCE: Therapeutic III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41925673/",
+      "score": 65,
+      "score_reasoning": "Large retrospective cohort (488 responses) comparing surgical vs nonsurgical treatment of distal biceps tears with 36% conversion rate providing valuable treatment guidance.",
+      "bullets": [
+        "Over one-third of patients with distal biceps tears initially treated nonsurgically eventually required surgery, with similar conversion rates for complete and partial tears.",
+        "Surgical treatment provided better patient-reported outcomes only for complete distal biceps tears, with no difference seen for partial tears.",
+        "Most patients with distal biceps tears achieved acceptable symptom control with nonsurgical treatment, supporting it as a reasonable first-line option."
+      ]
+    },
+    {
+      "pmid": "41914889",
+      "title": "Stimulant Usage in Attention-Deficit/Hyperactivity Disorder Is Associated With Decreased Rates of Arthrofibrosis and Postoperative Complications Following Anterior Cruciate Ligament Reconstruction.",
+      "authors": [
+        "Sasaki J",
+        "Mrazik S",
+        "Hand C",
+        "Cutler K",
+        "Koltenyuk V",
+        "Fuller SI",
+        "MacFarlane AJ"
+      ],
+      "authors_short": "Sasaki J, Mrazik S, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Anterior cruciate ligament (ACL) tears are one of the most common orthopaedic injuries, and ACL reconstruction is often considered the standard of care for the active individual. Recently, attention-deficit/hyperactivity disorder (ADHD) has been shown to be a risk factor for adverse postoperative outcomes in patients undergoing ACL reconstruction. However, no studies have looked at the effect of stimulant medications on ACL reconstruction outcomes in patients with ADHD. This study aimed to compare postoperative outcomes between ADHD patients using stimulant medications and those not using stimulants following ACL reconstruction at 3- and 6-month follow-up. METHODS: This retrospective cohort study used the TriNetX database to identify patients with ADHD who underwent ACL reconstruction surgery and divided them into cohorts based on the presence or absence of stimulant medication usage. Patient cohorts were 1:1 propensity score matched on age, sex, obesity, mood disorders, anxiety disorders, and nicotine dependence. Postoperative complications were analyzed within 3 and 6 months postoperatively, evaluating arthrofibrosis, infection, wound disruption, revision surgery, emergency department (ED) visits, hospital readmission, and deep vein thrombosis. RESULTS: Within 3 and 6 months postoperatively, ADHD patients not taking stimulants were markedly more likely to return to the ED and be readmitted to a hospital compared with those who were taking stimulants. In addition, at the 6-month time point, a statistically significant increase in arthrofibrosis was seen in nonstimulant users compared with stimulant users in patients with ADHD. CONCLUSION: This study found that patients with ADHD not taking stimulant medications are at an increased risk of returning to the ED, being readmitted to the hospital, and developing arthrofibrosis compared with those patients taking stimulants following ACL reconstruction. The results display the importance of identifying modifiable risk factors for ACL reconstruction surgery so that physicians can adequately adjust treatment regimens to each patient.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41914889/",
+      "score": 63,
+      "score_reasoning": "Large database study showing reduced arthrofibrosis and complications in ADHD patients taking stimulants after ACL reconstruction, providing novel clinical insights.",
+      "bullets": [
+        "ADHD patients not taking stimulant medications have higher rates of emergency department visits and hospital readmissions after ACL reconstruction compared to those on stimulants.",
+        "ADHD patients without stimulant therapy develop arthrofibrosis more frequently at 6 months post ACL reconstruction than those taking stimulant medications.",
+        "Stimulant medication use in ADHD patients appears protective against postoperative complications following ACL reconstruction surgery."
+      ]
+    },
+    {
+      "pmid": "41926199",
+      "title": "Which Imaging Modalities, Parameters, and Diagnostic Thresholds Best Define Hip Instability? Consensus Statements From a Scoping Review and an International Multidisciplinary Delphi Study.",
+      "authors": [
+        "Leopold VJ",
+        "Rakhra K",
+        "Spiker AM",
+        "Nepple JJ",
+        "Beck M",
+        "Karimijashni M",
+        "Poitras S",
+        "Beaul\u00e9 PE",
+        "Grammatopoulos G"
+      ],
+      "authors_short": "Leopold VJ, Rakhra K, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: The diagnosis of hip instability remains challenging because of its multifactorial etiology and the variability of imaging practices across institutions. Hip instability refers to a clinical condition of insufficient osseous and/or soft tissue constraint with abnormal femoral head motion and symptoms, which may occur along a morphologic spectrum that overlaps with-but is not synonymous with-developmental dysplasia of the hip. Although numerous imaging modalities and imaging parameters have been proposed, there is limited consensus on which are most relevant, how they should be measured, and what diagnostic thresholds best correlate with instability. To address this gap, a Delphi consensus study with an international panel of experts to establish standardized clinical statements for the diagnostic criteria of hip instability was conducted. QUESTIONS/PURPOSES: (1) What are the imaging modalities and protocols for investigating hip instability? (2) Which imaging parameters are most strongly associated with clinical hip instability? (3) What are the quantitative imaging thresholds for diagnosing hip instability? METHODS: A consensus study using a modified Delphi technique was conducted in accordance with the Accurate Consensus Reporting Document (ACCORD) guideline. Following a scoping review, 27 statements addressing imaging modalities and protocols (question 1), imaging parameters associated with hip instability (question 2), and quantitative imaging thresholds (question 3) were developed. These statements were evaluated by a multidisciplinary international expert panel during a structured consensus meeting, with two rounds of anonymous voting and consensus defined a priori as \u2265 75% agreement. Consensus was achieved for 81% (22 of 27) of statements. RESULTS: There was strong agreement that radiography (AP pelvis, false-profile, Dunn view) and MRI and CT constitute the foundational imaging modalities for the assessment of hip instability, whereas cartilage mapping techniques and dynamic ultrasound were considered adjunctive modalities with a more limited and evolving role. Radiographic measurements such as lateral center-edge angle (LCEA), anterior wall index (AWI), posterior wall index, and T\u00f6nnis angle reached consensus as key morphologic indicators. Several quantitative thresholds were endorsed. An LCEA of < 20\u00b0 was considered diagnostic for hip dysplasia, a condition in which clinical hip instability is highly prevalent, whereas values between 20\u00b0 and 25\u00b0 were considered concerning for possible clinical hip instability. Additional thresholds included an AWI of < 0.30, PWI of < 0.8, and acetabular version < 5\u00b0 or > 30\u00b0. In contrast, no consensus was reached for less-established imaging metrics such as the FEAR index, crescent sign, anterior capsule thickness, and dynamic femoral head translation. CONCLUSION: This international Delphi consensus defined core imaging approaches and threshold values for the evaluation of hip instability. Although agreement was reached on key morphometric parameters and diagnostic thresholds, a lack of consensus exists around newer soft tissue and dynamic measures, highlighting important areas for future research. CLINICAL RELEVANCE: In patients with suspected clinical hip instability, standard radiography should be used as the first-line imaging modality, followed by targeted use of CT and MRI to evaluate three-dimensional bony morphology and soft tissue stabilizers. Imaging findings should be interpreted within a stepwise, algorithmic framework that integrates clinical assessment with multiple complementary imaging parameters rather than relying on isolated measurements. Ultimately, accurate diagnosis of hip instability depends on the integration of findings from multiple modalities. Additionally, it must be recognized that hip instability may exist even in the absence of characteristic radiologic signs.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41926199/",
+      "score": 60,
+      "score_reasoning": "International Delphi consensus study with 100 participants establishing standardized imaging criteria for hip instability diagnosis, providing important diagnostic guidance.",
+      "bullets": [
+        "International experts agree that standard radiographs (AP pelvis, false-profile, Dunn view) plus MRI and CT are the core imaging studies needed to evaluate hip instability.",
+        "Lateral center-edge angle under 20 degrees indicates hip dysplasia with high instability risk, while 20-25 degrees suggests possible instability requiring further evaluation.",
+        "Additional consensus thresholds include anterior wall index under 0.30, posterior wall index under 0.8, and acetabular version outside 5-30 degrees as markers of instability."
+      ]
+    }
+  ],
+  "picks": [
+    1
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-04-04T07:03:27.315987-07:00"
+}
