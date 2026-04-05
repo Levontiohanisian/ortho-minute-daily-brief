@@ -1,0 +1,319 @@
+{
+  "brief_date": "2026-04-05",
+  "brief_date_display": "Sunday, April 05",
+  "candidates": [
+    {
+      "pmid": "41934051",
+      "title": "The John N. Insall Award: Reduced Reinfection Rate With Intraosseous Vancomycin Administration at Reimplantation in Two-Stage Revision Total Knee Arthroplasty.",
+      "authors": [
+        "Liu JW",
+        "McNamara CA",
+        "Sullivan TC",
+        "Wininger AE",
+        "Brown TS",
+        "Clyburn TA",
+        "Incavo SJ",
+        "Park KJ"
+      ],
+      "authors_short": "Liu JW, McNamara CA, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Recurrent periprosthetic joint infection (PJI) after two-stage exchange total knee arthroplasty (TKA) is associated with increased morbidity and mortality. Intraosseous (IO) vancomycin has been shown to reduce PJI rates in primary and aseptic revision TKA, but its role in two-stage revision for infection remains unknown. This study aimed to compare reinfection rates following IO vancomycin versus intravenous (IV) antibiotic prophylaxis at the time of reimplantation. METHODS: We conducted a retrospective cohort study of 252 patients who underwent two-stage revision for infected TKA at a single institution between July 2016 and March 2025, of whom 101 received IO vancomycin and 151 received IV antibiotics. Patients in the IO group received IV cefazolin plus 500 mg of vancomycin via IO infusion, while those in the IV group received IV cefazolin with or without IV vancomycin, according to surgeon preference. There were no significant differences in average age, body mass index, or sex between the two groups. Most cases involved chronic infection (92%), with coagulase-negative staphylococci (23%) and methicillin-sensitive Staphylococcus aureus (17%) as the most common organisms. Reinfection rates were compared between groups. RESULTS: Reinfection rates were significantly lower in the IO vancomycin group at one year (6 versus 14%, P = 0.049), two years (9 versus 22%, P = 0.025), and three years (16 versus 30%, P = 0.045) after reimplantation. Logistic regression analyses showed that patients who did not receive IO vancomycin at reimplantation had a nearly threefold increased odds of reinfection at three years (odds ratio 2.9, P = 0.025). Of the 44 reinfections, 39 yielded a positive culture, 33 of 39 (85%) of which were sensitive to vancomycin. CONCLUSIONS: Intraosseous vancomycin administration at the time of reimplantation during two-stage revision TKA was associated with significantly reduced rates of recurrent PJI compared to IV antibiotic prophylaxis alone.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41934051/",
+      "score": 95,
+      "score_reasoning": "John N. Insall Award winner studying intraosseous vancomycin in two-stage revision TKA with strong methodology, large sample size (252 patients), and highly clinically relevant findings showing reduced reinfection rates.",
+      "bullets": [
+        "Intraosseous vancomycin at reimplantation during two-stage revision TKA reduced reinfection rates compared to IV antibiotics alone (16% vs 30% at 3 years).",
+        "Patients not receiving intraosseous vancomycin had nearly 3 times higher odds of reinfection at 3 years in this retrospective study of 252 cases.",
+        "Most reinfections (85%) were vancomycin-sensitive organisms, supporting local vancomycin delivery as an effective prophylaxis strategy."
+      ]
+    },
+    {
+      "pmid": "41921050",
+      "title": "One-Stage Versus Two-Stage Exchange Arthroplasty for Periprosthetic Joint Infection: A Prospective Randomized Trial.",
+      "authors": [
+        "Fehring TK",
+        "Otero JE",
+        "Fehring KA",
+        "Curtin BM",
+        "Springer BD",
+        "Della Valle CJ",
+        "Parvizi J",
+        "Hietpas K",
+        "Ready A",
+        "Odum SM"
+      ],
+      "authors_short": "Fehring TK, Otero JE, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: A 2-stage approach is most commonly used to treat periprosthetic joint infection (PJI). Some successful studies of the 1-stage approach were underpowered, lacked a 2-stage comparative group, and excluded patients with draining sinuses, comorbidities, and/or antibiotic-resistant organisms. Given the morbidity and expense associated with 2-stage treatment, we conducted a prospective, multicenter, randomized trial to compare the results of 1- and 2-stage PJI treatment, specifically including patients with draining sinuses, comorbidities, and resistant organisms. METHODS: Patients presenting for surgical treatment of a chronic PJI with a known organism following primary total hip or knee arthroplasty were included (with infection defined by Musculoskeletal Infection Society [MSIS] criteria). Patients with prior revision, culture-negative infection, or fungal infection, or who were immunosuppressed or had soft-tissue involvement precluding wound closure, were excluded. Patients were classified according to the McPherson host staging system. Clinical success was defined as (1) no clinical failure or reinfection with the same or new organism; (2) no reoperation for PJI; and (3) no PJI-related death. A double-instrument setup was used for all patients, as were similar irrigation and antibiotic protocols. A total of 323 patients (166 one-stage; 157 two-stage) were randomized. Groups were similar with respect to demographics and host classification. After excluding patients who died or were lost to follow-up, 258 of the 323 patients had 2-year follow-up (135 one-stage and 123 two-stage). The rate of patient loss to follow-up was similar between the treatment groups. RESULTS: Sixteen patients in the 1-stage group and 9 patients in the 2-stage group died prior to 2-year follow-up. Overall, the 2-year success rate of 1-stage treatment was 97% (131 of 135), while the success of 2-stage treatment was 91% (112 of 123) (p = 0.04). Compared with the 2-stage group, the 1-stage group had 3-times the odds of overall success in a regression analysis (unadjusted odds ratio = 3.22 [95% confidence interval = 1.0 to 10.38]). After adjusting for specific variables (McPherson host grade, resistant organism, and draining sinuses), 1-stage treatment also had 3-times the odds of success. CONCLUSIONS: The results of this prospective randomized trial indicated that 1-stage treatment (97% success) was statistically noninferior to 2-stage treatment (91% success) when treating chronic PJI following primary total hip or knee arthroplasty, provided the protocols described here are explicitly followed. Extrapolation to other patient cohorts and clinical situations should be avoided. LEVEL OF EVIDENCE: Therapeutic Level I. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41921050/",
+      "score": 92,
+      "score_reasoning": "Prospective randomized trial comparing one-stage versus two-stage exchange arthroplasty for PJI with 323 patients from multiple centers, addressing a critical clinical question with high-quality methodology.",
+      "bullets": [
+        "Single-stage revision for chronic periprosthetic joint infection achieved 97% success versus 91% for two-stage revision in 258 patients at two years.",
+        "One-stage treatment was three times more likely to succeed than two-stage, even in patients with draining sinuses, comorbidities, and resistant organisms.",
+        "This prospective randomized trial challenges the standard two-stage approach for chronic PJI in primary hip and knee replacements when strict protocols are followed."
+      ]
+    },
+    {
+      "pmid": "41932406",
+      "title": "Association Between Adoption of Robotic Total Knee Arthroplasty in Canada and Major Surgical Complications.",
+      "authors": [
+        "Pincus D",
+        "Ekhtiari S",
+        "Lex JR",
+        "Schemitsch E",
+        "Ruangsomboon P",
+        "Paterson JM",
+        "Ravi B"
+      ],
+      "authors_short": "Pincus D, Ekhtiari S, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Robotic-assisted total knee arthroplasty (rTKA) is being adopted rapidly, but data on its real-world safety compared with conventional TKA (cTKA) outside specialized centers are limited. The purpose of this study was to evaluate the association between rTKA and major surgical complications in a large, population-based cohort. METHODS: We conducted a propensity-score matched population-based cohort study of all adults undergoing primary rTKA versus cTKA for osteoarthritis in Ontario, Canada, from April 1, 2019, to October 31, 2023, with follow-up through October 31, 2024. Use of robotic assistance versus conventional instrumentation during primary TKA was identified for each case. During the study period, 74,359 TKAs were performed across 62 hospitals by 345 surgeons: 1,613 rTKAs and 72,746 cTKAs. The primary outcome was major surgical complications within one year, defined as a composite of revision arthroplasty, deep infection requiring surgery, or fracture requiring surgery. Outcomes were compared between matched groups using Cox proportional hazards regressions to estimate hazard ratios (HR) and absolute risk differences (ARD). RESULTS: Robotic adoption increased from 1.7% of cases in 2019 to 5.8% in 2023 (P < 0.001). Compared to matched cTKA patients, those undergoing rTKA had a significantly higher rate of major complications within one year (2.0 versus 1.0%; ARD = 0.99% [95% confidence interval (CI), 0.25 to 1.73%]; HR = 2.01 [95% CI, 1.31 to 3.07]). CONCLUSIONS: Adoption of rTKA in Ontario, Canada, was associated with an increased risk of major surgical complications as compared to cTKA. Further work is required to ensure implementation proceeds safely and that theoretical benefits of robotics translate into improved outcomes for patients.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41932406/",
+      "score": 88,
+      "score_reasoning": "Large population-based study (74,359 TKAs) examining robotic versus conventional TKA safety with propensity-score matching and one-year follow-up, addressing timely concerns about robotic adoption.",
+      "bullets": [
+        "Robotic total knee arthroplasty had twice the rate of major complications compared to conventional TKA in this population-based Canadian study (2.0% vs 1.0% at one year).",
+        "The increased complication risk applies to real-world practice across 62 hospitals with 345 surgeons, not just specialized robotic centers.",
+        "Major complications included revision arthroplasty, deep infection requiring surgery, or fracture requiring surgery within one year of primary TKA."
+      ]
+    },
+    {
+      "pmid": "41921051",
+      "title": "Clinical Outcomes Following Open Tibial Fractures in Latin America: A Multicenter Prospective Study.",
+      "authors": [
+        "MacKechnie MC",
+        "Quintero JE",
+        "Amadei R",
+        "Rio M",
+        "Shearer DW",
+        "Bidolegui F",
+        "Madrigal R",
+        "Gonz\u00e1lez Torres JC",
+        "Segovia J",
+        "Salazar Del Villar M",
+        "Vega MO",
+        "Morshed S",
+        "Kohn MA",
+        "Miclau T"
+      ],
+      "authors_short": "MacKechnie MC, Quintero JE, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: The study compared health-related quality of life and fracture-healing based on the fixation method following isolated open tibial fractures in Latin America. METHODS: A prospective study was conducted across 18 trauma centers in 8 countries. Adult patients with isolated open tibial diaphyseal fractures were included. The primary outcome measures were Physical Component Summary (PCS) and Mental Component Summary (MCS) scores of the 12-Item Short Form Health Survey (SF-12), which was administered at baseline and at follow-up at 6, 12, 26, and 52 weeks. The secondary outcome measure was the modified Radiographic Union Scale for Tibial Fractures (mRUST) score. RESULTS: Of 422 patients, 389 had a baseline evaluation, with 352 (83.4% of the 422) completing at least 1 SF-12 follow-up and 309 (73.2%) completing at least 1 SF-12 follow-up and having radiographic follow-up within 1 year postoperatively. Initial definitive intramedullary nailing and external fixation or casting followed by staged intramedullary nailing were the most common fixation strategies. Both fixation methods were performed with similar frequency for Gustilo-Anderson (GA) Type-I and II injuries. The majority of GA Type-IIIA and IIIB/C fractures were treated with staged fixation. The presence of minimal or superficial contamination did not influence whether fractures were treated with initial intramedullary nailing or staged intramedullary nailing, whereas the presence of deep contamination was associated with staged management. For all GA types combined, initial definitive intramedullary nailing was associated with significantly higher PCS and MCS scores at 1 year than staged fixation. The mRUST scores at 1 year for all GA types combined were higher with initial definitive intramedullary nailing than with staged intramedullary nailing. CONCLUSIONS: Staged treatment remains common in Latin America, even for less severe injuries. Initial intramedullary nailing was associated with improved PCS and MCS scores and significantly higher mRUST scores relative to staged intramedullary nailing. LEVEL OF EVIDENCE: Therapeutic Level II. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41921051/",
+      "score": 84,
+      "score_reasoning": "Prospective multicenter study across 18 trauma centers in Latin America comparing fixation methods for open tibial fractures with 422 patients and validated outcome measures.",
+      "bullets": [
+        "Initial intramedullary nailing of open tibial fractures resulted in better quality of life scores and faster healing compared to staged treatment across all injury severities.",
+        "Latin American trauma centers frequently use staged fixation even for lower grade open tibial fractures where immediate nailing could be considered.",
+        "Deep contamination influenced surgeons to choose staged management while superficial contamination did not affect the timing of definitive fixation."
+      ]
+    },
+    {
+      "pmid": "41934361",
+      "title": "Duloxetine Improves Early Clinical Outcomes Including Range of Motion, Functional Scores, Pain, and Psychological Distress After Arthroscopic Rotator Cuff Repair in Patients With Anxiety or Depression: Prospective Randomized Controlled Trial.",
+      "authors": [
+        "Han SC",
+        "Han J",
+        "Min YK",
+        "Han JW",
+        "Jeong HJ",
+        "Oh JH"
+      ],
+      "authors_short": "Han SC, Han J, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Anxiety and depression are known risk factors for poor prognosis after arthroscopic rotator cuff repair (ARCR). However, studies that examine relief of postoperative psychological distress in patients with anxiety and/or depression remain limited. PURPOSE: To evaluate the effect of duloxetine on the clinical outcomes of ARCR for chronic rotator cuff tears in patients with anxiety and/or depression. STUDY DESIGN: Randomized controlled clinical trial; Level of evidence, 2. METHOD: A total of 63 patients undergoing ARCR were enrolled and categorized into 3 groups based on Hospital Anxiety and Depression Scale (HADS) scores and the use of oral duloxetine: group A (anxiety <8 and depression <8, healthy psychological status; n = 20); group B (anxiety \u22658 and/or depression \u22658, psychological distress receiving duloxetine administration; n = 21); and group C (anxiety \u22658 and/or depression \u22658, psychological distress receiving no duloxetine treatment; n = 22). Duloxetine was administered orally from the evening of the surgery. The dosage was 30 mg/d for the first 2 weeks. After the adaptation period, the dosage was increased to 60 mg/d for 12 weeks. Primary outcome was active forward flexion at postoperative 3 months. Other functional outcomes, structural outcomes, analgesic consumption, and duloxetine-related side effects were assessed at postoperative 3, 6, and 12 months and annually thereafter. RESULTS: No severe adverse events related to duloxetine were observed. However, 16% (4/25) of patients in group B experienced nausea and vomiting after duloxetine administration. Although symptoms resolved completely after antiemetic intervention, the patients withdrew from the study due to the drug-related adverse event. In the first 3 months after surgery, group B showed better range of motion (ROM), better functional outcomes (American Shoulder and Elbow Surgeons Standardized Assessment Form [ASES] and Simple Shoulder Test [SST]), better anxiety scores, better pain scores, and less opioid consumption than did group C (all adjusted P < .05). These differences were not observed between groups A and B (all adjusted P > .05). Functional outcomes and retear rates did not differ among the 3 groups at later follow-up. CONCLUSION: Administration of duloxetine to ARCR patients with anxiety and/or depressive distress screened using HADS not only improved anxiety and distress but also enhanced active ROM, ASES, and SST in the first 3 months postoperatively, although 16% of patients experienced nausea and vomiting.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41934361/",
+      "score": 80,
+      "score_reasoning": "RCT studying duloxetine for rotator cuff repair outcomes in patients with anxiety/depression, addressing important intersection of mental health and surgical outcomes with 63 patients.",
+      "bullets": [
+        "Duloxetine given to rotator cuff repair patients with anxiety or depression improved range of motion, function scores, and pain at 3 months compared to untreated anxious/depressed patients.",
+        "Benefits of duloxetine disappeared after 3 months, with no difference in outcomes or retear rates between groups at later follow-up.",
+        "Sixteen percent of duloxetine patients experienced nausea and vomiting requiring withdrawal from the study despite antiemetic treatment."
+      ]
+    },
+    {
+      "pmid": "41932675",
+      "title": "Return to Sport After Shoulder Arthroplasty: An ASES Multicenter Analysis of Sport-Specific Predictors of Performance in Reverse Shoulder Arthroplasty and Total Shoulder Arthroplasty.",
+      "authors": [
+        "Corban J",
+        "Kirsch JM",
+        "Bowler A",
+        "Glass EA",
+        "Diestel DR",
+        "Arnold RP",
+        "McDonald-Stahl M",
+        "Stevens CS",
+        "Puzzitiello R",
+        "Moverman MA",
+        "Le K",
+        "Dunn W",
+        "Jawa A"
+      ],
+      "authors_short": "Corban J, Kirsch JM, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Many patients undergoing shoulder arthroplasty - either reverse shoulder arthroplasty (rTSA) or anatomic shoulder arthroplasty (aTSA) - strongly desire to return to sport, yet return-to-sport (RTS) outcomes remain incompletely defined. This study aimed to determine RTS rates following rTSA and aTSA and to identify patient- and sport-specific factors associated with postoperative athletic performance. METHODS: A multicenter retrospective analysis with prospective administration of RTS questionnaires was conducted among patients who underwent rTSA or aTSA between one and three years postoperatively. Twenty-four ASES surgeons from 17 U.S. institutions participated. Study design and parameters were defined using a Delphi consensus method. The RTS questionnaire assessed participation in seven sports: golf, pickleball, tennis, running, weightlifting, yoga, and swimming. Outcomes included RTS status, changes in performance, enjoyment, participation frequency, time to RTS, and shoulder satisfaction (0-10). Univariate ANOVA compared outcomes across sports. Two age- and gender-matched propensity score analyses compared (1) rTSA versus aTSA for glenohumeral osteoarthritis (GHOA) and (2) rTSA for GHOA versus rotator cuff arthropathy (RCA). Multivariate logistic regression identified predictors of worse postoperative performance. RESULTS: A total of 961 patients completed the questionnaire; 55.9% (n=537) participated in at least one sport preoperatively and attempted RTS postoperatively, yielding 656 sport participations. Mean follow-up was 24.0 \u00b1 8.1 months, mean age was 68.3 \u00b1 8.2 years, mean BMI was 28.5 \u00b1 5.8, and 65.6% were male. Across all sports, 89.2% of participants were still playing, and 80.2% reported improved or unchanged performance, with no differences between sports. Overall RTS rates were highest for running (92.9%), tennis (92.3%), and weightlifting (93.1%). Most patients returned within 3-6 months (44.7%). In matched GHOA cohorts (n=165 each), rTSA demonstrated higher rates of improved or stable performance (87.9% vs 78.9%, P=0.039) and greater satisfaction (P=0.007) compared to aTSA, with similar RTS rates (93.3% vs 89.1%). Diagnosis of GHOA (OR 0.20, P=0.001) and post capsulorrhaphy arthropathy (OR 0.07, P=0.021) were independently associated with lower odds of worsened postoperative sport performance. CONCLUSION: Return to sport following shoulder arthroplasty is high, with most patients reporting maintained or improved performance. In patients with GHOA, rTSA was associated with higher rates of improved or stable sport performance and greater satisfaction compared to aTSA.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41932675/",
+      "score": 78,
+      "score_reasoning": "Multicenter ASES study of 961 patients examining return-to-sport after shoulder arthroplasty with sport-specific analysis and propensity matching, addressing patient priorities.",
+      "bullets": [
+        "89% of patients return to sport after shoulder arthroplasty, with 80% maintaining or improving their performance across golf, tennis, swimming, and other activities.",
+        "For patients with glenohumeral arthritis, reverse shoulder arthroplasty produces better sport performance and satisfaction compared to anatomic total shoulder arthroplasty.",
+        "Most patients return to sport within 3 to 6 months after shoulder arthroplasty, with running, tennis, and weightlifting showing the highest return rates above 92%."
+      ]
+    },
+    {
+      "pmid": "41926199",
+      "title": "Which Imaging Modalities, Parameters, and Diagnostic Thresholds Best Define Hip Instability? Consensus Statements From a Scoping Review and an International Multidisciplinary Delphi Study.",
+      "authors": [
+        "Leopold VJ",
+        "Rakhra K",
+        "Spiker AM",
+        "Nepple JJ",
+        "Beck M",
+        "Karimijashni M",
+        "Poitras S",
+        "Beaul\u00e9 PE",
+        "Grammatopoulos G"
+      ],
+      "authors_short": "Leopold VJ, Rakhra K, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: The diagnosis of hip instability remains challenging because of its multifactorial etiology and the variability of imaging practices across institutions. Hip instability refers to a clinical condition of insufficient osseous and/or soft tissue constraint with abnormal femoral head motion and symptoms, which may occur along a morphologic spectrum that overlaps with-but is not synonymous with-developmental dysplasia of the hip. Although numerous imaging modalities and imaging parameters have been proposed, there is limited consensus on which are most relevant, how they should be measured, and what diagnostic thresholds best correlate with instability. To address this gap, a Delphi consensus study with an international panel of experts to establish standardized clinical statements for the diagnostic criteria of hip instability was conducted. QUESTIONS/PURPOSES: (1) What are the imaging modalities and protocols for investigating hip instability? (2) Which imaging parameters are most strongly associated with clinical hip instability? (3) What are the quantitative imaging thresholds for diagnosing hip instability? METHODS: A consensus study using a modified Delphi technique was conducted in accordance with the Accurate Consensus Reporting Document (ACCORD) guideline. Following a scoping review, 27 statements addressing imaging modalities and protocols (question 1), imaging parameters associated with hip instability (question 2), and quantitative imaging thresholds (question 3) were developed. These statements were evaluated by a multidisciplinary international expert panel during a structured consensus meeting, with two rounds of anonymous voting and consensus defined a priori as \u2265 75% agreement. Consensus was achieved for 81% (22 of 27) of statements. RESULTS: There was strong agreement that radiography (AP pelvis, false-profile, Dunn view) and MRI and CT constitute the foundational imaging modalities for the assessment of hip instability, whereas cartilage mapping techniques and dynamic ultrasound were considered adjunctive modalities with a more limited and evolving role. Radiographic measurements such as lateral center-edge angle (LCEA), anterior wall index (AWI), posterior wall index, and T\u00f6nnis angle reached consensus as key morphologic indicators. Several quantitative thresholds were endorsed. An LCEA of < 20\u00b0 was considered diagnostic for hip dysplasia, a condition in which clinical hip instability is highly prevalent, whereas values between 20\u00b0 and 25\u00b0 were considered concerning for possible clinical hip instability. Additional thresholds included an AWI of < 0.30, PWI of < 0.8, and acetabular version < 5\u00b0 or > 30\u00b0. In contrast, no consensus was reached for less-established imaging metrics such as the FEAR index, crescent sign, anterior capsule thickness, and dynamic femoral head translation. CONCLUSION: This international Delphi consensus defined core imaging approaches and threshold values for the evaluation of hip instability. Although agreement was reached on key morphometric parameters and diagnostic thresholds, a lack of consensus exists around newer soft tissue and dynamic measures, highlighting important areas for future research. CLINICAL RELEVANCE: In patients with suspected clinical hip instability, standard radiography should be used as the first-line imaging modality, followed by targeted use of CT and MRI to evaluate three-dimensional bony morphology and soft tissue stabilizers. Imaging findings should be interpreted within a stepwise, algorithmic framework that integrates clinical assessment with multiple complementary imaging parameters rather than relying on isolated measurements. Ultimately, accurate diagnosis of hip instability depends on the integration of findings from multiple modalities. Additionally, it must be recognized that hip instability may exist even in the absence of characteristic radiologic signs.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41926199/",
+      "score": 72,
+      "score_reasoning": "International Delphi consensus study with 100 experts establishing standardized imaging criteria for hip instability, filling important diagnostic gap.",
+      "bullets": [
+        "International experts agree that AP pelvis, false-profile, and Dunn view radiographs plus MRI and CT are the core imaging studies for diagnosing hip instability.",
+        "Lateral center-edge angle under 20 degrees indicates hip dysplasia with high instability risk, while 20-25 degrees suggests possible instability in symptomatic patients.",
+        "Key diagnostic thresholds include anterior wall index under 0.30, posterior wall index under 0.8, and acetabular version outside 5-30 degrees."
+      ]
+    },
+    {
+      "pmid": "41923655",
+      "title": "Risk Factors for Infection After Ankle, Knee, Hip, Shoulder, or Elbow Arthroscopy: A Systematic Review and Meta-analysis.",
+      "authors": [
+        "Saraf A",
+        "Iwamoto S",
+        "Krishna S",
+        "Young VG",
+        "Bowman EN"
+      ],
+      "authors_short": "Saraf A, Iwamoto S, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Arthroscopy is a commonly performed orthopaedic procedure with postoperative infection risk factors including male sex, tobacco use, and preoperative steroid injections. However, studies focusing on risk factors are limited to single joints with limited numbers of patients; therefore, inconsistencies remain. PURPOSE: To review and analyze predictive risk factors for postarthroscopy infections across arthroscopy of the ankle, knee, hip, shoulder, and elbow. STUDY DESIGN: Systematic review and meta-analysis; Level of evidence, 3. METHODS: The PubMed, Scopus, and Embase databases were searched using terms related to \"arthroscopy\" and \"infection\" to determine risk associated with patient-specific factors. Pooled analysis was conducted using R for smoking, diabetes mellitus (DM), body mass index (BMI) between\u200930 and 40, BMI >40, intraoperative corticosteroid injection (CSI), and preoperative CSI administration at 2-week intervals up to 8 weeks before operation. RESULTS: The search included 1384 studies, of which 125 were determined to meet all inclusion criteria. Postarthroscopic infection risk is significantly increased in patients who had intraoperative intra-articular steroid use (OR, 5.97; 95% CI, 2.66-13.39), steroid use within 2 weeks (OR, 3.36; 95% CI, 2.43-4.65) and 2 to 4 weeks before operation (OR, 1.89; 95% CI, 1.48-2.42), DM (OR, 1.49; 95% CI, 1.24-1.79), BMI of 30 to 40 (OR, 1.29; 95% CI, 1.22-1.37), and BMI >40 (OR, 1.76; 95% CI, 1.41-2.19) and patients who smoked tobacco (OR, 1.59; 95% CI, 1.38-1.83).The overall risk of infection was 0.84%. Across joints, infection rates varied by procedure type. Knee and hip surgeries demonstrated low weighted mean infection rates (0.61% and 0.59%, respectively), as did shoulder procedures (0.47%). Elbow surgeries had the highest mean infection rate (2.3%), and limited data suggested a low rate for ankle procedures (0.27%). CONCLUSION: Significant increases in postoperative infection risk in patients who underwent arthroscopy of the ankle, knee, hip, shoulder, and elbow were noted with intraoperative intra-articular CSI administration or preoperative CSI administration within 4 weeks of surgery, BMI >30, diabetes, and smoking tobacco. Given the prevalence of these risk factors, patient-specific considerations and interventions should be used to mitigate risk and improve patient outcomes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41923655/",
+      "score": 68,
+      "score_reasoning": "Meta-analysis examining infection risk factors across multiple arthroscopic procedures with 125 included studies, providing comprehensive risk stratification guidance.",
+      "bullets": [
+        "Steroid injections increase arthroscopic infection risk most when given intraoperatively (6x risk) or within 2 weeks preoperatively (3.4x risk).",
+        "Obesity (BMI 30-40 increases risk 29%, BMI over 40 increases risk 76%), diabetes, and smoking all significantly increase post-arthroscopic infection rates.",
+        "Elbow arthroscopy has the highest infection rate at 2.3%, while knee, hip, shoulder and ankle procedures range from 0.27% to 0.61%."
+      ]
+    },
+    {
+      "pmid": "41911001",
+      "title": "How Should Hip Instability Be Clinically Diagnosed? Consensus Statements From a Scoping Review and an International Multidisciplinary Delphi Study.",
+      "authors": [
+        "Karimijashni M",
+        "Beaul\u00e9 PE",
+        "Carsen S",
+        "Clohisy J",
+        "Sink E",
+        "Zaltz I",
+        "Grammatopoulos G",
+        "Pfalzgraf-Reny A",
+        "Bechiau C",
+        "Poitras S"
+      ],
+      "authors_short": "Karimijashni M, Beaul\u00e9 PE, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Although several clinical signs have been proposed for diagnosing atraumatic hip instability, the condition remains poorly defined because of the absence of standardized diagnostic criteria. To address this gap, a Delphi consensus study with an international panel of experts to establish standardized clinical statements for the diagnostic criteria of hip instability was conducted. QUESTIONS/PURPOSES: The objective was to reach consensus on the following questions: (1) What are typical presenting symptoms of hip instability? (2) What physical examination should be used to assess hip instability in patients presenting with symptoms of hip instability? (3) What risk factors are associated with patients presenting with symptomatic hip instability? METHODS: A consensus study using the modified Delphi technique was conducted in accordance with the Accurate Consensus Reporting Document (ACCORD) guideline. The consensus meeting was held during the 15th Symposium on Joint Preserving and Minimally Invasive Surgery of the Hip, which took place in Qu\u00e9bec City, Qu\u00e9bec, Canada, in June 2025. The process involved a multidisciplinary steering committee and a diverse panel of 100 international participants representing 13 countries. Following a rapid scoping review, statements were developed and sent to participants 1 week prior to the meeting. These statements were voted across two Delphi rounds during the meeting, with consensus defined as \u2265 75% agreement. RESULTS: Clinically, three physical examination tests, the abduction-hyperextension-external rotation (AB-HEER), prone instability, and anterior apprehension (HEER) tests, achieved consensus as clinically useful to assess hip instability. The flexion-abduction-external rotation (FABER) test and hip flexion + rotation arc of 200\u00b0 did not reach consensus. Symptomatically, consensus was reached on patients reporting anterior hip pain during daily activities such as sitting, squatting, or participating in sports; mechanical symptoms such as popping, clicking, or grinding; and subjective sensations of looseness or instability. Female sex and hip dysplasia were agreed upon as key risk factors associated with atraumatic hip instability. Younger age as a potential risk factor did not reach consensus. CONCLUSION: Individual physical examination tests assess different components of hip instability. As such, the use of a combination of tests alongside consideration of symptoms and relevant risk factors has been suggested to enhance diagnostic specificity and produce higher assessment accuracy. Also, further research is warranted to assess other psychometric properties of these tests to develop a comprehensive diagnostic framework for atraumatic hip instability. CLINICAL RELEVANCE: By outlining key symptoms, recommended physical examination maneuvers, and associated risk factors, this study supports a more standardized and reproducible approach to evaluate hip instability in clinical practice. These findings can inform clinical algorithms, enhance diagnostic accuracy, and reduce variability in both research protocols and clinical practice.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41911001/",
+      "score": 64,
+      "score_reasoning": "International Delphi consensus study establishing clinical diagnostic criteria for hip instability with 100 international participants, addressing diagnostic challenges.",
+      "bullets": [
+        "International experts agreed that three physical exam tests are useful for diagnosing hip instability: AB-HEER, prone instability, and anterior apprehension tests.",
+        "Patients with hip instability typically report anterior hip pain with sitting or squatting, mechanical symptoms like clicking or popping, and subjective feelings of looseness.",
+        "Female sex and hip dysplasia are established risk factors for atraumatic hip instability in young patients."
+      ]
+    },
+    {
+      "pmid": "41914160",
+      "title": "Biomechanical Differences in Young Patients With True Femoral Retrotorsion: Correlations Between Gait Deviations, Clinical Measurements, and Imaging Data.",
+      "authors": [
+        "Alexander N",
+        "Dreher T",
+        "Lengnick H",
+        "Nieuwland A",
+        "Cip J",
+        "Krautwurst BK"
+      ],
+      "authors_short": "Alexander N, Dreher T, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Torsional abnormalities of the femur, such as femoral retrotorsion, can significantly impact gait and joint biomechanics in children and adolescents. However, the resulting gait patterns as well as the relationship between static imaging measurements and dynamic gait deviations remain unclear. This study aimed to investigate biomechanical differences in gait between young individuals with true femoral retrotorsion and typically developing peers, examining correlations between gait deviations, clinical measurements, and imaging data. METHODS: A multicenter retrospective study was conducted, including 31 patients with unilateral or bilateral femoral retrotorsion and a control group of typically developing children. Femoral torsion was assessed using MRI or CT, while 3D motion capture was used for gait analysis. Clinical hip rotation was measured, and statistical analyses, including correlation assessments, were performed to evaluate relationships between imaging, clinical, and gait parameters. RESULTS: Patients exhibited significantly increased hip external rotation and out-toeing gait compared with controls. However, no correlation was found between femoral torsion measured by imaging and hip rotation during gait or foot progression angle. In contrast, the midpoint of clinical hip rotation correlated moderately with both hip rotation and foot progression angle during gait. In addition, patients had higher BMI and demonstrated compensatory knee valgus, despite no radiologic evidence of knee malalignment. CONCLUSION: Children and adolescents with femoral retrotorsion exhibit distinct gait deviations, but static imaging alone does not reliably predict dynamic gait patterns. This emphasizes the need for dynamic assessment in clinical decision-making.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41914160/",
+      "score": 56,
+      "score_reasoning": "Large multicenter study (2,033 patients) examining meniscal injury patterns with delayed ACL reconstruction, providing practical timing guidance.",
+      "bullets": [
+        "Children with femoral retrotorsion show increased hip external rotation and out-toeing during walking compared to normal children.",
+        "Static MRI or CT measurements of femoral torsion do not correlate with actual gait deviations, but clinical hip rotation range does.",
+        "Patients develop compensatory knee valgus during walking despite having normal knee alignment on imaging studies."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-04-05T07:04:28.119295-07:00"
+}
