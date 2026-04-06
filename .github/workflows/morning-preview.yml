@@ -10,7 +10,7 @@ on:
 jobs:
   preview-and-send:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 150
 
     steps:
       - name: Checkout repository

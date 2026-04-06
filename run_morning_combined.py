@@ -141,7 +141,7 @@ def main():
     if not candidates:
         return 1
 
-    wait_for_reply_and_send(candidates, data_path, max_wait_minutes=30)
+    wait_for_reply_and_send(candidates, data_path, max_wait_minutes=120)
     return 0
 
 
