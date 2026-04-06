@@ -2,8 +2,9 @@ name: Morning Pipeline - Preview and Send
 
 on:
   schedule:
-    # 5am Pacific = noon UTC (PDT)
-    - cron: '0 12 * * *'
+    # Target 5am Pacific. Set to 3am Pacific (10am UTC) to compensate
+    # for GitHub Actions cron delays of up to 2 hours
+    - cron: '0 10 * * *'
   workflow_dispatch:
 
 jobs:
