@@ -46,7 +46,7 @@ def _build_preview_html(date: datetime, candidates: list[dict]) -> str:
 <p style="background:#f0f7ff; padding:12px; border-radius:4px; border:1px solid #cde;">
   <strong>Reply with one number to pick your paper.</strong><br><br>
   Example: <strong>3</strong><br><br>
-  If no reply by midnight, #1 sends automatically at 5am Pacific.
+  If no reply within 2 hours, paper #1 sends automatically.
 </p>
 
 {paper_blocks}

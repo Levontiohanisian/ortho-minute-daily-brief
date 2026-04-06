@@ -73,7 +73,7 @@ def main():
             from datetime import timezone
             preview_dt = datetime.fromisoformat(preview_time)
             hours_since = (now - preview_dt).total_seconds() / 3600
-            if hours_since >= 5:
+            if hours_since >= 2:
                 print(f"No reply after {hours_since:.1f} hours. Auto-sending #1.")
                 pick = 0
             else:
