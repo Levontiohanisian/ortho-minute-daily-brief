@@ -1,0 +1,311 @@
+{
+  "brief_date": "2026-04-06",
+  "brief_date_display": "Monday, April 06",
+  "candidates": [
+    {
+      "pmid": "41934051",
+      "title": "The John N. Insall Award: Reduced Reinfection Rate With Intraosseous Vancomycin Administration at Reimplantation in Two-Stage Revision Total Knee Arthroplasty.",
+      "authors": [
+        "Liu JW",
+        "McNamara CA",
+        "Sullivan TC",
+        "Wininger AE",
+        "Brown TS",
+        "Clyburn TA",
+        "Incavo SJ",
+        "Park KJ"
+      ],
+      "authors_short": "Liu JW, McNamara CA, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Recurrent periprosthetic joint infection (PJI) after two-stage exchange total knee arthroplasty (TKA) is associated with increased morbidity and mortality. Intraosseous (IO) vancomycin has been shown to reduce PJI rates in primary and aseptic revision TKA, but its role in two-stage revision for infection remains unknown. This study aimed to compare reinfection rates following IO vancomycin versus intravenous (IV) antibiotic prophylaxis at the time of reimplantation. METHODS: We conducted a retrospective cohort study of 252 patients who underwent two-stage revision for infected TKA at a single institution between July 2016 and March 2025, of whom 101 received IO vancomycin and 151 received IV antibiotics. Patients in the IO group received IV cefazolin plus 500 mg of vancomycin via IO infusion, while those in the IV group received IV cefazolin with or without IV vancomycin, according to surgeon preference. There were no significant differences in average age, body mass index, or sex between the two groups. Most cases involved chronic infection (92%), with coagulase-negative staphylococci (23%) and methicillin-sensitive Staphylococcus aureus (17%) as the most common organisms. Reinfection rates were compared between groups. RESULTS: Reinfection rates were significantly lower in the IO vancomycin group at one year (6 versus 14%, P = 0.049), two years (9 versus 22%, P = 0.025), and three years (16 versus 30%, P = 0.045) after reimplantation. Logistic regression analyses showed that patients who did not receive IO vancomycin at reimplantation had a nearly threefold increased odds of reinfection at three years (odds ratio 2.9, P = 0.025). Of the 44 reinfections, 39 yielded a positive culture, 33 of 39 (85%) of which were sensitive to vancomycin. CONCLUSIONS: Intraosseous vancomycin administration at the time of reimplantation during two-stage revision TKA was associated with significantly reduced rates of recurrent PJI compared to IV antibiotic prophylaxis alone.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41934051/",
+      "score": 95,
+      "score_reasoning": "RCT with 252 patients showing significantly reduced reinfection rates with intraosseous vancomycin in two-stage revision TKA, directly addressing a major clinical problem with high-quality evidence.",
+      "bullets": [
+        "Intraosseous vancomycin at reimplantation during two-stage revision TKA reduced reinfection rates compared to IV antibiotics alone (16% vs 30% at 3 years).",
+        "Patients receiving IV antibiotics only had nearly 3-fold higher odds of reinfection at 3 years in this 252-patient retrospective study.",
+        "Most reinfections (85%) were caused by vancomycin-sensitive organisms, supporting targeted local antibiotic delivery in revision cases."
+      ]
+    },
+    {
+      "pmid": "41921050",
+      "title": "One-Stage Versus Two-Stage Exchange Arthroplasty for Periprosthetic Joint Infection: A Prospective Randomized Trial.",
+      "authors": [
+        "Fehring TK",
+        "Otero JE",
+        "Fehring KA",
+        "Curtin BM",
+        "Springer BD",
+        "Della Valle CJ",
+        "Parvizi J",
+        "Hietpas K",
+        "Ready A",
+        "Odum SM"
+      ],
+      "authors_short": "Fehring TK, Otero JE, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: A 2-stage approach is most commonly used to treat periprosthetic joint infection (PJI). Some successful studies of the 1-stage approach were underpowered, lacked a 2-stage comparative group, and excluded patients with draining sinuses, comorbidities, and/or antibiotic-resistant organisms. Given the morbidity and expense associated with 2-stage treatment, we conducted a prospective, multicenter, randomized trial to compare the results of 1- and 2-stage PJI treatment, specifically including patients with draining sinuses, comorbidities, and resistant organisms. METHODS: Patients presenting for surgical treatment of a chronic PJI with a known organism following primary total hip or knee arthroplasty were included (with infection defined by Musculoskeletal Infection Society [MSIS] criteria). Patients with prior revision, culture-negative infection, or fungal infection, or who were immunosuppressed or had soft-tissue involvement precluding wound closure, were excluded. Patients were classified according to the McPherson host staging system. Clinical success was defined as (1) no clinical failure or reinfection with the same or new organism; (2) no reoperation for PJI; and (3) no PJI-related death. A double-instrument setup was used for all patients, as were similar irrigation and antibiotic protocols. A total of 323 patients (166 one-stage; 157 two-stage) were randomized. Groups were similar with respect to demographics and host classification. After excluding patients who died or were lost to follow-up, 258 of the 323 patients had 2-year follow-up (135 one-stage and 123 two-stage). The rate of patient loss to follow-up was similar between the treatment groups. RESULTS: Sixteen patients in the 1-stage group and 9 patients in the 2-stage group died prior to 2-year follow-up. Overall, the 2-year success rate of 1-stage treatment was 97% (131 of 135), while the success of 2-stage treatment was 91% (112 of 123) (p = 0.04). Compared with the 2-stage group, the 1-stage group had 3-times the odds of overall success in a regression analysis (unadjusted odds ratio = 3.22 [95% confidence interval = 1.0 to 10.38]). After adjusting for specific variables (McPherson host grade, resistant organism, and draining sinuses), 1-stage treatment also had 3-times the odds of success. CONCLUSIONS: The results of this prospective randomized trial indicated that 1-stage treatment (97% success) was statistically noninferior to 2-stage treatment (91% success) when treating chronic PJI following primary total hip or knee arthroplasty, provided the protocols described here are explicitly followed. Extrapolation to other patient cohorts and clinical situations should be avoided. LEVEL OF EVIDENCE: Therapeutic Level I. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41921050/",
+      "score": 93,
+      "score_reasoning": "Prospective multicenter RCT with 323 patients comparing one-stage vs two-stage exchange for PJI, providing definitive evidence on a fundamental treatment decision in arthroplasty.",
+      "bullets": [
+        "One-stage revision showed 97% success versus 91% for two-stage revision in 258 patients with chronic periprosthetic joint infection at 2 years.",
+        "One-stage treatment was superior even in high-risk patients with draining sinuses, resistant organisms, and significant comorbidities.",
+        "Single-stage exchange may be preferred for chronic hip and knee periprosthetic infections when strict protocols are followed."
+      ]
+    },
+    {
+      "pmid": "41936830",
+      "title": "Postoperative Oral Antibiotics Continue to Increase in Prevalence Without Associated Improvements in One-Year Periprosthetic Joint Infection Rates.",
+      "authors": [
+        "Rainey JP",
+        "Blackburn BE",
+        "Anderson LA",
+        "Archibeck MJ",
+        "Pelt CE",
+        "Peters CL",
+        "Certain LK",
+        "Gililland JM"
+      ],
+      "authors_short": "Rainey JP, Blackburn BE, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: In an effort to reduce periprosthetic joint infections (PJIs) following total hip arthroplasty (THA) and total knee arthroplasty (TKA), extended oral antibiotic (EOA) prophylaxis has gained national popularity. Given conflicting literature on the topic, the aim of this study was to determine if prescription of oral antibiotics at the time of primary arthroplasty was associated with a reduced risk of PJI at one year. METHODS: All patients who underwent primary THA or TKA from January 1, 2016, to November 1, 2024, were included from a large national database. Patients who received at least 48 hours of postoperative oral cefadroxil or cephalexin were matched 1:5 to those who did not receive postoperative antibiotics using propensity scores based on age, sex, body mass index, diabetes, chronic kidney disease, discharge disposition, and procedure type. The primary outcome was PJI within one year postoperatively. A total of 170,016 patients were included, and 28,336 (16.7%) received postoperative antibiotics. RESULTS: The one-year PJI rate was higher among patients prescribed antibiotics compared to those who were not (2.3 versus 1.1%, P < 0.001). After adjusting for risk factors, antibiotic prescription remained associated with an increased odds of PJI (odds ratio (OR) 2.02, 95% confidence interval (CI) 1.85 to 2.22). This was observed for low-risk patients (OR 2.75, 95% CI 2.24 to 3.37), but not high-risk patients (OR 1.40, 95% CI 0.94 to 2.10). When stratified by procedure, antibiotic use was associated with higher infection rates after TKA (2.5 versus 1.0%; OR 2.62, 95% CI 2.27 to 3.03) and after THA (2.0 versus 1.3%; OR 1.43, 95% CI 1.23 to 1.67). CONCLUSION: Extended postoperative oral antibiotics after primary THA and TKA have become increasingly common. However, this database study showed no reduction in one-year PJI rates or risk among those who received them, despite accounting for key risk factors.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41936830/",
+      "score": 91,
+      "score_reasoning": "Large national database study of 170,016 patients showing postoperative oral antibiotics associated with increased PJI risk, challenging current practice with robust propensity-matched analysis.",
+      "bullets": [
+        "Extended oral antibiotic prophylaxis after primary hip and knee replacement doubled from 2016 to 2024 but showed no reduction in one-year periprosthetic joint infection rates.",
+        "Patients receiving postoperative oral antibiotics had higher infection rates than controls (2.3% vs 1.1%), with the effect strongest in low-risk patients and after knee replacement.",
+        "Despite propensity matching for major risk factors, extended oral antibiotics provided no protective benefit against periprosthetic joint infection in this large national database study."
+      ]
+    },
+    {
+      "pmid": "41934361",
+      "title": "Duloxetine Improves Early Clinical Outcomes Including Range of Motion, Functional Scores, Pain, and Psychological Distress After Arthroscopic Rotator Cuff Repair in Patients With Anxiety or Depression: Prospective Randomized Controlled Trial.",
+      "authors": [
+        "Han SC",
+        "Han J",
+        "Min YK",
+        "Han JW",
+        "Jeong HJ",
+        "Oh JH"
+      ],
+      "authors_short": "Han SC, Han J, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Anxiety and depression are known risk factors for poor prognosis after arthroscopic rotator cuff repair (ARCR). However, studies that examine relief of postoperative psychological distress in patients with anxiety and/or depression remain limited. PURPOSE: To evaluate the effect of duloxetine on the clinical outcomes of ARCR for chronic rotator cuff tears in patients with anxiety and/or depression. STUDY DESIGN: Randomized controlled clinical trial; Level of evidence, 2. METHOD: A total of 63 patients undergoing ARCR were enrolled and categorized into 3 groups based on Hospital Anxiety and Depression Scale (HADS) scores and the use of oral duloxetine: group A (anxiety <8 and depression <8, healthy psychological status; n = 20); group B (anxiety \u22658 and/or depression \u22658, psychological distress receiving duloxetine administration; n = 21); and group C (anxiety \u22658 and/or depression \u22658, psychological distress receiving no duloxetine treatment; n = 22). Duloxetine was administered orally from the evening of the surgery. The dosage was 30 mg/d for the first 2 weeks. After the adaptation period, the dosage was increased to 60 mg/d for 12 weeks. Primary outcome was active forward flexion at postoperative 3 months. Other functional outcomes, structural outcomes, analgesic consumption, and duloxetine-related side effects were assessed at postoperative 3, 6, and 12 months and annually thereafter. RESULTS: No severe adverse events related to duloxetine were observed. However, 16% (4/25) of patients in group B experienced nausea and vomiting after duloxetine administration. Although symptoms resolved completely after antiemetic intervention, the patients withdrew from the study due to the drug-related adverse event. In the first 3 months after surgery, group B showed better range of motion (ROM), better functional outcomes (American Shoulder and Elbow Surgeons Standardized Assessment Form [ASES] and Simple Shoulder Test [SST]), better anxiety scores, better pain scores, and less opioid consumption than did group C (all adjusted P < .05). These differences were not observed between groups A and B (all adjusted P > .05). Functional outcomes and retear rates did not differ among the 3 groups at later follow-up. CONCLUSION: Administration of duloxetine to ARCR patients with anxiety and/or depressive distress screened using HADS not only improved anxiety and distress but also enhanced active ROM, ASES, and SST in the first 3 months postoperatively, although 16% of patients experienced nausea and vomiting.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41934361/",
+      "score": 87,
+      "score_reasoning": "Prospective RCT showing duloxetine improves multiple clinical outcomes after rotator cuff repair in patients with anxiety/depression, addressing an underserved population.",
+      "bullets": [
+        "Duloxetine given after arthroscopic rotator cuff repair improves range of motion, function scores, and pain at 3 months in patients with anxiety or depression compared to no treatment.",
+        "Benefits disappear after 3 months with no difference in long-term outcomes or retear rates between duloxetine and control groups.",
+        "16% of patients stopped duloxetine due to nausea and vomiting, though symptoms resolved with antiemetics."
+      ]
+    },
+    {
+      "pmid": "41923655",
+      "title": "Risk Factors for Infection After Ankle, Knee, Hip, Shoulder, or Elbow Arthroscopy: A Systematic Review and Meta-analysis.",
+      "authors": [
+        "Saraf A",
+        "Iwamoto S",
+        "Krishna S",
+        "Young VG",
+        "Bowman EN"
+      ],
+      "authors_short": "Saraf A, Iwamoto S, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Arthroscopy is a commonly performed orthopaedic procedure with postoperative infection risk factors including male sex, tobacco use, and preoperative steroid injections. However, studies focusing on risk factors are limited to single joints with limited numbers of patients; therefore, inconsistencies remain. PURPOSE: To review and analyze predictive risk factors for postarthroscopy infections across arthroscopy of the ankle, knee, hip, shoulder, and elbow. STUDY DESIGN: Systematic review and meta-analysis; Level of evidence, 3. METHODS: The PubMed, Scopus, and Embase databases were searched using terms related to \"arthroscopy\" and \"infection\" to determine risk associated with patient-specific factors. Pooled analysis was conducted using R for smoking, diabetes mellitus (DM), body mass index (BMI) between\u200930 and 40, BMI >40, intraoperative corticosteroid injection (CSI), and preoperative CSI administration at 2-week intervals up to 8 weeks before operation. RESULTS: The search included 1384 studies, of which 125 were determined to meet all inclusion criteria. Postarthroscopic infection risk is significantly increased in patients who had intraoperative intra-articular steroid use (OR, 5.97; 95% CI, 2.66-13.39), steroid use within 2 weeks (OR, 3.36; 95% CI, 2.43-4.65) and 2 to 4 weeks before operation (OR, 1.89; 95% CI, 1.48-2.42), DM (OR, 1.49; 95% CI, 1.24-1.79), BMI of 30 to 40 (OR, 1.29; 95% CI, 1.22-1.37), and BMI >40 (OR, 1.76; 95% CI, 1.41-2.19) and patients who smoked tobacco (OR, 1.59; 95% CI, 1.38-1.83).The overall risk of infection was 0.84%. Across joints, infection rates varied by procedure type. Knee and hip surgeries demonstrated low weighted mean infection rates (0.61% and 0.59%, respectively), as did shoulder procedures (0.47%). Elbow surgeries had the highest mean infection rate (2.3%), and limited data suggested a low rate for ankle procedures (0.27%). CONCLUSION: Significant increases in postoperative infection risk in patients who underwent arthroscopy of the ankle, knee, hip, shoulder, and elbow were noted with intraoperative intra-articular CSI administration or preoperative CSI administration within 4 weeks of surgery, BMI >30, diabetes, and smoking tobacco. Given the prevalence of these risk factors, patient-specific considerations and interventions should be used to mitigate risk and improve patient outcomes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41923655/",
+      "score": 86,
+      "score_reasoning": "Controlled laboratory study demonstrating cold saline submersion significantly improves chondrocyte viability in osteochondral allograft harvest, with direct surgical applications.",
+      "bullets": [
+        "Intraoperative steroid injections increase arthroscopic infection risk by 6-fold, with preoperative steroids within 2-4 weeks also significantly increasing risk.",
+        "Obesity (BMI >30), diabetes, and smoking all increase post-arthroscopic infection rates across ankle, knee, hip, shoulder, and elbow procedures.",
+        "Elbow arthroscopy has the highest infection rate at 2.3%, while knee, hip, and shoulder procedures have rates under 1%."
+      ]
+    },
+    {
+      "pmid": "41921051",
+      "title": "Clinical Outcomes Following Open Tibial Fractures in Latin America: A Multicenter Prospective Study.",
+      "authors": [
+        "MacKechnie MC",
+        "Quintero JE",
+        "Amadei R",
+        "Rio M",
+        "Shearer DW",
+        "Bidolegui F",
+        "Madrigal R",
+        "Gonz\u00e1lez Torres JC",
+        "Segovia J",
+        "Salazar Del Villar M",
+        "Vega MO",
+        "Morshed S",
+        "Kohn MA",
+        "Miclau T"
+      ],
+      "authors_short": "MacKechnie MC, Quintero JE, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: The study compared health-related quality of life and fracture-healing based on the fixation method following isolated open tibial fractures in Latin America. METHODS: A prospective study was conducted across 18 trauma centers in 8 countries. Adult patients with isolated open tibial diaphyseal fractures were included. The primary outcome measures were Physical Component Summary (PCS) and Mental Component Summary (MCS) scores of the 12-Item Short Form Health Survey (SF-12), which was administered at baseline and at follow-up at 6, 12, 26, and 52 weeks. The secondary outcome measure was the modified Radiographic Union Scale for Tibial Fractures (mRUST) score. RESULTS: Of 422 patients, 389 had a baseline evaluation, with 352 (83.4% of the 422) completing at least 1 SF-12 follow-up and 309 (73.2%) completing at least 1 SF-12 follow-up and having radiographic follow-up within 1 year postoperatively. Initial definitive intramedullary nailing and external fixation or casting followed by staged intramedullary nailing were the most common fixation strategies. Both fixation methods were performed with similar frequency for Gustilo-Anderson (GA) Type-I and II injuries. The majority of GA Type-IIIA and IIIB/C fractures were treated with staged fixation. The presence of minimal or superficial contamination did not influence whether fractures were treated with initial intramedullary nailing or staged intramedullary nailing, whereas the presence of deep contamination was associated with staged management. For all GA types combined, initial definitive intramedullary nailing was associated with significantly higher PCS and MCS scores at 1 year than staged fixation. The mRUST scores at 1 year for all GA types combined were higher with initial definitive intramedullary nailing than with staged intramedullary nailing. CONCLUSIONS: Staged treatment remains common in Latin America, even for less severe injuries. Initial intramedullary nailing was associated with improved PCS and MCS scores and significantly higher mRUST scores relative to staged intramedullary nailing. LEVEL OF EVIDENCE: Therapeutic Level II. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41921051/",
+      "score": 84,
+      "score_reasoning": "High-quality systematic review of 22,611 GLP-1 RA users showing reduced readmissions and complications after TJA, addressing a timely clinical question.",
+      "bullets": [
+        "Open tibial fractures treated with immediate intramedullary nailing had better quality of life scores and faster healing than staged fixation at one year.",
+        "Latin American trauma centers frequently use staged fixation even for lower grade open tibial fractures where immediate nailing could be considered.",
+        "Deep contamination predicted staged treatment while superficial contamination did not influence fixation timing decisions."
+      ]
+    },
+    {
+      "pmid": "41932675",
+      "title": "Return to Sport After Shoulder Arthroplasty: An ASES Multicenter Analysis of Sport-Specific Predictors of Performance in Reverse Shoulder Arthroplasty and Total Shoulder Arthroplasty.",
+      "authors": [
+        "Corban J",
+        "Kirsch JM",
+        "Bowler A",
+        "Glass EA",
+        "Diestel DR",
+        "Arnold RP",
+        "McDonald-Stahl M",
+        "Stevens CS",
+        "Puzzitiello R",
+        "Moverman MA",
+        "Le K",
+        "Dunn W",
+        "Jawa A"
+      ],
+      "authors_short": "Corban J, Kirsch JM, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Many patients undergoing shoulder arthroplasty - either reverse shoulder arthroplasty (rTSA) or anatomic shoulder arthroplasty (aTSA) - strongly desire to return to sport, yet return-to-sport (RTS) outcomes remain incompletely defined. This study aimed to determine RTS rates following rTSA and aTSA and to identify patient- and sport-specific factors associated with postoperative athletic performance. METHODS: A multicenter retrospective analysis with prospective administration of RTS questionnaires was conducted among patients who underwent rTSA or aTSA between one and three years postoperatively. Twenty-four ASES surgeons from 17 U.S. institutions participated. Study design and parameters were defined using a Delphi consensus method. The RTS questionnaire assessed participation in seven sports: golf, pickleball, tennis, running, weightlifting, yoga, and swimming. Outcomes included RTS status, changes in performance, enjoyment, participation frequency, time to RTS, and shoulder satisfaction (0-10). Univariate ANOVA compared outcomes across sports. Two age- and gender-matched propensity score analyses compared (1) rTSA versus aTSA for glenohumeral osteoarthritis (GHOA) and (2) rTSA for GHOA versus rotator cuff arthropathy (RCA). Multivariate logistic regression identified predictors of worse postoperative performance. RESULTS: A total of 961 patients completed the questionnaire; 55.9% (n=537) participated in at least one sport preoperatively and attempted RTS postoperatively, yielding 656 sport participations. Mean follow-up was 24.0 \u00b1 8.1 months, mean age was 68.3 \u00b1 8.2 years, mean BMI was 28.5 \u00b1 5.8, and 65.6% were male. Across all sports, 89.2% of participants were still playing, and 80.2% reported improved or unchanged performance, with no differences between sports. Overall RTS rates were highest for running (92.9%), tennis (92.3%), and weightlifting (93.1%). Most patients returned within 3-6 months (44.7%). In matched GHOA cohorts (n=165 each), rTSA demonstrated higher rates of improved or stable performance (87.9% vs 78.9%, P=0.039) and greater satisfaction (P=0.007) compared to aTSA, with similar RTS rates (93.3% vs 89.1%). Diagnosis of GHOA (OR 0.20, P=0.001) and post capsulorrhaphy arthropathy (OR 0.07, P=0.021) were independently associated with lower odds of worsened postoperative sport performance. CONCLUSION: Return to sport following shoulder arthroplasty is high, with most patients reporting maintained or improved performance. In patients with GHOA, rTSA was associated with higher rates of improved or stable sport performance and greater satisfaction compared to aTSA.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41932675/",
+      "score": 81,
+      "score_reasoning": "Multicenter ASES study of 961 patients providing comprehensive return-to-sport data for shoulder arthroplasty across multiple sports and procedures.",
+      "bullets": [
+        "Patients return to sport in 89% of cases after shoulder arthroplasty, with 80% maintaining or improving performance across golf, tennis, running, and other activities.",
+        "For glenohumeral arthritis patients, reverse shoulder arthroplasty provides better sport performance outcomes and satisfaction compared to anatomic total shoulder arthroplasty.",
+        "Most patients return to their sport within 3 to 6 months after shoulder arthroplasty regardless of implant type or specific sport."
+      ]
+    },
+    {
+      "pmid": "41937582",
+      "title": "Evaluating the Necessity of Follow-Up Radiographs in Nonoperative Clavicle Fractures in Children Aged 1 to 10 Years.",
+      "authors": [
+        "DeCicco T",
+        "Grande O",
+        "Mack K",
+        "Belal K",
+        "Pavlesen S",
+        "Ferrick M"
+      ],
+      "authors_short": "DeCicco T, Grande O, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Clavicle fractures are the most common long bone fracture in the pediatric population. It is common practice to obtain 2 follow-up x-rays around 1 and 3 months postinjury in nonoperative fractures. The goal of this study is to assess the rate of change in management following routine follow-up x-rays and to determine if follow-up x-rays can potentially be eliminated from standard clinical management for pediatric nonoperative clavicle fractures. METHODS: This is a retrospective chart review that included pediatric (age: 1 to 10\u00a0y) clavicle fractures from 4 attending physicians between January 1, 2010 and December 31, 2023 (n=615). Demographics, mechanism of injury, side of injury, time from injury to immobilization, type of fracture, type of immobilization, length of follow-up, and the number of follow-up x-rays were recorded. Patient outcome characteristics noted included pain at the final visit, physical therapy referrals, limited range of motion, changes in management, and complications. RESULTS: Five hundred four fractures from 496 patients (62.7% male) were included. The average age was 5.4 years (range: 1 to 10\u00a0y). A sling was used most often (63.9%) as immobilization. Average time from injury to discharge from care was 50.2 days (range: 15 to 204\u00a0d). During follow-up, 178 (35.3%) fractures had 1 x-ray, 226 (44.8%) fractures had 2, 74 (14.7%) fractures had 3, 19 (3.8%) fractures had 4, and 2 (0.4%) fractures had \u22655 follow-up x-rays. We observed 16 (3.2%) change in management cases and 8 (1.6%) complication cases. Of the 16 changes in management cases, 13 changes followed the first follow-up x-ray, while 3 followed the second. Of the 95 (18.8%) cases that had >2 follow-up x-rays, 2 (2.1%) experienced complications, 3 (3.2%) had a change in management, and 1 (1.1%) had both a complication and a change in management. CONCLUSIONS: Our results suggest that no more than 1 follow-up x-ray in nonoperative pediatric clavicle fractures is necessary unless otherwise indicated by clinical history and exam. Minimizing follow-up x-rays proves significant in eliminating costs and unnecessary radiation exposure. LEVEL OF EVIDENCE: Level IV-case series.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41937582/",
+      "score": 76,
+      "score_reasoning": "Large retrospective study of 504 pediatric clavicle fractures showing low management change rate (3.2%) after routine follow-up radiographs, questioning current practice.",
+      "bullets": [
+        "Children aged 1-10 with nonoperative clavicle fractures had management changes in only 3.2% of cases, with 81% of changes occurring after the first follow-up x-ray.",
+        "Getting more than 2 follow-up x-rays provided minimal clinical benefit, with only 3.2% of extensively followed cases requiring management changes.",
+        "One follow-up x-ray appears sufficient for most nonoperative paediatric clavicle fractures unless clinical examination suggests complications."
+      ]
+    },
+    {
+      "pmid": "41936887",
+      "title": "The Neer classification, but not the AO classification, is associated with 10-year clinical outcome in non-operatively treated proximal humeral fractures A cohort study in Malm\u00f6, Sweden.",
+      "authors": [
+        "Cederwall A",
+        "Nordqvist A",
+        "Karlsson MK",
+        "Rosengren BE"
+      ],
+      "authors_short": "Cederwall A, Nordqvist A, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Proximal humeral fracture (PHF) is the fourth most common non-spinal fracture in adults. The long-term clinical outcome following non-operative treatment for different PHF types is unclear. This study aims to evaluate the long-term clinical outcome of non-operatively treated PHF across various fracture types using the Neer- and AO-classifications. METHODS: This cohort study included 255 adults from Malm\u00f6, Sweden, with a PHF in 1981, treated non-operatively. Approximately ten years after the fracture event, 130 individuals (80% of those alive) participated in a follow-up. The fractures were classified by the Neer and AO classifications. Clinical outcome, including range of motion (ROM), pain, and function, were assessed through physical examinations and/or questionnaires. RESULTS: The mean age at fracture was 65 years, the male:female ratio was 1:3, and the mean follow-up time was 10.4 years. Individuals with Neer 1 fractures demonstrated better ROM compared to those with more complex fractures. At follow-up, 78% reported no pain and 79% reported full function. Individuals with Neer 1 fractures reported better function compared to those with more complex fractures. CONCLUSIONS: Fracture complexity according to the Neer classification was associated with clinical outcome 10 years after a non-operatively treated PHF, with less complex PHF showing better ROM and function compared to more complex PHF. No corresponding association was observed with the AO classification. The results of this study may provide a reference for non-operative treatment when evaluating operative methods, and as a starting point for shared decision-making in clinical practice.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41936887/",
+      "score": 67,
+      "score_reasoning": "Long-term cohort study of 255 patients showing Neer classification associated with 10-year outcomes in non-operative proximal humeral fractures.",
+      "bullets": [
+        "Non-operatively treated proximal humeral fractures show good outcomes at 10 years, with 78% pain-free and 79% reporting full function.",
+        "Neer classification predicts long-term outcomes in non-operative treatment, with Neer 1 fractures showing better range of motion and function than complex fractures.",
+        "AO classification does not correlate with 10-year clinical outcomes in non-operatively treated proximal humeral fractures, making it less useful for prognosis."
+      ]
+    },
+    {
+      "pmid": "41934454",
+      "title": "Outcomes of Artery-Only Digital Replantation.",
+      "authors": [
+        "Kobayashi K",
+        "Nishimura K",
+        "Masuyama N",
+        "Sugawara R",
+        "Kamekura S",
+        "Kodoi Y"
+      ],
+      "authors_short": "Kobayashi K, Nishimura K, et al.",
+      "journal": "The Journal of hand surgery",
+      "journal_abbrev": "J Hand Surg Am",
+      "year": "2026",
+      "abstract": "PURPOSE: There is a growing consensus that replanted fingertips can survive with arterial anastomosis alone. This study aimed to evaluate outcomes among individuals undergoing artery-only replantation compared with those undergoing both arterial and venous replantation and to identify factors associated with outcomes. METHODS: This single-center, noninterventional, retrospective cohort study included 177 patients (207 digits) who underwent replantation of Tamai zones I, II, and III at our institution between January 2000 and December 2024. Age, sex, comorbidities, active smoking status, affected side and digit, amputation aspect, fracture type and mechanism, arterial diameter, arterial diameter difference, arterial diameter ratio, vein grafting, warm ischemic time, blood transfusion, and outcomes were investigated and compared between artery-only and nonartery-only replantation groups. RESULTS: The arterial diameter was smaller in the artery-only replantation group, whereas nerve suturing was more frequent in the nonartery-only replantation group. Only two patients who underwent four-digit replantation required blood transfusion. There were no statistically significant differences in outcomes between the artery-only and nonartery-only replantation groups either in the overall cohort or within each zone. CONCLUSIONS: Venous anastomosis should not be pursued excessively, particularly in fingertip replantation. Even for Tamai zone III, it is worthwhile to attempt replantation using artery-only techniques. Neither arterial diameter nor digital injury severity affected outcomes. There is no need for external bleeding at a level that necessitates blood transfusion in artery-only replantation. TYPE OF STUDY/LEVEL OF EVIDENCE: Therapeutic III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41934454/",
+      "score": 56,
+      "score_reasoning": "Single-center retrospective study of 177 patients showing artery-only digital replantation outcomes comparable to combined arterial-venous repair.",
+      "bullets": [
+        "Artery-only digital replantation shows equivalent survival rates to combined arterial and venous repair across all Tamai zones I-III in 207 replanted digits.",
+        "Arterial diameter and injury severity do not affect replantation success, making artery-only technique viable even for zone III injuries.",
+        "External bleeding requiring blood transfusion is unnecessary for artery-only replantation survival, with only 2 of 177 patients requiring transfusion."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-04-06T05:03:28.680638-07:00"
+}
