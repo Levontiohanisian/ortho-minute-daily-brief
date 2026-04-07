@@ -62,22 +62,36 @@ def check_for_approval(date: datetime) -> dict:
             if not body:
                 continue
 
-            # Only look at the first few lines of the reply body
-            # (ignore quoted original message which contains paper numbers)
-            reply_text = _extract_reply_text(body)
-            print(f"  Reply text found: '{reply_text[:100]}'")
+            # Only look at the FIRST non-empty line of the reply.
+            # The editor's reply is just a number (e.g., "8").
+            # We ignore everything else to avoid picking up numbers
+            # from the quoted original preview email.
+            first_line = _get_first_line(body)
+            print(f"  First line of reply: '{first_line}'")
 
-            # Look for a number (e.g., "3" or "paper 3")
-            numbers = re.findall(r'\b(\d{1,2})\b', reply_text)
-            if len(numbers) >= 1:
-                pick1 = int(numbers[0]) - 1  # Convert to 0-indexed
-                if 0 <= pick1 <= 9:  # Sanity check: valid paper number 1-10
+            # The first line should be just a number 1-10
+            match = re.match(r'^\s*(\d{1,2})\s*$', first_line)
+            if match:
+                pick1 = int(match.group(1)) - 1  # Convert to 0-indexed
+                if 0 <= pick1 <= 9:  # Valid paper number 1-10
                     result["picks"] = [pick1]
                     result["no_response"] = False
                     print(f"  Editor picked: #{pick1 + 1}")
                     break
                 else:
-                    print(f"  Number {pick1 + 1} out of range, skipping.")
+                    print(f"  Number {pick1 + 1} out of range (must be 1-10).")
+            else:
+                # Also try: first line contains a number among short text
+                # e.g., "send 8" or "paper 8" or "#8"
+                short_match = re.search(r'#?(\d{1,2})\b', first_line)
+                if short_match and len(first_line) < 30:
+                    pick1 = int(short_match.group(1)) - 1
+                    if 0 <= pick1 <= 9:
+                        result["picks"] = [pick1]
+                        result["no_response"] = False
+                        print(f"  Editor picked: #{pick1 + 1}")
+                        break
+                print(f"  Could not parse a paper number from first line.")
 
         mail.logout()
 
@@ -87,33 +101,19 @@ def check_for_approval(date: datetime) -> dict:
     return result
 
 
-def _extract_reply_text(body: str) -> str:
-    """Extract only the new reply text, excluding quoted original message.
+def _get_first_line(body: str) -> str:
+    """Get the first non-empty line of an email body.
 
-    Gmail replies typically have the quoted original after a line like:
-    'On Mon, Jan 1, 2024 at 5:00 AM ... wrote:'
-    or after '---' or '>' quoted lines.
+    For reply parsing, we only care about the first line because the
+    editor's reply is just a number. Everything after that is either
+    blank lines, signatures, or quoted original message content that
+    contains paper numbers and would cause false matches.
     """
-    lines = body.strip().split("\n")
-    reply_lines = []
-
-    for line in lines:
+    for line in body.strip().split("\n"):
         stripped = line.strip()
-        # Stop at quoted text markers
-        if stripped.startswith(">"):
-            break
-        if re.match(r'^On .+ wrote:$', stripped):
-            break
-        if stripped == "---":
-            break
-        if stripped.startswith("---------- Forwarded message"):
-            break
-        # Stop at the Gmail "On Date, Name wrote:" pattern
-        if re.match(r'^On .+,.+at .+,.+wrote:', stripped):
-            break
-        reply_lines.append(stripped)
-
-    return " ".join(reply_lines).strip()
+        if stripped:
+            return stripped
+    return ""
 
 
 def _get_email_body(msg) -> str:
