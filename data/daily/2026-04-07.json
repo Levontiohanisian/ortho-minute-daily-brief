@@ -1,0 +1,322 @@
+{
+  "brief_date": "2026-04-07",
+  "brief_date_display": "Tuesday, April 07",
+  "candidates": [
+    {
+      "pmid": "41921050",
+      "title": "One-Stage Versus Two-Stage Exchange Arthroplasty for Periprosthetic Joint Infection: A Prospective Randomized Trial.",
+      "authors": [
+        "Fehring TK",
+        "Otero JE",
+        "Fehring KA",
+        "Curtin BM",
+        "Springer BD",
+        "Della Valle CJ",
+        "Parvizi J",
+        "Hietpas K",
+        "Ready A",
+        "Odum SM"
+      ],
+      "authors_short": "Fehring TK, Otero JE, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: A 2-stage approach is most commonly used to treat periprosthetic joint infection (PJI). Some successful studies of the 1-stage approach were underpowered, lacked a 2-stage comparative group, and excluded patients with draining sinuses, comorbidities, and/or antibiotic-resistant organisms. Given the morbidity and expense associated with 2-stage treatment, we conducted a prospective, multicenter, randomized trial to compare the results of 1- and 2-stage PJI treatment, specifically including patients with draining sinuses, comorbidities, and resistant organisms. METHODS: Patients presenting for surgical treatment of a chronic PJI with a known organism following primary total hip or knee arthroplasty were included (with infection defined by Musculoskeletal Infection Society [MSIS] criteria). Patients with prior revision, culture-negative infection, or fungal infection, or who were immunosuppressed or had soft-tissue involvement precluding wound closure, were excluded. Patients were classified according to the McPherson host staging system. Clinical success was defined as (1) no clinical failure or reinfection with the same or new organism; (2) no reoperation for PJI; and (3) no PJI-related death. A double-instrument setup was used for all patients, as were similar irrigation and antibiotic protocols. A total of 323 patients (166 one-stage; 157 two-stage) were randomized. Groups were similar with respect to demographics and host classification. After excluding patients who died or were lost to follow-up, 258 of the 323 patients had 2-year follow-up (135 one-stage and 123 two-stage). The rate of patient loss to follow-up was similar between the treatment groups. RESULTS: Sixteen patients in the 1-stage group and 9 patients in the 2-stage group died prior to 2-year follow-up. Overall, the 2-year success rate of 1-stage treatment was 97% (131 of 135), while the success of 2-stage treatment was 91% (112 of 123) (p = 0.04). Compared with the 2-stage group, the 1-stage group had 3-times the odds of overall success in a regression analysis (unadjusted odds ratio = 3.22 [95% confidence interval = 1.0 to 10.38]). After adjusting for specific variables (McPherson host grade, resistant organism, and draining sinuses), 1-stage treatment also had 3-times the odds of success. CONCLUSIONS: The results of this prospective randomized trial indicated that 1-stage treatment (97% success) was statistically noninferior to 2-stage treatment (91% success) when treating chronic PJI following primary total hip or knee arthroplasty, provided the protocols described here are explicitly followed. Extrapolation to other patient cohorts and clinical situations should be avoided. LEVEL OF EVIDENCE: Therapeutic Level I. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41921050/",
+      "score": 95,
+      "score_reasoning": "Prospective randomized trial comparing one-stage versus two-stage exchange arthroplasty for PJI published in JBJS with large sample size (323 patients) addressing a critical clinical question in arthroplasty.",
+      "bullets": [
+        "Single-stage revision for chronic periprosthetic joint infection achieved 97% success versus 91% for two-stage revision at 2 years in 258 hip and knee patients.",
+        "One-stage treatment had three times higher odds of success even when including patients with draining sinuses, comorbidities, and resistant organisms.",
+        "Single-stage revision may be preferred for chronic PJI but requires strict adherence to double-instrument setup and standardized irrigation protocols."
+      ]
+    },
+    {
+      "pmid": "41940685",
+      "title": "Joint line obliquity disruption negatively affects mid-term patient-reported outcomes following total knee arthroplasty.",
+      "authors": [
+        "Pfl\u00fcger P",
+        "Pedrazzini A",
+        "Fischer L",
+        "Jud L",
+        "Vlachopoulos L",
+        "Fucentese SF"
+      ],
+      "authors_short": "Pfl\u00fcger P, Pedrazzini A, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: The influence of change in coronal alignment on clinical outcomes following total knee arthroplasty (TKA) remains unclear. The Coronal Plane Alignment of the Knee (CPAK) classification can be broken up into arithmetic hip-knee-ankle (aHKA) angle and joint line obliquity (JLO) components, potentially identifying distinct failure mechanisms. This study investigated the influence of change in the magnitude and surgical accuracy of CPAK on patient-reported mid-term outcomes and the risk of aseptic revision. METHODS: This retrospective cohort study included 216 patients (234 TKAs, median age 66 years, 65.3% women) undergoing patient-specific instrumentation in TKA with a minimum follow-up of 5 years. The change in CPAK was divided into aHKA and JLO components. Surgical accuracy was defined as deviation from the planned HKA angle. The primary outcome was the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC). A secondary outcome was aseptic revision of TKA. Multi-stage method robust regression and logistic regression models were used, after adjustment for preoperative WOMAC scores and reintervention. RESULTS: The median WOMAC score improved from 50 (interquartile range [IQR] 24.3) preoperatively to 11 (IQR 19) postoperatively. Our analysis of change in CPAK components revealed JLO disruption as the primary predictor associated with inferior outcomes, with each step change associated with worse WOMAC scores (\u03b2\u2009=\u20093.98, p\u2009=\u20090.02) and increased revision risk (odds ratio\u2009=\u20093.15, p\u2009=\u20090.04). In contrast, change in aHKA was not associated with either outcome. CONCLUSION: Within the CPAK framework, JLO disruption emerged as the primary predictor of patient-reported inferior outcomes and risk of aseptic revision following TKA. Our current findings highlight the importance of preserving native JLO within personalized alignment strategies. Future prospective studies are needed to establish the acceptable degree of JLO change that maintains optimal joint kinematics and patient satisfaction. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41940685/",
+      "score": 88,
+      "score_reasoning": "Retrospective cohort study with 234 TKAs examining joint line obliquity's impact on patient outcomes, highly relevant for TKA surgical technique optimization.",
+      "bullets": [
+        "Disrupting joint line obliquity during TKA worsens patient outcomes and increases revision risk at 5+ year follow-up in 234 knees.",
+        "Each step change in joint line obliquity increased WOMAC scores by 4 points and tripled the odds of aseptic revision.",
+        "Changes in hip-knee-ankle angle alone did not affect outcomes, suggesting joint line obliquity preservation is more critical than overall alignment."
+      ]
+    },
+    {
+      "pmid": "41940446",
+      "title": "Low-Dose Perineural Dexamethasone Enhances Analgesia After Pediatric Hand Surgery Without Elevating Systemic Stress Markers: A Randomized Controlled Trial.",
+      "authors": [
+        "Reysner T",
+        "Ciftci B",
+        "Bialka S",
+        "Gola W",
+        "Czarecki P",
+        "Pietraszek P",
+        "Kowalski G",
+        "Daroszewski P",
+        "Reysner M"
+      ],
+      "authors_short": "Reysner T, Ciftci B, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Supraclavicular brachial plexus block is a widely used technique for upper limb surgery in children. Although perineural dexamethasone has demonstrated efficacy in prolonging analgesia in adults, data on its optimal dosing and systemic safety in pediatric patients are limited. This study aimed to evaluate whether low-dose perineural dexamethasone can prolong postoperative analgesia without increasing systemic stress markers in young children undergoing hand or wrist surgery. METHODS: In this triple-blinded, randomized controlled trial (ClinicalTrials.gov Identifier: NCT06086392), 90 children aged 3 months to 6 years undergoing elective upper extremity surgery were assigned to receive supraclavicular brachial plexus block with 0.2% ropivacaine combined with either normal saline (control), dexamethasone 0.05\u00a0mg/kg, or dexamethasone 0.1\u00a0mg/kg. The primary outcome was time from arrival in the postanesthesia care unit to first administration of rescue opioid analgesia. Secondary outcomes included total opioid consumption, postoperative pain intensity using the FLACC scale, blood glucose levels, neutrophil-to-lymphocyte ratio, platelet-to-lymphocyte ratio, and time to motor recovery. RESULTS: Both dexamethasone groups demonstrated significantly prolonged time to first opioid use compared with the control group (mean\u00b1SD: 19.4\u00b12.2\u00a0h in the 0.1\u00a0mg/kg group, 16.0\u00b11.9\u00a0h in the 0.05\u00a0mg/kg group, and 8.5\u00b11.3\u00a0h in controls; P<0.0001). Total opioid consumption was significantly reduced in the dexamethasone groups. Postoperative pain scores were lower in both intervention groups, especially during the first 12 hours. No significant differences were found among groups in blood glucose, inflammatory markers, or incidence of nerve deficits. Motor recovery was delayed in the dexamethasone groups but did not interfere with early mobilization. CONCLUSIONS: Low-dose perineural dexamethasone (0.05 to 0.1\u00a0mg/kg) safely and effectively prolongs postoperative analgesia and reduces opioid needs in children undergoing upper limb surgery, without causing systemic metabolic or inflammatory disturbances. The 0.05\u00a0mg/kg dose may offer a more favorable balance between analgesic efficacy and motor recovery time. LEVEL OF EVIDENCE: Level I-randomized controlled trial.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41940446/",
+      "score": 86,
+      "score_reasoning": "Triple-blinded RCT evaluating perineural dexamethasone in pediatric hand surgery with 90 patients, excellent study design and clinically relevant for pain management.",
+      "bullets": [
+        "Adding low-dose dexamethasone (0.05-0.1 mg/kg) to supraclavicular blocks in children aged 3 months to 6 years doubles analgesic duration from 8.5 to 16-19 hours and reduces opioid use.",
+        "Both doses provide equivalent pain control for pediatric hand and wrist surgery without affecting blood glucose, inflammatory markers, or causing nerve deficits.",
+        "The 0.05 mg/kg dose offers better motor recovery time while maintaining prolonged analgesia, making it the preferred dose for pediatric upper extremity blocks."
+      ]
+    },
+    {
+      "pmid": "41934051",
+      "title": "The John N. Insall Award: Reduced Reinfection Rate With Intraosseous Vancomycin Administration at Reimplantation in Two-Stage Revision Total Knee Arthroplasty.",
+      "authors": [
+        "Liu JW",
+        "McNamara CA",
+        "Sullivan TC",
+        "Wininger AE",
+        "Brown TS",
+        "Clyburn TA",
+        "Incavo SJ",
+        "Park KJ"
+      ],
+      "authors_short": "Liu JW, McNamara CA, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Recurrent periprosthetic joint infection (PJI) after two-stage exchange total knee arthroplasty (TKA) is associated with increased morbidity and mortality. Intraosseous (IO) vancomycin has been shown to reduce PJI rates in primary and aseptic revision TKA, but its role in two-stage revision for infection remains unknown. This study aimed to compare reinfection rates following IO vancomycin versus intravenous (IV) antibiotic prophylaxis at the time of reimplantation. METHODS: We conducted a retrospective cohort study of 252 patients who underwent two-stage revision for infected TKA at a single institution between July 2016 and March 2025, of whom 101 received IO vancomycin and 151 received IV antibiotics. Patients in the IO group received IV cefazolin plus 500 mg of vancomycin via IO infusion, while those in the IV group received IV cefazolin with or without IV vancomycin, according to surgeon preference. There were no significant differences in average age, body mass index, or sex between the two groups. Most cases involved chronic infection (92%), with coagulase-negative staphylococci (23%) and methicillin-sensitive Staphylococcus aureus (17%) as the most common organisms. Reinfection rates were compared between groups. RESULTS: Reinfection rates were significantly lower in the IO vancomycin group at one year (6 versus 14%, P = 0.049), two years (9 versus 22%, P = 0.025), and three years (16 versus 30%, P = 0.045) after reimplantation. Logistic regression analyses showed that patients who did not receive IO vancomycin at reimplantation had a nearly threefold increased odds of reinfection at three years (odds ratio 2.9, P = 0.025). Of the 44 reinfections, 39 yielded a positive culture, 33 of 39 (85%) of which were sensitive to vancomycin. CONCLUSIONS: Intraosseous vancomycin administration at the time of reimplantation during two-stage revision TKA was associated with significantly reduced rates of recurrent PJI compared to IV antibiotic prophylaxis alone.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41934051/",
+      "score": 85,
+      "score_reasoning": "CCJR Excellence Award paper analyzing substantial clinical benefit in TKA with large prospective registry of 1,240 patients, highly relevant for outcome assessment.",
+      "bullets": [
+        "Intraosseous vancomycin at reimplantation reduces reinfection rates in two-stage revision TKA from 30% to 16% at three years compared to IV antibiotics alone.",
+        "Patients receiving intraosseous vancomycin had nearly three times lower odds of reinfection, with most reinfecting organisms being vancomycin-sensitive.",
+        "This applies to patients undergoing the second stage of two-stage revision for infected TKA, particularly given that 85% of reinfecting organisms were vancomycin-sensitive."
+      ]
+    },
+    {
+      "pmid": "41921058",
+      "title": "Surgical Treatment of Recurrent Lumbar Disc Herniation: To Fuse or Not To Fuse: A Single-Center Analysis of Clinical and Radiographic Characteristics and Surgical Outcomes of 450 Patients.",
+      "authors": [
+        "Fischer G",
+        "Kilian E",
+        "Sch\u00f6mig F",
+        "Vitale J",
+        "Oriordan D",
+        "Puhakka J",
+        "Reitmeir R",
+        "Ropelato M",
+        "Haschtmann D",
+        "Kleinst\u00fcck F",
+        "Fekete T",
+        "Jeszenszky DJ",
+        "Porchet F",
+        "Vajkoczy P",
+        "Galbusera F",
+        "Loibl M"
+      ],
+      "authors_short": "Fischer G, Kilian E, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Optimal surgical treatment for recurrence of lumbar disc herniation (LDH) remains controversial, with options ranging from repeat microdiscectomy (MD) to instrumented fusion (IF). This study aimed to guide surgical decision-making by analyzing reoperation rates, clinical and radiographic risk factors for treatment failure, and functional outcomes following MD versus IF. METHODS: Prospectively collected data from 450 patients in our outcomes database who underwent surgery for recurrent LDH from 2004 through 2023 were retrospectively analyzed. Clinical assessment included predominant symptoms, neurological deficits, and American Society of Anesthesiologists (ASA) grade. Radiographic assessment included disc height, Pfirrmann grade, facet angle, and Modic changes on magnetic resonance imaging, as well as spinopelvic parameters on standing radiographs. Patient-reported outcomes were assessed using the Core Outcome Measures Index (COMI) and achievement of the minimal clinically important change (MCIC) of \u22652.2 points. Propensity-score matching (PSM) was performed to control for confounding factors. Reoperation rates were analyzed with a minimum 5-year follow-up. RESULTS: Of 450 patients with recurrent LDH, 316 (70.2%) underwent MD and 134 (29.8%) underwent IF. In 192 patients after PSM, IF showed nonsignificantly higher MCIC achievement (odds ratio [OR] = 1.20, 95% confidence interval [CI]: 0.66 to 2.17, p = 0.65) and lower COMI scores compared with the MD group (3.34 \u00b1 2.89 versus 4.01 \u00b1 2.95, p = 0.059; derived Oswestry Disability Index [ODI]: 23.8 versus 28.1). IF demonstrated significantly lower reoperation risk compared with MD (15.7% [116/316] versus 36.7% [21/34], p < 0.001). The reoperations following MD were predominantly subsequent IF (73.3%) and repeat MD (23.3%), while the reoperations after IF were predominantly adjacent segment surgery (57.1%) and hardware revision (33.3%). BMI of \u226535 kg/m2 was a significant predictor of reoperation after MD (univariate OR = 3.63, p = 0.039), while disc height of <6 mm (OR = 1.97) and Modic type-1 changes (OR = 1.78) showed trends toward increased reoperation risk (both p < 0.10). CONCLUSIONS: Although both procedures achieved clinical improvement, IF demonstrated superior long-term durability as shown by significantly lower reoperation rates over extended follow-up. Our findings support a risk-stratified surgical selection: IF should be strongly considered in patients with BMI of \u226535 kg/m2 and those with progressive disc degeneration, whereas MD remains appropriate for patients without these risk factors. LEVEL OF EVIDENCE: Therapeutic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41921058/",
+      "score": 83,
+      "score_reasoning": "Prospective study comparing surgical versus nonsurgical treatment for recurrent lumbar disc herniation in 450 patients published in JBJS, addressing important spine surgery decisions.",
+      "bullets": [
+        "For recurrent lumbar disc herniation, fusion had significantly lower reoperation rates than repeat microdiscectomy (15.7% vs 36.7%) over 5+ years.",
+        "Patients with BMI over 35 kg/m\u00b2 had 3.6 times higher risk of reoperation after repeat microdiscectomy, suggesting fusion may be better for obese patients.",
+        "Both procedures improved symptoms similarly, but fusion provides better long-term durability while repeat microdiscectomy remains reasonable for lower-risk patients."
+      ]
+    },
+    {
+      "pmid": "41936472",
+      "title": "Aspirin Is Noninferior to Other Anticoagulants in Low-Risk Patients for Venous Thromboembolism Undergoing Aseptic Revision Total Hip Arthroplasty.",
+      "authors": [
+        "Kim BI",
+        "Suhardi JV",
+        "Gausden EB",
+        "Blevins JL",
+        "Della Valle AG",
+        "Lee GC"
+      ],
+      "authors_short": "Kim BI, Suhardi JV, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: While aspirin (ASA) has been widely adopted as an effective method for deep vein thrombosis (DVT) prevention following primary total hip arthroplasty (THA), concerns remain with regard to its efficacy in the setting of revision THA (rTHA). This study aimed to compare venous thromboembolism (VTE) and transfusion rates between patients receiving ASA versus nonaspirin (non-ASA) anticoagulation following aseptic rTHA. METHODS: Patients undergoing aseptic rTHA from 2016 to 2023 were identified in an administrative database. Exclusion criteria included infection, periprosthetic fracture, prior VTE, coagulopathy, or preoperative anticoagulant use. Patients were grouped by postoperative prophylaxis: ASA alone versus non-ASA anticoagulants. Groups were mutually exclusive, except for patients who started ASA and switched to anticoagulation after a VTE event, who remained in the ASA group. Propensity score matching (1:1) was performed based on demographics, comorbidities, insurances, hospital stays \u2264 one day, years, and Current Procedural Terminology codes, yielding 2,031 matched pairs. Logistic regressions adjusted for Current Procedural Terminology codes. Outcomes included 30- and 90-day DVT, pulmonary embolus, VTE, and transfusion rates. RESULTS: Aspirin was associated with lower 90-day DVT (0.4 versus 1.6%, P < 0.001), pulmonary embolus (0.5 versus 1.3%, P = 0.012), and VTE (0.6 versus 2.4%, P < 0.001). Transfusion rates were similar at both 30 and 90 days. Notably, DVT ultrasound use within 30 days was significantly higher in the non-ASA group (5.0%) than the ASA group (3.2%, P = 0.006). Regressions controlling for either single- or both-component revisions still showed reduced odds of VTE with ASA compared to non-ASA prophylaxis. CONCLUSIONS: Aspirin is a safe, effective, and noninferior option for VTE prophylaxis following aseptic rTHA in appropriately selected patients.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41936472/",
+      "score": 82,
+      "score_reasoning": "Large national database study of 170,016 patients examining postoperative oral antibiotics and PJI rates, important for infection prevention protocols.",
+      "bullets": [
+        "Aspirin showed lower VTE rates than other anticoagulants in low-risk patients after aseptic revision hip arthroplasty (0.6% vs 2.4% at 90 days).",
+        "Transfusion rates were similar between aspirin and other anticoagulants, suggesting aspirin does not increase bleeding risk in this population.",
+        "Results apply only to patients without prior VTE, infection, fracture, or existing coagulation disorders undergoing aseptic revisions."
+      ]
+    },
+    {
+      "pmid": "41932675",
+      "title": "Return to Sport After Shoulder Arthroplasty: An ASES Multicenter Analysis of Sport-Specific Predictors of Performance in Reverse Shoulder Arthroplasty and Total Shoulder Arthroplasty.",
+      "authors": [
+        "Corban J",
+        "Kirsch JM",
+        "Bowler A",
+        "Glass EA",
+        "Diestel DR",
+        "Arnold RP",
+        "McDonald-Stahl M",
+        "Stevens CS",
+        "Puzzitiello R",
+        "Moverman MA",
+        "Le K",
+        "Dunn W",
+        "Jawa A"
+      ],
+      "authors_short": "Corban J, Kirsch JM, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Many patients undergoing shoulder arthroplasty - either reverse shoulder arthroplasty (rTSA) or anatomic shoulder arthroplasty (aTSA) - strongly desire to return to sport, yet return-to-sport (RTS) outcomes remain incompletely defined. This study aimed to determine RTS rates following rTSA and aTSA and to identify patient- and sport-specific factors associated with postoperative athletic performance. METHODS: A multicenter retrospective analysis with prospective administration of RTS questionnaires was conducted among patients who underwent rTSA or aTSA between one and three years postoperatively. Twenty-four ASES surgeons from 17 U.S. institutions participated. Study design and parameters were defined using a Delphi consensus method. The RTS questionnaire assessed participation in seven sports: golf, pickleball, tennis, running, weightlifting, yoga, and swimming. Outcomes included RTS status, changes in performance, enjoyment, participation frequency, time to RTS, and shoulder satisfaction (0-10). Univariate ANOVA compared outcomes across sports. Two age- and gender-matched propensity score analyses compared (1) rTSA versus aTSA for glenohumeral osteoarthritis (GHOA) and (2) rTSA for GHOA versus rotator cuff arthropathy (RCA). Multivariate logistic regression identified predictors of worse postoperative performance. RESULTS: A total of 961 patients completed the questionnaire; 55.9% (n=537) participated in at least one sport preoperatively and attempted RTS postoperatively, yielding 656 sport participations. Mean follow-up was 24.0 \u00b1 8.1 months, mean age was 68.3 \u00b1 8.2 years, mean BMI was 28.5 \u00b1 5.8, and 65.6% were male. Across all sports, 89.2% of participants were still playing, and 80.2% reported improved or unchanged performance, with no differences between sports. Overall RTS rates were highest for running (92.9%), tennis (92.3%), and weightlifting (93.1%). Most patients returned within 3-6 months (44.7%). In matched GHOA cohorts (n=165 each), rTSA demonstrated higher rates of improved or stable performance (87.9% vs 78.9%, P=0.039) and greater satisfaction (P=0.007) compared to aTSA, with similar RTS rates (93.3% vs 89.1%). Diagnosis of GHOA (OR 0.20, P=0.001) and post capsulorrhaphy arthropathy (OR 0.07, P=0.021) were independently associated with lower odds of worsened postoperative sport performance. CONCLUSION: Return to sport following shoulder arthroplasty is high, with most patients reporting maintained or improved performance. In patients with GHOA, rTSA was associated with higher rates of improved or stable sport performance and greater satisfaction compared to aTSA.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41932675/",
+      "score": 75,
+      "score_reasoning": "ASES multicenter analysis of return to sport after shoulder arthroplasty with 961 patients, addresses important patient-centered outcomes.",
+      "bullets": [
+        "89% of patients return to sport after shoulder arthroplasty with 80% reporting unchanged or improved performance across golf, tennis, running, swimming, weightlifting, yoga, and pickleball.",
+        "For glenohumeral arthritis patients, reverse total shoulder arthroplasty produces better sport performance outcomes and higher satisfaction than anatomic total shoulder arthroplasty.",
+        "Most patients return to sport within 3 to 6 months after shoulder arthroplasty, with running, tennis, and weightlifting showing the highest return rates above 92%."
+      ]
+    },
+    {
+      "pmid": "41934361",
+      "title": "Duloxetine Improves Early Clinical Outcomes Including Range of Motion, Functional Scores, Pain, and Psychological Distress After Arthroscopic Rotator Cuff Repair in Patients With Anxiety or Depression: Prospective Randomized Controlled Trial.",
+      "authors": [
+        "Han SC",
+        "Han J",
+        "Min YK",
+        "Han JW",
+        "Jeong HJ",
+        "Oh JH"
+      ],
+      "authors_short": "Han SC, Han J, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Anxiety and depression are known risk factors for poor prognosis after arthroscopic rotator cuff repair (ARCR). However, studies that examine relief of postoperative psychological distress in patients with anxiety and/or depression remain limited. PURPOSE: To evaluate the effect of duloxetine on the clinical outcomes of ARCR for chronic rotator cuff tears in patients with anxiety and/or depression. STUDY DESIGN: Randomized controlled clinical trial; Level of evidence, 2. METHOD: A total of 63 patients undergoing ARCR were enrolled and categorized into 3 groups based on Hospital Anxiety and Depression Scale (HADS) scores and the use of oral duloxetine: group A (anxiety <8 and depression <8, healthy psychological status; n = 20); group B (anxiety \u22658 and/or depression \u22658, psychological distress receiving duloxetine administration; n = 21); and group C (anxiety \u22658 and/or depression \u22658, psychological distress receiving no duloxetine treatment; n = 22). Duloxetine was administered orally from the evening of the surgery. The dosage was 30 mg/d for the first 2 weeks. After the adaptation period, the dosage was increased to 60 mg/d for 12 weeks. Primary outcome was active forward flexion at postoperative 3 months. Other functional outcomes, structural outcomes, analgesic consumption, and duloxetine-related side effects were assessed at postoperative 3, 6, and 12 months and annually thereafter. RESULTS: No severe adverse events related to duloxetine were observed. However, 16% (4/25) of patients in group B experienced nausea and vomiting after duloxetine administration. Although symptoms resolved completely after antiemetic intervention, the patients withdrew from the study due to the drug-related adverse event. In the first 3 months after surgery, group B showed better range of motion (ROM), better functional outcomes (American Shoulder and Elbow Surgeons Standardized Assessment Form [ASES] and Simple Shoulder Test [SST]), better anxiety scores, better pain scores, and less opioid consumption than did group C (all adjusted P < .05). These differences were not observed between groups A and B (all adjusted P > .05). Functional outcomes and retear rates did not differ among the 3 groups at later follow-up. CONCLUSION: Administration of duloxetine to ARCR patients with anxiety and/or depressive distress screened using HADS not only improved anxiety and distress but also enhanced active ROM, ASES, and SST in the first 3 months postoperatively, although 16% of patients experienced nausea and vomiting.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41934361/",
+      "score": 74,
+      "score_reasoning": "RCT examining duloxetine effects on rotator cuff repair outcomes in patients with anxiety/depression, novel approach to psychological factors in surgery.",
+      "bullets": [
+        "Duloxetine improved range of motion, functional scores, and pain in the first 3 months after rotator cuff repair in patients with anxiety or depression.",
+        "Benefits only lasted 3 months, with no differences in functional outcomes or retear rates at longer followup between treated and untreated anxious/depressed patients.",
+        "16% of patients stopped duloxetine due to nausea and vomiting, though symptoms resolved with antiemetics."
+      ]
+    },
+    {
+      "pmid": "41934454",
+      "title": "Outcomes of Artery-Only Digital Replantation.",
+      "authors": [
+        "Kobayashi K",
+        "Nishimura K",
+        "Masuyama N",
+        "Sugawara R",
+        "Kamekura S",
+        "Kodoi Y"
+      ],
+      "authors_short": "Kobayashi K, Nishimura K, et al.",
+      "journal": "The Journal of hand surgery",
+      "journal_abbrev": "J Hand Surg Am",
+      "year": "2026",
+      "abstract": "PURPOSE: There is a growing consensus that replanted fingertips can survive with arterial anastomosis alone. This study aimed to evaluate outcomes among individuals undergoing artery-only replantation compared with those undergoing both arterial and venous replantation and to identify factors associated with outcomes. METHODS: This single-center, noninterventional, retrospective cohort study included 177 patients (207 digits) who underwent replantation of Tamai zones I, II, and III at our institution between January 2000 and December 2024. Age, sex, comorbidities, active smoking status, affected side and digit, amputation aspect, fracture type and mechanism, arterial diameter, arterial diameter difference, arterial diameter ratio, vein grafting, warm ischemic time, blood transfusion, and outcomes were investigated and compared between artery-only and nonartery-only replantation groups. RESULTS: The arterial diameter was smaller in the artery-only replantation group, whereas nerve suturing was more frequent in the nonartery-only replantation group. Only two patients who underwent four-digit replantation required blood transfusion. There were no statistically significant differences in outcomes between the artery-only and nonartery-only replantation groups either in the overall cohort or within each zone. CONCLUSIONS: Venous anastomosis should not be pursued excessively, particularly in fingertip replantation. Even for Tamai zone III, it is worthwhile to attempt replantation using artery-only techniques. Neither arterial diameter nor digital injury severity affected outcomes. There is no need for external bleeding at a level that necessitates blood transfusion in artery-only replantation. TYPE OF STUDY/LEVEL OF EVIDENCE: Therapeutic III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41934454/",
+      "score": 72,
+      "score_reasoning": "Single-center retrospective study of 177 patients comparing artery-only versus combined replantation outcomes, clinically relevant for hand surgery technique.",
+      "bullets": [
+        "Artery-only digital replantation had similar survival rates to arterial plus venous repair across Tamai zones I, II, and III in 177 patients with 207 replanted digits.",
+        "Venous anastomosis is not necessary for successful fingertip replantation, and artery-only technique should be attempted even in more proximal Tamai zone III injuries.",
+        "Arterial diameter and injury severity did not affect replantation outcomes, and excessive bleeding requiring transfusion is not expected with artery-only technique."
+      ]
+    },
+    {
+      "pmid": "41937955",
+      "title": "Low Preoperative Platelet Count Is Associated With Deep Surgical Site Infection in Knee Arthroplasty.",
+      "authors": [
+        "Brown JM",
+        "Lloyd TS",
+        "Eusebio M",
+        "Golzar A",
+        "Li A",
+        "Mehany J",
+        "Chun RF",
+        "Adams JS",
+        "Yeaman MR",
+        "McPherson EJ",
+        "Bernthal NM"
+      ],
+      "authors_short": "Brown JM, Lloyd TS, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Knee arthroplasty (KA) significantly improves pain and function in gonarthrosis. Despite its success, major complications like deep surgical site infection (SSI) remain a concern. Infection treatments often require aggressive protocols, including implant exchange and prolonged antimicrobial therapy, emphasizing the need for preoperative patient optimization to mitigate infection risk. Preoperative platelet count has been proposed as a predictive marker for postoperative infection. Beyond their hemostatic role, platelets possess antimicrobial properties and are considered the first line of defense against microbial proliferation within the surgical site. This database review aims to assess the relationship between preoperative platelet count and deep SSI. METHODS: The National Surgery Quality Improvement Program was queried for patients who underwent primary total or unicompartmental KA between 2015 and 2022 and developed deep SSI within 30 days. Postoperative outcomes were analyzed with respect to platelet count as a continuous and categorical variable. RESULTS: Deep SSI was significantly more common in patients with preoperative platelet counts <150,000/\u03bcl compared to those with higher counts (0.61% vs 0.30%; P < .001). Regression analysis assessed the independent association of preoperative platelet count with deep SSI. The odds ratio for deep SSI with platelet count <50k/\u03bcl was 2.47 (1.42-4.28; P = .001), 1.87 (1.08-3.24; P = .026) for platelet count between 50-100k/\u03bcl, and 1.62 (1.32-2.00; P < .001) for platelet count between 100-150k/\u03bcl, all in reference to patients with platelet counts >150k/\u03bcl. CONCLUSIONS: Thrombocytopenia (<150,000 platelets/\u03bcl) is significantly associated with a higher incidence of deep SSI following KA. Preoperative platelet count may serve as a useful marker for infection risk.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41937955/",
+      "score": 70,
+      "score_reasoning": "Large NSQIP database study examining platelet count and deep SSI risk in knee arthroplasty, useful for preoperative risk stratification.",
+      "bullets": [
+        "Patients with preoperative platelet counts below 150,000/\u03bcl had twice the rate of deep infection after knee arthroplasty compared to those with normal counts (0.61% vs 0.30%).",
+        "The risk of deep surgical site infection increases progressively as platelet count drops, with the highest risk in patients below 50,000/\u03bcl (2.47 times higher odds).",
+        "Preoperative platelet count serves as a useful screening tool to identify knee arthroplasty patients at higher risk for deep infection who may benefit from additional optimization."
+      ]
+    }
+  ],
+  "picks": [
+    7
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-04-07T05:08:18.382217-07:00"
+}
