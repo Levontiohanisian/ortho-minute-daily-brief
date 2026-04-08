@@ -62,16 +62,20 @@ def main():
         print("ERROR: No valid candidates.")
         return 1
 
-    # Check for editor reply
+    # Parse preview timestamp for filtering old replies
+    preview_time = data.get("preview_sent_at")
+    preview_dt = None
+    if preview_time:
+        from datetime import timezone
+        preview_dt = datetime.fromisoformat(preview_time)
+
+    # Check for editor reply (only replies AFTER preview was sent)
     print("Checking for editor reply...")
-    approval = check_for_approval(now)
+    approval = check_for_approval(now, preview_sent_at=preview_dt)
 
     if approval["no_response"]:
-        # Check if 5 hours have passed since preview (auto-send #1)
-        preview_time = data.get("preview_sent_at")
-        if preview_time:
-            from datetime import timezone
-            preview_dt = datetime.fromisoformat(preview_time)
+        # Check if 2 hours have passed since preview (auto-send #1)
+        if preview_dt:
             hours_since = (now - preview_dt).total_seconds() / 3600
             if hours_since >= 2:
                 print(f"No reply after {hours_since:.1f} hours. Auto-sending #1.")

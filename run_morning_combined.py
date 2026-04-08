@@ -38,7 +38,7 @@ def scrape_and_preview():
     print()
     if not papers:
         print("WARNING: No papers found.")
-        return None, None
+        return None, None, None
 
     # Step 2: Score
     print("--- Step 2: Scoring papers ---")
@@ -86,16 +86,18 @@ def scrape_and_preview():
 
     # Step 5: Send preview
     print("--- Step 5: Sending preview email ---")
+    preview_sent_at = datetime.now(PACIFIC)
     send_preview_email(now, ranked)
 
-    return ranked, output_path
+    return ranked, output_path, preview_sent_at
 
 
-def wait_for_reply_and_send(candidates, data_path, max_wait_minutes=30):
+def wait_for_reply_and_send(candidates, data_path, preview_sent_at, max_wait_minutes=30):
     """Poll inbox every 2 minutes. Send as soon as reply is found."""
 
     print()
     print(f"--- Waiting for editor reply (up to {max_wait_minutes} min) ---")
+    print(f"  Only considering replies after: {preview_sent_at.isoformat()}")
 
     start = time.time()
     poll_interval = 120  # 2 minutes
@@ -107,7 +109,7 @@ def wait_for_reply_and_send(candidates, data_path, max_wait_minutes=30):
             return
 
         now = datetime.now(PACIFIC)
-        approval = check_for_approval(now)
+        approval = check_for_approval(now, preview_sent_at=preview_sent_at)
 
         if not approval["no_response"]:
             pick = approval["picks"][0]
@@ -137,11 +139,11 @@ def wait_for_reply_and_send(candidates, data_path, max_wait_minutes=30):
 
 
 def main():
-    candidates, data_path = scrape_and_preview()
+    candidates, data_path, preview_sent_at = scrape_and_preview()
     if not candidates:
         return 1
 
-    wait_for_reply_and_send(candidates, data_path, max_wait_minutes=120)
+    wait_for_reply_and_send(candidates, data_path, preview_sent_at, max_wait_minutes=120)
     return 0
 
 

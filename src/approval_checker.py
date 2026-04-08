@@ -2,18 +2,22 @@
 
 import imaplib
 import email
+import email.utils
 import re
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 
 from .config import GMAIL_ADDRESS, GMAIL_APP_PASSWORD
 
 
-def check_for_approval(date: datetime) -> dict:
+def check_for_approval(date: datetime, preview_sent_at: datetime = None) -> dict:
     """
-    Check Gmail for REPLIES to the preview email (not the original preview).
+    Check Gmail for REPLIES to TODAY's preview email only.
 
-    Only matches emails with "Re:" in the subject to avoid matching the
-    original sent preview email, which contains numbers in its body.
+    Args:
+        date: Current datetime
+        preview_sent_at: When today's preview was sent. Only replies
+            received AFTER this time are considered. This prevents
+            yesterday's reply from being picked up as today's selection.
 
     Returns:
         {
@@ -32,7 +36,6 @@ def check_for_approval(date: datetime) -> dict:
         mail.select("INBOX")
 
         # Search for REPLIES only: must have "Re:" in subject
-        # This excludes the original preview email we sent
         since_date = (date - timedelta(days=1)).strftime("%d-%b-%Y")
         search_criteria = f'(SINCE "{since_date}" SUBJECT "Re:" SUBJECT "PREVIEW")'
         status, message_ids = mail.search(None, search_criteria)
@@ -53,19 +56,23 @@ def check_for_approval(date: datetime) -> dict:
             msg = email.message_from_bytes(msg_data[0][1])
             subject = msg.get("Subject", "")
 
-            # Double-check: subject must start with "Re:" to be a reply
+            # Must be a reply
             if not subject.lower().startswith("re:"):
                 print(f"  Skipping non-reply: {subject[:60]}")
                 continue
+
+            # CRITICAL: Only consider replies received AFTER the preview was sent.
+            # This prevents yesterday's reply from triggering today's send.
+            if preview_sent_at:
+                msg_date = _parse_email_date(msg)
+                if msg_date and msg_date < preview_sent_at:
+                    print(f"  Skipping old reply from {msg_date.isoformat()} (before preview at {preview_sent_at.isoformat()})")
+                    continue
 
             body = _get_email_body(msg)
             if not body:
                 continue
 
-            # Only look at the FIRST non-empty line of the reply.
-            # The editor's reply is just a number (e.g., "8").
-            # We ignore everything else to avoid picking up numbers
-            # from the quoted original preview email.
             first_line = _get_first_line(body)
             print(f"  First line of reply: '{first_line}'")
 
@@ -99,6 +106,21 @@ def check_for_approval(date: datetime) -> dict:
         print(f"Error checking Gmail: {e}")
 
     return result
+
+
+def _parse_email_date(msg) -> datetime:
+    """Parse the Date header from an email into a timezone-aware datetime."""
+    try:
+        date_str = msg.get("Date", "")
+        if not date_str:
+            return None
+        parsed = email.utils.parsedate_to_datetime(date_str)
+        # Ensure timezone-aware (convert naive to UTC)
+        if parsed.tzinfo is None:
+            parsed = parsed.replace(tzinfo=timezone.utc)
+        return parsed
+    except Exception:
+        return None
 
 
 def _get_first_line(body: str) -> str:
