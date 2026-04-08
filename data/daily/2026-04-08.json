@@ -1,0 +1,309 @@
+{
+  "brief_date": "2026-04-08",
+  "brief_date_display": "Wednesday, April 08",
+  "candidates": [
+    {
+      "pmid": "41921050",
+      "title": "One-Stage Versus Two-Stage Exchange Arthroplasty for Periprosthetic Joint Infection: A Prospective Randomized Trial.",
+      "authors": [
+        "Fehring TK",
+        "Otero JE",
+        "Fehring KA",
+        "Curtin BM",
+        "Springer BD",
+        "Della Valle CJ",
+        "Parvizi J",
+        "Hietpas K",
+        "Ready A",
+        "Odum SM"
+      ],
+      "authors_short": "Fehring TK, Otero JE, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: A 2-stage approach is most commonly used to treat periprosthetic joint infection (PJI). Some successful studies of the 1-stage approach were underpowered, lacked a 2-stage comparative group, and excluded patients with draining sinuses, comorbidities, and/or antibiotic-resistant organisms. Given the morbidity and expense associated with 2-stage treatment, we conducted a prospective, multicenter, randomized trial to compare the results of 1- and 2-stage PJI treatment, specifically including patients with draining sinuses, comorbidities, and resistant organisms. METHODS: Patients presenting for surgical treatment of a chronic PJI with a known organism following primary total hip or knee arthroplasty were included (with infection defined by Musculoskeletal Infection Society [MSIS] criteria). Patients with prior revision, culture-negative infection, or fungal infection, or who were immunosuppressed or had soft-tissue involvement precluding wound closure, were excluded. Patients were classified according to the McPherson host staging system. Clinical success was defined as (1) no clinical failure or reinfection with the same or new organism; (2) no reoperation for PJI; and (3) no PJI-related death. A double-instrument setup was used for all patients, as were similar irrigation and antibiotic protocols. A total of 323 patients (166 one-stage; 157 two-stage) were randomized. Groups were similar with respect to demographics and host classification. After excluding patients who died or were lost to follow-up, 258 of the 323 patients had 2-year follow-up (135 one-stage and 123 two-stage). The rate of patient loss to follow-up was similar between the treatment groups. RESULTS: Sixteen patients in the 1-stage group and 9 patients in the 2-stage group died prior to 2-year follow-up. Overall, the 2-year success rate of 1-stage treatment was 97% (131 of 135), while the success of 2-stage treatment was 91% (112 of 123) (p = 0.04). Compared with the 2-stage group, the 1-stage group had 3-times the odds of overall success in a regression analysis (unadjusted odds ratio = 3.22 [95% confidence interval = 1.0 to 10.38]). After adjusting for specific variables (McPherson host grade, resistant organism, and draining sinuses), 1-stage treatment also had 3-times the odds of success. CONCLUSIONS: The results of this prospective randomized trial indicated that 1-stage treatment (97% success) was statistically noninferior to 2-stage treatment (91% success) when treating chronic PJI following primary total hip or knee arthroplasty, provided the protocols described here are explicitly followed. Extrapolation to other patient cohorts and clinical situations should be avoided. LEVEL OF EVIDENCE: Therapeutic Level I. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41921050/",
+      "score": 85,
+      "score_reasoning": "Prospective randomized trial comparing one-stage vs two-stage treatment for PJI with excellent clinical relevance, high-quality study design, and large sample size addressing a critical clinical question.",
+      "bullets": [
+        "Single-stage exchange for chronic hip and knee periprosthetic infection achieved 97% success versus 91% for two-stage exchange at 2 years in 258 patients.",
+        "One-stage treatment was effective even in patients with draining sinuses, comorbidities, and antibiotic-resistant organisms previously considered poor candidates.",
+        "Single-stage exchange had three times higher odds of success than two-stage when using standardized protocols including double-instrument setup."
+      ]
+    },
+    {
+      "pmid": "41934051",
+      "title": "The John N. Insall Award: Reduced Reinfection Rate With Intraosseous Vancomycin Administration at Reimplantation in Two-Stage Revision Total Knee Arthroplasty.",
+      "authors": [
+        "Liu JW",
+        "McNamara CA",
+        "Sullivan TC",
+        "Wininger AE",
+        "Brown TS",
+        "Clyburn TA",
+        "Incavo SJ",
+        "Park KJ"
+      ],
+      "authors_short": "Liu JW, McNamara CA, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Recurrent periprosthetic joint infection (PJI) after two-stage exchange total knee arthroplasty (TKA) is associated with increased morbidity and mortality. Intraosseous (IO) vancomycin has been shown to reduce PJI rates in primary and aseptic revision TKA, but its role in two-stage revision for infection remains unknown. This study aimed to compare reinfection rates following IO vancomycin versus intravenous (IV) antibiotic prophylaxis at the time of reimplantation. METHODS: We conducted a retrospective cohort study of 252 patients who underwent two-stage revision for infected TKA at a single institution between July 2016 and March 2025, of whom 101 received IO vancomycin and 151 received IV antibiotics. Patients in the IO group received IV cefazolin plus 500 mg of vancomycin via IO infusion, while those in the IV group received IV cefazolin with or without IV vancomycin, according to surgeon preference. There were no significant differences in average age, body mass index, or sex between the two groups. Most cases involved chronic infection (92%), with coagulase-negative staphylococci (23%) and methicillin-sensitive Staphylococcus aureus (17%) as the most common organisms. Reinfection rates were compared between groups. RESULTS: Reinfection rates were significantly lower in the IO vancomycin group at one year (6 versus 14%, P = 0.049), two years (9 versus 22%, P = 0.025), and three years (16 versus 30%, P = 0.045) after reimplantation. Logistic regression analyses showed that patients who did not receive IO vancomycin at reimplantation had a nearly threefold increased odds of reinfection at three years (odds ratio 2.9, P = 0.025). Of the 44 reinfections, 39 yielded a positive culture, 33 of 39 (85%) of which were sensitive to vancomycin. CONCLUSIONS: Intraosseous vancomycin administration at the time of reimplantation during two-stage revision TKA was associated with significantly reduced rates of recurrent PJI compared to IV antibiotic prophylaxis alone.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41934051/",
+      "score": 82,
+      "score_reasoning": "John N. Insall Award-winning study showing reduced reinfection rates with intraosseous vancomycin in two-stage revision TKA, addressing a major clinical problem with strong evidence and large sample size.",
+      "bullets": [
+        "Intraosseous vancomycin at reimplantation reduces reinfection rates in two-stage revision TKA from 30% to 16% at three years compared to IV antibiotics alone.",
+        "Patients receiving IV antibiotics only had nearly three times higher odds of reinfection after two-stage exchange for infected knee replacements.",
+        "Most reinfections (85%) were caused by vancomycin-sensitive organisms, supporting targeted local antibiotic delivery during reimplantation surgery."
+      ]
+    },
+    {
+      "pmid": "41947828",
+      "title": "Quantifying the Opportunity Cost of Resident Involvement in Total Hip and Knee Arthroplasty.",
+      "authors": [
+        "Ahmad M",
+        "Driscoll JA",
+        "Jee Y",
+        "Durand N",
+        "Hinckel BB",
+        "Cavinatto L"
+      ],
+      "authors_short": "Ahmad M, Driscoll JA, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Resident participation in total hip arthroplasty and total knee arthroplasty (THA/TKA) is important, but the time-driven financial impact remains unclear. We quantified the \"opportunity cost\" of resident involvement in THA and TKA. METHODS: Primary THA and TKA cases were identified at a single academic center (2013-2017). Cases were attending-only (AO) or resident-involved (RI). Fellows excluded. RI was stratified between juniors (postgraduate year I-III) and seniors (postgraduate year IV-V). Outcomes included operative efficiency and financial productivity. Relative value units/case were fixed at 19.6 to isolate time-driven effects. RESULTS: A total of 3,217 AO and 1,148 RI THA cases, and 4,174 AO and 1,235 RI TKA cases were analyzed. RI increased operative time (THA +4.0 minutes, 95% CI [2.3, 5.7]; TKA +7.9 minutes, 95% CI [6.7, 9.1]; both p<0.001) but reduced set-up time (THA -1.7 minutes, 95% CI [-2.2, -1.2]; TKA -1.6 minutes, 95% CI [-2.0, -1.2]; both p<0.001), partially offsetting total operating room (OR) time (THA +2.3 minutes; TKA +6.3 minutes). Juniors concentrated these effects. Seniors approximated AO efficiency and had quicker THA total OR times. Per-case opportunity costs were small: operative-time (THA $36.81; TKA $76.51) and total OR time (THA $15.16; TKA $7.22). Seniors showed a $12.99 per-case savings on a THA total OR time basis. CONCLUSIONS: Resident participation in primary THA/TKA carries small, experience-dependent costs, partially offset with seniority and quicker set-up times. These findings may reflect anticipatory workflow gains and offer insights into schedule optimization.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41947828/",
+      "score": 75,
+      "score_reasoning": "Large retrospective study quantifying opportunity costs of resident involvement in arthroplasty with direct practice implications for academic centers and surgical efficiency.",
+      "bullets": [
+        "Resident involvement in primary hip and knee replacements adds 4 minutes to hip cases and 8 minutes to knee cases compared to attending-only procedures.",
+        "Junior residents drive most of the time increase while senior residents perform nearly as efficiently as attendings alone.",
+        "The financial opportunity cost is minimal at $37 per hip case and $77 per knee case based on operative time alone."
+      ]
+    },
+    {
+      "pmid": "41935758",
+      "title": "Evaluating the Impact of Artificial Intelligence Scribes on Clinical Workflow and Documentation Quality: A Randomized Controlled Trial.",
+      "authors": [
+        "Etagiuri A",
+        "Chaudhry D",
+        "van der Merwe J",
+        "Nickol M",
+        "van der Merwe JM"
+      ],
+      "authors_short": "Etagiuri A, Chaudhry D, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: The adoption of artificial intelligence (AI) scribes has grown rapidly in recent years, aiming to improve clinical workflow, increase efficiency, and reduce administrative burden by transcribing doctor-patient interactions. These systems capture in-office conversations and generate summaries using either standard or surgeon-specific templates. However, to date, no randomized controlled trials have rigorously assessed the proposed benefits of AI scribes. This randomized controlled trial focused on assessing AI scribe efficiency, error rate, accuracy, and patients' perceptions in comparison to traditional clinical dictation-transcription methods. METHODS: A randomized controlled trial was conducted involving 304 patients in a single-surgeon adult reconstruction practice. Patients were allocated into two groups: a conventional documentation group (using dictation transcribed by the office administrator or preconstructed templates: 140 patients) and an AI scribe group (139 patients). Timing data were recorded from when the surgeon entered a consultation room to when they began with the next patient. Additional data included administrative processing times, such as transcription and faxing of medical letters. All documentation was reviewed for medical errors by the surgeon in both groups. Grammar, spelling, and wrong wording were assessed by unblinded researchers. Letter quality was independently assessed using ChatGPT, focusing on grammar, clarity, and completeness. RESULTS: Use of AI scribes resulted in a statistically significant reduction in both physician and administrative processing times (P < 0.0001). There was no significant difference in spelling or grammatical errors between groups. However, letters produced using AI scribes were rated as significantly more complete, professional, and clear. There were 19 medical errors in the AI scribe group compared to only nine errors in the conventional group. Patients were not negatively affected by using an AI scribe, and the vast majority found it helpful. CONCLUSION: The use of AI scribes can effectively enhance clinical efficiency and reduce administrative workload without compromising documentation quality or patient safety. Their implementation offers meaningful benefits to both physicians and office staff, allowing more focus on patient care and other critical tasks.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41935758/",
+      "score": 74,
+      "score_reasoning": "Randomized controlled trial evaluating AI scribes in clinical practice with practical implications for workflow efficiency and documentation quality in orthopedic surgery.",
+      "bullets": [
+        "AI scribes reduced both physician consultation time and administrative processing time compared to traditional dictation in 304 adult reconstruction patients.",
+        "AI scribe documentation was more complete and professional but had twice as many medical errors (19 vs 9) compared to conventional documentation.",
+        "Patients found AI scribes helpful with no negative impact on their experience or satisfaction with care."
+      ]
+    },
+    {
+      "pmid": "41934361",
+      "title": "Duloxetine Improves Early Clinical Outcomes Including Range of Motion, Functional Scores, Pain, and Psychological Distress After Arthroscopic Rotator Cuff Repair in Patients With Anxiety or Depression: Prospective Randomized Controlled Trial.",
+      "authors": [
+        "Han SC",
+        "Han J",
+        "Min YK",
+        "Han JW",
+        "Jeong HJ",
+        "Oh JH"
+      ],
+      "authors_short": "Han SC, Han J, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Anxiety and depression are known risk factors for poor prognosis after arthroscopic rotator cuff repair (ARCR). However, studies that examine relief of postoperative psychological distress in patients with anxiety and/or depression remain limited. PURPOSE: To evaluate the effect of duloxetine on the clinical outcomes of ARCR for chronic rotator cuff tears in patients with anxiety and/or depression. STUDY DESIGN: Randomized controlled clinical trial; Level of evidence, 2. METHOD: A total of 63 patients undergoing ARCR were enrolled and categorized into 3 groups based on Hospital Anxiety and Depression Scale (HADS) scores and the use of oral duloxetine: group A (anxiety <8 and depression <8, healthy psychological status; n = 20); group B (anxiety \u22658 and/or depression \u22658, psychological distress receiving duloxetine administration; n = 21); and group C (anxiety \u22658 and/or depression \u22658, psychological distress receiving no duloxetine treatment; n = 22). Duloxetine was administered orally from the evening of the surgery. The dosage was 30 mg/d for the first 2 weeks. After the adaptation period, the dosage was increased to 60 mg/d for 12 weeks. Primary outcome was active forward flexion at postoperative 3 months. Other functional outcomes, structural outcomes, analgesic consumption, and duloxetine-related side effects were assessed at postoperative 3, 6, and 12 months and annually thereafter. RESULTS: No severe adverse events related to duloxetine were observed. However, 16% (4/25) of patients in group B experienced nausea and vomiting after duloxetine administration. Although symptoms resolved completely after antiemetic intervention, the patients withdrew from the study due to the drug-related adverse event. In the first 3 months after surgery, group B showed better range of motion (ROM), better functional outcomes (American Shoulder and Elbow Surgeons Standardized Assessment Form [ASES] and Simple Shoulder Test [SST]), better anxiety scores, better pain scores, and less opioid consumption than did group C (all adjusted P < .05). These differences were not observed between groups A and B (all adjusted P > .05). Functional outcomes and retear rates did not differ among the 3 groups at later follow-up. CONCLUSION: Administration of duloxetine to ARCR patients with anxiety and/or depressive distress screened using HADS not only improved anxiety and distress but also enhanced active ROM, ASES, and SST in the first 3 months postoperatively, although 16% of patients experienced nausea and vomiting.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41934361/",
+      "score": 73,
+      "score_reasoning": "Prospective randomized trial showing duloxetine improves outcomes after rotator cuff repair in patients with psychological distress, addressing an important clinical population.",
+      "bullets": [
+        "Duloxetine given to rotator cuff repair patients with anxiety or depression improved range of motion, function scores, and pain control at 3 months compared to untreated anxious/depressed patients.",
+        "Benefits of duloxetine disappeared after 3 months, with no differences in functional outcomes or retear rates between groups at longer follow-up.",
+        "16% of patients on duloxetine experienced nausea and vomiting severe enough to withdraw from the study despite antiemetic treatment."
+      ]
+    },
+    {
+      "pmid": "41940446",
+      "title": "Low-Dose Perineural Dexamethasone Enhances Analgesia After Pediatric Hand Surgery Without Elevating Systemic Stress Markers: A Randomized Controlled Trial.",
+      "authors": [
+        "Reysner T",
+        "Ciftci B",
+        "Bialka S",
+        "Gola W",
+        "Czarecki P",
+        "Pietraszek P",
+        "Kowalski G",
+        "Daroszewski P",
+        "Reysner M"
+      ],
+      "authors_short": "Reysner T, Ciftci B, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Supraclavicular brachial plexus block is a widely used technique for upper limb surgery in children. Although perineural dexamethasone has demonstrated efficacy in prolonging analgesia in adults, data on its optimal dosing and systemic safety in pediatric patients are limited. This study aimed to evaluate whether low-dose perineural dexamethasone can prolong postoperative analgesia without increasing systemic stress markers in young children undergoing hand or wrist surgery. METHODS: In this triple-blinded, randomized controlled trial (ClinicalTrials.gov Identifier: NCT06086392), 90 children aged 3 months to 6 years undergoing elective upper extremity surgery were assigned to receive supraclavicular brachial plexus block with 0.2% ropivacaine combined with either normal saline (control), dexamethasone 0.05\u00a0mg/kg, or dexamethasone 0.1\u00a0mg/kg. The primary outcome was time from arrival in the postanesthesia care unit to first administration of rescue opioid analgesia. Secondary outcomes included total opioid consumption, postoperative pain intensity using the FLACC scale, blood glucose levels, neutrophil-to-lymphocyte ratio, platelet-to-lymphocyte ratio, and time to motor recovery. RESULTS: Both dexamethasone groups demonstrated significantly prolonged time to first opioid use compared with the control group (mean\u00b1SD: 19.4\u00b12.2\u00a0h in the 0.1\u00a0mg/kg group, 16.0\u00b11.9\u00a0h in the 0.05\u00a0mg/kg group, and 8.5\u00b11.3\u00a0h in controls; P<0.0001). Total opioid consumption was significantly reduced in the dexamethasone groups. Postoperative pain scores were lower in both intervention groups, especially during the first 12 hours. No significant differences were found among groups in blood glucose, inflammatory markers, or incidence of nerve deficits. Motor recovery was delayed in the dexamethasone groups but did not interfere with early mobilization. CONCLUSIONS: Low-dose perineural dexamethasone (0.05 to 0.1\u00a0mg/kg) safely and effectively prolongs postoperative analgesia and reduces opioid needs in children undergoing upper limb surgery, without causing systemic metabolic or inflammatory disturbances. The 0.05\u00a0mg/kg dose may offer a more favorable balance between analgesic efficacy and motor recovery time. LEVEL OF EVIDENCE: Level I-randomized controlled trial.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41940446/",
+      "score": 71,
+      "score_reasoning": "Prospective randomized trial demonstrating low-dose perineural dexamethasone safely prolongs analgesia in pediatric hand surgery with strong clinical applicability.",
+      "bullets": [
+        "Adding dexamethasone 0.05-0.1 mg/kg to supraclavicular blocks doubles analgesic duration in children under 6 years having hand surgery (16-19 hours vs 8.5 hours).",
+        "Both dexamethasone doses reduce opioid requirements and pain scores without affecting blood glucose or inflammatory markers in young children.",
+        "The 0.05 mg/kg dose provides effective analgesia with less motor block delay compared to the 0.1 mg/kg dose."
+      ]
+    },
+    {
+      "pmid": "41921048",
+      "title": "Greater Valgus Alignment in Pediatric and Adolescent Patients with a Primary ACL Tear Compared with Healthy Controls.",
+      "authors": [
+        "Bram JT",
+        "Beber SA",
+        "Lu S",
+        "Pascual-Leone N",
+        "Groff KD",
+        "Green DW",
+        "Fabricant PD"
+      ],
+      "authors_short": "Bram JT, Beber SA, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Coronal plane angular deformity remains under-investigated in the context of pediatric anterior cruciate ligament (ACL) tears. We hypothesized that baseline coronal alignment in pediatric and adolescent patients with a first-time ACL injury would differ from that in a matched healthy comparison population of patients without knee pathology. METHODS: Patients \u226418 years of age who underwent primary ACL reconstruction and had preoperative lower-extremity hip-to-ankle alignment radiographs (cases) and individuals without lower-extremity conditions that would influence alignment (controls) were matched 1:1 on the basis of age (\u00b11 year) and sex. Coronal plane parameters included the hip-knee-ankle angle (HKA), mechanical axis deviation (MAD), mechanical lateral distal femoral angle (mLDFA), and medial proximal tibial angle (MPTA). Decision stump analyses were used to identify clinically relevant alignment threshold values. RESULTS: A total of 200 patients were included in the analysis (100 per group). The mean age was 12.7 \u00b1 2.1 years in the ACL group (58% White/Caucasian, 50% female) and 13.1 \u00b1 2.4 years in the control group (49% White/Caucasian, 50% female). Compared with controls, patients with an ACL tear demonstrated increased valgus alignment across all 4 parameters: MAD (-4.1 \u00b1 7.8 versus -0.3 \u00b1 7.6 mm; p < 0.001), HKA (-1.4\u00b0 \u00b1 2.6\u00b0 versus -0.5\u00b0 \u00b1 2.3\u00b0; p = 0.006), mLDFA (85.3\u00b0 \u00b1 1.9\u00b0 versus 86.1\u00b0 \u00b1 1.7\u00b0; p = 0.004), and MPTA (88.0\u00b0 \u00b1 1.8\u00b0 versus 87.2\u00b0 \u00b1 1.9\u00b0; p = 0.004). Conditional logistic regression demonstrated increased odds of an ACL tear associated with each 1-unit increase in valgus alignment, as measured by MAD (inverse odds ratio [OR]: 1.06; 95% confidence interval [CI]: 1.02 to 1.10; p = 0.003), HKA (inverse OR: 1.14; 95% CI: 1.02 to 1.27; p = 0.022), mLDFA (inverse OR: 1.27; 95% CI: 1.08 to 1.50; p = 0.005), and MPTA (OR: 1.28; 95% CI: 1.07 to 1.53; p = 0.006). In the decision stump analysis of HKA, a value of -0.5\u00b0 demonstrated that 60% of participants with \u22650.5\u00b0 of valgus alignment had an ACL tear compared with 38% of patients with neutral alignment, varus alignment, or <0.5\u00b0 of valgus alignment. CONCLUSIONS: Pediatric and adolescent patients with an ACL tear demonstrated greater valgus alignment than age- and sex-matched controls, with each 1\u00b0 increase in HKA valgus alignment increasing the odds of an ACL tear by 14%. Routine preoperative assessment is necessary as coronal plane deformity is modifiable through concomitant implant-mediated guided growth in skeletally immature patients. The inclusion of coronal plane alignment parameters in ACL-related investigations is warranted to elucidate their contribution to injury risk and surgical outcomes. LEVEL OF EVIDENCE: Prognostic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41921048/",
+      "score": 69,
+      "score_reasoning": "Large retrospective study comparing pediatric patients with ACL tears to healthy controls, revealing important baseline alignment differences with clinical implications for injury prevention.",
+      "bullets": [
+        "Pediatric ACL tear patients show significantly more valgus alignment than healthy controls across all coronal plane measurements including hip-knee-ankle angle and mechanical axis deviation.",
+        "Each degree of increased valgus alignment raises ACL tear odds by 14%, with patients having 0.5\u00b0 or more valgus showing 60% ACL tear rate versus 38% in those with neutral or varus alignment.",
+        "Skeletally immature ACL patients should receive preoperative alignment assessment since coronal deformity can be corrected with guided growth procedures during ACL reconstruction."
+      ]
+    },
+    {
+      "pmid": "41932675",
+      "title": "Return to Sport After Shoulder Arthroplasty: An ASES Multicenter Analysis of Sport-Specific Predictors of Performance in Reverse Shoulder Arthroplasty and Total Shoulder Arthroplasty.",
+      "authors": [
+        "Corban J",
+        "Kirsch JM",
+        "Bowler A",
+        "Glass EA",
+        "Diestel DR",
+        "Arnold RP",
+        "McDonald-Stahl M",
+        "Stevens CS",
+        "Puzzitiello R",
+        "Moverman MA",
+        "Le K",
+        "Dunn W",
+        "Jawa A"
+      ],
+      "authors_short": "Corban J, Kirsch JM, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Many patients undergoing shoulder arthroplasty - either reverse shoulder arthroplasty (rTSA) or anatomic shoulder arthroplasty (aTSA) - strongly desire to return to sport, yet return-to-sport (RTS) outcomes remain incompletely defined. This study aimed to determine RTS rates following rTSA and aTSA and to identify patient- and sport-specific factors associated with postoperative athletic performance. METHODS: A multicenter retrospective analysis with prospective administration of RTS questionnaires was conducted among patients who underwent rTSA or aTSA between one and three years postoperatively. Twenty-four ASES surgeons from 17 U.S. institutions participated. Study design and parameters were defined using a Delphi consensus method. The RTS questionnaire assessed participation in seven sports: golf, pickleball, tennis, running, weightlifting, yoga, and swimming. Outcomes included RTS status, changes in performance, enjoyment, participation frequency, time to RTS, and shoulder satisfaction (0-10). Univariate ANOVA compared outcomes across sports. Two age- and gender-matched propensity score analyses compared (1) rTSA versus aTSA for glenohumeral osteoarthritis (GHOA) and (2) rTSA for GHOA versus rotator cuff arthropathy (RCA). Multivariate logistic regression identified predictors of worse postoperative performance. RESULTS: A total of 961 patients completed the questionnaire; 55.9% (n=537) participated in at least one sport preoperatively and attempted RTS postoperatively, yielding 656 sport participations. Mean follow-up was 24.0 \u00b1 8.1 months, mean age was 68.3 \u00b1 8.2 years, mean BMI was 28.5 \u00b1 5.8, and 65.6% were male. Across all sports, 89.2% of participants were still playing, and 80.2% reported improved or unchanged performance, with no differences between sports. Overall RTS rates were highest for running (92.9%), tennis (92.3%), and weightlifting (93.1%). Most patients returned within 3-6 months (44.7%). In matched GHOA cohorts (n=165 each), rTSA demonstrated higher rates of improved or stable performance (87.9% vs 78.9%, P=0.039) and greater satisfaction (P=0.007) compared to aTSA, with similar RTS rates (93.3% vs 89.1%). Diagnosis of GHOA (OR 0.20, P=0.001) and post capsulorrhaphy arthropathy (OR 0.07, P=0.021) were independently associated with lower odds of worsened postoperative sport performance. CONCLUSION: Return to sport following shoulder arthroplasty is high, with most patients reporting maintained or improved performance. In patients with GHOA, rTSA was associated with higher rates of improved or stable sport performance and greater satisfaction compared to aTSA.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41932675/",
+      "score": 64,
+      "score_reasoning": "Large multicenter analysis of return to sport after shoulder arthroplasty providing sport-specific outcome data with high clinical relevance for patient counseling.",
+      "bullets": [
+        "Nearly 90% of patients return to sport after shoulder arthroplasty across golf, tennis, running, weightlifting, swimming, yoga, and pickleball with most returning within 6 months.",
+        "For patients with glenohumeral arthritis, reverse shoulder arthroplasty provides better sport performance maintenance and higher satisfaction compared to anatomic total shoulder arthroplasty.",
+        "Patients with glenohumeral osteoarthritis and post-capsulorrhaphy arthropathy have significantly lower risk of worsened sport performance after shoulder arthroplasty."
+      ]
+    },
+    {
+      "pmid": "41947827",
+      "title": "Incidence and Reasons for Direct Transfers Among Hip and Knee Arthroplasties Performed at Ambulatory Surgical Centers.",
+      "authors": [
+        "Jaicks CM",
+        "Ray JR",
+        "Olson NR",
+        "Fricka KB",
+        "Hamilton WG",
+        "Sershon RA"
+      ],
+      "authors_short": "Jaicks CM, Ray JR, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: As joint arthroplasty (JA) increasingly shifts to outpatient ambulatory surgical centers (ASCs) for same-day procedures, it is critical to identify appropriate candidates for this setting. This study reviews our institutional experience transitioning from hospital-based to stand-alone ASC surgery, examining causes of direct transfers to hospitals for complications occurring during hip and knee arthroplasties performed at ASCs. METHODS: Prospectively collected arthroplasty procedure and adverse event data were reviewed to identify all direct transfers that occurred among hip and knee arthroplasties performed at ASCs between January 2012 and July 2025. A total of 32,564 JAs were performed during the study period, including 6379 at ASCs. The primary outcome was the number and cause of direct transfers from ASCs to a hospital. RESULTS: There were 7 (0.1%) direct hospital transfers, all associated with systemic medical conditions including syncope, postoperative atrial fibrillation, hypotension, unstable oxygen saturation, hypotension with shortness of breath, and bradycardia and transient asystole following administration of regional anesthesia. Three patients were admitted to the hospital, with 2 requiring stays longer than 1 day. No patient deaths occurred as a result of these adverse events at the time of this study. CONCLUSIONS: Direct transfer to a hospital following JA was found to be exceedingly rare based on our institutional experience. All direct transfers resulted from medical complications that occurred prior to or after the arthroplasty procedure. These findings support the safety of performing primary JA in appropriately selected patients within the ASC setting, reinforcing the importance of careful preoperative screening.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41947827/",
+      "score": 62,
+      "score_reasoning": "Large retrospective study of direct transfers from ASCs showing very low complication rates (0.1%) with important implications for outpatient arthroplasty safety.",
+      "bullets": [
+        "Direct hospital transfers occurred in only 0.1% of 6,379 hip and knee replacements performed at ambulatory surgical centers over 13 years.",
+        "All seven transfers resulted from medical complications like syncope, atrial fibrillation, and hypotension, not surgical issues.",
+        "Primary joint replacement at ambulatory centers appears safe when patients are properly screened preoperatively for medical conditions."
+      ]
+    },
+    {
+      "pmid": "41923442",
+      "title": "Surgical Timing and Outcomes in Medial Meniscus Posterior Root Tear Repair: A Systematic Review.",
+      "authors": [
+        "Moews LD",
+        "Thamrongskulsiri N",
+        "Morgan JT",
+        "Vega TF",
+        "Perez Lloveras GO",
+        "Casanova F",
+        "Verma NN",
+        "Chahla J"
+      ],
+      "authors_short": "Moews LD, Thamrongskulsiri N, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Medial meniscus posterior root tears (MMPRTs) compromise hoop stress transmission and tibiofemoral load distribution, accelerating degenerative changes comparable with total meniscectomy. While early repair has been recommended, many patients present late because of a delayed diagnosis or an insidious onset of symptoms. The effect of delayed surgical management on outcomes remains unclear. PURPOSE: To systematically review the literature comparing clinical outcomes, radiological progression, and complication rates of MMPRT repair performed at <3 months, 3 to 6 months, and >6 months after the injury. STUDY DESIGN: Systematic review; Level of evidence, 4. METHODS: A systematic search of PubMed, Embase, and Scopus was conducted in accordance with PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines and registered with PROSPERO. A total of 11 studies (366 patients) reporting isolated transtibial pullout repair with a documented time from injury to surgery were included. Extracted data included patient-reported outcome scores (International Knee Documentation Committee [IKDC], Lysholm), osteoarthritis progression by the Kellgren-Lawrence grade, meniscal extrusion, healing status, and surgical failures or complications. RESULTS: Across all surgical timing groups, MMPRT repair resulted in significant functional improvements. Patients treated at <3 months demonstrated the greatest gains (IKDC: +39.0; Lysholm: +44), while those undergoing repair at 3 to 6 months also achieved clinically meaningful improvements (IKDC: +26.5 to +31.8; Lysholm: +25.0 to +40.4). Delayed repair >6 months remained beneficial, with increases of +22.9 in the IKDC score and +33.1 to +36.1 in the Lysholm score. Subgroup analyses confirmed statistically significant improvements in both the IKDC and Lysholm scores at all time points. Osteoarthritis progression by the Kellgren-Lawrence grade was reported in 24.2% of patients treated at <3 months, 30.2% to 52.2% at 3 to 6 months, and 4.8% to 10.0% at >6 months. Magnetic resonance imaging showed variable meniscal extrusion changes, with partial to complete healing observed in both the 3- to 6-month group and >6-month group. Failure rates ranged from 5.9% to 20.9% without a consistent association with surgical timing. CONCLUSION: Both early and delayed repair (<3 months and >6 months, respectively) yielded significant improvements in outcomes for patients with MMPRTs; however, the early repair group had clinically significant increases in patient-reported outcomes over the delayed repair group. Although data were limited by the number and quality of included studies, this finding suggests that while delayed repair of the meniscus root results in worthwhile improvements for properly selected patients and meets the minimal clinically important difference, early treatment of these tears should be pursued to limit the knee's exposure to altered biomechanics and to provide patients with the best chance at complete healing and lasting improvements. REGISTRATION: CRD420251145118 (PROSPERO).",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41923442/",
+      "score": 56,
+      "score_reasoning": "Systematic review and meta-analysis of infection risk factors across multiple joints in arthroscopy with comprehensive risk factor analysis.",
+      "bullets": [
+        "Medial meniscus posterior root tear repair improves function regardless of timing, but patients treated within 3 months show the greatest gains in knee scores.",
+        "Early repair (under 3 months) had lower osteoarthritis progression rates (24%) compared to intermediate timing (30-52% at 3-6 months).",
+        "Even delayed repair beyond 6 months provides meaningful clinical improvement, making it worthwhile for properly selected patients."
+      ]
+    }
+  ],
+  "picks": [
+    7
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-04-08T05:08:29.534401-07:00"
+}
