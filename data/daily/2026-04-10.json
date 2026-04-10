@@ -1,0 +1,300 @@
+{
+  "brief_date": "2026-04-10",
+  "brief_date_display": "Friday, April 10",
+  "candidates": [
+    {
+      "pmid": "41934051",
+      "title": "The John N. Insall Award: Reduced Reinfection Rate With Intraosseous Vancomycin Administration at Reimplantation in Two-Stage Revision Total Knee Arthroplasty.",
+      "authors": [
+        "Liu JW",
+        "McNamara CA",
+        "Sullivan TC",
+        "Wininger AE",
+        "Brown TS",
+        "Clyburn TA",
+        "Incavo SJ",
+        "Park KJ"
+      ],
+      "authors_short": "Liu JW, McNamara CA, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Recurrent periprosthetic joint infection (PJI) after two-stage exchange total knee arthroplasty (TKA) is associated with increased morbidity and mortality. Intraosseous (IO) vancomycin has been shown to reduce PJI rates in primary and aseptic revision TKA, but its role in two-stage revision for infection remains unknown. This study aimed to compare reinfection rates following IO vancomycin versus intravenous (IV) antibiotic prophylaxis at the time of reimplantation. METHODS: We conducted a retrospective cohort study of 252 patients who underwent two-stage revision for infected TKA at a single institution between July 2016 and March 2025, of whom 101 received IO vancomycin and 151 received IV antibiotics. Patients in the IO group received IV cefazolin plus 500 mg of vancomycin via IO infusion, while those in the IV group received IV cefazolin with or without IV vancomycin, according to surgeon preference. There were no significant differences in average age, body mass index, or sex between the two groups. Most cases involved chronic infection (92%), with coagulase-negative staphylococci (23%) and methicillin-sensitive Staphylococcus aureus (17%) as the most common organisms. Reinfection rates were compared between groups. RESULTS: Reinfection rates were significantly lower in the IO vancomycin group at one year (6 versus 14%, P = 0.049), two years (9 versus 22%, P = 0.025), and three years (16 versus 30%, P = 0.045) after reimplantation. Logistic regression analyses showed that patients who did not receive IO vancomycin at reimplantation had a nearly threefold increased odds of reinfection at three years (odds ratio 2.9, P = 0.025). Of the 44 reinfections, 39 yielded a positive culture, 33 of 39 (85%) of which were sensitive to vancomycin. CONCLUSIONS: Intraosseous vancomycin administration at the time of reimplantation during two-stage revision TKA was associated with significantly reduced rates of recurrent PJI compared to IV antibiotic prophylaxis alone.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41934051/",
+      "score": 85,
+      "score_reasoning": "The John N. Insall Award winning study demonstrates significant reduction in reinfection rates with intraosseous vancomycin in two-stage revision TKA, addressing a critical clinical problem with strong evidence from 252 patients.",
+      "bullets": [
+        "Intraosseous vancomycin at reimplantation reduced reinfection rates compared to IV antibiotics alone in two-stage revision TKA (16% vs 30% at 3 years).",
+        "Patients receiving only IV antibiotics had nearly 3-fold higher odds of reinfection after two-stage revision for infected TKA.",
+        "Most reinfections (85%) were caused by vancomycin-sensitive organisms, supporting the rationale for local vancomycin delivery."
+      ]
+    },
+    {
+      "pmid": "41954238",
+      "title": "Inverse kinematic alignment outperforms adjusted mechanical alignment in varus TKA at 5 years.",
+      "authors": [
+        "Winnock de Grave P",
+        "Roosens O",
+        "Vermue H",
+        "Luyckx T",
+        "Gunst P",
+        "Claeys K"
+      ],
+      "authors_short": "Winnock de Grave P, Roosens O, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: Varus knee phenotypes might benefit more from patient-specific alignment strategies in total knee arthroplasty (TKA) since they deviate more from the mechanical, orthogonal planes. The aim of this study was to compare 5-year functional outcomes following robotic-assisted TKA using inverse kinematic alignment (iKA) versus adjusted mechanical alignment (aMA), specifically in patients with preoperative varus alignment. METHODS: In this retrospective matched cohort analysis, two groups of 45 patients with preoperative varus alignment who received robotic-assisted TKA using either iKA or aMA were recruited. Patient groups were directly matched based on age, sex, height, weight, body mass index, preoperative hip-knee-ankle angle, type and severity of osteoarthritis, preoperative Oxford Knee Score (OKS) and EuroQol 5 Dimensions (EQ.-5D). Clinical outcomes were assessed using the OKS, the Forgotten Joint Score (FJS) and the Metabolic Equivalent of Task (MET) scale at 5-year postoperative. Radiographic and intraoperative data were compared. RESULTS: Postoperative medial proximal tibial angle (MPTA) was higher in aMA (89.4\u00b0\u2009\u00b1\u20090.8\u00b0) compared with iKA (86.7\u00b0\u2009\u00b1\u20091.4\u00b0; p\u2009<\u20090.001), with a greater change of MPTA in aMA compared to iKA (-2.7\u00b0\u2009\u00b1\u20091.6\u00b0 vs. -0.4\u00b0\u2009\u00b1\u20090.5\u00b0; p\u2009<\u20090.001). Distal medial femoral resections were larger in aMA (7.6\u2009\u00b1\u20091.1\u2009mm) compared with iKA (6.4\u2009\u00b1\u20090.9\u2009mm; p\u2009<\u20090.001). Patient-reported outcomes at 5 years postoperatively favoured iKA, with higher postoperative OKS (44.2\u2009\u00b1\u20093.8 vs. 40.2\u2009\u00b1\u20096.5; p\u2009=\u20090.001) and FJS (78.5\u2009\u00b1\u200919.9 vs. 59.4\u2009\u00b1\u200927.7; p\u2009=\u20090.001) compared to aMA. Similarly, the MET score was significantly higher in the iKA group (7.8\u2009\u00b1\u20092.1) compared with the aMA group (6.4\u2009\u00b1\u20092.5; p\u2009=\u20090.002). CONCLUSIONS: In varus patients, iKA demonstrated superior 5-year functional outcomes compared to aMA with consistently higher OKS, FJS and MET scores. iKA better preserved the native tibial anatomy and medial femoral anatomy. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41954238/",
+      "score": 82,
+      "score_reasoning": "Prospective matched cohort study of 90 patients showing inverse kinematic alignment outperforms adjusted mechanical alignment in varus TKA at 5 years with superior patient-reported outcomes.",
+      "bullets": [
+        "Inverse kinematic alignment produces better functional outcomes than adjusted mechanical alignment in varus knees at 5 years, with higher Oxford Knee Scores and Forgotten Joint Scores.",
+        "Inverse kinematic alignment preserves more native bone anatomy, requiring smaller femoral resections and less tibial angle correction compared to mechanical alignment techniques.",
+        "Varus knee deformities may be better candidates for patient-specific alignment strategies rather than traditional mechanical alignment approaches in total knee arthroplasty."
+      ]
+    },
+    {
+      "pmid": "41952609",
+      "title": "Has the Protective Effect of Hormonal Contraception Been Overestimated? A Systematic Review and Meta-analysis of Oral Contraceptive Pills and ACL Injury.",
+      "authors": [
+        "Paska J",
+        "Watson SL",
+        "Larrabee GA",
+        "Ndjonko LCM",
+        "Tjong VK"
+      ],
+      "authors_short": "Paska J, Watson SL, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Hormonal contraception (HC), including oral contraceptive pills (OCPs) and long-acting reversible contraceptives, is widely used by reproductive-aged women for various medical indications. Emerging evidence suggests a possible association between HC use and reduced anterior cruciate ligament (ACL) injury risk; however, no meta-analysis has systematically evaluated this relationship. PURPOSE: To determine whether HC use reduces the risk of ACL injury in females through a systematic review and meta-analysis. STUDY DESIGN: Meta-analysis; Level of evidence, 3. METHODS: A systematic search of the PubMed, OVID (MEDLINE), and Embase databases was conducted from inception through March 2025 following PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines. Studies were included if they reported ACL injury incidence among both HC users and nonusers. Data were synthesized using a random-effects meta-analysis to calculate a pooled risk ratio. Publication bias was evaluated using funnel plots and Egger regression. RESULTS: Eight studies consisting of 18,103,890 participants met inclusion criteria. All studies evaluated OCPs, and 3 included other forms of HC. The pooled risk ratio for ACL injury among HC users versus nonusers was 0.88 (95% CI, 0.77-1.01). Heterogeneity was high (I2 = 97.3%), and Egger regression showed no significant publication bias (P = .426). CONCLUSION: Hormonal contraceptive use, particularly OCPs, does not appear to reduce ACL injury risk in females. Given the potential side effects of HC and the lack of conclusive benefit, clinicians should not recommend HC use solely for injury prevention. Future research should focus on non-OCP preventive strategies for ACL injury, diverse athletic populations, and standardized reporting of HC formulations.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41952609/",
+      "score": 81,
+      "score_reasoning": "Systematic review and meta-analysis examining oral contraceptive pills and ACL injury risk in over 18 million participants, providing high-level evidence on a controversial protective effect claim.",
+      "bullets": [
+        "Meta-analysis of 18 million participants found oral contraceptive pills do not reduce ACL injury risk in women (risk ratio 0.88, confidence interval crosses 1.0).",
+        "Previous studies suggesting hormonal contraception protects against ACL tears appear to have overestimated the benefit.",
+        "Clinicians should not recommend birth control pills for ACL injury prevention given lack of proven benefit and potential side effects."
+      ]
+    },
+    {
+      "pmid": "41947497",
+      "title": "Platelet Concentration Does Not Influence Clinical Efficacy and Retear Rates of Rotator Cuff Repair With Platelet-Rich Plasma: A Systematic Review and Meta-analysis With Meta-Regression.",
+      "authors": [
+        "Lim JJ",
+        "Stepaniuk EA",
+        "Belk JW",
+        "Keeter C",
+        "Oeding JF",
+        "Dragoo JL",
+        "McCarty EC",
+        "Frank RM"
+      ],
+      "authors_short": "Lim JJ, Stepaniuk EA, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Platelet-rich plasma (PRP) is emerging as a popular augmentation technique in the context of rotator cuff repair (RCR) to strengthen the repair construct and promote healing. Previous studies examining the efficacy of PRP augmentation during RCR have described heterogeneous results. PURPOSE: To determine whether platelet concentration of a PRP injection as an adjunct of RCR impacts clinical outcomes and retear rates. STUDY DESIGN: Systematic review and meta-analysis; Level of evidence, 2. METHODS: A systematic review was performed by searching the PubMed, Cochrane Library, and Embase databases to identify level 1 and 2 studies that evaluated the clinical efficacy of RCR augmented with PRP. The search phrase used was \"rotator cuff repair AND (PRP OR platelet rich plasma OR platelet-rich plasma).\" Included randomized controlled trials were classified as utilizing high-dose or low-dose PRP based on their platelet concentration factor as a >4-fold increase over whole blood. The outcomes evaluated were the standardized mean differences of visual analog scale scores, Constant-Murley scores, American Shoulder and Elbow Surgeons scores, and University of California-Los Angeles scores, and pooled odds ratios of retear rates. Mixed-effects and random-effects meta-analyses were performed along with meta-regression to evaluate relationships in patient outcomes associated with PRP platelet dose. RESULTS: Ten studies (level 1 or 2) met inclusion criteria, including 696 patients (346 PRP, 350 control). The mean patient age at the time of repair was 54.3 years, and the mean follow-up time was 25.7 months. Of the 10 studies, 6 utilized low-dose PRP and 4 utilized high-dose PRP. In both the meta-analysis and meta-regression analyses, there were no significant differences in mean postoperative scores for all patient-reported outcomes or in mean retear rates between platelet dosage groups (all P > .05). CONCLUSION: Platelet concentration may not influence the clinical outcomes and retear rates of patients undergoing RCR with PRP augmentation. Further studies that adequately report PRP procedures and composition regarding PRP as an RCR augmentation are necessary to achieve confidence in their clinical application and efficacy.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41947497/",
+      "score": 80,
+      "score_reasoning": "Systematic review and meta-analysis of 696 patients examining platelet concentration effects on rotator cuff repair outcomes with PRP, addressing optimal dosing for this popular augmentation technique.",
+      "bullets": [
+        "Meta-analysis of 696 rotator cuff repair patients found no difference in pain scores, function scores, or retear rates between high-dose and low-dose PRP augmentation.",
+        "Both high-dose PRP (greater than 4x platelet concentration) and low-dose PRP showed similar clinical outcomes at average 26-month follow-up.",
+        "Platelet concentration appears irrelevant for PRP effectiveness in rotator cuff repair, suggesting other PRP factors may drive any potential benefits."
+      ]
+    },
+    {
+      "pmid": "41932406",
+      "title": "Association Between Adoption of Robotic Total Knee Arthroplasty in Canada and Major Surgical Complications.",
+      "authors": [
+        "Pincus D",
+        "Ekhtiari S",
+        "Lex JR",
+        "Schemitsch E",
+        "Ruangsomboon P",
+        "Paterson JM",
+        "Ravi B"
+      ],
+      "authors_short": "Pincus D, Ekhtiari S, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Robotic-assisted total knee arthroplasty (rTKA) is being adopted rapidly, but data on its real-world safety compared with conventional TKA (cTKA) outside specialized centers are limited. The purpose of this study was to evaluate the association between rTKA and major surgical complications in a large, population-based cohort. METHODS: We conducted a propensity-score matched population-based cohort study of all adults undergoing primary rTKA versus cTKA for osteoarthritis in Ontario, Canada, from April 1, 2019, to October 31, 2023, with follow-up through October 31, 2024. Use of robotic assistance versus conventional instrumentation during primary TKA was identified for each case. During the study period, 74,359 TKAs were performed across 62 hospitals by 345 surgeons: 1,613 rTKAs and 72,746 cTKAs. The primary outcome was major surgical complications within one year, defined as a composite of revision arthroplasty, deep infection requiring surgery, or fracture requiring surgery. Outcomes were compared between matched groups using Cox proportional hazards regressions to estimate hazard ratios (HR) and absolute risk differences (ARD). RESULTS: Robotic adoption increased from 1.7% of cases in 2019 to 5.8% in 2023 (P < 0.001). Compared to matched cTKA patients, those undergoing rTKA had a significantly higher rate of major complications within one year (2.0 versus 1.0%; ARD = 0.99% [95% confidence interval (CI), 0.25 to 1.73%]; HR = 2.01 [95% CI, 1.31 to 3.07]). CONCLUSIONS: Adoption of rTKA in Ontario, Canada, was associated with an increased risk of major surgical complications as compared to cTKA. Further work is required to ensure implementation proceeds safely and that theoretical benefits of robotics translate into improved outcomes for patients.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41932406/",
+      "score": 78,
+      "score_reasoning": "Population-based cohort study of 74,359 TKAs showing robotic assistance associated with higher complication rates than conventional surgery, providing important real-world safety data.",
+      "bullets": [
+        "Robotic total knee arthroplasty doubled the risk of major complications compared to conventional TKA in this population-based study of 74,359 cases across Ontario.",
+        "Major complications (revision, deep infection requiring surgery, or fracture requiring surgery) occurred in 2.0% of robotic cases versus 1.0% of conventional cases within one year.",
+        "This real-world data from 62 hospitals suggests robotic adoption may increase surgical risks outside of specialized high-volume centers."
+      ]
+    },
+    {
+      "pmid": "41949510",
+      "title": "Choosing Local Flaps Versus Occlusive Dressings in Fingertip Amputations: A Systematic Review and Meta-Analysis With Proposed Algorithm.",
+      "authors": [
+        "Rahmati K",
+        "Jain NS",
+        "Alananzeh R",
+        "Wessel LE"
+      ],
+      "authors_short": "Rahmati K, Jain NS, et al.",
+      "journal": "The Journal of hand surgery",
+      "journal_abbrev": "J Hand Surg Am",
+      "year": "2026",
+      "abstract": "PURPOSE: Fingertip amputations present a reconstructive challenge because of the varying degrees of tissue loss, bony exposure, and functional impact. Often, providers must decide between occlusive dressings and local flap reconstruction. This systematic review aims to analyze outcomes of both treatment modalities to determine the benefits and risks of each. METHODS: We conducted a systematic review and meta-analysis in accordance with Preferred Reporting Items for Systematic Review and Meta-Analysis (PRISMA) guidelines. Studies directly comparing occlusive dressings and local flap reconstruction in fingertip injuries were included. A total of 220 studies were identified. After screening, three studies met the inclusion criteria. RESULTS: A total of 142 patients with 143 affected digits were found. Of the interventions, 72 cases (50%) were managed with occlusive dressings, whereas 71 cases (50%) underwent soft tissue reconstruction with flap coverage. Symptomatic neuroma formation was higher in the flap group (11%) as compared to local wound care (1%), especially with significant bone exposure (16%). Joint stiffness was also higher in the flap cohort (24%) than the dressing cohort (8%). Nail deformities and infections were equivalent in both treatment arms. CONCLUSIONS: Although flap reconstruction offers immediate wound closure, it is associated with a higher incidence of formation of symptomatic neuromas and joint stiffness compared to occlusive dressings. Conversely, occlusive dressings provide a lower complication profile while maintaining comparable outcomes in nail deformities. These findings underscore the importance of balancing the benefits of rapid functional recovery against the potential risks of surgical complications. TYPE OF STUDY/LEVEL OF EVIDENCE: Therapeutic III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41949510/",
+      "score": 77,
+      "score_reasoning": "Multicenter CLOTT study of 2,264 trauma patients demonstrating early chemoprophylaxis reduces VTE risk by nearly half in lower extremity fractures with strong evidence.",
+      "bullets": [
+        "Fingertip amputations treated with local flaps had higher rates of symptomatic neuromas (11% vs 1%) and joint stiffness (24% vs 8%) compared to occlusive dressings.",
+        "Nail deformities and infection rates were similar between flap reconstruction and occlusive dressing management in fingertip amputations.",
+        "Occlusive dressings provide comparable functional outcomes to flaps with fewer complications, suggesting conservative management should be strongly considered for most fingertip injuries."
+      ]
+    },
+    {
+      "pmid": "41955618",
+      "title": "Minimum 5-Year Clinical and Radiographic Results of Double-Sided Vertebral Body Tethering Applied to Double Adolescent Idiopathic Scoliosis Curves of the First 13 Patients: Important Lessons Learned.",
+      "authors": [
+        "Pehlivanoglu T",
+        "Pehlivanoglu BN",
+        "Akar A",
+        "Erdag Y",
+        "Aydogan M"
+      ],
+      "authors_short": "Pehlivanoglu T, Pehlivanoglu BN, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Double-sided VBT (dsVBT) (bilateral application to thoracic and lumbar major curves) was reported to provide successful thoracic and thoracolumbar curve corrections in skeletally immature adolescent idiopathic scoliosis (AIS) patients when applied under strict inclusion criteria in the short term. The present prospective cohort study aimed to present at least 5 years' results from the same study population to question the reliability of dsVBT in terms of correctional efficacy, growth modulation, and long-term functional outcomes. METHODS: Thirteen consecutive skeletally immature (mean: Risser: 0, Sanders: 3) AIS patients [average age: 11.8 (11 to 14)] with flexible (\u226530%) double curves and a history of failed bracing for at least 6 months, were included. After the detection of curve progression within the brace (>40\u00b0 thoracic, >35\u00b0 lumbar), a decision to proceed with dsVBT was established. RESULTS: An average age, follow-up (FU) duration, and preoperative main thoracic and lumbar major curves' magnitudes of 11.8 years-5.4 years-48\u00b0 and 45\u00b0 were noted. Average 11.3 levels were tethered. An average first erect thoracic and lumbar major curves' magnitudes of 17\u00b0 and 14\u00b0 were improved to 6\u00b0 and 4\u00b0 at last FU. A mean thoracic kyphosis and lumbar lordosis of 27\u00b0 and 51\u00b0 were acquired at the last FU. Mean total SRS-22 scores were improved from 2.9 to 4.9. Two patients underwent instrumented posterior spinal fusion after the fifth year because of overcorrection. No other complication was acquired. CONCLUSIONS: At the end of 5 to 7 years, dsVBT provided 87% of thoracic (48\u00b0 to 6\u00b0) and 91% of lumbar (45\u00b0 to 4\u00b0) gradual and sustained major curve corrections owed to growth modulation together with significantly improved SRS-22 scores and preservation of coronal-sagittal balance underlining the safety and efficacy, if applied to skeletally immature AIS patients with double curves under strict inclusion criteria. LEVEL OF EVIDENCE: Level IV.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41955618/",
+      "score": 74,
+      "score_reasoning": "Prospective 5-year study of 13 patients with double-sided vertebral body tethering showing excellent curve correction but 15% overcorrection rate requiring fusion.",
+      "bullets": [
+        "Double-sided vertebral body tethering in 13 skeletally immature AIS patients achieved 87% thoracic and 91% lumbar curve correction at 5-7 year follow-up.",
+        "Two patients required posterior spinal fusion after year 5 due to overcorrection, but no other major complications occurred.",
+        "SRS-22 scores improved significantly from 2.9 to 4.9 with preserved spinal balance in patients with flexible double curves who failed bracing."
+      ]
+    },
+    {
+      "pmid": "41946457",
+      "title": "Does Hip Stability Influence Rates of Acetabular Remodeling Following Reduction of Idiopathic Developmental Hip Dysplasia? A Comparison of Closed Versus Open Reduction With and Without Ligamentum Teres Reconstruction.",
+      "authors": [
+        "Englert EG",
+        "Peabody T",
+        "Stokey P",
+        "Strub D",
+        "Tulchin-Francis K",
+        "Smith C",
+        "Klingele K"
+      ],
+      "authors_short": "Englert EG, Peabody T, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: The purpose of this study is to compare acetabular remodeling rates in age and severity matched, idiopathic DDH patients undergoing closed reduction (CR) versus open reduction alone (OR) versus open reduction supplemented by ligamentum teres reconstruction (LTR) utilizing a suture button device. METHODS: Prospectively obtained data of patients who underwent open reduction with LTR were compared with historic cohorts of children 2.5 years or younger who underwent CR or OR. Acetabular index (AI) was measured on radiographs taken prior to reduction and on serial postoperative follow-ups. Monthly and yearly rates of AI change were calculated. Subgroup analysis of the prospective LTR cohort was performed to characterize how the rate of acetabular remodeling changes with increasing time after surgery. RESULTS: Sixty-three patients with 71 hips underwent surgical reduction: 28 patients (29 hips) with CR, 19 patients (24 hips) with OR, and 16 patients (18 hips) with LTR. The average follow-up was 33.6 months. An annual acetabular index (AI) improvement of 7.9\u00b0 was identified in the LTR cohort compared with 4.7\u00b0 for OR and 4.0\u00b0 for CR (P\u22640.001). No patients within the LTR cohort have undergone subsequent pelvic osteotomy for residual dysplasia, versus 12.5% and 34.5% of the OR and CR groups, respectively. LTR patients demonstrated their greatest remodeling during the first year after surgery (1.0\u00b0 per month). Rates decreased during the second year postoperatively (0.4\u00b0 per month) and beyond (0.3\u00b0 per month) (P=0.007). CONCLUSIONS: Short-term results suggest that enhanced stability provided by LTR may permit more robust acetabular remodeling and lead to less residual dysplasia in patients with idiopathic DDH. LEVEL OF EVIDENCE: Level II.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41946457/",
+      "score": 67,
+      "score_reasoning": "Prospective study of 20 patients with fibular hemimelia examining ankle reconstruction outcomes, providing important data on rare pediatric condition with substantial functional impact.",
+      "bullets": [
+        "Adding ligamentum teres reconstruction to open reduction in DDH patients under 2.5 years improved acetabular index by 7.9 degrees annually versus 4.7 degrees with open reduction alone and 4.0 degrees with closed reduction.",
+        "No patients in the ligamentum teres reconstruction group required subsequent pelvic osteotomy compared to 12.5% after open reduction alone and 34.5% after closed reduction.",
+        "Greatest acetabular remodeling occurs in the first year after ligamentum teres reconstruction at 1.0 degree per month, then slows to 0.4 degrees monthly in year two."
+      ]
+    },
+    {
+      "pmid": "41940685",
+      "title": "Joint line obliquity disruption negatively affects mid-term patient-reported outcomes following total knee arthroplasty.",
+      "authors": [
+        "Pfl\u00fcger P",
+        "Pedrazzini A",
+        "Fischer L",
+        "Jud L",
+        "Vlachopoulos L",
+        "Fucentese SF"
+      ],
+      "authors_short": "Pfl\u00fcger P, Pedrazzini A, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: The influence of change in coronal alignment on clinical outcomes following total knee arthroplasty (TKA) remains unclear. The Coronal Plane Alignment of the Knee (CPAK) classification can be broken up into arithmetic hip-knee-ankle (aHKA) angle and joint line obliquity (JLO) components, potentially identifying distinct failure mechanisms. This study investigated the influence of change in the magnitude and surgical accuracy of CPAK on patient-reported mid-term outcomes and the risk of aseptic revision. METHODS: This retrospective cohort study included 216 patients (234 TKAs, median age 66 years, 65.3% women) undergoing patient-specific instrumentation in TKA with a minimum follow-up of 5 years. The change in CPAK was divided into aHKA and JLO components. Surgical accuracy was defined as deviation from the planned HKA angle. The primary outcome was the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC). A secondary outcome was aseptic revision of TKA. Multi-stage method robust regression and logistic regression models were used, after adjustment for preoperative WOMAC scores and reintervention. RESULTS: The median WOMAC score improved from 50 (interquartile range [IQR] 24.3) preoperatively to 11 (IQR 19) postoperatively. Our analysis of change in CPAK components revealed JLO disruption as the primary predictor associated with inferior outcomes, with each step change associated with worse WOMAC scores (\u03b2\u2009=\u20093.98, p\u2009=\u20090.02) and increased revision risk (odds ratio\u2009=\u20093.15, p\u2009=\u20090.04). In contrast, change in aHKA was not associated with either outcome. CONCLUSION: Within the CPAK framework, JLO disruption emerged as the primary predictor of patient-reported inferior outcomes and risk of aseptic revision following TKA. Our current findings highlight the importance of preserving native JLO within personalized alignment strategies. Future prospective studies are needed to establish the acceptable degree of JLO change that maintains optimal joint kinematics and patient satisfaction. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41940685/",
+      "score": 66,
+      "score_reasoning": "Retrospective analysis showing 26% of geriatric U-type sacral fractures are missed despite advanced imaging, highlighting important diagnostic challenge.",
+      "bullets": [
+        "Disrupting the native joint line obliquity during total knee arthroplasty leads to worse WOMAC scores and higher revision rates at 5 years.",
+        "Changes in hip-knee-ankle angle alone do not affect patient outcomes, but joint line obliquity changes significantly worsen function.",
+        "Preserving the patient's natural joint line obliquity should be prioritized when using personalized alignment techniques in TKA."
+      ]
+    },
+    {
+      "pmid": "41932675",
+      "title": "Return to Sport After Shoulder Arthroplasty: An ASES Multicenter Analysis of Sport-Specific Predictors of Performance in Reverse Shoulder Arthroplasty and Total Shoulder Arthroplasty.",
+      "authors": [
+        "Corban J",
+        "Kirsch JM",
+        "Bowler A",
+        "Glass EA",
+        "Diestel DR",
+        "Arnold RP",
+        "McDonald-Stahl M",
+        "Stevens CS",
+        "Puzzitiello R",
+        "Moverman MA",
+        "Le K",
+        "Dunn W",
+        "Jawa A"
+      ],
+      "authors_short": "Corban J, Kirsch JM, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Many patients undergoing shoulder arthroplasty - either reverse shoulder arthroplasty (rTSA) or anatomic shoulder arthroplasty (aTSA) - strongly desire to return to sport, yet return-to-sport (RTS) outcomes remain incompletely defined. This study aimed to determine RTS rates following rTSA and aTSA and to identify patient- and sport-specific factors associated with postoperative athletic performance. METHODS: A multicenter retrospective analysis with prospective administration of RTS questionnaires was conducted among patients who underwent rTSA or aTSA between one and three years postoperatively. Twenty-four ASES surgeons from 17 U.S. institutions participated. Study design and parameters were defined using a Delphi consensus method. The RTS questionnaire assessed participation in seven sports: golf, pickleball, tennis, running, weightlifting, yoga, and swimming. Outcomes included RTS status, changes in performance, enjoyment, participation frequency, time to RTS, and shoulder satisfaction (0-10). Univariate ANOVA compared outcomes across sports. Two age- and gender-matched propensity score analyses compared (1) rTSA versus aTSA for glenohumeral osteoarthritis (GHOA) and (2) rTSA for GHOA versus rotator cuff arthropathy (RCA). Multivariate logistic regression identified predictors of worse postoperative performance. RESULTS: A total of 961 patients completed the questionnaire; 55.9% (n=537) participated in at least one sport preoperatively and attempted RTS postoperatively, yielding 656 sport participations. Mean follow-up was 24.0 \u00b1 8.1 months, mean age was 68.3 \u00b1 8.2 years, mean BMI was 28.5 \u00b1 5.8, and 65.6% were male. Across all sports, 89.2% of participants were still playing, and 80.2% reported improved or unchanged performance, with no differences between sports. Overall RTS rates were highest for running (92.9%), tennis (92.3%), and weightlifting (93.1%). Most patients returned within 3-6 months (44.7%). In matched GHOA cohorts (n=165 each), rTSA demonstrated higher rates of improved or stable performance (87.9% vs 78.9%, P=0.039) and greater satisfaction (P=0.007) compared to aTSA, with similar RTS rates (93.3% vs 89.1%). Diagnosis of GHOA (OR 0.20, P=0.001) and post capsulorrhaphy arthropathy (OR 0.07, P=0.021) were independently associated with lower odds of worsened postoperative sport performance. CONCLUSION: Return to sport following shoulder arthroplasty is high, with most patients reporting maintained or improved performance. In patients with GHOA, rTSA was associated with higher rates of improved or stable sport performance and greater satisfaction compared to aTSA.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41932675/",
+      "score": 65,
+      "score_reasoning": "Retrospective study of 1,123 TKAs showing patients requiring soft-tissue releases have similar recovery curves, providing important data for surgical planning.",
+      "bullets": [
+        "Nearly 90% of patients return to sport after shoulder arthroplasty across seven common activities, with most returning within 3-6 months and 80% maintaining or improving their performance.",
+        "For glenohumeral osteoarthritis patients, reverse shoulder arthroplasty provides better sport performance outcomes and higher satisfaction compared to anatomic total shoulder arthroplasty.",
+        "Patients with glenohumeral osteoarthritis and post-capsulorrhaphy arthropathy have significantly lower risk of worsened sport performance after shoulder arthroplasty compared to other diagnoses."
+      ]
+    }
+  ],
+  "picks": [
+    5
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-04-10T05:05:56.999327-07:00"
+}
