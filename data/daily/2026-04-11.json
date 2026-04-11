@@ -1,0 +1,297 @@
+{
+  "brief_date": "2026-04-11",
+  "brief_date_display": "Saturday, April 11",
+  "candidates": [
+    {
+      "pmid": "41961954",
+      "title": "Significant Anxiolytic Effect and Enhanced Recovery Benefits of Perioperative Low-Dose Olanzapine in Patients with Anxiety Undergoing THA: A Randomized Controlled Trial.",
+      "authors": [
+        "Jiang B",
+        "Fan J",
+        "Lai Y",
+        "Cai Y",
+        "Ding Z",
+        "Luo Z",
+        "Zhou Z"
+      ],
+      "authors_short": "Jiang B, Fan J, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Major anxiety symptoms are commonly observed in patients undergoing total hip arthroplasty (THA); these symptoms exacerbate pain and compromise hip recovery. Olanzapine demonstrates clinically meaningful efficacy in reducing anxiety; thus, we investigated its anxiolytic effect and benefits for enhancing recovery in these high-risk patients. METHODS: We prospectively enrolled 135 patients who were scheduled for primary THA at our institution between April 2024 and March 2025 and who scored at least 40 points on the State-Trait Anxiety Inventory-State (STAI-S) before surgery. Patients randomly received oral olanzapine (2.5 mg), alprazolam (0.4 mg), or a placebo once nightly for 5 days beginning on the day of admission. The 3 groups (45 patients in the olanzapine group, 45 in the alprazolam group, and 44 in the placebo group after 1 patient was lost to follow-up) were compared postoperatively in terms of the STAI-S score, Pittsburgh Sleep Quality Index (PSQI), visual analog scale (VAS) pain score, opioid consumption, and functional recovery of the hip. Adverse events related to drugs and surgery were recorded. RESULTS: Compared with placebo and alprazolam, olanzapine was associated with significantly lower STAI-S scores on postoperative days (PODs) 1 and 3, significantly lower resting VAS pain scores on PODs 1 to 3, and significantly lower incidence of postoperative nausea and vomiting. The olanzapine group and the alprazolam group demonstrated significantly better sleep quality based on the PSQI on POD 3 compared with the placebo group. Moreover, the olanzapine group had lower opioid consumption on PODs 1 to 3 than the placebo group. Patients in the olanzapine group exhibited better Harris hip scores and Hip Disability and Osteoarthritis Outcome Scores. The 3 groups did not significantly differ in terms of adverse events. CONCLUSIONS: Perioperative low-dose olanzapine may be an effective option for reducing anxiety levels, sleep disorders, and postoperative nausea and vomiting, mitigating postoperative pain and enhancing hip recovery among patients with anxiety symptoms undergoing THA. LEVEL OF EVIDENCE: Therapeutic Level I. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41961954/",
+      "score": 90,
+      "score_reasoning": "High-quality RCT from JBJS comparing olanzapine vs alprazolam vs placebo for anxiety in THA patients, with direct clinical applicability for perioperative care.",
+      "bullets": [
+        "Low-dose olanzapine (2.5mg nightly) reduced anxiety, pain scores, and opioid use better than alprazolam or placebo in anxious THA patients.",
+        "Treatment started on admission day for 5 days and improved functional hip scores with fewer side effects like nausea and vomiting.",
+        "Study included 135 patients with high anxiety scores (STAI-S >40) undergoing primary total hip arthroplasty."
+      ]
+    },
+    {
+      "pmid": "41961916",
+      "title": "Nontraumatic Osteonecrosis of the Femoral Head: An International Evidence-Based Clinical Practice Guideline.",
+      "authors": [
+        "Cheng EY",
+        "Mirzaei A",
+        "Goodman SB",
+        "Cui Q",
+        "Mont MA",
+        "Jones LC"
+      ],
+      "authors_short": "Cheng EY, Mirzaei A, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Nontraumatic osteonecrosis of the femoral head (ONFH) can lead to major disability in patients of all ages. It presents at various levels of severity and can be either symptomatic or asymptomatic. There is a vast array of management strategies. Treatment is often subject to physician bias. Clinical practice guidelines that are broad-based, internationally developed, consensus-driven, and strictly evidence-based are needed. The aim of this guideline by the Association Research Circulation Osseous (ARCO) was to develop international evidence-based recommendations to assist physicians and patients in managing ONFH. METHODS: ARCO convened an international, multidisciplinary guideline panel that was balanced to minimize potential bias from conflicts of interest. The Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach was utilized, including GRADE Evidence-to-Decision frameworks. The panel prioritized clinical questions, defined criteria for the systematic review of evidence, evaluated the statistical analysis, and, by consensus, approved recommendation statements, which were then subject to external review by content experts and stakeholders (a health policy-maker and a patient). RESULTS: The panel agreed on 12 recommendations for the diagnosis, evaluation, and management of ONFH. CONCLUSIONS: Key recommendations of these guidelines require accurately staging ONFH and determining when pain may be due to ONFH. They establish principles for optimal decision-making by assessing the quality of evidence backing various treatments and identifying numerous areas for additional investigation. CLINICAL RELEVANCE: This international evidence-based guideline provides standardized recommendations for the diagnosis and management of nontraumatic ONFH. It synthesizes all available evidence using GRADE methodology and offers practical, consensus-supported guidance for accurate staging, imaging selection, treatment decision-making, and the identification of patients who would benefit from joint-preserving interventions. The guideline supports clinicians in reducing practice variation, improving diagnostic accuracy, and optimizing treatment pathways for patients with ONFH.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41961916/",
+      "score": 88,
+      "score_reasoning": "Large retrospective study (575 cases) from JBJS examining aseptic loosening rates in rotating-hinge TKA with excellent long-term follow-up data highly relevant to revision surgery.",
+      "bullets": [
+        "International orthopaedic panel developed 12 evidence-based recommendations for diagnosing and managing nontraumatic femoral head osteonecrosis using GRADE methodology.",
+        "Guidelines emphasize accurate staging and determining whether patient pain actually originates from the osteonecrosis rather than other sources.",
+        "Recommendations aim to standardize treatment decisions and identify which patients benefit from joint-preserving procedures versus arthroplasty."
+      ]
+    },
+    {
+      "pmid": "41960717",
+      "title": "Impact of Preoperative Heel Ulceration on Surgical Outcomes Following Open Reduction and Internal Fixation of Rotational Ankle Fractures.",
+      "authors": [
+        "Tummala S",
+        "Wood BA",
+        "Wukich DK"
+      ],
+      "authors_short": "Tummala S, Wood BA, Wukich DK",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: As surgical treatment with open reduction and internal fixation (ORIF) becomes more common, attention to preoperative risk stratification has grown. Although multiple modifiable risk factors and comorbidities have been associated with adverse outcomes, the impact of preexisting decubitus heel ulcers in this context remains yet to be defined. METHODS: Using a nationally representative multi-institutional database, a retrospective analysis was conducted on adults undergoing ORIF for rotational ankle fractures between 2010 and 2022. Patients with a documented decubitus heel ulcer within 4 weeks before surgery were compared with ulcer-free controls. After applying strict exclusion criteria and employing 1:1 propensity score matching for key demographic and clinical variables, 90-day medical complications and 1- and 3-year surgical outcomes were evaluated. RESULTS: The presence of a preoperative heel ulcer was associated with markedly higher risks of 90-day surgical site infection, sepsis, pneumonia, urinary tract infection, mortality, and deep infection (all P < 0.005). At 1 and 3 years postoperatively, the ulcer cohort demonstrated markedly elevated rates of nonunion, revision surgery, and below-knee amputation (all P < 0.0125). CONCLUSIONS: Preoperative decubitus heel ulceration is associated with elevated risks of both short-term complications and long-term surgical failure following ORIF for ankle fractures. These findings underscore the importance of thorough preoperative foot assessment and may inform surgical planning and perioperative management in this high-risk population. LEVEL OF EVIDENCE: Therapeutic Level III, Retrospective Cohort Study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41960717/",
+      "score": 82,
+      "score_reasoning": "Large cohort study (927 patients) from JOT demonstrating reduced time to surgery with CT-first imaging protocol for suspected hip fractures, with clear practice implications.",
+      "bullets": [
+        "Patients with heel ulcers within 4 weeks before ankle fracture ORIF have significantly higher rates of surgical site infection, sepsis, and 90-day mortality compared to patients without ulcers.",
+        "At 1 and 3 years after ankle ORIF, patients with preoperative heel ulcers show increased rates of nonunion, revision surgery, and below-knee amputation.",
+        "Thorough preoperative foot examination should be routine before ankle fracture surgery to identify heel ulcers and guide risk counseling and surgical planning."
+      ]
+    },
+    {
+      "pmid": "41934361",
+      "title": "Duloxetine Improves Early Clinical Outcomes Including Range of Motion, Functional Scores, Pain, and Psychological Distress After Arthroscopic Rotator Cuff Repair in Patients With Anxiety or Depression: Prospective Randomized Controlled Trial.",
+      "authors": [
+        "Han SC",
+        "Han J",
+        "Min YK",
+        "Han JW",
+        "Jeong HJ",
+        "Oh JH"
+      ],
+      "authors_short": "Han SC, Han J, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Anxiety and depression are known risk factors for poor prognosis after arthroscopic rotator cuff repair (ARCR). However, studies that examine relief of postoperative psychological distress in patients with anxiety and/or depression remain limited. PURPOSE: To evaluate the effect of duloxetine on the clinical outcomes of ARCR for chronic rotator cuff tears in patients with anxiety and/or depression. STUDY DESIGN: Randomized controlled clinical trial; Level of evidence, 2. METHOD: A total of 63 patients undergoing ARCR were enrolled and categorized into 3 groups based on Hospital Anxiety and Depression Scale (HADS) scores and the use of oral duloxetine: group A (anxiety <8 and depression <8, healthy psychological status; n = 20); group B (anxiety \u22658 and/or depression \u22658, psychological distress receiving duloxetine administration; n = 21); and group C (anxiety \u22658 and/or depression \u22658, psychological distress receiving no duloxetine treatment; n = 22). Duloxetine was administered orally from the evening of the surgery. The dosage was 30 mg/d for the first 2 weeks. After the adaptation period, the dosage was increased to 60 mg/d for 12 weeks. Primary outcome was active forward flexion at postoperative 3 months. Other functional outcomes, structural outcomes, analgesic consumption, and duloxetine-related side effects were assessed at postoperative 3, 6, and 12 months and annually thereafter. RESULTS: No severe adverse events related to duloxetine were observed. However, 16% (4/25) of patients in group B experienced nausea and vomiting after duloxetine administration. Although symptoms resolved completely after antiemetic intervention, the patients withdrew from the study due to the drug-related adverse event. In the first 3 months after surgery, group B showed better range of motion (ROM), better functional outcomes (American Shoulder and Elbow Surgeons Standardized Assessment Form [ASES] and Simple Shoulder Test [SST]), better anxiety scores, better pain scores, and less opioid consumption than did group C (all adjusted P < .05). These differences were not observed between groups A and B (all adjusted P > .05). Functional outcomes and retear rates did not differ among the 3 groups at later follow-up. CONCLUSION: Administration of duloxetine to ARCR patients with anxiety and/or depressive distress screened using HADS not only improved anxiety and distress but also enhanced active ROM, ASES, and SST in the first 3 months postoperatively, although 16% of patients experienced nausea and vomiting.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41934361/",
+      "score": 79,
+      "score_reasoning": "Large NFL study from AJSM showing data-driven preseason practice modifications reduce lower extremity strains, with broad applications to sports medicine.",
+      "bullets": [
+        "Duloxetine given to rotator cuff repair patients with anxiety or depression improved range of motion, function scores, and pain at 3 months compared to untreated anxious/depressed patients.",
+        "Benefits of duloxetine were only seen in early recovery (3 months) with no differences in function or retear rates at longer follow-up between groups.",
+        "16% of patients taking duloxetine experienced nausea and vomiting requiring antiemetics, with some withdrawing from treatment due to side effects."
+      ]
+    },
+    {
+      "pmid": "41956873",
+      "title": "Improved Patient-Reported Outcomes With Extended Oral Tranexamic Acid Following Total Hip and Knee Arthroplasty.",
+      "authors": [
+        "Thamer S",
+        "Price S",
+        "Brinkman N",
+        "Caldwell C",
+        "Koenig K"
+      ],
+      "authors_short": "Thamer S, Price S, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Tranexamic acid (TXA) is widely used in total joint arthroplasty (TJA) to reduce perioperative blood loss and transfusion requirements. There is a growing body of literature on the use of extended postoperative TXA following total knee arthroplasty (TKA). This study evaluated the impact of an extended postoperative oral TXA regimen following total hip arthroplasty (THA) and TKA. METHODS: After obtaining Institutional Review Board approval, a retrospective chart review was conducted to identify patients who underwent THA/TKA at a single institution. All patients received a standard 1-gram intravenous TXA dose prior to incision and at the time of closure. Those who underwent TJA after formal adoption of an institutional protocol implementing an extended postoperative oral TXA regimen received an additional 1.95-gram dose of oral TXA starting on the day of surgery and continued for three days postoperatively. Patient-reported outcome measures, hospital lengths of stay (LOSs), postoperative complications, 90-day readmissions, and primary TJA-related emergency department visits were compared between the oral TXA group and a historical cohort. All patients included in the analysis had a minimum follow-up of three months. A total of 312 patients were included (153 in the oral TXA group and 159 historical controls). Baseline demographics and preoperative Hip Disability and Osteoarthritis Outcome/Knee Injury and Osteoarthritis Outcome scores were comparable between groups. RESULTS: Extended TXA use was associated with significantly greater improvement in patient-reported outcome measures (change of 27.7 versus a change of 18.1; P < 0.001) and a significant reduction in TJA-related emergency department visits (odds ratio 0.11; 95% confidence interval 0.02 to 0.49; P = 0.007). There were no significant differences in LOS, 90-day readmissions, or postoperative complications, including infection or thromboembolic events (all P > 0.05). CONCLUSIONS: In this retrospective cohort of primary THA and TKA patients, the use of oral TXA for three days postoperatively was associated with improved early patient-reported function without an increase in complications or LOSs.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41956873/",
+      "score": 78,
+      "score_reasoning": "Large database study from JAAOS demonstrating significantly increased complications with preoperative heel ulcers in ankle ORIF, important for risk stratification.",
+      "bullets": [
+        "Extended oral tranexamic acid for 3 days after hip and knee replacement improved patient-reported outcomes by 53% compared to standard IV dosing alone.",
+        "Emergency department visits dropped by 89% in patients receiving extended oral tranexamic acid versus historical controls.",
+        "No increase in complications, readmissions, or length of stay was seen with the extended oral tranexamic acid protocol."
+      ]
+    },
+    {
+      "pmid": "41934356",
+      "title": "Effect of Inflammatory Biomarkers on Patient Symptomatic State at Time of Knee Chondroplasty.",
+      "authors": [
+        "Elias TJ",
+        "Haneberg E",
+        "Danilkowicz R",
+        "Dandu N",
+        "McCormick JR",
+        "Walker A",
+        "Wang Z",
+        "Credille K",
+        "Amin J",
+        "Cole BJ",
+        "Yanke AB"
+      ],
+      "authors_short": "Elias TJ, Haneberg E, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: In patients undergoing knee arthroscopy for chondral defects, the influence of cytokines on patient pain and function is not fully understood. PURPOSE: To investigate the concentrations of synovial inflammatory cytokines in patients undergoing arthroscopic chondroplasty for chondral defects in the knee and correlate those cytokine levels with baseline patient-reported outcome measures (PROMs) and defect characteristics. STUDY DESIGN: Case series; Level of evidence, 4. METHODS: Patients undergoing arthroscopic chondroplasty for knee cartilage defects were assigned preoperative Knee injury and Osteoarthritis Outcome Score (KOOS) and International Knee International Knee Documentation Committee (IKDC) Subjective Knee Forms. All patients received a successful synovial fluid aspiration just before initiation of the arthroscopic procedure, and concentrations of 11 cytokines of interest were measured. The number of defects, total defect area, and International Cartilage Regeneration & Joint Preservation Society (ICRS) grades were recorded based on intraoperative assessment. Univariate correlation testing was used to assess significance between cartilage defect characteristics, PROM scores, and cytokine concentrations. The Akaike information criterion was used to select the best-fit multivariate regression model to determine the primary influence on baseline PROMs. RESULTS: A total of 60 patients age 18 to 55 years were included. Matrix metalloproteinase 1 (MMP-1) had a positive correlation with number of defects treated (P = .016) and negative correlation with KOOS Quality of Life (QOL) subscale scores (P = .035; R2 = 0.173). Vascular endothelial growth factor (VEGF) was positively correlated with defects treated (P = .005) and negatively correlated with KOOS Symptoms scores (P = .035; R2 = 0.225). The treatment of multiple defects was an independent predictor of elevated interleukin 1\u03b1 (IL-1\u03b1) (P = .002; R2 = 0.202). C-C chemokine ligand 2 (CCL-2) was positively correlated with multiple defects (P = .012) and negatively with KOOS QOL (P = .016; R2 = 0.173). Female sex was correlated with higher concentrations of MMP-3 (P = .007; R2 = 0.144), fibroblast growth factor 2 (FGF-2) (P = .012; R2 = 0.178), and bone morphogenetic protein 2 (BMP-2) (P = .008; R2 = 0.169). BMP-2 was negatively correlated with KOOS Symptoms (P = .019). The primary driver of preoperative KOOS Symptoms scores on multivariate analysis was VEGF (P = .023; R2 = 0.120). Similarly, KOOS QOL was independently correlated with MMP-1 concentration (P = .045; R2 = 0.079). CONCLUSION: Elevated MMP-1 was the primary driver of worse preoperative KOOS QOL scores on multivariate analysis, more so than defect characteristics. Similarly, worse preoperative KOOS Symptoms scores were more strongly correlated with elevated VEGF concentrations rather than defect ICRS grades. Other individual factors such as a larger number of defects and female sex were independently correlated with a more inflammatory synovial profile of the patient.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41934356/",
+      "score": 77,
+      "score_reasoning": "RCT from AJSM showing duloxetine improves outcomes after rotator cuff repair in patients with anxiety/depression, addressing important comorbidity management.",
+      "bullets": [
+        "Higher synovial MMP-1 levels predict worse quality of life scores in patients undergoing knee chondroplasty, independent of cartilage defect severity.",
+        "Elevated VEGF concentrations correlate more strongly with knee symptoms than actual cartilage defect grades in chondroplasty patients.",
+        "Female patients and those with multiple cartilage defects show higher inflammatory cytokine levels in synovial fluid at time of arthroscopy."
+      ]
+    },
+    {
+      "pmid": "41960915",
+      "title": "Higher Baseline Resiliency Scores Correlate With Better Patient-Reported Outcomes Following Acetabular Fixation.",
+      "authors": [
+        "McIlwain RN",
+        "Litten RM",
+        "McConnell MJ",
+        "Bhatti HS",
+        "Ellis JD",
+        "Johnson JP",
+        "Spitler CA"
+      ],
+      "authors_short": "McIlwain RN, Litten RM, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To determine if patient resiliency is associated with patient-reported outcomes at six and twelve months following surgical fixation of acetabular fractures. METHODS: Design: Retrospective cohort study. SETTING: Single Level I trauma center (2022-2024). PATIENT SELECTION CRITERIA: Adults who sustained an acetabulum fracture (AO/OTA 62) treated operatively and completed Brief Resilience Scale (BRS) surveys two-weeks postoperatively and Patient-Reported Outcomes Measurement Information System (PROMIS) surveys at six- and/or twelve-months postoperatively were included. OUTCOME MEASURES AND COMPARISONS: Primary outcomes were scores for PROMIS Physical Function (PF), Global Physical Health (GPH), Global Mental Health (GMH), Pain Interference (PI), Depression, Anxiety, and Brief Resilience Scale (BRS). PROMIS scores were compared between low and high resiliency individuals at six- and twelve-months, as defined by the cohort median BRS score. Multivariable linear regression was used to adjust for relevant clinical covariates. RESULTS: A total of 111 patients were included; 81 patients (64.2% male, 60.5% white; mean age 51.1 years) completed 6-month surveys and 56 patients (75.0% male, 66.1% white; mean age 51.8 years) completed 12-month surveys. At six months, high resiliency (BRS (\u2265 3.7) was independently associated with higher PROMIS PF (\u03b2 = 6.73 [2.93-10.54], p < 0.001), GPH ((\u03b2 = 8.88 [5.47-12.28], p < 0.001), and GMH ((\u03b2 = 12.40 [8.48-16.32], p < 0.001) with lower PI ((\u03b2 = -7.83 [-11.25 to -4.40], p < 0.001), Depression ((\u03b2 = -15.33 [-19.69 to -10.97], p < 0.001), and Anxiety ((\u03b2 = -11.54 [-16.35 to -6.72], p < 0.001) scores on regression analysis. Similarly, highly resilient (BRS \u2265 3.6) individuals completing 12-month surveys had significantly positive associations across all domains. CONCLUSIONS: Compared to patients with low resilience, high baseline resilience was associated with significantly better PROMIS outcomes at six and twelve months following acetabular fixation. LEVEL OF EVIDENCE: III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41960915/",
+      "score": 76,
+      "score_reasoning": "Large database study from JOT showing trends toward increased posterior malleolus fixation with reduced syndesmotic repair, reflecting evolving surgical practices.",
+      "bullets": [
+        "Patients with higher baseline resilience scores showed better physical function, mental health, and less pain at 6 and 12 months after acetabular fracture fixation.",
+        "The resilience effect was consistent across all measured domains including depression, anxiety, and global health outcomes in this 111-patient cohort.",
+        "Baseline psychological resilience appears to predict recovery quality after acetabular surgery, suggesting potential value in preoperative screening."
+      ]
+    },
+    {
+      "pmid": "41949510",
+      "title": "Choosing Local Flaps Versus Occlusive Dressings in Fingertip Amputations: A Systematic Review and Meta-Analysis With Proposed Algorithm.",
+      "authors": [
+        "Rahmati K",
+        "Jain NS",
+        "Alananzeh R",
+        "Wessel LE"
+      ],
+      "authors_short": "Rahmati K, Jain NS, et al.",
+      "journal": "The Journal of hand surgery",
+      "journal_abbrev": "J Hand Surg Am",
+      "year": "2026",
+      "abstract": "PURPOSE: Fingertip amputations present a reconstructive challenge because of the varying degrees of tissue loss, bony exposure, and functional impact. Often, providers must decide between occlusive dressings and local flap reconstruction. This systematic review aims to analyze outcomes of both treatment modalities to determine the benefits and risks of each. METHODS: We conducted a systematic review and meta-analysis in accordance with Preferred Reporting Items for Systematic Review and Meta-Analysis (PRISMA) guidelines. Studies directly comparing occlusive dressings and local flap reconstruction in fingertip injuries were included. A total of 220 studies were identified. After screening, three studies met the inclusion criteria. RESULTS: A total of 142 patients with 143 affected digits were found. Of the interventions, 72 cases (50%) were managed with occlusive dressings, whereas 71 cases (50%) underwent soft tissue reconstruction with flap coverage. Symptomatic neuroma formation was higher in the flap group (11%) as compared to local wound care (1%), especially with significant bone exposure (16%). Joint stiffness was also higher in the flap cohort (24%) than the dressing cohort (8%). Nail deformities and infections were equivalent in both treatment arms. CONCLUSIONS: Although flap reconstruction offers immediate wound closure, it is associated with a higher incidence of formation of symptomatic neuromas and joint stiffness compared to occlusive dressings. Conversely, occlusive dressings provide a lower complication profile while maintaining comparable outcomes in nail deformities. These findings underscore the importance of balancing the benefits of rapid functional recovery against the potential risks of surgical complications. TYPE OF STUDY/LEVEL OF EVIDENCE: Therapeutic III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41949510/",
+      "score": 75,
+      "score_reasoning": "Large multicenter study (2,264 patients) from JOT demonstrating VTE prophylaxis within 24 hours reduces complications in trauma patients with lower extremity fractures.",
+      "bullets": [
+        "Fingertip amputations treated with local flaps have higher rates of symptomatic neuromas (11% vs 1%) and joint stiffness (24% vs 8%) compared to occlusive dressings.",
+        "Nail deformities and infection rates are similar between flap reconstruction and occlusive dressing treatment in fingertip amputations.",
+        "Occlusive dressings offer comparable functional outcomes to flaps with fewer complications, challenging the routine use of surgical reconstruction for fingertip injuries."
+      ]
+    },
+    {
+      "pmid": "41956283",
+      "title": "Minimum Five-Year Outcomes of Anatomic Total Shoulder Arthroplasty with the Arthrosurface Aspherical Humerus and Inlay Glenoid.",
+      "authors": [
+        "Harkin W",
+        "Lew RM",
+        "Hornung A",
+        "Kurowicki J",
+        "Hussain ZB",
+        "Hummel A",
+        "Garrigues GE",
+        "Nicholson GP"
+      ],
+      "authors_short": "Harkin W, Lew RM, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Aseptic glenoid loosening is the most common cause of revision after anatomic total shoulder arthroplasty (aTSA). Inlay glenoid components have been shown to reduce edge loading and opposite-edge lift-off forces compared with onlay glenoids. Early clinical results of inlay glenoids have been promising, although there is a paucity of literature detailing mid- to long-term follow-up. We report the minimum five-year clinical and radiographic outcomes after aTSA with the Arthrosurface inlay glenoid component and a stemless, aspherical humeral head in an active, young patient population. METHODS: A retrospective review of aTSA with an inlay glenoid component and an aspherical humeral head component was performed for 45 shoulders. Patients were evaluated with patient-reported outcome measures, range of motion, and radiographs. Return to occupational and sporting activity, complications, and reoperations were analyzed. RESULTS: A total of 45 patients were available for an average follow up of 82.2 \u00b1 21.7 months. The average age of the cohort was 54.9 +/- 7.6 years and 41/45 (91.1%) were males. ASES, VAS, SANE, and SF-12 physical patient reported outcome measures (PROMs) were all significantly improved. Each of these improvements in PROMs also exceeded the established minimum clinically important difference (MCID). Active forward elevation significantly improved from 116.0 +/- 28.4 degrees pre-operatively to 158.8 +/- 20.6 degrees post-operatively. Active external rotation significantly improved from 26.0 +/- 14.5 degrees to 53.3 +/- 16.2 degrees. Five total patients underwent a revision shoulder arthroplasty during the study period. Four had revision to a reverse total shoulder arthroplasty (rTSA) for subscapularis failure (2), superior rotator cuff failure (1), and stiffness (1). No patient was revised for symptomatic glenoid loosening. Another patient had an antibiotic spacer placed for infection. Among the 30 patients with five-year radiographic follow-up, there was no significant progression of radiolucency around the glenoid component between initial post-operative films and final follow-up. CONCLUSION: Anatomic total shoulder arthroplasty with the Arthrosurface inlay glenoid coupled with a stemless, aspherical humeral head in a young, active population results in durable improvements in function and range of motion with minimal evidence of glenoid loosening at mid-term follow-up.",
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41956283/",
+      "score": 74,
+      "score_reasoning": "Comprehensive analysis of national shoulder arthroplasty trends from JSES with projections to 2035, providing important epidemiological data for practice planning.",
+      "bullets": [
+        "45 patients with inlay glenoid and stemless humeral head showed significant pain and function improvements at 5+ years without any revisions for glenoid loosening.",
+        "11% revision rate occurred due to rotator cuff failure, stiffness, or infection, but no glenoid component failures in this young, active population (average age 55).",
+        "Forward elevation improved from 116 to 159 degrees and external rotation from 26 to 53 degrees with stable radiographic appearance of glenoid components."
+      ]
+    },
+    {
+      "pmid": "41961027",
+      "title": "Erratum to \"Biomechanical effectiveness of lower trapezius tendon transfer with intercalary tendon-bone graft versus the modified l'Episcopo procedure in reverse total shoulder arthroplasty with proximal humeral bone loss [Journal of Shoulder and Elbow Surgery, 2025;35:e69-e79]\".",
+      "authors": [
+        "Eckers F",
+        "Hochreiter B",
+        "Johnson P",
+        "Fernando A",
+        "Huang Y",
+        "Ernstbrunner L",
+        "Ackland DC",
+        "Ek ET"
+      ],
+      "authors_short": "Eckers F, Hochreiter B, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Published Erratum"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41961027/",
+      "score": 70,
+      "score_reasoning": "International evidence-based clinical practice guideline from JBJS for nontraumatic osteonecrosis of the femoral head, providing standardized treatment recommendations.",
+      "bullets": [
+        "This is an erratum to a previously published biomechanical study comparing tendon transfer techniques in reverse shoulder arthroplasty",
+        "The original paper examined lower trapezius transfer with tendon-bone graft versus modified l'Episcopo procedure for patients with proximal humeral bone loss",
+        "No new clinical findings are presented in this correction"
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-04-11T04:19:05.814185-07:00"
+}
