@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """
 Combined morning pipeline:
-1. Scrape PubMed, score, summarize, send preview
-2. Poll inbox every 2 minutes for editor reply (up to 30 min)
-3. Send to subscribers immediately when reply is found
-4. If no reply after 30 min, exit (backup cron takes over)
+1. Check if today's preview was already sent (prevent duplicate runs)
+2. Scrape PubMed, score, summarize, send preview
+3. Poll inbox every 2 minutes for editor reply (up to 2 hours)
+4. Send to subscribers immediately when reply is found
+5. If no reply after 2 hours, auto-send paper #1
 """
 
 import json
@@ -22,6 +23,18 @@ from src.summarizer import summarize_papers
 from src.preview_email import send_preview_email
 from src.approval_checker import check_for_approval
 from src.buttondown_sender import send_to_buttondown
+
+
+def load_existing_data():
+    """Check if today's data file already exists. Returns (data, path) or (None, path)."""
+    now = datetime.now(PACIFIC)
+    date_key = now.strftime("%Y-%m-%d")
+    data_path = os.path.join(DATA_DIR, f"{date_key}.json")
+
+    if os.path.exists(data_path):
+        with open(data_path) as f:
+            return json.load(f), data_path
+    return None, data_path
 
 
 def scrape_and_preview():
@@ -70,13 +83,14 @@ def scrape_and_preview():
 
     # Step 4: Save
     date_key = now.strftime("%Y-%m-%d")
+    preview_sent_at = datetime.now(PACIFIC)
     output = {
         "brief_date": date_key,
         "brief_date_display": now.strftime("%A, %B %d"),
         "candidates": ranked,
         "picks": [0],
         "status": "pending_approval",
-        "preview_sent_at": now.isoformat(),
+        "preview_sent_at": preview_sent_at.isoformat(),
     }
     os.makedirs(DATA_DIR, exist_ok=True)
     output_path = os.path.join(DATA_DIR, f"{date_key}.json")
@@ -86,14 +100,14 @@ def scrape_and_preview():
 
     # Step 5: Send preview
     print("--- Step 5: Sending preview email ---")
-    preview_sent_at = datetime.now(PACIFIC)
     send_preview_email(now, ranked)
 
     return ranked, output_path, preview_sent_at
 
 
-def wait_for_reply_and_send(candidates, data_path, preview_sent_at, max_wait_minutes=30):
-    """Poll inbox every 2 minutes. Send as soon as reply is found."""
+def wait_for_reply_and_send(candidates, data_path, preview_sent_at, max_wait_minutes=120):
+    """Poll inbox every 2 minutes. Send as soon as reply is found.
+    After max_wait_minutes, auto-send paper #1."""
 
     print()
     print(f"--- Waiting for editor reply (up to {max_wait_minutes} min) ---")
@@ -105,7 +119,20 @@ def wait_for_reply_and_send(candidates, data_path, preview_sent_at, max_wait_min
     while True:
         elapsed = (time.time() - start) / 60
         if elapsed >= max_wait_minutes:
-            print(f"No reply after {max_wait_minutes} minutes. Exiting. Backup cron will handle.")
+            print(f"No reply after {max_wait_minutes} minutes. Auto-sending paper #1.")
+            paper = candidates[0]
+            now = datetime.now(PACIFIC)
+            success = send_to_buttondown(now, paper)
+            if success:
+                with open(data_path) as f:
+                    data = json.load(f)
+                data["status"] = "sent"
+                data["picks"] = [0]
+                with open(data_path, "w") as f:
+                    json.dump(data, f, indent=2)
+                print("AUTO-SENT paper #1 successfully.")
+            else:
+                print("ERROR: Auto-send failed.")
             return
 
         now = datetime.now(PACIFIC)
@@ -139,6 +166,26 @@ def wait_for_reply_and_send(candidates, data_path, preview_sent_at, max_wait_min
 
 
 def main():
+    # Check if today's pipeline already ran
+    existing, data_path = load_existing_data()
+
+    if existing:
+        status = existing.get("status", "")
+
+        if status == "sent":
+            print(f"Today's brief already sent. Nothing to do.")
+            return 0
+
+        if status == "pending_approval" and existing.get("preview_sent_at"):
+            # Preview already sent today -- don't send another one.
+            # Just resume waiting for the reply.
+            print(f"Preview already sent today. Resuming reply wait.")
+            candidates = existing["candidates"]
+            preview_sent_at = datetime.fromisoformat(existing["preview_sent_at"])
+            wait_for_reply_and_send(candidates, data_path, preview_sent_at, max_wait_minutes=120)
+            return 0
+
+    # Fresh run: scrape, preview, wait
     candidates, data_path, preview_sent_at = scrape_and_preview()
     if not candidates:
         return 1
