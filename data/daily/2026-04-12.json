@@ -1,0 +1,287 @@
+{
+  "brief_date": "2026-04-12",
+  "brief_date_display": "Sunday, April 12",
+  "candidates": [
+    {
+      "pmid": "41961916",
+      "title": "Nontraumatic Osteonecrosis of the Femoral Head: An International Evidence-Based Clinical Practice Guideline.",
+      "authors": [
+        "Cheng EY",
+        "Mirzaei A",
+        "Goodman SB",
+        "Cui Q",
+        "Mont MA",
+        "Jones LC"
+      ],
+      "authors_short": "Cheng EY, Mirzaei A, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Nontraumatic osteonecrosis of the femoral head (ONFH) can lead to major disability in patients of all ages. It presents at various levels of severity and can be either symptomatic or asymptomatic. There is a vast array of management strategies. Treatment is often subject to physician bias. Clinical practice guidelines that are broad-based, internationally developed, consensus-driven, and strictly evidence-based are needed. The aim of this guideline by the Association Research Circulation Osseous (ARCO) was to develop international evidence-based recommendations to assist physicians and patients in managing ONFH. METHODS: ARCO convened an international, multidisciplinary guideline panel that was balanced to minimize potential bias from conflicts of interest. The Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach was utilized, including GRADE Evidence-to-Decision frameworks. The panel prioritized clinical questions, defined criteria for the systematic review of evidence, evaluated the statistical analysis, and, by consensus, approved recommendation statements, which were then subject to external review by content experts and stakeholders (a health policy-maker and a patient). RESULTS: The panel agreed on 12 recommendations for the diagnosis, evaluation, and management of ONFH. CONCLUSIONS: Key recommendations of these guidelines require accurately staging ONFH and determining when pain may be due to ONFH. They establish principles for optimal decision-making by assessing the quality of evidence backing various treatments and identifying numerous areas for additional investigation. CLINICAL RELEVANCE: This international evidence-based guideline provides standardized recommendations for the diagnosis and management of nontraumatic ONFH. It synthesizes all available evidence using GRADE methodology and offers practical, consensus-supported guidance for accurate staging, imaging selection, treatment decision-making, and the identification of patients who would benefit from joint-preserving interventions. The guideline supports clinicians in reducing practice variation, improving diagnostic accuracy, and optimizing treatment pathways for patients with ONFH.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41961916/",
+      "score": 85,
+      "score_reasoning": "International evidence-based clinical practice guideline for osteonecrosis of femoral head from ARCO published in JBJS with high clinical relevance for diagnosis and management decisions.",
+      "bullets": [
+        "International orthopaedic consortium published 12 evidence-based recommendations for diagnosing and managing nontraumatic osteonecrosis of the femoral head.",
+        "Guidelines emphasize accurate staging and determining whether patient pain is actually caused by the osteonecrosis lesion.",
+        "Recommendations aim to reduce practice variation and help identify which patients benefit from joint-preserving procedures versus replacement."
+      ]
+    },
+    {
+      "pmid": "41961954",
+      "title": "Significant Anxiolytic Effect and Enhanced Recovery Benefits of Perioperative Low-Dose Olanzapine in Patients with Anxiety Undergoing THA: A Randomized Controlled Trial.",
+      "authors": [
+        "Jiang B",
+        "Fan J",
+        "Lai Y",
+        "Cai Y",
+        "Ding Z",
+        "Luo Z",
+        "Zhou Z"
+      ],
+      "authors_short": "Jiang B, Fan J, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Major anxiety symptoms are commonly observed in patients undergoing total hip arthroplasty (THA); these symptoms exacerbate pain and compromise hip recovery. Olanzapine demonstrates clinically meaningful efficacy in reducing anxiety; thus, we investigated its anxiolytic effect and benefits for enhancing recovery in these high-risk patients. METHODS: We prospectively enrolled 135 patients who were scheduled for primary THA at our institution between April 2024 and March 2025 and who scored at least 40 points on the State-Trait Anxiety Inventory-State (STAI-S) before surgery. Patients randomly received oral olanzapine (2.5 mg), alprazolam (0.4 mg), or a placebo once nightly for 5 days beginning on the day of admission. The 3 groups (45 patients in the olanzapine group, 45 in the alprazolam group, and 44 in the placebo group after 1 patient was lost to follow-up) were compared postoperatively in terms of the STAI-S score, Pittsburgh Sleep Quality Index (PSQI), visual analog scale (VAS) pain score, opioid consumption, and functional recovery of the hip. Adverse events related to drugs and surgery were recorded. RESULTS: Compared with placebo and alprazolam, olanzapine was associated with significantly lower STAI-S scores on postoperative days (PODs) 1 and 3, significantly lower resting VAS pain scores on PODs 1 to 3, and significantly lower incidence of postoperative nausea and vomiting. The olanzapine group and the alprazolam group demonstrated significantly better sleep quality based on the PSQI on POD 3 compared with the placebo group. Moreover, the olanzapine group had lower opioid consumption on PODs 1 to 3 than the placebo group. Patients in the olanzapine group exhibited better Harris hip scores and Hip Disability and Osteoarthritis Outcome Scores. The 3 groups did not significantly differ in terms of adverse events. CONCLUSIONS: Perioperative low-dose olanzapine may be an effective option for reducing anxiety levels, sleep disorders, and postoperative nausea and vomiting, mitigating postoperative pain and enhancing hip recovery among patients with anxiety symptoms undergoing THA. LEVEL OF EVIDENCE: Therapeutic Level I. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41961954/",
+      "score": 82,
+      "score_reasoning": "Randomized controlled trial published in JBJS evaluating olanzapine for anxiety in THA patients with clear clinical applications for perioperative management.",
+      "bullets": [
+        "Low-dose olanzapine (2.5 mg nightly for 5 days) reduced anxiety, pain scores, and opioid use better than alprazolam or placebo in anxious THA patients.",
+        "Study included 135 patients with high preoperative anxiety scores (STAI-S \u226540) undergoing primary total hip arthroplasty.",
+        "Olanzapine group showed better hip function scores and reduced postoperative nausea without increased adverse events compared to controls."
+      ]
+    },
+    {
+      "pmid": "41963221",
+      "title": "Aspirin Versus Potent Venous Thromboembolism Chemoprophylaxis in Total Knee Arthroplasty: Reduced Postoperative Pain and Complications With Aspirin Use.",
+      "authors": [
+        "Gonzalez AG",
+        "Anatone AJ",
+        "Logsdail ES",
+        "Kolin DA",
+        "Weinblatt AI",
+        "Ranawat AS",
+        "Gonzalez Della Valle A",
+        "Chalmers BP"
+      ],
+      "authors_short": "Gonzalez AG, Anatone AJ, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: The optimal postoperative venous thromboembolism chemoprophylaxis (VTEC) to balance venous thromboembolism (VTE) reduction with pain management, wound complications, and functional outcomes remains controversial. This study compared postoperative pain and early outcomes in patients undergoing total knee arthroplasty (TKA) who received aspirin versus potent anticoagulation (AC) regimens. METHODS: We identified 14,216 primary TKAs for osteoarthritis performed between 2016 and 2023 at a single institution. Postoperative VTEC regimens included aspirin in 9,076 patients, potent AC (i.e., apixaban, rivaroxaban, warfarin, heparin, and enoxaparin) in 4,506, and chronic potent AC in 661. Outcomes included in-hospital opioid consumption (morphine milligram equivalents [MMEs]), lengths of stay (LOS), 90-day outpatient opioids, 180-day manipulations under anesthesia (MUA), and 90-day complications. Outcomes were assessed with multivariable regression models controlling for relevant clinical variables. RESULTS: Compared to the aspirin group, 90-day outpatient and total opioid use was higher in the AC group (adjusted mean difference: +285.0 MMEs; P < 0.001 and +295.6 MMEs; P < 0.001, respectively) and chronic AC group (+127.7 MMEs; P = 0.002 and +127.3 MMEs; P = 0.002). In-hospital opioid use was higher in the AC group (+10.5 MMEs; P < 0.001). Lengths of stay were longer for AC (+12.1 hours; P < 0.001) and chronic AC groups (+5.6 hours; P < 0.001). The AC group had higher odds of MUA within 180 days (odds ratio: 1.45; P = 0.0003) and 90-day readmission (1.31; P = 0.004). No differences were observed for VTE, myocardial infarction, reoperation, or wound drainage (P > 0.36). CONCLUSIONS: The TKA patients treated with potent AC for VTE prophylaxis versus aspirin experienced more postoperative pain in the first 90 days, higher opioid requirements, increased LOS, and increased risk of MUA. Aspirin should be favored for VTEC to reduce the risk of postoperative pain in TKA patients when medically appropriate.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41963221/",
+      "score": 78,
+      "score_reasoning": "Large retrospective study of 14,216 TKAs comparing aspirin vs potent anticoagulation published in Journal of Arthroplasty with direct implications for VTE prophylaxis protocols.",
+      "bullets": [
+        "Total knee patients on potent anticoagulants used 285 more morphine equivalents over 90 days compared to aspirin prophylaxis, with longer hospital stays and higher readmission rates.",
+        "Aspirin prophylaxis reduced manipulation under anaesthesia rates by 31% compared to potent anticoagulation, with no difference in actual clot rates between groups.",
+        "This large single-center study of 14,216 primary knee replacements supports aspirin over stronger blood thinners when medically appropriate to minimize pain and complications."
+      ]
+    },
+    {
+      "pmid": "41962735",
+      "title": "Morphological changes in tennis elbow after PRP injection: A novel MRI-based assessment in a randomized controlled study.",
+      "authors": [
+        "Walecka J",
+        "Dzianach M",
+        "Rachwal-Czyzewicz I",
+        "Ringwelska Z",
+        "Lubiatowski P"
+      ],
+      "authors_short": "Walecka J, Dzianach M, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Lateral epicondylar tendinopathy (tennis elbow) is a degenerative tendinopathy of the common extensor tendon (CET), often affecting individuals engaged in repetitive upper-limb activities. While clinical diagnosis is standard, MRI enables an objective assessment of tendon pathology and treatment response. This randomized controlled trial aimed to evaluate the effect of platelet-rich plasma injections on tendon healing in lateral epicondylar tendinopathy using MRI. The primary outcome was the reduction in partial tendon tear size measured on MRI. METHODS: A double-blind, randomized, placebo-controlled study was conducted on 71 patients with chronic lateral tendinopathy. MRI scans were performed using a 3T scanner in the \"Superman position,\" assessing CET integrity, tendon tears, soft tissue edema, and collateral ligament abnormalities. Patients received either leukocyte-rich PRP (LR-PRP), leukocyte-poor PRP (LP-PRP), or saline injections. Another MRI was performed at six months following injections. Interobserver reliability was measured using the intraclass correlation coefficient (ICC). RESULTS: The MRI protocol demonstrated excellent reliability (ICC > 0.90). Statistically significant improvements in tendon structure and muscle edema were observed in all treatment groups, including saline. However, LR-PRP showed a distinct advantage in reducing partial tendon tear size and soft tissue edema, while LP-PRP also led to some improvement in soft tissue morphology, though less consistently. Joint effusion was less frequent in both PRP groups compared to control. No significant superiority of PRP over saline was observed in tendinosis resolution or muscle edema reduction at six-month follow-up. CONCLUSION: This study presents a reproducible MRI-based assessment technique for lateral tendinopathy, enhancing diagnostic precision and treatment evaluation. It confirmed a wide dynamicly changing spectrum of pathologies, not strictly limited to tendinopathy (e.g., edema, effusion, synovitis, tendon tears, ligament abnormalities, subchondral cysts). Clearly soft tissue morphology improved with the treatment. While PRP treatments - particularly LR-PRP - offered benefits in specific morphological parameters such as tear size and soft tissue edema, overall improvement patterns suggest that PRP was not universally superior to saline. MRI remains a valuable tool for monitoring structural tendon changes in chronic lateral tendinopathy.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41962735/",
+      "score": 73,
+      "score_reasoning": "Randomized controlled trial of PRP vs placebo for tennis elbow using novel MRI assessment published in high-impact shoulder journal with clear treatment implications.",
+      "bullets": [
+        "MRI showed leukocyte-rich PRP reduced partial tendon tear size and soft tissue edema better than saline in chronic tennis elbow at 6 months.",
+        "All injection groups including saline showed structural improvement in tendon morphology, suggesting PRP offers limited advantage over placebo.",
+        "3T MRI in Superman position provides reliable assessment of tennis elbow pathology beyond tendinosis including tears, edema, and joint effusion."
+      ]
+    },
+    {
+      "pmid": "41960717",
+      "title": "Impact of Preoperative Heel Ulceration on Surgical Outcomes Following Open Reduction and Internal Fixation of Rotational Ankle Fractures.",
+      "authors": [
+        "Tummala S",
+        "Wood BA",
+        "Wukich DK"
+      ],
+      "authors_short": "Tummala S, Wood BA, Wukich DK",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: As surgical treatment with open reduction and internal fixation (ORIF) becomes more common, attention to preoperative risk stratification has grown. Although multiple modifiable risk factors and comorbidities have been associated with adverse outcomes, the impact of preexisting decubitus heel ulcers in this context remains yet to be defined. METHODS: Using a nationally representative multi-institutional database, a retrospective analysis was conducted on adults undergoing ORIF for rotational ankle fractures between 2010 and 2022. Patients with a documented decubitus heel ulcer within 4 weeks before surgery were compared with ulcer-free controls. After applying strict exclusion criteria and employing 1:1 propensity score matching for key demographic and clinical variables, 90-day medical complications and 1- and 3-year surgical outcomes were evaluated. RESULTS: The presence of a preoperative heel ulcer was associated with markedly higher risks of 90-day surgical site infection, sepsis, pneumonia, urinary tract infection, mortality, and deep infection (all P < 0.005). At 1 and 3 years postoperatively, the ulcer cohort demonstrated markedly elevated rates of nonunion, revision surgery, and below-knee amputation (all P < 0.0125). CONCLUSIONS: Preoperative decubitus heel ulceration is associated with elevated risks of both short-term complications and long-term surgical failure following ORIF for ankle fractures. These findings underscore the importance of thorough preoperative foot assessment and may inform surgical planning and perioperative management in this high-risk population. LEVEL OF EVIDENCE: Therapeutic Level III, Retrospective Cohort Study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41960717/",
+      "score": 72,
+      "score_reasoning": "Retrospective study showing CT-first imaging reduces time to surgery by 3 hours in suspected hip fractures with direct ED protocol implications.",
+      "bullets": [
+        "Patients with heel ulcers within 4 weeks before ankle fracture ORIF have significantly higher rates of 90-day complications including infection, sepsis, and mortality.",
+        "At 1 and 3 years after ankle ORIF, patients with preoperative heel ulcers show increased rates of nonunion, revision surgery, and below-knee amputation.",
+        "Preoperative foot assessment should include checking for heel ulcers as this finding indicates high-risk patients requiring modified surgical planning and perioperative management."
+      ]
+    },
+    {
+      "pmid": "41956873",
+      "title": "Improved Patient-Reported Outcomes With Extended Oral Tranexamic Acid Following Total Hip and Knee Arthroplasty.",
+      "authors": [
+        "Thamer S",
+        "Price S",
+        "Brinkman N",
+        "Caldwell C",
+        "Koenig K"
+      ],
+      "authors_short": "Thamer S, Price S, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Tranexamic acid (TXA) is widely used in total joint arthroplasty (TJA) to reduce perioperative blood loss and transfusion requirements. There is a growing body of literature on the use of extended postoperative TXA following total knee arthroplasty (TKA). This study evaluated the impact of an extended postoperative oral TXA regimen following total hip arthroplasty (THA) and TKA. METHODS: After obtaining Institutional Review Board approval, a retrospective chart review was conducted to identify patients who underwent THA/TKA at a single institution. All patients received a standard 1-gram intravenous TXA dose prior to incision and at the time of closure. Those who underwent TJA after formal adoption of an institutional protocol implementing an extended postoperative oral TXA regimen received an additional 1.95-gram dose of oral TXA starting on the day of surgery and continued for three days postoperatively. Patient-reported outcome measures, hospital lengths of stay (LOSs), postoperative complications, 90-day readmissions, and primary TJA-related emergency department visits were compared between the oral TXA group and a historical cohort. All patients included in the analysis had a minimum follow-up of three months. A total of 312 patients were included (153 in the oral TXA group and 159 historical controls). Baseline demographics and preoperative Hip Disability and Osteoarthritis Outcome/Knee Injury and Osteoarthritis Outcome scores were comparable between groups. RESULTS: Extended TXA use was associated with significantly greater improvement in patient-reported outcome measures (change of 27.7 versus a change of 18.1; P < 0.001) and a significant reduction in TJA-related emergency department visits (odds ratio 0.11; 95% confidence interval 0.02 to 0.49; P = 0.007). There were no significant differences in LOS, 90-day readmissions, or postoperative complications, including infection or thromboembolic events (all P > 0.05). CONCLUSIONS: In this retrospective cohort of primary THA and TKA patients, the use of oral TXA for three days postoperatively was associated with improved early patient-reported function without an increase in complications or LOSs.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41956873/",
+      "score": 70,
+      "score_reasoning": "Database study showing preoperative heel ulcers significantly increase complications after ankle ORIF with important risk stratification implications.",
+      "bullets": [
+        "Extended oral tranexamic acid for 3 days after hip and knee replacement improved patient-reported outcomes by 50% compared to standard IV dosing alone.",
+        "Patients receiving extended oral TXA had 89% fewer orthopaedic-related emergency department visits within 90 days without increased complications.",
+        "The protocol adds 1.95 grams oral TXA daily for 3 days starting day of surgery to standard 1-gram IV doses at incision and closure."
+      ]
+    },
+    {
+      "pmid": "41952609",
+      "title": "Has the Protective Effect of Hormonal Contraception Been Overestimated? A Systematic Review and Meta-analysis of Oral Contraceptive Pills and ACL Injury.",
+      "authors": [
+        "Paska J",
+        "Watson SL",
+        "Larrabee GA",
+        "Ndjonko LCM",
+        "Tjong VK"
+      ],
+      "authors_short": "Paska J, Watson SL, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Hormonal contraception (HC), including oral contraceptive pills (OCPs) and long-acting reversible contraceptives, is widely used by reproductive-aged women for various medical indications. Emerging evidence suggests a possible association between HC use and reduced anterior cruciate ligament (ACL) injury risk; however, no meta-analysis has systematically evaluated this relationship. PURPOSE: To determine whether HC use reduces the risk of ACL injury in females through a systematic review and meta-analysis. STUDY DESIGN: Meta-analysis; Level of evidence, 3. METHODS: A systematic search of the PubMed, OVID (MEDLINE), and Embase databases was conducted from inception through March 2025 following PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines. Studies were included if they reported ACL injury incidence among both HC users and nonusers. Data were synthesized using a random-effects meta-analysis to calculate a pooled risk ratio. Publication bias was evaluated using funnel plots and Egger regression. RESULTS: Eight studies consisting of 18,103,890 participants met inclusion criteria. All studies evaluated OCPs, and 3 included other forms of HC. The pooled risk ratio for ACL injury among HC users versus nonusers was 0.88 (95% CI, 0.77-1.01). Heterogeneity was high (I2 = 97.3%), and Egger regression showed no significant publication bias (P = .426). CONCLUSION: Hormonal contraceptive use, particularly OCPs, does not appear to reduce ACL injury risk in females. Given the potential side effects of HC and the lack of conclusive benefit, clinicians should not recommend HC use solely for injury prevention. Future research should focus on non-OCP preventive strategies for ACL injury, diverse athletic populations, and standardized reporting of HC formulations.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41952609/",
+      "score": 69,
+      "score_reasoning": "Five-year follow-up study comparing inverse kinematic vs mechanical alignment in varus TKA showing superior outcomes with personalized alignment.",
+      "bullets": [
+        "Meta-analysis of 18 million women found oral contraceptive pills do not significantly reduce ACL injury risk (risk ratio 0.88, confidence interval crosses 1.0).",
+        "Applies to reproductive-aged women considering hormonal contraception, particularly those in sports with high ACL injury rates.",
+        "Do not recommend oral contraceptives solely for ACL injury prevention given lack of proven benefit and potential side effects."
+      ]
+    },
+    {
+      "pmid": "41949510",
+      "title": "Choosing Local Flaps Versus Occlusive Dressings in Fingertip Amputations: A Systematic Review and Meta-Analysis With Proposed Algorithm.",
+      "authors": [
+        "Rahmati K",
+        "Jain NS",
+        "Alananzeh R",
+        "Wessel LE"
+      ],
+      "authors_short": "Rahmati K, Jain NS, et al.",
+      "journal": "The Journal of hand surgery",
+      "journal_abbrev": "J Hand Surg Am",
+      "year": "2026",
+      "abstract": "PURPOSE: Fingertip amputations present a reconstructive challenge because of the varying degrees of tissue loss, bony exposure, and functional impact. Often, providers must decide between occlusive dressings and local flap reconstruction. This systematic review aims to analyze outcomes of both treatment modalities to determine the benefits and risks of each. METHODS: We conducted a systematic review and meta-analysis in accordance with Preferred Reporting Items for Systematic Review and Meta-Analysis (PRISMA) guidelines. Studies directly comparing occlusive dressings and local flap reconstruction in fingertip injuries were included. A total of 220 studies were identified. After screening, three studies met the inclusion criteria. RESULTS: A total of 142 patients with 143 affected digits were found. Of the interventions, 72 cases (50%) were managed with occlusive dressings, whereas 71 cases (50%) underwent soft tissue reconstruction with flap coverage. Symptomatic neuroma formation was higher in the flap group (11%) as compared to local wound care (1%), especially with significant bone exposure (16%). Joint stiffness was also higher in the flap cohort (24%) than the dressing cohort (8%). Nail deformities and infections were equivalent in both treatment arms. CONCLUSIONS: Although flap reconstruction offers immediate wound closure, it is associated with a higher incidence of formation of symptomatic neuromas and joint stiffness compared to occlusive dressings. Conversely, occlusive dressings provide a lower complication profile while maintaining comparable outcomes in nail deformities. These findings underscore the importance of balancing the benefits of rapid functional recovery against the potential risks of surgical complications. TYPE OF STUDY/LEVEL OF EVIDENCE: Therapeutic III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41949510/",
+      "score": 68,
+      "score_reasoning": "Multicenter study of 2,264 trauma patients showing early VTE prophylaxis reduces risk by half in lower extremity fractures with clear protocol implications.",
+      "bullets": [
+        "Local flaps cause more symptomatic neuromas (11% vs 1%) and joint stiffness (24% vs 8%) compared to occlusive dressings in fingertip amputations.",
+        "Nail deformities and infection rates are similar between flap reconstruction and occlusive dressing treatment approaches.",
+        "Occlusive dressings provide comparable functional outcomes with fewer complications than surgical reconstruction for fingertip injuries."
+      ]
+    },
+    {
+      "pmid": "41934361",
+      "title": "Duloxetine Improves Early Clinical Outcomes Including Range of Motion, Functional Scores, Pain, and Psychological Distress After Arthroscopic Rotator Cuff Repair in Patients With Anxiety or Depression: Prospective Randomized Controlled Trial.",
+      "authors": [
+        "Han SC",
+        "Han J",
+        "Min YK",
+        "Han JW",
+        "Jeong HJ",
+        "Oh JH"
+      ],
+      "authors_short": "Han SC, Han J, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Anxiety and depression are known risk factors for poor prognosis after arthroscopic rotator cuff repair (ARCR). However, studies that examine relief of postoperative psychological distress in patients with anxiety and/or depression remain limited. PURPOSE: To evaluate the effect of duloxetine on the clinical outcomes of ARCR for chronic rotator cuff tears in patients with anxiety and/or depression. STUDY DESIGN: Randomized controlled clinical trial; Level of evidence, 2. METHOD: A total of 63 patients undergoing ARCR were enrolled and categorized into 3 groups based on Hospital Anxiety and Depression Scale (HADS) scores and the use of oral duloxetine: group A (anxiety <8 and depression <8, healthy psychological status; n = 20); group B (anxiety \u22658 and/or depression \u22658, psychological distress receiving duloxetine administration; n = 21); and group C (anxiety \u22658 and/or depression \u22658, psychological distress receiving no duloxetine treatment; n = 22). Duloxetine was administered orally from the evening of the surgery. The dosage was 30 mg/d for the first 2 weeks. After the adaptation period, the dosage was increased to 60 mg/d for 12 weeks. Primary outcome was active forward flexion at postoperative 3 months. Other functional outcomes, structural outcomes, analgesic consumption, and duloxetine-related side effects were assessed at postoperative 3, 6, and 12 months and annually thereafter. RESULTS: No severe adverse events related to duloxetine were observed. However, 16% (4/25) of patients in group B experienced nausea and vomiting after duloxetine administration. Although symptoms resolved completely after antiemetic intervention, the patients withdrew from the study due to the drug-related adverse event. In the first 3 months after surgery, group B showed better range of motion (ROM), better functional outcomes (American Shoulder and Elbow Surgeons Standardized Assessment Form [ASES] and Simple Shoulder Test [SST]), better anxiety scores, better pain scores, and less opioid consumption than did group C (all adjusted P < .05). These differences were not observed between groups A and B (all adjusted P > .05). Functional outcomes and retear rates did not differ among the 3 groups at later follow-up. CONCLUSION: Administration of duloxetine to ARCR patients with anxiety and/or depressive distress screened using HADS not only improved anxiety and distress but also enhanced active ROM, ASES, and SST in the first 3 months postoperatively, although 16% of patients experienced nausea and vomiting.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41934361/",
+      "score": 67,
+      "score_reasoning": "Large NFL study demonstrating data-driven practice acclimation reduces lower extremity strains with actionable injury prevention strategies.",
+      "bullets": [
+        "Duloxetine given for 3 months after arthroscopic rotator cuff repair improves early range of motion, function scores, and pain in patients with anxiety or depression compared to no treatment.",
+        "Benefits were seen only in the first 3 months after surgery, with no differences in function or retear rates at longer follow-up between treated and untreated anxious/depressed patients.",
+        "Sixteen percent of patients stopped duloxetine due to nausea and vomiting, though symptoms resolved with antiemetics and no severe adverse events occurred."
+      ]
+    },
+    {
+      "pmid": "41960915",
+      "title": "Higher Baseline Resiliency Scores Correlate With Better Patient-Reported Outcomes Following Acetabular Fixation.",
+      "authors": [
+        "McIlwain RN",
+        "Litten RM",
+        "McConnell MJ",
+        "Bhatti HS",
+        "Ellis JD",
+        "Johnson JP",
+        "Spitler CA"
+      ],
+      "authors_short": "McIlwain RN, Litten RM, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To determine if patient resiliency is associated with patient-reported outcomes at six and twelve months following surgical fixation of acetabular fractures. METHODS: Design: Retrospective cohort study. SETTING: Single Level I trauma center (2022-2024). PATIENT SELECTION CRITERIA: Adults who sustained an acetabulum fracture (AO/OTA 62) treated operatively and completed Brief Resilience Scale (BRS) surveys two-weeks postoperatively and Patient-Reported Outcomes Measurement Information System (PROMIS) surveys at six- and/or twelve-months postoperatively were included. OUTCOME MEASURES AND COMPARISONS: Primary outcomes were scores for PROMIS Physical Function (PF), Global Physical Health (GPH), Global Mental Health (GMH), Pain Interference (PI), Depression, Anxiety, and Brief Resilience Scale (BRS). PROMIS scores were compared between low and high resiliency individuals at six- and twelve-months, as defined by the cohort median BRS score. Multivariable linear regression was used to adjust for relevant clinical covariates. RESULTS: A total of 111 patients were included; 81 patients (64.2% male, 60.5% white; mean age 51.1 years) completed 6-month surveys and 56 patients (75.0% male, 66.1% white; mean age 51.8 years) completed 12-month surveys. At six months, high resiliency (BRS (\u2265 3.7) was independently associated with higher PROMIS PF (\u03b2 = 6.73 [2.93-10.54], p < 0.001), GPH ((\u03b2 = 8.88 [5.47-12.28], p < 0.001), and GMH ((\u03b2 = 12.40 [8.48-16.32], p < 0.001) with lower PI ((\u03b2 = -7.83 [-11.25 to -4.40], p < 0.001), Depression ((\u03b2 = -15.33 [-19.69 to -10.97], p < 0.001), and Anxiety ((\u03b2 = -11.54 [-16.35 to -6.72], p < 0.001) scores on regression analysis. Similarly, highly resilient (BRS \u2265 3.6) individuals completing 12-month surveys had significantly positive associations across all domains. CONCLUSIONS: Compared to patients with low resilience, high baseline resilience was associated with significantly better PROMIS outcomes at six and twelve months following acetabular fixation. LEVEL OF EVIDENCE: III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41960915/",
+      "score": 65,
+      "score_reasoning": "Database study showing increasing posterior malleolus fixation trends in trimalleolar fractures with reduced syndesmotic repair rates.",
+      "bullets": [
+        "Patients with higher resiliency scores at 2 weeks after acetabular fracture surgery had better physical function, less pain, and lower depression at 6 and 12 months.",
+        "This finding applies to adult acetabular fracture patients treated surgically at a Level I trauma center using standardized outcome measures.",
+        "Baseline psychological resiliency may predict recovery quality after acetabular fixation, potentially helping identify patients who need additional support."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "pending_approval",
+  "preview_sent_at": "2026-04-12T04:22:07.849523-07:00"
+}
