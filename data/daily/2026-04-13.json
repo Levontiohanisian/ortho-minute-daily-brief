@@ -1,0 +1,303 @@
+{
+  "brief_date": "2026-04-13",
+  "brief_date_display": "Monday, April 13",
+  "candidates": [
+    {
+      "pmid": "41966425",
+      "title": "The Mark Coventry Award: Five-Year Outcomes of a Randomized Controlled Trial on Cemented Versus Uncemented Total Knee Arthroplasty: The KneeFix Trial.",
+      "authors": [
+        "Young SW",
+        "Tay ML",
+        "Kawaguchi K",
+        "Farrington WJ",
+        "van Rooyen R",
+        "Sharp R",
+        "Elliott RSJ",
+        "Walker ML",
+        "Bayan A"
+      ],
+      "authors_short": "Young SW, Tay ML, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Uncemented total knee arthroplasty (TKA) components were developed to improve fixation relative to cemented implants. While uncemented femoral components have yielded favorable results, outcomes for earlier uncemented tibial and patellar designs have been inconsistent. Contemporary trabecular-metal implants aim to enhance biological fixation by optimizing osseointegration, yet randomized data comparing fully uncemented constructs including the patella, are limited. We conducted a prospective, single-blinded randomized controlled trial (RCT) comparing 5-year radiological, clinical, and patient-reported outcomes of fully-cemented and fully uncemented trabecular-metal TKA with patella resurfacing. METHODS: Between 2017 and 2020, 316 knees (280 patients) were randomized 1:1 to fully-cemented (n = 158) or fully-uncemented (n = 158) TKA with patella resurfacing. There were 15 patients randomized to the uncemented group who required cementation of at least one component. The primary outcome was implant fixation at five years, assessed on standardized radiographs for progressive and non-progressive radiolucent lines. The secondary outcomes included revisions, other reoperations, and patient-reported outcome measures (PROMs) at five years. Risk ratios, t-tests, and Chi-square tests were performed using a modified intention-to-treat approach. RESULTS: Follow up was 97% at five years. Uncemented TKA had fewer non-progressive radiolucent lines than cemented TKA (two versus 27 cases, relative risk (RR): 0.50, 95% confidence interval (CI): 0.42 to 0.59, P < 0.001). There was one progressive radiolucency that occurred in the cemented group. There were no differences between the groups for revisions (one cemented versus two uncemented, RR 1.52, CI: 0.31 to 7.56, P = 0.55), other reoperations (10 cemented versus eight uncemented, RR: 0.90, CI 0.59 to 1.39, P = 0.66), or PROMs (Oxford Knee Score, EuroQol-5 Dimensions, International Knee Society Score, Pain Visual Analog Scale, Forgotten Joint Score, and Satisfaction). CONCLUSIONS: At five years, fully-uncemented TKA utilizing trabecular metal with patella resurfacing demonstrated equivalent clinical and patient-reported outcomes and similar revision/reoperation rates to fully-cemented TKA, with fewer non-progressive radiolucent lines. Longer-term follow-up is required to determine whether radiographic differences affect implant survivorship and longevity overall.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41966425/",
+      "score": 92,
+      "score_reasoning": "RCT comparing cemented vs uncemented TKA with 5-year follow-up, 316 patients, published in prestigious journal, addresses fundamental fixation question with high clinical relevance.",
+      "bullets": [
+        "At 5 years, fully uncemented trabecular metal TKA showed fewer non-progressive radiolucent lines compared to cemented TKA (2 vs 27 cases) but identical clinical outcomes.",
+        "Revision rates, reoperations, and all patient-reported outcome scores were equivalent between uncemented and cemented TKA groups in 316 randomized knees.",
+        "Contemporary uncemented TKA with trabecular metal appears safe for routine use, though longer follow-up is needed to determine if better radiographic fixation translates to improved implant survival."
+      ]
+    },
+    {
+      "pmid": "41966418",
+      "title": "The Frank Stinchfield Award: How Accurate is the United States Centers for Medicare & Medicaid Services Definition of Success for Patients Undergoing Total Hip Arthroplasty?",
+      "authors": [
+        "Yousef M",
+        "Zheng H",
+        "Liu SH",
+        "Ayers DC"
+      ],
+      "authors_short": "Yousef M, Zheng H, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Total hip arthroplasty (THA) is a highly effective treatment for patients who have advanced arthritis. The United States Centers for Medicare & Medicaid Services (CMS) defines a successful THA as achieving a minimum 22-point improvement in the Hip Injury and Osteoarthritis Outcome Score for Joint Replacement (HOOS-JR). However, the accuracy of this criterion and how it correlates with patient satisfaction remains unclear. This study aimed to evaluate the validity of the CMS success criteria following primary THA. METHODS: A multicenter cohort of 6,016 patients undergoing primary THA was prospectively enrolled. Patient demographics, comorbidities, and HOOS-JR scores were collected preoperatively and at one year postoperatively. Patient satisfaction was assessed using the International Society of Arthroplasty Registries (ISAR) scale. Patients were categorized as successful or unsuccessful based on CMS criteria and as satisfied or not satisfied based on the ISAR scale. Cross-classification of outcomes was performed, and a multivariate logistic regression model was used to identify factors associated with patients satisfied after THA yet labeled as \"unsuccessful\" by the CMS. RESULTS: A total of 5,429 patients (90.2%) reported satisfaction; however, only 4,625 patients (76.9%) met the CMS criteria for success. Among satisfied patients, only 4,397 patients (81%) were classified as successful by CMS standards. Discordance between success and satisfaction was strongly associated with baseline HOOS-JR. Predictors of satisfied patients classified as having unsuccessful outcomes include high body mass index, prolonged narcotic use, back pain, contralateral hip pain, health literacy, and poor baseline HOOS-JR and Veterans Rand 12-Item Health Survey (VR-12) mental component scores (MCS). Satisfied patients who had higher baseline HOOS-JR scores by 10 points were 2.7 times more likely to be classified as having an \"unsuccessful outcome\" by CMS. CONCLUSION: A substantial discrepancy exists between patient satisfaction and the CMS definition of success following THA. A more nuanced, risk-adjusted success metric that accounts for preoperative baseline scores may better align with patient-centered outcomes and improve its accuracy in defining successful outcomes after THA.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41966418/",
+      "score": 88,
+      "score_reasoning": "Frank Stinchfield Award paper examining CMS success criteria accuracy in 6,016 THA patients, highly clinically relevant for reimbursement and outcome assessment.",
+      "bullets": [
+        "CMS defines successful total hip arthroplasty as 22-point HOOS-JR improvement, but 19% of satisfied patients fail to meet this threshold in a 6,016 patient study.",
+        "Patients with higher baseline HOOS-JR scores are 2.7 times more likely to be classified as unsuccessful despite being satisfied with their outcomes.",
+        "Current CMS success metrics may inadequately assess orthopaedic outcomes because they ignore baseline function and patient-specific factors like obesity and comorbidities."
+      ]
+    },
+    {
+      "pmid": "41961950",
+      "title": "Surprisingly Low Rates of Aseptic Loosening in 575 Rotating-Hinge Total Knee Arthroplasties.",
+      "authors": [
+        "Terhune EB",
+        "Carstens MF",
+        "Fruth KM",
+        "Hannon CP",
+        "Bedard NA",
+        "Perry KI",
+        "Berry DJ",
+        "Abdel MP"
+      ],
+      "authors_short": "Terhune EB, Carstens MF, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Contemporary rotating-hinge total knee arthroplasties (RH-TKAs) have shown reasonable short-term survivorship in smaller series, but concerns remain regarding risks of aseptic and septic failure. The purpose of this study was to assess outcomes of contemporary RH-TKAs in one of the largest series to date. METHODS: We retrospectively identified 575 RH-TKAs (60% used for aseptic etiologies and 40% used during reimplantation in 2-stage treatment of periprosthetic joint infection [PJI]) from 2002 to 2021 at a single institution. The mean age was 67 years, 58% were female, and the mean body mass index was 33 kg/m2. Sixty-five percent had Anderson Orthopaedic Research Institute (AORI) type-2B or 3 bone loss. Kaplan-Meier survivorship analyses were performed. The mean follow-up was 6 years (range, 2 to 19 years). RESULTS: Survivorship free from any revision was 76% at 5 years and 64% at 10 years. The most common revision indications were PJI (54%) and aseptic loosening (20%). RH-TKA used in the primary setting showed better survivorship compared with RH-TKA used during reimplantation after PJI (79% versus 60% at 10 years). Survivorship free from revision for aseptic loosening was 96% at 5 years and 90% at 10 years. Survivorship free from revision for PJI was 84% at 5 years and 81% at 10 years. Survivorship free from revision for PJI was even lower for RH-TKAs used during reimplantation, 74% at 5 years and 73% at 10 years. RH-TKA used during reimplantation in the treatment of PJI was associated with an increased risk of any revision (HR = 2, p < 0.001). Radiographic analysis of 425 knees that were not revised and had radiographs available for review showed that 6% of femoral components and 8% of tibial components had evidence of loosening at the time of final follow-up. The mean Knee Society Score improved from 33 to 69 at 2 years (p < 0.001). CONCLUSIONS: The 10-year survivorship free from aseptic loosening was 90% in this large series of RH-TKAs. This represents one of the best survivorships free from aseptic loosening published to date. Knees with prior PJI had markedly poorer survivorship than knees treated for aseptic etiologies, with double the risk of revision. LEVEL OF EVIDENCE: Therapeutic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41961950/",
+      "score": 85,
+      "score_reasoning": "Large series of 575 rotating-hinge TKAs with long-term follow-up showing surprisingly low aseptic loosening rates, clinically important for revision surgery planning.",
+      "bullets": [
+        "Rotating-hinge total knee arthroplasties showed 90% survivorship free from aseptic loosening at 10 years in 575 cases, better than previously reported.",
+        "Knees with prior periprosthetic joint infection had double the revision risk compared to aseptic cases (60% vs 79% survivorship at 10 years).",
+        "Periprosthetic joint infection was the most common revision indication at 54%, while aseptic loosening accounted for only 20% of revisions."
+      ]
+    },
+    {
+      "pmid": "41961954",
+      "title": "Significant Anxiolytic Effect and Enhanced Recovery Benefits of Perioperative Low-Dose Olanzapine in Patients with Anxiety Undergoing THA: A Randomized Controlled Trial.",
+      "authors": [
+        "Jiang B",
+        "Fan J",
+        "Lai Y",
+        "Cai Y",
+        "Ding Z",
+        "Luo Z",
+        "Zhou Z"
+      ],
+      "authors_short": "Jiang B, Fan J, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Major anxiety symptoms are commonly observed in patients undergoing total hip arthroplasty (THA); these symptoms exacerbate pain and compromise hip recovery. Olanzapine demonstrates clinically meaningful efficacy in reducing anxiety; thus, we investigated its anxiolytic effect and benefits for enhancing recovery in these high-risk patients. METHODS: We prospectively enrolled 135 patients who were scheduled for primary THA at our institution between April 2024 and March 2025 and who scored at least 40 points on the State-Trait Anxiety Inventory-State (STAI-S) before surgery. Patients randomly received oral olanzapine (2.5 mg), alprazolam (0.4 mg), or a placebo once nightly for 5 days beginning on the day of admission. The 3 groups (45 patients in the olanzapine group, 45 in the alprazolam group, and 44 in the placebo group after 1 patient was lost to follow-up) were compared postoperatively in terms of the STAI-S score, Pittsburgh Sleep Quality Index (PSQI), visual analog scale (VAS) pain score, opioid consumption, and functional recovery of the hip. Adverse events related to drugs and surgery were recorded. RESULTS: Compared with placebo and alprazolam, olanzapine was associated with significantly lower STAI-S scores on postoperative days (PODs) 1 and 3, significantly lower resting VAS pain scores on PODs 1 to 3, and significantly lower incidence of postoperative nausea and vomiting. The olanzapine group and the alprazolam group demonstrated significantly better sleep quality based on the PSQI on POD 3 compared with the placebo group. Moreover, the olanzapine group had lower opioid consumption on PODs 1 to 3 than the placebo group. Patients in the olanzapine group exhibited better Harris hip scores and Hip Disability and Osteoarthritis Outcome Scores. The 3 groups did not significantly differ in terms of adverse events. CONCLUSIONS: Perioperative low-dose olanzapine may be an effective option for reducing anxiety levels, sleep disorders, and postoperative nausea and vomiting, mitigating postoperative pain and enhancing hip recovery among patients with anxiety symptoms undergoing THA. LEVEL OF EVIDENCE: Therapeutic Level I. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41961954/",
+      "score": 83,
+      "score_reasoning": "RCT of 135 THA patients showing anxiolytic and recovery benefits of perioperative olanzapine, novel finding with direct clinical applicability.",
+      "bullets": [
+        "Low-dose olanzapine (2.5 mg nightly for 5 days) reduced anxiety, pain scores, and opioid use in THA patients with preoperative anxiety scores above 40.",
+        "Olanzapine outperformed both alprazolam and placebo for anxiety control and also decreased postoperative nausea and vomiting rates.",
+        "Patients receiving olanzapine showed better functional hip scores and recovery compared to standard anxiolytic treatment or placebo."
+      ]
+    },
+    {
+      "pmid": "41967629",
+      "title": "Return to Golf After Shoulder Arthroplasty: An ASES Multicenter Study Predicting Performance after rTSA and aTSA.",
+      "authors": [
+        "Arnold RP",
+        "Corban J",
+        "Diestel DR",
+        "Kirsch JM",
+        "Bowler A",
+        "Glass EA",
+        "McDonald-Stahl M",
+        "Stevens CS",
+        "Eccles M",
+        "Puzzitiello R",
+        "Moverman MA",
+        "LaMartina J",
+        "Middleton A",
+        "Le K",
+        "Dunn W"
+      ],
+      "authors_short": "Arnold RP, Corban J, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Return to sport (RTS), particularly golf, and athletic performance following reverse (rTSA) and anatomic (aTSA) shoulder arthroplasty remain largely understudied. Moreover, limited data exist on characteristics that predict successful RTS. This study aimed to evaluate return to golf after shoulder arthroplasty, as well as identify patient factors associated with optimal return to play. MATERIALS AND METHODS: A multicenter analysis utilizing RTS questionnaires was distributed to patients undergoing rTSA or aTSA at 17 institutions. We assessed preoperative golf participation, return to golf postoperatively, golf performance relative to preoperative level, and frequency of golf participation. Overall subjective satisfaction with their operative shoulder during golf activities was assessed numerically (0-10). Two separate age and sex matched propensity score analyses were performed; first to compare rTSA and aTSA performed for osteoarthritis with an intact rotator cuff (GHOA), and second to compare rTSA performed for GHOA and rotator cuff arthropathy (RCA). Golf-specific outcomes included change of self-reported handicap and driving distance before and after surgery, as well as whether hand dominance influenced outcomes. RESULTS: 208 patients reported golf participation, with a mean follow-up of 24.3 \u00b1 5.7 months. The cohort was 77.9% male, with a mean age of 69.0 \u00b1 7.9 years and BMI of 29.0 \u00b1 5.5. Postoperatively, 88.9% (n=185) returned to golf, and 79.3% (n=165) reported that their performance improved/remained unchanged. Most patients (46.8%) returned within 3-6 months, and another 31.7% between 7-12 months. After propensity score matching, 91 rTSA and 48 aTSA patients were analyzed. Return-to-golf rates were similar (rTSA 95.6% vs. aTSA 90.0%, P=0.313), as were rates of maintained/improved performance (84.6% vs. 81.3%, P=0.313). No significant differences were found in pre- or postoperative handicap, driving distance, or outcomes based on surgery on the dominant vs. nondominant side. DISCUSSION: Patients demonstrate a high rate of returning to golf following both rTSA and aTSA. Among golfers the ability to return to play and performance level was comparable between arthroplasty types. No significant differences were observed between rTSA and aTSA in terms of postoperative handicap, driving distance, or side of surgery relative to hand dominance. However, despite these similarities, revision arthroplasty was independently associated with worse postoperative patient perceived golf performance. As the number of active patients undergoing shoulder arthroplasty continues to rise, the ability to provide sport-specific counseling is essential for setting realistic expectations and supporting recovery.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41967629/",
+      "score": 70,
+      "score_reasoning": "Multicenter study of 208 patients on return to golf after shoulder arthroplasty, high clinical relevance for patient counseling and activity expectations.",
+      "bullets": [
+        "89% of golfers return to golf after shoulder arthroplasty with 79% maintaining or improving their performance compared to preoperative levels.",
+        "Both reverse and anatomic shoulder arthroplasty show similar golf outcomes with no difference in return rates, handicap scores, or driving distance between procedures.",
+        "Most golfers return to play within 3-6 months after surgery, though revision arthroplasty cases have worse perceived performance outcomes."
+      ]
+    },
+    {
+      "pmid": "41966468",
+      "title": "The Impact of an Intact Rotator Cuff on the Outcomes of Reverse Shoulder Arthroplasty: A Meta-Analysis of 20,924 Patients.",
+      "authors": [
+        "Daher M",
+        "Ashkar I",
+        "Parmar T",
+        "Kane L",
+        "Satalich JR",
+        "Klifto CS",
+        "Abboud JA"
+      ],
+      "authors_short": "Daher M, Ashkar I, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: While reverse shoulder arthroplasty (rTSA) is commonly utilized for rotator cuff tear arthropathy (RCA), indications have expanded to include, primary glenohumeral osteoarthritis (GHOA) with intact cuff. The presence of an intact cuff may influence outcomes after rTSA because preserved cuff musculature can contribute to shoulder stability, and force which could potentially improve postoperative function and reduce complication rates. However, studies have reported contradictory results on whether or not an intact cuff would provide better outcomes in patients receiving an rTSA. METHODS: This is a systematic review and Meta-analysis performed according the the PRISMA guidelines. PubMed, Cochrane, Embase, and Google Scholar (pages 1-20) were queried through December 2025. Inclusion criteria consisted of studies comparing the outcomes of rTSA based on whether patients had a diagnosis of GHOA with intact cuff, or had a deficient rotator cuff (i.e. had a diagnosis of rotator cuff tears (RCT) without OA, or CTA). Extracted data included adverse events, improvement in patient reported outcome measures, and improvement in range of motion. RESULTS: Eleven retrospective articles and one prospective article met the inclusion criteria with 4,542 in the GHOA with intact cuff group and 16,382 in the cuff-deficient group (CTA: 15,423 patients, RCT: 959 patients). Patients undergoing rTSA for GHOA and intact cuff had a lower rate of revisions (Odds-Ratio=0.53; 95% CI: 0.41- 0.68, p<.001; I2=0%), overall complications (Odds-Ratio=0.57; 95% CI: 0.46- 0.71, p<.001; I2=0%), ASF (Odds-Ratio=0.22; 95% CI: 0.08- 0.59, p=0.003; I2=0%), infection (Odds-Ratio=0.43; 95% CI: 0.26- 0.73, p=0.002; I2=37%), and instability (Odds-Ratio=0.60; 95% CI: 0.40- 0.90, p=0.01; I2=0%). In addition, GHOA patients had a better improvement in both American Shoulder and Elbow Surgeons (ASES) scores (Mean Difference=7.17; 95% CI: 2.13- 12.21, p=0.005; I2=81%) without exceeding the MCID, and external rotation (ER) (Mean Difference=12.00 degrees; 95% CI: 9.63- 14.37, p<.001; I2=38%). CONCLUSION: Rotator cuff-deficient patients undergoing rTSA have a higher risk of post-operative complications compared to patients undergoing rTSA for GHOA with an intact cuff. They also showed less improvements in ASES scores and ER. However, the clinical significance of these differences should be interpreted with caution, as not all improvements exceeded established thresholds for clinical importance.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41966468/",
+      "score": 69,
+      "score_reasoning": "Meta-analysis of 20,924 patients comparing rTSA outcomes with intact vs deficient rotator cuff, clinically relevant for surgical decision-making.",
+      "bullets": [
+        "Patients with intact rotator cuffs undergoing reverse shoulder arthroplasty have lower revision rates, fewer complications, and less instability compared to those with deficient cuffs.",
+        "Meta-analysis of 20,924 patients shows intact cuff group had better external rotation gains and ASES score improvements, though differences may not be clinically meaningful.",
+        "Primary osteoarthritis with intact cuff appears to be a favorable indication for reverse arthroplasty compared to cuff tear arthropathy or isolated rotator cuff tears."
+      ]
+    },
+    {
+      "pmid": "41947828",
+      "title": "Quantifying the Opportunity Cost of Resident Involvement in Total Hip and Knee Arthroplasty.",
+      "authors": [
+        "Ahmad M",
+        "Driscoll JA",
+        "Jee Y",
+        "Durand N",
+        "Hinckel BB",
+        "Cavinatto L"
+      ],
+      "authors_short": "Ahmad M, Driscoll JA, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Resident participation in total hip arthroplasty and total knee arthroplasty (THA/TKA) is important, but the time-driven financial impact remains unclear. We quantified the \"opportunity cost\" of resident involvement in THA and TKA. METHODS: Primary THA and TKA cases were identified at a single academic center (2013-2017). Cases were attending-only (AO) or resident-involved (RI). Fellows excluded. RI was stratified between juniors (postgraduate year I-III) and seniors (postgraduate year IV-V). Outcomes included operative efficiency and financial productivity. Relative value units/case were fixed at 19.6 to isolate time-driven effects. RESULTS: A total of 3,217 AO and 1,148 RI THA cases, and 4,174 AO and 1,235 RI TKA cases were analyzed. RI increased operative time (THA +4.0 minutes, 95% CI [2.3, 5.7]; TKA +7.9 minutes, 95% CI [6.7, 9.1]; both p<0.001) but reduced set-up time (THA -1.7 minutes, 95% CI [-2.2, -1.2]; TKA -1.6 minutes, 95% CI [-2.0, -1.2]; both p<0.001), partially offsetting total operating room (OR) time (THA +2.3 minutes; TKA +6.3 minutes). Juniors concentrated these effects. Seniors approximated AO efficiency and had quicker THA total OR times. Per-case opportunity costs were small: operative-time (THA $36.81; TKA $76.51) and total OR time (THA $15.16; TKA $7.22). Seniors showed a $12.99 per-case savings on a THA total OR time basis. CONCLUSIONS: Resident participation in primary THA/TKA carries small, experience-dependent costs, partially offset with seniority and quicker set-up times. These findings may reflect anticipatory workflow gains and offer insights into schedule optimization.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41947828/",
+      "score": 29,
+      "score_reasoning": "Retrospective study of resident involvement in TJA showing small opportunity costs, educational relevance but limited clinical impact.",
+      "bullets": [
+        "Resident involvement in hip and knee replacements adds 2-6 minutes to total OR time, with junior residents causing most delays while senior residents perform at attending-level efficiency.",
+        "The financial opportunity cost of resident participation is minimal at $15-37 per case for operative time and under $8 per case for total OR time.",
+        "Senior residents actually save time during hip replacements compared to attending-only cases, likely due to improved workflow and faster setup times."
+      ]
+    },
+    {
+      "pmid": "41947827",
+      "title": "Incidence and Reasons for Direct Transfers Among Hip and Knee Arthroplasties Performed at Ambulatory Surgical Centers.",
+      "authors": [
+        "Jaicks CM",
+        "Ray JR",
+        "Olson NR",
+        "Fricka KB",
+        "Hamilton WG",
+        "Sershon RA"
+      ],
+      "authors_short": "Jaicks CM, Ray JR, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: As joint arthroplasty (JA) increasingly shifts to outpatient ambulatory surgical centers (ASCs) for same-day procedures, it is critical to identify appropriate candidates for this setting. This study reviews our institutional experience transitioning from hospital-based to stand-alone ASC surgery, examining causes of direct transfers to hospitals for complications occurring during hip and knee arthroplasties performed at ASCs. METHODS: Prospectively collected arthroplasty procedure and adverse event data were reviewed to identify all direct transfers that occurred among hip and knee arthroplasties performed at ASCs between January 2012 and July 2025. A total of 32,564 JAs were performed during the study period, including 6379 at ASCs. The primary outcome was the number and cause of direct transfers from ASCs to a hospital. RESULTS: There were 7 (0.1%) direct hospital transfers, all associated with systemic medical conditions including syncope, postoperative atrial fibrillation, hypotension, unstable oxygen saturation, hypotension with shortness of breath, and bradycardia and transient asystole following administration of regional anesthesia. Three patients were admitted to the hospital, with 2 requiring stays longer than 1 day. No patient deaths occurred as a result of these adverse events at the time of this study. CONCLUSIONS: Direct transfer to a hospital following JA was found to be exceedingly rare based on our institutional experience. All direct transfers resulted from medical complications that occurred prior to or after the arthroplasty procedure. These findings support the safety of performing primary JA in appropriately selected patients within the ASC setting, reinforcing the importance of careful preoperative screening.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41947827/",
+      "score": 28,
+      "score_reasoning": "Study of 32,564 JAs at ASCs with only 7 direct transfers, important safety data but extremely low event rate limits generalizability.",
+      "bullets": [
+        "Direct hospital transfers from ASCs occurred in only 0.1% of 6,379 hip and knee arthroplasties, with no procedure-related complications requiring transfer.",
+        "All 7 transfers were due to medical issues like syncope, atrial fibrillation, hypotension, or breathing problems, not surgical complications.",
+        "Outpatient arthroplasty appears safe in properly selected patients, but careful preoperative medical screening remains critical."
+      ]
+    },
+    {
+      "pmid": "41960915",
+      "title": "Higher Baseline Resiliency Scores Correlate With Better Patient-Reported Outcomes Following Acetabular Fixation.",
+      "authors": [
+        "McIlwain RN",
+        "Litten RM",
+        "McConnell MJ",
+        "Bhatti HS",
+        "Ellis JD",
+        "Johnson JP",
+        "Spitler CA"
+      ],
+      "authors_short": "McIlwain RN, Litten RM, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To determine if patient resiliency is associated with patient-reported outcomes at six and twelve months following surgical fixation of acetabular fractures. METHODS: Design: Retrospective cohort study. SETTING: Single Level I trauma center (2022-2024). PATIENT SELECTION CRITERIA: Adults who sustained an acetabulum fracture (AO/OTA 62) treated operatively and completed Brief Resilience Scale (BRS) surveys two-weeks postoperatively and Patient-Reported Outcomes Measurement Information System (PROMIS) surveys at six- and/or twelve-months postoperatively were included. OUTCOME MEASURES AND COMPARISONS: Primary outcomes were scores for PROMIS Physical Function (PF), Global Physical Health (GPH), Global Mental Health (GMH), Pain Interference (PI), Depression, Anxiety, and Brief Resilience Scale (BRS). PROMIS scores were compared between low and high resiliency individuals at six- and twelve-months, as defined by the cohort median BRS score. Multivariable linear regression was used to adjust for relevant clinical covariates. RESULTS: A total of 111 patients were included; 81 patients (64.2% male, 60.5% white; mean age 51.1 years) completed 6-month surveys and 56 patients (75.0% male, 66.1% white; mean age 51.8 years) completed 12-month surveys. At six months, high resiliency (BRS (\u2265 3.7) was independently associated with higher PROMIS PF (\u03b2 = 6.73 [2.93-10.54], p < 0.001), GPH ((\u03b2 = 8.88 [5.47-12.28], p < 0.001), and GMH ((\u03b2 = 12.40 [8.48-16.32], p < 0.001) with lower PI ((\u03b2 = -7.83 [-11.25 to -4.40], p < 0.001), Depression ((\u03b2 = -15.33 [-19.69 to -10.97], p < 0.001), and Anxiety ((\u03b2 = -11.54 [-16.35 to -6.72], p < 0.001) scores on regression analysis. Similarly, highly resilient (BRS \u2265 3.6) individuals completing 12-month surveys had significantly positive associations across all domains. CONCLUSIONS: Compared to patients with low resilience, high baseline resilience was associated with significantly better PROMIS outcomes at six and twelve months following acetabular fixation. LEVEL OF EVIDENCE: III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41960915/",
+      "score": 27,
+      "score_reasoning": "Database study of trimalleolar fracture trends with limited direct clinical decision-making impact, primarily epidemiological interest.",
+      "bullets": [
+        "Patients with higher baseline resilience scores had better physical function, less pain, and improved mental health at 6 and 12 months after acetabular fracture fixation.",
+        "The study included 111 adult patients with operatively treated acetabular fractures at a single Level I trauma center from 2022 to 2024.",
+        "Baseline psychological resilience appears to be an independent predictor of recovery outcomes following orthopaedic trauma surgery."
+      ]
+    },
+    {
+      "pmid": "41960906",
+      "title": "CT scan as first-line imaging in patients suspected of a proximal femoral fracture without obvious clinical findings - a cohort study of 927 patients.",
+      "authors": [
+        "Jars FR",
+        "Hare KB"
+      ],
+      "authors_short": "Jars FR, Hare KB",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To investigate if first-line CT imaging, as an alternative to standard radiography, reduces the time from admission to surgery in patients suspected of a proximal femoral fracture without classic clinical signs. METHODS: Design: A retrospective cohort study. SETTING: Single center level 2 trauma center, Slagelse hospital, Region Zealand, Denmark. PATIENT SELECTION CRITERIA: Patients aged 65 years and above, admitted between June 1st 2018 and May 31st 2019, undergoing radiography and/or CT of the proximal femur AO/OTA 31 or pelvis AO/OTA 61 were included. OUTCOME MEASURE AND COMPARISONS: The primary outcome was comparing time from admission to surgery, mortality and fracture distribution between the two groups. RESULTS: 927 patients were included, 452 patients before and 475 after the new imaging guideline. Following the implementation of this new imaging guideline, there was a significant decrease in time from arrival at the Emergency Department (ED) to surgery from 1229 minutes to 1050 minutes (p=0.03). Patients time to surgery was 179 minutes faster than before, a savings of nearly 3 hours and the reduced time to surgery did not lead to a significant difference on the 30-day (before=13.23, after=18.03 days, p=0.29) and 1-year (before=106.3, after=133.45 days, p=0.21) mortality rate. CONCLUSIONS: The new imaging guideline decreased the time from arrival at the ED to surgery. LEVEL OF EVIDENCE: Level III Therapeutic study (Retrospective Cohort).",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41960906/",
+      "score": 26,
+      "score_reasoning": "Study of 111 acetabular fracture patients examining resiliency impact on outcomes, moderate clinical relevance but limited sample size.",
+      "bullets": [
+        "Using CT scan as first-line imaging instead of X-ray for suspected hip fractures in patients over 65 without obvious clinical signs reduced time to surgery by 3 hours.",
+        "The study compared 927 patients before and after implementing CT-first protocol at a single trauma center, showing significant reduction from 20.5 to 17.5 hours from admission to surgery.",
+        "Faster time to surgery did not change 30-day or 1-year mortality rates in this elderly patient population with proximal femur fractures."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-04-13T08:07:06.159123-07:00"
+}
