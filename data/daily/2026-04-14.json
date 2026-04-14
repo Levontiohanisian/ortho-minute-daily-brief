@@ -1,0 +1,307 @@
+{
+  "brief_date": "2026-04-14",
+  "brief_date_display": "Tuesday, April 14",
+  "candidates": [
+    {
+      "pmid": "41966425",
+      "title": "The Mark Coventry Award: Five-Year Outcomes of a Randomized Controlled Trial on Cemented Versus Uncemented Total Knee Arthroplasty: The KneeFix Trial.",
+      "authors": [
+        "Young SW",
+        "Tay ML",
+        "Kawaguchi K",
+        "Farrington WJ",
+        "van Rooyen R",
+        "Sharp R",
+        "Elliott RSJ",
+        "Walker ML",
+        "Bayan A"
+      ],
+      "authors_short": "Young SW, Tay ML, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Uncemented total knee arthroplasty (TKA) components were developed to improve fixation relative to cemented implants. While uncemented femoral components have yielded favorable results, outcomes for earlier uncemented tibial and patellar designs have been inconsistent. Contemporary trabecular-metal implants aim to enhance biological fixation by optimizing osseointegration, yet randomized data comparing fully uncemented constructs including the patella, are limited. We conducted a prospective, single-blinded randomized controlled trial (RCT) comparing 5-year radiological, clinical, and patient-reported outcomes of fully-cemented and fully uncemented trabecular-metal TKA with patella resurfacing. METHODS: Between 2017 and 2020, 316 knees (280 patients) were randomized 1:1 to fully-cemented (n = 158) or fully-uncemented (n = 158) TKA with patella resurfacing. There were 15 patients randomized to the uncemented group who required cementation of at least one component. The primary outcome was implant fixation at five years, assessed on standardized radiographs for progressive and non-progressive radiolucent lines. The secondary outcomes included revisions, other reoperations, and patient-reported outcome measures (PROMs) at five years. Risk ratios, t-tests, and Chi-square tests were performed using a modified intention-to-treat approach. RESULTS: Follow up was 97% at five years. Uncemented TKA had fewer non-progressive radiolucent lines than cemented TKA (two versus 27 cases, relative risk (RR): 0.50, 95% confidence interval (CI): 0.42 to 0.59, P < 0.001). There was one progressive radiolucency that occurred in the cemented group. There were no differences between the groups for revisions (one cemented versus two uncemented, RR 1.52, CI: 0.31 to 7.56, P = 0.55), other reoperations (10 cemented versus eight uncemented, RR: 0.90, CI 0.59 to 1.39, P = 0.66), or PROMs (Oxford Knee Score, EuroQol-5 Dimensions, International Knee Society Score, Pain Visual Analog Scale, Forgotten Joint Score, and Satisfaction). CONCLUSIONS: At five years, fully-uncemented TKA utilizing trabecular metal with patella resurfacing demonstrated equivalent clinical and patient-reported outcomes and similar revision/reoperation rates to fully-cemented TKA, with fewer non-progressive radiolucent lines. Longer-term follow-up is required to determine whether radiographic differences affect implant survivorship and longevity overall.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41966425/",
+      "score": 95,
+      "score_reasoning": "Large prospective RCT (316 patients) from JBJS with 5-year follow-up comparing fully cemented vs uncemented TKA, addressing a fundamental clinical question with high-quality design and journal impact.",
+      "bullets": [
+        "Fully uncemented trabecular metal TKA with patella resurfacing shows equal revision rates, reoperations, and patient outcomes compared to fully cemented TKA at 5 years in 316 knees.",
+        "Uncemented implants had significantly fewer non-progressive radiolucent lines than cemented implants (2 vs 27 cases) but this difference has unclear clinical significance.",
+        "Both fixation methods are viable options for primary TKA, though longer follow-up is needed to determine if radiographic differences affect implant survival."
+      ]
+    },
+    {
+      "pmid": "41973826",
+      "title": "Survivorship of Femoroacetabular Impingement Surgery at Mean 10-Year Follow-up: A Prospective, Multicenter Cohort Study.",
+      "authors": [
+        "Nepple JJ",
+        "Hood H",
+        "Kim YJ",
+        "Beaul\u00e9 P",
+        "Sierra R",
+        "Millis M",
+        "Robben Z",
+        "Drain C",
+        "Clohisy JC"
+      ],
+      "authors_short": "Nepple JJ, Hood H, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Long-term outcomes of femoroacetabular impingement (FAI) surgery, particularly survivorship, are critical to guide treatment decision-making and patient counseling, yet only a limited number of studies have reported mid- to long-term survivorship. The purpose of this study was to report survivorship rates at a mean 10-year follow-up in a large, multicenter FAI surgery cohort and to identify clinical predictors of survivorship. METHODS: A prospective, multicenter cohort study assessed patients treated for FAI with hip arthroscopy or surgical dislocation from 2008 to 2012. At a minimum of 8 years, 362 hips (80.1%) had follow-up that permitted assessment of total hip arthroplasty (THA)-free survivorship. A Cox proportional-hazards model was developed to identify risk factors for THA. RESULTS: The cohort included 362 hips with a mean patient age of 32.1 years; 53% were in females, and 95.6% were in Caucasian patients. The THA-free survivorship of the cohort was 90.6% at a mean of 10.4 \u00b1 1.6 years postoperatively. Risk factors for THA were older age at surgery (p = 0.01), male sex (p = 0.02), body mass index of \u226530 kg/m2 (p = 0.009), and femoral head chondromalacia (p < 0.001). CONCLUSIONS: This study demonstrates that FAI surgery yielded durable 10-year THA-free survivorship of 90.6%. Older age at surgery, obesity, male sex, and femoral head chondromalacia were key predictors of conversion to THA. LEVEL OF EVIDENCE: Therapeutic Level II. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41973826/",
+      "score": 88,
+      "score_reasoning": "Large prospective multicenter cohort study (362 hips) from JBJS with 10-year survivorship data for FAI surgery, providing critical long-term outcome data with excellent study design.",
+      "bullets": [
+        "FAI surgery has 90.6% survivorship at 10 years, meaning 9 out of 10 patients avoid hip replacement by decade mark.",
+        "Male patients, those over 30, obese patients, and those with femoral head cartilage damage have higher risk of needing hip replacement.",
+        "This multicenter study of 362 hips provides benchmarks for counseling younger adults considering FAI surgery."
+      ]
+    },
+    {
+      "pmid": "41966418",
+      "title": "The Frank Stinchfield Award: How Accurate is the United States Centers for Medicare & Medicaid Services Definition of Success for Patients Undergoing Total Hip Arthroplasty?",
+      "authors": [
+        "Yousef M",
+        "Zheng H",
+        "Liu SH",
+        "Ayers DC"
+      ],
+      "authors_short": "Yousef M, Zheng H, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Total hip arthroplasty (THA) is a highly effective treatment for patients who have advanced arthritis. The United States Centers for Medicare & Medicaid Services (CMS) defines a successful THA as achieving a minimum 22-point improvement in the Hip Injury and Osteoarthritis Outcome Score for Joint Replacement (HOOS-JR). However, the accuracy of this criterion and how it correlates with patient satisfaction remains unclear. This study aimed to evaluate the validity of the CMS success criteria following primary THA. METHODS: A multicenter cohort of 6,016 patients undergoing primary THA was prospectively enrolled. Patient demographics, comorbidities, and HOOS-JR scores were collected preoperatively and at one year postoperatively. Patient satisfaction was assessed using the International Society of Arthroplasty Registries (ISAR) scale. Patients were categorized as successful or unsuccessful based on CMS criteria and as satisfied or not satisfied based on the ISAR scale. Cross-classification of outcomes was performed, and a multivariate logistic regression model was used to identify factors associated with patients satisfied after THA yet labeled as \"unsuccessful\" by the CMS. RESULTS: A total of 5,429 patients (90.2%) reported satisfaction; however, only 4,625 patients (76.9%) met the CMS criteria for success. Among satisfied patients, only 4,397 patients (81%) were classified as successful by CMS standards. Discordance between success and satisfaction was strongly associated with baseline HOOS-JR. Predictors of satisfied patients classified as having unsuccessful outcomes include high body mass index, prolonged narcotic use, back pain, contralateral hip pain, health literacy, and poor baseline HOOS-JR and Veterans Rand 12-Item Health Survey (VR-12) mental component scores (MCS). Satisfied patients who had higher baseline HOOS-JR scores by 10 points were 2.7 times more likely to be classified as having an \"unsuccessful outcome\" by CMS. CONCLUSION: A substantial discrepancy exists between patient satisfaction and the CMS definition of success following THA. A more nuanced, risk-adjusted success metric that accounts for preoperative baseline scores may better align with patient-centered outcomes and improve its accuracy in defining successful outcomes after THA.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41966418/",
+      "score": 85,
+      "score_reasoning": "Multicenter study (6,016 patients) from JBJS examining validity of CMS success criteria for THA, addressing important healthcare policy implications with large sample size.",
+      "bullets": [
+        "CMS defines successful total hip arthroplasty as 22-point HOOS-JR improvement, but 19% of satisfied patients fail to meet this threshold.",
+        "Patients with higher baseline HOOS-JR scores are 2.7 times more likely to be classified as CMS failures despite being satisfied with their surgery.",
+        "Current CMS success metrics may penalize surgeons operating on healthier patients who have less room for score improvement despite good outcomes."
+      ]
+    },
+    {
+      "pmid": "41961950",
+      "title": "Surprisingly Low Rates of Aseptic Loosening in 575 Rotating-Hinge Total Knee Arthroplasties.",
+      "authors": [
+        "Terhune EB",
+        "Carstens MF",
+        "Fruth KM",
+        "Hannon CP",
+        "Bedard NA",
+        "Perry KI",
+        "Berry DJ",
+        "Abdel MP"
+      ],
+      "authors_short": "Terhune EB, Carstens MF, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Contemporary rotating-hinge total knee arthroplasties (RH-TKAs) have shown reasonable short-term survivorship in smaller series, but concerns remain regarding risks of aseptic and septic failure. The purpose of this study was to assess outcomes of contemporary RH-TKAs in one of the largest series to date. METHODS: We retrospectively identified 575 RH-TKAs (60% used for aseptic etiologies and 40% used during reimplantation in 2-stage treatment of periprosthetic joint infection [PJI]) from 2002 to 2021 at a single institution. The mean age was 67 years, 58% were female, and the mean body mass index was 33 kg/m2. Sixty-five percent had Anderson Orthopaedic Research Institute (AORI) type-2B or 3 bone loss. Kaplan-Meier survivorship analyses were performed. The mean follow-up was 6 years (range, 2 to 19 years). RESULTS: Survivorship free from any revision was 76% at 5 years and 64% at 10 years. The most common revision indications were PJI (54%) and aseptic loosening (20%). RH-TKA used in the primary setting showed better survivorship compared with RH-TKA used during reimplantation after PJI (79% versus 60% at 10 years). Survivorship free from revision for aseptic loosening was 96% at 5 years and 90% at 10 years. Survivorship free from revision for PJI was 84% at 5 years and 81% at 10 years. Survivorship free from revision for PJI was even lower for RH-TKAs used during reimplantation, 74% at 5 years and 73% at 10 years. RH-TKA used during reimplantation in the treatment of PJI was associated with an increased risk of any revision (HR = 2, p < 0.001). Radiographic analysis of 425 knees that were not revised and had radiographs available for review showed that 6% of femoral components and 8% of tibial components had evidence of loosening at the time of final follow-up. The mean Knee Society Score improved from 33 to 69 at 2 years (p < 0.001). CONCLUSIONS: The 10-year survivorship free from aseptic loosening was 90% in this large series of RH-TKAs. This represents one of the best survivorships free from aseptic loosening published to date. Knees with prior PJI had markedly poorer survivorship than knees treated for aseptic etiologies, with double the risk of revision. LEVEL OF EVIDENCE: Therapeutic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41961950/",
+      "score": 72,
+      "score_reasoning": "Large retrospective study (575 RH-TKAs) with long-term follow-up from JBJS showing surprisingly low aseptic loosening rates, addressing important clinical concerns about this implant type.",
+      "bullets": [
+        "Rotating-hinge total knee arthroplasty showed 90% survivorship free from aseptic loosening at 10 years in 575 cases, better than historically expected.",
+        "Knees with prior periprosthetic joint infection had double the revision risk compared to primary aseptic cases (60% vs 79% survivorship at 10 years).",
+        "Infection remained the most common cause of revision at 54%, while aseptic loosening accounted for only 20% of revisions."
+      ]
+    },
+    {
+      "pmid": "41973898",
+      "title": "Perioperative Biologic Disease-Modifying Antirheumatic Drugs, Risks of Infections, and Wound Complications in Patients With Rheumatoid Arthritis Undergoing Elective Hand Surgery.",
+      "authors": [
+        "Cathey JM",
+        "Carrigan PJ",
+        "Zhang J",
+        "Klifto KM"
+      ],
+      "authors_short": "Cathey JM, Carrigan PJ, et al.",
+      "journal": "The Journal of hand surgery",
+      "journal_abbrev": "J Hand Surg Am",
+      "year": "2026",
+      "abstract": "PURPOSE: Recommendations for perioperative management of biologic disease-modifying antirheumatic drugs (bDMARDs) in hand surgery were historically adopted from other surgical specialties. The purpose of our study was to estimate the risks of surgical site infections (SSIs) and wound healing failures in patients with rheumatoid arthritis (RA) treated with bDMARDs undergoing elective hand surgery. METHODS: We queried the TriNetX Research Network for patients with RA taking disease-modifying antirheumatic drugs (DMARDs) within 6 months of elective hand surgery. Patients were stratified into conventional synthetic, biologic, and targeted synthetic DMARD subgroups. Among bDMARD users, patients with an active prescription within 1 dosing interval before surgery were classified as bDMARD continued; others were classified as discontinued. Ninety-day risks of SSIs, wound healing failures, and composite wound morbidity were estimated by coded data. Disease flare risks were estimated by treatment escalations at 30 and 90 days after surgery and included as exploratory analyses. Outcomes were compared across DMARD classes and between propensity-score matched cohorts of patients who continued versus discontinued bDMARDs perioperatively. RESULTS: A total of 7,929 patients with RA were treated with DMARDs. Complication risks were similar across DMARD classes. Among patients treated with biologic agents (n = 2,668; 33.6%), 908 (34.0%) continued and 1,760 (66.0%) discontinued bDMARDs. After matching 881 per cohort, patients who continued bDMARDs perioperatively had similar estimated risks of SSIs (2.0% vs 1.5%), wound healing failures (1.4% vs 1.4%), and composite wound morbidity (3.0% vs 2.5%), compared to those who discontinued therapy. Perioperative bDMARD continuation was associated lower risks of postoperative disease flares, as estimated by treatment-based proxies. CONCLUSIONS: Among patients with RA undergoing elective hand surgery, perioperative bDMARD continuation was not associated with significant increases in risks of wound healing failures or SSIs. A modest increase in SSI risk cannot be excluded given exposure misclassification and residual confounding. TYPE OF STUDY/LEVEL OF EVIDENCE: Prognosis IIc.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41973898/",
+      "score": 58,
+      "score_reasoning": "Large database study (7,929 patients) examining perioperative biologic DMARD management in hand surgery, providing valuable guidance for increasingly common clinical scenario.",
+      "bullets": [
+        "Continuing biologic DMARDs through elective hand surgery in rheumatoid arthritis patients shows similar infection and wound healing rates compared to stopping therapy (2.0% vs 1.5% infection risk).",
+        "This finding applies to 2,668 rheumatoid arthritis patients on biologics undergoing elective hand procedures, challenging traditional recommendations to discontinue these medications perioperatively.",
+        "Patients who continued biologics had lower rates of disease flares after surgery, suggesting continuation may be safer than previously thought for hand surgery."
+      ]
+    },
+    {
+      "pmid": "41956284",
+      "title": "Evolving Trends in Shoulder Arthroplasty: A Decade of Growth and Future Projections in Comparison with Hip and Knee Arthroplasty.",
+      "authors": [
+        "Heo KY",
+        "Tornberg HN",
+        "Bailey EP",
+        "Conn V",
+        "Lee JD",
+        "Gottschalk MB",
+        "Zelenski NA",
+        "Wagner ER"
+      ],
+      "authors_short": "Heo KY, Tornberg HN, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Total shoulder arthroplasty, especially reverse shoulder arthroplasty, has expanded rapidly, yet contemporary national trends and projections relative to hip and knee arthroplasty are not fully defined. This study evaluates trends of shoulder arthroplasty in the United States from 2012 to 2022 and projects volumes through 2035. METHODS: The National Inpatient Sample (NIS) and National Ambulatory Surgery Sample (NASS) were analyzed using ICD and CPT codes to identify shoulder, hip, and knee arthroplasty procedures. Annual procedural volume and incidence per 100,000 population were calculated by age and sex. Linear, log-linear, and logistic regression models projected future trends to 2035. RESULTS: Between 2012 and 2022, total shoulder arthroplasty increased 212% from 55,245 to 172,559 procedures, with incidence rising from 17.6 to 51.7 per 100,000. In the same time period, total hip and knee arthroplasty increased by 45% and 25%, respectively. Shoulder hemiarthroplasty declined by 55%. Growth was observed across all age and sex groups, with the largest increase in patients aged 65 to 74 years. Log-linear projections show that the growth rate of total shoulder arthroplasty exceeds the growth rate of hip and knee arthroplasty, with estimates in 2035 reaching 334,000 to 905,000 procedures. DISCUSSION: Our study demonstrates that shoulder arthroplasty continues to grow exponentially while shoulder hemiarthroplasty declines. These trends highlight the importance of healthcare planning, surgical workforce preparation, and patient counseling for an aging population with expanding shoulder arthroplasty indications.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41956284/",
+      "score": 52,
+      "score_reasoning": "Large national database study examining shoulder arthroplasty trends (2012-2022) with projections to 2035, providing valuable epidemiological and healthcare planning data.",
+      "bullets": [
+        "Total shoulder arthroplasty volumes increased 212% from 2012 to 2022, growing much faster than hip arthroplasty (45% increase) or knee arthroplasty (25% increase).",
+        "Shoulder hemiarthroplasty declined 55% over the same decade, indicating a clear shift toward total shoulder replacement procedures.",
+        "The largest growth occurred in patients aged 65 to 74 years, with projections suggesting shoulder arthroplasty volumes could reach 334,000 to 905,000 procedures by 2035."
+      ]
+    },
+    {
+      "pmid": "41967629",
+      "title": "Return to Golf After Shoulder Arthroplasty: An ASES Multicenter Study Predicting Performance after rTSA and aTSA.",
+      "authors": [
+        "Arnold RP",
+        "Corban J",
+        "Diestel DR",
+        "Kirsch JM",
+        "Bowler A",
+        "Glass EA",
+        "McDonald-Stahl M",
+        "Stevens CS",
+        "Eccles M",
+        "Puzzitiello R",
+        "Moverman MA",
+        "LaMartina J",
+        "Middleton A",
+        "Le K",
+        "Dunn W"
+      ],
+      "authors_short": "Arnold RP, Corban J, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Return to sport (RTS), particularly golf, and athletic performance following reverse (rTSA) and anatomic (aTSA) shoulder arthroplasty remain largely understudied. Moreover, limited data exist on characteristics that predict successful RTS. This study aimed to evaluate return to golf after shoulder arthroplasty, as well as identify patient factors associated with optimal return to play. MATERIALS AND METHODS: A multicenter analysis utilizing RTS questionnaires was distributed to patients undergoing rTSA or aTSA at 17 institutions. We assessed preoperative golf participation, return to golf postoperatively, golf performance relative to preoperative level, and frequency of golf participation. Overall subjective satisfaction with their operative shoulder during golf activities was assessed numerically (0-10). Two separate age and sex matched propensity score analyses were performed; first to compare rTSA and aTSA performed for osteoarthritis with an intact rotator cuff (GHOA), and second to compare rTSA performed for GHOA and rotator cuff arthropathy (RCA). Golf-specific outcomes included change of self-reported handicap and driving distance before and after surgery, as well as whether hand dominance influenced outcomes. RESULTS: 208 patients reported golf participation, with a mean follow-up of 24.3 \u00b1 5.7 months. The cohort was 77.9% male, with a mean age of 69.0 \u00b1 7.9 years and BMI of 29.0 \u00b1 5.5. Postoperatively, 88.9% (n=185) returned to golf, and 79.3% (n=165) reported that their performance improved/remained unchanged. Most patients (46.8%) returned within 3-6 months, and another 31.7% between 7-12 months. After propensity score matching, 91 rTSA and 48 aTSA patients were analyzed. Return-to-golf rates were similar (rTSA 95.6% vs. aTSA 90.0%, P=0.313), as were rates of maintained/improved performance (84.6% vs. 81.3%, P=0.313). No significant differences were found in pre- or postoperative handicap, driving distance, or outcomes based on surgery on the dominant vs. nondominant side. DISCUSSION: Patients demonstrate a high rate of returning to golf following both rTSA and aTSA. Among golfers the ability to return to play and performance level was comparable between arthroplasty types. No significant differences were observed between rTSA and aTSA in terms of postoperative handicap, driving distance, or side of surgery relative to hand dominance. However, despite these similarities, revision arthroplasty was independently associated with worse postoperative patient perceived golf performance. As the number of active patients undergoing shoulder arthroplasty continues to rise, the ability to provide sport-specific counseling is essential for setting realistic expectations and supporting recovery.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41967629/",
+      "score": 48,
+      "score_reasoning": "Return to sport study (208 patients) after shoulder arthroplasty with golf-specific outcomes, addressing important quality of life questions with good follow-up.",
+      "bullets": [
+        "89% of golfers returned to golf after shoulder arthroplasty, with 79% maintaining or improving their performance compared to preoperative levels.",
+        "Return to golf rates and performance outcomes were similar between reverse and anatomic total shoulder arthroplasty patients when matched for age and sex.",
+        "Most patients returned to golf within 3-6 months postoperatively, though revision arthroplasty was associated with worse perceived golf performance."
+      ]
+    },
+    {
+      "pmid": "41974497",
+      "title": "Is Preoperative Moderate to Severe Varus Alignment Associated With Survivorship and Outcome Scores at a Minimum of 5 Years After Mobile-bearing Total Ankle Arthroplasty With the Hintegra Device?",
+      "authors": [
+        "Yoon YK",
+        "Park KH",
+        "Shim DW",
+        "Han SH",
+        "Lee JW"
+      ],
+      "authors_short": "Yoon YK, Park KH, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Analyses of long-term results after mobile-bearing total ankle arthroplasty (TAA) in ankles with preoperative moderate to severe varus deformity with adequate sample sizes remain limited. Because preoperative moderate to severe varus alignment may influence implant survival and functional outcomes, clarifying its long-term impact is important. QUESTIONS/PURPOSES: (1) Do the clinical and radiologic outcomes of mobile-bearing TAA differ between ankles with preoperative neutral alignment and those with moderate to severe varus alignment? (2) What are the 5- and 10-year prosthesis survivorship, survivorship free from any revision including polyethylene exchange, and survivorship free from any unplanned reoperation in each group after mobile-bearing TAA? (3) Did the incidence of asymmetric polyethylene wear differ between the groups? METHODS: Between September 2004 and May 2019, a single nondeveloper surgeon performed 417 TAAs. All procedures were performed using a single-design mobile-bearing device. The general indications for TAA were painful end-stage ankle arthritis. Of the 382 eligible ankles, 44% (168 ankles) were in patients with varus ankles (a preoperative coronal tibiotalar ankle \u2265 10\u00b0 of varus) and 56% (214 ankles) were in neutral ankles (defined as < 10\u00b0 of varus or valgus). Sixty-one percent (103 of 168) of the varus group and 61% (131 of 214) of the neutral group were available for follow-up with complete radiographic imaging and patient-reported outcome scores at a minimum of 5 years, and these patients were the focus of this retrospective, comparative study. The median (range) follow-up time was 123 months (60 to 230). The groups were similar with respect to age (63 versus 64 years; p = 0.34), gender (53% versus 44% men; p = 0.19), BMI (25.1 versus 25.5 kg/m2; p = 0.58), and follow-up duration (124 versus 116 months; p = 0.09). Although posttraumatic osteoarthritis was more common in the varus group and inflammatory arthritis in the neutral group, baseline demographic characteristics were otherwise comparable. Additional procedures to correct coronal alignment were performed at the discretion of the surgeon when necessary. Clinical outcomes were evaluated using VAS pain scores, Ankle Osteoarthritis Scale pain and disability subscores, as well as ankle ROM. Radiologic assessment included measurements of the postoperative coronal tibiotalar angle and development of asymmetric polyethylene inlay wear. CT scans with metal artifact reduction were performed to evaluate osteolysis. Survivorship was analyzed using the Kaplan-Meier method at 5 and 10 years for three endpoints: (1) revision or removal of a metal component, (2) revision of any component (including polyethylene exchange), and (3) any unplanned reoperation. RESULTS: There were no clinically important differences in patient-reported outcome scores between the neutral and varus groups at a minimum of 5-year follow-up. The varus group had greater preoperative varus deformity (3\u00b0 \u00b1 4\u00b0 versus 18\u00b0 \u00b1 6\u00b0, mean difference 15\u00b0 [95% confidence interval (CI) 14\u00b0 to 17\u00b0]; p < 0.001). Postoperative coronal plane alignment differed between groups, with the varus group demonstrating 1\u00b0 more residual varus (2\u00b0 \u00b1 2\u00b0 versus 3\u00b0 \u00b1 2\u00b0, mean difference 1\u00b0 [95% CI 0\u00b0 to 1\u00b0]; p = 0.01). Survivorship free from metal component revision did not differ between the neutral and varus groups at a minimum of 10-year follow-up (93.7% [95% CI 89.9% to 99.4%] versus 94.2% [95% CI 89.8% to 98.9%]; p = 0.88). Survivorship free from all-kind revision (including polyethylene exchange) did not differ between the neutral and varus groups at a minimum of 10-year follow-up (68.7% [95% CI 60.3% to 78.3%] versus 75.1% [95% CI 66.3% to 85.1%]; p = 0.19). Survivorship free from any unplanned reoperation did not differ between the neutral and varus groups at a minimum of 10-year follow-up (63.4% [95% CI 54.8% to 73.3%] versus 63.1% [95% CI 53.6% to 74.3%]; p = 0.94). The varus group had a higher proportion of patients who developed asymmetric polyethylene inlay wear than did the neutral group (42% [43 of 103] versus 17% [22 of 131]; p < 0.001). CONCLUSION: In patients with moderate to severe preoperative varus deformity treated with this mobile-bearing TAA, we found no difference in patient-reported outcomes and implant survivorship compared with neutral ankles. However, varus ankles demonstrated a higher proportion of asymmetric polyethylene inlay wear, which may increase the risk of subsequent revision. Future studies should determine which patterns of varus deformity and residual malalignment are most strongly associated with edge-loading and how surgical correction strategies may mitigate this risk. LEVEL OF EVIDENCE: Level III, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41974497/",
+      "score": 45,
+      "score_reasoning": "Retrospective study with adequate follow-up examining TAA outcomes in varus ankles, addressing specific technical question with reasonable methodology.",
+      "bullets": [
+        "Preoperative varus deformity over 10 degrees does not worsen patient outcomes or implant survival after mobile-bearing total ankle arthroplasty at 10-year follow-up.",
+        "Asymmetric polyethylene wear occurs in 42% of varus ankles versus 17% of neutral ankles, potentially increasing future revision risk.",
+        "Ten-year survivorship free from metal component revision remains high in both groups at 94% for varus and 94% for neutral alignment."
+      ]
+    },
+    {
+      "pmid": "41973897",
+      "title": "Distal Radius Volar Shear Fractures: A Computed Tomography Characterization and Analysis.",
+      "authors": [
+        "Gullborg EJ",
+        "Ahmad F",
+        "Ward CM",
+        "Hornung AL",
+        "Wysocki RW",
+        "Simcock XC"
+      ],
+      "authors_short": "Gullborg EJ, Ahmad F, et al.",
+      "journal": "The Journal of hand surgery",
+      "journal_abbrev": "J Hand Surg Am",
+      "year": "2026",
+      "abstract": "PURPOSE: To characterize volar shear fractures of the distal radius using computed tomography (CT) imaging to better evaluate dorsal cortical fracture involvement, articular complexity, and morphologic features to assist in operative planning. METHODS: A retrospective review of patients with CT-confirmed distal radius fractures was performed. One hundred ten volar shear fractures were identified and classified according to the AO/Orthopedic Trauma Association system, with CT-based characterization guided by previously described morphologic patterns. Volar shear B1 fractures were defined as partial articular fractures primarily involving the radial styloid process and volar shear B3 fractures as partial volar articular fractures without dorsal fracture lines. Fractures demonstrating partial volar articular involvement with dorsal fracture extensions were descriptively referred to as transitional-B3 fractures. Volar shear type C fractures were defined as complete articular fractures involving the volar articular margin. Demographic data, fracture characteristics, and morphologic features were compared across fracture types. RESULTS: Dorsal cortical fractures were present in 70% of volar shear fractures. Computed tomography imaging led to reclassification in 44% of fractures initially diagnosed as B3, and 28% of those diagnosed as transitional-B3. Type C fractures demonstrated greater fracture fragmentation, higher rates of longitudinal splits, and more frequent central articular depression compared with the other types. Dorsal impaction was identified in 78% of transitional-B3 fractures and 100% of type C fractures. Type B1 fractures exhibited shorter maximal volar cortical length and less available cortex for fixation compared to the others. Volar lunate translation and greater lunate subsidence were most commonly observed in type C fractures. CONCLUSIONS: Dorsal cortical extensions are prevalent in volar shear fractures and may have articular complexity that is not fully appreciated on radiographs alone. CLINICAL RELEVANCE: Computed tomography imaging provides additional detail for accurate diagnosis and reveals fracture morphologic patterns that should prompt consideration of comprehensive fixation strategies depending on the specific fracture type.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41973897/",
+      "score": 42,
+      "score_reasoning": "CT characterization study (110 fractures) of distal radius volar shear fractures, providing useful diagnostic and operative planning information.",
+      "bullets": [
+        "Seventy percent of distal radius volar shear fractures have dorsal cortical involvement that changes surgical planning beyond what radiographs show.",
+        "CT imaging reclassified 44% of initially diagnosed B3 fractures and 28% of transitional-B3 fractures into different categories requiring altered fixation strategies.",
+        "Type C volar shear fractures show more fragmentation, central depression, and lunate subsidence compared to B1 and B3 patterns, requiring comprehensive fixation approaches."
+      ]
+    },
+    {
+      "pmid": "41972324",
+      "title": "Pediatric Flexion-Type Supracondylar Humerus Fractures: Predictive Factors for Open Reduction and Impact on the Outcome in a Single Center 10-Year Case Series.",
+      "authors": [
+        "Galeotti A",
+        "Marcucci L",
+        "Cucca G",
+        "Di Giacinto S",
+        "Zanardi A",
+        "De Pellegrin M",
+        "Lazzeri S",
+        "Beltrami G"
+      ],
+      "authors_short": "Galeotti A, Marcucci L, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Flexion-type supracondylar humerus fractures are rare, highly unstable, and often associated with technical challenges. Current literature is limited to small series, and no standardized diagnostic-therapeutic guidelines have been established. METHODS: This retrospective study includes 47 patients with Gartland type II or III flexion-type supracondylar fractures surgically treated between September 2012 and October 2023. Demographic, clinical, radiographic, and functional data were collected to evaluate outcomes after closed or open reduction with percutaneous pinning. Univariate and multivariate model testing were used to analyze associations between fracture severity, surgical timing, rotational or translational deformities, and the need for open reduction and functional outcomes. RESULTS: No major complications occurred. In the multivariate analysis, translational deformity emerged as the sole independent predictor of open reduction (P=0.017). While the Gartland classification and rotational deformities correlated with the need for open surgery in univariate analysis, they were not significant in the final model. Surgical delay beyond 48 hours was not associated with open reduction (P=0.751) or inferior functional outcomes (P=0.327). Regarding functional results, although translational or rotational components were associated with higher QuickDASH scores in the univariate analysis (P=0.036), this significance was not confirmed in the multivariate model. The requirement for open reduction itself was not associated with worse functional outcomes (P=0.173). CONCLUSION: Translational deformity is the most significant predictor of the need for open reduction. However, complex fracture patterns do not independently result in inferior functional outcomes when appropriately managed. Our results suggest that open reduction is a safe option that does not negatively impact long-term function. It should be considered a valid alternative for unstable flexion-type fractures whenever closed reduction fails to restore anatomy. LEVELS OF EVIDENCE: Level IV.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41972324/",
+      "score": 40,
+      "score_reasoning": "Pediatric study (47 patients) examining flexion-type supracondylar fractures with 10-year case series, addressing specific pediatric trauma question.",
+      "bullets": [
+        "Translational deformity is the strongest predictor for needing open reduction in pediatric flexion-type supracondylar fractures.",
+        "Surgical delay beyond 48 hours does not increase the need for open reduction or worsen functional outcomes.",
+        "Open reduction does not compromise long-term function and should be considered when closed reduction fails to restore anatomy."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-04-14T08:05:07.461210-07:00"
+}
