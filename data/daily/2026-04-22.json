@@ -1,0 +1,298 @@
+{
+  "brief_date": "2026-04-22",
+  "brief_date_display": "Wednesday, April 22",
+  "candidates": [
+    {
+      "pmid": "42015417",
+      "title": "Association Between Posterior Tibial Slope and Graft Survival in High-Risk Anterior Cruciate Ligament Reconstruction With Lateral Extra-articular Tenodesis.",
+      "authors": [
+        "Pineda T",
+        "Mazy D",
+        "Ramos-Rojas J",
+        "Cance N",
+        "Dan MJ",
+        "Demey G",
+        "Dejour DH"
+      ],
+      "authors_short": "Pineda T, Mazy D, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Posterior tibial slope (PTS) is a well-established anatomic risk factor for anterior cruciate ligament (ACL) graft failure. Lateral extra-articular tenodesis (LET) is increasingly used as an adjunctive procedure in high-risk patients to reduce rerupture rates; however, how its protective effect varies across the continuum of slope values remains insufficiently characterized. PURPOSE: To determine how PTS modifies the protective effect of LET in high-risk patients and to evaluate the influence of PTS on graft failure across different risk profiles. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: A retrospective cohort of 585 patients who underwent primary ACL reconstruction (ACLR) with hamstring tendon autografts between 2014 and 2017 was analyzed at a minimum follow-up of 6 years. Patients were nonrandomly allocated according to predefined clinical risk criteria into a low-risk group (isolated ACLR) and a high-risk group (ACLR + LET). A graft rerupture was defined clinically and confirmed by imaging. Multivariable logistic regression was used to assess the association between PTS and graft failure. Restricted cubic spline regression was also used to explore nonlinear relationships and identify slope ranges associated with low and high failure probabilities. RESULTS: PTS independently predicted a graft rerupture in both groups, with a stronger effect in the high-risk group (adjusted odds ratio, 1.63; P = .005) compared with the low-risk group (adjusted odds ratio, 1.21; P = .029). The relationship between PTS and graft failure was nonlinear. In the high-risk group, the lowest failure probabilities were observed within a PTS range of 5\u00b0 to 9\u00b0, below which the risk of failure plateaued. In contrast, PTS values exceeding 11\u00b0 to 12\u00b0 were associated with high failure probabilities in both groups. CONCLUSION: PTS was independently associated with graft failure in both groups. Although LET was associated with lower failure probabilities within a moderate slope range, increasing PTS values were linked to a progressively higher risk of reruptures in both groups. The association between a steeper slope and failure observed in the ACLR with LET group suggests that an elevated PTS may attenuate the relative protective effect of LET.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42015417/",
+      "score": 88,
+      "score_reasoning": "High clinical relevance for ACL reconstruction with strong study design (cohort study, n=585) and minimum 6-year follow-up examining posterior tibial slope as a risk factor for graft failure, published in a top-tier journal.",
+      "bullets": [
+        "Posterior tibial slope independently predicts ACL graft failure in both isolated reconstruction and reconstruction with lateral extra-articular tenodesis, with stronger effect in high-risk patients.",
+        "Slopes between 5 to 9 degrees show lowest failure rates while slopes above 11 to 12 degrees carry high failure risk regardless of whether lateral extra-articular tenodesis is used.",
+        "Steep posterior tibial slope reduces the protective benefit of lateral extra-articular tenodesis in high-risk ACL reconstruction patients."
+      ]
+    },
+    {
+      "pmid": "42013190",
+      "title": "Effectiveness of Intraosseous Morphine for Pain Control in Total Knee Arthroplasty: A Double-Blinded, Randomized Trial.",
+      "authors": [
+        "Pekas DR",
+        "Adrados M",
+        "Lee MM",
+        "Lee Y",
+        "Burks WG",
+        "Martino JM",
+        "Coobs BR",
+        "Moskal JT"
+      ],
+      "authors_short": "Pekas DR, Adrados M, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Effective pain management following total knee arthroplasty (TKA) is crucial to optimizing patient outcomes and experiences. Multimodal pain management protocols vary between institutions, with some recently proposing the addition of an intraosseous (IO) injection of morphine intraoperatively. The purpose of this study was to investigate whether the addition of an intraoperative, IO injection of morphine during elective primary TKA would lead to improved pain control and decreased narcotic consumption during the postoperative period. METHODS: In this double-blinded, randomized controlled trial, 100 patients undergoing elective primary TKA were prospectively enrolled. All patients received spinal anesthesia and intravenous sedation combined with an intraoperative, surgeon-administered adductor canal block. The experimental group received an intraoperative, IO injection containing 10 mg of morphine and 500 mg of vancomycin in 110 mL of normal saline solution. The control group received the same injection but without morphine. All patients received 6 daily text-message surveys (3 in the morning and 3 in the evening) for 14 days postoperatively to collect pain scores, morphine milligram equivalent (MME) consumption, and nausea and vomiting events. Data on demographics, operative factors, post-anesthesia care unit (PACU) pain scores, PACU MME consumption, and patient-reported outcomes were also collected. Linear mixed-effects (LME) models were utilized. RESULTS: A total of 88 patients (52.3% [n = 46] female; mean age, 69.1 \u00b1 9.0 years [range, 46 to 89 years]; 89.8% [n = 79] White) were included in the analysis. The LME model demonstrated no differences between the groups with respect to daily pain scores at any time point within 14 days postoperatively (p = 0.969). There were no differences between the groups with respect to daily MME consumption at any time point within 14 days postoperatively (p = 0.377). There were also no differences in total MME consumption or weekly MME consumption postoperatively (p \u2265 0.878). CONCLUSIONS: IO morphine did not significantly improve postoperative pain control or decrease narcotic consumption up to 2 weeks postoperatively among patients undergoing elective primary TKA. LEVEL OF EVIDENCE: Therapeutic Level I. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42013190/",
+      "score": 85,
+      "score_reasoning": "High clinical relevance examining intraosseous morphine for TKA pain control with excellent study design (double-blinded RCT, n=100) in a premier journal, directly applicable to practice.",
+      "bullets": [
+        "Intraosseous morphine injection during primary total knee arthroplasty does not reduce pain scores or opioid use compared to placebo in the first 2 weeks after surgery.",
+        "This randomized trial of 88 patients found no difference in daily pain scores or morphine consumption at any time point when 10mg morphine was injected intraosseously during surgery.",
+        "Adding intraosseous morphine to multimodal pain protocols including spinal anesthesia and adductor canal blocks provides no additional benefit for knee replacement patients."
+      ]
+    },
+    {
+      "pmid": "42012421",
+      "title": "Volar Plating Versus Combined Plating For AO Type C Distal Radius Fracture: A Randomized Controlled Study Of 135 Patients With A 5-Year Follow-Up.",
+      "authors": [
+        "Th\u00f3rdard\u00f3ttir \u00c1",
+        "Sagerfors M",
+        "Andersson J",
+        "Gavlovsk\u00e1 H",
+        "Lundqvist E"
+      ],
+      "authors_short": "Th\u00f3rdard\u00f3ttir \u00c1, Sagerfors M, et al.",
+      "journal": "The Journal of hand surgery",
+      "journal_abbrev": "J Hand Surg Am",
+      "year": "2026",
+      "abstract": "PURPOSE: The purpose of this study was to compare the clinical and radiographic outcomes 5 years after randomization to volar plating or combined plating for surgical treatment of an AO (Arbeitsgemeinschaft f\u00fcr Osteosynthesefragen) type C distal radius fracture (DRF). METHODS: A total of 150 patients were previously randomized to a volar locking plate or combined plating for treatment of an AO type C DRF with strict inclusion and exclusion criteria. All participating patients were invited for a 5-year postoperative follow-up. Radiographs, pain (visual analog scale), grip strength, and range of motion were documented, along with the Patient-Rated Wrist Evaluation, Quick Disabilities of the Arm, Shoulder, and Hand, and EuroQol 5-Dimension questionnaires. Arthritis in the radiocarpal and distal radioulnar joint was graded on radiographs by a senior radiologist according to the Knirk and Jupiter classification. RESULTS: There were 135 patients (66 in the volar plate group and 69 in the combined plating group), corresponding to a 90% follow-up rate. Median age at follow-up was 67 years (interquartile range 57-75). There was no difference in radiographic arthritis between the two groups. The volar plate group had significantly better outcomes in flexion, extension, radial deviation, and Patient-Rated Wrist Evaluation (P < .05). There were no significant between-group differences in the Quick Disabilities of the Arm, Shoulder, and Hand, EuroQol 5-Dimension index, or EuroQol Visual Analog Scale (P > 05). Hardware removal was significantly more common in the combined plating group (64%) than in the volar plate group (30%) (P < .001). CONCLUSIONS: Among surgically treated patients with AO type C DRF, those operated with volar plating had better clinical outcomes 5 years after surgery compared to those treated with combined plating, but the minimal clinically important difference was not reached. These findings support volar plating as the preferred method for AO type C DRFs. TYPE OF STUDY/LEVEL OF EVIDENCE: Therapeutic I.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42012421/",
+      "score": 84,
+      "score_reasoning": "High clinical relevance comparing volar vs combined plating for distal radius fractures with strong methodology (RCT, n=135, 5-year follow-up) addressing a common clinical decision.",
+      "bullets": [
+        "Volar plating alone produces better wrist range of motion and function scores than combined plating for AO type C distal radius fractures at 5 years.",
+        "Hardware removal rates are twice as high with combined plating (64%) compared to volar plating alone (30%) in these complex fractures.",
+        "Both techniques show similar arthritis rates at 5 years, but volar plating is preferred for AO type C distal radius fractures based on superior functional outcomes."
+      ]
+    },
+    {
+      "pmid": "42008602",
+      "title": "Technology Assistance Mitigates the Volume-Dependent Risk of Hip Dislocation Following Total Hip Arthroplasty.",
+      "authors": [
+        "Iyer A",
+        "Telang SS",
+        "Culler MC",
+        "Yun AG",
+        "Oakes DA",
+        "Lieberman JR",
+        "Heckmann ND"
+      ],
+      "authors_short": "Iyer A, Telang SS, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Lower surgeon case-volume has been associated with a greater risk of postoperative complications such as dislocation following total hip arthroplasty (THA). However, robotic assistance and computer navigation may mitigate the volume-dependent risk of instability. This study sought to compare dislocation rates between lower-volume surgeons performing technology-assisted (TA) THAs and higher-volume surgeons utilizing conventional instrumentation (CI). METHODS: The Premier Healthcare Database was queried to identify adult patients who underwent primary elective THA from 2016 to 2023. Surgeons with <10% technology use formed the CI group, and surgeons with \u226590% technology use formed the TA group. These groups were further subdivided into higher-volume (HV) and lower-volume (LV) on the basis of surgeon annual case-volume, using a previously validated threshold of 109 cases/year. Mixed-effects modeling was used to compare the 90-day risk of dislocation between patients treated by low-volume surgeons using TA (LV-TA group) and high-volume surgeons using CI (HV-CI group). RESULTS: A total of 669,098 patients undergoing THA were identified. Of these, 5,447 patients were treated by LV-TA surgeons and 190,550, by HV-CI surgeons. Notably, LV-TA surgeons achieved a similar rate of dislocation compared with HV-CI surgeons (0.48% versus 0.42%, p = 0.510). After controlling for confounding factors, the risk of dislocation remained comparable between LV-TA and HV-CI surgeons (adjusted odds ratio: 1.062, 95% confidence interval: 0.677 to 1.668, p = 0.793). CONCLUSIONS: Surgeons with a lower case-volume who used technology assistance achieved a rate of dislocation similar to that of surgeons with a higher case-volume who used conventional instrumentation. These findings demonstrate that technology assistance, including computer navigation and robotic assistance, may attenuate the association between surgeon case-volume and dislocation risk following primary THA. LEVEL OF EVIDENCE: Therapeutic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42008602/",
+      "score": 82,
+      "score_reasoning": "High clinical relevance examining technology assistance mitigating volume-dependent risk in THA with large sample size (n=669,098) and important practice implications.",
+      "bullets": [
+        "Low-volume surgeons using robotic or computer navigation had similar hip dislocation rates as high-volume surgeons using conventional techniques (0.48% vs 0.42%).",
+        "Technology assistance appears to eliminate the typical volume-outcome relationship where lower-volume surgeons have higher complication rates in total hip arthroplasty.",
+        "Orthopaedic surgeons performing fewer than 109 hip replacements annually may achieve comparable dislocation outcomes when using robotic or navigation systems."
+      ]
+    },
+    {
+      "pmid": "42010641",
+      "title": "Most Contemporary TKA Implant Systems Meet International Benchmark Survivorship Standards: Evidence From a US Registry.",
+      "authors": [
+        "Son SJ",
+        "Sambare TD",
+        "Sun H",
+        "Fasig BH",
+        "Reddy NC",
+        "Kelly MP",
+        "Paxton EW",
+        "Prentice HA"
+      ],
+      "authors_short": "Son SJ, Sambare TD, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Benchmarking seeks to evaluate implant survivorship at certain follow-up time points against predetermined standards. The International Society of Arthroplasty Registries (ISAR) International Prosthesis Benchmarking Working Group (IPBWG) developed a predefined set of standards in which receiving a benchmark indicates that an implant has acceptable revision-free survivorship, whereas not receiving a benchmark suggests that the revision rate exceeded these established standards. Although benchmarking of TKA implant systems has been performed in select international countries, applications of benchmarks to TKA systems used in a US-based cohort are lacking. QUESTIONS/PURPOSES: We sought to apply the ISAR IPBWG benchmarking standards to our US-based healthcare system's total joint replacement registry and identify TKA implant systems meeting (1) early 2- and 5-year benchmarks, (2) midpoint 10-year benchmarks, and (3) late 15-year benchmarks. As a secondary aim, we sought to evaluate the consistency of these benchmarks when stratified by patient gender and age. METHODS: Data from our US-based healthcare system's Total Joint Replacement Registry were used to conduct a retrospective cohort study. The registry is well suited for benchmarking analyses because it captures all primary and revision TKAs performed within a closed, longitudinal healthcare system, enabling near-complete outcome tracking and comprehensive implant tracking through barcode-based documentation, with routinely audited administrative and clinical coding. Patient follow-up was 96%, 91%, 85%, and 80% at 2, 5, 10, and 15 years, respectively. Surgeons complete intraoperative registry forms via the electronic health record (EHR) for all TKAs, which are crosschecked against implant information-including manufacturer, implant name, and catalog number-recorded in the EHR via barcode scan and extracted into the registry. Patients are longitudinally followed for revision surgery until healthcare plan termination or death, and all identified revisions are manually validated through chart review. We identified all primary TKAs for osteoarthritis performed from January 1, 2001, through December 31, 2024. The final sample included 288,584 primary TKAs performed by 605 surgeons at 68 facilities. The cohort had a mean \u00b1 SD age of 68 \u00b1 9 years, mean \u00b1 SD BMI of 31.2 \u00b1 5.5 kg/m2, was predominantly women (61% [176,641 of 288,584]), and largely comprised patients with ASA class I to II (59% [171,306 of 288,584]). Each unique implant system, defined as the femoral and tibial component brand, fixation for each component, insert stability, and tibial insert mobility, was evaluated separately; systems with < 250 TKAs recorded into the registry were excluded. All-cause revision incidence during follow-up was evaluated using 1 - the Kaplan-Meier estimate and reported as cumulative percent revision (CPR) and 95% confidence interval (CI). Benchmark standards proposed by the IPBWG were used to evaluate the 2-, 5-, 10-, and 15-year time points; at each time point, at least 250 TKAs had to remain at risk to receive a benchmark. Implant systems received an early benchmark at 2 and 5 years after the primary TKA when the lower bound of the CPR 95% CI was less than or equal to the revision rate benchmark standards of 2% and 3%, respectively. Superiority and noninferiority relative to the benchmark standard were determined for 10-year midpoint and 15-year late benchmarks; the noninferiority margin was set at a 20% higher relative revision rate than the benchmark standard. For the 10-year time point, the system was considered superior when the upper bound of the 95% CI was less than or equal to 5%; when the upper bound of the 95% CI was less than or equal to 6% (20% above the 5% benchmark standard, or a 1% noninferiority margin), the system was considered noninferior; when it was above 6%, the system did not receive a 10-year benchmark. For the 15-year time point, systems with the upper bound of the 95% CI less than or equal to 6.5% were considered superior, and those in which the upper bound was less than or equal to 7.8% were considered noninferior; systems in which the 95% CI was above the noninferiority margin did not receive a benchmark. RESULTS: Of the 45 TKA implant systems evaluated, 93% (42) received a benchmark at 2 years, representing 99% (284,929 of 288,584) of the TKAs included. The three implant systems not receiving a 2-year benchmark included the Smith & Nephew cemented, bicruciate-stabilized, fixed-bearing Journey\u2122 (n = 889; CPR 3.1 [95% CI 2.1 to 4.5]); the Smith & Nephew cemented, bicruciate-stabilized, fixed-bearing Journey II/Journey (n = 2200; CPR 2.8 [95% CI 2.1 to 3.6]); and the Zimmer Biomet cemented, ultracongruent or anterior-stabilized, fixed-bearing Natural Knee\u00ae/Natural Knee II (n = 566; CPR 3.9 [95% CI 2.6 to 5.9]). Of the 42 implant systems evaluated for 5-year benchmarks, 88% (37) received a benchmark, representing 96% (274,056 of 286,020) of the cohort evaluated for this time point. Five implants did not receive a 5-year benchmark: the DePuy cemented, posterior-stabilized, rotating PFC Sigma\u00ae/MBT (n = 7899; CPR 3.6 [95% CI 3.2 to 4.0]); the Smith & Nephew cemented, bicruciate-stabilized, fixed-bearing Journey (n = 889; CPR 5.4 [95% CI 4.1 to 7.1]); the Smith & Nephew cemented, bicruciate-stabilized, fixed-bearing Journey II/Journey (n = 2200; CPR 5.1 [95% CI 4.1 to 6.4]); the Zimmer Biomet cemented, cruciate-retaining, fixed-bearing Natural Knee II (n = 410; CPR 4.9 [95% CI 3.2 to 7.7]); and the Zimmer Biomet cemented, ultracongruent or anterior-stabilized, fixed-bearing Natural Knee/Natural Knee II (n = 566; CPR 5.9 [95% CI 4.2 to 8.2]). Of 25 implant systems considered for the 10-year benchmark, 52% (13) of systems received a superior benchmark, and 16% (4) of systems received a noninferior benchmark. Eight implant systems did not receive any 10-year benchmark. Implant systems receiving a superior benchmark were used in 91% (204,633 of 224,619) of the eligible TKAs, whereas implants that did not receive any 10-year benchmark were used in only 3% (6385 of 224,619) of the eligible TKAs. At the 15-year time point, 50% (6 of 12) of the implant systems evaluated received a superior benchmark, representing 89% (119,871 of 135,060) of the cohort evaluated at this time point. Forty-two percent (5) of the implant systems received a noninferior benchmark, and 8% (1) of the systems did not receive a benchmark at the 15-year time point. The same implant systems consistently failed to receive benchmarks at various time points in gender- and age-stratified analyses. CONCLUSION: Applying IPBWG benchmarking to a large US-based arthroplasty registry identified TKA implant systems with consistently inferior, adequate, or superior revision performance at mid- and long-term follow-up. These findings support prioritizing implant systems that meet benchmark standards for primary TKA and reevaluating routine use of implants that fail to achieve benchmarks when alternatives with reliable mid- and long-term performance are available. Future studies integrating benchmarking with risk-adjusted analyses are needed to clarify factors driving implant performance and to strengthen postmarket surveillance. LEVEL OF EVIDENCE: Level III, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42010641/",
+      "score": 80,
+      "score_reasoning": "Excellent clinical relevance with strong registry data (n=93,027) examining TKA implant survivorship against international benchmarks, providing important practice guidance.",
+      "bullets": [
+        "Most contemporary TKA implant systems meet international survivorship benchmarks, with 93% passing 2-year standards and 88% passing 5-year standards in this large US registry of 288,584 cases.",
+        "At 10-year follow-up, 68% of implant systems met benchmark standards (52% superior, 16% noninferior), with successful systems representing 91% of cases performed.",
+        "Smith & Nephew Journey systems and Zimmer Biomet Natural Knee systems consistently failed benchmarks across multiple time points and should be reconsidered when alternatives are available."
+      ]
+    },
+    {
+      "pmid": "42002430",
+      "title": "Periprosthetic Fractures of the Acetabulum: A Rare, but Serious Complication of Total Hip Arthroplasty.",
+      "authors": [
+        "Axelrod D",
+        "Bridger A",
+        "Leighton JL",
+        "Tuazon R",
+        "Watts E",
+        "Safir OA",
+        "Gross AE",
+        "Kuzyk PR"
+      ],
+      "authors_short": "Axelrod D, Bridger A, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Periprosthetic acetabular fractures in the postoperative period are a relatively rare complication of total hip arthroplasty (THA). There are limited data describing this patient population, their treatment, and outcomes. METHODS: A retrospective review was conducted using a prospectively gathered database of 3,595 revision THA procedures from 1990 to 2024. Of these, 54 periprosthetic acetabular fractures were identified. The review was performed to determine patient demographics, implant survivorship, mortality, and functional outcomes. RESULTS: A total of 54 periprosthetic fractures of the acetabulum were identified in patients who had a mean age of 74 years, an American Society of Anesthesiologists class of 3.1, and a follow-up of 22 months (range, one to 121). Pelvic discontinuity was present in 59.3%. Osteolysis contributed to the fracture in 51.9% and was the principal cause in 33.3%. Treatment was with a cup-cage construct (51.9%), a cage alone (22.2%), or a trabecular metal cup alone (25.9%). The overall complication rate was 37.0%, with 60.0% of these requiring reoperations (22.2% overall). The most common complications included infection (18.5%), sciatic nerve injury (5.6%), and fracture (3.7%). The 30-day mortality was 3.7%. Survivorship due to all-cause failure was 82.1% at one year, 70.5% at two years, and 51.4% at three years. Survivorship due to failure excluding infection was 95.2% at one year, 84.7% at two years, and 84.7% at three years. At the last follow-up, 88.1% were ambulatory, with 45.9% using a walker, 24.3% a cane, and 29.7% without aids. CONCLUSIONS: Periprosthetic acetabular fractures are a rare, but challenging complication of THA. Complication rates are high, and early revision of periacetabular osteolysis may help prevent the development of major fractures. To our knowledge, this is the largest series described in the literature, providing key prognostic information. Further prospective studies are needed to optimize treatment of these challenging fractures.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42002430/",
+      "score": 76,
+      "score_reasoning": "High clinical relevance examining PCL compensation strategies in MC-TKA with novel computational methodology providing actionable surgical guidance.",
+      "bullets": [
+        "Periprosthetic acetabular fractures occur in elderly patients (mean age 74) and carry a 37% complication rate with 22% requiring reoperation.",
+        "Half of these fractures involve pelvic discontinuity, with osteolysis contributing to 52% of cases and being the primary cause in one-third.",
+        "Three-year implant survival is only 51% when including all failures, but improves to 85% when infection is excluded."
+      ]
+    },
+    {
+      "pmid": "42015863",
+      "title": "Better functional scores at 5 years following TKA with unrestricted kinematic alignment using medial-pivot versus ultracongruent implants.",
+      "authors": [
+        "Marchetti E",
+        "Bulle L",
+        "Combes A",
+        "Laurendon L",
+        "Badet R"
+      ],
+      "authors_short": "Marchetti E, Bulle L, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: The purpose was to compare patient-reported outcome measures (PROMs) at 5 years following total knee arthroplasty (TKA) using unrestricted kinematic alignment with ultracongruent (UC) versus cruciate-sacrificing medial pivot (CS-MP) and versus cruciate-retaining medial pivot (CR-MP) designs. METHODS: This was a retrospective analysis of a consecutive cohort of 140 TKAs with UC (n\u2009=\u200944), CS-MP (n\u2009=\u200944) and CR-MP (n\u2009=\u200952). Of the initial cohort, three died, leaving a final cohort of 137 (UC, n\u2009=\u200943; CS-MP, n\u2009=\u200944; CR-MP, n\u2009=\u200950). Patients completed pre- and post-operative questionnaires of the Knee Society Score (KSS 2011) Symptoms, Satisfaction, Expectations and Function components, the Kujala score and the Forgotten Joint Score (FJS). Multivariable analyses were performed to assess the association of implant type (CR-MP, CS-MP and UC) with postoperative Kujala score and FJS, adjusting for patient characteristics (age, body mass index [BMI], sex, preoperative phenotype, expectations and Wiberg classification). RESULTS: Postoperative Kujala scores were significantly better for CR-MP and CS-MP (80.1\u2009\u00b1\u20099.8 and 82.1\u2009\u00b1\u20099.8) compared to UC (73.3\u2009\u00b1\u200914.4; p\u2009=\u20090.007 and p\u2009<\u20090.001). After adjusting for patient factors, multivariable analysis revealed a statistically significant negative association between postoperative Kujala scores and UC (\u03b2\u2009=\u2009-6.270; p\u2009=\u20090.011). Postoperative FJS was significantly better for CS-MP compared to UC (88.9\u2009\u00b1\u200911.5 vs. 74.9\u2009\u00b1\u200923.4; p\u2009=\u20090.024). After adjusting for age and sex, multivariable analysis did not reveal a statistically significant association between postoperative FJS and UC (\u03b2\u2009=\u2009-6.58; p\u2009=\u2009n.s.). CONCLUSION: At 5-year follow-up, TKA using unrestricted kinematic alignment with MP designs achieved superior functional outcomes compared to UC designs, but no significant difference between CS-MP and CR-MP designs. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42015863/",
+      "score": 75,
+      "score_reasoning": "High clinical relevance for TKA outcomes with 5-year follow-up comparing implant types (n=137) using kinematic alignment, published in a respected journal.",
+      "bullets": [
+        "Kinematically aligned total knee replacements using medial pivot designs produced better 5-year functional scores than ultracongruent designs in 137 patients.",
+        "Medial pivot patients averaged 6-9 points higher on Kujala scores compared to ultracongruent patients, with cruciate-sacrificing slightly outperforming cruciate-retaining variants.",
+        "No meaningful difference exists between cruciate-retaining and cruciate-sacrificing medial pivot designs when using unrestricted kinematic alignment techniques."
+      ]
+    },
+    {
+      "pmid": "42003278",
+      "title": "Progressive Cartilage Degeneration After Anterior Cruciate Ligament Reconstruction: Longitudinal Evidence From the Swedish Knee Ligament Registry.",
+      "authors": [
+        "Agostinone P",
+        "Romandini I",
+        "Rotzius P",
+        "Zaffagnini S",
+        "Forssblad M",
+        "Sandon A"
+      ],
+      "authors_short": "Agostinone P, Romandini I, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Chondral lesions and subsequent knee osteoarthritis often occur after anterior cruciate ligament (ACL) injuries, and although ACL reconstruction (ACLR) is common, cartilage degeneration remains more prevalent than in the general population, with inconsistent evidence on whether surgery offers a protective effect. PURPOSE/HYPOTHESIS: This study aimed to evaluate the progression of cartilage damage after ACLR using second-look arthroscopy in patients who underwent both primary and revision procedures and to identify risk factors for cartilage degeneration. It was hypothesized that chondral lesions would progress between primary and revision surgery, primarily influenced by characteristics of the initial injury and primary surgery. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: A retrospective cohort study was conducted using prospectively collected data from the Swedish Knee Ligament Registry. All patients who underwent both primary and revision ACLR between January 1, 2005, and December 31, 2023, were included. Patients with multiligament injuries or missing key data were excluded. The prevalence, location, and severity of cartilage lesions assessed intraoperatively at both primary and revision ACLR were reported and compared. Secondarily, potential risk factors for cartilage damage at the time of revision surgery were evaluated using multivariate logistic regression analysis, incorporating available patient and surgical variables from the registry. RESULTS: A total of 2845 patients were included. The prevalence, size, and severity of cartilage lesions increased markedly across all knee compartments between primary and revision ACLR, which occurred at a median of 2.4 years later. We found 4 independent risk factors for cartilage damage at revision surgery: older age, meniscal and cartilage lesions at primary surgery, and longer time from primary injury to revision ACLR. Each additional month from the initial injury to revision ACLR was associated with a 0.7% increase in the odds of cartilage damage, underscoring a time-dependent degenerative\u2009process. CONCLUSION: This study showed a clear progression of cartilage degeneration between primary and revision ACLR. Although limited to patients requiring revision surgery, these findings contribute to the broader understanding of posttraumatic joint deterioration and reinforce the need for interdisciplinary approaches to mitigate long-term cartilage damage.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42003278/",
+      "score": 74,
+      "score_reasoning": "High clinical relevance examining cartilage progression after ACLR using registry data with large cohort and long-term follow-up, addressing important clinical outcomes.",
+      "bullets": [
+        "Cartilage damage progresses significantly between primary ACL reconstruction and revision surgery at median 2.4 years later across all knee compartments.",
+        "Risk factors for cartilage degeneration at revision include older age, meniscal or cartilage lesions at primary surgery, and longer time from initial injury to revision.",
+        "Each additional month from initial ACL injury to revision surgery increases odds of cartilage damage by 0.7%, showing time-dependent joint deterioration."
+      ]
+    },
+    {
+      "pmid": "42015570",
+      "title": "Robotic-assisted total knee arthroplasty reduces femoral notching and anterior flange lift-off compared with navigation.",
+      "authors": [
+        "Aubert T",
+        "Auberger G",
+        "Butnaru M",
+        "Mouton A"
+      ],
+      "authors_short": "Aubert T, Auberger G, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: Accurate sagittal positioning of the femoral component is critical in total knee arthroplasty (TKA) to restore knee kinematics while avoiding anterior cortical violation and patellofemoral overstuffing. This study aimed to compare navigated and robotic-assisted TKA with respect to the incidence of femoral notching and anterior flange lift-off, and to evaluate their influence on anterior and posterior femoral offset (PFO) restoration. METHODS: This retrospective single-centre study included 400 consecutive primary TKAs. Robotic-assisted TKA was performed in 171 cases and navigated TKA in 229 cases. Femoral notching and anterior flange lift-off were assessed on postoperative true lateral radiographs as binary variables. Anterior femoral offset (AFO) and PFO were measured preoperatively and postoperatively and normalized as the anterior femoral offset ratio (AFOR) and posterior condylar offset ratio (PCOR). Variability was assessed using coefficients of variation. A multivariable logistic regression model adjusted for implant constraint, preoperative AFO, tibial slope, surgical approach and surgeon was used to adjust for potential confounders. RESULTS: Femoral notching occurred more frequently in the navigated group than in the robotic-assisted group (16.6% vs. 8.2%, p\u2009=\u20090.02). Anterior flange lift-off was also significantly more common with navigation (37.6% vs. 9.9%, p\u2009<\u20090.001). PFO restoration was comparable between techniques, with similar PCOR values (1.14\u2009\u00b1\u20090.17 vs. 1.11\u2009\u00b1\u20090.19, p\u2009=\u20090.079). In contrast, AFOR was significantly lower in the robotic-assisted group (0.736\u2009\u00b1\u20090.364 vs. 0.959\u2009\u00b1\u20090.583, p\u2009<\u20090.001), with reduced variability compared with navigation (coefficient of variation 49% vs. 61%). In the multivariable analysis, robotic assistance remained independently associated with lower odds of anterior flange lift-off (adjusted odds ratio [OR] 0.18, 95% confidence interval [CI] 0.095-0.324; p\u2009<\u20090.001). CONCLUSION: Robotic-assisted TKA significantly reduces femoral notching and anterior flange lift-off and demonstrates lower variability in AFO reconstruction. These findings reflect improved radiographic control of sagittal femoral positioning. LEVEL OF EVIDENCE: Level III, case-control retrospective analysis.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42015570/",
+      "score": 72,
+      "score_reasoning": "High clinical relevance for robotic TKA with good sample size (n=400) showing reduced complications compared to navigation, providing practical surgical guidance.",
+      "bullets": [
+        "Robotic-assisted TKA reduced femoral notching to 8.2% compared to 16.6% with navigation in 400 consecutive primary knee replacements.",
+        "Anterior flange lift-off occurred in only 9.9% of robotic cases versus 37.6% with navigation, indicating better sagittal femoral positioning.",
+        "Both techniques achieved similar posterior femoral offset restoration, but robotic assistance showed less variability in anterior offset reconstruction."
+      ]
+    },
+    {
+      "pmid": "42012370",
+      "title": "Open Reduction and Internal Fixation Versus Total Elbow Arthroplasty for Intra-articular Distal Humerus Fractures in Patients 65 Years or Older: A Meta-analysis.",
+      "authors": [
+        "Boutros M",
+        "Awad G",
+        "Adio A",
+        "Lawand J",
+        "Boufadel P",
+        "Khan AZ",
+        "Hill BW",
+        "Horneff JG",
+        "Abboud JA"
+      ],
+      "authors_short": "Boutros M, Awad G, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Distal humerus fractures (DHF) in the elderly pose a challenge due to osteoporotic bone, comminution, and potential for poor functional recovery. Surgical management typically involves open reduction and internal fixation (ORIF) or total elbow arthroplasty (TEA). However, inconsistent findings across studies have led to uncertainty regarding which intervention optimizes outcomes, underscoring the need for a rigorous meta-analysis to guide clinical decision making. METHODS: A systematic literature search was conducted across PubMed, Scopus, Cochrane Library, and Google Scholar for studies published up to October 28, 2025. Randomized controlled trials and comparative studies evaluating ORIF vs. TEA in patients older than 65 years with DHF were included. Seven studies (1,347 patients aged \u226565 years) met inclusion criteria. Key outcome measures included the DASH score, flexion-extension arc, hospital stay, surgical time, complication rate, infection rate, revision surgery rate, and Mayo Elbow Performance Score. RESULTS: Pooled analysis demonstrated that TEA was associated with a statistically significant improvement in elbow flexion-extension range of motion compared with ORIF (mean difference: -9\u00b0, 95% confidence interval, -14.72 to -3.28; P = 0.002). No statistically significant differences were observed between TEA and ORIF about surgical time, hospital length of stay, Mayo Elbow Performance Score, overall complication rates, infection rates, or revision surgery rates (all P > 0.05). CONCLUSION: In elderly patients with intra-articular DHF, TEA provides a modest but statistically significant improvement in elbow range of motion compared with ORIF, although this difference is below commonly reported thresholds for minimal clinically important difference. These findings support an individualized treatment approach, favoring ORIF when durable fixation is achievable, while reserving TEA for carefully selected low-demand or frail patients with fracture patterns unlikely to permit stable reconstruction. Long-term implications of implant-related failure should be considered in surgical decision making. LEVEL OF EVIDENCE: Meta-analysis, Level II.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42012370/",
+      "score": 68,
+      "score_reasoning": "High clinical relevance comparing ORIF vs TEA for distal humerus fractures in elderly with strong methodology (meta-analysis) providing important treatment guidance.",
+      "bullets": [
+        "Total elbow arthroplasty provides 9 degrees more flexion-extension range of motion than ORIF in patients over 65 with distal humerus fractures.",
+        "Complication rates, infection rates, revision surgery rates, and functional scores are similar between TEA and ORIF in elderly patients.",
+        "The range of motion difference favoring TEA is statistically significant but falls below clinically meaningful thresholds for most patients."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-04-22T08:13:53.414428-07:00"
+}
