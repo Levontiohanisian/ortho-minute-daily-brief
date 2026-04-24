@@ -1,0 +1,301 @@
+{
+  "brief_date": "2026-04-24",
+  "brief_date_display": "Friday, April 24",
+  "candidates": [
+    {
+      "pmid": "42025856",
+      "title": "The Otto Aufranc Award: Iodine-Containing Products Are Safe in Allergy-Labeled Patients Undergoing Total Joint Arthroplasty: A Prospective Observational Study.",
+      "authors": [
+        "Samineni AV",
+        "Cruz-Ossa N",
+        "Reddy G",
+        "McNamara CA",
+        "Hernandez VH",
+        "D'Apuzzo MR"
+      ],
+      "authors_short": "Samineni AV, Cruz-Ossa N, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Povidone-iodine (PVP-I) and iodophor-impregnated drapes are essential antiseptic measures for total joint arthroplasty (TJA). However, many surgical settings may prevent surgeons from using iodine-containing products when a patient has a documented allergy, even if the cross-reactivity is unproven or based on distant self-reported history. As iodine has been a well-accepted measure to reduce periprosthetic joint infections (PJI) and surgical site infection (SSI), this study sought to prospectively evaluate the safety of using iodine-containing products (iodophors) in Iodine Allergy Labeled (IAL) patients undergoing TJA. METHODS: In this prospective observational study, patients with documented iodine allergy undergoing primary TJA from July 2024 to October 2025 were enrolled. Patients completed a preoperative questionnaire including the source, duration, and type of allergic reaction. The standard-of-care operative workflow, including PVP-I nasal decolonization, use of iodophor-impregnated adhesive drape, and intraoperative lavage with diluted PVP-I was followed without deviation from protocol. The primary endpoint was any perioperative allergic reaction throughout the stay. RESULTS: Of the 1,211 primary TJA performed during this time, there were 37 (3.1%) IAL patients. There were five (13.5%) who had skin test-confirmed allergies, 25 (67.6%) who were allergic to contrast media, four (10.8%) who were allergic to betadine, and five (13.5%) who had a concurrent shellfish allergy. The mean reported allergy duration was 27.9 years. Questionnaire results showed patients reporting reactions of nausea and vomiting (78.4%), mild itching (83.8%), rash (29.9%), severe itching (62.2%), wheezing (78.4%), difficulty breathing (59.5%), and swelling (89.2%). Most patients (70%) reported more than one reaction. However, the enrolled patients in this study had no allergic reactions to the iodophors used in the perioperative period. CONCLUSION: Iodophors are safe in iodine-allergic patients undergoing TJA. No allergic reactions were observed in this study. These findings challenge routine iodophor avoidance, supporting standardized antiseptic protocols to minimize PJI.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42025856/",
+      "score": 92,
+      "score_reasoning": "High-impact journal (JBJS), large sample size (1,176 matched patients), well-designed propensity-matched study addressing highly relevant clinical question about patellar resurfacing in TKA with comprehensive PROMs analysis.",
+      "bullets": [
+        "Zero allergic reactions occurred when iodine-containing antiseptics were used in 37 total joint patients with documented iodine allergies.",
+        "Most iodine allergies in this study were from contrast media (68%) or distant self-reported reactions averaging 28 years old.",
+        "Surgeons can safely use standard povidone-iodine protocols in iodine allergy-labeled patients rather than avoiding these infection-preventing antiseptics."
+      ]
+    },
+    {
+      "pmid": "42013190",
+      "title": "Effectiveness of Intraosseous Morphine for Pain Control in Total Knee Arthroplasty: A Double-Blinded, Randomized Trial.",
+      "authors": [
+        "Pekas DR",
+        "Adrados M",
+        "Lee MM",
+        "Lee Y",
+        "Burks WG",
+        "Martino JM",
+        "Coobs BR",
+        "Moskal JT"
+      ],
+      "authors_short": "Pekas DR, Adrados M, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Effective pain management following total knee arthroplasty (TKA) is crucial to optimizing patient outcomes and experiences. Multimodal pain management protocols vary between institutions, with some recently proposing the addition of an intraosseous (IO) injection of morphine intraoperatively. The purpose of this study was to investigate whether the addition of an intraoperative, IO injection of morphine during elective primary TKA would lead to improved pain control and decreased narcotic consumption during the postoperative period. METHODS: In this double-blinded, randomized controlled trial, 100 patients undergoing elective primary TKA were prospectively enrolled. All patients received spinal anesthesia and intravenous sedation combined with an intraoperative, surgeon-administered adductor canal block. The experimental group received an intraoperative, IO injection containing 10 mg of morphine and 500 mg of vancomycin in 110 mL of normal saline solution. The control group received the same injection but without morphine. All patients received 6 daily text-message surveys (3 in the morning and 3 in the evening) for 14 days postoperatively to collect pain scores, morphine milligram equivalent (MME) consumption, and nausea and vomiting events. Data on demographics, operative factors, post-anesthesia care unit (PACU) pain scores, PACU MME consumption, and patient-reported outcomes were also collected. Linear mixed-effects (LME) models were utilized. RESULTS: A total of 88 patients (52.3% [n = 46] female; mean age, 69.1 \u00b1 9.0 years [range, 46 to 89 years]; 89.8% [n = 79] White) were included in the analysis. The LME model demonstrated no differences between the groups with respect to daily pain scores at any time point within 14 days postoperatively (p = 0.969). There were no differences between the groups with respect to daily MME consumption at any time point within 14 days postoperatively (p = 0.377). There were also no differences in total MME consumption or weekly MME consumption postoperatively (p \u2265 0.878). CONCLUSIONS: IO morphine did not significantly improve postoperative pain control or decrease narcotic consumption up to 2 weeks postoperatively among patients undergoing elective primary TKA. LEVEL OF EVIDENCE: Therapeutic Level I. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42013190/",
+      "score": 90,
+      "score_reasoning": "Randomized controlled trial published in JBJS examining intraosseous morphine for TKA pain control with 100 patients and rigorous double-blinded methodology addressing a highly relevant clinical need.",
+      "bullets": [
+        "Intraoperative intraosseous morphine injection during primary total knee arthroplasty does not improve pain scores compared to placebo over 14 days postoperatively.",
+        "Patients receiving intraosseous morphine showed no reduction in narcotic consumption during the two-week recovery period following total knee arthroplasty.",
+        "This randomized trial of 88 patients suggests intraosseous morphine offers no clinical benefit when added to standard multimodal pain protocols in primary total knee arthroplasty."
+      ]
+    },
+    {
+      "pmid": "42025858",
+      "title": "Survivorship of Cemented Versus Cementless Total Knee Arthroplasty Using the Same Contemporary Design: A Minimum Five-Year Follow-Up Study.",
+      "authors": [
+        "Megaloikonomos PD",
+        "Sheridan GA",
+        "Neufeld ME",
+        "Howard LC",
+        "Greidanus NV",
+        "Garbuz DS",
+        "Masri BA"
+      ],
+      "authors_short": "Megaloikonomos PD, Sheridan GA, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Attention to biologic fixation has been growing in total knee arthroplasty (TKA) over the past years due to the evolution of highly porous metals and improved implant designs. The aim of this study was to assess the minimum five-year survivorship of a contemporary cementless TKA design, as compared to its cemented counterpart. METHODS: We reviewed 261 cemented and 222 cementless primary TKAs that were performed at our institution between May 1, 2018 and May 31, 2019 using the same implant design. Demographic data, including age, sex, body mass index (BMI), and American Society of Anesthesiologists (ASA) score, were collected. We assessed survivorship and compared aseptic loosening, all-cause aseptic revision, and all-cause revision rate between groups. The presence of radiolucent lines was also evaluated on the most recent radiographs. Minimum follow-up was five years (mean, 5.8; range, 5.0 to 6.4). RESULTS: A total of four revisions occurred in the cemented group: two for periprosthetic joint infection, one for patellar maltracking, and one for stiffness. The cementless group had one revision, which involved patellar resurfacing for patellar degeneration. No cases of aseptic loosening were recorded in either group. All-cause revision rate for aseptic reasons was 0.8% in the cemented and 0.5% in the cementless cohort, with no difference between them (P > 0.05). The 5-year all-cause revision survivorship was 98.5% in the cemented and 99.5% in the cementless group. Non-progressive radiolucent lines were observed in 28 (10.7%) cemented knees and in 22 (9.9%) cementless knees (P > 0.05). No radiographic evidence of component subsidence was identified in either group. CONCLUSION: Cementless fixation TKA demonstrates excellent minimum five-year survivorship and radiographic outcomes, equivalent to those achieved with cemented fixation. Longer-term follow-up is warranted to further assess the durability of cementless implants and determine whether either fixation technique offers a long-term advantage.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42025858/",
+      "score": 88,
+      "score_reasoning": "Retrospective cohort study in high-impact journal comparing cemented vs cementless TKA with excellent 5-year follow-up and large sample size (483 knees) addressing fundamental implant fixation question.",
+      "bullets": [
+        "Cementless and cemented TKA using the same implant design showed equivalent 5-year survivorship at 99.5% and 98.5% respectively in 483 patients.",
+        "No aseptic loosening occurred in either group, with similar rates of radiolucent lines (9.9% cementless vs 10.7% cemented) and no component subsidence.",
+        "Both fixation methods had low aseptic revision rates under 1%, suggesting cementless TKA performs as well as cemented in the short term."
+      ]
+    },
+    {
+      "pmid": "42008602",
+      "title": "Technology Assistance Mitigates the Volume-Dependent Risk of Hip Dislocation Following Total Hip Arthroplasty.",
+      "authors": [
+        "Iyer A",
+        "Telang SS",
+        "Culler MC",
+        "Yun AG",
+        "Oakes DA",
+        "Lieberman JR",
+        "Heckmann ND"
+      ],
+      "authors_short": "Iyer A, Telang SS, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Lower surgeon case-volume has been associated with a greater risk of postoperative complications such as dislocation following total hip arthroplasty (THA). However, robotic assistance and computer navigation may mitigate the volume-dependent risk of instability. This study sought to compare dislocation rates between lower-volume surgeons performing technology-assisted (TA) THAs and higher-volume surgeons utilizing conventional instrumentation (CI). METHODS: The Premier Healthcare Database was queried to identify adult patients who underwent primary elective THA from 2016 to 2023. Surgeons with <10% technology use formed the CI group, and surgeons with \u226590% technology use formed the TA group. These groups were further subdivided into higher-volume (HV) and lower-volume (LV) on the basis of surgeon annual case-volume, using a previously validated threshold of 109 cases/year. Mixed-effects modeling was used to compare the 90-day risk of dislocation between patients treated by low-volume surgeons using TA (LV-TA group) and high-volume surgeons using CI (HV-CI group). RESULTS: A total of 669,098 patients undergoing THA were identified. Of these, 5,447 patients were treated by LV-TA surgeons and 190,550, by HV-CI surgeons. Notably, LV-TA surgeons achieved a similar rate of dislocation compared with HV-CI surgeons (0.48% versus 0.42%, p = 0.510). After controlling for confounding factors, the risk of dislocation remained comparable between LV-TA and HV-CI surgeons (adjusted odds ratio: 1.062, 95% confidence interval: 0.677 to 1.668, p = 0.793). CONCLUSIONS: Surgeons with a lower case-volume who used technology assistance achieved a rate of dislocation similar to that of surgeons with a higher case-volume who used conventional instrumentation. These findings demonstrate that technology assistance, including computer navigation and robotic assistance, may attenuate the association between surgeon case-volume and dislocation risk following primary THA. LEVEL OF EVIDENCE: Therapeutic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42008602/",
+      "score": 86,
+      "score_reasoning": "Prospective study published in JBJS evaluating technology assistance in THA with large national database (669,098 patients) addressing surgeon volume-outcome relationship with novel findings on technology mitigation.",
+      "bullets": [
+        "Low-volume surgeons using robotic assistance or computer navigation achieved similar hip dislocation rates as high-volume surgeons using conventional instruments (0.48% vs 0.42%).",
+        "Technology assistance appears to eliminate the traditional volume-outcome relationship for hip instability in primary total hip arthroplasty.",
+        "Lower-volume orthopaedic surgeons may safely perform primary hip replacement when using robotic or navigation technology."
+      ]
+    },
+    {
+      "pmid": "42021740",
+      "title": "Platelet-rich plasma provides modest but durable functional benefit over corticosteroid for rotator cuff tendinopathy: A systematic review and meta-analysis of randomized controlled trials.",
+      "authors": [
+        "Yuwarungsikul C",
+        "Phisalaphong K",
+        "Thamrongskulsiri N",
+        "Limskul D",
+        "Tanpowpong T",
+        "Kuptniratsaikul S",
+        "Itthipanichpong T"
+      ],
+      "authors_short": "Yuwarungsikul C, Phisalaphong K, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To compare platelet-rich plasma (PRP) and corticosteroid (CS) injections in rotator cuff tendinopathy and partial-thickness tears. METHODS: A systematic review was conducted. Eligible studies were randomized controlled trials (RCTs) of adults (\u226518 years) with rotator cuff tendinopathy or partial tears comparing PRP with CS injections. Primary outcomes were pain, patient-reported outcome scores and adverse events. Random-effects meta-analyses were performed using mean difference (MD) or risk ratio (RR) with 95% confidence intervals (CIs). RESULTS: Ten RCTs (n\u2009=\u2009591) were included. At 3- to 6-week and 3-month follow-up, pain and patient-reported outcomes did not differ significantly between groups. At 6 months, PRP demonstrated clearer benefits. PRP improved American Shoulder and Elbow Surgeons score (ASES) (MD\u2009+\u200910.8, 95% CI: 4.71-16.80, p\u2009=\u20090.0005) and Constant-Murley score (CMS) (MD\u2009+\u200910.7, 95% CI: 1.21-20.27, p\u2009=\u20090.027). Pain reduction at 6 months favoured PRP (pain visual analogue scale [VAS] MD\u2009-0.8, 95% CI: -1.45 to -0.18, p\u2009=\u20090.012). PRP was associated with fewer adverse events (RR 0.66, 95% CI: 0.44-0.99, p\u2009=\u20090.047). CONCLUSIONS: PRP injections offer statistically significant, although clinically modest, improvements in pain and shoulder function compared with CS injections and are associated with fewer adverse events at 6 months. Taken together, these findings suggest that PRP may serve as a more durable treatment option for patients with rotator cuff tendinopathy. LEVEL OF EVIDENCE: Level I.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42021740/",
+      "score": 76,
+      "score_reasoning": "Systematic review and meta-analysis in high-impact journal examining PRP vs corticosteroid for rotator cuff tendinopathy with 10 RCTs, providing clinically actionable evidence for common condition.",
+      "bullets": [
+        "PRP injections show superior pain relief and functional scores compared to corticosteroid injections at 6 months in rotator cuff tendinopathy patients.",
+        "The clinical benefit is modest with 10-point improvements in ASES and Constant scores and 0.8-point VAS pain reduction favoring PRP over steroid.",
+        "PRP causes fewer adverse events than corticosteroid injections and provides more durable treatment effects for rotator cuff tendinopathy."
+      ]
+    },
+    {
+      "pmid": "42024297",
+      "title": "No differences between medial opening and lateral closing wedge high tibial osteotomies to correct coronal alignment or cumulative rates of conversion to knee arthroplasty: A systematic review with meta-analysis.",
+      "authors": [
+        "Pinto C",
+        "Gomes E",
+        "Valente C",
+        "Maier L",
+        "Delgado D",
+        "Sanchez M",
+        "Andrade R",
+        "Espregueira-Mendes J"
+      ],
+      "authors_short": "Pinto C, Gomes E, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: This systematic review with meta-analysis aimed to compare the accuracy correction of lateral closing wedge (LCW) and medial opening wedge (MOW) high tibial osteotomies (HTO) in patients with knee osteoarthritis (OA), and to evaluate the proportion of complications, reinterventions, revisions and conversion to knee arthroplasty. METHODS: PubMed, EMBASE and Web of Science were searched until April 2024 to identify studies reporting imaging measurements, complications, reinterventions, revisions, and conversion to knee arthroplasty after HTO for knee OA. Meta-analysis was performed to compare LCW and MOW. Meta-analyses are reported as mean differences (MD) for continuous outcomes, or proportions and risk ratio (RR) for dichotomous outcomes, with 95% confidence intervals (CI). RESULTS: A total of 103 studies (MOW, 43 studies; LCW, 33 studies; both techniques, 27 studies) were included comprising 12,200 knees from 11,472 patients (50.2% females, 52.4\u2009\u00b1\u20096.5 years old and 21.5\u2009\u00b1\u200912.2\u2009kg/m\u00b2). Imaging measurements identified no significant differences between LCW and MOW in coronal plane alignment. Posterior tibial slope (PTS) was significantly higher in MOW as compared to the LCW (MD\u2009=\u20093.72\u00b0, 95% confidence interval [CI] 2.31\u00b0-5.13\u00b0). Proportion of complications was high at 22.2% (95% CI 17.6%-27.0%) and the conversion to knee arthroplasty was 6.4% (95% CI 2.7%-11.3%) at 5 years, 13.8% (95% CI 7.8%-21.1%) at 10 years and 33.4% (95% CI 15.0%-54.6%) at 15 years. There were no differences between MOW and LCW in risk of complications or proportion of conversion to knee arthroplasty, but risk of revision was lower in MOW (RR\u2009=\u20090.34, 95% CI 0.19-0.61). CONCLUSIONS: The MOW and LCW were comparable to correct the lower limb coronal plane alignment, but the LCW was superior in reducing the PTS angle. Both techniques showed a similar risk profile for complications, reintervention and conversion to knee arthroplasty, but the MOW had a 66% lower risk for revision. LEVEL OF EVIDENCE: Level IV.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42024297/",
+      "score": 74,
+      "score_reasoning": "Comprehensive systematic review and meta-analysis of 103 studies (12,200 knees) comparing high tibial osteotomy techniques in KSSTA, providing definitive evidence on surgical technique selection.",
+      "bullets": [
+        "Both medial opening wedge and lateral closing wedge high tibial osteotomies achieve similar coronal alignment correction in knee osteoarthritis patients, though closing wedge better preserves posterior tibial slope.",
+        "High tibial osteotomy carries a 22% complication rate with conversion to arthroplasty rates of 6% at 5 years, 14% at 10 years, and 33% at 15 years regardless of technique used.",
+        "Medial opening wedge osteotomy has 66% lower revision risk compared to lateral closing wedge technique, though overall complication rates remain similar between approaches."
+      ]
+    },
+    {
+      "pmid": "42015681",
+      "title": "Return-to-Work and Clinical Outcomes After Anterior Latissimus Dorsi and Teres Major Tendon Transfer for Irreparable Subscapularis Tears.",
+      "authors": [
+        "Baek CH",
+        "Kim BT",
+        "Kim JG",
+        "Lim C",
+        "Kim SJ"
+      ],
+      "authors_short": "Baek CH, Kim BT, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Irreparable subscapularis tears represent a significant clinical challenge, especially in active patients aiming to preserve shoulder function. Anterior latissimus dorsi and teres major (LDTM) tendon transfer has been proposed to restore internal rotation and anterior shoulder stability; however, data on return-to-work (RTW) outcomes remain limited. PURPOSE/HYPOTHESIS: The study aimed to evaluate clinical outcomes and RTW rates after anterior LDTM transfer in patients with irreparable subscapularis tears, with the hypothesis that the procedure would provide favorable clinical results and a high RTW rate. STUDY DESIGN: Case series; Level of evidence, 4. METHODS: A retrospective review was conducted on patients who underwent LDTM transfer for irreparable subscapularis tears, with or without concomitant supraspinatus involvement. Inclusion criteria were irreparable subscapularis tears with medial tendon retraction and grade 3 or 4 fatty infiltration, without advanced glenohumeral arthritis. Exclusion criteria included prior bone surgery, incomplete follow-up, or loss to follow-up. Clinical assessment included patient-reported outcome measures, such as visual analog scale, American Shoulder and Elbow Surgeons form, Constant score, and Single Assessment Numeric Evaluation, as well as range of motion and strength. Tendon integrity was evaluated via magnetic resonance imaging, and RTW was assessed using structured questionnaires. Multivariable logistic regression was performed to identify factors influencing RTW. RESULTS: Of 215 patients, 189 were included after exclusions (126 male, 63 female; mean \u00b1 SD age, 64.4 \u00b1 6.7 years; follow-up, 43.4 \u00b1 17.1 months). Overall, 91.0% returned to work (58.2% complete, 32.8% partial), with lighter work groups achieving earlier and higher return rates. Clinical outcomes improved significantly across the cohort, including visual analog scale (4.9 \u00b1 1.1 to 1.9 \u00b1 1.2), American Shoulder and Elbow Surgeons form (49.4 \u00b1 10.0 to 72.9 \u00b1 14.0), Constant score (49.1 \u00b1 6.0 to 65.8 \u00b1 9.9), and Single Assessment Numeric Evaluation (48.7 \u00b1 9.4 to 73.8 \u00b1 13.9), as well as range of motion and strength. No significant differences were observed among work intensity groups. Tendon integrity and occupational work intensity were the strongest predictors of successful RTW. CONCLUSION: Anterior LDTM transfer is a reliable and effective treatment for patients with irreparable subscapularis tears, resulting in favorable clinical outcomes and high RTW rates. Overall, 91.0% of patients returned to work (58.2% complete, 32.8% partial) at a mean 5.4 \u00b1 1.5 months across all work levels. Lighter occupational demands and intact tendon integrity were strong predictors of successful RTW.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42015681/",
+      "score": 72,
+      "score_reasoning": "Systematic review and meta-analysis examining biceps tenotomy vs tenodesis with fragility index analysis in AJSM, providing important statistical robustness assessment of existing evidence.",
+      "bullets": [
+        "Anterior latissimus dorsi and teres major transfer for irreparable subscapularis tears achieved 91% return to work rate in 189 patients, with 58% returning to full duty.",
+        "All functional scores and range of motion improved significantly after surgery, with no difference in outcomes between light and heavy work groups.",
+        "Lighter occupational demands and intact tendon integrity after transfer were the strongest predictors of successful return to work."
+      ]
+    },
+    {
+      "pmid": "42015417",
+      "title": "Association Between Posterior Tibial Slope and Graft Survival in High-Risk Anterior Cruciate Ligament Reconstruction With Lateral Extra-articular Tenodesis.",
+      "authors": [
+        "Pineda T",
+        "Mazy D",
+        "Ramos-Rojas J",
+        "Cance N",
+        "Dan MJ",
+        "Demey G",
+        "Dejour DH"
+      ],
+      "authors_short": "Pineda T, Mazy D, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Posterior tibial slope (PTS) is a well-established anatomic risk factor for anterior cruciate ligament (ACL) graft failure. Lateral extra-articular tenodesis (LET) is increasingly used as an adjunctive procedure in high-risk patients to reduce rerupture rates; however, how its protective effect varies across the continuum of slope values remains insufficiently characterized. PURPOSE: To determine how PTS modifies the protective effect of LET in high-risk patients and to evaluate the influence of PTS on graft failure across different risk profiles. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: A retrospective cohort of 585 patients who underwent primary ACL reconstruction (ACLR) with hamstring tendon autografts between 2014 and 2017 was analyzed at a minimum follow-up of 6 years. Patients were nonrandomly allocated according to predefined clinical risk criteria into a low-risk group (isolated ACLR) and a high-risk group (ACLR + LET). A graft rerupture was defined clinically and confirmed by imaging. Multivariable logistic regression was used to assess the association between PTS and graft failure. Restricted cubic spline regression was also used to explore nonlinear relationships and identify slope ranges associated with low and high failure probabilities. RESULTS: PTS independently predicted a graft rerupture in both groups, with a stronger effect in the high-risk group (adjusted odds ratio, 1.63; P = .005) compared with the low-risk group (adjusted odds ratio, 1.21; P = .029). The relationship between PTS and graft failure was nonlinear. In the high-risk group, the lowest failure probabilities were observed within a PTS range of 5\u00b0 to 9\u00b0, below which the risk of failure plateaued. In contrast, PTS values exceeding 11\u00b0 to 12\u00b0 were associated with high failure probabilities in both groups. CONCLUSION: PTS was independently associated with graft failure in both groups. Although LET was associated with lower failure probabilities within a moderate slope range, increasing PTS values were linked to a progressively higher risk of reruptures in both groups. The association between a steeper slope and failure observed in the ACLR with LET group suggests that an elevated PTS may attenuate the relative protective effect of LET.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42015417/",
+      "score": 70,
+      "score_reasoning": "Association study of posterior tibial slope and graft survival in high-risk ACL reconstruction with LET in AJSM, addressing important anatomic risk factor with 585-patient cohort.",
+      "bullets": [
+        "Posterior tibial slope independently predicts ACL graft failure in both low-risk and high-risk patients, with stronger effect in high-risk patients.",
+        "The lowest graft failure rates occur with posterior tibial slope between 5-9 degrees, while slopes above 11-12 degrees carry high failure risk regardless of treatment.",
+        "Lateral extra-articular tenodesis provides less protection against graft failure as posterior tibial slope increases, suggesting steep slopes may limit LET effectiveness."
+      ]
+    },
+    {
+      "pmid": "42002958",
+      "title": "Interconnections Among Midfoot Joints and Accuracy of Ultrasound-Guided Injection: A Cadaveric Study.",
+      "authors": [
+        "Hattori S",
+        "Ono T",
+        "Gamble WG",
+        "Olawin A",
+        "Saggar R",
+        "Mangone PG",
+        "Smolinski P",
+        "Hogan MV"
+      ],
+      "authors_short": "Hattori S, Ono T, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Midfoot arthritis can cause substantial pain and disability. Intraarticular corticosteroid injections under fluoroscopic guidance into multiple midfoot joints are a common nonoperative treatment. Although recent radiologic studies have suggested interconnections among midfoot joints, comprehensive anatomic investigations remain limited. This cadaveric study aimed to (1) evaluate the accuracy of ultrasound-guided injection into the naviculocuneiform (NC) joint and (2) assess the dye distribution pattern to elucidate potential interconnections among midfoot joints. METHODS: Fourteen fresh frozen cadaveric feet (mean age, 57.2\u2009\u00b1\u200910.3\u2009years; all male) were examined. Using a 12-MHz portable ultrasound system, 1\u2009mL of 0.5% methylene blue was injected into the medial NC joint via an out-of-plane approach with the anterior tibial tendon and navicular tuberosity as landmarks. After 5 minutes, specimens were dissected to confirm intraarticular dye delivery and assess extension to adjacent joints. Two board-certified orthopaedic surgeons performed all procedures. RESULTS: Successful intraarticular injection into the NC joint was achieved in 13 of 14 specimens (92.9%). Two specimens with osteoarthritic changes and 1 with failed injection were excluded from distribution analysis. Among the remaining 11 specimens, dye spread from the NC joint to the medial intercuneiform (IC) and second to third tarsometatarsal (TMT) joints in 8 specimens (72.7%), with further extension to the fourth TMT joint in 5 (45.4%). In 3 specimens (27.3%), spread was limited by the medial IC joint. CONCLUSION: This cadaveric study shows high accuracy of ultrasound-guided injection into the NC joint and frequent communication with adjacent midfoot joints. These findings suggest that diagnostic injections under image guidance into a specific joint to localize pain generators within the midfoot may have limited diagnostic specificity. CLINICAL RELEVANCE: Ultrasound-guided injection into the naviculocuneiform joint demonstrates high accuracy. Diagnostic image-guided injections into a specific joint to localize pain generators within the midfoot may have limited diagnostic specificity.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42002958/",
+      "score": 60,
+      "score_reasoning": "Cohort study of isolated MPFL reconstruction in patients with increased femoral anteversion in AJSM with 52 patients, addressing specific indication for combined procedures.",
+      "bullets": [
+        "Ultrasound-guided injection into the naviculocuneiform joint achieved 93% accuracy in cadaveric specimens using anterior tibial tendon and navicular tuberosity as landmarks.",
+        "Dye injected into the naviculocuneiform joint spread to adjacent intercuneiform and tarsometatarsal joints in 73% of specimens, indicating frequent anatomic communication.",
+        "Diagnostic injections targeting specific midfoot joints may have limited value for localizing pain generators due to frequent dye spread between connected joints."
+      ]
+    },
+    {
+      "pmid": "42017678",
+      "title": "Autograft Versus Allograft in Pediatric Medial Patellofemoral Ligament Reconstruction: A Systematic Review.",
+      "authors": [
+        "Perez-Espina SM",
+        "Zirbes CF",
+        "Henriquez A",
+        "Amanah A",
+        "Luo EJ",
+        "Lau BC"
+      ],
+      "authors_short": "Perez-Espina SM, Zirbes CF, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Patellofemoral instability (PFI) is common in pediatric athletes, with up to 40% developing recurrent instability. Medial patellofemoral ligament (MPFL) reconstruction is commonly performed using either autograft or allograft tendon, but no comprehensive review has directly compared the outcomes between the 2 in pediatric patients. This systematic review evaluates patient-reported outcomes, return-to-sport (RTS) rates, and complications for autografts versus allografts. METHODS: Following PRISMA guidelines, 2 independent reviewers conducted a systematic review of PubMed. Studies reporting MPFL reconstruction in pediatric patients were included. Extracted variables included study characteristics, patient demographics, outcomes, RTS, complications, and revision rates. Statistical testing and meta-analysis were conducted. RESULTS: Twenty-three studies comprising 849 knees in 808 patients (57.8% female, average age 14.4\u00b11.5\u00a0y; mean follow-up duration of 46.2\u00b125.0\u00a0mo) were included. Autografts were utilized in 640 knees (619 patients) and allografts in 209 knees (189 patients). Kujala scores increased for both allograft and autograft patients, with significance in the autograft cohort (P<0.0001). Autograft patients experienced significant improvements in Lysholm scores (P=0.002) and VAS pain (P=0.01). Rates of RTS were similar between allograft and autograft (92.9% vs. 90.9%). However, significantly more allograft patients returned to sport at a level equal to or higher than preoperatively (90.9% vs. 71.2%, P=0.0002). The rate of recurrent dislocation was 5.5% in autograft patients and 9.1% in allograft patients, with no significant difference (P=0.07). CONCLUSION: Patient-reported outcomes and recurrent dislocation rates appear comparable between allograft and autograft for pediatric patients undergoing MPFL reconstruction. Rates of return to sport were high in both cohorts, and limited data suggest that patients with allografts may return at equal or higher levels more frequently than autograft patients. Given sparse data, particularly on allograft patients, generalizability is limited. Further prospective studies are needed to investigate the relative risks and benefits of graft choice in this population. LEVEL OF EVIDENCE: Level III-systematic review.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42017678/",
+      "score": 56,
+      "score_reasoning": "Systematic review examining autograft vs allograft in pediatric MPFL reconstruction with 849 knees, addressing important graft selection question in growing population with specialized considerations.",
+      "bullets": [
+        "Patient-reported outcomes and recurrent dislocation rates are similar between autograft and allograft MPFL reconstruction in pediatric patients aged 14 years on average.",
+        "Return to sport rates are high for both graft types (91% autograft, 93% allograft), but more allograft patients return at their previous competition level or higher.",
+        "Recurrent dislocation occurs in 5.5% of autograft cases versus 9.1% of allograft cases, though this difference is not statistically significant."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-04-24T07:56:15.080100-07:00"
+}
