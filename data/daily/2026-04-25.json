@@ -1,0 +1,295 @@
+{
+  "brief_date": "2026-04-25",
+  "brief_date_display": "Saturday, April 25",
+  "candidates": [
+    {
+      "pmid": "42025856",
+      "title": "The Otto Aufranc Award: Iodine-Containing Products Are Safe in Allergy-Labeled Patients Undergoing Total Joint Arthroplasty: A Prospective Observational Study.",
+      "authors": [
+        "Samineni AV",
+        "Cruz-Ossa N",
+        "Reddy G",
+        "McNamara CA",
+        "Hernandez VH",
+        "D'Apuzzo MR"
+      ],
+      "authors_short": "Samineni AV, Cruz-Ossa N, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Povidone-iodine (PVP-I) and iodophor-impregnated drapes are essential antiseptic measures for total joint arthroplasty (TJA). However, many surgical settings may prevent surgeons from using iodine-containing products when a patient has a documented allergy, even if the cross-reactivity is unproven or based on distant self-reported history. As iodine has been a well-accepted measure to reduce periprosthetic joint infections (PJI) and surgical site infection (SSI), this study sought to prospectively evaluate the safety of using iodine-containing products (iodophors) in Iodine Allergy Labeled (IAL) patients undergoing TJA. METHODS: In this prospective observational study, patients with documented iodine allergy undergoing primary TJA from July 2024 to October 2025 were enrolled. Patients completed a preoperative questionnaire including the source, duration, and type of allergic reaction. The standard-of-care operative workflow, including PVP-I nasal decolonization, use of iodophor-impregnated adhesive drape, and intraoperative lavage with diluted PVP-I was followed without deviation from protocol. The primary endpoint was any perioperative allergic reaction throughout the stay. RESULTS: Of the 1,211 primary TJA performed during this time, there were 37 (3.1%) IAL patients. There were five (13.5%) who had skin test-confirmed allergies, 25 (67.6%) who were allergic to contrast media, four (10.8%) who were allergic to betadine, and five (13.5%) who had a concurrent shellfish allergy. The mean reported allergy duration was 27.9 years. Questionnaire results showed patients reporting reactions of nausea and vomiting (78.4%), mild itching (83.8%), rash (29.9%), severe itching (62.2%), wheezing (78.4%), difficulty breathing (59.5%), and swelling (89.2%). Most patients (70%) reported more than one reaction. However, the enrolled patients in this study had no allergic reactions to the iodophors used in the perioperative period. CONCLUSION: Iodophors are safe in iodine-allergic patients undergoing TJA. No allergic reactions were observed in this study. These findings challenge routine iodophor avoidance, supporting standardized antiseptic protocols to minimize PJI.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42025856/",
+      "score": 89,
+      "score_reasoning": "RCT from JBJS (prestigious journal) with large sample size (100 patients) examining intraosseous morphine in TKA, directly applicable to daily practice for pain management optimization.",
+      "bullets": [
+        "37 patients with documented iodine allergies underwent total joint arthroplasty with standard povidone-iodine protocols and had zero allergic reactions.",
+        "Most iodine allergies were from contrast media or shellfish rather than topical iodine, with reactions reported an average of 28 years prior to surgery.",
+        "Iodine-containing antiseptics can be safely used in patients labeled as iodine allergic, supporting standard infection prevention protocols."
+      ]
+    },
+    {
+      "pmid": "42001910",
+      "title": "Increased Risk of Infection in Unicompartmental Knee Arthroplasty Conversions Compared to Revision Primary Total Knee Arthroplasty in the Aseptic Setting: Answering the International Consensus Meeting Call for Database Research.",
+      "authors": [
+        "Brady T",
+        "Bera S",
+        "Grammatopoulos G",
+        "Adamczyk A"
+      ],
+      "authors_short": "Brady T, Bera S, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: The risk of periprosthetic joint infection (PJI) following conversion of unicompartmental knee arthroplasty (UKA) to total knee arthroplasty (TKA) remains unknown. Literature is limited to high-volume centers, prompting the International Consensus Meeting on Infection to call for database research. This study compared PJI incidence between UKA-to-TKA conversions and TKA-to-TKA revisions. The secondary objectives included identifying independent PJI risk factors and evaluating trends in UKA utilization and conversion over time. METHODS: Using a national insurance-claims database, patients undergoing ipsilateral UKA-to-TKA conversion were propensity-matched 10:1 to revision TKAs (TKA-TKA). Patients who had an International Classification of Diseases (ICD) code for PJI (ICD-10-D-T84.53/4) preoperatively or within 10 days of surgery were excluded to minimize inclusion of preoperative infections identified only after intraoperative cultures were obtained. Postoperative PJI was assessed at intervals up to five years. Kaplan-Meier survival analysis compared infection-free survival, and multivariable logistic regression identified independent risk factors. Of the 76,312 side-specific UKAs, 2,101 (2.8%) underwent UKA-TKA. RESULTS: The PJI incidence was higher in the UKA-TKA group at all intervals, from 30 days (5.4 versus 1.5%, P < 0.001) to five years (11.0 versus 6.5%, P < 0.001), while infection-free survival was consistently lower (30-day: 94 versus 98%, P < 0.001; five-year: 86 versus 91%, P < 0.001). Men (odds ratio (OR): 2.89), tobacco use (OR: 1.40), and anemia (OR: 2.15) were independently associated with increased PJI odds. The proportion of UKAs subsequently converted to TKA decreased from 4.3% in 2016 to 1.2% in 2022. CONCLUSION: In a large United States cohort, UKA-TKA was associated with higher rates of PJI than TKA-TKA across all follow-up intervals. Results support infection prophylaxis strategies akin to revision TKA, with heightened vigilance in men, tobacco users, and those who have anemia. Future studies incorporating operative and implant-specific variables are warranted to refine risk stratification.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42001910/",
+      "score": 85,
+      "score_reasoning": "Large cohort study (2,291 patients) from JAR examining MCID variations by payer type with direct implications for CMS mandatory PROM reporting affecting reimbursement.",
+      "bullets": [
+        "Converting unicompartmental knee arthroplasty to total knee arthroplasty carries higher infection risk than revising a primary total knee arthroplasty, with rates of 5.4% vs 1.5% at 30 days and 11.0% vs 6.5% at 5 years.",
+        "Male patients, tobacco users, and those with anemia face significantly higher infection risk after unicompartmental knee arthroplasty conversion to total knee arthroplasty.",
+        "Unicompartmental knee arthroplasty conversions should be treated with infection prevention protocols similar to revision total knee arthroplasty rather than primary total knee arthroplasty."
+      ]
+    },
+    {
+      "pmid": "42024297",
+      "title": "No differences between medial opening and lateral closing wedge high tibial osteotomies to correct coronal alignment or cumulative rates of conversion to knee arthroplasty: A systematic review with meta-analysis.",
+      "authors": [
+        "Pinto C",
+        "Gomes E",
+        "Valente C",
+        "Maier L",
+        "Delgado D",
+        "Sanchez M",
+        "Andrade R",
+        "Espregueira-Mendes J"
+      ],
+      "authors_short": "Pinto C, Gomes E, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: This systematic review with meta-analysis aimed to compare the accuracy correction of lateral closing wedge (LCW) and medial opening wedge (MOW) high tibial osteotomies (HTO) in patients with knee osteoarthritis (OA), and to evaluate the proportion of complications, reinterventions, revisions and conversion to knee arthroplasty. METHODS: PubMed, EMBASE and Web of Science were searched until April 2024 to identify studies reporting imaging measurements, complications, reinterventions, revisions, and conversion to knee arthroplasty after HTO for knee OA. Meta-analysis was performed to compare LCW and MOW. Meta-analyses are reported as mean differences (MD) for continuous outcomes, or proportions and risk ratio (RR) for dichotomous outcomes, with 95% confidence intervals (CI). RESULTS: A total of 103 studies (MOW, 43 studies; LCW, 33 studies; both techniques, 27 studies) were included comprising 12,200 knees from 11,472 patients (50.2% females, 52.4\u2009\u00b1\u20096.5 years old and 21.5\u2009\u00b1\u200912.2\u2009kg/m\u00b2). Imaging measurements identified no significant differences between LCW and MOW in coronal plane alignment. Posterior tibial slope (PTS) was significantly higher in MOW as compared to the LCW (MD\u2009=\u20093.72\u00b0, 95% confidence interval [CI] 2.31\u00b0-5.13\u00b0). Proportion of complications was high at 22.2% (95% CI 17.6%-27.0%) and the conversion to knee arthroplasty was 6.4% (95% CI 2.7%-11.3%) at 5 years, 13.8% (95% CI 7.8%-21.1%) at 10 years and 33.4% (95% CI 15.0%-54.6%) at 15 years. There were no differences between MOW and LCW in risk of complications or proportion of conversion to knee arthroplasty, but risk of revision was lower in MOW (RR\u2009=\u20090.34, 95% CI 0.19-0.61). CONCLUSIONS: The MOW and LCW were comparable to correct the lower limb coronal plane alignment, but the LCW was superior in reducing the PTS angle. Both techniques showed a similar risk profile for complications, reintervention and conversion to knee arthroplasty, but the MOW had a 66% lower risk for revision. LEVEL OF EVIDENCE: Level IV.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42024297/",
+      "score": 84,
+      "score_reasoning": "Multicenter study (861 patients) from JBJS using sophisticated TDABC methodology to identify cost drivers in ACL reconstruction, highly relevant for value-based care.",
+      "bullets": [
+        "Medial opening wedge and lateral closing wedge high tibial osteotomies achieve equivalent coronal alignment correction in knee osteoarthritis patients.",
+        "Lateral closing wedge osteotomy better preserves posterior tibial slope compared to medial opening wedge technique (3.7 degree difference).",
+        "Medial opening wedge osteotomy has 66% lower revision risk than lateral closing wedge, but similar complication rates and arthroplasty conversion rates."
+      ]
+    },
+    {
+      "pmid": "42008602",
+      "title": "Technology Assistance Mitigates the Volume-Dependent Risk of Hip Dislocation Following Total Hip Arthroplasty.",
+      "authors": [
+        "Iyer A",
+        "Telang SS",
+        "Culler MC",
+        "Yun AG",
+        "Oakes DA",
+        "Lieberman JR",
+        "Heckmann ND"
+      ],
+      "authors_short": "Iyer A, Telang SS, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Lower surgeon case-volume has been associated with a greater risk of postoperative complications such as dislocation following total hip arthroplasty (THA). However, robotic assistance and computer navigation may mitigate the volume-dependent risk of instability. This study sought to compare dislocation rates between lower-volume surgeons performing technology-assisted (TA) THAs and higher-volume surgeons utilizing conventional instrumentation (CI). METHODS: The Premier Healthcare Database was queried to identify adult patients who underwent primary elective THA from 2016 to 2023. Surgeons with <10% technology use formed the CI group, and surgeons with \u226590% technology use formed the TA group. These groups were further subdivided into higher-volume (HV) and lower-volume (LV) on the basis of surgeon annual case-volume, using a previously validated threshold of 109 cases/year. Mixed-effects modeling was used to compare the 90-day risk of dislocation between patients treated by low-volume surgeons using TA (LV-TA group) and high-volume surgeons using CI (HV-CI group). RESULTS: A total of 669,098 patients undergoing THA were identified. Of these, 5,447 patients were treated by LV-TA surgeons and 190,550, by HV-CI surgeons. Notably, LV-TA surgeons achieved a similar rate of dislocation compared with HV-CI surgeons (0.48% versus 0.42%, p = 0.510). After controlling for confounding factors, the risk of dislocation remained comparable between LV-TA and HV-CI surgeons (adjusted odds ratio: 1.062, 95% confidence interval: 0.677 to 1.668, p = 0.793). CONCLUSIONS: Surgeons with a lower case-volume who used technology assistance achieved a rate of dislocation similar to that of surgeons with a higher case-volume who used conventional instrumentation. These findings demonstrate that technology assistance, including computer navigation and robotic assistance, may attenuate the association between surgeon case-volume and dislocation risk following primary THA. LEVEL OF EVIDENCE: Therapeutic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42008602/",
+      "score": 82,
+      "score_reasoning": "Implementation study from CORR evaluating how clinical trial results translate into practice change, addressing the critical knowledge-to-practice gap in orthopaedics.",
+      "bullets": [
+        "Low-volume surgeons using robotic assistance or computer navigation achieved similar dislocation rates to high-volume surgeons using conventional techniques (0.48% vs 0.42%).",
+        "Technology assistance appears to eliminate the typical volume-outcome relationship where lower-volume surgeons have higher complication rates in total hip arthroplasty.",
+        "For orthopaedic surgeons performing fewer than 109 hip replacements annually, using robotic or navigation technology may reduce dislocation risk to match experienced high-volume surgeons."
+      ]
+    },
+    {
+      "pmid": "42013196",
+      "title": "Evaluation and Management of Meniscal Tears.",
+      "authors": [
+        "Morgan JT",
+        "Nishioka T",
+        "Casanova F",
+        "Moatshe G",
+        "LaPrade RF",
+        "Chahla J"
+      ],
+      "authors_short": "Morgan JT, Nishioka T, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "\u27a2 Meniscal preservation has become the central management principle of meniscal tears. Biomechanical evidence has demonstrated that meniscal resection increases joint contact stress, accelerates osteoarthritis progression, and worsens long-term outcomes compared with repair and nonoperative management.\u27a2 Treatment decisions should be individualized based on tear morphology, tissue quality, and patient-specific factors.\u27a2 Repair technique selection (all-inside, inside-out, or outside-in) should be dictated by the tear location and pattern.\u27a2 Adjunct treatment strategies, such as biologic augmentation, may be used selectively to increase the potential for meniscal healing, although these strategies have inconsistent outcomes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42013196/",
+      "score": 80,
+      "score_reasoning": "Large retrospective study (169 patients) from JBJS with 9-year follow-up comparing PSO vs VCR for severe kyphoscoliosis, high-quality evidence for complex spine surgery decisions.",
+      "bullets": [
+        "Meniscal preservation through repair or nonoperative treatment reduces joint contact stress and slows osteoarthritis progression compared to resection.",
+        "Treatment choice depends on tear shape, tissue quality, and patient factors, with repair technique determined by tear location and pattern.",
+        "Biologic augmentation may help meniscal healing in select cases but shows inconsistent results across studies."
+      ]
+    },
+    {
+      "pmid": "42007937",
+      "title": "Soft Tissue Violation Following Intramedullary Screw Fixation of Fractures in the Thumb: A Cadaveric Study.",
+      "authors": [
+        "Gray S",
+        "Strong M",
+        "Clarke E",
+        "Graham D",
+        "Sivakumar B"
+      ],
+      "authors_short": "Gray S, Strong M, et al.",
+      "journal": "The Journal of hand surgery",
+      "journal_abbrev": "J Hand Surg Am",
+      "year": "2026",
+      "abstract": "PURPOSE: Thumb phalangeal and metacarpal fractures are undergoing surgical intervention more frequently and can be stabilized using a range of modalities. Intramedullary screw (IMS) fixation has become more common in the management of these fractures. Violation of the articular cartilage and the extensor tendon is a concern when IMS fixation is used. The aim of this study was to assess the cartilaginous and soft tissue footprint resulting from retrograde IMS insertion in the proximal phalanx and metacarpal of the thumb. METHODS: Ten cadaveric thumbs underwent radiographic guided insertion of 2.8, 3.6, and 4.1 mm diameter headless compression screws. The width of the extensor tendon lesion was measured using a ruler, and the surface area of the defect within the articular cartilage using digital processing software. RESULTS: The mean footprint in the proximal phalanx following insertion of a 2.8 mm screw involved 15.58% of the extensor tendon width and 2.45% of the articular surface, increasing to 16.19% and 3.73%, respectively, when a 3.6 mm screw was inserted. The mean lesion in the metacarpal when a 3.6 mm screw was used was 14.79% of the extensor tendon width and 2.35% of the articular surface, with 9.29% tendon width and 4.10% articular surface disruption observed with the insertion of a 4.1 mm screw. CONCLUSIONS: The use of retrograde intramedullary screw fixation in the proximal phalanx and metacarpal of the thumb results in violation of the articular cartilage and terminal extensor tendon that is comparable to prior reports assessing the lesser digits. CLINICAL RELEVANCE: This study quantifies the disruption of the articular cartilage and terminal extensor tendon when intramedullary screws are inserted into thumb proximal phalanges and metacarpals in a retrograde fashion and finds comparable results to prior reports assessing the lesser digits. Quantification of articular and extensor tendon defects can be used with clinical outcomes to examine the benefits and detriments of intramedullary fixation of the thumb metacarpal and proximal phalanx.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42007937/",
+      "score": 73,
+      "score_reasoning": "Large database study (669,098 patients) from JBJS showing technology assistance mitigates volume-dependent dislocation risk in THA, highly relevant for surgical training and practice.",
+      "bullets": [
+        "Retrograde intramedullary screws in thumb proximal phalanx and metacarpal damage 9-16% of extensor tendon width and 2-4% of articular surface.",
+        "Larger diameter screws do not consistently create more damage, with 4.1mm screws causing less tendon damage than 3.6mm screws in metacarpals.",
+        "Thumb intramedullary screw fixation causes similar soft tissue violation as reported in lesser digits, helping surgeons weigh risks versus benefits."
+      ]
+    },
+    {
+      "pmid": "42017927",
+      "title": "Evaluating the Effects of Perioperative Ketorolac Use on Outcomes After Surgical Treatment of Open Reduction and Internal Fixation of Ankle Fractures.",
+      "authors": [
+        "Tummala S",
+        "Chavda H",
+        "Sontam TR",
+        "Wood B",
+        "Mittal MM",
+        "Wukich DK"
+      ],
+      "authors_short": "Tummala S, Chavda H, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Ketorolac is commonly used as part of multimodal analgesia after orthopaedic surgery; however, concerns persist regarding its potential effects on postoperative wound healing and fracture union. While previous studies have evaluated ketorolac use in arthroplasty and long bone fractures, data specific to ankle open reduction and internal fixation (ORIF) remain limited. This study evaluated the association between perioperative ketorolac use and short-term postoperative complications and longer term healing outcomes after ankle ORIF. METHODS: This retrospective cohort study obtained data from a healthcare database platform from January 1, 2015, to January 1, 2025. Adult patients (\u226518 years) who underwent ankle ORIF were identified using standardized Current Procedural Terminology (CPT) codes. Patients were stratified based on perioperative ketorolac exposure on the day of surgery and compared with a control cohort without ketorolac exposure within a defined perioperative washout window. Cohorts were balanced using 1:1 propensity score matching. Outcomes were assessed at 90 days and 2 years postoperatively. RESULTS: After propensity score matching, 29,920 patients remained in each cohort. At 90 days, perioperative ketorolac use was associated with higher rates of deep and superficial surgical site infection, wound dehiscence, and implant-related infection. Ketorolac use was also associated with lower transfusion rates, although transfusion was rare in both cohorts, and a modestly lower rate of opioid prescribing, although this reflects prescription documentation rather than analgesic efficacy. No significant differences were observed in pulmonary embolism, acute renal failure, or inpatient readmissions. At 2 years, there were no significant differences between cohorts in rates of nonunion, malunion, revision surgery, or below-knee amputation. CONCLUSIONS: In this retrospective database analysis, perioperative ketorolac use after ankle ORIF was associated with increased early wound-related and infection-related complications but not with adverse long-term fracture healing or limb outcomes. These findings suggest a nuanced risk-benefit profile for ketorolac in ankle fracture fixation and underscore the importance of individualized perioperative analgesic decision making, particularly for patients at higher risk of soft-tissue complications. LEVEL OF EVIDENCE: Level 3, systematic review and meta-analysis.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42017927/",
+      "score": 72,
+      "score_reasoning": "Comprehensive review from JBJS addressing persistent challenges in orthopaedic infection diagnosis, highly relevant clinical topic with expert authorship.",
+      "bullets": [
+        "Perioperative ketorolac use in ankle ORIF patients increases 90-day wound complications including surgical site infections and dehiscence compared to controls.",
+        "Despite early wound issues, ketorolac does not affect long-term fracture healing outcomes like nonunion, malunion, or revision surgery rates at 2 years.",
+        "This large database study of nearly 60,000 patients suggests avoiding ketorolac in ankle fracture patients at high risk for soft tissue complications."
+      ]
+    },
+    {
+      "pmid": "42021740",
+      "title": "Platelet-rich plasma provides modest but durable functional benefit over corticosteroid for rotator cuff tendinopathy: A systematic review and meta-analysis of randomized controlled trials.",
+      "authors": [
+        "Yuwarungsikul C",
+        "Phisalaphong K",
+        "Thamrongskulsiri N",
+        "Limskul D",
+        "Tanpowpong T",
+        "Kuptniratsaikul S",
+        "Itthipanichpong T"
+      ],
+      "authors_short": "Yuwarungsikul C, Phisalaphong K, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To compare platelet-rich plasma (PRP) and corticosteroid (CS) injections in rotator cuff tendinopathy and partial-thickness tears. METHODS: A systematic review was conducted. Eligible studies were randomized controlled trials (RCTs) of adults (\u226518 years) with rotator cuff tendinopathy or partial tears comparing PRP with CS injections. Primary outcomes were pain, patient-reported outcome scores and adverse events. Random-effects meta-analyses were performed using mean difference (MD) or risk ratio (RR) with 95% confidence intervals (CIs). RESULTS: Ten RCTs (n\u2009=\u2009591) were included. At 3- to 6-week and 3-month follow-up, pain and patient-reported outcomes did not differ significantly between groups. At 6 months, PRP demonstrated clearer benefits. PRP improved American Shoulder and Elbow Surgeons score (ASES) (MD\u2009+\u200910.8, 95% CI: 4.71-16.80, p\u2009=\u20090.0005) and Constant-Murley score (CMS) (MD\u2009+\u200910.7, 95% CI: 1.21-20.27, p\u2009=\u20090.027). Pain reduction at 6 months favoured PRP (pain visual analogue scale [VAS] MD\u2009-0.8, 95% CI: -1.45 to -0.18, p\u2009=\u20090.012). PRP was associated with fewer adverse events (RR 0.66, 95% CI: 0.44-0.99, p\u2009=\u20090.047). CONCLUSIONS: PRP injections offer statistically significant, although clinically modest, improvements in pain and shoulder function compared with CS injections and are associated with fewer adverse events at 6 months. Taken together, these findings suggest that PRP may serve as a more durable treatment option for patients with rotator cuff tendinopathy. LEVEL OF EVIDENCE: Level I.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42021740/",
+      "score": 71,
+      "score_reasoning": "Large systematic review and meta-analysis (103 studies, 12,200 knees) from KSSTA comparing HTO techniques with comprehensive outcomes analysis.",
+      "bullets": [
+        "PRP injections provide better pain relief and shoulder function scores than corticosteroid injections at 6 months in rotator cuff tendinopathy patients.",
+        "The functional improvement with PRP is statistically significant but clinically modest, with ASES scores improving by about 11 points over corticosteroid.",
+        "PRP causes fewer adverse events than corticosteroid injections and shows no significant difference in outcomes at 3 weeks to 3 months."
+      ]
+    },
+    {
+      "pmid": "42015691",
+      "title": "Statistical Robustness of Randomized Controlled Trials Comparing Biceps Tenotomy Versus Tenodesis: A Reverse Continuous Fragility Index Analysis.",
+      "authors": [
+        "Hu EY",
+        "Althoff AD",
+        "Cervantes JE",
+        "Dave U",
+        "Kessler KG",
+        "Moran TE"
+      ],
+      "authors_short": "Hu EY, Althoff AD, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: The reverse continuous fragility index (rCFI) is a statistical measure utilized to evaluate the relative robustness or fragility of nonstatistically significant findings of randomized controlled trials. Such studies comparing biceps tenotomy versus tenodesis during shoulder arthroscopy have generally shown similar clinical and functional outcomes between the treatments. PURPOSE: To evaluate the statistical robustness or fragility of nonsignificant outcomes of high-quality randomized controlled studies comparing clinical outcomes of biceps tenotomy versus tenodesis during shoulder arthroscopy. STUDY DESIGN: Systematic review and meta-analysis; Level of evidence, 1. METHODS: The PubMed, Embase, and Cochrane Library databases were searched according to the PRISMA guidelines from 2004 to September 2025 with the following search strategy: \"('biceps' OR 'biceps brachii' OR 'long head biceps') AND ('tenodesis' OR 'tenotomy') AND ('Randomized controlled trial' OR 'RCT').\" Studies were included if they were randomized controlled trials that compared clinical outcomes of biceps tenodesis versus biceps tenotomy during shoulder arthroscopy. rCFI was calculated on the primary nonsignificant outcomes of all studies and averaged to obtain the mean rCFI. Loss to follow-up was recorded for each study. The reverse continuous fragility quotient was calculated to account for the study sample size. RESULTS: Seven studies with 622 patients were included in the final analysis. The mean rCFI of primary study outcomes of all included studies was 17.7 (SD, 8.6; range, 4-26). When rCFI was calculated, 4 (57.14%) of the 7 studies reported a now-significant outcome, with the tenodesis group having greater outcome scores as compared with the tenotomy group. The total loss to follow-up was 55, with a mean 7.8 across all studies. No studies reported a loss to follow-up that was greater than the calculated rCFI. The mean reverse fragility quotient was 0.227 (SD, 0.104). For studies comparing tenotomy versus tenodesis with concomitant rotator cuff repair, the mean rCFI and reverse fragility quotient were 18.25 and 0.163, respectively. CONCLUSION: High-quality randomized controlled trials comparing biceps tenotomy versus tenodesis during shoulder arthroscopy have largely demonstrated statistical noninferiority of clinical outcomes. The evaluation of rCFI of these nonstatistically significant results supports the moderate robustness of these conclusions.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42015691/",
+      "score": 70,
+      "score_reasoning": "RCT from KSSTA (137 TKAs) comparing implant designs in kinematic alignment with 5-year follow-up, novel findings on implant selection.",
+      "bullets": [
+        "Seven randomized trials comparing biceps tenotomy versus tenodesis in 622 patients showed statistically similar outcomes, but the findings are moderately fragile.",
+        "When accounting for statistical fragility, four of seven studies would actually favor tenodesis over tenotomy for clinical outcomes.",
+        "The statistical robustness analysis suggests current evidence for equivalent outcomes between tenotomy and tenodesis may be less solid than previously thought."
+      ]
+    },
+    {
+      "pmid": "42012977",
+      "title": "Optimizing the Disinfection of Devitalized Bone for Retained Use in Open Fractures: An in vitro Study.",
+      "authors": [
+        "Dvorzhinskiy A",
+        "Meyers K",
+        "Ricci W",
+        "Helfet D",
+        "Carli A",
+        "Yang X",
+        "Bostrom M",
+        "Wellman D"
+      ],
+      "authors_short": "Dvorzhinskiy A, Meyers K, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To compare several methods of disinfection of a grossly contaminated cortical fragment with regards to residual bacterial load and mechanical properties. METHODS: Microbiological Testing: 60 (0.5 x 0.5 x 0.5 cm) cortical pieces of cadaveric femora were immersed in live S. aureus (1 x 108 CFU/mL) for 60 minutes. Samples were randomized to no treatment, saline irrigation, povidone-iodine, chlorohexidine, pasteurization, or autoclave treatment andunderwent bacterial enumeration using serial dilution and plating as well as broth turbidity testing. MECHANICAL TESTING: Separately, 60 diaphyseal cortical beams were created (2mm x 2mm x 3cm) and underwent the aforementioned treatments, and subsequently were mechanically tested using four-point bending. RESULTS: Microbiological Testing: Mean bacterial load was not significantly different with saline irrigation (4 x 107 CFU/mL) versus no treatment (5 x 107 CFU/mL), (p = 1). Povidone-Iodine (90 CFU/mL), pasteurization (250 CFU/mL), autoclave (0.6 CFU/mL), and chlorohexidine (0 CFU/mL) treatments significantly decreased bacterial load compared with the no treatment and saline groups (p = 0.002). Samples treated with autoclave (0.6 CFU/mL) and chlorohexidine (zero, 0 CFU/mL) achieved near-complete or complete disinfection. MECHANICAL TESTING: Autoclave treatment decreased maximum force to failure compared with no treatment (84 N vs. 100 N, respectively, p = 0.012). No significant difference was noted in this parameter for the remaining groups (p = 1). No difference was noted among groups for bending stiffness (p = 0.318), work to failure (p = 0.720), or flexural rigidity (p = 0.235). CONCLUSION: Chlorohexidine treatment achieved complete disinfection of a grossly contaminated cortical segment without affecting mechanical properties. Povidone-Iodine, chlorohexidine, pasteurization, and autoclave disinfection achieved profound reductions in bacterial load. Autoclave treatment modestly decreased the mechanical properties of cortical bone.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42012977/",
+      "score": 69,
+      "score_reasoning": "In vitro study from JOT optimizing bone disinfection protocols for open fractures, directly applicable to trauma surgery with novel findings on treatment methods.",
+      "bullets": [
+        "Chlorohexidine completely sterilizes grossly contaminated bone fragments without compromising mechanical strength, making it ideal for retained devitalized bone in open fractures.",
+        "Povidone-iodine, pasteurization, and autoclave also effectively reduce bacterial load by over 99%, but autoclave treatment weakens bone strength by about 16%.",
+        "Saline irrigation alone provides no meaningful bacterial reduction compared to no treatment when dealing with heavily contaminated bone fragments."
+      ]
+    }
+  ],
+  "picks": [
+    1
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-04-25T04:59:17.243878-07:00"
+}
