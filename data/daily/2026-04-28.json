@@ -1,0 +1,299 @@
+{
+  "brief_date": "2026-04-28",
+  "brief_date_display": "Tuesday, April 28",
+  "candidates": [
+    {
+      "pmid": "42036089",
+      "title": "The One-Year Infection Rates After Vancomycin Powder and Dilute Povidone-Iodine Lavage in High-Risk Primary Total Joint Arthroplasty: A Multicenter Randomized Controlled Trial.",
+      "authors": [
+        "Saba BV",
+        "Long WJ",
+        "Higuera CA",
+        "Dundon J",
+        "Cooper HJ",
+        "Dennis DA",
+        "Chen AF",
+        "Schwarzkopf R"
+      ],
+      "authors_short": "Saba BV, Long WJ, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Given the severe morbidity, mortality, and substantial cost of periprosthetic joint infection (PJI), substantial research has been conducted to compare peri- and postoperative infection-prevention strategies. To our knowledge, there are no studies to date that have evaluated the one-year efficacy of intraoperative vancomycin powder and/or dilute povidone-iodine (DPI) lavage versus saline lavage in total joint arthroplasty. We previously reported no significant group differences at three months in a large multicenter randomized controlled trial. The present study reports 1-year outcomes of the same cohort. METHODS: In this prospective, multicenter trial, 2,053 high-risk patients undergoing primary, unilateral total hip arthroplasty (THA) or total knee arthroplasty (TKA) were randomized to one of four intraoperative protocols: vancomycin powder, DPI, VPIP (combination), or saline lavage control. The primary outcome was 1-year PJI resulting in septic revision surgery. Analyses were conducted on a per-protocol basis using Chi-square tests stratified by procedure. At one year, complete follow-up was available for 798 THA and 1,032 TKA patients after accounting for withdrawals, loss to follow-up, and nine unrelated deaths. RESULTS: In the THA cohort, PJI occurred in 0.5% of vancomycin patients, 1.7% of iodine patients, 1.9% of VPIP patients, and 1.1% of saline patients (P = 0.62). In the TKA cohort, PJI occurred in 1.6% of vancomycin patients, none of the iodine patients, 2.0% of VPIP patients, and 0.4% of saline patients (P = 0.05). There were no significant differences between study groups at zero to three months (P = 0.14 for THA, P = 0.13 for TKA), three to 12 months (P = 0.67 for THA, P = 0.80 for TKA), or combined zero to 12 months (P = 0.62 for THA, P = 0.05 for TKA). CONCLUSIONS: There were no significant differences in 1-year PJI rates observed across prophylactic strategies in high-risk primary THA or TKA. These findings suggest that intraoperative antiseptic and antibiotic protocols may have limited influence on longer-term outcomes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42036089/",
+      "score": 95,
+      "score_reasoning": "High-impact RCT from Journal of Arthroplasty with large sample size (2,053 patients) comparing infection prevention strategies in primary TJA with direct clinical applicability for reducing PJI.",
+      "bullets": [
+        "Vancomycin powder and dilute povidone-iodine lavage showed no infection reduction compared to saline in 1,830 high-risk primary hip and knee replacements at one year.",
+        "Overall infection rates were low across all groups, ranging from 0.4% to 2.0% in both hip and knee patients regardless of intraoperative protocol used.",
+        "Intraoperative antiseptic protocols appear to have minimal impact on preventing late periprosthetic infections beyond three months in high-risk arthroplasty patients."
+      ]
+    },
+    {
+      "pmid": "42012977",
+      "title": "Optimizing the Disinfection of Devitalized Bone for Retained Use in Open Fractures: An in vitro Study.",
+      "authors": [
+        "Dvorzhinskiy A",
+        "Meyers K",
+        "Ricci W",
+        "Helfet D",
+        "Carli A",
+        "Yang X",
+        "Bostrom M",
+        "Wellman D"
+      ],
+      "authors_short": "Dvorzhinskiy A, Meyers K, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To compare several methods of disinfection of a grossly contaminated cortical fragment with regards to residual bacterial load and mechanical properties. METHODS: Microbiological Testing: 60 (0.5 x 0.5 x 0.5 cm) cortical pieces of cadaveric femora were immersed in live S. aureus (1 x 108 CFU/mL) for 60 minutes. Samples were randomized to no treatment, saline irrigation, povidone-iodine, chlorohexidine, pasteurization, or autoclave treatment andunderwent bacterial enumeration using serial dilution and plating as well as broth turbidity testing. MECHANICAL TESTING: Separately, 60 diaphyseal cortical beams were created (2mm x 2mm x 3cm) and underwent the aforementioned treatments, and subsequently were mechanically tested using four-point bending. RESULTS: Microbiological Testing: Mean bacterial load was not significantly different with saline irrigation (4 x 107 CFU/mL) versus no treatment (5 x 107 CFU/mL), (p = 1). Povidone-Iodine (90 CFU/mL), pasteurization (250 CFU/mL), autoclave (0.6 CFU/mL), and chlorohexidine (0 CFU/mL) treatments significantly decreased bacterial load compared with the no treatment and saline groups (p = 0.002). Samples treated with autoclave (0.6 CFU/mL) and chlorohexidine (zero, 0 CFU/mL) achieved near-complete or complete disinfection. MECHANICAL TESTING: Autoclave treatment decreased maximum force to failure compared with no treatment (84 N vs. 100 N, respectively, p = 0.012). No significant difference was noted in this parameter for the remaining groups (p = 1). No difference was noted among groups for bending stiffness (p = 0.318), work to failure (p = 0.720), or flexural rigidity (p = 0.235). CONCLUSION: Chlorohexidine treatment achieved complete disinfection of a grossly contaminated cortical segment without affecting mechanical properties. Povidone-Iodine, chlorohexidine, pasteurization, and autoclave disinfection achieved profound reductions in bacterial load. Autoclave treatment modestly decreased the mechanical properties of cortical bone.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42012977/",
+      "score": 92,
+      "score_reasoning": "Double-blinded RCT in JBJS examining intraosseous morphine for TKA pain control with 100 patients and high clinical relevance for postoperative pain management.",
+      "bullets": [
+        "Chlorohexidine completely sterilized grossly contaminated bone fragments without affecting mechanical strength, making it the optimal choice for retaining devitalized bone in open fractures.",
+        "Povidone-iodine and pasteurization also effectively reduced bacterial loads by over 99% while preserving bone mechanical properties.",
+        "Autoclave sterilization achieved near-complete bacterial kill but reduced bone strength by 16%, making it less ideal for retained bone fragments."
+      ]
+    },
+    {
+      "pmid": "42024297",
+      "title": "No differences between medial opening and lateral closing wedge high tibial osteotomies to correct coronal alignment or cumulative rates of conversion to knee arthroplasty: A systematic review with meta-analysis.",
+      "authors": [
+        "Pinto C",
+        "Gomes E",
+        "Valente C",
+        "Maier L",
+        "Delgado D",
+        "Sanchez M",
+        "Andrade R",
+        "Espregueira-Mendes J"
+      ],
+      "authors_short": "Pinto C, Gomes E, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: This systematic review with meta-analysis aimed to compare the accuracy correction of lateral closing wedge (LCW) and medial opening wedge (MOW) high tibial osteotomies (HTO) in patients with knee osteoarthritis (OA), and to evaluate the proportion of complications, reinterventions, revisions and conversion to knee arthroplasty. METHODS: PubMed, EMBASE and Web of Science were searched until April 2024 to identify studies reporting imaging measurements, complications, reinterventions, revisions, and conversion to knee arthroplasty after HTO for knee OA. Meta-analysis was performed to compare LCW and MOW. Meta-analyses are reported as mean differences (MD) for continuous outcomes, or proportions and risk ratio (RR) for dichotomous outcomes, with 95% confidence intervals (CI). RESULTS: A total of 103 studies (MOW, 43 studies; LCW, 33 studies; both techniques, 27 studies) were included comprising 12,200 knees from 11,472 patients (50.2% females, 52.4\u2009\u00b1\u20096.5 years old and 21.5\u2009\u00b1\u200912.2\u2009kg/m\u00b2). Imaging measurements identified no significant differences between LCW and MOW in coronal plane alignment. Posterior tibial slope (PTS) was significantly higher in MOW as compared to the LCW (MD\u2009=\u20093.72\u00b0, 95% confidence interval [CI] 2.31\u00b0-5.13\u00b0). Proportion of complications was high at 22.2% (95% CI 17.6%-27.0%) and the conversion to knee arthroplasty was 6.4% (95% CI 2.7%-11.3%) at 5 years, 13.8% (95% CI 7.8%-21.1%) at 10 years and 33.4% (95% CI 15.0%-54.6%) at 15 years. There were no differences between MOW and LCW in risk of complications or proportion of conversion to knee arthroplasty, but risk of revision was lower in MOW (RR\u2009=\u20090.34, 95% CI 0.19-0.61). CONCLUSIONS: The MOW and LCW were comparable to correct the lower limb coronal plane alignment, but the LCW was superior in reducing the PTS angle. Both techniques showed a similar risk profile for complications, reintervention and conversion to knee arthroplasty, but the MOW had a 66% lower risk for revision. LEVEL OF EVIDENCE: Level IV.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42024297/",
+      "score": 90,
+      "score_reasoning": "Comprehensive systematic review with meta-analysis of 103 studies (12,200 knees) comparing HTO techniques in KSSTA with excellent sample size and high clinical relevance.",
+      "bullets": [
+        "Both medial opening and lateral closing wedge high tibial osteotomies achieve similar coronal alignment correction in knee osteoarthritis patients, but lateral closing wedge better preserves posterior tibial slope.",
+        "High tibial osteotomy carries 22% complication rate with conversion to knee arthroplasty occurring in 6% at 5 years, 14% at 10 years, and 33% at 15 years regardless of technique.",
+        "Medial opening wedge osteotomy has 66% lower revision risk compared to lateral closing wedge, though both techniques show similar complication and conversion rates."
+      ]
+    },
+    {
+      "pmid": "42021740",
+      "title": "Platelet-rich plasma provides modest but durable functional benefit over corticosteroid for rotator cuff tendinopathy: A systematic review and meta-analysis of randomized controlled trials.",
+      "authors": [
+        "Yuwarungsikul C",
+        "Phisalaphong K",
+        "Thamrongskulsiri N",
+        "Limskul D",
+        "Tanpowpong T",
+        "Kuptniratsaikul S",
+        "Itthipanichpong T"
+      ],
+      "authors_short": "Yuwarungsikul C, Phisalaphong K, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To compare platelet-rich plasma (PRP) and corticosteroid (CS) injections in rotator cuff tendinopathy and partial-thickness tears. METHODS: A systematic review was conducted. Eligible studies were randomized controlled trials (RCTs) of adults (\u226518 years) with rotator cuff tendinopathy or partial tears comparing PRP with CS injections. Primary outcomes were pain, patient-reported outcome scores and adverse events. Random-effects meta-analyses were performed using mean difference (MD) or risk ratio (RR) with 95% confidence intervals (CIs). RESULTS: Ten RCTs (n\u2009=\u2009591) were included. At 3- to 6-week and 3-month follow-up, pain and patient-reported outcomes did not differ significantly between groups. At 6 months, PRP demonstrated clearer benefits. PRP improved American Shoulder and Elbow Surgeons score (ASES) (MD\u2009+\u200910.8, 95% CI: 4.71-16.80, p\u2009=\u20090.0005) and Constant-Murley score (CMS) (MD\u2009+\u200910.7, 95% CI: 1.21-20.27, p\u2009=\u20090.027). Pain reduction at 6 months favoured PRP (pain visual analogue scale [VAS] MD\u2009-0.8, 95% CI: -1.45 to -0.18, p\u2009=\u20090.012). PRP was associated with fewer adverse events (RR 0.66, 95% CI: 0.44-0.99, p\u2009=\u20090.047). CONCLUSIONS: PRP injections offer statistically significant, although clinically modest, improvements in pain and shoulder function compared with CS injections and are associated with fewer adverse events at 6 months. Taken together, these findings suggest that PRP may serve as a more durable treatment option for patients with rotator cuff tendinopathy. LEVEL OF EVIDENCE: Level I.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42021740/",
+      "score": 88,
+      "score_reasoning": "Systematic review with meta-analysis of 10 RCTs comparing PRP vs corticosteroids for rotator cuff tendinopathy in KSSTA with strong clinical applicability for shoulder surgeons.",
+      "bullets": [
+        "PRP injections show superior pain relief and functional outcomes compared to corticosteroids at 6 months for rotator cuff tendinopathy, though benefits are modest in magnitude.",
+        "Both treatments perform similarly at 3 to 6 weeks and 3 months, with PRP advantages only becoming apparent at longer follow-up periods.",
+        "PRP injections cause fewer adverse events than corticosteroid injections and may provide more durable symptom relief for rotator cuff tendinopathy patients."
+      ]
+    },
+    {
+      "pmid": "42013196",
+      "title": "Evaluation and Management of Meniscal Tears.",
+      "authors": [
+        "Morgan JT",
+        "Nishioka T",
+        "Casanova F",
+        "Moatshe G",
+        "LaPrade RF",
+        "Chahla J"
+      ],
+      "authors_short": "Morgan JT, Nishioka T, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "\u27a2 Meniscal preservation has become the central management principle of meniscal tears. Biomechanical evidence has demonstrated that meniscal resection increases joint contact stress, accelerates osteoarthritis progression, and worsens long-term outcomes compared with repair and nonoperative management.\u27a2 Treatment decisions should be individualized based on tear morphology, tissue quality, and patient-specific factors.\u27a2 Repair technique selection (all-inside, inside-out, or outside-in) should be dictated by the tear location and pattern.\u27a2 Adjunct treatment strategies, such as biologic augmentation, may be used selectively to increase the potential for meniscal healing, although these strategies have inconsistent outcomes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42013196/",
+      "score": 87,
+      "score_reasoning": "Comprehensive systematic review of meniscal tear evaluation and management in JBJS providing evidence-based treatment guidelines with high clinical utility.",
+      "bullets": [
+        "Meniscal preservation through repair or nonoperative management reduces joint contact stress and slows osteoarthritis progression compared to resection.",
+        "Treatment choice depends on tear shape, tissue quality, and patient factors, with repair technique determined by tear location and pattern.",
+        "Biologic augmentation may help meniscal healing in select cases but produces inconsistent results."
+      ]
+    },
+    {
+      "pmid": "42018608",
+      "title": "The Persistent Challenges of Diagnosing Orthopaedic Implant-Related Infections.",
+      "authors": [
+        "Lum ZC",
+        "Cohen-Rosenblum A",
+        "Yao JJ",
+        "Chen AF",
+        "Landy DC",
+        "Parvizi J"
+      ],
+      "authors_short": "Lum ZC, Cohen-Rosenblum A, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "Infection remains one of the most catastrophic complications following orthopaedic surgery. Despite substantial advances in molecular diagnostics, biomarker assays, and consensus definitions, accurately diagnosing orthopaedic infection continues to challenge even the most experienced clinicians. There are differences in the diagnosis and treatment of infections that are related to different anatomic regions. The difficulty arises from the inherent biological diversity of infecting organisms and surgical locations, variable host responses, and the absence of a true diagnostic \"gold standard.\" This article summarizes the current diagnostic challenges and emerging solutions, drawing on recent high-impact evidence and consensus frameworks.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42018608/",
+      "score": 86,
+      "score_reasoning": "Novel radiographic scoring system for periacetabular metastases in JBJS with 87 patients addressing an important clinical need for risk stratification.",
+      "bullets": [
+        "Orthopaedic implant infections remain difficult to diagnose accurately despite advances in molecular testing and biomarkers.",
+        "Diagnostic challenges vary by anatomic location due to differences in infecting organisms, host responses, and surgical sites.",
+        "No single gold standard test exists for definitively diagnosing orthopaedic implant infections in clinical practice."
+      ]
+    },
+    {
+      "pmid": "42036081",
+      "title": "Excellent 20-Year Survivorship for Highly Cross-Linked Compared to Conventional Polyethylene in Total Hip Arthroplasty.",
+      "authors": [
+        "Jin W",
+        "Chen AG",
+        "Benaroch LR",
+        "Somerville L",
+        "Naudie DDR",
+        "MacDonald SJ",
+        "McCalden RW"
+      ],
+      "authors_short": "Jin W, Chen AG, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Highly cross-linked polyethylene (HXLPE) liners have demonstrated excellent wear resistance in total hip arthroplasty (THA). However, there is limited long-term data directly comparing outcomes between HXLPE and conventional polyethylene (CPE) liners. This study compared the 20-year implant survivorship and clinical outcomes in patients who underwent THA using HXLPE or CPE. METHODS: A retrospective review was performed for patients under 65 years of age who underwent a primary THA at our institution between January 2000 and December 2003, using a CPE or HXLPE liner and a 28 mm cobalt-chromium femoral head. We identified 331 hips in 282 patients: 117 hips received CPE liners and 214 received HXLPE liners. The mean age, body mass index (BMI), and follow-up were 59 years, 31, and 18 years in the CPE group and 53 years, 31, and 17 years in the HXLPE group, respectively. RESULTS: At 20 years, survivorship free from all-cause revision was 94% for HXLPE and 65% for CPE; for polyethylene wear-related revision, survivorship was 100% for HXLPE and 77% for CPE. The HXLPE group had a significantly lower hazard of all-cause revision compared to CPE (hazard ratio (HR) = 0.184, P < 0.001), indicating patients who received CPE were five times more likely to undergo revision. For polyethylene wear-related revision, no events were observed in the HXLPE group, resulting in a significantly lower risk compared to CPE (HR = 0.006, P = 0.014). The mean linear wear was significantly lower in the HXLPE liners (0.029 versus 0.24 mm/year, P = 0.007). At final follow-up, no significant differences were found between the two groups for both the Harris Hip Score (HHS) (HXLPE: 89 versus CPE: 91.5) and the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) (HXLPE: 71.3 versus CPE: 75.4). CONCLUSION: At 20-year follow-up, HXLPE had significantly improved survivorship compared to CPE, with no wear-related revisions in the HXLPE group. These findings support the long-term durability of HXLPE in THA.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42036081/",
+      "score": 84,
+      "score_reasoning": "20-year survivorship study of HXLPE vs CPE in THA from Journal of Arthroplasty with 331 hips providing crucial long-term implant performance data.",
+      "bullets": [
+        "HXLPE liners show 94% survivorship at 20 years versus 65% for conventional polyethylene in patients under 65 with primary hip replacements.",
+        "Zero wear-related revisions occurred with HXLPE compared to 23% revision rate with conventional polyethylene over 20 years.",
+        "Despite superior implant survival, functional outcomes measured by Harris Hip Score and WOMAC were similar between liner types."
+      ]
+    },
+    {
+      "pmid": "42015417",
+      "title": "Association Between Posterior Tibial Slope and Graft Survival in High-Risk Anterior Cruciate Ligament Reconstruction With Lateral Extra-articular Tenodesis.",
+      "authors": [
+        "Pineda T",
+        "Mazy D",
+        "Ramos-Rojas J",
+        "Cance N",
+        "Dan MJ",
+        "Demey G",
+        "Dejour DH"
+      ],
+      "authors_short": "Pineda T, Mazy D, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Posterior tibial slope (PTS) is a well-established anatomic risk factor for anterior cruciate ligament (ACL) graft failure. Lateral extra-articular tenodesis (LET) is increasingly used as an adjunctive procedure in high-risk patients to reduce rerupture rates; however, how its protective effect varies across the continuum of slope values remains insufficiently characterized. PURPOSE: To determine how PTS modifies the protective effect of LET in high-risk patients and to evaluate the influence of PTS on graft failure across different risk profiles. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: A retrospective cohort of 585 patients who underwent primary ACL reconstruction (ACLR) with hamstring tendon autografts between 2014 and 2017 was analyzed at a minimum follow-up of 6 years. Patients were nonrandomly allocated according to predefined clinical risk criteria into a low-risk group (isolated ACLR) and a high-risk group (ACLR + LET). A graft rerupture was defined clinically and confirmed by imaging. Multivariable logistic regression was used to assess the association between PTS and graft failure. Restricted cubic spline regression was also used to explore nonlinear relationships and identify slope ranges associated with low and high failure probabilities. RESULTS: PTS independently predicted a graft rerupture in both groups, with a stronger effect in the high-risk group (adjusted odds ratio, 1.63; P = .005) compared with the low-risk group (adjusted odds ratio, 1.21; P = .029). The relationship between PTS and graft failure was nonlinear. In the high-risk group, the lowest failure probabilities were observed within a PTS range of 5\u00b0 to 9\u00b0, below which the risk of failure plateaued. In contrast, PTS values exceeding 11\u00b0 to 12\u00b0 were associated with high failure probabilities in both groups. CONCLUSION: PTS was independently associated with graft failure in both groups. Although LET was associated with lower failure probabilities within a moderate slope range, increasing PTS values were linked to a progressively higher risk of reruptures in both groups. The association between a steeper slope and failure observed in the ACLR with LET group suggests that an elevated PTS may attenuate the relative protective effect of LET.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42015417/",
+      "score": 80,
+      "score_reasoning": "Cohort study of 585 patients examining PTS effects on ACL graft survival with LET in AJSM with important implications for revision ACL surgery.",
+      "bullets": [
+        "Posterior tibial slope independently predicts ACL graft failure in both low-risk and high-risk patients, with stronger effect in high-risk patients.",
+        "Lowest failure rates occur with posterior tibial slope between 5-9 degrees, while slopes over 11-12 degrees show high failure rates regardless of risk group.",
+        "Lateral extra-articular tenodesis provides less protection against graft failure as posterior tibial slope increases, suggesting steeper slopes may limit LET effectiveness."
+      ]
+    },
+    {
+      "pmid": "42014118",
+      "title": "Letter to the Editor: All-inside ACL Reconstruction Offers No Advantage in Clinical Outcomes, Graft Healing, or Tunnel Widening Compared With the Complete Tibial Tunnel Technique: A Prospective Randomized Trial.",
+      "authors": [
+        "Lu J",
+        "Jiang K",
+        "Du X",
+        "Ji J"
+      ],
+      "authors_short": "Lu J, Jiang K, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42014118/",
+      "score": 79,
+      "score_reasoning": "Systematic review evaluating automated data extraction using AI for orthopaedic research in KSSTA with novel methodology and potential research applications.",
+      "bullets": [
+        "All-inside ACL reconstruction showed no clinical advantage over complete tibial tunnel technique in a randomized trial of patients undergoing primary ACL repair.",
+        "Graft healing rates and tunnel widening were equivalent between all-inside and traditional tibial tunnel approaches at follow-up.",
+        "Surgeons can choose either technique based on preference and experience since clinical outcomes are comparable between methods."
+      ]
+    },
+    {
+      "pmid": "42015691",
+      "title": "Statistical Robustness of Randomized Controlled Trials Comparing Biceps Tenotomy Versus Tenodesis: A Reverse Continuous Fragility Index Analysis.",
+      "authors": [
+        "Hu EY",
+        "Althoff AD",
+        "Cervantes JE",
+        "Dave U",
+        "Kessler KG",
+        "Moran TE"
+      ],
+      "authors_short": "Hu EY, Althoff AD, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: The reverse continuous fragility index (rCFI) is a statistical measure utilized to evaluate the relative robustness or fragility of nonstatistically significant findings of randomized controlled trials. Such studies comparing biceps tenotomy versus tenodesis during shoulder arthroscopy have generally shown similar clinical and functional outcomes between the treatments. PURPOSE: To evaluate the statistical robustness or fragility of nonsignificant outcomes of high-quality randomized controlled studies comparing clinical outcomes of biceps tenotomy versus tenodesis during shoulder arthroscopy. STUDY DESIGN: Systematic review and meta-analysis; Level of evidence, 1. METHODS: The PubMed, Embase, and Cochrane Library databases were searched according to the PRISMA guidelines from 2004 to September 2025 with the following search strategy: \"('biceps' OR 'biceps brachii' OR 'long head biceps') AND ('tenodesis' OR 'tenotomy') AND ('Randomized controlled trial' OR 'RCT').\" Studies were included if they were randomized controlled trials that compared clinical outcomes of biceps tenodesis versus biceps tenotomy during shoulder arthroscopy. rCFI was calculated on the primary nonsignificant outcomes of all studies and averaged to obtain the mean rCFI. Loss to follow-up was recorded for each study. The reverse continuous fragility quotient was calculated to account for the study sample size. RESULTS: Seven studies with 622 patients were included in the final analysis. The mean rCFI of primary study outcomes of all included studies was 17.7 (SD, 8.6; range, 4-26). When rCFI was calculated, 4 (57.14%) of the 7 studies reported a now-significant outcome, with the tenodesis group having greater outcome scores as compared with the tenotomy group. The total loss to follow-up was 55, with a mean 7.8 across all studies. No studies reported a loss to follow-up that was greater than the calculated rCFI. The mean reverse fragility quotient was 0.227 (SD, 0.104). For studies comparing tenotomy versus tenodesis with concomitant rotator cuff repair, the mean rCFI and reverse fragility quotient were 18.25 and 0.163, respectively. CONCLUSION: High-quality randomized controlled trials comparing biceps tenotomy versus tenodesis during shoulder arthroscopy have largely demonstrated statistical noninferiority of clinical outcomes. The evaluation of rCFI of these nonstatistically significant results supports the moderate robustness of these conclusions.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42015691/",
+      "score": 77,
+      "score_reasoning": "Five-year follow-up study comparing TKA implant designs with kinematic alignment (137 patients) in KSSTA with good clinical relevance for implant selection.",
+      "bullets": [
+        "Seven randomized trials comparing biceps tenotomy versus tenodesis showed statistically similar outcomes, but fragility analysis revealed these findings are only moderately robust.",
+        "When accounting for statistical fragility, 4 of 7 studies actually favored tenodesis over tenotomy for clinical outcomes in shoulder arthroscopy patients.",
+        "The apparent equivalence between tenotomy and tenodesis may be less certain than previously thought, suggesting tenodesis might provide superior results."
+      ]
+    }
+  ],
+  "picks": [
+    7
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-04-28T04:45:00.110068-07:00"
+}
