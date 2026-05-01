@@ -1,0 +1,301 @@
+{
+  "brief_date": "2026-05-01",
+  "brief_date_display": "Friday, May 01",
+  "candidates": [
+    {
+      "pmid": "42061769",
+      "title": "Preservation of the Constitutional Coronal Plane Alignment of the Knee Phenotype in Varus and Neutral Knees Is Associated With Improved Early Functional Recovery: A Prospective In-Office Gait-Analysis.",
+      "authors": [
+        "Burgio C",
+        "Zepeda K",
+        "Vachhani S",
+        "Yared T",
+        "Gonzalez FQ",
+        "Mayman D",
+        "Jerabek S",
+        "Sculco PK",
+        "Vigdorchik JM",
+        "Debbi EM"
+      ],
+      "authors_short": "Burgio C, Zepeda K, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: The coronal plane alignment of the knee (CPAK) classification provides an objective framework to describe alignment changes after total knee arthroplasty (TKA). Although preserving the native phenotype improves intraoperative soft-tissue balance in varus and neutral knees, its functional benefits remain uncertain. We therefore evaluated whether preserving the preoperative CPAK phenotype in varus and neutral knees is associated with superior early postoperative gait patterns following TKA. METHODS: We prospectively enrolled 44 patients who had varus and neutral coronal alignment who underwent robotic-assisted TKA performed by five fellowship-trained surgeons. Spatiotemporal gait parameters were evaluated preoperatively and at six weeks postoperatively using a pressure mat that captured velocity, cadence, step length, and support time. Patients were grouped according to whether their postoperative alignment preserved or altered their native CPAK phenotype, as measured in long-leg biplane radiographs. Between-group differences were assessed using analysis of covariance (ANCOVA) adjusted for confounding and baseline gait values. RESULTS: Of the 44 patients, 21 (47.7%) had their native CPAK phenotype preserved, and 23 (52.3%) experienced a phenotype change. Preserving CPAK was associated with significantly faster postoperative walking velocity (+11.7 cm/second, P = 0.01), higher cadence (+7.0 steps/minute, P = 0.02), longer single-limb support (+1.5%, P = 0.003), and shorter step time (P = 0.02) compared with patients whose CPAK phenotype changed. Pre-to-postoperative gait changes analysis further confirmed this pattern: the Changed group demonstrated significant reductions in walking velocity (P = 0.04) and cadence (P = 0.01), along with increased step time (P = 0.02), whereas the Unchanged group showed significant improvements in step length (P = 0.02), greater single-limb support (P < 0.01), and reduced double-limb support (P < 0.01). CONCLUSION: Preserving the native CPAK phenotype after TKA is associated with improved early gait metrics, suggesting a potential biomechanical advantage of restoring constitutional alignment. These findings should be confirmed in larger cohorts with longer-term follow-up.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42061769/",
+      "score": 85,
+      "score_reasoning": "High-quality prospective study with gait analysis showing functional benefits of preserving native knee alignment in TKA, published in top-tier journal with strong clinical relevance.",
+      "bullets": [
+        "Patients with varus or neutral knees who had their native coronal alignment preserved during TKA walked faster and with better cadence at 6 weeks compared to those whose alignment was changed.",
+        "Preserving the original knee alignment pattern resulted in longer single-limb support time and shorter step time, indicating more confident walking mechanics early after surgery.",
+        "This study of 44 patients suggests that matching postoperative alignment to preoperative anatomy may provide functional benefits in the early recovery period after total knee replacement."
+      ]
+    },
+    {
+      "pmid": "42036089",
+      "title": "The One-Year Infection Rates After Vancomycin Powder and Dilute Povidone-Iodine Lavage in High-Risk Primary Total Joint Arthroplasty: A Multicenter Randomized Controlled Trial.",
+      "authors": [
+        "Saba BV",
+        "Long WJ",
+        "Higuera CA",
+        "Dundon J",
+        "Cooper HJ",
+        "Dennis DA",
+        "Chen AF",
+        "Schwarzkopf R"
+      ],
+      "authors_short": "Saba BV, Long WJ, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Given the severe morbidity, mortality, and substantial cost of periprosthetic joint infection (PJI), substantial research has been conducted to compare peri- and postoperative infection-prevention strategies. To our knowledge, there are no studies to date that have evaluated the one-year efficacy of intraoperative vancomycin powder and/or dilute povidone-iodine (DPI) lavage versus saline lavage in total joint arthroplasty. We previously reported no significant group differences at three months in a large multicenter randomized controlled trial. The present study reports 1-year outcomes of the same cohort. METHODS: In this prospective, multicenter trial, 2,053 high-risk patients undergoing primary, unilateral total hip arthroplasty (THA) or total knee arthroplasty (TKA) were randomized to one of four intraoperative protocols: vancomycin powder, DPI, VPIP (combination), or saline lavage control. The primary outcome was 1-year PJI resulting in septic revision surgery. Analyses were conducted on a per-protocol basis using Chi-square tests stratified by procedure. At one year, complete follow-up was available for 798 THA and 1,032 TKA patients after accounting for withdrawals, loss to follow-up, and nine unrelated deaths. RESULTS: In the THA cohort, PJI occurred in 0.5% of vancomycin patients, 1.7% of iodine patients, 1.9% of VPIP patients, and 1.1% of saline patients (P = 0.62). In the TKA cohort, PJI occurred in 1.6% of vancomycin patients, none of the iodine patients, 2.0% of VPIP patients, and 0.4% of saline patients (P = 0.05). There were no significant differences between study groups at zero to three months (P = 0.14 for THA, P = 0.13 for TKA), three to 12 months (P = 0.67 for THA, P = 0.80 for TKA), or combined zero to 12 months (P = 0.62 for THA, P = 0.05 for TKA). CONCLUSIONS: There were no significant differences in 1-year PJI rates observed across prophylactic strategies in high-risk primary THA or TKA. These findings suggest that intraoperative antiseptic and antibiotic protocols may have limited influence on longer-term outcomes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42036089/",
+      "score": 82,
+      "score_reasoning": "Large multicenter RCT (2,053 patients) evaluating infection prevention strategies in TJA with 1-year follow-up, published in prestigious journal with immediate clinical applicability.",
+      "bullets": [
+        "Vancomycin powder and dilute povidone-iodine lavage showed no significant reduction in one-year infection rates compared to saline in high-risk primary hip and knee replacements.",
+        "Study followed 1,830 high-risk patients across four treatment groups with infection rates ranging from 0.4% to 2.0% depending on procedure and intervention.",
+        "Results suggest intraoperative antiseptic and antibiotic protocols may have limited impact on preventing infections beyond the early postoperative period."
+      ]
+    },
+    {
+      "pmid": "42058460",
+      "title": "Robotic Assistance for Low-Volume Total Knee Arthroplasty Surgeons Is Associated With Comparable Perioperative Outcomes Related to Those of High-Volume Surgeons Using Conventional Techniques.",
+      "authors": [
+        "Lee AH",
+        "Jahagirdar OB",
+        "Slevin JP",
+        "Rubin LE",
+        "Grauer JN"
+      ],
+      "authors_short": "Lee AH, Jahagirdar OB, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Studies have reported mixed utility of robotics in total knee arthroplasty (TKA). Separately, higher surgical volume has correlated with improved outcomes. The potential interplay of these variables has not been assessed. METHODS: Patients undergoing conventional and robotic TKAs performed by low-volume and high-volume surgeons were identified from PearlDiver M170Ortho. Three matched comparisons were performed: conventional low-volume TKA (LV-TKA) vs robotic LV-TKA (R-LV-TKA), conventional high-volume TKA (C-HV-TKA) vs robotic high-volume TKA (R-HV-TKA), and C-HV-TKA vs R-LV-TKA. Aggregated 90-day adverse events (AEs), 5-year implant-related events, and revision rates were assessed. RESULTS: Among low-volume surgeons, there were 8923 conventional LV-TKAs and 2235 R-LV-TKAs. R-LV-TKAs had lower odds of 90-day any (odds ratio [OR] 0.63), severe (OR 0.71), and minor (OR 0.66) AEs, driven by deep vein thrombosis (OR 0.47) and transfusion (OR 0.43) rates (all P < .003). At 5 years, no differences existed in implant-related events or revisions. Among high-volume surgeons, there were 19,732 C-HV-TKAs and 4939 R-HV-TKAs. R-HV-TKAs had lower odds of 90-day any (OR 0.79) and minor (OR 0.74) AEs, driven by urinary tract infection (OR 0.63) and transfusion (OR 0.45) rates (all P < .001). At 5 years, R-HV-TKAs had lower odds of periprosthetic joint infection (OR 0.56, P < .001) and revision rates (2.2% vs 3.3%, P = .02). Comparing C-HV-TKAs and R-LV-TKAs, no differences existed in 90-day AEs, 5-year implant-related events, or revisions. CONCLUSIONS: Robotic assistance was associated with lower odds of aggregated perioperative complications for low-volume and high-volume surgeons and with improved 5-year outcomes in high-volume robotic surgeons. Notably, robotic usage by low-volume surgeons was associated with outcomes comparable to nonrobotic high-volume surgeons, suggesting outcome gaps because of volume may be partially closed through robotics.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42058460/",
+      "score": 74,
+      "score_reasoning": "Large database study (6,796 patients) identifying age-related microbiologic trends in knee PJI, providing actionable information for antibiotic selection.",
+      "bullets": [
+        "Robotic assistance reduces 90-day complications for both low-volume and high-volume knee replacement surgeons, primarily by lowering transfusion and infection rates.",
+        "High-volume surgeons using robotics achieve better 5-year outcomes including lower periprosthetic infection rates and revisions compared to conventional techniques.",
+        "Low-volume surgeons using robotics achieve similar perioperative outcomes to high-volume surgeons using conventional techniques, potentially closing the volume-outcome gap."
+      ]
+    },
+    {
+      "pmid": "42036063",
+      "title": "Revision Reverse Shoulder Arthroplasty After Failed Shoulder Arthroplasty: Long-Term Survivorship and Risk Factors for Failure.",
+      "authors": [
+        "Patel R",
+        "Kucharik M",
+        "Schmidt CM",
+        "Kolakowski L",
+        "Christmas KN",
+        "Simon P",
+        "Frankle MA"
+      ],
+      "authors_short": "Patel R, Kucharik M, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Reverse shoulder arthroplasty (rTSA) is increasingly used as a revision option, but long-term survivorship and patient-reported outcomes (PROs) after revision rTSA remain poorly defined. We hypothesized that revision rTSA for failed reverse shoulder arthroplasty (failed rTSA) would have inferior survivorship and patient reported outcomes when compared to revision rTSA for failed anatomic total shoulder arthroplasty (failed aTSA) or failed hemiarthroplasty (failed HA). Moreover, we hypothesized that that shoulders undergoing secondary revision would have a higher risk of failure when compared to those undergoing first-time revision surgery. METHODS: This study is a retrospective review of a prospectively collected, single-surgeon institutional database from 2002-2022. Patients undergoing first-time revision rTSA for aseptic mechanical failure of a prior arthroplasty were included if they had \u226512 months of follow-up or required subsequent revision within 12 months. Survivorship was assessed using Kaplan-Meier analysis. PROs (ASES scores and satisfaction) were collected at one year, with subgroup analysis by index failed arthroplasty type: failed HA, failed aTSA, and failed rTSA. Modes of failure after secondary revision were also examined. Statistical significance was set at P<0.05. RESULTS: Of 464 first-time revision rTSA for mechanical failure from 2002-2022, 320 revision rTSAs had appropriate follow-up and met inclusion criteria, with mean follow-up of 50.3 \u00b1 45.7 months. Mean age was 67.4 \u00b1 10.0 years; 54.1% were female. Overall survivorship of revision rTSA was 86.4% at 2 years, and 71.4% at 10 years. In terms of survivorship stratified by index arthroplasty, the survivorship of failed HA, failed aTSA, and failed rTSA was the following: failed HA: 2-year 93.4% and 10-year 74.2%; failed aTSA: 2-year 88.6% and 10-year 82.1%; failed rTSA: 2-year 74.6% and 10-year 59.5%. Overall survivorship was inferior in shoulders revised from failed rTSA compared with failed HA or failed aTSA (P<0.001). At one year, the overall cohort reported mean ASES of 61.3 \u00b1 25.0, with 48.8% achieving patient acceptable symptom state (PASS). Shoulders revised from failed rTSA had lower ASES scores (53.3 \u00b1 26.2) than those revised from failed HA (63.3 \u00b1 23.1) or failed aTSA (64.3 \u00b1 25.0) (p=0.008). Of the 320 revision rTSAs, 58 (18.1%) required secondary revision; mechanisms of failure included instability (5.0%), humeral loosening (4.1%), infection (4.1%), glenoid failure (3.4%), and periprosthetic fracture (1.6%). Of these, 17 (29.3%) underwent tertiary revision. Secondary revisions due to humeral loosening showed the highest hazard for tertiary failure. CONCLUSION: Revision rTSA for mechanical failure demonstrates modest long-term durability and functional improvement, with over 70% survivorship at 10 years. However, less than half of patients achieved acceptable symptom states at short term follow-up. Specifically, revision from failed rTSA yields inferior survivorship and patient-reported outcomes when compared to failed aTSA or failed HA. Secondary revision procedures carried greater risk of failure, with humeral loosening remaining particularly difficult to manage. These findings highlight the need for careful patient counseling and ongoing investigation into strategies to improve survivorship after revision rTSA.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42036063/",
+      "score": 73,
+      "score_reasoning": "Long-term survivorship study of revision rTSA (320 patients) with mean 50-month follow-up, published in high-impact journal with important prognostic information.",
+      "bullets": [
+        "Revision reverse shoulder arthroplasty shows 71% survivorship at 10 years, but only 49% of patients achieve acceptable symptom relief at one year.",
+        "Revising a failed reverse shoulder replacement performs worse than revising failed anatomic or hemiarthroplasty, with 60% versus 82% ten-year survival rates.",
+        "Secondary revision procedures fail at high rates, especially when humeral loosening is the indication, with 29% requiring a third surgery."
+      ]
+    },
+    {
+      "pmid": "42053079",
+      "title": "Lateral UKA Is Associated With Mixed 90-Day and 5-Year Outcomes Relative to Medial UKA and TKA.",
+      "authors": [
+        "Slevin JP",
+        "Seddio AE",
+        "Ajjawi IB",
+        "Padela MT",
+        "Kaplan MJ",
+        "Grauer JN",
+        "Rubin LE"
+      ],
+      "authors_short": "Slevin JP, Seddio AE, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Unicompartmental knee arthroplasty (UKA) is an option for unicompartmental osteoarthritis. With medial or multicompartment joint wear being the most common clinical scenarios, lateral UKA (L-UKA) is less commonly considered than other knee joint arthroplasty procedures. As such, the postoperative outcomes of L-UKA relative to medial UKA (M-UKA) and total knee arthroplasty (TKA) remain poorly characterized at a national level in the United States. METHODS: Patients undergoing L-UKA were identified from the PearlDiver M170Ortho Database and separately matched 1:4 with M-UKA and TKA patients by age, sex, and Elixhauser Comorbidity Index. Multivariable logistic regression compared 90-day adverse events, emergency department visits, readmissions, and 5-year implant-related issues. RESULTS: First, 343 L-UKAs were assessed relative to 1,295 M-UKAs. L-UKA demonstrated higher odds of 90-day severe adverse events (odds ratio [OR], 1.83; P = 0.037), infection (OR, 1.41; P = 0.022), wound dehiscence (OR, 3.60; P = 0.008), readmission (OR, 1.67; P = 0.047), and 5-year prosthetic joint infection (OR, 2.57; P = 0.001). Second, 425 L-UKAs were assessed relative to 1,700 TKAs. L-UKA demonstrated higher odds of 90-day wound dehiscence (OR, 2.13; P = 0.025), 5-year prosthetic joint infection (OR, 1.64; P = 0.028), and revision (OR, 2.00; P = 0.007), but lower odds of 5-year stiffness (OR, 0.45; P < 0.001). DISCUSSION: In the first study of L-UKA using national-level US data, L-UKA demonstrated mixed outcomes compared with both M-UKA and TKA. While L-UKA demonstrated lower stiffness rates than TKA, the elevated risk of 90-day postoperative complications and inferior 5-year revision-free survival suggest the need for careful consideration of L-UKA and future prospective analysis to further elucidate whether these associations can be generalized across surgeons with differing case volumes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42053079/",
+      "score": 72,
+      "score_reasoning": "Meta-analysis examining lateral UKA outcomes using national US data, addressing knowledge gap for less common procedure with important safety findings.",
+      "bullets": [
+        "Lateral UKA has higher rates of 90-day infections, wound dehiscence, and readmissions compared to medial UKA, plus doubled risk of 5-year prosthetic joint infection.",
+        "Lateral UKA shows higher revision rates and prosthetic joint infections than TKA at 5 years, but causes less stiffness than TKA.",
+        "This national database study suggests lateral UKA may have worse short-term complications and long-term survival than standard alternatives."
+      ]
+    },
+    {
+      "pmid": "42064685",
+      "title": "Outcomes of Metal Hypersensitivity in Knee Arthroplasty: A Systematic Review of the Literature.",
+      "authors": [
+        "Roopnarinesingh R",
+        "Servien E",
+        "Harty J"
+      ],
+      "authors_short": "Roopnarinesingh R, Servien E, Harty J",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Metal implant hypersensitivity remains a subject of ongoing debate in the orthopaedic community. With the global rise in total knee arthroplasty (TKA) procedures per annum and an increasing prevalence of reported metal allergies in the general population, understanding the clinical relevance of metal implant hypersensitivity in knee arthroplasty patients is essential. This systematic review evaluates the relationship between metal hypersensitivity, diagnostic testing, and postoperative outcomes following TKA. METHODS: A literature search was conducted using the Ovid, MEDLINE, and Embase databases for studies published between 1990 and December 2024. Studies assessing diagnosis, management, or outcomes of metal hypersensitivity in TKA were included. Both prospective and retrospective studies were considered. The search yielded 554 records, with an additional 25 studies identified through manual reference screening. Following full-text assessment of 58 articles and application of predefined inclusion and exclusion criteria, 24 studies were included. Data extraction focused on study design, patient demographics, implicated metals, diagnostic methods, interventions, and outcomes. Patient Reporting Items for Systematic Reviews & Meta Analysis (PRISMA) guidelines were followed. RESULTS: A pooled cohort of 5615 knee arthroplasty cases was analyzed, with a mean patient age of 65.35 years and a female predominance (60.55%). Among these, 1165 patients had a documented history of metal hypersensitivity. Twenty studies reported follow-up durations, with a mean follow-up of 27.59 months. Patient symptoms, diagnostic test results, patient-reported outcome measures, and revision rates were evaluated. CONCLUSIONS: The available literature demonstrates significant heterogeneity and limited comparability across studies. Current evidence suggests that self-reported metal allergy or positive skin patch/lymphocyte transformation tests do not reliably predict poorer pain or functional outcomes following TKA. The clinical significance of metal hypersensitivity remains uncertain, highlighting the need for standardized diagnostic criteria and further high-quality research.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42064685/",
+      "score": 71,
+      "score_reasoning": "Systematic review of metal hypersensitivity in TKA analyzing 5,615 cases, addressing clinically relevant diagnostic and management questions.",
+      "bullets": [
+        "Self-reported metal allergies and positive patch tests do not predict worse pain or function after knee replacement surgery.",
+        "Metal hypersensitivity testing has unclear clinical value in knee arthroplasty patients based on analysis of 5615 cases.",
+        "Current evidence lacks standardization making it difficult to determine when metal allergy truly affects knee replacement outcomes."
+      ]
+    },
+    {
+      "pmid": "42059524",
+      "title": "Accuracy of Patient-Specific Instruments for Supramalleolar Osteotomies.",
+      "authors": [
+        "Bonte C",
+        "Rasschaert J",
+        "L'Herroux J",
+        "Peiffer M",
+        "Kr\u00e4henb\u00fchl N",
+        "Buedts K",
+        "Audenaert E",
+        "Burssens A"
+      ],
+      "authors_short": "Bonte C, Rasschaert J, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Supramalleolar osteotomy (SMO) enables deformity correction of the distal tibia, but the procedure remains technically demanding. Patient-specific instruments (PSIs) have the potential to mitigate the technical drawbacks associated with SMO that are performed free-hand, but their accuracy has not been investigated. Therefore, we aimed to perform a pre- vs post-operative comparison to assess the accuracy of PSI in the setting of SMO correction. METHODS: Eighteen patients (mean age\u2009=\u200947\u2009\u00b1\u200913.5\u2009years) who underwent SMO with a PSI were prospectively recruited in a pre-post comparative study design. Inclusion criteria were correction of supramalleolar ankle varus or valgus deformity by a closing wedge SMO. Exclusion criteria consisted of biplanar SMO that required associated free-hand osteotomies. Clinical outcomes were collected by the American Orthopaedic Foot & Ankle Society (AOFAS), European Foot and Ankle Society (EFAS), and visual analogue scale (VAS) scores. Apart from the standard weightbearing radiographs, a weightbearing CT was performed to generate corresponding 3-dimensional (3D) bone models and measure the lateral distal tibia angle (LDTA) as main radiographic parameter. RESULTS: The pre-operative radiographic parameters of the tibia joint alignment in patients with ankle varus (n\u2009=\u200912) deformity (LDTAvar\u2009=\u200996.5\u00b0\u2009\u00b1\u20094.5\u00b0) and valgus (n\u2009=\u20096) deformity (LDTAvalg\u2009=\u200982.4\u00b0\u2009\u00b1\u20092.5\u00b0) improved significantly relative to their post-operative equivalents (LDTAvar\u2009=\u200990.2\u00b0\u2009\u00b1\u20093.2\u00b0); LDTAvalg\u2009=\u200990.9\u00b0\u2009\u00b1\u20090.8\u00b0; P\u2009<\u2009.05). The pre-operative clinical outcome scores (AOFAS\u2009=\u200952.7\u2009\u00b1\u200922.9, EFAS\u2009=\u200915.1\u00b0\u2009\u00b1\u20097.91\u00b0, VAS\u2009=\u20095 [2-8]) improved significantly relative to their post-operative equivalents (AOFAS\u2009=\u200975.5\u2009\u00b1\u200919.6; EFAS\u2009=\u200919\u00b0\u2009\u00b1\u20097.6\u00b0; VAS\u2009=\u20093 [0-8]; P\u2009<\u2009.05). The mean simulated correction differed from the mean post-operative achieved correction within 1\u00b0 (mean\u2009=\u20090.4\u00b0; range 0.1\u00b0-0.8\u00b0). CONCLUSION: This study demonstrated an accurate correction of distal tibia deformities by SMO using PSIs. The achieved post-operative correction differed within the range of 1\u00b0 from the pre-operatively simulated correction. This indicates that PSIs provide a precise execution of the pre-operative planning. Future studies should assess the added value of performing an SMO with PSI compared with former free-hand techniques towards clinical and radiographical outcomes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42059524/",
+      "score": 66,
+      "score_reasoning": "Prospective study (18 patients) evaluating accuracy of patient-specific instruments for supramalleolar osteotomy with objective 3D outcome measures.",
+      "bullets": [
+        "Patient-specific instruments for supramalleolar osteotomies achieved correction within 1 degree of preoperative planning in 18 patients with ankle varus or valgus deformity.",
+        "Both varus and valgus deformities were successfully corrected to near-normal lateral distal tibial angles (90.2\u00b0 and 90.9\u00b0 respectively) with significant improvement in clinical scores.",
+        "PSI-guided supramalleolar osteotomy appears to eliminate the technical challenges of freehand correction, though direct comparison studies are still needed."
+      ]
+    },
+    {
+      "pmid": "42036060",
+      "title": "Cost Analysis of Different Fixation Techniques for Distal Biceps Ruptures Using Time-Driven Activity-Based Costing.",
+      "authors": [
+        "Adan FO",
+        "Puckett HD",
+        "Moen RK",
+        "Kroymann T",
+        "Behnke RA",
+        "Banfield NF",
+        "Agoro KS",
+        "Cunningham BP",
+        "Rao AJ"
+      ],
+      "authors_short": "Adan FO, Puckett HD, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Various fixation methods of distal biceps brachii tendon rupture (buttons, screws, and anchors) has been shown to have similar outcomes. However, the impact of these different implants on total day-of-surgery costing has yet to be examined. The purpose of this study was to explore the day-of-surgery (DOS) costs between different types of implants used for distal biceps repairs using time-driven activity-based costing (TDABC). METHODS: A retrospective review of all patients who underwent primary operative treatment for distal biceps rupture from January 2018 through May 2025 within a single medical system was conducted. Inclusion criteria consisted of patients who had surgical repair of a torn distal biceps brachii tendon. Exclusion criteria included having had a surgery other than a distal biceps repair, history of prior surgery on the affected biceps brachii tendon, incomplete costing or implant data, and revision distal biceps repairs. Patient demographics, implant types, operative characteristics, anesthesia data, retear and revision rates, and day-of-surgery (DOS) costing were evaluated. Statistical analyses conducted included descriptive statistics, t-tests, Mann-Whitney U tests, and linear regressions to identify cost drivers. RESULTS: Of the 433 patients who met the inclusion criteria, 96.8% (n=419) were male with a mean age of 50.2\u00b110.1 years and a mean body mass index (BMI) of 31.2\u00b15.8 kg/m2. The average operative time was 59.8\u00b120.1 minutes. Fixation techniques included buttons (42.7%), suture anchors (20.3%), and a combination of buttons and screws (37.0%). The average total DOS cost was $2,146.70\u00b1$539.29. Operative times were significantly different between fixation techniques (p=0.002). Retears occurred in only 2 (0.5%) patients, both of whom received only suture anchors for fixation. DISCUSSION: The total DOS costs for distal biceps repairs were lowest when suture anchors were used and highest when buttons and screws were used. Significant predictors of cost included the type of fixation, operative time, implant manufacture, anesthesia type, and age (all p <0.05). Operative time and total implant cost together accounted for 80.8% of total DOS cost variance. These findings suggest that suture anchors may offer a cost-effective option without compromising clinical outcomes. Within the current atmosphere of value-based care in orthopaedics, these findings can help equip surgeons in efforts to be more cost-aware in decision-making.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42036060/",
+      "score": 60,
+      "score_reasoning": "Retrospective analysis (282 rTSAs) showing selective glenoid medialization reduces acromial stress fracture risk in high-risk patients.",
+      "bullets": [
+        "Suture anchors had the lowest day-of-surgery costs for distal biceps repairs, while button and screw combinations were most expensive among 433 patients.",
+        "Operative time and implant costs together accounted for 81% of total surgery day cost variance, with average procedure time of 60 minutes.",
+        "Retear rate was extremely low at 0.5% across all fixation methods, suggesting cost can guide implant choice without compromising outcomes."
+      ]
+    },
+    {
+      "pmid": "42059634",
+      "title": "Semiautomated Weight-Bearing CT-Based 3D Analysis of Normal Foot and Ankle in a Korean Population: A Comparison With European Data.",
+      "authors": [
+        "Moon SJ",
+        "Park ES",
+        "Kang C",
+        "Jeong MG",
+        "Song JH"
+      ],
+      "authors_short": "Moon SJ, Park ES, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BackgroundTo date, most reference data on foot and ankle morphology are derived from Western cohorts, potentially overlooking significant ethnic variation in Asian population. This study utilized 3D weight-bearing computed tomography (WBCT) to establish population-specific reference values of 3D foot and ankle parameters for a Korean cohort and compare these values with published European data.MethodsThis retrospective, cross-sectional study analyzed the asymptomatic contralateral feet of 39 Korean adults (\u226518\u2009years old) using WBCT under natural weight-bearing conditions. Automated 3D measurements-including Meary, talonavicular, and Saltzman view angles-were calculated across sagittal, axial, and coronal planes. Results were compared to a published European cohort (n\u2009=\u2009100) using Welch t test. For the subgroup analysis, an independent sample t test was used to compare the parameters between male and female participants within the Korean cohort. Pearson correlation analysis was performed to assess the relationship between age and the measured foot parameters.ResultsStatistically significant differences were observed in 18 of the measured parameters between the Korean and European cohorts. The Korean cohort showed a significantly lower sagittal Meary angle, higher talonavicular angle, and lower Saltzman view angle than European data. Analysis of the Korean cohort revealed no significant sex-based differences across most 3D WBCT parameters, except for the sagittal third tarsometatarsal angle. Age was positively correlated with axial Meary angle, Saltzman view angle, and hallux valgus angle.ConclusionThis study provides preliminary 3D WBCT reference values for the adult Korean foot and ankle. The distinct morphologic variations observed between Korean and European populations underscore the need for ethnic-specific reference values. These findings provide a foundational 3D metric for clinical diagnosis and surgical planning in East Asian populations.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42059634/",
+      "score": 50,
+      "score_reasoning": "Cross-sectional study establishing Korean foot morphology reference values using 3D WBCT, though limited sample size (39 patients).",
+      "bullets": [
+        "Korean adults show significantly different foot morphology from Europeans in 18 of the measured 3D weight-bearing CT parameters, including lower sagittal Meary angles and higher talonavicular angles.",
+        "This study of 39 asymptomatic Korean feet establishes population-specific reference values for 3D foot and ankle measurements that differ substantially from Western cohorts.",
+        "Age correlates with increasing axial Meary angle, Saltzman view angle, and hallux valgus angle in Korean patients, while sex shows minimal differences in foot morphology."
+      ]
+    },
+    {
+      "pmid": "42059084",
+      "title": "Mechanical axis correction after total knee arthroplasty alters ankle alignment but does not affect ankle function.",
+      "authors": [
+        "Portes-Chiva A",
+        "Soria-Bl\u00e1zquez A",
+        "Hinarejos P",
+        "Torres-Claramunt R",
+        "Perelli S",
+        "S\u00e1nchez-Soler JF",
+        "Gin\u00e9s-Cespedosa A",
+        "Monllau JC"
+      ],
+      "authors_short": "Portes-Chiva A, Soria-Bl\u00e1zquez A, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: Total knee arthroplasty (TKA) restores knee function, but correction of coronal plane deformities may alter the biomechanics of adjacent joints. This study aimed to determine whether changes in knee alignment after TKA have clinical or radiological effects on the ankle. METHODS: A prospective observational study included 158 patients undergoing TKA, of whom 128 completed 1-year follow-up. Clinical outcomes were assessed preoperatively and at 3, 6 and 12 months using the Manchester-Oxford Foot Questionnaire (MOXFQ), Knee Society Score (KSS), Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC), European Quality of Life (EuroQol) and Forgotten Joint Score-12 (FJS-12). Radiographic parameters, including the mechanical axis of the limb and the ankle joint orientation angle (AJOA), were measured preoperatively and at 6 months postoperatively. RESULTS: The mean mechanical axis improved from 5.8\u00b0 varus to 1.3\u00b0 varus (p\u2009<\u20090.001). The AJOA changed from -0.8\u00b0 to 0.8\u00b0 (p\u2009=\u20090.001). A moderate positive correlation was found between the change in AJOA and the degree of knee axis correction (rho\u2009=\u20090.4, p\u2009<\u20090.001). No significant correlation was found between mechanical axis correction and MOXFQ scores at 3, 6 or 12 months. All patient-reported outcome measures improved after surgery compared with preoperative values. CONCLUSIONS: Correction of the mechanical axis following TKA modifies ankle radiographic alignment but does not significantly affect ankle function at 1 year in patients with moderate deformities. Functional outcomes improved after surgery regardless of the degree of alignment change. LEVEL OF EVIDENCE: Level II.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42059084/",
+      "score": 45,
+      "score_reasoning": "Retrospective review of crossed-screw subtalar arthrodesis technique providing technical alternative with comparable outcomes.",
+      "bullets": [
+        "TKA correction of knee varus deformity causes measurable changes in ankle joint alignment on radiographs within 6 months.",
+        "Despite radiographic ankle alignment changes, patients show no decline in ankle function scores at 1 year after TKA.",
+        "Knee and ankle functional outcomes improve after TKA regardless of how much the mechanical axis is corrected."
+      ]
+    }
+  ],
+  "picks": [
+    2
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-05-01T04:06:17.052048-07:00"
+}
