@@ -1,0 +1,296 @@
+{
+  "brief_date": "2026-05-02",
+  "brief_date_display": "Saturday, May 02",
+  "candidates": [
+    {
+      "pmid": "42055222",
+      "title": "Do Hip Precautions Matter After Posterior Approach Total Hip Arthroplasty With Capsular Repair? A Randomized Control Trial.",
+      "authors": [
+        "Yadav AS",
+        "Potluri A",
+        "Dandamudi S",
+        "Singh H",
+        "DeBenedetti A",
+        "Behery O",
+        "Levine BR"
+      ],
+      "authors_short": "Yadav AS, Potluri A, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: The clinical efficacy of posterior hip precautions in preventing dislocation after primary posterior approach total hip arthroplasty (THA) remains uncertain. Such mobility restrictions may delay patients' return to daily activities and functional recovery. The aim of this study was to determine whether THA hip precautions impact hip dislocation rates. METHODS: We conducted a prospective, randomized study evaluating the effect of hip precautions on the risk of dislocation after primary THA. A total of 1,133 patients were enrolled and underwent posterior approach primary THA by multiple fellowship-trained surgeons at a single academic center between January 2016 and June 2025. Patients were randomized to either a restricted group, instructed to avoid hip flexion beyond 90\u00b0, adduction past midline, and internal rotation for six weeks postoperatively, or an unrestricted group without restraint to motion or activity. Demographics, surgical indications, and prosthesis data were recorded. The minimum follow-up for analysis was six weeks. The primary outcome was dislocation; secondary outcomes included perioperative complications and patient-reported outcomes. The unrestricted and restricted groups included 567 and 566 patients, respectively, with no significant demographic or surgical differences (all P > 0.245). Follow-up was similar between groups (mean, 1.3 \u00b1 1.4 years; range, 0.1 to 8.6 years; P = 0.645). Statistical analyses used Fisher's exact test and t-tests using P < 0.05 for significance. RESULTS: Overall, ten dislocations (0.88%) were reported at 9.1 \u00b1 10.5 months postoperatively, with six in restricted and four in unrestricted patients (odds ratio (OR): 0.60; 95% confidence interval (CI): 0.17 to 2.17; P = 0.547). Hip Disability and Osteoarthritis Outcome Scores Joint Replacement (HOOS JR) were statistically higher in the unrestricted group at six weeks (76.78 versus 74.48, P = 0.028) and three to six months (84.60 versus 81.54, P = 0.015), with no significant difference in baseline scores (51.98 versus 50.44, P = 0.130). There were no differences observed in 90-day complications or revisions (all P > 0.209). CONCLUSION: We could not detect any difference in dislocation risk following routine use of strict hip precautions following posterior approach THA with capsular repair. These precautions may unnecessarily limit early functional recovery, increase patient anxiety, and negatively impact patient-reported outcomes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42055222/",
+      "score": 92,
+      "score_reasoning": "High-quality randomized controlled trial with 1,133 patients comparing hip precautions vs. unrestricted movement after THA, directly addressing a fundamental clinical question with immediate practice implications.",
+      "bullets": [
+        "Hip precautions after posterior approach THA with capsular repair did not reduce dislocation rates in 1,133 patients (0.88% overall dislocation rate, no difference between restricted and unrestricted groups).",
+        "Patients without hip precautions had better functional scores at 6 weeks and 3-6 months postoperatively compared to those with standard movement restrictions.",
+        "Hip precautions may unnecessarily limit recovery after posterior THA when capsular repair is performed, with no safety benefit demonstrated."
+      ]
+    },
+    {
+      "pmid": "42036089",
+      "title": "The One-Year Infection Rates After Vancomycin Powder and Dilute Povidone-Iodine Lavage in High-Risk Primary Total Joint Arthroplasty: A Multicenter Randomized Controlled Trial.",
+      "authors": [
+        "Saba BV",
+        "Long WJ",
+        "Higuera CA",
+        "Dundon J",
+        "Cooper HJ",
+        "Dennis DA",
+        "Chen AF",
+        "Schwarzkopf R"
+      ],
+      "authors_short": "Saba BV, Long WJ, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Given the severe morbidity, mortality, and substantial cost of periprosthetic joint infection (PJI), substantial research has been conducted to compare peri- and postoperative infection-prevention strategies. To our knowledge, there are no studies to date that have evaluated the one-year efficacy of intraoperative vancomycin powder and/or dilute povidone-iodine (DPI) lavage versus saline lavage in total joint arthroplasty. We previously reported no significant group differences at three months in a large multicenter randomized controlled trial. The present study reports 1-year outcomes of the same cohort. METHODS: In this prospective, multicenter trial, 2,053 high-risk patients undergoing primary, unilateral total hip arthroplasty (THA) or total knee arthroplasty (TKA) were randomized to one of four intraoperative protocols: vancomycin powder, DPI, VPIP (combination), or saline lavage control. The primary outcome was 1-year PJI resulting in septic revision surgery. Analyses were conducted on a per-protocol basis using Chi-square tests stratified by procedure. At one year, complete follow-up was available for 798 THA and 1,032 TKA patients after accounting for withdrawals, loss to follow-up, and nine unrelated deaths. RESULTS: In the THA cohort, PJI occurred in 0.5% of vancomycin patients, 1.7% of iodine patients, 1.9% of VPIP patients, and 1.1% of saline patients (P = 0.62). In the TKA cohort, PJI occurred in 1.6% of vancomycin patients, none of the iodine patients, 2.0% of VPIP patients, and 0.4% of saline patients (P = 0.05). There were no significant differences between study groups at zero to three months (P = 0.14 for THA, P = 0.13 for TKA), three to 12 months (P = 0.67 for THA, P = 0.80 for TKA), or combined zero to 12 months (P = 0.62 for THA, P = 0.05 for TKA). CONCLUSIONS: There were no significant differences in 1-year PJI rates observed across prophylactic strategies in high-risk primary THA or TKA. These findings suggest that intraoperative antiseptic and antibiotic protocols may have limited influence on longer-term outcomes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42036089/",
+      "score": 88,
+      "score_reasoning": "Large multicenter RCT (2,053 patients) examining infection prevention strategies in high-risk THA/TKA patients with one-year outcomes, providing definitive evidence on vancomycin powder and povidone-iodine efficacy.",
+      "bullets": [
+        "Vancomycin powder and povidone-iodine lavage showed no significant reduction in one-year infection rates compared to saline in high-risk primary hip and knee replacements.",
+        "Infection rates at one year were low across all groups, ranging from 0.4% to 2.0% in this multicenter trial of over 1,800 patients.",
+        "Intraoperative antiseptic protocols may have limited impact on preventing late periprosthetic joint infections beyond the early postoperative period."
+      ]
+    },
+    {
+      "pmid": "42030551",
+      "title": "Isolated Proximal Femoral Valgus Osteotomy for Hinge Abduction Improves Femoroacetabular Relationship in Patients With Perthes Disease.",
+      "authors": [
+        "Rhee I",
+        "Park BK",
+        "Shah M",
+        "Lim CK",
+        "Park S",
+        "Park KB",
+        "Park H",
+        "Kim HW"
+      ],
+      "authors_short": "Rhee I, Park BK, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Proximal femoral valgus osteotomy is a recognized salvage procedure for managing hinge abduction in Perthes disease. Although proximal femoral valgus osteotomy aims to improve joint congruency, previous studies have been limited by heterogeneous methodologies and concomitant procedures, making it difficult to determine its isolated effect. Furthermore, no study of which we are aware has specifically examined how proximal femoral valgus osteotomy influences acetabular development or lower limb alignment over time. QUESTIONS/PURPOSES: (1) Is isolated proximal femoral valgus osteotomy associated with improvements in femoral sphericity and proximal femur development at skeletal maturity? (2) Is it associated with promotion of acetabular development? (3) Is it associated with changes in the lower limb mechanical axis? METHODS: Between November 2000 and December 2020, we treated 33 patients using proximal femoral valgus osteotomy for painful hinge abduction deformity associated with Perthes disease, which was initially suspected through serial clinical examinations and confirmed during examination under anesthesia combined with arthrographic findings. All 33 patients who met diagnostic criteria during the study period were treated with the same operation (except as specified below), and all were accounted for at a minimum of 5 years of follow-up and considered potentially eligible for study here. Of these, eight patients were excluded for prespecified reasons (bilateral surgery, use of shelf procedure or limb lengthening procedure, or skeletal immaturity at the most recent follow-up), leaving 25 patients, with a mean \u00b1 SD follow-up of 13 \u00b1 5 years; two of those patients had not been evaluated within the past 5 years, although both had achieved skeletal maturity at their most recent follow-up (19 and 20 years of age, respectively). The mean \u00b1 SD age was 9 \u00b1 2 years at the time of surgery and 22 \u00b1 5 years at the most recent follow-up. Femoral head morphology was assessed using the sphericity deviation score, a continuous measure that quantifies the shape of the femoral head, with values < 10 considered spherical. Proximal femoral alignment was evaluated using the neck-shaft angle and the articulotrochanteric distance, with higher neck-shaft angles indicating coxa valga, lower angles indicating coxa vara, and reduced articulotrochanteric distances indicating relative overgrowth or proximal migration of the greater trochanter. Acetabular development was assessed using the center-edge angle and the Sharp angle, with lower center-edge angles and higher Sharp angles associated with acetabular dysplasia. The alignment of the lower limb was assessed at the most recent follow-up. The hip shape at the most recent follow-up was assessed using both the Stulberg classification and the head-acetabulum-trochanter (HAT) system. The Stulberg classification categorizes hips at skeletal maturity as from Class I (a normal hip) to Class V (a flattened femoral head with a normal neck and acetabulum). The HAT classification assesses the femoral head, acetabulum, and greater trochanter, with higher scores indicating greater residual deformity (\u2264 3 is considered a \"good\" outcome). Pain was assessed using the VAS during activities of daily living. Hip ROM was measured at the most recent follow-up. RESULTS: Proximal femoral valgus osteotomy was associated with improvement in femoral head sphericity, as the mean \u00b1 SD sphericity deviation score improved from 62 \u00b1 19 before surgery to 34 \u00b1 22 at the most recent follow-up (mean difference 28 [95% confidence interval (CI) 16 to 41]; p < 0.001). The neck-shaft angle increased postoperatively but partially remodeled, while the articulotrochanteric distance returned toward preoperative levels. Proximal femoral valgus osteotomy was also associated with improvements in acetabular development, as the center-edge angle progressively increased and the Sharp angle decreased. The Stulberg classification was Class II in three hips, Class III in 15, Class IV in three, and Class V in four, while 13 hips had a HAT score of \u2264 3, representing a good outcome on that parameter. The mechanical lateral distal femoral angle was 84\u00b0 \u00b1 2\u00b0 on the affected side and 86\u00b0 \u00b1 2\u00b0 on the contralateral side (mean difference -2\u00b0 [95% CI -3\u00b0 to -1\u00b0]; p = 0.001), whereas no differences were observed in the other mechanical angles. On the VAS, preoperative scores ranged from 6 to 10, whereas scores at the most recent follow-up ranged from 0 to 2. The overall hip ROM was within normal limits, with internal rotation demonstrating a slight reduction. CONCLUSION: Isolated proximal femoral valgus osteotomy for hinge abduction deformities was associated with improvements in femoral head sphericity and acetabular development in patients with Perthes disease. We recommend a paradigm shift in which proximal femoral valgus osteotomy may be regarded more as a joint preservation procedure than as a salvage operation. Future research is warranted to evaluate the potential influence of patient age and disease stage on outcomes and to further define the indications for additional acetabular procedures in hinge abduction deformities. LEVEL OF EVIDENCE: Level IV, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42030551/",
+      "score": 62,
+      "score_reasoning": "Large propensity-matched study (1,124 patients) examining tourniquet use effects on PROMs in obese TKA patients, addressing specific population management.",
+      "bullets": [
+        "Proximal femoral valgus osteotomy in 25 Perthes patients with hinge abduction improved femoral head sphericity scores from 62 to 34 at 13-year follow-up.",
+        "The procedure promoted acetabular development with progressive improvement in center-edge angles and reduction in Sharp angles over time.",
+        "Pain scores improved from 6-10 preoperatively to 0-2 at final follow-up, with 13 of 25 hips achieving good HAT scores."
+      ]
+    },
+    {
+      "pmid": "42058459",
+      "title": "Objective Sleep Disturbance After Total Hip and Knee Arthroplasty: A Systematic Review of Wearable-Derived Metrics and Targeted Interventions.",
+      "authors": [
+        "Ferrero A",
+        "Patrucco F",
+        "Marcolin MG",
+        "Conte P",
+        "Di Matteo B",
+        "Guazzoni E",
+        "Minelli M",
+        "Kon E",
+        "Anzillotti G"
+      ],
+      "authors_short": "Ferrero A, Patrucco F, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Sleep disturbance is common in patients with hip and knee osteoarthritis and may worsen during the perioperative period of total joint arthroplasty. Poor sleep has been linked to higher pain, delayed functional recovery, and reduced patient satisfaction; however, most arthroplasty studies rely on subjective questionnaires, providing limited insight into the magnitude and time course of postoperative sleep disruption. METHODS: A systematic literature search of PubMed, Embase, and the Cochrane Library was conducted from inception to November 17, 2025, following Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. Studies reporting objective perioperative sleep assessment using actigraphy, consumer wearables, or portable electroencephalography (EEG) in adults undergoing total hip arthroplasty or total knee arthroplasty were included. RESULTS: Seven studies met inclusion criteria, including observational cohorts and randomized controlled trials. Objective monitoring consistently demonstrated substantial sleep disruption in the early postoperative period, characterized by reduced nocturnal sleep duration, increased fragmentation, and decreased sleep efficiency, with gradual recovery over subsequent days to weeks. Studies using portable EEG identified marked but transient suppression of rapid eye movement (REM) sleep immediately after surgery. Longer-term wearable monitoring suggested stabilization of total sleep time, although correlations with subjective sleep quality were variable. Pharmacologic interventions showed minimal or inconsistent benefits on objective sleep duration or architecture. CONCLUSIONS: Objective wearable monitoring identifies reproducible sleep disruption after total hip arthroplasty and total knee arthroplasty that is incompletely captured by patient-reported measures. Standardized objective endpoints, validation of wearable devices in arthroplasty populations, and integration of sleep assessment into enhanced recovery pathways may improve postoperative care and patient-centered outcomes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42058459/",
+      "score": 59,
+      "score_reasoning": "Large database study examining robotic assistance benefits for low-volume TKA surgeons, addressing important technology adoption and training questions.",
+      "bullets": [
+        "Wearable devices show all hip and knee arthroplasty patients have significant sleep disruption for days to weeks after surgery, with reduced sleep time and REM suppression that questionnaires miss.",
+        "Sleep problems after joint replacement are worse than patients report on surveys, suggesting objective monitoring gives surgeons better data than asking patients how they slept.",
+        "Current sleep medications do not meaningfully improve objective sleep quality after arthroplasty, indicating need for better interventions in recovery protocols."
+      ]
+    },
+    {
+      "pmid": "42058460",
+      "title": "Robotic Assistance for Low-Volume Total Knee Arthroplasty Surgeons Is Associated With Comparable Perioperative Outcomes Related to Those of High-Volume Surgeons Using Conventional Techniques.",
+      "authors": [
+        "Lee AH",
+        "Jahagirdar OB",
+        "Slevin JP",
+        "Rubin LE",
+        "Grauer JN"
+      ],
+      "authors_short": "Lee AH, Jahagirdar OB, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Studies have reported mixed utility of robotics in total knee arthroplasty (TKA). Separately, higher surgical volume has correlated with improved outcomes. The potential interplay of these variables has not been assessed. METHODS: Patients undergoing conventional and robotic TKAs performed by low-volume and high-volume surgeons were identified from PearlDiver M170Ortho. Three matched comparisons were performed: conventional low-volume TKA (LV-TKA) vs robotic LV-TKA (R-LV-TKA), conventional high-volume TKA (C-HV-TKA) vs robotic high-volume TKA (R-HV-TKA), and C-HV-TKA vs R-LV-TKA. Aggregated 90-day adverse events (AEs), 5-year implant-related events, and revision rates were assessed. RESULTS: Among low-volume surgeons, there were 8923 conventional LV-TKAs and 2235 R-LV-TKAs. R-LV-TKAs had lower odds of 90-day any (odds ratio [OR] 0.63), severe (OR 0.71), and minor (OR 0.66) AEs, driven by deep vein thrombosis (OR 0.47) and transfusion (OR 0.43) rates (all P < .003). At 5 years, no differences existed in implant-related events or revisions. Among high-volume surgeons, there were 19,732 C-HV-TKAs and 4939 R-HV-TKAs. R-HV-TKAs had lower odds of 90-day any (OR 0.79) and minor (OR 0.74) AEs, driven by urinary tract infection (OR 0.63) and transfusion (OR 0.45) rates (all P < .001). At 5 years, R-HV-TKAs had lower odds of periprosthetic joint infection (OR 0.56, P < .001) and revision rates (2.2% vs 3.3%, P = .02). Comparing C-HV-TKAs and R-LV-TKAs, no differences existed in 90-day AEs, 5-year implant-related events, or revisions. CONCLUSIONS: Robotic assistance was associated with lower odds of aggregated perioperative complications for low-volume and high-volume surgeons and with improved 5-year outcomes in high-volume robotic surgeons. Notably, robotic usage by low-volume surgeons was associated with outcomes comparable to nonrobotic high-volume surgeons, suggesting outcome gaps because of volume may be partially closed through robotics.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42058460/",
+      "score": 58,
+      "score_reasoning": "Large database study (6,796 patients) examining age-related microbiological patterns in knee PJI, providing important diagnostic and treatment guidance.",
+      "bullets": [
+        "Low-volume surgeons using robotic TKA had 37% fewer 90-day complications compared to low-volume surgeons using conventional techniques, primarily from reduced DVT and transfusion rates.",
+        "High-volume surgeons using robotics showed lower 5-year periprosthetic infection rates (OR 0.56) and revision rates (2.2% vs 3.3%) compared to high-volume conventional surgeons.",
+        "Low-volume surgeons using robotics achieved similar perioperative outcomes to high-volume surgeons using conventional techniques, suggesting robotics may help close the volume-outcome gap."
+      ]
+    },
+    {
+      "pmid": "42053079",
+      "title": "Lateral UKA Is Associated With Mixed 90-Day and 5-Year Outcomes Relative to Medial UKA and TKA.",
+      "authors": [
+        "Slevin JP",
+        "Seddio AE",
+        "Ajjawi IB",
+        "Padela MT",
+        "Kaplan MJ",
+        "Grauer JN",
+        "Rubin LE"
+      ],
+      "authors_short": "Slevin JP, Seddio AE, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Unicompartmental knee arthroplasty (UKA) is an option for unicompartmental osteoarthritis. With medial or multicompartment joint wear being the most common clinical scenarios, lateral UKA (L-UKA) is less commonly considered than other knee joint arthroplasty procedures. As such, the postoperative outcomes of L-UKA relative to medial UKA (M-UKA) and total knee arthroplasty (TKA) remain poorly characterized at a national level in the United States. METHODS: Patients undergoing L-UKA were identified from the PearlDiver M170Ortho Database and separately matched 1:4 with M-UKA and TKA patients by age, sex, and Elixhauser Comorbidity Index. Multivariable logistic regression compared 90-day adverse events, emergency department visits, readmissions, and 5-year implant-related issues. RESULTS: First, 343 L-UKAs were assessed relative to 1,295 M-UKAs. L-UKA demonstrated higher odds of 90-day severe adverse events (odds ratio [OR], 1.83; P = 0.037), infection (OR, 1.41; P = 0.022), wound dehiscence (OR, 3.60; P = 0.008), readmission (OR, 1.67; P = 0.047), and 5-year prosthetic joint infection (OR, 2.57; P = 0.001). Second, 425 L-UKAs were assessed relative to 1,700 TKAs. L-UKA demonstrated higher odds of 90-day wound dehiscence (OR, 2.13; P = 0.025), 5-year prosthetic joint infection (OR, 1.64; P = 0.028), and revision (OR, 2.00; P = 0.007), but lower odds of 5-year stiffness (OR, 0.45; P < 0.001). DISCUSSION: In the first study of L-UKA using national-level US data, L-UKA demonstrated mixed outcomes compared with both M-UKA and TKA. While L-UKA demonstrated lower stiffness rates than TKA, the elevated risk of 90-day postoperative complications and inferior 5-year revision-free survival suggest the need for careful consideration of L-UKA and future prospective analysis to further elucidate whether these associations can be generalized across surgeons with differing case volumes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42053079/",
+      "score": 57,
+      "score_reasoning": "Large national database study examining lateral UKA outcomes compared to medial UKA and TKA, addressing important procedure selection questions.",
+      "bullets": [
+        "Lateral UKA has higher rates of 90-day wound complications and infections compared to both medial UKA and TKA.",
+        "Lateral UKA shows doubled revision rates at 5 years versus TKA but causes less knee stiffness than TKA.",
+        "Lateral UKA patients face higher prosthetic joint infection risk at 5 years compared to both medial UKA and TKA patients."
+      ]
+    },
+    {
+      "pmid": "42053088",
+      "title": "Effect of Tendon Gap Distance on Clinical Outcomes Following Nonsurgical Management of Acute Achilles Tendon Rupture: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Odunukwe C",
+        "Ward PM",
+        "Lee W"
+      ],
+      "authors_short": "Odunukwe C, Ward PM, Lee W",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: The prognostic value of initial tendon gap distance following acute Achilles tendon rupture (ATR) remains unclear. The present systematic review and meta-analysis aimed to investigate the effect of tendon gap distance on clinical outcomes following nonsurgical management of acute ATR. METHODS: Our review followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines and used PubMed, EMBASE, and Cochrane Library databases for studies investigating the influence of tendon gap distance on functional outcomes following nonsurgical management of acute ATR. Data investigated included patient demographics, functional scores, including the Achilles Tendon Rupture Score (ATRS), gap size, and rupture location. The association between tendon gap distance and functional outcomes was investigated. Additional analyses examined secondary associations among age, sex, and rupture location and functional outcomes. RESULTS: A total of eight studies comprising 288 patients with acute ATRs were included in our review. Of these, four studies met criteria for quantitative synthesis and were included in the meta-analysis. With a cutoff of 10-mm gap distance, the pooled analysis demonstrated a markedly lower ATRS in patients with a larger gap size (>10 mm versus \u226410 mm; Cohen d = -0.39; 95% CI = -0.76 to -0.02; P = 0.04). Secondary analyses revealed lower ATRS in patients older than 50 years (d = -0.70; P < 0.001) and female patients (d = -0.58; P = 0.01), whereas rupture location had no notable effect (P = 0.85). CONCLUSION: Our review demonstrated that a larger initial tendon gap is associated with lower functional outcomes following nonsurgical management of acute ATR, particularly with a cutoff of 10 mm. Furthermore, factors such as age and sex may also influence clinical outcomes. However, the result should be interpreted with caution due to heterogeneity across studies. LEVEL OF EVIDENCE: Level 3, systematic review and meta-analysis.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42053088/",
+      "score": 56,
+      "score_reasoning": "Systematic review and meta-analysis examining tendon gap distance effects on Achilles tendon rupture outcomes with practical treatment implications.",
+      "bullets": [
+        "Achilles tendon ruptures with initial gap distance greater than 10mm show worse functional outcomes when treated nonsurgically compared to gaps of 10mm or less.",
+        "Patients over age 50 and female patients demonstrate lower Achilles Tendon Rupture Scores after conservative treatment regardless of gap size.",
+        "Initial tendon gap measurement may help guide treatment decisions for acute Achilles ruptures, with larger gaps potentially favoring surgical intervention."
+      ]
+    },
+    {
+      "pmid": "42049197",
+      "title": "Are Levels of Blood Metal Nanoparticles Elevated After Spinal Fusion and Implantation in Patients With Adolescent Idiopathic Scoliosis?",
+      "authors": [
+        "Wang Y",
+        "Li T",
+        "Xiang G",
+        "He S",
+        "Deng A",
+        "Guo C",
+        "Yin Y",
+        "Zeng Z",
+        "Tan Z"
+      ],
+      "authors_short": "Wang Y, Li T, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Implantation of titanium alloys (Ti-6Al-4V) or cobalt-chromium-molybdenum alloys (Co-Cr-Mo) for long-segment spinal fixation is the standard surgical treatment for adolescent idiopathic scoliosis (AIS), but long-term presence of the implants in the body may lead to the release of metal nanoparticles. Unlike orthopaedic internal fixation surgeries, spinal implants generally remain in the human body for a lifetime. The release of metal nanoparticles remains a potential clinical issue, but currently there is a lack of strong data on the topic. This study aimed to fill this crucial knowledge gap by providing longitudinal evidence on the dynamics of metal ion release. This is the first step in determining safety characteristics and clinical thresholds. QUESTIONS/PURPOSES: (1) Are serum Ti, Co, and Cr concentrations in patients with AIS after implantation elevated compared with in patients without implantation over a 4-year period? (2) Does surgical removal of implants lead to a reduction in systemic metal nanoparticle load? (3) Is there a correlation between metal ion levels and implant burden? (4) Does implant type (Ti-6Al-4V versus Co-Cr-Mo) influence serum metal concentrations? METHODS: This was a single-center retrospective cohort study performed at an urban tertiary referral hospital from January 2018 to December 2020. A total of 336 patients with AIS were included, including 60% (201 of 336) who underwent surgical treatment and 40% (135 of 336) who received nonsurgical treatment. Among the 201 patients who underwent AIS operations, 6% (13 of 201) were excluded because of the presence of metal implants in other parts (ulna and radius [n = 5], around the elbow joint [n = 4], femoral shaft [n = 4]), and 15% (31 of 201) were excluded because they were lost to follow-up, resulting in incomplete clinical data. Forty-eight percent (96 of 201) of the patients only received spinal implant treatment without revision surgery (implant group), 23% (46 of 201) of the patients received spinal implant treatment and underwent revision surgery but did not have the implants removed (revision group), and 7% (15 of 201) of the patients received spinal implant treatment, underwent revision surgery, and had the implants removed (removal group). Among the 135 patients with AIS who did not undergo surgery, 6% (8 of 135) were excluded because of the presence of metal implants in other parts (ulna and radius [n = 3], around the elbow joint [n = 3], femoral shaft [n = 2]), and 16% (22 of 135) were excluded because they were lost to follow-up, resulting in incomplete clinical data. Seventy-eight percent (105 of 135) of the patients who did not undergo surgery who met the inclusion criteria were ultimately included in the control group. Since 2015, according to a standardized protocol, serum samples from patients undergoing surgery for AIS and from the nonsurgical control group have been collected. This is part of a broader and ongoing research project for patients with AIS. Between February and April 2025, we determined the metal ion concentrations in the collected blood samples. Serum Ti, Co, and Cr levels were measured via inductively coupled plasma mass spectrometry at multiple postoperative time points. The correlation between metal ion levels and rod length as well as the number of screws were evaluated using correlation analysis. Linear regression analysis was employed to assess the relationship between implant types (Ti-6Al-4V and Co-Cr-Mo), rod diameter, and serum metal concentrations. The extracted implants were subjected to scanning electron microscopy (SEM) combined with energy-dispersive x-ray spectroscopy analysis to examine the surface morphology and elemental composition of the implants. RESULTS: Serum concentrations of Ti, Co, and Cr were higher in patients with spinal implants than in nonsurgical controls at all postoperative time points. At 48 months, the mean \u00b1 SD serum Ti was 1.1 \u00b1 0.3 \u03bcg/L in the implant group versus 0.2 \u00b1 0.1 \u03bcg/L in controls (mean difference 0.9 \u03bcg/L [95% confidence interval (95% CI) 0.8 to 1.0]; p < 0.001), for Co it was 0.3 \u00b1 0.2 \u03bcg/L versus 0.2 \u00b1 0.1 \u03bcg/L (mean difference 0.1 \u03bcg/L [95% CI 0.1 to 0.2]; p < 0.001), and for Cr it was 1.0 \u00b1 0.5 \u03bcg/L versus 0.1 \u00b1 0.1 \u03bcg/L (mean difference 0.9 \u03bcg/L [95% CI 0.6 to 0.7]; p < 0.001). Metal levels peaked at 12 months postoperatively and remained elevated for 48 months. Implant removal was associated with a reduction in serum metal concentrations. At 6 months after removal, Ti levels decreased by 1.8 \u03bcg/L (95% CI -2.1 to -1.6; p < 0.001), Co levels by 0.4 \u03bcg/L (95% CI -0.5 to -0.3; p < 0.001), and Cr levels by 1.2 \u03bcg/L (95% CI -1.4 to -1.0; p < 0.001) compared with the removal group. At 12 months after removal surgery, there was no difference in Ti ion concentration between the removal group and the control group (0.2 \u00b1 0.2 versus 0.2 \u00b1 0.1, mean difference 0.0 [95% CI -0.2 to 0.1]; p = 0.38). Similarly, no difference was observed in Co ion concentration (0.2 \u00b1 0.1 versus 0.2 \u00b1 0.1, mean difference 0.0 [95% CI -0.1 to 0.1]; p = 0.62). Additionally, Cr ion concentration did not differ between groups (0.2 \u00b1 0.1 versus 0.1 \u00b1 0.1, mean difference 0.1 [95% CI -0.2 to 0.1]; p = 0.45). Serum metal concentrations correlated positively with implant load (rod length r = 0.85 to 0.87, number of screws r = 0.87 to 0.88; all p < 0.001) and rod diameter (\u03b2 = 0.54 to 0.58; all p < 0.001).The serum Co concentration had a substantial positive correlation with the use of Co-Cr-Mo implants (\u03b2 = 0.54; p < 0.001). Similarly, the serum Cr concentration had a substantial positive correlation with the use of Co-Cr-Mo implants (\u03b2 = 0.58; p < 0.001). SEM analysis confirmed implant surface corrosion and nanoscale defects consistent with metal release. CONCLUSION: Serum levels of Ti, Co, and Cr increase after posterior spinal fusion in patients with AIS, reaching a peak at 12 months after operation, and remaining elevated for at least 4 years, which suggests continuous release of metal ions from the implants. Removal of the implants was associated with a reduction in serum metal ion levels, confirming that the implants are the main source of metal nanoparticle release. The concentration of metal ions is related to the burden of the implant (such as the length of the rod and the number of screws) and the type of implant. However, the clinical importance of elevated metal ions needs further confirmation. Our findings are preliminary and do not support routine metal ion tests or imaging examinations in patients with AIS treated surgically or recommendations regarding implant removal; however, future research may attempt to correlate ion levels with symptoms or imaging results in the study environment. LEVEL OF EVIDENCE: Level III, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42049197/",
+      "score": 54,
+      "score_reasoning": "Economic analysis examining intraosseous vancomycin cost-effectiveness in TKA infection prevention with clear financial implications for healthcare systems.",
+      "bullets": [
+        "Blood titanium, cobalt, and chromium levels remain elevated for at least 4 years after spinal fusion in adolescent idiopathic scoliosis patients compared to controls.",
+        "Higher metal ion concentrations correlate with larger implant burden, including longer rods, more screws, and cobalt-chromium implants versus titanium.",
+        "Implant removal reduces blood metal levels to normal within 12 months, confirming spinal hardware as the source of systemic metal release."
+      ]
+    },
+    {
+      "pmid": "42059050",
+      "title": "Functional alignment: Defined personalized alignment strategy with promising outcomes and room for improvement.",
+      "authors": [
+        "Andriollo L",
+        "Gregori P",
+        "Koutserimpas C",
+        "Lustig S"
+      ],
+      "authors_short": "Andriollo L, Gregori P, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "Functional alignment (FA) has emerged as a patient-specific alternative to traditional alignment philosophies in total knee arthroplasty (TKA), aiming to restore native knee biomechanics while respecting individual soft-tissue behaviour. Although recently described as an 'umbrella term', FA has evolved through structured and reproducible workflows supported by image-based robotic technology, enabling three-dimensional planning and dynamic intraoperative assessment. This editorial summarizes the evolution of FA from its original definition to its current interpretation as functional knee positioning, emphasizing its dynamic and three-dimensional nature. Key aspects, including workflow principles, sagittal and coronal alignment during flexion, application in valgus knees, management of the anterior compartment ('third space'), and the influence of implant- and patient-related factors, are discussed. Current clinical evidence supports FA as a safe and effective strategy across different knee phenotypes, highlighting the importance of individualized alignment targets rather than fixed coronal goals. By contextualizing recent biomechanical and clinical data, this editorial aims to clarify fundamental concepts and promote consistent application and reporting of FA in contemporary TKA.",
+      "pub_types": [
+        "Editorial"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42059050/",
+      "score": 52,
+      "score_reasoning": "Prospective study (128 patients) examining ankle alignment changes after TKA with functional correlation, addressing biomechanical effects of knee correction.",
+      "bullets": [
+        "Functional alignment in total knee arthroplasty uses patient-specific imaging and robotics to restore individual knee biomechanics rather than achieving fixed alignment targets.",
+        "Current evidence shows functional alignment is safe and effective across different knee types, including challenging valgus deformities.",
+        "This approach focuses on three-dimensional dynamic positioning throughout knee flexion, moving beyond traditional static coronal plane measurements."
+      ]
+    },
+    {
+      "pmid": "42057569",
+      "title": "Plain Radiographs Underestimate Tibiotalar Tilt in Progressive Collapsing Foot Deformity.",
+      "authors": [
+        "Kim J",
+        "Mizher R",
+        "Demetracopoulos CA",
+        "Ellis SJ",
+        "Deland JT"
+      ],
+      "authors_short": "Kim J, Mizher R, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Accurate evaluation of tibiotalar alignment is essential for staging and surgical planning in progressive collapsing foot deformity (PCFD), yet plain radiographs are limited by their 2-dimensional nature and variability in beam angulation. This study pursued 3 objectives: to quantify discrepancies in tibiotalar tilt (TT) between plain radiographs (XRs) and weightbearing CT (WBCT), to compare the prevalence of significant valgus tilt between modalities, and to identify features associated with underrecognized deformity on XRs. METHODS: One hundred thirty-eight PCFD patients (mean age: 55.1\u2009years) who underwent both WBCT and ankle XRs were reviewed. On weightbearing ankle XRs, tibiotalar tilt (TTXR), medial distal tibial angle (MDTAXR), and talus-ground surface angle (Tal-GSXR) were measured. On WBCT, corresponding parameters (TTWBCT, MDTAWBCT, and Tal-GSWBCT) were assessed at 25% (anterior), 50% (middle), and 75% (posterior) of the joint. The degree of tibiotalar tilt and prevalence of significant valgus tibiotalar tilt (\u22654\u00b0) were compared. Bland-Altman plots evaluated agreement between XRs and WBCTs. Patients were classified into Discrepancy (TTXR\u2009<\u20094\u00b0, TTWBCT\u2009\u2265\u20094\u00b0) and No-discrepancy groups, and group characteristics were compared. Interobserver and intraobserver reliability were assessed using intraclass correlation coefficients (ICCs). RESULTS: Mean TTXR was 1.5\u00b0, and mean TTWBCT was 4.1\u00b0, indicating a 63% underestimation on radiographs. Significant valgus tilt (\u22654\u00b0) was present in 10.1% of radiographs vs 37.7% of WBCT scans. Radiographs correlated best with the middle WBCT slice. Discrepancy group patients showed greater anterior TTWBCT values. On multivariable logistic regression, anterior tibiotalar tilt on WBCT was the predictor of XR-WBCT discrepancy (odds ratio, 33.0; 95% CI, 5.6-114.7; P\u2009<\u2009.001), suggesting anterior deformities visualized on WBCT are not reliably captured on radiographs. Interobserver reliability ranged from 0.80 to 0.86 and intraobserver reliability from 0.88 to 0.89 (ICC). CONCLUSION: Plain radiographs underestimate valgus tibiotalar tilt compared with WBCT, mainly because of limited visualization of the anterior joint. Surgeons should recognize that reliance on XRs alone may lead to underrecognition of ankle valgus alignment in patients with PCFD. As WBCT is not universally available, optimizing XR projection angles may better capture anterior tibiotalar alignment and improve preoperative planning. LEVEL OF EVIDENCE: Level III, retrospective diagnostic.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42057569/",
+      "score": 50,
+      "score_reasoning": "Systematic review examining objective sleep assessment after TJA using wearable technology, addressing important quality of recovery measures.",
+      "bullets": [
+        "Plain radiographs underestimate valgus tibiotalar tilt by 63% compared to weightbearing CT in progressive collapsing foot deformity patients.",
+        "Significant ankle valgus tilt was missed on radiographs in 28% of cases that showed clear deformity on weightbearing CT.",
+        "Anterior tibiotalar deformities are poorly visualized on standard radiographs, requiring optimized projection angles or CT for accurate surgical planning."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-05-02T03:50:53.107821-07:00"
+}
