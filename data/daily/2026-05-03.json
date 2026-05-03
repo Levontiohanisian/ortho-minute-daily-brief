@@ -1,0 +1,297 @@
+{
+  "brief_date": "2026-05-03",
+  "brief_date_display": "Sunday, May 03",
+  "candidates": [
+    {
+      "pmid": "42036089",
+      "title": "The One-Year Infection Rates After Vancomycin Powder and Dilute Povidone-Iodine Lavage in High-Risk Primary Total Joint Arthroplasty: A Multicenter Randomized Controlled Trial.",
+      "authors": [
+        "Saba BV",
+        "Long WJ",
+        "Higuera CA",
+        "Dundon J",
+        "Cooper HJ",
+        "Dennis DA",
+        "Chen AF",
+        "Schwarzkopf R"
+      ],
+      "authors_short": "Saba BV, Long WJ, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Given the severe morbidity, mortality, and substantial cost of periprosthetic joint infection (PJI), substantial research has been conducted to compare peri- and postoperative infection-prevention strategies. To our knowledge, there are no studies to date that have evaluated the one-year efficacy of intraoperative vancomycin powder and/or dilute povidone-iodine (DPI) lavage versus saline lavage in total joint arthroplasty. We previously reported no significant group differences at three months in a large multicenter randomized controlled trial. The present study reports 1-year outcomes of the same cohort. METHODS: In this prospective, multicenter trial, 2,053 high-risk patients undergoing primary, unilateral total hip arthroplasty (THA) or total knee arthroplasty (TKA) were randomized to one of four intraoperative protocols: vancomycin powder, DPI, VPIP (combination), or saline lavage control. The primary outcome was 1-year PJI resulting in septic revision surgery. Analyses were conducted on a per-protocol basis using Chi-square tests stratified by procedure. At one year, complete follow-up was available for 798 THA and 1,032 TKA patients after accounting for withdrawals, loss to follow-up, and nine unrelated deaths. RESULTS: In the THA cohort, PJI occurred in 0.5% of vancomycin patients, 1.7% of iodine patients, 1.9% of VPIP patients, and 1.1% of saline patients (P = 0.62). In the TKA cohort, PJI occurred in 1.6% of vancomycin patients, none of the iodine patients, 2.0% of VPIP patients, and 0.4% of saline patients (P = 0.05). There were no significant differences between study groups at zero to three months (P = 0.14 for THA, P = 0.13 for TKA), three to 12 months (P = 0.67 for THA, P = 0.80 for TKA), or combined zero to 12 months (P = 0.62 for THA, P = 0.05 for TKA). CONCLUSIONS: There were no significant differences in 1-year PJI rates observed across prophylactic strategies in high-risk primary THA or TKA. These findings suggest that intraoperative antiseptic and antibiotic protocols may have limited influence on longer-term outcomes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42036089/",
+      "score": 92,
+      "score_reasoning": "Large multicenter randomized controlled trial (2,053 patients) in Journal of Arthroplasty examining infection prevention strategies in high-risk total joint arthroplasty with direct clinical applicability for preventing periprosthetic joint infection.",
+      "bullets": [
+        "High-risk primary hip and knee arthroplasty patients showed no significant difference in one-year infection rates between vancomycin powder, povidone-iodine lavage, combination therapy, or saline control.",
+        "Overall infection rates were low across all groups, ranging from 0.4% to 2.0% depending on joint type and treatment protocol.",
+        "Intraoperative antiseptic and antibiotic interventions appear to have minimal impact on preventing infections beyond the immediate postoperative period."
+      ]
+    },
+    {
+      "pmid": "42067076",
+      "title": "Differences and Similarities in Hip and Knee Acute Periprosthetic Joint Infections After Primary Arthroplasty Treated with Irrigation and Debridement: An International, Multicenter Retrospective Study.",
+      "authors": [
+        "Abedi AA",
+        "Sherman MB",
+        "Have BT",
+        "Zijlstra W",
+        "Jutte P",
+        "Sousa R",
+        "Soriano A",
+        "Parvizi J",
+        "Wouthuyzen-Bakker M"
+      ],
+      "authors_short": "Abedi AA, Sherman MB, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Debridement, antibiotics, and implant retention (DAIR) are the recommended surgical treatments for acute periprosthetic joint infections (PJI). The success of DAIR has been variable due to the patient heterogeneity. This multinational study evaluated the success rate and risk factors of failure of a DAIR procedure after primary arthroplasty and was separated for total hip arthroplasty (THA) and total knee arthroplasty (TKA). METHODS: Patients diagnosed with acute postoperative PJI between 1999 and 2017 and treated with DAIR after primary THA or TKA were included. In total, 643 patients from five European centers and one in the United States were analyzed. Acute postoperative PJI was defined as infections occurring within three months after primary arthroplasty. Treatment failure was defined as any subsequent surgical intervention to control the infection, including a repeated DAIR procedure, and death related to infection within one year. RESULTS: The success rate for DAIR after primary THA was 66.4% (253 of 381). Stepwise logistic regression identified significant independent risk factors for DAIR failure in THA: preoperative C-reactive protein levels (CRP) over 71 mg/L (odds ratio (OR) 2.48, P = 0.004), men (OR 2.17, P < 0.013), and an indication for arthroplasty other than osteoarthritis (OR 4.23, P <0.001). The overall success rate for DAIR after primary TKA was 68.7% (180 of 262). Significant independent risk factors for failure were chronic renal failure (OR 4.02, P = 0.034), preoperative serum CRP levels over 116 (OR 5.39, P <0.001), and polymicrobial infections (OR 2.22, P <0.043). Polyethylene exchange was an independent success factor in this population (OR 0.39, P = 0.018). CONCLUSION: The DAIR failure rates in acute postoperative PJI were similar for primary TKA and THA, but risk factors differed; high preoperative CRP was the only shared independent predictor. Host factors for DAIR failure differ between hips and knees.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42067076/",
+      "score": 88,
+      "score_reasoning": "Large multicenter retrospective study (643 patients) comparing DAIR success rates between hip and knee arthroplasty with identification of specific risk factors, providing actionable clinical guidance for infection management.",
+      "bullets": [
+        "DAIR success rates are similar for acute PJI after primary hip and knee arthroplasty at 66% and 69% respectively.",
+        "High preoperative CRP is the only shared risk factor for DAIR failure in both hips and knees, though thresholds differ (71 mg/L for hips, 116 mg/L for knees).",
+        "Risk factors for DAIR failure are otherwise joint-specific: male sex and non-osteoarthritis indications predict hip failure, while renal disease and polymicrobial infections predict knee failure."
+      ]
+    },
+    {
+      "pmid": "42055009",
+      "title": "CORR Insights\u00ae: Is Arm Dominance Associated With Clinically Meaningful Differences in Outcomes After Shoulder Arthroplasty?",
+      "authors": [
+        "Accousti KJ"
+      ],
+      "authors_short": "Accousti KJ",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42055009/",
+      "score": 81,
+      "score_reasoning": "Large retrospective study (636 patients) examining postoperative alignment outcomes across three surgical technologies in TKA with detailed CPAK analysis, highly relevant to current surgical practice.",
+      "bullets": [
+        "Dominant arm shoulder arthroplasty patients achieve better functional outcomes and pain relief compared to non-dominant arm procedures.",
+        "The difference in outcomes between dominant and non-dominant shoulders reaches clinical significance, not just statistical significance.",
+        "Surgeons should counsel patients that dominant shoulder replacement typically provides more noticeable improvement in daily activities."
+      ]
+    },
+    {
+      "pmid": "42069127",
+      "title": "Structural Predictors of Mechanical Instability After Posterolateral Elbow Dislocation: An MRI-Based Threshold Model.",
+      "authors": [
+        "Lee JH",
+        "Rhyou IH",
+        "Ahn KB",
+        "Lee MH",
+        "Lee GS",
+        "Nho J",
+        "Jeong B",
+        "Lee JH"
+      ],
+      "authors_short": "Lee JH, Rhyou IH, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Determining which posterolateral elbow dislocations require surgery is challenging as major ligament tears often occur regardless of clinical stability. This study aimed to identify specific MRI patterns that represent the functional threshold for persistent mechanical instability. METHODS: We retrospectively reviewed MRIs of 186 elbows following acute posterolateral dislocation. The unstable group (n=24, 12.9%) showed gross mechanical instability or redislocation. We evaluated single-structure effects and a \"Core-4\" model comprising the flexor-pronator mass (FPM), posterior medial collateral ligament (pMCL), common extensor origin (CEO), and posterolateral ligament (PLL), representing the principal pillars of stability. RESULTS: Complete tears of the lateral collateral ligament complex (LCLC) and anterior bundle of the medial collateral ligament (aMCL) were highly prevalent in both stable and unstable groups, offering low specificity. In contrast, the concurrent disruption of the FPM and PLL, termed the \"Double Hit\" pattern, was the most powerful predictor, yielding a specificity of 98.8% and positive predictive value (PPV) of 91.7%. The Core-4 model showed excellent diagnostic accuracy (Area Under the Curve [AUC]: 0.979). While Score 2 elbows showed low instability (4.8%), Score 3 elbows exhibited a divergence: those with the Double Hit pattern had a 75% instability rate, while those without it remained stable (0%). All Score 4 elbows were unstable. CONCLUSION: Mechanical instability following posterolateral elbow dislocation is a threshold-driven phenomenon resulting from the cumulative failure of critical stabilizers. The Double Hit pattern (concurrent failure of the FPM and PLL) represents the critical functional threshold for mechanical failure. By identifying high-risk subsets (Score 4 and Double Hit Score 3) with high specificity, the Core-4 model provides a definitive objective criterion for early surgical intervention while supporting functional rehabilitation for most stable dislocations.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42069127/",
+      "score": 71,
+      "score_reasoning": "Systematic review and meta-analysis examining nerve injury incidence (22.3%) after revision total elbow arthroplasty with important risk stratification data for patient counseling.",
+      "bullets": [
+        "MRI findings of concurrent flexor-pronator mass and posterolateral ligament tears predict persistent instability in 92% of posterolateral elbow dislocations.",
+        "Traditional markers like lateral collateral ligament tears occur in both stable and unstable dislocations, making them unreliable for surgical decisions.",
+        "A four-structure scoring system identifies high-risk patients needing surgery while confirming that most posterolateral dislocations can be treated nonoperatively."
+      ]
+    },
+    {
+      "pmid": "42069128",
+      "title": "Risk Factors for Early Revision Following Primary Total Shoulder Arthroplasty in a Single Health System.",
+      "authors": [
+        "Movassaghi A",
+        "Donley C",
+        "Moriconi C",
+        "Sims K",
+        "Lubert J",
+        "Sabesan VJ"
+      ],
+      "authors_short": "Movassaghi A, Donley C, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Shoulder arthroplasty has emerged as a reliable treatment for end-stage glenohumeral arthritis. However, as the volume of total shoulder arthroplasty (TSA) increases nationwide, revision procedures are expected to rise in parallel. These surgeries are already known to be technically challenging and associated with higher complication rates, longer recovery, and increased costs. Despite this growing demand, limited large-scale data exist to identify which patient factors predict early failure and adverse outcomes. This study aimed to evaluate predictors of revision and postoperative complications following TSA using a national health system database to guide preoperative optimization and surgical planning. METHODS: A retrospective cohort study was performed using the Hospital Corporation of America (HCA) Healthcare database to identify adults (\u226518 years) who underwent primary or revision TSA between 2016 and 2022. Variables included patient demographics (age, sex, race, BMI), and Elixhauser Comorbidity Index (ECI). The primary outcomes were revision within 2 years and incidence of postoperative complications (including infections, cardiac events, thromboembolic events, and prosthetic complications). Secondary outcomes included time to revision and length of hospital stay. Multivariable logistic regression was used to assess predictors of revision and complications, while linear regression evaluated associations with timing of revision. RESULTS: Among 44,952 TSA cases, 579 patients (1.3%) underwent revision within two years. Male sex (OR 1.77; 95% CI 1.50-2.10; p<0.001) and higher ECI (OR 1.09, 95% CI 1.03-1.14, p=0.001) were significantly associated with increased revision risk. Increasing age was associated with a 2% decrease in odds per additional year of age (OR 0.98; 95% CI 0.97-0.99; p<0.001). Postoperative complications occurred in 1,413 patients (3.1%) and were more common among younger patients (OR 0.98 per year; p<0.001), males (OR 1.52; p<0.001), and those with higher comorbidity burden (OR 1.12 per unit; p<0.001). Race and BMI were not significantly associated with revision or postoperative complications. Among patients who underwent revision, the mean time to revision was 205 days, and no patient-level variables were significantly associated with time to revision on multivariable analysis. CONCLUSION: This large-scale analysis identifies male sex, younger age, and higher comorbidity burden as independent factors associated with revision surgery and postoperative complications following total shoulder arthroplasty. These findings highlight the need for risk-informed patient selection, counseling, and perioperative optimization. As the volume of total shoulder arthroplasty continues to grow, these results support the development of targeted care pathways aimed at minimizing revision rates and improving outcomes across diverse patient populations.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42069128/",
+      "score": 68,
+      "score_reasoning": "Consecutive series (217 patients) examining radiographic measurements and patient outcomes in reverse TSA with novel angular measurement techniques relevant to surgical planning.",
+      "bullets": [
+        "Male patients and those with higher comorbidity scores have significantly increased risk of revision within 2 years after total shoulder arthroplasty.",
+        "Younger patients paradoxically have higher rates of both revision surgery and postoperative complications compared to older patients.",
+        "Overall revision rate is low at 1.3% within 2 years, with average time to revision of 7 months when it occurs."
+      ]
+    },
+    {
+      "pmid": "42068318",
+      "title": "The Effect of Corticosteroid Type on Failure Following Primary Trigger Finger Injection.",
+      "authors": [
+        "Kistler JM",
+        "Adams JA",
+        "Hozack BA",
+        "Matzon JL"
+      ],
+      "authors_short": "Kistler JM, Adams JA, et al.",
+      "journal": "The Journal of hand surgery",
+      "journal_abbrev": "J Hand Surg Am",
+      "year": "2026",
+      "abstract": "PURPOSE: The purpose of this study was to compare the failure rate of primary trigger finger corticosteroid injections (CSIs) using triamcinolone versus betamethasone. METHODS: This was a retrospective cohort study of all primary trigger finger CSIs given by a single fellowship-trained, hand surgeon over two 8-month periods. From June 2022 to January 2023, all trigger finger CSIs were performed with triamcinolone (1 mL, 40 mg/mL). From June 2023 to January 2024, all trigger finger CSIs were performed with betamethasone (1 mL, 6 mg/mL). Patient charts were reviewed at 1 year following the CSI to determine the failure rate of the CSI. Failure was defined as reintervention with either a repeat CSI or trigger finger surgery. For those patients who failed the primary CSI, the time to failure was recorded. RESULTS: The two cohorts were similar in terms of finger laterality and finger distribution. In the triamcinolone cohort, 284 fingers in 238 patients received a primary trigger finger CSI. Within 1 year, 47 fingers (16.5%) had undergone either a repeat CSI (43 [15.1%]) or trigger release surgery (4 [1.4%]). In the betamethasone cohort, 255 fingers in 223 patients received a primary trigger finger CSI. Within 1 year, 89 fingers (34.9%) had undergone either a repeat CSI (73 [28.6%]) or trigger release surgery (16 [6.3%]). The percentage of patients undergoing repeat intervention was significantly greater in the betamethasone cohort (P < .05). Moreover, the betamethasone cohort had a significantly shorter mean time to failure as compared with the triamcinolone cohort (167 days vs 273 days, P < .05). CONCLUSIONS: For primary trigger fingers, patients treated with a betamethasone CSI were significantly more likely to undergo a repeat CSI or trigger finger release surgery within 1 year of the CSI compared with patients treated with a triamcinolone CSI (P < .05). Betamethasone CSIs resulted in a significantly shorter time to failure than triamcinolone CSIs (P < .05).",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42068318/",
+      "score": 64,
+      "score_reasoning": "Retrospective comparative study (80 patients) examining different stem types in conversion THA after intramedullary nailing with practical surgical decision-making implications.",
+      "bullets": [
+        "Triamcinolone injections for trigger finger had a 16.5% failure rate at one year compared to 34.9% failure rate with betamethasone injections.",
+        "Betamethasone failures occurred faster than triamcinolone failures, with mean time to reintervention of 167 days versus 273 days.",
+        "This retrospective study of 539 trigger fingers suggests triamcinolone may be superior to betamethasone for primary corticosteroid injection treatment."
+      ]
+    },
+    {
+      "pmid": "42049197",
+      "title": "Are Levels of Blood Metal Nanoparticles Elevated After Spinal Fusion and Implantation in Patients With Adolescent Idiopathic Scoliosis?",
+      "authors": [
+        "Wang Y",
+        "Li T",
+        "Xiang G",
+        "He S",
+        "Deng A",
+        "Guo C",
+        "Yin Y",
+        "Zeng Z",
+        "Tan Z"
+      ],
+      "authors_short": "Wang Y, Li T, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Implantation of titanium alloys (Ti-6Al-4V) or cobalt-chromium-molybdenum alloys (Co-Cr-Mo) for long-segment spinal fixation is the standard surgical treatment for adolescent idiopathic scoliosis (AIS), but long-term presence of the implants in the body may lead to the release of metal nanoparticles. Unlike orthopaedic internal fixation surgeries, spinal implants generally remain in the human body for a lifetime. The release of metal nanoparticles remains a potential clinical issue, but currently there is a lack of strong data on the topic. This study aimed to fill this crucial knowledge gap by providing longitudinal evidence on the dynamics of metal ion release. This is the first step in determining safety characteristics and clinical thresholds. QUESTIONS/PURPOSES: (1) Are serum Ti, Co, and Cr concentrations in patients with AIS after implantation elevated compared with in patients without implantation over a 4-year period? (2) Does surgical removal of implants lead to a reduction in systemic metal nanoparticle load? (3) Is there a correlation between metal ion levels and implant burden? (4) Does implant type (Ti-6Al-4V versus Co-Cr-Mo) influence serum metal concentrations? METHODS: This was a single-center retrospective cohort study performed at an urban tertiary referral hospital from January 2018 to December 2020. A total of 336 patients with AIS were included, including 60% (201 of 336) who underwent surgical treatment and 40% (135 of 336) who received nonsurgical treatment. Among the 201 patients who underwent AIS operations, 6% (13 of 201) were excluded because of the presence of metal implants in other parts (ulna and radius [n = 5], around the elbow joint [n = 4], femoral shaft [n = 4]), and 15% (31 of 201) were excluded because they were lost to follow-up, resulting in incomplete clinical data. Forty-eight percent (96 of 201) of the patients only received spinal implant treatment without revision surgery (implant group), 23% (46 of 201) of the patients received spinal implant treatment and underwent revision surgery but did not have the implants removed (revision group), and 7% (15 of 201) of the patients received spinal implant treatment, underwent revision surgery, and had the implants removed (removal group). Among the 135 patients with AIS who did not undergo surgery, 6% (8 of 135) were excluded because of the presence of metal implants in other parts (ulna and radius [n = 3], around the elbow joint [n = 3], femoral shaft [n = 2]), and 16% (22 of 135) were excluded because they were lost to follow-up, resulting in incomplete clinical data. Seventy-eight percent (105 of 135) of the patients who did not undergo surgery who met the inclusion criteria were ultimately included in the control group. Since 2015, according to a standardized protocol, serum samples from patients undergoing surgery for AIS and from the nonsurgical control group have been collected. This is part of a broader and ongoing research project for patients with AIS. Between February and April 2025, we determined the metal ion concentrations in the collected blood samples. Serum Ti, Co, and Cr levels were measured via inductively coupled plasma mass spectrometry at multiple postoperative time points. The correlation between metal ion levels and rod length as well as the number of screws were evaluated using correlation analysis. Linear regression analysis was employed to assess the relationship between implant types (Ti-6Al-4V and Co-Cr-Mo), rod diameter, and serum metal concentrations. The extracted implants were subjected to scanning electron microscopy (SEM) combined with energy-dispersive x-ray spectroscopy analysis to examine the surface morphology and elemental composition of the implants. RESULTS: Serum concentrations of Ti, Co, and Cr were higher in patients with spinal implants than in nonsurgical controls at all postoperative time points. At 48 months, the mean \u00b1 SD serum Ti was 1.1 \u00b1 0.3 \u03bcg/L in the implant group versus 0.2 \u00b1 0.1 \u03bcg/L in controls (mean difference 0.9 \u03bcg/L [95% confidence interval (95% CI) 0.8 to 1.0]; p < 0.001), for Co it was 0.3 \u00b1 0.2 \u03bcg/L versus 0.2 \u00b1 0.1 \u03bcg/L (mean difference 0.1 \u03bcg/L [95% CI 0.1 to 0.2]; p < 0.001), and for Cr it was 1.0 \u00b1 0.5 \u03bcg/L versus 0.1 \u00b1 0.1 \u03bcg/L (mean difference 0.9 \u03bcg/L [95% CI 0.6 to 0.7]; p < 0.001). Metal levels peaked at 12 months postoperatively and remained elevated for 48 months. Implant removal was associated with a reduction in serum metal concentrations. At 6 months after removal, Ti levels decreased by 1.8 \u03bcg/L (95% CI -2.1 to -1.6; p < 0.001), Co levels by 0.4 \u03bcg/L (95% CI -0.5 to -0.3; p < 0.001), and Cr levels by 1.2 \u03bcg/L (95% CI -1.4 to -1.0; p < 0.001) compared with the removal group. At 12 months after removal surgery, there was no difference in Ti ion concentration between the removal group and the control group (0.2 \u00b1 0.2 versus 0.2 \u00b1 0.1, mean difference 0.0 [95% CI -0.2 to 0.1]; p = 0.38). Similarly, no difference was observed in Co ion concentration (0.2 \u00b1 0.1 versus 0.2 \u00b1 0.1, mean difference 0.0 [95% CI -0.1 to 0.1]; p = 0.62). Additionally, Cr ion concentration did not differ between groups (0.2 \u00b1 0.1 versus 0.1 \u00b1 0.1, mean difference 0.1 [95% CI -0.2 to 0.1]; p = 0.45). Serum metal concentrations correlated positively with implant load (rod length r = 0.85 to 0.87, number of screws r = 0.87 to 0.88; all p < 0.001) and rod diameter (\u03b2 = 0.54 to 0.58; all p < 0.001).The serum Co concentration had a substantial positive correlation with the use of Co-Cr-Mo implants (\u03b2 = 0.54; p < 0.001). Similarly, the serum Cr concentration had a substantial positive correlation with the use of Co-Cr-Mo implants (\u03b2 = 0.58; p < 0.001). SEM analysis confirmed implant surface corrosion and nanoscale defects consistent with metal release. CONCLUSION: Serum levels of Ti, Co, and Cr increase after posterior spinal fusion in patients with AIS, reaching a peak at 12 months after operation, and remaining elevated for at least 4 years, which suggests continuous release of metal ions from the implants. Removal of the implants was associated with a reduction in serum metal ion levels, confirming that the implants are the main source of metal nanoparticle release. The concentration of metal ions is related to the burden of the implant (such as the length of the rod and the number of screws) and the type of implant. However, the clinical importance of elevated metal ions needs further confirmation. Our findings are preliminary and do not support routine metal ion tests or imaging examinations in patients with AIS treated surgically or recommendations regarding implant removal; however, future research may attempt to correlate ion levels with symptoms or imaging results in the study environment. LEVEL OF EVIDENCE: Level III, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42049197/",
+      "score": 49,
+      "score_reasoning": "Systematic review (21 studies, 22,157 feet) examining Os intermetatarseum prevalence with comprehensive meta-analysis, though limited clinical impact due to rarity of symptomatic cases.",
+      "bullets": [
+        "Serum titanium, cobalt, and chromium levels remain elevated for at least 4 years after spinal fusion in adolescent idiopathic scoliosis patients compared to nonsurgical controls.",
+        "Metal ion concentrations correlate with implant burden, with higher levels seen with longer rods, more screws, and cobalt-chromium implants versus titanium.",
+        "Implant removal reduces serum metal levels to normal within 12 months, but clinical significance of elevated metal ions remains unknown."
+      ]
+    },
+    {
+      "pmid": "42058459",
+      "title": "Objective Sleep Disturbance After Total Hip and Knee Arthroplasty: A Systematic Review of Wearable-Derived Metrics and Targeted Interventions.",
+      "authors": [
+        "Ferrero A",
+        "Patrucco F",
+        "Marcolin MG",
+        "Conte P",
+        "Di Matteo B",
+        "Guazzoni E",
+        "Minelli M",
+        "Kon E",
+        "Anzillotti G"
+      ],
+      "authors_short": "Ferrero A, Patrucco F, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Sleep disturbance is common in patients with hip and knee osteoarthritis and may worsen during the perioperative period of total joint arthroplasty. Poor sleep has been linked to higher pain, delayed functional recovery, and reduced patient satisfaction; however, most arthroplasty studies rely on subjective questionnaires, providing limited insight into the magnitude and time course of postoperative sleep disruption. METHODS: A systematic literature search of PubMed, Embase, and the Cochrane Library was conducted from inception to November 17, 2025, following Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. Studies reporting objective perioperative sleep assessment using actigraphy, consumer wearables, or portable electroencephalography (EEG) in adults undergoing total hip arthroplasty or total knee arthroplasty were included. RESULTS: Seven studies met inclusion criteria, including observational cohorts and randomized controlled trials. Objective monitoring consistently demonstrated substantial sleep disruption in the early postoperative period, characterized by reduced nocturnal sleep duration, increased fragmentation, and decreased sleep efficiency, with gradual recovery over subsequent days to weeks. Studies using portable EEG identified marked but transient suppression of rapid eye movement (REM) sleep immediately after surgery. Longer-term wearable monitoring suggested stabilization of total sleep time, although correlations with subjective sleep quality were variable. Pharmacologic interventions showed minimal or inconsistent benefits on objective sleep duration or architecture. CONCLUSIONS: Objective wearable monitoring identifies reproducible sleep disruption after total hip arthroplasty and total knee arthroplasty that is incompletely captured by patient-reported measures. Standardized objective endpoints, validation of wearable devices in arthroplasty populations, and integration of sleep assessment into enhanced recovery pathways may improve postoperative care and patient-centered outcomes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42058459/",
+      "score": 48,
+      "score_reasoning": "Systematic review (47 studies) examining objective sleep disturbance after joint arthroplasty using wearable devices, though limited by heterogeneous methodology and small individual study sizes.",
+      "bullets": [
+        "Wearable devices show significant sleep disruption after hip and knee replacement with reduced sleep time, more fragmentation, and suppressed REM sleep that gradually improves over days to weeks.",
+        "Sleep medications provide minimal or inconsistent improvement in objective sleep measures after total joint arthroplasty.",
+        "Patient-reported sleep quality correlates poorly with objective wearable data, suggesting subjective measures underestimate true sleep disruption in arthroplasty patients."
+      ]
+    },
+    {
+      "pmid": "42064686",
+      "title": "The Impact of Social Media for Adult Reconstruction Surgeons: A Prevalence Study With Online and Academic Reputations.",
+      "authors": [
+        "Lee JD",
+        "Khawaja SR",
+        "Heo KY",
+        "Syed O",
+        "Okafor K",
+        "Zhou B",
+        "Premkumar A",
+        "Wilson JM"
+      ],
+      "authors_short": "Lee JD, Khawaja SR, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Social media has emerged as a powerful tool that has transformed communication and decision-making across the medical profession, including within the arthroplasty community. This study examined the association between social media use by arthroplasty surgeons and online patient satisfaction and research engagement. METHODS: The American Association of Hip and Knee Surgeons directory was reviewed for all members in the United States. Online searches were conducted on 239 randomly sampled members for professional profiles on ResearchGate, LinkedIn, X, Instagram, Facebook, TikTok, and YouTube. The presence of personal or practice group websites was also assessed. Healthgrades, Google Reviews, and Vitals were queried for surgeons' average ratings, number of reviews, and number of comments. Surgeons' h-indices were recorded from Scopus. A summated online presence score was calculated to identify the top 15% of social media users in the sample. RESULTS: Two hundred thirteen adult reconstruction fellowship-trained and 26 non-adult reconstruction fellowship-trained surgeons were included in the study. The top 15% of social media users had higher average Google Reviews ratings compared to the remaining 85%. Surgeons with Instagram and Facebook profiles had higher average Google Reviews ratings than those without. Arthroplasty surgeons on LinkedIn and ResearchGate also had higher average h-indices than those without such profiles. CONCLUSIONS: Social media engagement was positively associated with patient ratings on physician-rating websites. Activity on LinkedIn and ResearchGate correlated with higher h-indices, reflecting greater research engagement. As social media use among arthroplasty surgeons grows, web-based marketing can create platforms to promote patient engagement and academic literature.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42064686/",
+      "score": 46,
+      "score_reasoning": "Cross-sectional study (239 surgeons) examining social media use and online reputation among arthroplasty surgeons with limited direct clinical applicability.",
+      "bullets": [
+        "Adult reconstruction surgeons with active social media profiles (especially Instagram and Facebook) receive higher patient ratings on Google Reviews compared to surgeons without social media presence.",
+        "Arthroplasty surgeons using LinkedIn and ResearchGate have higher h-indices, indicating greater research productivity and academic engagement.",
+        "The top 15% of social media users among hip and knee surgeons consistently score better on online patient satisfaction metrics across multiple rating platforms."
+      ]
+    },
+    {
+      "pmid": "42059050",
+      "title": "Functional alignment: Defined personalized alignment strategy with promising outcomes and room for improvement.",
+      "authors": [
+        "Andriollo L",
+        "Gregori P",
+        "Koutserimpas C",
+        "Lustig S"
+      ],
+      "authors_short": "Andriollo L, Gregori P, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "Functional alignment (FA) has emerged as a patient-specific alternative to traditional alignment philosophies in total knee arthroplasty (TKA), aiming to restore native knee biomechanics while respecting individual soft-tissue behaviour. Although recently described as an 'umbrella term', FA has evolved through structured and reproducible workflows supported by image-based robotic technology, enabling three-dimensional planning and dynamic intraoperative assessment. This editorial summarizes the evolution of FA from its original definition to its current interpretation as functional knee positioning, emphasizing its dynamic and three-dimensional nature. Key aspects, including workflow principles, sagittal and coronal alignment during flexion, application in valgus knees, management of the anterior compartment ('third space'), and the influence of implant- and patient-related factors, are discussed. Current clinical evidence supports FA as a safe and effective strategy across different knee phenotypes, highlighting the importance of individualized alignment targets rather than fixed coronal goals. By contextualizing recent biomechanical and clinical data, this editorial aims to clarify fundamental concepts and promote consistent application and reporting of FA in contemporary TKA.",
+      "pub_types": [
+        "Editorial"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42059050/",
+      "score": 42,
+      "score_reasoning": "Prospective observational study (128 patients) examining ankle alignment changes after TKA with 1-year follow-up, though clinical significance of findings is limited.",
+      "bullets": [
+        "Functional alignment in total knee arthroplasty uses robotic technology to restore each patient's native knee mechanics rather than aiming for standard alignment targets.",
+        "Current evidence shows functional alignment is safe and effective across different knee types, including challenging valgus deformities.",
+        "The approach requires individualized alignment goals based on the patient's specific anatomy and soft tissue behavior, not fixed coronal plane targets."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-05-03T03:54:57.229493-07:00"
+}
