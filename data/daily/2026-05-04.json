@@ -1,0 +1,303 @@
+{
+  "brief_date": "2026-05-04",
+  "brief_date_display": "Monday, May 04",
+  "candidates": [
+    {
+      "pmid": "42069021",
+      "title": "Cefazolin Alone Versus Vancomycin Plus Cefazolin for Intravenous Prophylaxis in Hip and Knee Arthroplasty: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Yang C",
+        "Peng C",
+        "Yan J",
+        "Chen J",
+        "Mao H"
+      ],
+      "authors_short": "Yang C, Peng C, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Periprosthetic joint infection (PJI) remains a devastating complication following total joint arthroplasty, leading to substantial morbidity and increased healthcare costs. Cefazolin is the standard agent for perioperative antibiotic prophylaxis. However, the rising prevalence of methicillin-resistant Staphylococcus aureus (MRSA) has prompted the use of dual prophylaxis with vancomycin and cefazolin. The efficacy and safety of this combined strategy remain controversial. METHODS: A systematic review and meta-analysis were conducted following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines and registered on the international prospective register of systematic reviews (ID CRD420251077695). A comprehensive search of PubMed, Web of Science, Embase, and the Cochrane Library was performed. Randomized controlled trials and observational studies directly comparing cefazolin alone with combined vancomycin and cefazolin as intravenous prophylaxis in patients undergoing total joint arthroplasty were included. The primary outcome measures were PJI and SSI (surgical site infection), and secondary outcome measures were AKI (acute kidney injury). RESULTS: Eight studies including 1,041,058 patients met the inclusion criteria. Dual prophylaxis was associated with a higher risk of SSI (odds ratio [OR] =1.39; 95% confidence interval [CI] = 1.23 to 1.58), but a lower risk of PJI (OR = 0.64; 95% CI = 0.46 to 0.91). There was no significant difference in risk of AKI between regimens (OR = 1.30; 95% CI = 0.76 to 2.20), although substantial heterogeneity was observed among studies reporting renal outcomes. CONCLUSIONS: Routine addition of vancomycin to cefazolin does not reduce overall SSI rates and may increase superficial infections. However, it may decrease PJI risk without significantly increasing AKI. These findings support a selective, risk-stratified prophylactic strategy rather than universal dual antibiotic therapy in total joint arthroplasty.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42069021/",
+      "score": 92,
+      "score_reasoning": "Large multicenter meta-analysis (>1 million patients) in high-impact journal comparing infection prevention strategies in hip/knee arthroplasty with direct clinical applicability and novel findings on dual prophylaxis efficacy.",
+      "bullets": [
+        "Adding vancomycin to cefazolin prophylaxis in hip and knee arthroplasty reduces periprosthetic joint infections by 36% but increases overall surgical site infections by 39%.",
+        "Meta-analysis of over 1 million arthroplasty patients shows dual antibiotic prophylaxis does not increase acute kidney injury risk compared to cefazolin alone.",
+        "Routine vancomycin plus cefazolin prophylaxis is not recommended for all patients, but may benefit those at high risk for resistant organisms causing deep periprosthetic infection."
+      ]
+    },
+    {
+      "pmid": "42036089",
+      "title": "The One-Year Infection Rates After Vancomycin Powder and Dilute Povidone-Iodine Lavage in High-Risk Primary Total Joint Arthroplasty: A Multicenter Randomized Controlled Trial.",
+      "authors": [
+        "Saba BV",
+        "Long WJ",
+        "Higuera CA",
+        "Dundon J",
+        "Cooper HJ",
+        "Dennis DA",
+        "Chen AF",
+        "Schwarzkopf R"
+      ],
+      "authors_short": "Saba BV, Long WJ, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Given the severe morbidity, mortality, and substantial cost of periprosthetic joint infection (PJI), substantial research has been conducted to compare peri- and postoperative infection-prevention strategies. To our knowledge, there are no studies to date that have evaluated the one-year efficacy of intraoperative vancomycin powder and/or dilute povidone-iodine (DPI) lavage versus saline lavage in total joint arthroplasty. We previously reported no significant group differences at three months in a large multicenter randomized controlled trial. The present study reports 1-year outcomes of the same cohort. METHODS: In this prospective, multicenter trial, 2,053 high-risk patients undergoing primary, unilateral total hip arthroplasty (THA) or total knee arthroplasty (TKA) were randomized to one of four intraoperative protocols: vancomycin powder, DPI, VPIP (combination), or saline lavage control. The primary outcome was 1-year PJI resulting in septic revision surgery. Analyses were conducted on a per-protocol basis using Chi-square tests stratified by procedure. At one year, complete follow-up was available for 798 THA and 1,032 TKA patients after accounting for withdrawals, loss to follow-up, and nine unrelated deaths. RESULTS: In the THA cohort, PJI occurred in 0.5% of vancomycin patients, 1.7% of iodine patients, 1.9% of VPIP patients, and 1.1% of saline patients (P = 0.62). In the TKA cohort, PJI occurred in 1.6% of vancomycin patients, none of the iodine patients, 2.0% of VPIP patients, and 0.4% of saline patients (P = 0.05). There were no significant differences between study groups at zero to three months (P = 0.14 for THA, P = 0.13 for TKA), three to 12 months (P = 0.67 for THA, P = 0.80 for TKA), or combined zero to 12 months (P = 0.62 for THA, P = 0.05 for TKA). CONCLUSIONS: There were no significant differences in 1-year PJI rates observed across prophylactic strategies in high-risk primary THA or TKA. These findings suggest that intraoperative antiseptic and antibiotic protocols may have limited influence on longer-term outcomes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42036089/",
+      "score": 90,
+      "score_reasoning": "Large multicenter RCT (2,053 patients) comparing infection prevention strategies in total joint arthroplasty with 1-year follow-up, published in high-impact journal with direct practice implications.",
+      "bullets": [
+        "This multicenter trial of 2,053 high-risk primary hip and knee arthroplasty patients found no significant difference in one-year infection rates between vancomycin powder, dilute povidone-iodine lavage, combination therapy, or saline control.",
+        "Infection rates at one year ranged from 0.5% to 1.9% across all groups in hip patients and 0% to 2.0% in knee patients, with no statistically significant differences between treatment arms.",
+        "Intraoperative antiseptic and antibiotic protocols appear to have limited impact on preventing periprosthetic joint infections beyond one year in high-risk total joint patients."
+      ]
+    },
+    {
+      "pmid": "42069127",
+      "title": "Structural Predictors of Mechanical Instability After Posterolateral Elbow Dislocation: An MRI-Based Threshold Model.",
+      "authors": [
+        "Lee JH",
+        "Rhyou IH",
+        "Ahn KB",
+        "Lee MH",
+        "Lee GS",
+        "Nho J",
+        "Jeong B",
+        "Lee JH"
+      ],
+      "authors_short": "Lee JH, Rhyou IH, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Determining which posterolateral elbow dislocations require surgery is challenging as major ligament tears often occur regardless of clinical stability. This study aimed to identify specific MRI patterns that represent the functional threshold for persistent mechanical instability. METHODS: We retrospectively reviewed MRIs of 186 elbows following acute posterolateral dislocation. The unstable group (n=24, 12.9%) showed gross mechanical instability or redislocation. We evaluated single-structure effects and a \"Core-4\" model comprising the flexor-pronator mass (FPM), posterior medial collateral ligament (pMCL), common extensor origin (CEO), and posterolateral ligament (PLL), representing the principal pillars of stability. RESULTS: Complete tears of the lateral collateral ligament complex (LCLC) and anterior bundle of the medial collateral ligament (aMCL) were highly prevalent in both stable and unstable groups, offering low specificity. In contrast, the concurrent disruption of the FPM and PLL, termed the \"Double Hit\" pattern, was the most powerful predictor, yielding a specificity of 98.8% and positive predictive value (PPV) of 91.7%. The Core-4 model showed excellent diagnostic accuracy (Area Under the Curve [AUC]: 0.979). While Score 2 elbows showed low instability (4.8%), Score 3 elbows exhibited a divergence: those with the Double Hit pattern had a 75% instability rate, while those without it remained stable (0%). All Score 4 elbows were unstable. CONCLUSION: Mechanical instability following posterolateral elbow dislocation is a threshold-driven phenomenon resulting from the cumulative failure of critical stabilizers. The Double Hit pattern (concurrent failure of the FPM and PLL) represents the critical functional threshold for mechanical failure. By identifying high-risk subsets (Score 4 and Double Hit Score 3) with high specificity, the Core-4 model provides a definitive objective criterion for early surgical intervention while supporting functional rehabilitation for most stable dislocations.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42069127/",
+      "score": 76,
+      "score_reasoning": "Systematic review and meta-analysis addressing revision TEA complications with good clinical relevance, though limited by retrospective data and smaller sample size.",
+      "bullets": [
+        "MRI after posterolateral elbow dislocation shows concurrent tears of flexor-pronator mass and posterolateral ligament predict instability with 99% specificity and 92% positive predictive value.",
+        "Isolated lateral collateral ligament and anterior medial collateral ligament tears occur in both stable and unstable elbows, making them poor predictors of mechanical instability.",
+        "A scoring system based on four key structures identifies high-risk patients needing surgery while confirming that most posterolateral elbow dislocations can be treated non-operatively."
+      ]
+    },
+    {
+      "pmid": "42069131",
+      "title": "Factors Associated with Conversion of Outpatient Total Shoulder Arthroplasty to Inpatient.",
+      "authors": [
+        "Song J",
+        "Wu K",
+        "Mai E",
+        "Duey A",
+        "Namiri NK",
+        "Corvi JJ",
+        "Beitler B",
+        "Siniakowicz C",
+        "Cagle PJ",
+        "Parsons BO",
+        "Galatz LM",
+        "Parisien RL"
+      ],
+      "authors_short": "Song J, Wu K, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Outpatient total shoulder arthroplasty (TSA) is increasingly performed as perioperative pathways and value-based care models expand. However, a subset of patients scheduled for outpatient TSA require unexpected inpatient admission, which may indicate higher perioperative risk and increased resource use. We hypothesized that older age, greater comorbidity burden, and longer operative time would be associated with conversion from planned outpatient TSA to inpatient admission, and that conversion would be associated with worse short-term outcomes. METHODS: Planned outpatient TSA cases were identified in the American College of Surgeons National Surgical Quality Improvement Program database from 2011 to 2021. Revision arthroplasty, hemiarthroplasty, procedures for infection or malignancy, fracture-related cases, emergency or other nonelective cases, records with missing length of stay (LOS), and extreme LOS outliers were excluded. All included cases were planned outpatient procedures; patients with LOS 0-1 day comprised the Outpatient cohort, and those with LOS \u22652 days comprised the Conversion-to-Inpatient cohort. Demographics, comorbidities, operative time, and 30-day outcomes were compared between groups, and multivariable logistic regression identified independent predictors of conversion and associations with adverse events. RESULTS: A total of 6,755 planned outpatient TSA cases met inclusion criteria, including 6,302 (93.3%) Outpatient and 453 (7.2%) Conversion-to-Inpatient cases. Compared with Outpatient patients, the Conversion-to-Inpatient cohort was older (70.3 \u00b1 9.6 vs 68.0 \u00b1 9.5 years), more often female, and more frequently Hispanic, with higher BMI and a greater proportion of American Society of Anesthesiologists class \u22653 and comorbidities (all P < .05). Mean operative time was longer among converted patients (127.9 \u00b1 59.3 vs 104.7 \u00b1 40.8 minutes, P < .001). On multivariable analysis, older age, female sex, Hispanic ethnicity, ASA \u22653, diabetes, COPD, and longer operative time were independent predictors of conversion. Conversion-to-Inpatient status was associated with higher odds of 30-day reoperation, overall morbidity, bleeding transfusion, and non-home discharge, while adjusted 30-day readmission did not differ significantly between cohorts. CONCLUSION: Unplanned conversion from outpatient to inpatient status occurs in approximately 7% of planned outpatient TSAs and is associated with identifiable demographic, comorbidity, and operative risk factors, as well as higher morbidity, transfusion requirements, and non-home discharge. These findings may help inform patient counseling and perioperative planning for outpatient TSA pathways.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42069131/",
+      "score": 74,
+      "score_reasoning": "Large database study (6,755 patients) examining outpatient TSA conversion rates with strong clinical relevance for surgical planning and resource allocation.",
+      "bullets": [
+        "About 7% of planned outpatient total shoulder arthroplasties require unexpected inpatient admission, most commonly in older patients with multiple comorbidities and longer operative times.",
+        "Independent risk factors for conversion to inpatient status include age over 70, female sex, Hispanic ethnicity, ASA class 3 or higher, diabetes, COPD, and operative time over 2 hours.",
+        "Patients requiring conversion have higher rates of 30-day reoperation, bleeding requiring transfusion, and discharge to skilled nursing facilities compared to successful outpatient cases."
+      ]
+    },
+    {
+      "pmid": "42077187",
+      "title": "Comparison of Outcomes after Minimally Invasive Transverse Distal Metatarsal Osteotomy (MITO) and Proximal Phalangeal Osteotomy for Hallux Valgus With and Without Rheumatoid Arthritis: A Matched Cohort Study.",
+      "authors": [
+        "Yoon YK",
+        "Shim DW",
+        "Kim JH",
+        "Han SH",
+        "Lee JW",
+        "Park KH"
+      ],
+      "authors_short": "Yoon YK, Shim DW, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: There is an increasing role for joint-preserving surgery in hallux valgus (HV) management among patients with rheumatoid arthritis (RA). We compared radiologic and clinical outcomes after minimally invasive transverse distal metatarsal osteotomy (MITO) and a complete proximal phalangeal osteotomy for HV correction in patients with and without RA. METHODS: This retrospective cohort study included 16 RA patients (21 feet) who underwent MITO between July 2018 and June 2023 with a minimum follow-up of 24\u2009months. In total, 53 non-RA patients (63 feet) were matched by propensity score matching (1:3 ratio) after consideration of age, sex, body mass index, follow-up duration, preoperative hallux valgus angle (HVA), first-second intermetatarsal angle (1-2 IMA), and tibial sesamoid position (TSP). Radiologic evaluation included HVA, 1-2 IMA, and TSP measurements. Clinical outcomes were assessed using visual analog scale (VAS) pain scores, Foot and Ankle Outcome Scores, and Medical Outcomes Study Short Form Health Survey-36 physical component summary scores. RESULTS: The matched cohorts consisted entirely of female patients, with a mean age of 63.7\u2009years in the RA group and 63.3\u2009years in the non-RA group. The mean follow-up duration was 38.1\u2009months (range, 24-85\u2009months). All radiologic parameters significantly improved at the last follow-up (all P\u2009<\u2009.001). Postoperative mean HVA, 1-2 IMA, and TSP were 4.9\u00b0, 3.9\u00b0, and 3, respectively, in the RA group and 7.0\u00b0, 5.2\u00b0, and 3, respectively, in the non-RA group; with the numbers available, no significant difference could be detected. Similarly, no significant difference could be detected in the final functional scores, and VAS met the predefined noninferiority margin. Likewise, no significant difference could be detected in total complications (P\u2009=\u20091.000) or reoperation rates (P\u2009=\u2009.184). CONCLUSION: MITO combined with a complete proximal phalangeal osteotomy yielded favorable radiographic improvements and noninferior pain relief in RA patients compared with non-RA patients. Our findings indicate that MITO with proximal phalangeal osteotomy may be a safe and effective minimally invasive joint-preserving surgical option for HV correction in RA patients without advanced first metatarsophalangeal joint destruction.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42077187/",
+      "score": 71,
+      "score_reasoning": "Matched cohort study comparing MITO outcomes in RA vs non-RA patients for hallux valgus, addressing specific population with good clinical relevance but smaller sample size.",
+      "bullets": [
+        "MITO with proximal phalangeal osteotomy produces similar radiographic correction and pain relief in rheumatoid arthritis patients compared to non-RA patients at 3-year follow-up.",
+        "Complication and reoperation rates were equivalent between RA and non-RA groups after minimally invasive hallux valgus correction surgery.",
+        "Joint-preserving MITO may be considered for hallux valgus correction in rheumatoid arthritis patients without advanced first MTP joint destruction."
+      ]
+    },
+    {
+      "pmid": "42077177",
+      "title": "Return to Sport in Professional Athletes With Borderline Hip Dysplasia After Hip Arthroscopy for Femoroacetabular Impingement.",
+      "authors": [
+        "Uppstrom T",
+        "Felan NA",
+        "Lind DRG",
+        "Dornan GJ",
+        "Speshock A",
+        "Philippon MJ"
+      ],
+      "authors_short": "Uppstrom T, Felan NA, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Hip arthroscopy for femoroacetabular impingement (FAI) in professional athletes is associated with significant improvements in postoperative pain and function and a return-to-sport (RTS) rate >80%. However, RTS rate after hip arthroscopy for FAI in professional athletes with borderline dysplasia is unknown. PURPOSE: To assess RTS rates exclusively in professional athletes with borderline dysplasia after hip arthroscopy for treatment of FAI. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: A total of 40 professional and Olympic athletes (42 hips) with borderline dysplasia (lateral center edge angle [LCEA] 18\u00b0-25\u00b0) underwent hip arthroscopy for FAI between 2005 and 2022. RTS was defined as competing in a single professional game at an equal level after surgery. Data were retrospectively obtained for each athlete from publicly available sport-specific data sources. RESULTS: The study included 42 hips. Patients undergoing primary hip arthroscopy demonstrated a 79% RTS rate, whereas patients undergoing revision hip arthroscopy demonstrated a 25% RTS rate (P = .006). Among athletes who successfully returned, RTS occurred at a median of 7.5 months (range, 3.1-24.3 months) after surgery. The mean age at the time of surgery was 28.9 years (range, 18-53.5 years). In total, 21 hips (50%) had an Outerbridge grade 3 or 4 defect at the time of surgery, and 10 (24%) underwent a microfracture procedure. Older age (P = .041) and history of previous hip arthroscopy (P = .008) were associated with a lower likelihood of return to professional sport. No statistically significant association was found between femoral version, LCEA, alpha angle, the presence of Outerbridge grade 3 or 4 defect, or minimum joint space and RTS. CONCLUSION: In the primary setting, professional athletes with borderline hip dysplasia who underwent hip arthroscopy for FAI demonstrated a 79% RTS rate. The mean time to return was 7.5 months, with older age and a history of prior hip arthroscopy predictive of a lower likelihood of RTS (25% RTS among revision cases). Hip arthroscopy for FAI in professional athletes with borderline dysplasia was effective for returning the majority of these athletes to their preoperative level, especially in the primary setting.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42077177/",
+      "score": 70,
+      "score_reasoning": "Cohort study (42 hips) examining return to sport in professional athletes with borderline dysplasia after hip arthroscopy, clinically relevant but limited by small sample size.",
+      "bullets": [
+        "Professional athletes with borderline hip dysplasia (LCEA 18-25\u00b0) had 79% return to sport rate after primary hip arthroscopy for FAI, dropping to 25% after revision surgery.",
+        "Return to professional competition occurred at median 7.5 months after surgery in athletes who successfully returned to their sport.",
+        "Older age and previous hip arthroscopy were the only factors associated with lower return to sport rates, while cartilage damage severity did not affect outcomes."
+      ]
+    },
+    {
+      "pmid": "42059084",
+      "title": "Mechanical axis correction after total knee arthroplasty alters ankle alignment but does not affect ankle function.",
+      "authors": [
+        "Portes-Chiva A",
+        "Soria-Bl\u00e1zquez A",
+        "Hinarejos P",
+        "Torres-Claramunt R",
+        "Perelli S",
+        "S\u00e1nchez-Soler JF",
+        "Gin\u00e9s-Cespedosa A",
+        "Monllau JC"
+      ],
+      "authors_short": "Portes-Chiva A, Soria-Bl\u00e1zquez A, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: Total knee arthroplasty (TKA) restores knee function, but correction of coronal plane deformities may alter the biomechanics of adjacent joints. This study aimed to determine whether changes in knee alignment after TKA have clinical or radiological effects on the ankle. METHODS: A prospective observational study included 158 patients undergoing TKA, of whom 128 completed 1-year follow-up. Clinical outcomes were assessed preoperatively and at 3, 6 and 12 months using the Manchester-Oxford Foot Questionnaire (MOXFQ), Knee Society Score (KSS), Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC), European Quality of Life (EuroQol) and Forgotten Joint Score-12 (FJS-12). Radiographic parameters, including the mechanical axis of the limb and the ankle joint orientation angle (AJOA), were measured preoperatively and at 6 months postoperatively. RESULTS: The mean mechanical axis improved from 5.8\u00b0 varus to 1.3\u00b0 varus (p\u2009<\u20090.001). The AJOA changed from -0.8\u00b0 to 0.8\u00b0 (p\u2009=\u20090.001). A moderate positive correlation was found between the change in AJOA and the degree of knee axis correction (rho\u2009=\u20090.4, p\u2009<\u20090.001). No significant correlation was found between mechanical axis correction and MOXFQ scores at 3, 6 or 12 months. All patient-reported outcome measures improved after surgery compared with preoperative values. CONCLUSIONS: Correction of the mechanical axis following TKA modifies ankle radiographic alignment but does not significantly affect ankle function at 1 year in patients with moderate deformities. Functional outcomes improved after surgery regardless of the degree of alignment change. LEVEL OF EVIDENCE: Level II.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42059084/",
+      "score": 51,
+      "score_reasoning": "Prospective study (158 patients) examining ankle alignment changes after TKA, providing biomechanical insights with moderate clinical impact.",
+      "bullets": [
+        "TKA corrects knee varus alignment from 5.8 degrees to 1.3 degrees but changes ankle joint orientation by 1.6 degrees on average",
+        "Ankle function scores show no correlation with mechanical axis correction despite radiographic ankle alignment changes in 128 TKA patients at one year",
+        "Patients with moderate knee deformities can expect improved functional outcomes after TKA regardless of how much their limb alignment changes"
+      ]
+    },
+    {
+      "pmid": "42058460",
+      "title": "Robotic Assistance for Low-Volume Total Knee Arthroplasty Surgeons Is Associated With Comparable Perioperative Outcomes Related to Those of High-Volume Surgeons Using Conventional Techniques.",
+      "authors": [
+        "Lee AH",
+        "Jahagirdar OB",
+        "Slevin JP",
+        "Rubin LE",
+        "Grauer JN"
+      ],
+      "authors_short": "Lee AH, Jahagirdar OB, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Studies have reported mixed utility of robotics in total knee arthroplasty (TKA). Separately, higher surgical volume has correlated with improved outcomes. The potential interplay of these variables has not been assessed. METHODS: Patients undergoing conventional and robotic TKAs performed by low-volume and high-volume surgeons were identified from PearlDiver M170Ortho. Three matched comparisons were performed: conventional low-volume TKA (LV-TKA) vs robotic LV-TKA (R-LV-TKA), conventional high-volume TKA (C-HV-TKA) vs robotic high-volume TKA (R-HV-TKA), and C-HV-TKA vs R-LV-TKA. Aggregated 90-day adverse events (AEs), 5-year implant-related events, and revision rates were assessed. RESULTS: Among low-volume surgeons, there were 8923 conventional LV-TKAs and 2235 R-LV-TKAs. R-LV-TKAs had lower odds of 90-day any (odds ratio [OR] 0.63), severe (OR 0.71), and minor (OR 0.66) AEs, driven by deep vein thrombosis (OR 0.47) and transfusion (OR 0.43) rates (all P < .003). At 5 years, no differences existed in implant-related events or revisions. Among high-volume surgeons, there were 19,732 C-HV-TKAs and 4939 R-HV-TKAs. R-HV-TKAs had lower odds of 90-day any (OR 0.79) and minor (OR 0.74) AEs, driven by urinary tract infection (OR 0.63) and transfusion (OR 0.45) rates (all P < .001). At 5 years, R-HV-TKAs had lower odds of periprosthetic joint infection (OR 0.56, P < .001) and revision rates (2.2% vs 3.3%, P = .02). Comparing C-HV-TKAs and R-LV-TKAs, no differences existed in 90-day AEs, 5-year implant-related events, or revisions. CONCLUSIONS: Robotic assistance was associated with lower odds of aggregated perioperative complications for low-volume and high-volume surgeons and with improved 5-year outcomes in high-volume robotic surgeons. Notably, robotic usage by low-volume surgeons was associated with outcomes comparable to nonrobotic high-volume surgeons, suggesting outcome gaps because of volume may be partially closed through robotics.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42058460/",
+      "score": 50,
+      "score_reasoning": "Database study examining infection patterns by age in knee PJI, providing epidemiologic insights with moderate clinical applicability.",
+      "bullets": [
+        "Robotic assistance reduced 90-day complications for both low-volume and high-volume TKA surgeons, with greatest benefit in reducing DVT and transfusion rates.",
+        "High-volume surgeons using robotics had lower 5-year periprosthetic infection rates and revision rates compared to conventional techniques, while low-volume surgeons showed no 5-year difference.",
+        "Low-volume surgeons using robotics achieved comparable outcomes to high-volume surgeons using conventional techniques, suggesting robotics may help close the volume-outcome gap."
+      ]
+    },
+    {
+      "pmid": "42057569",
+      "title": "Plain Radiographs Underestimate Tibiotalar Tilt in Progressive Collapsing Foot Deformity.",
+      "authors": [
+        "Kim J",
+        "Mizher R",
+        "Demetracopoulos CA",
+        "Ellis SJ",
+        "Deland JT"
+      ],
+      "authors_short": "Kim J, Mizher R, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Accurate evaluation of tibiotalar alignment is essential for staging and surgical planning in progressive collapsing foot deformity (PCFD), yet plain radiographs are limited by their 2-dimensional nature and variability in beam angulation. This study pursued 3 objectives: to quantify discrepancies in tibiotalar tilt (TT) between plain radiographs (XRs) and weightbearing CT (WBCT), to compare the prevalence of significant valgus tilt between modalities, and to identify features associated with underrecognized deformity on XRs. METHODS: One hundred thirty-eight PCFD patients (mean age: 55.1\u2009years) who underwent both WBCT and ankle XRs were reviewed. On weightbearing ankle XRs, tibiotalar tilt (TTXR), medial distal tibial angle (MDTAXR), and talus-ground surface angle (Tal-GSXR) were measured. On WBCT, corresponding parameters (TTWBCT, MDTAWBCT, and Tal-GSWBCT) were assessed at 25% (anterior), 50% (middle), and 75% (posterior) of the joint. The degree of tibiotalar tilt and prevalence of significant valgus tibiotalar tilt (\u22654\u00b0) were compared. Bland-Altman plots evaluated agreement between XRs and WBCTs. Patients were classified into Discrepancy (TTXR\u2009<\u20094\u00b0, TTWBCT\u2009\u2265\u20094\u00b0) and No-discrepancy groups, and group characteristics were compared. Interobserver and intraobserver reliability were assessed using intraclass correlation coefficients (ICCs). RESULTS: Mean TTXR was 1.5\u00b0, and mean TTWBCT was 4.1\u00b0, indicating a 63% underestimation on radiographs. Significant valgus tilt (\u22654\u00b0) was present in 10.1% of radiographs vs 37.7% of WBCT scans. Radiographs correlated best with the middle WBCT slice. Discrepancy group patients showed greater anterior TTWBCT values. On multivariable logistic regression, anterior tibiotalar tilt on WBCT was the predictor of XR-WBCT discrepancy (odds ratio, 33.0; 95% CI, 5.6-114.7; P\u2009<\u2009.001), suggesting anterior deformities visualized on WBCT are not reliably captured on radiographs. Interobserver reliability ranged from 0.80 to 0.86 and intraobserver reliability from 0.88 to 0.89 (ICC). CONCLUSION: Plain radiographs underestimate valgus tibiotalar tilt compared with WBCT, mainly because of limited visualization of the anterior joint. Surgeons should recognize that reliance on XRs alone may lead to underrecognition of ankle valgus alignment in patients with PCFD. As WBCT is not universally available, optimizing XR projection angles may better capture anterior tibiotalar alignment and improve preoperative planning. LEVEL OF EVIDENCE: Level III, retrospective diagnostic.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42057569/",
+      "score": 49,
+      "score_reasoning": "Cadaveric study (18 patients) examining PSI accuracy for supramalleolar osteotomy with good technical relevance but limited by small sample size.",
+      "bullets": [
+        "Plain radiographs underestimate tibiotalar valgus tilt by 63% compared to weightbearing CT in progressive collapsing foot deformity patients.",
+        "Significant valgus tilt was found in only 10% of radiographs versus 38% of CT scans in the same 138 patients.",
+        "Anterior joint deformities are poorly visualized on standard radiographs, leading to missed valgus alignment that affects surgical planning."
+      ]
+    },
+    {
+      "pmid": "42058459",
+      "title": "Objective Sleep Disturbance After Total Hip and Knee Arthroplasty: A Systematic Review of Wearable-Derived Metrics and Targeted Interventions.",
+      "authors": [
+        "Ferrero A",
+        "Patrucco F",
+        "Marcolin MG",
+        "Conte P",
+        "Di Matteo B",
+        "Guazzoni E",
+        "Minelli M",
+        "Kon E",
+        "Anzillotti G"
+      ],
+      "authors_short": "Ferrero A, Patrucco F, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Sleep disturbance is common in patients with hip and knee osteoarthritis and may worsen during the perioperative period of total joint arthroplasty. Poor sleep has been linked to higher pain, delayed functional recovery, and reduced patient satisfaction; however, most arthroplasty studies rely on subjective questionnaires, providing limited insight into the magnitude and time course of postoperative sleep disruption. METHODS: A systematic literature search of PubMed, Embase, and the Cochrane Library was conducted from inception to November 17, 2025, following Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. Studies reporting objective perioperative sleep assessment using actigraphy, consumer wearables, or portable electroencephalography (EEG) in adults undergoing total hip arthroplasty or total knee arthroplasty were included. RESULTS: Seven studies met inclusion criteria, including observational cohorts and randomized controlled trials. Objective monitoring consistently demonstrated substantial sleep disruption in the early postoperative period, characterized by reduced nocturnal sleep duration, increased fragmentation, and decreased sleep efficiency, with gradual recovery over subsequent days to weeks. Studies using portable EEG identified marked but transient suppression of rapid eye movement (REM) sleep immediately after surgery. Longer-term wearable monitoring suggested stabilization of total sleep time, although correlations with subjective sleep quality were variable. Pharmacologic interventions showed minimal or inconsistent benefits on objective sleep duration or architecture. CONCLUSIONS: Objective wearable monitoring identifies reproducible sleep disruption after total hip arthroplasty and total knee arthroplasty that is incompletely captured by patient-reported measures. Standardized objective endpoints, validation of wearable devices in arthroplasty populations, and integration of sleep assessment into enhanced recovery pathways may improve postoperative care and patient-centered outcomes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42058459/",
+      "score": 43,
+      "score_reasoning": "Systematic review of sleep disturbance after arthroplasty using wearable devices, novel approach but limited clinical actionability.",
+      "bullets": [
+        "Wearable devices show consistent severe sleep disruption after hip and knee replacement with reduced sleep duration, increased fragmentation, and suppressed REM sleep that gradually improves over weeks.",
+        "Sleep medications provide minimal or inconsistent improvement in objective sleep measures despite being commonly prescribed after joint replacement surgery.",
+        "Patient questionnaires poorly correlate with objective sleep data from wearables, suggesting surgeons may be missing the true extent of postoperative sleep problems."
+      ]
+    }
+  ],
+  "picks": [
+    3
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-05-04T04:48:21.298909-07:00"
+}
