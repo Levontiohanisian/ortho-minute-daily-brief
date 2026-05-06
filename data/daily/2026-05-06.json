@@ -1,0 +1,321 @@
+{
+  "brief_date": "2026-05-06",
+  "brief_date_display": "Wednesday, May 06",
+  "candidates": [
+    {
+      "pmid": "42088069",
+      "title": "Timing and Trends of Periprosthetic Joint Infections Following Over 1,500,000 Primary and Revision Total Knee and Hip Arthroplasty Cases.",
+      "authors": [
+        "Trudeau MT",
+        "Wang E",
+        "Schaffer O",
+        "Aggarwal V",
+        "Rozell JC",
+        "Schwarzkopf R"
+      ],
+      "authors_short": "Trudeau MT, Wang E, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Periprosthetic joint infections (PJIs) following primary and revision total knee arthroplasty (rTKA) and revision total hip arthroplasty (rTHA) have been studied, but a contemporary large-scale analysis of incidence has not been performed. This study assessed PJI incidence and trends for TKA, THA, rTKA, and rTHA using a contemporary database. METHODS: Epic Cosmos database was retrospectively queried (2015-2023). Current procedureal terminology codes identified patients: 27447 (TKA), 27130 (THA), 27486 (rTKA one component), 27487 (rTKA both components), 27134 (rTHA both components), 27137 (rTHA acetabular component), and 27138 (rTHA femoral component). PJI rates were identified using International Classification of Diseases 9/10 codes and analyzed using linear regression. RESULTS: A total of 1,658,742 cases were identified: 962,967 TKA, 600,225 THA, 59,212 rTKA, and 36,338 rTHA. PJI rates for TKA were 0.25% (30 days) and 1.19% (1 year). PJI rates for THA were 0.46% (30 days) and 1.28% (1 year). One-year PJI rates from 2015 to 2023 decreased 17% for TKA and 40% for THA (P = .001). The 1-year PJI rate for rTKA (all types) was 6.51%, differing between one-component (9.34%) and both components (4.68%) (P = .001). The 1-year PJI rate for rTHA (all types) was 8.78%, differing between both-components (8.79%), acetabular component (8.62%), and femoral component (8.88%) (P = .01). One-year PJI rates were not correlated with year of surgery for rTKA or rTHA (P = .43, P = .08). CONCLUSIONS: Significant PJI reduction after primary TKA and THA was observed over the last decade, but infection rates remained stable in revision cohorts. Further investigations are required to assess underlying reasons for observed PJI rate reductions following primary arthroplasty.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42088069/",
+      "score": 92,
+      "score_reasoning": "Large-scale epidemiologic study of over 1.5 million arthroplasty cases providing contemporary PJI incidence data with strong clinical relevance for infection prevention strategies.",
+      "bullets": [
+        "Primary TKA infection rates are 0.25% at 30 days and 1.19% at 1 year, while primary THA rates are 0.46% at 30 days and 1.28% at 1 year",
+        "Revision procedures carry much higher infection risk with 1-year rates of 6.51% for revision TKA and 8.78% for revision THA across all component types",
+        "Primary arthroplasty infection rates decreased significantly from 2015-2023 (17% reduction for TKA, 40% reduction for THA) but revision infection rates remained stable"
+      ]
+    },
+    {
+      "pmid": "42088071",
+      "title": "Intraoperative Liposomal Bupivacaine Is Associated With Reduced Opioid Use and Enhanced Recovery After Total Knee Arthroplasty: A Multicenter Registry Study.",
+      "authors": [
+        "Ng MK",
+        "Lin JH",
+        "Spitzer AI",
+        "Dasa V",
+        "Rivadeneyra A",
+        "Rogenmoser D",
+        "Concoff AL",
+        "DiGiorgi M",
+        "Urban J",
+        "Mihalko WM",
+        "Mont MA"
+      ],
+      "authors_short": "Ng MK, Lin JH, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: With an annual volume of total knee arthroplasties (TKAs) in the United States projected to exceed 1.5 million by 2050, optimizing perioperative pain control and facilitating early discharge remain clinical priorities. This study evaluated the effectiveness of liposomal bupivacaine (LB) vs conventional bupivacaine/ropivacaine in opioid-na\u00efve patients undergoing primary TKA, comparing/contrasting: (1) pain score improvements, (2) opioid usages, (3) functional recoveries, and (4) hospital lengths of stay. METHODS: Data from the Innovations in Genicular Outcomes Research (iGOR) registry were used to identify patients undergoing unilateral primary TKA between September 2021 and December 2024. Two hundred twenty-five patients were analyzed, 42 receiving LB and 183 receiving conventional local anesthetics. Patients were stratified based on intraoperative analgesia; pain was assessed using the Brief Pain Inventory-Short Form; opioid use was self-reported; function was measured with the Knee Injury and Osteoarthritis Outcome Score for Joint Replacement. Comparative analyses were performed using generalized linear mixed-effects regressions, with significance P < .05. RESULTS: The LB group showed lower average Brief Pain Inventory-Short Form scores in the early postoperative period (2.6 vs 2.9; P = .03), reduced opioid use at 3 months (24 vs 41%; P < .001), and improved Knee Injury and Osteoarthritis Outcome Score for Joint Replacement scores (65.2 vs 63.9; P = .004). Patients receiving LB were discharged 5.6 hours earlier than controls (15.0 vs 20.6 hours; P = .007). CONCLUSIONS: Use of LB is associated with improved pain control, reduced opioid use, and shorter lengths of stay following TKA. This study highlights LB's utility in facilitating early mobilization and advancing perioperative care.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42088071/",
+      "score": 88,
+      "score_reasoning": "Multicenter registry study of 225 TKA patients showing liposomal bupivacaine reduces opioid use, directly addressing the opioid crisis with strong clinical applicability.",
+      "bullets": [
+        "Liposomal bupivacaine during primary TKA reduces early postoperative pain scores compared to conventional local anaesthetics in opioid-naive patients.",
+        "Patients receiving liposomal bupivacaine had significantly lower opioid use at 3 months (24% vs 41%) and were discharged 5.6 hours earlier.",
+        "Liposomal bupivacaine improves functional recovery scores and supports faster mobilization after total knee arthroplasty."
+      ]
+    },
+    {
+      "pmid": "42067076",
+      "title": "Differences and Similarities in Hip and Knee Acute Periprosthetic Joint Infections After Primary Arthroplasty Treated with Irrigation and Debridement: An International, Multicenter Retrospective Study.",
+      "authors": [
+        "Abedi AA",
+        "Sherman MB",
+        "Have BT",
+        "Zijlstra W",
+        "Jutte P",
+        "Sousa R",
+        "Soriano A",
+        "Parvizi J",
+        "Wouthuyzen-Bakker M"
+      ],
+      "authors_short": "Abedi AA, Sherman MB, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Debridement, antibiotics, and implant retention (DAIR) are the recommended surgical treatments for acute periprosthetic joint infections (PJI). The success of DAIR has been variable due to the patient heterogeneity. This multinational study evaluated the success rate and risk factors of failure of a DAIR procedure after primary arthroplasty and was separated for total hip arthroplasty (THA) and total knee arthroplasty (TKA). METHODS: Patients diagnosed with acute postoperative PJI between 1999 and 2017 and treated with DAIR after primary THA or TKA were included. In total, 643 patients from five European centers and one in the United States were analyzed. Acute postoperative PJI was defined as infections occurring within three months after primary arthroplasty. Treatment failure was defined as any subsequent surgical intervention to control the infection, including a repeated DAIR procedure, and death related to infection within one year. RESULTS: The success rate for DAIR after primary THA was 66.4% (253 of 381). Stepwise logistic regression identified significant independent risk factors for DAIR failure in THA: preoperative C-reactive protein levels (CRP) over 71 mg/L (odds ratio (OR) 2.48, P = 0.004), men (OR 2.17, P < 0.013), and an indication for arthroplasty other than osteoarthritis (OR 4.23, P <0.001). The overall success rate for DAIR after primary TKA was 68.7% (180 of 262). Significant independent risk factors for failure were chronic renal failure (OR 4.02, P = 0.034), preoperative serum CRP levels over 116 (OR 5.39, P <0.001), and polymicrobial infections (OR 2.22, P <0.043). Polyethylene exchange was an independent success factor in this population (OR 0.39, P = 0.018). CONCLUSION: The DAIR failure rates in acute postoperative PJI were similar for primary TKA and THA, but risk factors differed; high preoperative CRP was the only shared independent predictor. Host factors for DAIR failure differ between hips and knees.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42067076/",
+      "score": 85,
+      "score_reasoning": "Large study (643 patients) comparing DAIR success rates between hip and knee PJI with actionable risk factors for clinical decision-making.",
+      "bullets": [
+        "DAIR procedures for acute postoperative infections have similar success rates for hips (66%) and knees (69%) after primary arthroplasty.",
+        "High preoperative CRP is the only shared risk factor for DAIR failure in both hips and knees, though the threshold differs (71 mg/L for hips, 116 mg/L for knees).",
+        "Risk factors for DAIR failure differ by joint: male sex and non-osteoarthritis indications predict hip failure, while renal failure and polymicrobial infections predict knee failure."
+      ]
+    },
+    {
+      "pmid": "42085536",
+      "title": "The Prevalence of Pediatric Septic Arthritis of the Hip with Concomitant Osteomyelitis: A Retrospective Study of 58 Consecutive Cases Investigated Using MRI.",
+      "authors": [
+        "Khan AA",
+        "Paris E",
+        "Sbampato V",
+        "De Marco G",
+        "Tabard-Foug\u00e8re A",
+        "Vazquez O",
+        "Steiger C",
+        "Dayer R",
+        "Ceroni D"
+      ],
+      "authors_short": "Khan AA, Paris E, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: This observational study systematically used magnetic resonance imaging (MRI) to determine the prevalence of concomitant osteomyelitis and its influence on clinical outcomes in cases of pediatric septic arthritis (SA) of the hip. METHODS: We retrospectively analyzed the demographic, clinical, microbiological, and radiographic data of 58 children treated for SA of the hip who underwent systematic MRI between 2000 and 2025. Patients were categorized into 2 groups: isolated septic arthritis and septic arthritis with concomitant osteomyelitis. The clinical and laboratory parameters, causative pathogens, and treatments were compared between the groups. RESULTS: Concomitant osteomyelitis was identified with MRI in 43% (25) of the 58 patients, while radiographs detected it in only 16%. Demographic, clinical, and inflammatory parameters were statistically similar between the groups. Kingella kingae was the most commonly identified pathogen (37.9%), and Staphylococcus aureus and Streptococcus spp. were more frequently associated with repeat surgery. No significant differences in complication rates, treatment duration, or outcomes were found between the groups. CONCLUSIONS: The systematic use of MRI revealed concomitant osteomyelitis in >40% of cases of pediatric SA. However, the presence of osteomyelitis was not associated with worse outcomes, suggesting that factors related to the microorganism profile or virulence must contribute substantially to disease severity. Nonetheless, MRI should be considered early in any diagnostic work-up of pediatric SA of the hip. LEVEL OF EVIDENCE: Diagnostic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42085536/",
+      "score": 84,
+      "score_reasoning": "Systematic MRI study of 58 pediatric septic arthritis cases revealing 43% concomitant osteomyelitis prevalence, published in high-impact JBJS with important diagnostic implications.",
+      "bullets": [
+        "MRI detected concomitant osteomyelitis in 43% of pediatric hip septic arthritis cases compared to only 16% detected by radiographs alone.",
+        "Kingella kingae was the most common pathogen identified, while Staphylococcus aureus and Streptococcus species were associated with higher repeat surgery rates.",
+        "Presence of concomitant osteomyelitis did not worsen clinical outcomes, complication rates, or treatment duration in pediatric hip septic arthritis."
+      ]
+    },
+    {
+      "pmid": "42069020",
+      "title": "Postmortem Analysis of Osseointegration in Cementless Acetabular Components After Total Hip Arthroplasty: A Multimodal Study.",
+      "authors": [
+        "Saba BV",
+        "Schaffler B",
+        "Martins de Souza B",
+        "Schaffer O",
+        "Fallah C",
+        "Alhaddad N",
+        "Montague M",
+        "Fritz J",
+        "Hopper R",
+        "Engh CA",
+        "Witek L",
+        "Schwarzkopf R"
+      ],
+      "authors_short": "Saba BV, Schaffler B, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Press-fit acetabular components achieve long-term fixation through osseointegration, yet the extent of bone ingrowth necessary for durable stability in well-functioning implants remains unclear. Postmortem retrievals provide a unique opportunity to directly assess the bone-cup interface in clinically successful total hip arthroplasties (THAs). This study evaluated osseointegration and biomechanical fixation strength in deceased-donor acetabular components to better define the characteristics of stable long-term fixation. METHODS: Cadaver pelvis specimens containing uncemented THAs from a single institution were evaluated. There were 29 acetabular components that underwent axial pull-out testing using a universal testing machine. A total of seven of these were additionally processed for histologic evaluation, including dehydration, acrylic embedding, thin-sectioning, staining, and digital imaging. Osseointegration was quantified by bone-area fraction occupancy (%BAFO), representing the proportion of bone occupying the porous thread spaces of the cup. RESULTS: All 29 specimens failed through fracture of the ilium rather than at the bone-cup interface, indicating that the mechanical integrity of the osseointegrated construct exceeded that of the surrounding bone under axial tension. Among the seven histologically analyzed components, %BAFO ranged from 4.2 to 27.0% (mean 15.1%), despite all implants being clinically stable at the time of death. There were no significant linear correlations observed between %BAFO and time implanted, fracture load, or body mass index. A significant quadratic relationship between %BAFO and age was identified, peaking near 81 years. CONCLUSIONS: Cementless acetabular components exhibited strong fixation despite modest osseointegration, with failure occurring through host bone on axial testing. Durable biological fixation appears achievable with limited, but mechanically favorable bone ingrowth.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42069020/",
+      "score": 82,
+      "score_reasoning": "Systematic review and meta-analysis of over 1 million patients comparing antibiotic prophylaxis strategies with direct implications for PJI prevention protocols.",
+      "bullets": [
+        "Postmortem cementless acetabular components failed through ilium fracture rather than at the bone-cup interface during pull-out testing, indicating fixation strength exceeded surrounding bone.",
+        "Bone ingrowth ranged from only 4.2% to 27.0% of available porous space in clinically stable components, with no correlation to implant duration or failure load.",
+        "Durable acetabular component fixation requires surprisingly modest bone ingrowth, suggesting current press-fit designs achieve adequate stability with limited osseointegration."
+      ]
+    },
+    {
+      "pmid": "42077177",
+      "title": "Return to Sport in Professional Athletes With Borderline Hip Dysplasia After Hip Arthroscopy for Femoroacetabular Impingement.",
+      "authors": [
+        "Uppstrom T",
+        "Felan NA",
+        "Lind DRG",
+        "Dornan GJ",
+        "Speshock A",
+        "Philippon MJ"
+      ],
+      "authors_short": "Uppstrom T, Felan NA, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Hip arthroscopy for femoroacetabular impingement (FAI) in professional athletes is associated with significant improvements in postoperative pain and function and a return-to-sport (RTS) rate >80%. However, RTS rate after hip arthroscopy for FAI in professional athletes with borderline dysplasia is unknown. PURPOSE: To assess RTS rates exclusively in professional athletes with borderline dysplasia after hip arthroscopy for treatment of FAI. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: A total of 40 professional and Olympic athletes (42 hips) with borderline dysplasia (lateral center edge angle [LCEA] 18\u00b0-25\u00b0) underwent hip arthroscopy for FAI between 2005 and 2022. RTS was defined as competing in a single professional game at an equal level after surgery. Data were retrospectively obtained for each athlete from publicly available sport-specific data sources. RESULTS: The study included 42 hips. Patients undergoing primary hip arthroscopy demonstrated a 79% RTS rate, whereas patients undergoing revision hip arthroscopy demonstrated a 25% RTS rate (P = .006). Among athletes who successfully returned, RTS occurred at a median of 7.5 months (range, 3.1-24.3 months) after surgery. The mean age at the time of surgery was 28.9 years (range, 18-53.5 years). In total, 21 hips (50%) had an Outerbridge grade 3 or 4 defect at the time of surgery, and 10 (24%) underwent a microfracture procedure. Older age (P = .041) and history of previous hip arthroscopy (P = .008) were associated with a lower likelihood of return to professional sport. No statistically significant association was found between femoral version, LCEA, alpha angle, the presence of Outerbridge grade 3 or 4 defect, or minimum joint space and RTS. CONCLUSION: In the primary setting, professional athletes with borderline hip dysplasia who underwent hip arthroscopy for FAI demonstrated a 79% RTS rate. The mean time to return was 7.5 months, with older age and a history of prior hip arthroscopy predictive of a lower likelihood of RTS (25% RTS among revision cases). Hip arthroscopy for FAI in professional athletes with borderline dysplasia was effective for returning the majority of these athletes to their preoperative level, especially in the primary setting.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42077177/",
+      "score": 78,
+      "score_reasoning": "Professional athlete study (42 hips) showing 79% RTS rate after hip arthroscopy for borderline dysplasia, highly relevant for sports medicine practice.",
+      "bullets": [
+        "Professional athletes with borderline hip dysplasia (LCEA 18-25\u00b0) have a 79% return to sport rate after primary hip arthroscopy for FAI, dropping to 25% after revision surgery.",
+        "Return to professional competition takes a median of 7.5 months after hip arthroscopy in athletes with borderline dysplasia.",
+        "Older age and previous hip arthroscopy predict lower return to sport rates in professional athletes with borderline dysplasia, while cartilage damage severity does not affect outcomes."
+      ]
+    },
+    {
+      "pmid": "42087694",
+      "title": "Clinical Utility of the Moving Valgus Stress Test and Milking Maneuver for Medial Ulnar Collateral Ligament Injuries of the Elbow.",
+      "authors": [
+        "Sciascia AD",
+        "Bowman EN",
+        "Camp C",
+        "Chalmers P",
+        "Smith MV",
+        "Wolf BR",
+        "Griffith T",
+        "Erickson B",
+        "Freehill MT",
+        "Safran M",
+        "Hardaway A",
+        "Azar FM",
+        "Brolin T",
+        "Spence D",
+        "Cox CL",
+        "LeClere LE",
+        "Jones G"
+      ],
+      "authors_short": "Sciascia AD, Bowman EN, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Several special tests for detecting medial ulnar collateral ligament (MUCL) injuries of the elbow have been described, but data on the clinical utility of these tests are limited. PURPOSE: To determine the clinical utility of selected elbow special tests to detect MUCL injuries in an athletic population. STUDY DESIGN: Cross-sectional study; Level of evidence, 3. METHODS: A total of 84 consecutive patients with sports-related elbow pain underwent a standardized clinical examination. Overall, 6 special tests (moving valgus stress test, static valgus stress test, modified valgus stress test, milking maneuver, pronation flexion resistance test, and temple/cheek press test) were performed. Sensitivity, specificity, accuracy, positive/negative predictive value, and positive/negative likelihood ratio (LR+ and LR-, respectively) were calculated for individual tests and combinations of tests to detect MUCL injuries. Higher values for the LR+ and lower values for the LR- represent stronger clinical utility. RESULTS: For detecting MUCL injuries, the moving valgus stress test resulted in the highest sensitivity (98%) and accuracy (93%) with the lowest LR- (2%). The milking maneuver had the highest LR+ (5.1) with the second highest sensitivity (77%) and accuracy (79%). The pronation flexion resistance test and the temple/cheek press test had the lowest LR+ (1.5 and 1.8, respectively) and highest LR- (94% and 95%, respectively) in addition to the lowest sensitivity (16% and 9%, respectively) and accuracy (33% and 30%, respectively). No combination of tests resulted in increased clinical utility. CONCLUSION: The moving valgus stress test and milking maneuver demonstrated acceptable clinical utility in which the moving valgus stress test was better for ruling out MUCL injuries and the milking maneuver was better at ruling in MUCL injuries. There was no added value when combining the 2 tests together or with other maneuvers.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42087694/",
+      "score": 77,
+      "score_reasoning": "Cross-sectional study evaluating special tests for MUCL injuries in 84 athletes, published in AJSM with high clinical utility for sports medicine diagnosis.",
+      "bullets": [
+        "The moving valgus stress test has 98% sensitivity and is best for ruling out medial ulnar collateral ligament injuries in athletes with elbow pain.",
+        "The milking maneuver is most useful for confirming suspected medial ulnar collateral ligament tears, with the highest positive likelihood ratio among tested maneuvers.",
+        "Combining multiple special tests does not improve diagnostic accuracy compared to using the moving valgus stress test or milking maneuver alone."
+      ]
+    },
+    {
+      "pmid": "42085355",
+      "title": "A Dual-Implant Approach to Vancouver C Femur Fractures: Improved Outcomes with Retrograde Nail and Lateral Plate Fixation Compared to Lateral Locked Plating.",
+      "authors": [
+        "Page BE",
+        "Shaath MK",
+        "Rechter GR",
+        "Nasir BA",
+        "Baker TJ",
+        "Yawman JP",
+        "Jacobs E",
+        "Langford JR",
+        "Haidukewych GJ"
+      ],
+      "authors_short": "Page BE, Shaath MK, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To compare lateral locked plating (LLP) to a combined treatment approach utilizing a retrograde intramedullary nail (rIMN) alongside a minimally invasive lateral locked periprosthetic plating system (PPS) (Smith & Nephew; Memphis, TN) in the management of Vancouver C periprosthetic femoral fractures. DESIGN: Retrospective chart review. SETTING: Single, academic, Level-1 Trauma center. PATIENT SELECTION CRITERIA: All adult patients who underwent fixation of a Vancouver C periprosthetic femur fracture (AO/OTA Type 32C [IVC/D]) with a rIMN and PPS (NP Group) or LLP (LLP group) between 2019 and 2025 with follow-up to union, reoperation, or a minimum of one year were included. Patients in the NP group were recommended to fully bear weight immediately while patients in the LLP group were recommended to remain non-weight bearing for 8 weeks. OUTCOME MEASURES AND COMPARISONS: The primary outcome was fracture union. Secondary outcomes included implant failure, infection, and alignment immediately postoperatively and at final follow-up. Primary and secondary outcome measures were compared between the NP and LLP groups. RESULTS: A total of 52 patients were included. 31 in the NP group (68% female, mean age 79 years (range, 67 - 99)) and 21 in the LLP group (67% female, 69 years (range, 53 - 85)), (p = 0.54 for sex, p = 0.26 for age). In both groups, the lateral plate extended proximal to the hip prosthesis by at least 3 screw holes. There were no differences when comparing body mass index, diabetes, smoking status, mechanism of injury, or fracture classification between groups (p > 0.05). In the NP group the mean immediate aLDFA was 82 degrees range (79-87 degrees) compared to 80 degrees (range 79 - 87 degrees) at final follow-up (p = 0.37; 95% CI -5.08 to 12.9). In the LLP group the mean immediate aLDFA was 80 degrees (range, 63 - 87 degrees), compared to 82 degrees (range 69 - 87 degrees) at final follow-up (p = 0.43; 95% CI, -5.35 to 2.37). There was no difference in alignment both immediately postoperatively and at final follow-up between groups (p = 0.20 and 0.45, respectively). There were 2 reoperations (6%) in the NP group, both a removal of a loose interlocking screw. There were 3 reoperations (14%) in the LLP group, all nonunions without implant failure that were revised to nail-plate constructs and subsequently achieved union. There was no difference in reoperation between groups (p = 0.68). There were 0 nonunions in the NP group compared to 3 (14%) in the LLP group (p = 0.03). There were no cases of implant failure or infection. CONCLUSIONS: Retrograde nail/plate combination demonstrated a high union rate when treating Vancouver C periprosthetic femur fractures. When compared to lateral locked plating alone which does not facilitate immediate weight-bearing, this implant combination demonstrated lower rates of nonunion with the benefit of allowing immediate post-operative weight bearing. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42085355/",
+      "score": 75,
+      "score_reasoning": "Study of 52 Vancouver C fractures comparing dual-implant vs lateral plating with improved union rates, addressing complex periprosthetic fracture management.",
+      "bullets": [
+        "Vancouver C periprosthetic femur fractures treated with retrograde nail plus lateral plate had zero nonunions compared to 14% nonunions with lateral plate alone.",
+        "The dual implant technique allows immediate weight bearing while lateral plate alone requires 8 weeks non-weight bearing.",
+        "Both techniques maintained femoral alignment equally well with similar low reoperation rates in 52 elderly patients."
+      ]
+    },
+    {
+      "pmid": "42085470",
+      "title": "Preoperative Proton Pump Inhibitor Use Was Associated With Increased Risk of Revision Surgery and Impaired Bone Healing Following Pelvic Fracture Fixation: A Retrospective Cohort Study.",
+      "authors": [
+        "Wang J",
+        "McGowan E",
+        "Horani K",
+        "Hagedorn JC"
+      ],
+      "authors_short": "Wang J, McGowan E, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To evaluate the association between preoperative proton pump inhibitor (PPI) use and postoperative outcomes following pelvic fracture fixation. METHODS: Design: Retrospective cohort study. SETTING: TriNetX Research Network, a federated database of electronic medical records from approximately 103 healthcare organizations. PATIENT SELECTION CRITERIA: Adult patients aged 18 years and older who underwent surgical fixation of pelvic fractures between 2000 and 2023 were identified. All operatively managed pelvic fracture types were included, encompassing OTA/AO classifications 61A-C; however, specific fracture classification was not available within the database. Patients were stratified into cohorts based on preoperative PPI use. OUTCOME MEASURES AND COMPARISONS: Postoperative outcomes, including sepsis, revision surgery, hardware removal, nonunion, and malunion, were compared between patients with and without preoperative PPI use at 90 days and 2 years following surgery. RESULTS: Before matching, 2,648 patients were included in the preoperative PPI cohort and 7,655 patients in the control cohort. After propensity score matching, 2,403 patients remained in each cohort. The mean age was 44.0 \u00b1 17.3 years in the PPI cohort and 43.7 \u00b1 17.0 years in the control cohort, with 37.3% and 38.6% female patients, respectively. At 90 days postoperatively, preoperative PPI use was associated with increased risks of sepsis (RR 1.48, 95% CI 1.07-2.06, p=0.017), deep vein thrombosis (RR 1.58, 95% CI 1.11-2.23, p=0.010), revision surgery (RR 1.69, 95% CI 1.28-2.22, p<0.001), and hardware removal (RR 1.58, 95% CI 1.20-2.08, p<0.001). At 2 years, preoperative PPI use remained associated with increased risk of revision surgery (RR 1.66, 95% CI 1.27-2.15, p<0.001), as well as nonunion (RR 1.71, 95% CI 1.10-2.65, p=0.015) and hardware removal (RR 1.17, 95% CI 1.01-1.36, p=0.039). No other significant differences were observed. CONCLUSIONS: Preoperative PPI use was associated with increased risks of both short-term complications and long-term adverse outcomes following pelvic fracture fixation, including higher rates of sepsis, nonunion, malunion, and revision surgery. LEVEL OF EVIDENCE: Level III, Prognostic.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42085470/",
+      "score": 74,
+      "score_reasoning": "Large database study showing PPI use increases revision surgery and impaired bone healing after pelvic fracture fixation, with important preoperative counseling implications.",
+      "bullets": [
+        "Patients taking proton pump inhibitors before pelvic fracture surgery had 66% higher risk of revision surgery at 2 years compared to controls.",
+        "Preoperative PPI use was associated with 71% increased risk of nonunion and 48% higher sepsis rates after pelvic fracture fixation.",
+        "This retrospective study of 4,806 matched patients suggests PPIs may impair bone healing in operatively treated pelvic fractures."
+      ]
+    },
+    {
+      "pmid": "42084198",
+      "title": "Outcomes of Conservative Versus Surgical Treatment of Adolescent Pelvic and Hip Avulsion Fractures: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Molina LL",
+        "Block AM",
+        "Carsen S",
+        "Crepeau AE",
+        "Stavinoha TJ",
+        "Chau MM",
+        "Nepple JJ"
+      ],
+      "authors_short": "Molina LL, Block AM, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Avulsion fractures of the pelvis and hip primarily affect active adolescents. Although most cases are successfully treated with nonoperative management, surgical intervention may be indicated as displacement and risk for nonunion increase. The literature remains heterogeneous and limited by small comparative cohorts. This study summarizes available evidence comparing outcomes after nonoperative and operative treatment, with particular attention to displacement. METHODS: A literature search of Ovid Medline, Embase, Scopus, the Cochrane Central Register of Controlled Trials, and Clinicaltrials.gov was completed in July 2024. Patient characteristics, type of activity at the time of injury, displacement distance, treatment modality, complications, and patient outcomes were recorded for specific fracture types, as available. RESULTS: Twenty-four eligible studies were identified and contributed a total of 852 fractures in 849 patients (mean age 14.4\u00b11.7\u00a0y, 79% male) for analysis. The most common fracture sites were the anterior superior iliac spine (ASIS, 33.1%) and anterior inferior iliac spine (AIIS, 30.4%), followed by the ischial tuberosity (ISCH, 15.5%), lesser trochanter (LT, 13.5%), and iliac crest (IC, 7.5%). Overall, 86.6% of fractures were managed nonoperatively, and 13.4% were managed surgically. In displacement-stratified cohorts, ISCH fractures with displacement >15\u00a0mm achieved high functional scores with both operative and nonoperative treatment, although pseudoarthrosis occurred in some nonoperatively treated cases with minimal functional limitation. ASIS fractures with displacement >15\u00a0mm showed similar transient complications before resolution to excellent outcomes in both treatment groups, but faster RTS with the operative management alone. Rates of persistent pain were highest in ISCH fractures (27.3% surgically, 10.9% nonoperatively) and AIIS fractures treated nonoperatively (13.8%). Return to sport was achieved in nearly all cases, with surgically treated ISCH fractures requiring the longest recovery periods (6\u00a0mo). CONCLUSION: Both nonoperative and operative management result in favorable outcomes for most adolescent pelvic avulsion fractures. Although displacement frequently influences surgical decision-making, current evidence does not establish a validated threshold at which outcomes reliably diverge. Before displacement can be considered a reliable surgical indication, higher-quality evidence demonstrating superior outcomes at clear displacement thresholds is needed. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42084198/",
+      "score": 73,
+      "score_reasoning": "Systematic review and meta-analysis of 852 pediatric avulsion fractures comparing conservative vs surgical treatment with specific displacement recommendations.",
+      "bullets": [
+        "Both conservative and surgical treatment of adolescent pelvic avulsion fractures result in favorable outcomes with nearly all patients returning to sport.",
+        "ASIS fractures displaced over 15mm may return to sport faster with surgery, while ISCH fractures have higher persistent pain rates when treated surgically.",
+        "Current evidence does not establish a reliable displacement threshold to guide surgical decision making despite displacement commonly influencing treatment choice."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-05-06T04:48:10.657056-07:00"
+}
