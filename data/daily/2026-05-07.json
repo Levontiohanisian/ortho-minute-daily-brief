@@ -1,0 +1,313 @@
+{
+  "brief_date": "2026-05-07",
+  "brief_date_display": "Thursday, May 07",
+  "candidates": [
+    {
+      "pmid": "42092468",
+      "title": "Nanotechnology-Based Device Reduces Pain and Immediate Opioid Requirements, and Facilitates Earlier Discharge from the Hospital Following Total Knee Arthroplasty: A Randomized Placebo-Controlled Trial.",
+      "authors": [
+        "Klatt BA",
+        "O'Malley M",
+        "Ayazbekova A",
+        "Sylvia Lin HH",
+        "Sadhasivam S",
+        "Chelly JE"
+      ],
+      "authors_short": "Klatt BA, O'Malley M, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Opioids are often used to control pain following total knee arthroplasty (TKA). Opioid-sparing pain relief tools are needed in the current setting of the opioid crisis. This prospective randomized placebo-controlled study assessed the ability of a nanotechnology-based device (NBD) to reduce pain and opioid consumption following TKA. METHODS: A total of 156 patients were included (79 in the active NBD group and 77 in the sham NBD group). In the recovery room, patients enrolled were randomized (1:1) to either an active NBD or sham group and were asked to wear the NBD 12 hours a day for two weeks. Patients were followed for six weeks following surgery to determine the effectiveness of active NBD to reduce pain, opioid use, hospital length of stay (LOS), use, postoperative nausea and vomiting (PONV), risk of opioid misuse, and knee range of motion. RESULTS: The use of active NBD was associated with a 26% reduction in opioid consumption during the first 24 hours before discharge (25.6 in the active NBD versus 34.4 mg in the sham group, P = 0.015) and a 19% shorter LOS (20.8 versus 25.7 hours, P = 0.006). The active NBD group showed a 14% reduction in pain at rest score at week one and a reduction of 30% in postoperative nausea and vomiting (PONV) and 41% in use of rescue antiemetics compared to the sham NBD group. CONCLUSION: This randomized placebo-controlled study demonstrates that the use of NBD is significantly associated with an immediate reduction in postoperative opioid use, PONV, use of rescue antiemetics, and LOS. However, additional large multicenter prospective studies are needed to confirm and scale the clinical and economic benefits of NBD following TKA.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42092468/",
+      "score": 88,
+      "score_reasoning": "High-quality RCT from top-tier journal demonstrating significant pain and opioid reduction with novel nanotechnology device in TKA patients, with strong clinical applicability and adequate sample size.",
+      "bullets": [
+        "A nanotechnology-based device worn 12 hours daily for two weeks reduced opioid use by 26% in the first 24 hours after total knee arthroplasty compared to sham device.",
+        "The device shortened hospital stay by 19% (20.8 vs 25.7 hours) and reduced postoperative nausea and vomiting by 30% in 156 randomized patients.",
+        "Pain scores at rest were 14% lower at one week, though long-term pain relief and range of motion showed no significant differences between groups."
+      ]
+    },
+    {
+      "pmid": "42088069",
+      "title": "Timing and Trends of Periprosthetic Joint Infections Following Over 1,500,000 Primary and Revision Total Knee and Hip Arthroplasty Cases.",
+      "authors": [
+        "Trudeau MT",
+        "Wang E",
+        "Schaffer O",
+        "Aggarwal V",
+        "Rozell JC",
+        "Schwarzkopf R"
+      ],
+      "authors_short": "Trudeau MT, Wang E, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Periprosthetic joint infections (PJIs) following primary and revision total knee arthroplasty (rTKA) and revision total hip arthroplasty (rTHA) have been studied, but a contemporary large-scale analysis of incidence has not been performed. This study assessed PJI incidence and trends for TKA, THA, rTKA, and rTHA using a contemporary database. METHODS: Epic Cosmos database was retrospectively queried (2015-2023). Current procedureal terminology codes identified patients: 27447 (TKA), 27130 (THA), 27486 (rTKA one component), 27487 (rTKA both components), 27134 (rTHA both components), 27137 (rTHA acetabular component), and 27138 (rTHA femoral component). PJI rates were identified using International Classification of Diseases 9/10 codes and analyzed using linear regression. RESULTS: A total of 1,658,742 cases were identified: 962,967 TKA, 600,225 THA, 59,212 rTKA, and 36,338 rTHA. PJI rates for TKA were 0.25% (30 days) and 1.19% (1 year). PJI rates for THA were 0.46% (30 days) and 1.28% (1 year). One-year PJI rates from 2015 to 2023 decreased 17% for TKA and 40% for THA (P = .001). The 1-year PJI rate for rTKA (all types) was 6.51%, differing between one-component (9.34%) and both components (4.68%) (P = .001). The 1-year PJI rate for rTHA (all types) was 8.78%, differing between both-components (8.79%), acetabular component (8.62%), and femoral component (8.88%) (P = .01). One-year PJI rates were not correlated with year of surgery for rTKA or rTHA (P = .43, P = .08). CONCLUSIONS: Significant PJI reduction after primary TKA and THA was observed over the last decade, but infection rates remained stable in revision cohorts. Further investigations are required to assess underlying reasons for observed PJI rate reductions following primary arthroplasty.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42088069/",
+      "score": 85,
+      "score_reasoning": "Large-scale epidemiological study of over 1.5 million arthroplasty cases from top journal providing critical contemporary PJI incidence data and trends with excellent sample size and high clinical relevance.",
+      "bullets": [
+        "Primary knee arthroplasty has 1.19% infection rate at one year, primary hip arthroplasty has 1.28%, both decreasing significantly from 2015 to 2023.",
+        "Revision knee arthroplasty carries 6.51% infection risk at one year, with single component revisions having double the risk of two component revisions (9.34% vs 4.68%).",
+        "Revision hip arthroplasty has 8.78% infection rate at one year regardless of component type, with no improvement in infection rates over the study period unlike primary procedures."
+      ]
+    },
+    {
+      "pmid": "42088071",
+      "title": "Intraoperative Liposomal Bupivacaine Is Associated With Reduced Opioid Use and Enhanced Recovery After Total Knee Arthroplasty: A Multicenter Registry Study.",
+      "authors": [
+        "Ng MK",
+        "Lin JH",
+        "Spitzer AI",
+        "Dasa V",
+        "Rivadeneyra A",
+        "Rogenmoser D",
+        "Concoff AL",
+        "DiGiorgi M",
+        "Urban J",
+        "Mihalko WM",
+        "Mont MA"
+      ],
+      "authors_short": "Ng MK, Lin JH, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: With an annual volume of total knee arthroplasties (TKAs) in the United States projected to exceed 1.5 million by 2050, optimizing perioperative pain control and facilitating early discharge remain clinical priorities. This study evaluated the effectiveness of liposomal bupivacaine (LB) vs conventional bupivacaine/ropivacaine in opioid-na\u00efve patients undergoing primary TKA, comparing/contrasting: (1) pain score improvements, (2) opioid usages, (3) functional recoveries, and (4) hospital lengths of stay. METHODS: Data from the Innovations in Genicular Outcomes Research (iGOR) registry were used to identify patients undergoing unilateral primary TKA between September 2021 and December 2024. Two hundred twenty-five patients were analyzed, 42 receiving LB and 183 receiving conventional local anesthetics. Patients were stratified based on intraoperative analgesia; pain was assessed using the Brief Pain Inventory-Short Form; opioid use was self-reported; function was measured with the Knee Injury and Osteoarthritis Outcome Score for Joint Replacement. Comparative analyses were performed using generalized linear mixed-effects regressions, with significance P < .05. RESULTS: The LB group showed lower average Brief Pain Inventory-Short Form scores in the early postoperative period (2.6 vs 2.9; P = .03), reduced opioid use at 3 months (24 vs 41%; P < .001), and improved Knee Injury and Osteoarthritis Outcome Score for Joint Replacement scores (65.2 vs 63.9; P = .004). Patients receiving LB were discharged 5.6 hours earlier than controls (15.0 vs 20.6 hours; P = .007). CONCLUSIONS: Use of LB is associated with improved pain control, reduced opioid use, and shorter lengths of stay following TKA. This study highlights LB's utility in facilitating early mobilization and advancing perioperative care.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42088071/",
+      "score": 82,
+      "score_reasoning": "Multicenter registry study with large sample size demonstrating superior outcomes with liposomal bupivacaine in TKA, addressing critical perioperative pain management with strong clinical applicability.",
+      "bullets": [
+        "Liposomal bupivacaine during primary TKA reduces early postoperative pain scores compared to conventional local anesthetics in opioid-naive patients.",
+        "Patients receiving liposomal bupivacaine had 41% lower opioid use at 3 months and were discharged 5.6 hours earlier than controls.",
+        "Liposomal bupivacaine improves functional recovery scores and facilitates enhanced recovery protocols in primary TKA patients."
+      ]
+    },
+    {
+      "pmid": "42087694",
+      "title": "Clinical Utility of the Moving Valgus Stress Test and Milking Maneuver for Medial Ulnar Collateral Ligament Injuries of the Elbow.",
+      "authors": [
+        "Sciascia AD",
+        "Bowman EN",
+        "Camp C",
+        "Chalmers P",
+        "Smith MV",
+        "Wolf BR",
+        "Griffith T",
+        "Erickson B",
+        "Freehill MT",
+        "Safran M",
+        "Hardaway A",
+        "Azar FM",
+        "Brolin T",
+        "Spence D",
+        "Cox CL",
+        "LeClere LE",
+        "Jones G"
+      ],
+      "authors_short": "Sciascia AD, Bowman EN, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Several special tests for detecting medial ulnar collateral ligament (MUCL) injuries of the elbow have been described, but data on the clinical utility of these tests are limited. PURPOSE: To determine the clinical utility of selected elbow special tests to detect MUCL injuries in an athletic population. STUDY DESIGN: Cross-sectional study; Level of evidence, 3. METHODS: A total of 84 consecutive patients with sports-related elbow pain underwent a standardized clinical examination. Overall, 6 special tests (moving valgus stress test, static valgus stress test, modified valgus stress test, milking maneuver, pronation flexion resistance test, and temple/cheek press test) were performed. Sensitivity, specificity, accuracy, positive/negative predictive value, and positive/negative likelihood ratio (LR+ and LR-, respectively) were calculated for individual tests and combinations of tests to detect MUCL injuries. Higher values for the LR+ and lower values for the LR- represent stronger clinical utility. RESULTS: For detecting MUCL injuries, the moving valgus stress test resulted in the highest sensitivity (98%) and accuracy (93%) with the lowest LR- (2%). The milking maneuver had the highest LR+ (5.1) with the second highest sensitivity (77%) and accuracy (79%). The pronation flexion resistance test and the temple/cheek press test had the lowest LR+ (1.5 and 1.8, respectively) and highest LR- (94% and 95%, respectively) in addition to the lowest sensitivity (16% and 9%, respectively) and accuracy (33% and 30%, respectively). No combination of tests resulted in increased clinical utility. CONCLUSION: The moving valgus stress test and milking maneuver demonstrated acceptable clinical utility in which the moving valgus stress test was better for ruling out MUCL injuries and the milking maneuver was better at ruling in MUCL injuries. There was no added value when combining the 2 tests together or with other maneuvers.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42087694/",
+      "score": 80,
+      "score_reasoning": "Well-designed prospective study evaluating clinical utility of common elbow examination tests for MUCL injuries in athletes, providing practical diagnostic guidance for sports medicine practitioners.",
+      "bullets": [
+        "The moving valgus stress test has 98% sensitivity for detecting medial ulnar collateral ligament injuries in athletes with elbow pain, making it best for ruling out injury.",
+        "The milking maneuver has the highest positive likelihood ratio at 5.1, making it most useful for confirming suspected medial ulnar collateral ligament tears.",
+        "Combining multiple elbow special tests does not improve diagnostic accuracy over using the moving valgus stress test or milking maneuver alone."
+      ]
+    },
+    {
+      "pmid": "42085536",
+      "title": "The Prevalence of Pediatric Septic Arthritis of the Hip with Concomitant Osteomyelitis: A Retrospective Study of 58 Consecutive Cases Investigated Using MRI.",
+      "authors": [
+        "Khan AA",
+        "Paris E",
+        "Sbampato V",
+        "De Marco G",
+        "Tabard-Foug\u00e8re A",
+        "Vazquez O",
+        "Steiger C",
+        "Dayer R",
+        "Ceroni D"
+      ],
+      "authors_short": "Khan AA, Paris E, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: This observational study systematically used magnetic resonance imaging (MRI) to determine the prevalence of concomitant osteomyelitis and its influence on clinical outcomes in cases of pediatric septic arthritis (SA) of the hip. METHODS: We retrospectively analyzed the demographic, clinical, microbiological, and radiographic data of 58 children treated for SA of the hip who underwent systematic MRI between 2000 and 2025. Patients were categorized into 2 groups: isolated septic arthritis and septic arthritis with concomitant osteomyelitis. The clinical and laboratory parameters, causative pathogens, and treatments were compared between the groups. RESULTS: Concomitant osteomyelitis was identified with MRI in 43% (25) of the 58 patients, while radiographs detected it in only 16%. Demographic, clinical, and inflammatory parameters were statistically similar between the groups. Kingella kingae was the most commonly identified pathogen (37.9%), and Staphylococcus aureus and Streptococcus spp. were more frequently associated with repeat surgery. No significant differences in complication rates, treatment duration, or outcomes were found between the groups. CONCLUSIONS: The systematic use of MRI revealed concomitant osteomyelitis in >40% of cases of pediatric SA. However, the presence of osteomyelitis was not associated with worse outcomes, suggesting that factors related to the microorganism profile or virulence must contribute substantially to disease severity. Nonetheless, MRI should be considered early in any diagnostic work-up of pediatric SA of the hip. LEVEL OF EVIDENCE: Diagnostic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42085536/",
+      "score": 78,
+      "score_reasoning": "Comprehensive retrospective study of pediatric septic arthritis with systematic MRI use revealing high prevalence of concomitant osteomyelitis, providing important diagnostic insights for pediatric orthopaedic surgeons.",
+      "bullets": [
+        "MRI detected concomitant osteomyelitis in 43% of pediatric hip septic arthritis cases, while plain radiographs only found 16%.",
+        "Kingella kingae was the most common pathogen in pediatric hip septic arthritis, while Staph aureus and Strep required repeat surgery more often.",
+        "Concomitant osteomyelitis did not worsen outcomes or complication rates in pediatric hip septic arthritis patients."
+      ]
+    },
+    {
+      "pmid": "42069021",
+      "title": "Cefazolin Alone Versus Vancomycin Plus Cefazolin for Intravenous Prophylaxis in Hip and Knee Arthroplasty: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Yang C",
+        "Peng C",
+        "Yan J",
+        "Chen J",
+        "Mao H"
+      ],
+      "authors_short": "Yang C, Peng C, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Periprosthetic joint infection (PJI) remains a devastating complication following total joint arthroplasty, leading to substantial morbidity and increased healthcare costs. Cefazolin is the standard agent for perioperative antibiotic prophylaxis. However, the rising prevalence of methicillin-resistant Staphylococcus aureus (MRSA) has prompted the use of dual prophylaxis with vancomycin and cefazolin. The efficacy and safety of this combined strategy remain controversial. METHODS: A systematic review and meta-analysis were conducted following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines and registered on the international prospective register of systematic reviews (ID CRD420251077695). A comprehensive search of PubMed, Web of Science, Embase, and the Cochrane Library was performed. Randomized controlled trials and observational studies directly comparing cefazolin alone with combined vancomycin and cefazolin as intravenous prophylaxis in patients undergoing total joint arthroplasty were included. The primary outcome measures were PJI and SSI (surgical site infection), and secondary outcome measures were AKI (acute kidney injury). RESULTS: Eight studies including 1,041,058 patients met the inclusion criteria. Dual prophylaxis was associated with a higher risk of SSI (odds ratio [OR] =1.39; 95% confidence interval [CI] = 1.23 to 1.58), but a lower risk of PJI (OR = 0.64; 95% CI = 0.46 to 0.91). There was no significant difference in risk of AKI between regimens (OR = 1.30; 95% CI = 0.76 to 2.20), although substantial heterogeneity was observed among studies reporting renal outcomes. CONCLUSIONS: Routine addition of vancomycin to cefazolin does not reduce overall SSI rates and may increase superficial infections. However, it may decrease PJI risk without significantly increasing AKI. These findings support a selective, risk-stratified prophylactic strategy rather than universal dual antibiotic therapy in total joint arthroplasty.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42069021/",
+      "score": 76,
+      "score_reasoning": "Systematic review and meta-analysis comparing antibiotic prophylaxis strategies in arthroplasty with large patient population and important findings on PJI and SSI rates.",
+      "bullets": [
+        "Meta-analysis of over 1 million hip and knee arthroplasty patients found dual vancomycin plus cefazolin prophylaxis reduces periprosthetic joint infections by 36% compared to cefazolin alone.",
+        "Adding vancomycin increases overall surgical site infections by 39%, primarily superficial wounds, without significantly increasing acute kidney injury risk.",
+        "Results support selective dual prophylaxis for high-risk patients rather than routine vancomycin addition for all total joint arthroplasty cases."
+      ]
+    },
+    {
+      "pmid": "42087682",
+      "title": "The Modified Budin View: A Reliable and Accessible Screening Tool for Femoral Version Deformities in Joint-Preserving Hip Surgery.",
+      "authors": [
+        "Heimann AF",
+        "Carrel J",
+        "Schmaranzer F",
+        "Stetzelberger VM",
+        "Schwab JM",
+        "Hanauer M",
+        "Marti D",
+        "Laurencon J",
+        "Tannast M"
+      ],
+      "authors_short": "Heimann AF, Carrel J, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Femoral version deformities are key in the diagnostic evaluation of young patients with hip pain. While computed tomography (CT) and magnetic resonance imaging (MRI) are commonly used for femoral version assessment, their limitations include a lack of standardized reference values, high costs, and accessibility constraints. An accessible and reproducible alternative is needed, particularly in the context of joint-preserving hip surgery. PURPOSE: To evaluate the reliability and reproducibility of femoral version measurements on the modified Budin view, to compare these measurements with 4 established cross-sectional imaging methods (CT or MRI), and to determine the diagnostic accuracy of the modified Budin view in identifying abnormal femoral version. STUDY DESIGN: Case series; Level of evidence, 4. METHODS: The authors retrospectively analyzed the records of 93 patients (107 hips; mean age, 31 \u00b1 9 years [range, 16-55 years]; 43 female hips [40%]) evaluated for joint-preserving hip surgery at a specialized tertiary center. Femoral version was measured using the modified Budin view and compared to 4 cross-sectional imaging methods (CT and MRI) using Bland-Altman analysis and diagnostic accuracy metrics. RESULTS: The mean femoral version measured on the modified Budin view was 13\u00b0\u00b1 7\u00b0 (95% CI, 12\u00b0-14\u00b0). The technique demonstrated excellent intra- and interobserver reliability (ICC, 0.99 and 0.98, respectively). Compared to the Reiker\u00e5s method, the mean difference was 1\u00b0\u00b1 4\u00b0 (95% CI, 0\u00b0-2\u00b0; P = .042; Bonferroni-corrected significance level, P < .01). The mean differences were 3\u00b0\u00b1 5\u00b0 (95% CI, 2\u00b0-3\u00b0) for the Lee method, 11\u00b0\u00b1 5\u00b0 (95% CI, 10\u00b0-12\u00b0) for the Tomczak method, and 12\u00b0\u00b1 6\u00b0 (95% CI, 11\u00b0-14\u00b0) for the Murphy method (all P < .001). Diagnostic accuracy for detecting abnormal femoral version was high, with an area under the curve ranging from 0.88 to 0.98 and a consistently high negative predictive value (91%-100%). CONCLUSION: The modified Budin view is a highly reliable and accessible radiographic method for femoral version measurement in young patients undergoing joint-preserving hip surgery. It closely reflects the femoral neck version as measured by the Reiker\u00e5s method, and demonstrates high diagnostic accuracy for detecting abnormal femoral version, making it a valuable screening tool for femoral version deformities in clinical practice.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42087682/",
+      "score": 57,
+      "score_reasoning": "Retrospective study evaluating modified Budin view for femoral version assessment showing excellent reliability as accessible screening tool for joint-preserving hip surgery.",
+      "bullets": [
+        "The modified Budin view is a reliable plain radiograph technique for measuring femoral version in young patients with hip pain, with excellent inter and intra-observer reliability.",
+        "This X-ray method closely matches CT measurements using the Reiker\u00e5s technique and accurately identifies abnormal femoral version in 88-98% of cases.",
+        "The modified Budin view offers an accessible alternative to expensive cross-sectional imaging for screening femoral version deformities before joint-preserving hip surgery."
+      ]
+    },
+    {
+      "pmid": "42085470",
+      "title": "Preoperative Proton Pump Inhibitor Use Was Associated With Increased Risk of Revision Surgery and Impaired Bone Healing Following Pelvic Fracture Fixation: A Retrospective Cohort Study.",
+      "authors": [
+        "Wang J",
+        "McGowan E",
+        "Horani K",
+        "Hagedorn JC"
+      ],
+      "authors_short": "Wang J, McGowan E, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To evaluate the association between preoperative proton pump inhibitor (PPI) use and postoperative outcomes following pelvic fracture fixation. METHODS: Design: Retrospective cohort study. SETTING: TriNetX Research Network, a federated database of electronic medical records from approximately 103 healthcare organizations. PATIENT SELECTION CRITERIA: Adult patients aged 18 years and older who underwent surgical fixation of pelvic fractures between 2000 and 2023 were identified. All operatively managed pelvic fracture types were included, encompassing OTA/AO classifications 61A-C; however, specific fracture classification was not available within the database. Patients were stratified into cohorts based on preoperative PPI use. OUTCOME MEASURES AND COMPARISONS: Postoperative outcomes, including sepsis, revision surgery, hardware removal, nonunion, and malunion, were compared between patients with and without preoperative PPI use at 90 days and 2 years following surgery. RESULTS: Before matching, 2,648 patients were included in the preoperative PPI cohort and 7,655 patients in the control cohort. After propensity score matching, 2,403 patients remained in each cohort. The mean age was 44.0 \u00b1 17.3 years in the PPI cohort and 43.7 \u00b1 17.0 years in the control cohort, with 37.3% and 38.6% female patients, respectively. At 90 days postoperatively, preoperative PPI use was associated with increased risks of sepsis (RR 1.48, 95% CI 1.07-2.06, p=0.017), deep vein thrombosis (RR 1.58, 95% CI 1.11-2.23, p=0.010), revision surgery (RR 1.69, 95% CI 1.28-2.22, p<0.001), and hardware removal (RR 1.58, 95% CI 1.20-2.08, p<0.001). At 2 years, preoperative PPI use remained associated with increased risk of revision surgery (RR 1.66, 95% CI 1.27-2.15, p<0.001), as well as nonunion (RR 1.71, 95% CI 1.10-2.65, p=0.015) and hardware removal (RR 1.17, 95% CI 1.01-1.36, p=0.039). No other significant differences were observed. CONCLUSIONS: Preoperative PPI use was associated with increased risks of both short-term complications and long-term adverse outcomes following pelvic fracture fixation, including higher rates of sepsis, nonunion, malunion, and revision surgery. LEVEL OF EVIDENCE: Level III, Prognostic.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42085470/",
+      "score": 54,
+      "score_reasoning": "Large retrospective study identifying preoperative PPI use as risk factor for revision surgery and impaired bone healing after pelvic fracture fixation with novel findings.",
+      "bullets": [
+        "Patients taking proton pump inhibitors before pelvic fracture surgery had 66% higher risk of revision surgery and 71% higher risk of nonunion at 2 years.",
+        "Short-term complications at 90 days included 48% higher sepsis risk, 58% higher DVT risk, and 69% higher revision surgery risk in PPI users.",
+        "This retrospective study of 4,806 matched patients suggests PPIs may impair bone healing after pelvic fracture fixation across all fracture types."
+      ]
+    },
+    {
+      "pmid": "42085462",
+      "title": "Blood Culture Testing in Fracture-Related Infections: Low Yield and Lack of Concordance with Deep Tissue Pathogens.",
+      "authors": [
+        "Merrell LA",
+        "Solasz SJ",
+        "Ganta A",
+        "Konda SR",
+        "Egol KA"
+      ],
+      "authors_short": "Merrell LA, Solasz SJ, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To assess the concordance between blood culture isolates and intraoperative deep tissue cultures in patients with confirmed fracture-related infection (FRI). DESIGN: Retrospective Cohort Study. SETTING: Academic Medical Center. PATIENT SELECTION CRITERIA: This Institutional Review Board-approved study included patients 18 years and older diagnosed with a confirmed FRI according to the FRI Consensus Group criteria who, at time of irrigation and debridement (I&D), underwent deep tissue culture (TC) as well as concurrent blood culture (BC) testing (in the Emergency Department or inpatient setting). The decision to perform BC testing was left to the discretion of the initial treating providers at the time of this presentation. OUTCOME MEASURES AND COMPARISONS: Microbiological data were reviewed from the electronic medical record. Infections were classified as monomicrobial (either gram-positive or gram-negative), polymicrobial, or culture negative. Pathogen concordance between blood and intraoperative tissue cultures was analyzed. RESULTS: 84 patients were included with both intraoperative deep TC and concurrent BC. This cohort had a mean age of 56.2 \u00b1 20.3 years and consisted of 33 females (39.3%). BC were never ordered by the orthopedic surgeon. Microbial analysis of deep tissue specimens identified 29 gram-positive infections, 18 gram-negative infections, 33 polymicrobial infections, and 4 culture-negative cases. Of the 84 BC analyzed, 69 (82.1%) were culture-negative and 15 (17.9%) were culture-positive. BC results were discordant with their respective TC isolates in 76 of 84 (90.4%) cases. This discordance in 76 cases was driven by negative BC in the setting of positive TC (69/76, 90.8%), while a smaller proportion reflected growth of different organisms in BC compared to TC (7/76, 9.2%). Concordance was observed in only 8 of 84 (9.6%) cases, in which BC identified at least one pathogen sampled from TC. BC yielded negative culture results 17 times as often as TC. McNemar's test revealed a highly significant difference in culture-positivity rates (\u03c72=65, p<0.0001), while Cohen's Kappa for agreement was 0.022, indicating minimal agreement between BC and TC results. CONCLUSIONS: These results suggest that blood cultures were part of some workflows for patients presenting with infections, but they did not reflect the true bony pathogens nor contribute meaningful diagnostic information in most cases of confirmed fracture-related infection (FRI) according to the FRI Consensus Group criteria. While blood culture testing is important in the evaluation of systemic infection from, it does not provide orthopedic surgeons with information that informs the management or treatment of the FRI itself. LEVEL OF EVIDENCE: III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42085462/",
+      "score": 53,
+      "score_reasoning": "Study demonstrating low yield and poor concordance of blood cultures vs tissue cultures in FRI, providing important guidance on diagnostic testing protocols.",
+      "bullets": [
+        "Blood cultures were positive in only 18% of fracture-related infection cases and showed poor concordance with deep tissue cultures in 90% of patients.",
+        "Blood culture results matched deep tissue pathogens in fewer than 10% of confirmed fracture-related infections across all infection types.",
+        "Blood cultures do not provide useful information for antibiotic selection in fracture-related infections since they rarely identify the actual bone pathogens."
+      ]
+    },
+    {
+      "pmid": "42089628",
+      "title": "Who Gets Five Stars? Surgeon-Level Predictors of Patient Ratings in Hand Surgery.",
+      "authors": [
+        "Chopra KN",
+        "Khawaja SR",
+        "Desai KR",
+        "Khawaja OR",
+        "Udoudo SE",
+        "Gillis JW",
+        "Ghareeb PA",
+        "Gottschalk MB",
+        "Dempsey AL",
+        "Wagner ER"
+      ],
+      "authors_short": "Chopra KN, Khawaja SR, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Online physician ratings are a model for patient satisfaction and play a key role in patient recruitment. This study examines the influence of different variables on hand surgeons' average ratings and patient engagement on physician review websites (PRWs). METHODS: The American Society for Surgery of the Hand directory was queried for all actively practicing orthopaedic or plastic-trained hand surgeons in the United States. Individuals were randomly selected and searched on various social media platforms for professional accounts. A summated online presence score was calculated to identify the top 20% of social media users. The use of a practice group or personal website was also recorded, as was a surgeon's practice setting and region of practice. H-index was searched on Scopus. Patient rating information was collected from Healthgrades, Google, and Vitals. Physicians' medical school and residency programs were noted for being a top 20 program based on US News and Doximity rankings. RESULTS: A total of 97 orthopaedic and 102 plastic-trained surgeons were reviewed. Private practice orthopaedic surgeons had higher mean ratings on Healthgrades than those in academic practice. The top 20% of social media users had markedly higher mean patient satisfaction ratings. H-index was positively associated with patient ratings and social media usage. Male surgeons had higher ratings and engagement than female surgeons. Younger hand surgeons had greater ratings and engagement compared with surgeons who have been in practice longer. Medical school or residency program prestige did not markedly affect patient satisfaction ratings. DISCUSSION: Social media utilization and research productivity can influence patient satisfaction, measured by ratings and comments on PRWs. Given that most patients read PRWs before making an appointment, hand surgeons can use these data to optimize their online presence and overall ratings. LEVEL OF EVIDENCE: IV.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42089628/",
+      "score": 49,
+      "score_reasoning": "Study analyzing surgeon-level predictors of online patient ratings in hand surgery with moderate sample size and insights into patient satisfaction factors.",
+      "bullets": [
+        "Hand surgeons with strong social media presence and higher research productivity (H-index) receive better online patient ratings across major review platforms.",
+        "Private practice orthopaedic hand surgeons get higher patient ratings than academic surgeons, while male and younger surgeons consistently outperform female and older colleagues.",
+        "Medical school or residency program prestige does not meaningfully influence patient satisfaction ratings for hand surgeons."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-05-07T04:47:24.852366-07:00"
+}
