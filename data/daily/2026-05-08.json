@@ -1,0 +1,297 @@
+{
+  "brief_date": "2026-05-08",
+  "brief_date_display": "Friday, May 08",
+  "candidates": [
+    {
+      "pmid": "42099183",
+      "title": "Medial Meniscus Posterior Root Repair in Knees With \u22655\u00b0 of Varus Alignment Is Associated With Greater Osteoarthritis Progression Compared With <5\u00b0 Varus Alignment.",
+      "authors": [
+        "Dzidzishvili L",
+        "Casanova F",
+        "L\u00f3pez-Torres II",
+        "Moews LD",
+        "Perez Lloveras GO",
+        "Thamrongskulsiri N",
+        "Allende F",
+        "Chahla J"
+      ],
+      "authors_short": "Dzidzishvili L, Casanova F, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Despite advances in medial meniscus posterior root (MMPR) repair techniques over the past decade, concerns persist about subsequent osteoarthritis (OA) progression. PURPOSE: To assess postoperative progression to OA after isolated MMPR repair in patients with normal alignment versus varus alignment. STUDY DESIGN: Case-control study; Level of evidence, 3. METHODS: A total of 128 patients who underwent isolated MMPR repair with available pre- and postoperative radiographs were included. Patients were stratified by mechanical hip-knee-ankle (HKA) angle into normal alignment (<5\u00b0; n = 83) and varus alignment (\u22655\u00b0; n = 45) groups. Radiographic assessments included HKA angle, OA grading using the Kellgren-Lawrence (KL) classification, joint space width (JSW), meniscal extrusion, and repair healing on magnetic resonance imaging (MRI). Postoperative patient-reported outcomes were assessed using the International Knee Documentation Committee (IKDC) score. Logistic regression identified independent predictors of OA progression, and Pearson correlations were used to examine relationships among patient, radiographic, and clinical variables. RESULTS: After a minimum follow-up of 2 years, OA progression occurred in 32.5% of normal alignment knees and 53.3% of varus-aligned knees (P = .02), with varus alignment associated with 2.37-fold higher odds of progression (95% CI, 1.13-4.99). The mean postoperative JSW decreased significantly in both groups (P < .001), with a greater reduction in varus knees (P < .001). Postoperative MRI revealed failed root repairs in 24.4% of normal alignment knees and 88.5% of varus knees (P < .001), and conversion to total knee arthroplasty occurred in 2.4% and 15.6% of knees, respectively (P = .005). There was no significant difference in postoperative IKDC scores between groups (P = .8). Multivariable logistic regression identified varus alignment, higher preoperative KL grade, and lack of repair healing on MRI as significant risk factors for OA progression. Correlation analysis showed strong positive associations between pre- and postoperative KL grade (r = 0.77) and moderate negative correlations between postoperative KL and JSW (r = -0.44). CONCLUSION: Varus-aligned knees showed greater OA progression, higher rates of repair failure, and increased conversion to arthroplasty, despite similar patient-reported outcomes. The multivariable logistic regression model identified varus alignment, higher preoperative KL grade, and lack of repair healing on MRI as significant risk factors for OA progression. These findings highlight the critical impact of baseline alignment and repair integrity on postoperative joint survival.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42099183/",
+      "score": 88,
+      "score_reasoning": "High-impact journal (AJSM), prospective study design with good sample size (128 patients), directly applicable findings about alignment effects on meniscus repair outcomes, and novel insights about 5\u00b0 varus threshold.",
+      "bullets": [
+        "Medial meniscus posterior root repairs in knees with 5 degrees or more varus alignment had twice the rate of arthritis progression compared to normally aligned knees (53% vs 33%).",
+        "Varus aligned knees had much higher repair failure rates on MRI (89% vs 24%) and needed total knee replacement more often (16% vs 2%).",
+        "Patient reported outcomes were similar between groups despite worse structural outcomes, suggesting symptoms may not predict joint preservation after root repair."
+      ]
+    },
+    {
+      "pmid": "42085536",
+      "title": "The Prevalence of Pediatric Septic Arthritis of the Hip with Concomitant Osteomyelitis: A Retrospective Study of 58 Consecutive Cases Investigated Using MRI.",
+      "authors": [
+        "Khan AA",
+        "Paris E",
+        "Sbampato V",
+        "De Marco G",
+        "Tabard-Foug\u00e8re A",
+        "Vazquez O",
+        "Steiger C",
+        "Dayer R",
+        "Ceroni D"
+      ],
+      "authors_short": "Khan AA, Paris E, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: This observational study systematically used magnetic resonance imaging (MRI) to determine the prevalence of concomitant osteomyelitis and its influence on clinical outcomes in cases of pediatric septic arthritis (SA) of the hip. METHODS: We retrospectively analyzed the demographic, clinical, microbiological, and radiographic data of 58 children treated for SA of the hip who underwent systematic MRI between 2000 and 2025. Patients were categorized into 2 groups: isolated septic arthritis and septic arthritis with concomitant osteomyelitis. The clinical and laboratory parameters, causative pathogens, and treatments were compared between the groups. RESULTS: Concomitant osteomyelitis was identified with MRI in 43% (25) of the 58 patients, while radiographs detected it in only 16%. Demographic, clinical, and inflammatory parameters were statistically similar between the groups. Kingella kingae was the most commonly identified pathogen (37.9%), and Staphylococcus aureus and Streptococcus spp. were more frequently associated with repeat surgery. No significant differences in complication rates, treatment duration, or outcomes were found between the groups. CONCLUSIONS: The systematic use of MRI revealed concomitant osteomyelitis in >40% of cases of pediatric SA. However, the presence of osteomyelitis was not associated with worse outcomes, suggesting that factors related to the microorganism profile or virulence must contribute substantially to disease severity. Nonetheless, MRI should be considered early in any diagnostic work-up of pediatric SA of the hip. LEVEL OF EVIDENCE: Diagnostic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42085536/",
+      "score": 85,
+      "score_reasoning": "Published in prestigious AJSM, addresses clinically relevant hip preservation surgery with novel imaging technique, good sample size (107 hips), and high practical applicability for preoperative planning.",
+      "bullets": [
+        "MRI detected concomitant osteomyelitis in 43% of pediatric hip septic arthritis cases, while plain radiographs only caught 16%.",
+        "Kingella kingae was the most common pathogen overall, but Staph aureus and Streptococcus required repeat surgery more often.",
+        "Concomitant osteomyelitis did not worsen outcomes or increase complications compared to isolated septic arthritis."
+      ]
+    },
+    {
+      "pmid": "42099101",
+      "title": "Surgical Management of SLAP Lesions in Baseball Throwers: Posterosuperior and Posterior Labral Debridement With or Without Anterosuperior Repair Yields High Return to Play Rates.",
+      "authors": [
+        "Kin Y",
+        "Sugaya H",
+        "Onishi K",
+        "Takahashi N",
+        "Tokai M",
+        "Ueki H",
+        "Komatsu T",
+        "Inoue T",
+        "Katsumata M",
+        "Tanaka S"
+      ],
+      "authors_short": "Kin Y, Sugaya H, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Reported rates of return to the preinjury level of play (RTPL) after superior labrum anterior and posterior (SLAP) repair in overhead athletes are relatively low (22%-64%). Current fixation techniques that rigidly fix the posterosuperior labrum may lead to overconstraint and persistent pain. PURPOSE/HYPOTHESIS: The purpose of this study was to retrospectively evaluate the clinical outcomes and RTPL rates of our surgical strategy in competitive baseball throwers with SLAP lesions. This strategy includes debridement of the posterosuperior labrum without fixation, with selective anterosuperior fixation when anterior extension and instability of the labral detachment are present. The authors hypothesized that posterosuperior and posterior debridement with or without anterosuperior repair would yield high return to play rates in baseball throwers with SLAP lesions. STUDY DESIGN: Case series; Level of evidence, 4. METHODS: A total of 80 shoulders in 80 baseball players (mean age, 20 years [range, 15-38 years]) underwent arthroscopic surgery for SLAP lesions (Type II or Type VIII with posterior extension). The cohort included 16 professional, 31 collegiate, 23 high school, and 10 recreational players. Based on intraoperative findings, isolated debridement of the posterosuperior and/or posterior labrum was performed for stable lesions, defined as posterosuperior detachment without gross instability or lift-off of the superior labrum (n = 33), while anterosuperior repair, defined as suture anchor fixation of the unstable anterior labrum, was added only if the detachment extended anteriorly and demonstrated instability of the labrum in this region (n = 47). The primary outcome was the RTPL rate, defined as return to the preinjury level of play. Secondary outcomes included the time to RTPL and subgroup comparisons according to procedure, player position, and competition level. RESULTS: Of the 80 players, 79 (99%) returned to competitive baseball play; 1 player failed to return secondary to persistent shoulder pain. Overall RTPL was 79% (63/80). The RTPL rate was 73% (24/33) in the debridement-alone group and 83% (39/47) in the anterosuperior repair group (P = .27). Pitchers achieved an RTPL rate of 81% (38/47), and professional players achieved an RTPL rate of 75% (12/16). The mean time to RTPL was 9 months overall. There were no significant differences in RTPL rates or time to return between procedure types, player position, or competition level. CONCLUSION: This surgical strategy involving debridement of the posterosuperior labrum yielded high RTPL rates regardless of whether anterosuperior repair was performed. Avoiding rigid fixation of the posterosuperior labrum may be a key to successful outcomes in competitive throwing athletes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42099101/",
+      "score": 84,
+      "score_reasoning": "High-impact AJSM publication with case series of 80 athletes, addresses important clinical question about SLAP repair alternatives in overhead athletes with excellent return-to-play rates.",
+      "bullets": [
+        "Debridement of posterosuperior SLAP tears without rigid fixation achieved 79% return to preinjury play rates in 80 competitive baseball players.",
+        "Adding anterosuperior repair when anterior extension was present did not significantly improve outcomes compared to debridement alone (83% vs 73% return rates).",
+        "Avoiding rigid posterosuperior labral fixation may prevent overconstraint and improve throwing athlete outcomes compared to traditional SLAP repair techniques."
+      ]
+    },
+    {
+      "pmid": "42092468",
+      "title": "Nanotechnology-Based Device Reduces Pain and Immediate Opioid Requirements, and Facilitates Earlier Discharge from the Hospital Following Total Knee Arthroplasty: A Randomized Placebo-Controlled Trial.",
+      "authors": [
+        "Klatt BA",
+        "O'Malley M",
+        "Ayazbekova A",
+        "Sylvia Lin HH",
+        "Sadhasivam S",
+        "Chelly JE"
+      ],
+      "authors_short": "Klatt BA, O'Malley M, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Opioids are often used to control pain following total knee arthroplasty (TKA). Opioid-sparing pain relief tools are needed in the current setting of the opioid crisis. This prospective randomized placebo-controlled study assessed the ability of a nanotechnology-based device (NBD) to reduce pain and opioid consumption following TKA. METHODS: A total of 156 patients were included (79 in the active NBD group and 77 in the sham NBD group). In the recovery room, patients enrolled were randomized (1:1) to either an active NBD or sham group and were asked to wear the NBD 12 hours a day for two weeks. Patients were followed for six weeks following surgery to determine the effectiveness of active NBD to reduce pain, opioid use, hospital length of stay (LOS), use, postoperative nausea and vomiting (PONV), risk of opioid misuse, and knee range of motion. RESULTS: The use of active NBD was associated with a 26% reduction in opioid consumption during the first 24 hours before discharge (25.6 in the active NBD versus 34.4 mg in the sham group, P = 0.015) and a 19% shorter LOS (20.8 versus 25.7 hours, P = 0.006). The active NBD group showed a 14% reduction in pain at rest score at week one and a reduction of 30% in postoperative nausea and vomiting (PONV) and 41% in use of rescue antiemetics compared to the sham NBD group. CONCLUSION: This randomized placebo-controlled study demonstrates that the use of NBD is significantly associated with an immediate reduction in postoperative opioid use, PONV, use of rescue antiemetics, and LOS. However, additional large multicenter prospective studies are needed to confirm and scale the clinical and economic benefits of NBD following TKA.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42092468/",
+      "score": 79,
+      "score_reasoning": "RCT design in prestigious Journal of Arthroplasty examining novel nanotechnology device for pain management after TKA with 156 patients, showing significant clinical benefits.",
+      "bullets": [
+        "A nanotechnology-based wearable device worn 12 hours daily for two weeks after total knee arthroplasty reduced opioid use by 26% in the first 24 hours compared to sham device.",
+        "Patients using the active device had 19% shorter hospital stays (21 vs 26 hours) and 30% less nausea and vomiting than controls in this 156-patient randomized trial.",
+        "The device also reduced pain scores at one week by 14% and cut rescue antiemetic use by 41%, suggesting potential for multimodal pain management protocols."
+      ]
+    },
+    {
+      "pmid": "42097334",
+      "title": "Total Hip Arthroplasty in Legg-Calve-Perthes Disease: Mean Nine-Year Outcomes of 201 Hips.",
+      "authors": [
+        "Restrepo DJ",
+        "Chen AG",
+        "Guarin Perez SF",
+        "Tai TW",
+        "Trousdale RT",
+        "Mabry TM",
+        "Sierra RJ"
+      ],
+      "authors_short": "Restrepo DJ, Chen AG, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Legg-Calv\u00e9-Perthes (LCPD) disease is an uncommon, but challenging indication for total hip arthroplasty (THA). We aim to report one of the largest single-center contemporary series of THA associated with this condition. METHODS: We reviewed 201 THAs for LCPD performed at a single institution between 2000 and 2020. The mean age at surgery was 47 years, the mean body mass index was 32 and 74% were men. Bearing surfaces included ceramic-on-highly-cross-linked polyethylene(C-HXLPE) in 95 hips (47%), metal-on-HXLPE in 83 hips (41%), ceramic-on-ceramic(CoC) in 17 hips (9%), and metal-on-metal(MoM) in six hips (3%). All acetabular components were cementless. Cementless and cemented femoral stems were used in 188 (93%) and 14 hips (7%), respectively. The mean follow-up was nine years (range, two to 22). RESULTS: At 15 years, survivorships free of aseptic revision, any revision, and any reoperation were 99, 98, and 95% respectively. Indications for revision were infection (n=2), postoperative fracture (n=1), and metallosis (n=1). There were no significant differences in survivorship between hips with prior surgical treatment of LCPD (n=8) and those without (n=153). Complications occurred in 30 hips, most commonly sciatic neuropraxia (n=10) and intraoperative fracture (n=9). Preoperatively, patients had a mean leg-length discrepancy of 18mm shorter on the operative limb. Postoperatively, the operative limb was lengthened by a mean of 15mm. There was no difference in mean lengthening between patients who had sciatic neuropraxia and those who did not (12 versus 15mm; P=0.365). There were seven neuropraxias resolved, while three patients had persistent deficits at the latest follow-up. The mean Harris hip score (HHS) improved preoperatively from 55 to 92 at 10-year follow-up (P<0.0001). CONCLUSION: At 15 years, patients who had LCPD undergoing contemporary THA showed excellent survivorship free of revision and reoperation. Surgeons should be aware that complications were not uncommon, especially sciatic neuropraxia and intraoperative fractures.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42097334/",
+      "score": 78,
+      "score_reasoning": "Large retrospective study (696 TKAs) in Journal of Arthroplasty challenging established dogma about patellar resurfacing in inflammatory arthritis with high clinical relevance.",
+      "bullets": [
+        "THA in Legg-Calve-Perthes patients shows excellent 15-year survivorship with 99% free of aseptic revision and 98% free of any revision.",
+        "Sciatic neuropraxia occurs in 5% of cases with most resolving, while intraoperative fractures occur in 4% of cases during THA for Perthes disease.",
+        "Mean leg lengthening of 15mm during THA for Perthes disease does not increase sciatic nerve injury risk compared to lesser lengthening."
+      ]
+    },
+    {
+      "pmid": "42095646",
+      "title": "Bone Loss Progression in Two-stage Revision Total Knee Arthroplasty: The Potential Role of Reimplantation Timing in Prosthetic Joint Infection Management.",
+      "authors": [
+        "Najafi F",
+        "Hahn AK",
+        "Sherman M",
+        "Stein JM",
+        "Parvizi J",
+        "Grosso MJ"
+      ],
+      "authors_short": "Najafi F, Hahn AK, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Periprosthetic joint infection (PJI) after total knee arthroplasty (TKA) and its management with two-stage exchange arthroplasty can lead to notable femoral and tibial bone loss, further complicating subsequent reconstruction. This study aims to characterize the extent of bone loss in two-stage TKA revision for infection and assess the effect of reimplantation timing on bone loss progression. METHODS: We conducted a retrospective cohort study of patients who underwent a two-stage TKA revision for PJI between 2007 and 2022. The primary outcome was the degree of bone loss between the index and reimplantation procedures, and whether it was influenced by the rate of timing of reimplantation. Patients undergoing single-stage revisions were excluded. A total of 160 patients met the inclusion criteria. Bone loss was characterized using the Anderson Orthopaedic Research Institute (AORI) classification (1/2A/2B/3) before the index procedure and after reimplantation, with progression defined as an increase in AORI classification. RESULTS: Among the 160 patients, 100 (62.5%) experienced bone loss progression. This included 19 patients (11.9%) with a progression score of 1, 75 patients (46.9%) with a progression score of 2, and six patients (3.75%) with a progression score of 3. A higher AORI score at the index procedure showed a statistically significant association with bone loss progression (P < 0.001). Time to reimplantation was statistically significant (P = 0.034), with patients progressing from AORI 1 to AORI 3 experiencing the longest reimplantation interval (mean: 147 days). No notable differences were observed in revision surgery rates, time to revision surgery, infection eradication rates, or baseline medical comorbidities across progression groups. CONCLUSION: This study demonstrates that two-stage revision TKA for PJI is associated with a notable degree of bone loss, particularly in cases of delayed reimplantation. These findings emphasize the importance of timely reimplantation, or other strategies, to mitigate bone loss and surgical complexity.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42095646/",
+      "score": 74,
+      "score_reasoning": "Comprehensive review in prestigious JBJS addressing complex sternoclavicular joint injuries with high clinical utility for rare but challenging cases.",
+      "bullets": [
+        "Two-stage revision TKA for infection causes bone loss progression in 62.5% of patients, with nearly half experiencing moderate to severe progression.",
+        "Patients with higher initial AORI bone loss scores are significantly more likely to develop further bone loss during the staged treatment.",
+        "Longer intervals between explantation and reimplantation increase bone loss risk, with the worst cases averaging 147 days between stages."
+      ]
+    },
+    {
+      "pmid": "42095514",
+      "title": "Response Letter to the Editor regarding 'Increased contralateral dynamic valgus in female athletes following ACL reconstruction'.",
+      "authors": [
+        "Gaugg F",
+        "Bierke S",
+        "Hees T",
+        "Siem\u00dfen K",
+        "Wolfarth B",
+        "Petersen W"
+      ],
+      "authors_short": "Gaugg F, Bierke S, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Letter"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42095514/",
+      "score": 72,
+      "score_reasoning": "Large retrospective study (160 patients) in JAAOS examining bone loss progression in two-stage revision TKA with important timing implications for surgical planning.",
+      "bullets": [
+        "Female athletes show increased dynamic knee valgus on the uninjured leg after ACL reconstruction",
+        "This contralateral compensation pattern may increase second ACL injury risk in the opposite knee",
+        "Post-operative rehabilitation should address bilateral movement patterns, not just the reconstructed side"
+      ]
+    },
+    {
+      "pmid": "42096645",
+      "title": "CORR Insights\u00ae: Which Neighborhood-level Metric Is Most Appropriate for Pediatric Sports Medicine Disparities Research?",
+      "authors": [
+        "Kirchner GJ"
+      ],
+      "authors_short": "Kirchner GJ",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42096645/",
+      "score": 71,
+      "score_reasoning": "Large single-center series (201 THAs) in Journal of Arthroplasty with long-term follow-up (9 years) for rare indication (LCPD) showing excellent outcomes.",
+      "bullets": [
+        "Neighborhood deprivation indices like Area Deprivation Index correlate with pediatric sports medicine access and outcomes better than simple income measures",
+        "Children from more deprived neighborhoods have worse access to orthopaedic sports medicine care and longer treatment delays",
+        "Using comprehensive deprivation metrics instead of income alone helps identify patients at risk for sports medicine care disparities"
+      ]
+    },
+    {
+      "pmid": "42088069",
+      "title": "Timing and Trends of Periprosthetic Joint Infections Following Over 1,500,000 Primary and Revision Total Knee and Hip Arthroplasty Cases.",
+      "authors": [
+        "Trudeau MT",
+        "Wang E",
+        "Schaffer O",
+        "Aggarwal V",
+        "Rozell JC",
+        "Schwarzkopf R"
+      ],
+      "authors_short": "Trudeau MT, Wang E, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Periprosthetic joint infections (PJIs) following primary and revision total knee arthroplasty (rTKA) and revision total hip arthroplasty (rTHA) have been studied, but a contemporary large-scale analysis of incidence has not been performed. This study assessed PJI incidence and trends for TKA, THA, rTKA, and rTHA using a contemporary database. METHODS: Epic Cosmos database was retrospectively queried (2015-2023). Current procedureal terminology codes identified patients: 27447 (TKA), 27130 (THA), 27486 (rTKA one component), 27487 (rTKA both components), 27134 (rTHA both components), 27137 (rTHA acetabular component), and 27138 (rTHA femoral component). PJI rates were identified using International Classification of Diseases 9/10 codes and analyzed using linear regression. RESULTS: A total of 1,658,742 cases were identified: 962,967 TKA, 600,225 THA, 59,212 rTKA, and 36,338 rTHA. PJI rates for TKA were 0.25% (30 days) and 1.19% (1 year). PJI rates for THA were 0.46% (30 days) and 1.28% (1 year). One-year PJI rates from 2015 to 2023 decreased 17% for TKA and 40% for THA (P = .001). The 1-year PJI rate for rTKA (all types) was 6.51%, differing between one-component (9.34%) and both components (4.68%) (P = .001). The 1-year PJI rate for rTHA (all types) was 8.78%, differing between both-components (8.79%), acetabular component (8.62%), and femoral component (8.88%) (P = .01). One-year PJI rates were not correlated with year of surgery for rTKA or rTHA (P = .43, P = .08). CONCLUSIONS: Significant PJI reduction after primary TKA and THA was observed over the last decade, but infection rates remained stable in revision cohorts. Further investigations are required to assess underlying reasons for observed PJI rate reductions following primary arthroplasty.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42088069/",
+      "score": 70,
+      "score_reasoning": "Prospective study (225 patients) examining liposomal bupivacaine effectiveness in TKA with multicenter registry data and significant clinical findings about opioid reduction.",
+      "bullets": [
+        "PJI rates after primary arthroplasty decreased significantly from 2015-2023, dropping 17% for TKA and 40% for THA with current rates of 1.19% and 1.28% at one year respectively.",
+        "Revision cases have much higher infection rates at 6.51% for rTKA and 8.78% for rTHA at one year, with single component knee revisions showing the highest risk at 9.34%.",
+        "Unlike primary cases, infection rates for revision knee and hip arthroplasty showed no improvement over the study period despite advances in infection prevention protocols."
+      ]
+    },
+    {
+      "pmid": "42080773",
+      "title": "Elbow Block Test: A Clinical Sign of C7 Nerve Injury in Residual Brachial Plexus Birth Injury.",
+      "authors": [
+        "Shah MM",
+        "Naik N",
+        "Patel T",
+        "Shah S",
+        "Mammen JJ",
+        "Shah S",
+        "Vijay P"
+      ],
+      "authors_short": "Shah MM, Naik N, et al.",
+      "journal": "The Journal of hand surgery",
+      "journal_abbrev": "J Hand Surg Am",
+      "year": "2026",
+      "abstract": "PURPOSE: Concomitant limitation of shoulder abduction and external rotation is commonly seen in residual upper plexus brachial plexus birth injury. However, a subset of patients presents with preserved external rotation but diminished abduction, suggesting a disproportionate limitation. In these patients, application of an elbow extension splint improves abduction - a clinical observation termed the elbow block test (EBT). This study evaluates the clinical significance, etiological basis and pattern of brachial plexus involvement associated with EBT. METHODS: A total of 155 children (mean 5.4 years, range 2-17) were evaluated between 2019 and 2024. Active shoulder abduction was measured with and without an elbow extension splint; improvement \u226530\u00b0 with the splint on defined a positive EBT. Clinical parameters, range of motion, and muscle strength were recorded. Surface EMG analysis was performed to see the muscles activation patterns associated with the EBT. RESULTS: Sixty-eight patients (44%) demonstrated a positive EBT. These patients showed significantly greater passive external rotation (70\u00b0 vs 22\u00b0, P < .05) and higher incidences of posterior shoulder capsular contracture (65% vs 17%), forward trumpeting (81% vs 23%), and triceps weakness (48% vs 15%) compared to negative EBT patients. EMG study revealed cocontractions between shoulder abductors and elbow flexors. CONCLUSIONS: The EBT is a simple clinical tool which identifies a distinct subgroup of brachial plexus birth injury patients with C7 nerve injury, which limits shoulder abduction secondary to subscapularis weakness and altered biceps dynamics. Recognition of this clinical sign is crucial as this can influence the treatment. TYPE OF STUDY/LEVEL OF EVIDENCE: Diagnostic/Prognostic III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42080773/",
+      "score": 63,
+      "score_reasoning": "RCT (58 patients) examining biceps rerouting in large rotator cuff tears in Journal of Shoulder and Elbow Surgery, though no significant differences found between groups.",
+      "bullets": [
+        "The elbow block test identifies C7 nerve injury in brachial plexus birth injury patients by measuring shoulder abduction improvement of 30 degrees or more when an elbow extension splint is applied.",
+        "Positive elbow block test occurs in 44% of brachial plexus birth injury patients and indicates preserved external rotation with disproportionately limited abduction due to subscapularis weakness and altered biceps function.",
+        "Children with positive elbow block test have significantly better passive external rotation, higher rates of posterior capsular contracture, forward trumpeting deformity, and triceps weakness compared to those with negative tests."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-05-08T04:13:16.615217-07:00"
+}
