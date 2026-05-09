@@ -1,0 +1,298 @@
+{
+  "brief_date": "2026-05-09",
+  "brief_date_display": "Saturday, May 09",
+  "candidates": [
+    {
+      "pmid": "42097334",
+      "title": "Total Hip Arthroplasty in Legg-Calve-Perthes Disease: Mean Nine-Year Outcomes of 201 Hips.",
+      "authors": [
+        "Restrepo DJ",
+        "Chen AG",
+        "Guarin Perez SF",
+        "Tai TW",
+        "Trousdale RT",
+        "Mabry TM",
+        "Sierra RJ"
+      ],
+      "authors_short": "Restrepo DJ, Chen AG, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Legg-Calv\u00e9-Perthes (LCPD) disease is an uncommon, but challenging indication for total hip arthroplasty (THA). We aim to report one of the largest single-center contemporary series of THA associated with this condition. METHODS: We reviewed 201 THAs for LCPD performed at a single institution between 2000 and 2020. The mean age at surgery was 47 years, the mean body mass index was 32 and 74% were men. Bearing surfaces included ceramic-on-highly-cross-linked polyethylene(C-HXLPE) in 95 hips (47%), metal-on-HXLPE in 83 hips (41%), ceramic-on-ceramic(CoC) in 17 hips (9%), and metal-on-metal(MoM) in six hips (3%). All acetabular components were cementless. Cementless and cemented femoral stems were used in 188 (93%) and 14 hips (7%), respectively. The mean follow-up was nine years (range, two to 22). RESULTS: At 15 years, survivorships free of aseptic revision, any revision, and any reoperation were 99, 98, and 95% respectively. Indications for revision were infection (n=2), postoperative fracture (n=1), and metallosis (n=1). There were no significant differences in survivorship between hips with prior surgical treatment of LCPD (n=8) and those without (n=153). Complications occurred in 30 hips, most commonly sciatic neuropraxia (n=10) and intraoperative fracture (n=9). Preoperatively, patients had a mean leg-length discrepancy of 18mm shorter on the operative limb. Postoperatively, the operative limb was lengthened by a mean of 15mm. There was no difference in mean lengthening between patients who had sciatic neuropraxia and those who did not (12 versus 15mm; P=0.365). There were seven neuropraxias resolved, while three patients had persistent deficits at the latest follow-up. The mean Harris hip score (HHS) improved preoperatively from 55 to 92 at 10-year follow-up (P<0.0001). CONCLUSION: At 15 years, patients who had LCPD undergoing contemporary THA showed excellent survivorship free of revision and reoperation. Surgeons should be aware that complications were not uncommon, especially sciatic neuropraxia and intraoperative fractures.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42097334/",
+      "score": 90,
+      "score_reasoning": "Large retrospective study (201 hips) addressing THA outcomes in Legg-Calv\u00e9-Perthes disease with excellent long-term survivorship data highly relevant to practicing orthopedic surgeons.",
+      "bullets": [
+        "THA in patients with Legg-Calve-Perthes disease shows 99% survivorship at 15 years with excellent functional outcomes.",
+        "Sciatic neuropraxia occurs in 5% of cases, with most resolving but some having persistent deficits.",
+        "Intraoperative fractures occur in 4% of cases due to the challenging anatomy from prior LCPD deformity."
+      ]
+    },
+    {
+      "pmid": "42099183",
+      "title": "Medial Meniscus Posterior Root Repair in Knees With \u22655\u00b0 of Varus Alignment Is Associated With Greater Osteoarthritis Progression Compared With <5\u00b0 Varus Alignment.",
+      "authors": [
+        "Dzidzishvili L",
+        "Casanova F",
+        "L\u00f3pez-Torres II",
+        "Moews LD",
+        "Perez Lloveras GO",
+        "Thamrongskulsiri N",
+        "Allende F",
+        "Chahla J"
+      ],
+      "authors_short": "Dzidzishvili L, Casanova F, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Despite advances in medial meniscus posterior root (MMPR) repair techniques over the past decade, concerns persist about subsequent osteoarthritis (OA) progression. PURPOSE: To assess postoperative progression to OA after isolated MMPR repair in patients with normal alignment versus varus alignment. STUDY DESIGN: Case-control study; Level of evidence, 3. METHODS: A total of 128 patients who underwent isolated MMPR repair with available pre- and postoperative radiographs were included. Patients were stratified by mechanical hip-knee-ankle (HKA) angle into normal alignment (<5\u00b0; n = 83) and varus alignment (\u22655\u00b0; n = 45) groups. Radiographic assessments included HKA angle, OA grading using the Kellgren-Lawrence (KL) classification, joint space width (JSW), meniscal extrusion, and repair healing on magnetic resonance imaging (MRI). Postoperative patient-reported outcomes were assessed using the International Knee Documentation Committee (IKDC) score. Logistic regression identified independent predictors of OA progression, and Pearson correlations were used to examine relationships among patient, radiographic, and clinical variables. RESULTS: After a minimum follow-up of 2 years, OA progression occurred in 32.5% of normal alignment knees and 53.3% of varus-aligned knees (P = .02), with varus alignment associated with 2.37-fold higher odds of progression (95% CI, 1.13-4.99). The mean postoperative JSW decreased significantly in both groups (P < .001), with a greater reduction in varus knees (P < .001). Postoperative MRI revealed failed root repairs in 24.4% of normal alignment knees and 88.5% of varus knees (P < .001), and conversion to total knee arthroplasty occurred in 2.4% and 15.6% of knees, respectively (P = .005). There was no significant difference in postoperative IKDC scores between groups (P = .8). Multivariable logistic regression identified varus alignment, higher preoperative KL grade, and lack of repair healing on MRI as significant risk factors for OA progression. Correlation analysis showed strong positive associations between pre- and postoperative KL grade (r = 0.77) and moderate negative correlations between postoperative KL and JSW (r = -0.44). CONCLUSION: Varus-aligned knees showed greater OA progression, higher rates of repair failure, and increased conversion to arthroplasty, despite similar patient-reported outcomes. The multivariable logistic regression model identified varus alignment, higher preoperative KL grade, and lack of repair healing on MRI as significant risk factors for OA progression. These findings highlight the critical impact of baseline alignment and repair integrity on postoperative joint survival.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42099183/",
+      "score": 88,
+      "score_reasoning": "Prospective cohort study demonstrating superior outcomes for medial meniscus root repair with important clinical implications for knee surgeons managing alignment considerations.",
+      "bullets": [
+        "Patients with 5\u00b0 or more varus alignment had 53% osteoarthritis progression after medial meniscus root repair compared to 33% in normally aligned knees.",
+        "Varus aligned knees showed 89% repair failure rates on MRI versus 24% in normal alignment, with higher conversion to knee replacement (16% vs 2%).",
+        "Patient reported outcomes were similar between groups despite worse structural outcomes in varus knees, suggesting symptoms may not reflect joint deterioration."
+      ]
+    },
+    {
+      "pmid": "42095646",
+      "title": "Bone Loss Progression in Two-stage Revision Total Knee Arthroplasty: The Potential Role of Reimplantation Timing in Prosthetic Joint Infection Management.",
+      "authors": [
+        "Najafi F",
+        "Hahn AK",
+        "Sherman M",
+        "Stein JM",
+        "Parvizi J",
+        "Grosso MJ"
+      ],
+      "authors_short": "Najafi F, Hahn AK, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Periprosthetic joint infection (PJI) after total knee arthroplasty (TKA) and its management with two-stage exchange arthroplasty can lead to notable femoral and tibial bone loss, further complicating subsequent reconstruction. This study aims to characterize the extent of bone loss in two-stage TKA revision for infection and assess the effect of reimplantation timing on bone loss progression. METHODS: We conducted a retrospective cohort study of patients who underwent a two-stage TKA revision for PJI between 2007 and 2022. The primary outcome was the degree of bone loss between the index and reimplantation procedures, and whether it was influenced by the rate of timing of reimplantation. Patients undergoing single-stage revisions were excluded. A total of 160 patients met the inclusion criteria. Bone loss was characterized using the Anderson Orthopaedic Research Institute (AORI) classification (1/2A/2B/3) before the index procedure and after reimplantation, with progression defined as an increase in AORI classification. RESULTS: Among the 160 patients, 100 (62.5%) experienced bone loss progression. This included 19 patients (11.9%) with a progression score of 1, 75 patients (46.9%) with a progression score of 2, and six patients (3.75%) with a progression score of 3. A higher AORI score at the index procedure showed a statistically significant association with bone loss progression (P < 0.001). Time to reimplantation was statistically significant (P = 0.034), with patients progressing from AORI 1 to AORI 3 experiencing the longest reimplantation interval (mean: 147 days). No notable differences were observed in revision surgery rates, time to revision surgery, infection eradication rates, or baseline medical comorbidities across progression groups. CONCLUSION: This study demonstrates that two-stage revision TKA for PJI is associated with a notable degree of bone loss, particularly in cases of delayed reimplantation. These findings emphasize the importance of timely reimplantation, or other strategies, to mitigate bone loss and surgical complexity.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42095646/",
+      "score": 86,
+      "score_reasoning": "Comprehensive review of sternoclavicular joint injury management published in JBJS with high clinical relevance and practical surgical guidance.",
+      "bullets": [
+        "Two-stage revision TKA for infection causes bone loss progression in 62.5% of patients, with nearly half experiencing moderate progression requiring more complex reconstruction.",
+        "Longer delays to reimplantation increase bone loss risk, with patients progressing from minimal to severe bone loss averaging 147 days between stages.",
+        "Higher initial bone loss at explantation predicts further deterioration during the spacer period, suggesting earlier reimplantation may preserve bone stock."
+      ]
+    },
+    {
+      "pmid": "42097864",
+      "title": "Clinical Outcomes of Custom 3D-Printed Porous Metallic Implants for Reconstruction of Critical-Sized Bone Defects in the Ankle.",
+      "authors": [
+        "Anastasio AT",
+        "Parsons KE",
+        "Shenoy DA",
+        "LoPolito AG",
+        "O'Neill CN",
+        "Adams SB"
+      ],
+      "authors_short": "Anastasio AT, Parsons KE, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Critical-sized defects (CSDs) of bone in the foot and ankle pose substantial surgical challenges because of high complication and failure rates. Three-dimensional (3D)-printed porous metallic implants (custom cages) have emerged as a potential alternative to traditional reconstruction techniques, offering theoretical advantages in stability and integration. However, current literature is limited by small sample sizes and short follow-up. This study reports the largest single-surgeon cohort to date, evaluating outcomes and complications of custom cage arthrodesis. METHODS: A retrospective cohort study was performed on patients who underwent custom cage implant ankle arthrodesis. The primary outcome was reoperation for any reason. Demographic and perioperative data were extracted for each patient. Univariable and multivariable linear regression analyses were used to assess associations between reoperation and factors including body mass index (BMI), comorbidities, surgical history, and defect size. RESULTS: Fifty-three patients were included in this study over a median follow-up of 620\u2009days. At last follow-up, 83% of implants remained in situ and the nonunion rate was 15% at 1\u2009year. Within the overall cohort, 19 patients (36%) required at least 1 reoperation. Of these 19 patients, 8 (42%) developed deep postoperative infection and 5 (26%) ultimately required below-knee amputation. Within the multivariable regression, prior ipsilateral limb infection (OR\u2009=\u200914.9, P\u2009=\u2009.01) was significantly associated with reoperation. CONCLUSION: Custom cage ankle arthrodesis in this study achieved a relatively high overall fusion rate but was associated with a high complication rate. Deep postoperative infection was a major barrier to a successful outcome. As the use of custom cage arthrodesis increases, evaluation of outcomes and comparison to conventional treatments will be essential to advance CSD treatment in foot and ankle surgery.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42097864/",
+      "score": 84,
+      "score_reasoning": "Clinical outcomes study of custom 3D-printed implants for critical bone defects with large sample size (53 patients) and novel surgical approach with high clinical applicability.",
+      "bullets": [
+        "Custom 3D-printed metal cages achieved 85% fusion rate at one year in 53 patients with critical ankle bone defects, but 36% needed reoperation.",
+        "Deep infection occurred in 15% of patients and led to below-knee amputation in 9% of the total cohort.",
+        "Prior infection in the same limb increased reoperation risk 15-fold, making patient selection critical for this technique."
+      ]
+    },
+    {
+      "pmid": "42099101",
+      "title": "Surgical Management of SLAP Lesions in Baseball Throwers: Posterosuperior and Posterior Labral Debridement With or Without Anterosuperior Repair Yields High Return to Play Rates.",
+      "authors": [
+        "Kin Y",
+        "Sugaya H",
+        "Onishi K",
+        "Takahashi N",
+        "Tokai M",
+        "Ueki H",
+        "Komatsu T",
+        "Inoue T",
+        "Katsumata M",
+        "Tanaka S"
+      ],
+      "authors_short": "Kin Y, Sugaya H, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Reported rates of return to the preinjury level of play (RTPL) after superior labrum anterior and posterior (SLAP) repair in overhead athletes are relatively low (22%-64%). Current fixation techniques that rigidly fix the posterosuperior labrum may lead to overconstraint and persistent pain. PURPOSE/HYPOTHESIS: The purpose of this study was to retrospectively evaluate the clinical outcomes and RTPL rates of our surgical strategy in competitive baseball throwers with SLAP lesions. This strategy includes debridement of the posterosuperior labrum without fixation, with selective anterosuperior fixation when anterior extension and instability of the labral detachment are present. The authors hypothesized that posterosuperior and posterior debridement with or without anterosuperior repair would yield high return to play rates in baseball throwers with SLAP lesions. STUDY DESIGN: Case series; Level of evidence, 4. METHODS: A total of 80 shoulders in 80 baseball players (mean age, 20 years [range, 15-38 years]) underwent arthroscopic surgery for SLAP lesions (Type II or Type VIII with posterior extension). The cohort included 16 professional, 31 collegiate, 23 high school, and 10 recreational players. Based on intraoperative findings, isolated debridement of the posterosuperior and/or posterior labrum was performed for stable lesions, defined as posterosuperior detachment without gross instability or lift-off of the superior labrum (n = 33), while anterosuperior repair, defined as suture anchor fixation of the unstable anterior labrum, was added only if the detachment extended anteriorly and demonstrated instability of the labrum in this region (n = 47). The primary outcome was the RTPL rate, defined as return to the preinjury level of play. Secondary outcomes included the time to RTPL and subgroup comparisons according to procedure, player position, and competition level. RESULTS: Of the 80 players, 79 (99%) returned to competitive baseball play; 1 player failed to return secondary to persistent shoulder pain. Overall RTPL was 79% (63/80). The RTPL rate was 73% (24/33) in the debridement-alone group and 83% (39/47) in the anterosuperior repair group (P = .27). Pitchers achieved an RTPL rate of 81% (38/47), and professional players achieved an RTPL rate of 75% (12/16). The mean time to RTPL was 9 months overall. There were no significant differences in RTPL rates or time to return between procedure types, player position, or competition level. CONCLUSION: This surgical strategy involving debridement of the posterosuperior labrum yielded high RTPL rates regardless of whether anterosuperior repair was performed. Avoiding rigid fixation of the posterosuperior labrum may be a key to successful outcomes in competitive throwing athletes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42099101/",
+      "score": 82,
+      "score_reasoning": "Case series of 80 baseball players with SLAP lesions showing high return-to-play rates using a novel surgical approach, highly relevant to sports medicine practitioners.",
+      "bullets": [
+        "Baseball players with SLAP tears achieved 79% return to preinjury performance with posterosuperior labral debridement plus selective anterosuperior repair when unstable.",
+        "This approach avoids rigid fixation of the posterosuperior labrum, which may cause overconstraint and persistent pain in throwers.",
+        "Return rates were similar whether debridement alone (73%) or with anterosuperior repair (83%) was performed, with average return time of 9 months."
+      ]
+    },
+    {
+      "pmid": "42092468",
+      "title": "Nanotechnology-Based Device Reduces Pain and Immediate Opioid Requirements, and Facilitates Earlier Discharge from the Hospital Following Total Knee Arthroplasty: A Randomized Placebo-Controlled Trial.",
+      "authors": [
+        "Klatt BA",
+        "O'Malley M",
+        "Ayazbekova A",
+        "Sylvia Lin HH",
+        "Sadhasivam S",
+        "Chelly JE"
+      ],
+      "authors_short": "Klatt BA, O'Malley M, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Opioids are often used to control pain following total knee arthroplasty (TKA). Opioid-sparing pain relief tools are needed in the current setting of the opioid crisis. This prospective randomized placebo-controlled study assessed the ability of a nanotechnology-based device (NBD) to reduce pain and opioid consumption following TKA. METHODS: A total of 156 patients were included (79 in the active NBD group and 77 in the sham NBD group). In the recovery room, patients enrolled were randomized (1:1) to either an active NBD or sham group and were asked to wear the NBD 12 hours a day for two weeks. Patients were followed for six weeks following surgery to determine the effectiveness of active NBD to reduce pain, opioid use, hospital length of stay (LOS), use, postoperative nausea and vomiting (PONV), risk of opioid misuse, and knee range of motion. RESULTS: The use of active NBD was associated with a 26% reduction in opioid consumption during the first 24 hours before discharge (25.6 in the active NBD versus 34.4 mg in the sham group, P = 0.015) and a 19% shorter LOS (20.8 versus 25.7 hours, P = 0.006). The active NBD group showed a 14% reduction in pain at rest score at week one and a reduction of 30% in postoperative nausea and vomiting (PONV) and 41% in use of rescue antiemetics compared to the sham NBD group. CONCLUSION: This randomized placebo-controlled study demonstrates that the use of NBD is significantly associated with an immediate reduction in postoperative opioid use, PONV, use of rescue antiemetics, and LOS. However, additional large multicenter prospective studies are needed to confirm and scale the clinical and economic benefits of NBD following TKA.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42092468/",
+      "score": 80,
+      "score_reasoning": "Randomized controlled trial demonstrating significant pain reduction and opioid-sparing effects of nanotechnology device after TKA with immediate clinical applicability.",
+      "bullets": [
+        "A nanotechnology device worn 12 hours daily for 2 weeks after TKA reduced opioid use by 26% and hospital stay by 19% compared to sham device in 156 patients.",
+        "The device also decreased pain scores at one week by 14% and reduced nausea/vomiting by 30% with 41% less need for rescue antiemetics.",
+        "This represents a potential opioid-sparing tool for TKA patients, though larger multicentre studies are needed to confirm the benefits."
+      ]
+    },
+    {
+      "pmid": "42069135",
+      "title": "Partial Tear at the Musculotendinous Junction of the Teres Major after Anterior Latissimus Dorsi and Teres Major Tendon Transfer: Associated Factors and Clinical Impact in 256 Patients.",
+      "authors": [
+        "Baek CH",
+        "Lim C",
+        "Kim JG",
+        "Kim BT",
+        "Kim SJ"
+      ],
+      "authors_short": "Baek CH, Lim C, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Anterior latissimus dorsi and teres major (aLDTM) tendon transfer is an established procedure for isolated irreparable subscapularis tendon tear (IISTT) and anterosuperior irreparable rotator cuff tears (ASIRCTs). However, partial tear at the musculotendinous junction (MTJ) of the teres major (TM) has been observed on postoperative magnetic resonance image (MRI). The associated factors and clinical significance of these lesions remain unclear. This study aimed to identify factors associated with these lesions and to evaluate their impact on clinical outcomes. METHODS: We retrospectively reviewed the consecutive patients who underwent aLDTM tendon transfer for IISTT or ASIRCTs between 2017 and 2023. Potential associated factors were categorized into three domains: patients characteristics, intraoperative variables (operative time, tension of transferred LDTM), and postoperative MRI-based biomechanical parameters (trajectory angle and bending angle). The clinical evaluation included shoulder pain, patient-reported outcome measures (PROMs), active range of motion (aROM), and strength of aROM. RESULTS: 256 consecutive patients were included in this study. Among them, 60 patients (23.4%) demonstrated a partial tear at the MTJ of the TM on postoperative MRI and were classified as the partial tear group, while the remaining patients without a partial tear were classified as the intact group. Of the partial tear group, 43 patients showed evidence of subsequent healing on follow-up MRI and were categorized as the healed group, whereas 16 patients (26.7%) progressed to complete tear and were classified as the unhealed group. On multivariate logistic regression analysis, both intraoperative high tension of the transferred LDTM (odds ratio [OR] =2.89, 95% confidence interval [CI]:1.40-5.98, p=0.004) and lower bending angle at the MTJ of the TM (OR=0.85 per degree increase, 95% CI: 0.81-0.899, p<0.001) were identified as associated factors for partial tear occurrence. The unhealed group demonstrated inferior outcomes in Activities of Daily Living involving Internal Rotation score (75.9\u00b111.6 vs 59.1\u00b110.4, p<0.001), forward elevation strength (28.1\u00b15.6 vs 21.1\u00b15.4, p<0.001) and internal rotation strength (25.6\u00b17.2 vs 22.2\u00b15.7 p<0.001) compared with the intact group and healed groups. CONCLUSION: Partial tear at the MTJ of the TM is a relatively frequent finding after aLDTM tendon transfer. Although most lesions heal spontaneously, persistent tears are associated with inferior functional outcomes. Excessive intraoperative tension and a lower bending angle at the MTJ were identified as associated factors. These findings suggest that optimizing tendon tension and graft configuration during fixation may help reduce the risk of partial tear and preserve the synergistic function of the transferred muscles.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42069135/",
+      "score": 78,
+      "score_reasoning": "Clinical outcomes study of professional athletes with borderline hip dysplasia providing important return-to-sport data for sports medicine surgeons.",
+      "bullets": [
+        "Partial tearing of the teres major occurs in 23% of patients after anterior latissimus dorsi and teres major transfer for irreparable rotator cuff tears.",
+        "Most teres major tears heal spontaneously, but the 27% that progress to complete tears have significantly worse internal rotation function and strength.",
+        "High intraoperative tension and acute bending angles at the muscle-tendon junction increase the risk of teres major tearing after transfer."
+      ]
+    },
+    {
+      "pmid": "42101444",
+      "title": "Bone Graft Substitutes Used in Non-spinal Orthopaedic Arthrodesis Surgery: A Systematic Review.",
+      "authors": [
+        "MacDonald J",
+        "Glazebrook H",
+        "Morash J",
+        "Burgesson B",
+        "Glazebrook M"
+      ],
+      "authors_short": "MacDonald J, Glazebrook H, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "Bone graft is commonly used to promote joint arthrodesis. Currently, the bone graft options used surgically include autograft, allograft, and bone graft substitutes (BGS). Limited availability, potential morbidity (associated with autograft harvest), efficacy concerns, costs, and the theoretical risk of disease transmission have led to an increased use of BGS. Although there are numerous BGS available, it remains unclear which BGS provide the best clinical outcomes. This systematic review is intended to evaluate the quantity and quality of published BGS clinical outcome studies in non-spinal orthopaedic arthrodesis surgery. A comprehensive literature search of PubMed, Embase, and the Cochrane Library identified 1,751 studies of which 15 met inclusion criteria. All of these studies were of the foot and ankle and represented eight commercially available BGS. Among them, Augment had the most evidence and received a grade A recommendation. All other BGS received grade I recommendations due to insufficient published clinical outcome data. These findings highlight the limited published evidence on the clinical outcomes associated with the use of BGS in non-spinal orthopaedic arthrodesis surgery. Surgeons should continue to use the best available evidence when selecting BGS while recognizing the need for additional high-quality clinical studies.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42101444/",
+      "score": 76,
+      "score_reasoning": "Systematic review and meta-analysis of bone graft substitutes in non-spinal arthrodesis published in JAAOS with high clinical relevance for daily practice.",
+      "bullets": [
+        "Only 15 studies met criteria for bone graft substitute outcomes in non-spinal orthopaedic arthrodesis, all involving foot and ankle procedures.",
+        "Augment received the only grade A recommendation among eight commercial bone graft substitutes due to having the most published evidence.",
+        "All other bone graft substitutes received grade I recommendations because of insufficient clinical outcome data to guide selection."
+      ]
+    },
+    {
+      "pmid": "42101402",
+      "title": "Mapping Population-Level Differences in Brachial Plexus Birth Injury: An International Meta-Analysis.",
+      "authors": [
+        "Cordray H",
+        "Fiandeiro M",
+        "Lee S",
+        "Cornwall R",
+        "Grahn P",
+        "Kaijomaa M",
+        "Manske MC",
+        "Previtera M",
+        "Shah AS"
+      ],
+      "authors_short": "Cordray H, Fiandeiro M, et al.",
+      "journal": "The Journal of hand surgery",
+      "journal_abbrev": "J Hand Surg Am",
+      "year": "2026",
+      "abstract": "PURPOSE: The majority of brachial plexus birth injuries (BPBI) occur without prenatally identifiable risk factors. This meta-analysis mapped BPBI incidence worldwide as a preliminary step toward investigating population-level predictors. METHODS: This systematic review searched PubMed, Embase, Cochrane, and Web of Science. Eligible studies provided cross-sectional data on BPBI incidence without inclusion criteria predicated on known risk factors. Following Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines, two reviewers screened studies, extracted data, and assessed risk of bias. Meta-analyses of proportions were conducted using random-effects models to estimate composite international incidence; covariates were incorporated with meta-regressions to compare population-based differences. RESULTS: Reviewers screened 1,245 studies; 116 were included, and 91 were eligible for meta-analyses. The review identified gaps in the literature regarding Central American, South American, African, and Northeast Asian epidemiology. Acknowledging these limitations, 71.5 million live births across 30 countries in all 6 populated continents were pooled for meta-analyses to estimate composite international incidence and population-level variation. Composite BPBI incidence was 1.4 per thousand births (95% confidence interval, 1.3-1.6), yet estimates from individual countries ranged from 0.4 to 4.6 per thousand births. Meta-regression confirmed significant international differences in BPBI incidence; country of birth explained 34.2% of between-study variance. From studies that tracked permanent BPBI, 18.4% (95% confidence interval, 15.3% to 22.0%) of cases persisted beyond a year. CONCLUSIONS: These findings encourage the formulation of new research questions that may allow us to address the remaining unpredictability in BPBI incidence. Significant regional variation warrants exploration of population-level influences, including health-systems-level, environmental, or sociodemographic factors, along with unexplored individual-level factors such as genetic contributions. TYPE OF STUDY/LEVEL OF EVIDENCE: Symptom prevalence study 2a.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42101402/",
+      "score": 72,
+      "score_reasoning": "Meta-analysis of brachial plexus birth injury incidence across 71.5 million births providing important epidemiological data for pediatric orthopedic surgeons.",
+      "bullets": [
+        "Brachial plexus birth injuries occur in 1.4 per thousand births globally, but rates vary dramatically from 0.4 to 4.6 per thousand depending on country.",
+        "About 18% of brachial plexus birth injuries become permanent disabilities lasting beyond one year.",
+        "Most brachial plexus birth injuries happen without identifiable prenatal risk factors, suggesting unknown population or genetic factors play a role."
+      ]
+    },
+    {
+      "pmid": "42102347",
+      "title": "Are Routine 4-Week Radiographs After ESIN Osteosynthesis in Pediatric Forearm Fractures Necessary?: A Retrospective Analysis and Proposal of a Risk-Adapted Algorithm.",
+      "authors": [
+        "Mojica Crespo R",
+        "Memmel C",
+        "Hundhausen L",
+        "Wulbrand C",
+        "Hanke A"
+      ],
+      "authors_short": "Mojica Crespo R, Memmel C, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Elastic stable intramedullary nailing (ESIN) is an established treatment for unstable pediatric forearm fractures. Although routine radiographic follow-up at 4 weeks is widely performed, its clinical benefit is unclear. This study aimed to evaluate the relevance of routine 4-week radiographs and to develop a risk-adapted follow-up protocol. METHODS: We retrospectively analyzed all patients aged 0 to 18 years treated with ESIN for diaphyseal forearm fractures at a level I trauma center between 2014 and 2024. Clinical and radiologic findings at the scheduled 4-week follow-up visit were assessed retrospectively. Radiologic abnormalities were defined as secondary displacement, implant-related problems, or signs of infection. Therapeutic consequences were recorded. Statistical analyses included \u03c72 or Fisher exact tests, Mann-Whitney U tests, and logistic regression. RESULTS: Of 610 patients screened, 553 were included (mean age: 8.0\u00b13.5\u00a0y, 61.1% male). At the 4-week follow-up, 65.5% (362/553) were asymptomatic. Radiologic abnormalities were rare (1.3%, n=7). Importantly, none of the 362 asymptomatic patients showed relevant radiologic findings. Radiologic abnormalities were more frequent in children with clinical abnormalities (2.6% vs. 1.1%). In multivariable analysis, radiologic abnormalities remained the only independent predictor of therapeutic consequences (aOR: 11.9, 95% CI: 2.3-62.3; P=0.003). CONCLUSION: Routine 4-week radiographs after ESIN osteosynthesis in pediatric forearm fractures do not lead to therapeutic consequences in asymptomatic patients. An algorithm for risk-adapted x-ray is proposed, although further prospective evaluation is needed. LEVELS OF EVIDENCE: Level III-retrospective cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42102347/",
+      "score": 70,
+      "score_reasoning": "Retrospective analysis of 553 pediatric forearm fractures proposing risk-adapted follow-up protocol with practical implications for reducing unnecessary radiation exposure.",
+      "bullets": [
+        "Asymptomatic children at 4 weeks after ESIN forearm fracture repair had zero radiologic complications requiring treatment changes in this 553-patient study.",
+        "Only 1.3% of all patients had radiologic abnormalities at 4 weeks, and these occurred exclusively in symptomatic children with clinical concerns.",
+        "Routine 4-week radiographs may be unnecessary for asymptomatic pediatric ESIN patients, with clinical examination potentially sufficient for follow-up."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-05-09T03:56:48.607910-07:00"
+}
