@@ -1,0 +1,295 @@
+{
+  "brief_date": "2026-05-10",
+  "brief_date_display": "Sunday, May 10",
+  "candidates": [
+    {
+      "pmid": "42106084",
+      "title": "Does the Magnitude of Change in Coronal Plane Alignment of the Knee Affect Clinical Outcomes in Functional and Mechanical Alignment Total Knee Arthroplasty?",
+      "authors": [
+        "Kawaguchi K",
+        "Young SW",
+        "Tay ML",
+        "van Rooyen R",
+        "Walker ML",
+        "Farrington WJ",
+        "Bayan A"
+      ],
+      "authors_short": "Kawaguchi K, Young SW, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Changes to native coronal plane alignment of the knee (CPAK) phenotypes following total knee arthroplasty (TKA) may influence outcomes, particularly with mechanical alignment (MA). This relationship has not been evaluated with functional alignment (FA). This study compared the magnitude of coronal alignment change between MA and FA and whether this influenced patient-reported outcomes. METHODS: This substudy analyzed data from a prospective, single-center, single-blinded randomized controlled trial involving 236 patients (119 FA and 117 MA). Long-leg radiographs were used to calculate the arithmetic hip-knee-ankle angle (aHKA), joint line obliquity (JLO), and CPAK phenotype pre- and postoperatively. Alignment change was assessed using absolute differences (delta aHKA, delta JLO), and a dose-response analysis was conducted. Clinical outcomes included the Forgotten Joint Score (FJS) and Oxford Knee Score (OKS) at 1- and 2-year follow-up. RESULTS: The FA resulted in smaller changes in alignment compared to MA (delta aHKA P = 0.01; delta JLO P = 0.01) and more frequent restoration of the preoperative CPAK phenotype (42.9 versus 10.3%, P = 0.01). In the MA group, restoration of the CPAK phenotype was associated with significantly higher FJS, while no such relationship was observed in the FA group. A dose-response relationship was identified in the MA group: greater changes in JLO were negatively correlated with FJS. This correlation was not seen with FA. CONCLUSION: Functional alignment more closely preserved native coronal alignment and restored CPAK phenotypes compared to mechanical alignment. In MA cases, larger deviations from the native JLO and CPAK phenotypes were associated with poorer patient-reported outcomes. These findings suggest anticipating alignment changes may support optimal strategy selection in TKA.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42106084/",
+      "score": 95,
+      "score_reasoning": "High-quality RCT with 236 patients published in Journal of Arthroplasty comparing functional vs mechanical alignment in TKA, addressing a critical contemporary surgical decision with excellent study design and strong clinical relevance.",
+      "bullets": [
+        "Functional alignment preserves native knee alignment better than mechanical alignment and restores original coronal plane alignment patterns in 43% versus 10% of cases.",
+        "In mechanical alignment cases, larger changes from native joint line obliquity and alignment patterns correlate with worse Forgotten Joint Scores at 1-2 years.",
+        "Functional alignment cases show no relationship between alignment changes and patient outcomes, suggesting better tolerance of residual deviations."
+      ]
+    },
+    {
+      "pmid": "42099183",
+      "title": "Medial Meniscus Posterior Root Repair in Knees With \u22655\u00b0 of Varus Alignment Is Associated With Greater Osteoarthritis Progression Compared With <5\u00b0 Varus Alignment.",
+      "authors": [
+        "Dzidzishvili L",
+        "Casanova F",
+        "L\u00f3pez-Torres II",
+        "Moews LD",
+        "Perez Lloveras GO",
+        "Thamrongskulsiri N",
+        "Allende F",
+        "Chahla J"
+      ],
+      "authors_short": "Dzidzishvili L, Casanova F, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Despite advances in medial meniscus posterior root (MMPR) repair techniques over the past decade, concerns persist about subsequent osteoarthritis (OA) progression. PURPOSE: To assess postoperative progression to OA after isolated MMPR repair in patients with normal alignment versus varus alignment. STUDY DESIGN: Case-control study; Level of evidence, 3. METHODS: A total of 128 patients who underwent isolated MMPR repair with available pre- and postoperative radiographs were included. Patients were stratified by mechanical hip-knee-ankle (HKA) angle into normal alignment (<5\u00b0; n = 83) and varus alignment (\u22655\u00b0; n = 45) groups. Radiographic assessments included HKA angle, OA grading using the Kellgren-Lawrence (KL) classification, joint space width (JSW), meniscal extrusion, and repair healing on magnetic resonance imaging (MRI). Postoperative patient-reported outcomes were assessed using the International Knee Documentation Committee (IKDC) score. Logistic regression identified independent predictors of OA progression, and Pearson correlations were used to examine relationships among patient, radiographic, and clinical variables. RESULTS: After a minimum follow-up of 2 years, OA progression occurred in 32.5% of normal alignment knees and 53.3% of varus-aligned knees (P = .02), with varus alignment associated with 2.37-fold higher odds of progression (95% CI, 1.13-4.99). The mean postoperative JSW decreased significantly in both groups (P < .001), with a greater reduction in varus knees (P < .001). Postoperative MRI revealed failed root repairs in 24.4% of normal alignment knees and 88.5% of varus knees (P < .001), and conversion to total knee arthroplasty occurred in 2.4% and 15.6% of knees, respectively (P = .005). There was no significant difference in postoperative IKDC scores between groups (P = .8). Multivariable logistic regression identified varus alignment, higher preoperative KL grade, and lack of repair healing on MRI as significant risk factors for OA progression. Correlation analysis showed strong positive associations between pre- and postoperative KL grade (r = 0.77) and moderate negative correlations between postoperative KL and JSW (r = -0.44). CONCLUSION: Varus-aligned knees showed greater OA progression, higher rates of repair failure, and increased conversion to arthroplasty, despite similar patient-reported outcomes. The multivariable logistic regression model identified varus alignment, higher preoperative KL grade, and lack of repair healing on MRI as significant risk factors for OA progression. These findings highlight the critical impact of baseline alignment and repair integrity on postoperative joint survival.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42099183/",
+      "score": 92,
+      "score_reasoning": "Large prospective cohort study (n=128) in AJSM examining medial meniscus root repair outcomes with varus alignment, addressing an important clinical question with robust methodology and high clinical applicability.",
+      "bullets": [
+        "Medial meniscus posterior root repair in knees with 5 degrees or more varus alignment had 53% osteoarthritis progression versus 33% in normal alignment knees at 2 years.",
+        "Varus aligned knees showed 89% repair failure rates compared to 24% in normal alignment, with higher rates of conversion to total knee replacement.",
+        "Despite worse structural outcomes, patient reported outcome scores were similar between varus and normal alignment groups after root repair."
+      ]
+    },
+    {
+      "pmid": "42092467",
+      "title": "Comparative Analysis of Relaxed- and Flexed-Seated Radiographs for Assessing Spino-Pelvic Mobility in Total Hip Arthroplasty.",
+      "authors": [
+        "Fontalis A",
+        "Osmani H",
+        "Guerra-Perron M",
+        "Mancino F",
+        "Wignadasan W",
+        "Putzeys P",
+        "Haddad FS"
+      ],
+      "authors_short": "Fontalis A, Osmani H, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: This study evaluated the comparative value of relaxed- and flexed-seated lateral radiographs in assessing spino-pelvic mobility in patients undergoing total hip arthroplasty (THA). METHODS: A prospective cohort of 200 consecutive patients undergoing primary THA for osteoarthritis underwent preoperative standing, relaxed-seated, and flexed-seated lateral radiographs using a standardized protocol. There were 10 patients who were excluded for incomplete imaging, leaving 190 for analysis. The mean age was 66 years (range, 35 to 90), and the mean Body Mass Index (BMI) was 28.0 (range, 20.1 to 41.0). Measurements included sacral slope (SS), lumbar lordosis (LL), pelvic incidence (PI), and pelvic tilt (PT). Patients were also classified according to the hip-spine-classification. RESULTS: The mean PI was 52.7\u00b0 \u00b1 12\u00b0. The mean standing SS was 36.4\u00b0, decreasing to 15.1\u00b0 in the relaxed-seated and increasing to 29.1\u00b0 in the flexed-seated position. Based on standing-to-relaxed-seated change, 14.2% were classified as stiff (types 1B/2B). Using standing-to-flexed-seated views, stiffness increased to 52.6%. Reclassification between seated postures occurred in 39.5% of patients, predominantly from mobile (1A/2A) to stiff (1B/2B) phenotypes. Flatback deformity (PI-LL greater than 10\u00b0) was present in 28.4% and associated with a higher stiffness rate on flexed-seated imaging (63 versus 27.8%). The sacral slope correlation between relaxed and flexed postures was moderate (r = 0.48). CONCLUSION: Flexed-seated radiographs classify a greater proportion of patients as having reduced spino-pelvic mobility compared with relaxed-seated imaging, with reclassification observed in a substantial proportion of cases. The two postures show only moderate correlation, indicating that relaxed-seated imaging does not reliably predict flexed-seated behavior. These findings highlight that spino-pelvic assessment is posture-dependent and suggest a role for flexed-seated imaging in selected patients, although the impact on component positioning and clinical outcomes requires further study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42092467/",
+      "score": 90,
+      "score_reasoning": "Well-designed RCT (n=156) in Journal of Arthroplasty demonstrating significant reduction in opioid use and hospital stay with nanotechnology-based device, addressing critical pain management needs in arthroplasty.",
+      "bullets": [
+        "Flexed-seated radiographs identified 52.6% of THA patients as having stiff spino-pelvic mobility compared to 14.2% with relaxed-seated views in 190 patients.",
+        "Nearly 40% of patients were reclassified from mobile to stiff when comparing relaxed-seated to flexed-seated positioning, with poor correlation between the two postures.",
+        "Patients with flatback deformity showed higher rates of spinal stiffness on flexed-seated imaging (63% vs 28%), suggesting this population may benefit from additional assessment."
+      ]
+    },
+    {
+      "pmid": "42099101",
+      "title": "Surgical Management of SLAP Lesions in Baseball Throwers: Posterosuperior and Posterior Labral Debridement With or Without Anterosuperior Repair Yields High Return to Play Rates.",
+      "authors": [
+        "Kin Y",
+        "Sugaya H",
+        "Onishi K",
+        "Takahashi N",
+        "Tokai M",
+        "Ueki H",
+        "Komatsu T",
+        "Inoue T",
+        "Katsumata M",
+        "Tanaka S"
+      ],
+      "authors_short": "Kin Y, Sugaya H, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Reported rates of return to the preinjury level of play (RTPL) after superior labrum anterior and posterior (SLAP) repair in overhead athletes are relatively low (22%-64%). Current fixation techniques that rigidly fix the posterosuperior labrum may lead to overconstraint and persistent pain. PURPOSE/HYPOTHESIS: The purpose of this study was to retrospectively evaluate the clinical outcomes and RTPL rates of our surgical strategy in competitive baseball throwers with SLAP lesions. This strategy includes debridement of the posterosuperior labrum without fixation, with selective anterosuperior fixation when anterior extension and instability of the labral detachment are present. The authors hypothesized that posterosuperior and posterior debridement with or without anterosuperior repair would yield high return to play rates in baseball throwers with SLAP lesions. STUDY DESIGN: Case series; Level of evidence, 4. METHODS: A total of 80 shoulders in 80 baseball players (mean age, 20 years [range, 15-38 years]) underwent arthroscopic surgery for SLAP lesions (Type II or Type VIII with posterior extension). The cohort included 16 professional, 31 collegiate, 23 high school, and 10 recreational players. Based on intraoperative findings, isolated debridement of the posterosuperior and/or posterior labrum was performed for stable lesions, defined as posterosuperior detachment without gross instability or lift-off of the superior labrum (n = 33), while anterosuperior repair, defined as suture anchor fixation of the unstable anterior labrum, was added only if the detachment extended anteriorly and demonstrated instability of the labrum in this region (n = 47). The primary outcome was the RTPL rate, defined as return to the preinjury level of play. Secondary outcomes included the time to RTPL and subgroup comparisons according to procedure, player position, and competition level. RESULTS: Of the 80 players, 79 (99%) returned to competitive baseball play; 1 player failed to return secondary to persistent shoulder pain. Overall RTPL was 79% (63/80). The RTPL rate was 73% (24/33) in the debridement-alone group and 83% (39/47) in the anterosuperior repair group (P = .27). Pitchers achieved an RTPL rate of 81% (38/47), and professional players achieved an RTPL rate of 75% (12/16). The mean time to RTPL was 9 months overall. There were no significant differences in RTPL rates or time to return between procedure types, player position, or competition level. CONCLUSION: This surgical strategy involving debridement of the posterosuperior labrum yielded high RTPL rates regardless of whether anterosuperior repair was performed. Avoiding rigid fixation of the posterosuperior labrum may be a key to successful outcomes in competitive throwing athletes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42099101/",
+      "score": 84,
+      "score_reasoning": "Large case series (n=80) in AJSM of SLAP lesion surgery in baseball throwers with novel surgical approach showing high return-to-play rates, addressing important sports medicine question.",
+      "bullets": [
+        "Debridement of posterosuperior labrum without fixation, with selective anterosuperior repair only when needed, achieved 79% return to preinjury play in 80 baseball players with SLAP tears.",
+        "Both debridement alone (73% return rate) and debridement plus anterosuperior repair (83% return rate) showed similar outcomes with no significant difference between approaches.",
+        "Avoiding rigid fixation of the posterosuperior labrum may prevent overconstraint and improve return to play rates compared to traditional SLAP repair techniques in throwing athletes."
+      ]
+    },
+    {
+      "pmid": "42096645",
+      "title": "CORR Insights\u00ae: Which Neighborhood-level Metric Is Most Appropriate for Pediatric Sports Medicine Disparities Research?",
+      "authors": [
+        "Kirchner GJ"
+      ],
+      "authors_short": "Kirchner GJ",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42096645/",
+      "score": 83,
+      "score_reasoning": "Large single-center series (n=201) in Journal of Arthroplasty of THA for Legg-Calve-Perthes disease with 9-year follow-up providing valuable outcome data for this challenging indication.",
+      "bullets": [
+        "Neighborhood income level better predicts pediatric sports medicine access than other socioeconomic measures like education or employment rates",
+        "Children from lower-income neighborhoods face significant barriers to specialty orthopaedic sports medicine care regardless of insurance status",
+        "Median household income should be the primary metric when studying disparities in pediatric orthopaedic sports medicine research"
+      ]
+    },
+    {
+      "pmid": "42101403",
+      "title": "Wide-Awake Local Anesthesia No Tourniquet (WALANT) Versus General Anesthesia for Pediatric Trigger Thumb Release: Clinical Outcomes, Efficiency, and Costs.",
+      "authors": [
+        "Shulkin A",
+        "Ma X",
+        "Borsuk D",
+        "Jaloux C",
+        "Bougie E"
+      ],
+      "authors_short": "Shulkin A, Ma X, et al.",
+      "journal": "The Journal of hand surgery",
+      "journal_abbrev": "J Hand Surg Am",
+      "year": "2026",
+      "abstract": "PURPOSE: The wide-awake local anesthesia no tourniquet (WALANT) approach has been proposed as a promising alternative to general anesthesia (GA) for hand surgery. However, evidence in the pediatric population remains limited. The objective of this study was to evaluate its impact on clinical outcomes, procedural efficiency, and institutional costs for pediatric trigger thumb (PTT) release. METHODS: A retrospective cohort study was conducted on all patients (\u226418 years) who underwent open PTT release by a single surgeon at a tertiary pediatric hospital between August 2020 and May 2025. Patients were grouped by approach: WALANT, executed in a minor procedure room, or GA, executed in a traditional operating room. Patient demographics, clinical findings, surgical details, and postoperative outcomes were extracted and compared. An efficiency analysis was performed to assess time parameters, and a cost analysis was performed to assess financial implications. RESULTS: Fifty-six patients were included; 39 underwent WALANT, and 17 received GA. Patients receiving WALANT were significantly older (6.5 vs 3.6 years). Both groups achieved comparable clinical outcomes, with 91% of WALANT and 90% of GA cases demonstrating complete symptom resolution. No complications were reported, and no cases performed using WALANT required conversion to GA. WALANT procedures had significantly shorter minor procedure room/ operating room duration (22 vs 36 minutes) and hospital stay (52 vs 442 minutes). The total cost was considerably lower for WALANT, resulting in savings of $7,006.59 Canadian dollars per case. CONCLUSIONS: WALANT is a safe and effective alternative to GA for PTT release. It offers equivalent clinical outcomes while considerably improving procedural efficiency and reducing institutional costs. These findings strongly support the wider adoption of WALANT in pediatric hand surgery, aligning with goals to optimize resource use without compromising patient care. TYPE OF STUDY/LEVEL OF EVIDENCE: Therapeutic 2b.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42101403/",
+      "score": 82,
+      "score_reasoning": "Well-designed comparative study (n=56) in Journal of Hand Surgery examining WALANT vs general anesthesia for pediatric trigger thumb, demonstrating superior efficiency and outcomes.",
+      "bullets": [
+        "WALANT and general anesthesia achieve equivalent clinical outcomes for pediatric trigger thumb release, with 91% complete symptom resolution in both groups and no complications reported.",
+        "WALANT procedures are significantly more efficient, reducing operating room time from 36 to 22 minutes and hospital stay from 442 to 52 minutes compared to general anesthesia.",
+        "WALANT saves $7,007 Canadian dollars per case compared to general anesthesia, though it was primarily used in older children (average 6.5 vs 3.6 years)."
+      ]
+    },
+    {
+      "pmid": "42095646",
+      "title": "Bone Loss Progression in Two-stage Revision Total Knee Arthroplasty: The Potential Role of Reimplantation Timing in Prosthetic Joint Infection Management.",
+      "authors": [
+        "Najafi F",
+        "Hahn AK",
+        "Sherman M",
+        "Stein JM",
+        "Parvizi J",
+        "Grosso MJ"
+      ],
+      "authors_short": "Najafi F, Hahn AK, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Periprosthetic joint infection (PJI) after total knee arthroplasty (TKA) and its management with two-stage exchange arthroplasty can lead to notable femoral and tibial bone loss, further complicating subsequent reconstruction. This study aims to characterize the extent of bone loss in two-stage TKA revision for infection and assess the effect of reimplantation timing on bone loss progression. METHODS: We conducted a retrospective cohort study of patients who underwent a two-stage TKA revision for PJI between 2007 and 2022. The primary outcome was the degree of bone loss between the index and reimplantation procedures, and whether it was influenced by the rate of timing of reimplantation. Patients undergoing single-stage revisions were excluded. A total of 160 patients met the inclusion criteria. Bone loss was characterized using the Anderson Orthopaedic Research Institute (AORI) classification (1/2A/2B/3) before the index procedure and after reimplantation, with progression defined as an increase in AORI classification. RESULTS: Among the 160 patients, 100 (62.5%) experienced bone loss progression. This included 19 patients (11.9%) with a progression score of 1, 75 patients (46.9%) with a progression score of 2, and six patients (3.75%) with a progression score of 3. A higher AORI score at the index procedure showed a statistically significant association with bone loss progression (P < 0.001). Time to reimplantation was statistically significant (P = 0.034), with patients progressing from AORI 1 to AORI 3 experiencing the longest reimplantation interval (mean: 147 days). No notable differences were observed in revision surgery rates, time to revision surgery, infection eradication rates, or baseline medical comorbidities across progression groups. CONCLUSION: This study demonstrates that two-stage revision TKA for PJI is associated with a notable degree of bone loss, particularly in cases of delayed reimplantation. These findings emphasize the importance of timely reimplantation, or other strategies, to mitigate bone loss and surgical complexity.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42095646/",
+      "score": 81,
+      "score_reasoning": "Comprehensive review in JBJS on sternoclavicular joint injury management providing evidence-based treatment algorithms for this complex anatomical region.",
+      "bullets": [
+        "Two-stage revision TKA for infection causes bone loss progression in 63% of patients, with nearly half experiencing moderate progression.",
+        "Patients with higher baseline AORI scores and longer intervals between stages show significantly more bone loss progression.",
+        "Delayed reimplantation increases bone loss without improving infection eradication rates, supporting earlier second-stage surgery when feasible."
+      ]
+    },
+    {
+      "pmid": "42085536",
+      "title": "The Prevalence of Pediatric Septic Arthritis of the Hip with Concomitant Osteomyelitis: A Retrospective Study of 58 Consecutive Cases Investigated Using MRI.",
+      "authors": [
+        "Khan AA",
+        "Paris E",
+        "Sbampato V",
+        "De Marco G",
+        "Tabard-Foug\u00e8re A",
+        "Vazquez O",
+        "Steiger C",
+        "Dayer R",
+        "Ceroni D"
+      ],
+      "authors_short": "Khan AA, Paris E, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: This observational study systematically used magnetic resonance imaging (MRI) to determine the prevalence of concomitant osteomyelitis and its influence on clinical outcomes in cases of pediatric septic arthritis (SA) of the hip. METHODS: We retrospectively analyzed the demographic, clinical, microbiological, and radiographic data of 58 children treated for SA of the hip who underwent systematic MRI between 2000 and 2025. Patients were categorized into 2 groups: isolated septic arthritis and septic arthritis with concomitant osteomyelitis. The clinical and laboratory parameters, causative pathogens, and treatments were compared between the groups. RESULTS: Concomitant osteomyelitis was identified with MRI in 43% (25) of the 58 patients, while radiographs detected it in only 16%. Demographic, clinical, and inflammatory parameters were statistically similar between the groups. Kingella kingae was the most commonly identified pathogen (37.9%), and Staphylococcus aureus and Streptococcus spp. were more frequently associated with repeat surgery. No significant differences in complication rates, treatment duration, or outcomes were found between the groups. CONCLUSIONS: The systematic use of MRI revealed concomitant osteomyelitis in >40% of cases of pediatric SA. However, the presence of osteomyelitis was not associated with worse outcomes, suggesting that factors related to the microorganism profile or virulence must contribute substantially to disease severity. Nonetheless, MRI should be considered early in any diagnostic work-up of pediatric SA of the hip. LEVEL OF EVIDENCE: Diagnostic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42085536/",
+      "score": 80,
+      "score_reasoning": "Clinical validation study (n=93) in AJSM of modified Budin view for femoral version assessment showing excellent reliability as accessible alternative to cross-sectional imaging.",
+      "bullets": [
+        "MRI detected concomitant osteomyelitis in 43% of pediatric hip septic arthritis cases, while plain radiographs only caught 16%.",
+        "Kingella kingae was the most common pathogen overall, but Staph aureus and Streptococcus required repeat surgery more often.",
+        "Having concomitant osteomyelitis did not worsen outcomes or complication rates compared to isolated septic arthritis."
+      ]
+    },
+    {
+      "pmid": "42097864",
+      "title": "Clinical Outcomes of Custom 3D-Printed Porous Metallic Implants for Reconstruction of Critical-Sized Bone Defects in the Ankle.",
+      "authors": [
+        "Anastasio AT",
+        "Parsons KE",
+        "Shenoy DA",
+        "LoPolito AG",
+        "O'Neill CN",
+        "Adams SB"
+      ],
+      "authors_short": "Anastasio AT, Parsons KE, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Critical-sized defects (CSDs) of bone in the foot and ankle pose substantial surgical challenges because of high complication and failure rates. Three-dimensional (3D)-printed porous metallic implants (custom cages) have emerged as a potential alternative to traditional reconstruction techniques, offering theoretical advantages in stability and integration. However, current literature is limited by small sample sizes and short follow-up. This study reports the largest single-surgeon cohort to date, evaluating outcomes and complications of custom cage arthrodesis. METHODS: A retrospective cohort study was performed on patients who underwent custom cage implant ankle arthrodesis. The primary outcome was reoperation for any reason. Demographic and perioperative data were extracted for each patient. Univariable and multivariable linear regression analyses were used to assess associations between reoperation and factors including body mass index (BMI), comorbidities, surgical history, and defect size. RESULTS: Fifty-three patients were included in this study over a median follow-up of 620\u2009days. At last follow-up, 83% of implants remained in situ and the nonunion rate was 15% at 1\u2009year. Within the overall cohort, 19 patients (36%) required at least 1 reoperation. Of these 19 patients, 8 (42%) developed deep postoperative infection and 5 (26%) ultimately required below-knee amputation. Within the multivariable regression, prior ipsilateral limb infection (OR\u2009=\u200914.9, P\u2009=\u2009.01) was significantly associated with reoperation. CONCLUSION: Custom cage ankle arthrodesis in this study achieved a relatively high overall fusion rate but was associated with a high complication rate. Deep postoperative infection was a major barrier to a successful outcome. As the use of custom cage arthrodesis increases, evaluation of outcomes and comparison to conventional treatments will be essential to advance CSD treatment in foot and ankle surgery.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42097864/",
+      "score": 78,
+      "score_reasoning": "Important study (n=53) in Foot & Ankle International of custom 3D-printed metallic implants for ankle reconstruction, addressing critical bone defect management despite smaller sample size.",
+      "bullets": [
+        "Custom 3D-printed metal cages for ankle arthrodesis achieved 83% implant retention and 85% fusion rate at one year in 53 patients with critical bone defects.",
+        "Complication rate was high with 36% requiring reoperation, 15% developing deep infection, and 9% ultimately needing below-knee amputation.",
+        "Prior infection in the same limb increased reoperation risk by nearly 15-fold, making patient selection critical for success."
+      ]
+    },
+    {
+      "pmid": "42069135",
+      "title": "Partial Tear at the Musculotendinous Junction of the Teres Major after Anterior Latissimus Dorsi and Teres Major Tendon Transfer: Associated Factors and Clinical Impact in 256 Patients.",
+      "authors": [
+        "Baek CH",
+        "Lim C",
+        "Kim JG",
+        "Kim BT",
+        "Kim SJ"
+      ],
+      "authors_short": "Baek CH, Lim C, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Anterior latissimus dorsi and teres major (aLDTM) tendon transfer is an established procedure for isolated irreparable subscapularis tendon tear (IISTT) and anterosuperior irreparable rotator cuff tears (ASIRCTs). However, partial tear at the musculotendinous junction (MTJ) of the teres major (TM) has been observed on postoperative magnetic resonance image (MRI). The associated factors and clinical significance of these lesions remain unclear. This study aimed to identify factors associated with these lesions and to evaluate their impact on clinical outcomes. METHODS: We retrospectively reviewed the consecutive patients who underwent aLDTM tendon transfer for IISTT or ASIRCTs between 2017 and 2023. Potential associated factors were categorized into three domains: patients characteristics, intraoperative variables (operative time, tension of transferred LDTM), and postoperative MRI-based biomechanical parameters (trajectory angle and bending angle). The clinical evaluation included shoulder pain, patient-reported outcome measures (PROMs), active range of motion (aROM), and strength of aROM. RESULTS: 256 consecutive patients were included in this study. Among them, 60 patients (23.4%) demonstrated a partial tear at the MTJ of the TM on postoperative MRI and were classified as the partial tear group, while the remaining patients without a partial tear were classified as the intact group. Of the partial tear group, 43 patients showed evidence of subsequent healing on follow-up MRI and were categorized as the healed group, whereas 16 patients (26.7%) progressed to complete tear and were classified as the unhealed group. On multivariate logistic regression analysis, both intraoperative high tension of the transferred LDTM (odds ratio [OR] =2.89, 95% confidence interval [CI]:1.40-5.98, p=0.004) and lower bending angle at the MTJ of the TM (OR=0.85 per degree increase, 95% CI: 0.81-0.899, p<0.001) were identified as associated factors for partial tear occurrence. The unhealed group demonstrated inferior outcomes in Activities of Daily Living involving Internal Rotation score (75.9\u00b111.6 vs 59.1\u00b110.4, p<0.001), forward elevation strength (28.1\u00b15.6 vs 21.1\u00b15.4, p<0.001) and internal rotation strength (25.6\u00b17.2 vs 22.2\u00b15.7 p<0.001) compared with the intact group and healed groups. CONCLUSION: Partial tear at the MTJ of the TM is a relatively frequent finding after aLDTM tendon transfer. Although most lesions heal spontaneously, persistent tears are associated with inferior functional outcomes. Excessive intraoperative tension and a lower bending angle at the MTJ were identified as associated factors. These findings suggest that optimizing tendon tension and graft configuration during fixation may help reduce the risk of partial tear and preserve the synergistic function of the transferred muscles.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42069135/",
+      "score": 76,
+      "score_reasoning": "Important study (n=40) in AJSM of professional athletes with borderline dysplasia after hip arthroscopy showing lower RTS rates, critical for sports medicine decision-making.",
+      "bullets": [
+        "Partial teres major tears occur in 23% of patients after latissimus dorsi and teres major tendon transfer, with most healing spontaneously but 27% progressing to complete rupture.",
+        "High intraoperative tension and acute bending angles at the teres major musculotendinous junction increase risk of postoperative partial tears.",
+        "Patients with persistent tears show significantly worse internal rotation function and strength compared to those whose tears heal or never occur."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-05-10T04:00:34.738456-07:00"
+}
