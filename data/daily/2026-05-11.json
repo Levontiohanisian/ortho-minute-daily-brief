@@ -1,0 +1,347 @@
+{
+  "brief_date": "2026-05-11",
+  "brief_date_display": "Monday, May 11",
+  "candidates": [
+    {
+      "pmid": "42107742",
+      "title": "Reassessing Valgus Lower Extremity Alignment: Is Lateral Condyle Hypoplasia a Myth?",
+      "authors": [
+        "Liu JW",
+        "Park KJ",
+        "Sullivan TC",
+        "Awdeh HK",
+        "Clyburn TA",
+        "Brown TS",
+        "Incavo SJ"
+      ],
+      "authors_short": "Liu JW, Park KJ, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Lower-extremity coronal alignment influences joint loading, gait mechanics, and the progression of osteoarthritis, yet the relative contributions of hip and knee anatomy remain incompletely defined. Valgus lower extremity alignment has traditionally been attributed to lateral femoral condyle hypoplasia, but the major contributor to valgus alignment and that femoral version and tibial bowing are more strongly associated with valgus deformity. METHODS: We performed a retrospective review of 122 consecutive primary total knee arthroplasties (57 valgus, 65 varus) with preoperative long-leg radiographs and hip-to-ankle computed tomography. Hip-knee-ankle angle, tibial shaft angulation, femoral version, and medial and lateral femoral condyle heights were independently measured by three blinded observers. Multivariate analyses of covariance were used to determine differences between groups for femoral version and bowing angle with age and sex as covariates; all other continuous variables were compared with two-tailed t-tests, and categorical variables with Chi-square analyses (\u03b1 = 0.05). RESULTS: Valgus alignment demonstrated significantly lower femoral anteversion than varus alignment (5.5 [95% confidence interval (CI) 3.1 to 7.9] versus 10.3 [95% CI 8.0 to 12.5], P = 0.005) and a markedly higher prevalence of femoral retroversion (30 versus 3%, P < 0.001). Medial tibial bowing greater than 3\u00b0 occurred in 50.9% of valgus knees compared with 3% of varus knees (P < 0.001). Unexpectedly, lateral femoral condyle height was slightly greater in the valgus group compared with the varus group (62.8 versus 60.9 mm, P = 0.025). CONCLUSIONS: Valgus lower extremity alignment is strongly associated with femoral retroversion and medial tibial bowing, but not lateral femoral condyle hypoplasia. These findings challenge long-standing assumptions about the pathogenesis of valgus deformity and underscore the importance of assessing femoral version and tibial morphology when planning total knee or hip arthroplasty.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42107742/",
+      "score": 85,
+      "score_reasoning": "High-quality retrospective study with 591 patients using CT analysis to demonstrate significant variability in native tibial slope, directly applicable to TKA surgical planning and published in a high-impact journal.",
+      "bullets": [
+        "Valgus knee alignment is primarily caused by femoral retroversion and medial tibial bowing, not lateral femoral condyle hypoplasia as traditionally taught.",
+        "Patients with valgus knees have 30% prevalence of femoral retroversion compared to 3% in varus knees, and 51% have significant medial tibial bowing versus 3% in varus.",
+        "Preoperative assessment of femoral version and tibial morphology should be considered when planning total knee or hip arthroplasty in valgus patients."
+      ]
+    },
+    {
+      "pmid": "42106084",
+      "title": "Does the Magnitude of Change in Coronal Plane Alignment of the Knee Affect Clinical Outcomes in Functional and Mechanical Alignment Total Knee Arthroplasty?",
+      "authors": [
+        "Kawaguchi K",
+        "Young SW",
+        "Tay ML",
+        "van Rooyen R",
+        "Walker ML",
+        "Farrington WJ",
+        "Bayan A"
+      ],
+      "authors_short": "Kawaguchi K, Young SW, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Changes to native coronal plane alignment of the knee (CPAK) phenotypes following total knee arthroplasty (TKA) may influence outcomes, particularly with mechanical alignment (MA). This relationship has not been evaluated with functional alignment (FA). This study compared the magnitude of coronal alignment change between MA and FA and whether this influenced patient-reported outcomes. METHODS: This substudy analyzed data from a prospective, single-center, single-blinded randomized controlled trial involving 236 patients (119 FA and 117 MA). Long-leg radiographs were used to calculate the arithmetic hip-knee-ankle angle (aHKA), joint line obliquity (JLO), and CPAK phenotype pre- and postoperatively. Alignment change was assessed using absolute differences (delta aHKA, delta JLO), and a dose-response analysis was conducted. Clinical outcomes included the Forgotten Joint Score (FJS) and Oxford Knee Score (OKS) at 1- and 2-year follow-up. RESULTS: The FA resulted in smaller changes in alignment compared to MA (delta aHKA P = 0.01; delta JLO P = 0.01) and more frequent restoration of the preoperative CPAK phenotype (42.9 versus 10.3%, P = 0.01). In the MA group, restoration of the CPAK phenotype was associated with significantly higher FJS, while no such relationship was observed in the FA group. A dose-response relationship was identified in the MA group: greater changes in JLO were negatively correlated with FJS. This correlation was not seen with FA. CONCLUSION: Functional alignment more closely preserved native coronal alignment and restored CPAK phenotypes compared to mechanical alignment. In MA cases, larger deviations from the native JLO and CPAK phenotypes were associated with poorer patient-reported outcomes. These findings suggest anticipating alignment changes may support optimal strategy selection in TKA.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42106084/",
+      "score": 82,
+      "score_reasoning": "Large prospective randomized controlled trial with 236 patients comparing functional vs mechanical alignment in TKA with direct clinical relevance to surgical decision-making and patient outcomes.",
+      "bullets": [
+        "Functional alignment preserved native knee coronal alignment better than mechanical alignment and restored original knee phenotypes in 43% versus 10% of patients.",
+        "In mechanical alignment cases, larger changes from native joint line obliquity correlated with worse Forgotten Joint Scores at 1 and 2 years.",
+        "Functional alignment patients showed no correlation between alignment changes and clinical outcomes, suggesting better tolerance of residual deformity."
+      ]
+    },
+    {
+      "pmid": "42106965",
+      "title": "Achilles tendon rupture does not significantly reduce career longevity in professional soccer players compared with matched controls.",
+      "authors": [
+        "Khan HA",
+        "Khan A",
+        "Rosenberg A",
+        "Ather A"
+      ],
+      "authors_short": "Khan HA, Khan A, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To compare the career longevity of professional soccer players after achilles tendon rupture (ATR) with that of an uninjured matched control cohort. METHODS: A retrospective analysis of ATR cases in professional male athletes from the English Premier League and English Championship was performed. Each athlete with ATR was matched to three control athletes who had not sustained ATR. The analysis included all identified ATR cases, including those who failed to return to professional competition. Statistics were compiled for each year until retirement or study end. RESULTS: A total of 36 players with ATR were matched to 108 controls. The return-to-professional play rate following ATR was 91.7%. The mean career length after ATR was 4.9\u2009\u00b1\u20093.3 years, while that of the matched control athletes was 3.4\u2009\u00b1\u20093.5 years (p\u2009=\u20090.045). After ATR, an athlete had a 33% lower risk of retirement compared with the matched control athlete, which approached statistical significance (hazard ratio [HR]\u2009=\u20090.67; 95% confidence interval [CI], 0.45-1.00; p\u2009=\u20090.051). Significant subsequent non-ATR injuries were documented in 24.1% of control athletes during the follow-up period. At 5 years after ATR, 58.3% of athletes had retired from professional soccer, while 70.4% of the matched cohort were retired (p\u2009=\u20090.259). By 10 years, 83.3% of the ATR cohort had retired compared with 91.7% of the matched cohort (p\u2009=\u20090.270). Within the ATR cohort, re-rupture occurred in seven players (19.4%) but did not significantly affect career length (HR\u2009=\u20090.80; p\u2009=\u20090.622). Age at ATR remained the strongest predictor of retirement (HR\u2009=\u20091.27 per year; p\u2009<\u20090.001). CONCLUSION: Professional male soccer players who sustained ATR demonstrated comparable career longevity to a matched player cohort, with a trend toward longer survival in those who successfully return to play. ATR did not significantly shorten professional careers in this elite population. This likely reflects the efficacy of modern rehabilitation, a potential selection effect, and the high non-ATR injury burden observed in the control group. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42106965/",
+      "score": 74,
+      "score_reasoning": "Professional athlete study with 36 players showing excellent return-to-play rates after Achilles tendon rupture, highly relevant to sports medicine and patient counseling.",
+      "bullets": [
+        "Professional soccer players with Achilles tendon rupture had similar career length to uninjured controls, with 92% returning to play and no significant reduction in career longevity.",
+        "Players who returned after Achilles rupture actually played longer than controls (4.9 vs 3.4 years), likely due to modern rehabilitation and selection effects.",
+        "Age at injury was the strongest predictor of retirement, while re-rupture occurred in 19% but did not significantly affect career length."
+      ]
+    },
+    {
+      "pmid": "42099183",
+      "title": "Medial Meniscus Posterior Root Repair in Knees With \u22655\u00b0 of Varus Alignment Is Associated With Greater Osteoarthritis Progression Compared With <5\u00b0 Varus Alignment.",
+      "authors": [
+        "Dzidzishvili L",
+        "Casanova F",
+        "L\u00f3pez-Torres II",
+        "Moews LD",
+        "Perez Lloveras GO",
+        "Thamrongskulsiri N",
+        "Allende F",
+        "Chahla J"
+      ],
+      "authors_short": "Dzidzishvili L, Casanova F, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Despite advances in medial meniscus posterior root (MMPR) repair techniques over the past decade, concerns persist about subsequent osteoarthritis (OA) progression. PURPOSE: To assess postoperative progression to OA after isolated MMPR repair in patients with normal alignment versus varus alignment. STUDY DESIGN: Case-control study; Level of evidence, 3. METHODS: A total of 128 patients who underwent isolated MMPR repair with available pre- and postoperative radiographs were included. Patients were stratified by mechanical hip-knee-ankle (HKA) angle into normal alignment (<5\u00b0; n = 83) and varus alignment (\u22655\u00b0; n = 45) groups. Radiographic assessments included HKA angle, OA grading using the Kellgren-Lawrence (KL) classification, joint space width (JSW), meniscal extrusion, and repair healing on magnetic resonance imaging (MRI). Postoperative patient-reported outcomes were assessed using the International Knee Documentation Committee (IKDC) score. Logistic regression identified independent predictors of OA progression, and Pearson correlations were used to examine relationships among patient, radiographic, and clinical variables. RESULTS: After a minimum follow-up of 2 years, OA progression occurred in 32.5% of normal alignment knees and 53.3% of varus-aligned knees (P = .02), with varus alignment associated with 2.37-fold higher odds of progression (95% CI, 1.13-4.99). The mean postoperative JSW decreased significantly in both groups (P < .001), with a greater reduction in varus knees (P < .001). Postoperative MRI revealed failed root repairs in 24.4% of normal alignment knees and 88.5% of varus knees (P < .001), and conversion to total knee arthroplasty occurred in 2.4% and 15.6% of knees, respectively (P = .005). There was no significant difference in postoperative IKDC scores between groups (P = .8). Multivariable logistic regression identified varus alignment, higher preoperative KL grade, and lack of repair healing on MRI as significant risk factors for OA progression. Correlation analysis showed strong positive associations between pre- and postoperative KL grade (r = 0.77) and moderate negative correlations between postoperative KL and JSW (r = -0.44). CONCLUSION: Varus-aligned knees showed greater OA progression, higher rates of repair failure, and increased conversion to arthroplasty, despite similar patient-reported outcomes. The multivariable logistic regression model identified varus alignment, higher preoperative KL grade, and lack of repair healing on MRI as significant risk factors for OA progression. These findings highlight the critical impact of baseline alignment and repair integrity on postoperative joint survival.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42099183/",
+      "score": 72,
+      "score_reasoning": "Large retrospective study with 128 patients demonstrating higher osteoarthritis progression in varus-aligned knees after meniscus root repair, important for surgical decision-making in sports medicine.",
+      "bullets": [
+        "Medial meniscus posterior root repairs in patients with 5 degrees or more varus alignment have twice the risk of osteoarthritis progression compared to those with normal alignment.",
+        "Repair failure occurs in 88% of varus-aligned knees versus 24% in normally aligned knees, with varus patients having six times higher conversion to total knee arthroplasty.",
+        "Patient-reported outcomes remain similar between groups despite worse structural outcomes, suggesting symptoms may not reflect joint preservation after root repair in varus knees."
+      ]
+    },
+    {
+      "pmid": "42097864",
+      "title": "Clinical Outcomes of Custom 3D-Printed Porous Metallic Implants for Reconstruction of Critical-Sized Bone Defects in the Ankle.",
+      "authors": [
+        "Anastasio AT",
+        "Parsons KE",
+        "Shenoy DA",
+        "LoPolito AG",
+        "O'Neill CN",
+        "Adams SB"
+      ],
+      "authors_short": "Anastasio AT, Parsons KE, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Critical-sized defects (CSDs) of bone in the foot and ankle pose substantial surgical challenges because of high complication and failure rates. Three-dimensional (3D)-printed porous metallic implants (custom cages) have emerged as a potential alternative to traditional reconstruction techniques, offering theoretical advantages in stability and integration. However, current literature is limited by small sample sizes and short follow-up. This study reports the largest single-surgeon cohort to date, evaluating outcomes and complications of custom cage arthrodesis. METHODS: A retrospective cohort study was performed on patients who underwent custom cage implant ankle arthrodesis. The primary outcome was reoperation for any reason. Demographic and perioperative data were extracted for each patient. Univariable and multivariable linear regression analyses were used to assess associations between reoperation and factors including body mass index (BMI), comorbidities, surgical history, and defect size. RESULTS: Fifty-three patients were included in this study over a median follow-up of 620\u2009days. At last follow-up, 83% of implants remained in situ and the nonunion rate was 15% at 1\u2009year. Within the overall cohort, 19 patients (36%) required at least 1 reoperation. Of these 19 patients, 8 (42%) developed deep postoperative infection and 5 (26%) ultimately required below-knee amputation. Within the multivariable regression, prior ipsilateral limb infection (OR\u2009=\u200914.9, P\u2009=\u2009.01) was significantly associated with reoperation. CONCLUSION: Custom cage ankle arthrodesis in this study achieved a relatively high overall fusion rate but was associated with a high complication rate. Deep postoperative infection was a major barrier to a successful outcome. As the use of custom cage arthrodesis increases, evaluation of outcomes and comparison to conventional treatments will be essential to advance CSD treatment in foot and ankle surgery.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42097864/",
+      "score": 68,
+      "score_reasoning": "Large single-center study with 53 patients evaluating custom 3D-printed ankle implants for critical bone defects, addressing challenging reconstruction problems.",
+      "bullets": [
+        "Custom 3D-printed porous metallic implants for ankle arthrodesis achieved 85% fusion rate but 36% of patients needed reoperation within 2 years.",
+        "Deep infection occurred in 15% of patients and led to below-knee amputation in 9% of the total cohort.",
+        "Prior infection in the same limb increases reoperation risk 15-fold, making patient selection critical for these implants."
+      ]
+    },
+    {
+      "pmid": "42099101",
+      "title": "Surgical Management of SLAP Lesions in Baseball Throwers: Posterosuperior and Posterior Labral Debridement With or Without Anterosuperior Repair Yields High Return to Play Rates.",
+      "authors": [
+        "Kin Y",
+        "Sugaya H",
+        "Onishi K",
+        "Takahashi N",
+        "Tokai M",
+        "Ueki H",
+        "Komatsu T",
+        "Inoue T",
+        "Katsumata M",
+        "Tanaka S"
+      ],
+      "authors_short": "Kin Y, Sugaya H, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Reported rates of return to the preinjury level of play (RTPL) after superior labrum anterior and posterior (SLAP) repair in overhead athletes are relatively low (22%-64%). Current fixation techniques that rigidly fix the posterosuperior labrum may lead to overconstraint and persistent pain. PURPOSE/HYPOTHESIS: The purpose of this study was to retrospectively evaluate the clinical outcomes and RTPL rates of our surgical strategy in competitive baseball throwers with SLAP lesions. This strategy includes debridement of the posterosuperior labrum without fixation, with selective anterosuperior fixation when anterior extension and instability of the labral detachment are present. The authors hypothesized that posterosuperior and posterior debridement with or without anterosuperior repair would yield high return to play rates in baseball throwers with SLAP lesions. STUDY DESIGN: Case series; Level of evidence, 4. METHODS: A total of 80 shoulders in 80 baseball players (mean age, 20 years [range, 15-38 years]) underwent arthroscopic surgery for SLAP lesions (Type II or Type VIII with posterior extension). The cohort included 16 professional, 31 collegiate, 23 high school, and 10 recreational players. Based on intraoperative findings, isolated debridement of the posterosuperior and/or posterior labrum was performed for stable lesions, defined as posterosuperior detachment without gross instability or lift-off of the superior labrum (n = 33), while anterosuperior repair, defined as suture anchor fixation of the unstable anterior labrum, was added only if the detachment extended anteriorly and demonstrated instability of the labrum in this region (n = 47). The primary outcome was the RTPL rate, defined as return to the preinjury level of play. Secondary outcomes included the time to RTPL and subgroup comparisons according to procedure, player position, and competition level. RESULTS: Of the 80 players, 79 (99%) returned to competitive baseball play; 1 player failed to return secondary to persistent shoulder pain. Overall RTPL was 79% (63/80). The RTPL rate was 73% (24/33) in the debridement-alone group and 83% (39/47) in the anterosuperior repair group (P = .27). Pitchers achieved an RTPL rate of 81% (38/47), and professional players achieved an RTPL rate of 75% (12/16). The mean time to RTPL was 9 months overall. There were no significant differences in RTPL rates or time to return between procedure types, player position, or competition level. CONCLUSION: This surgical strategy involving debridement of the posterosuperior labrum yielded high RTPL rates regardless of whether anterosuperior repair was performed. Avoiding rigid fixation of the posterosuperior labrum may be a key to successful outcomes in competitive throwing athletes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42099101/",
+      "score": 58,
+      "score_reasoning": "Case series study with 80 baseball players showing high return-to-play rates with modified SLAP repair technique, relevant to sports medicine surgeons.",
+      "bullets": [
+        "Debridement of posterosuperior SLAP tears with selective anterosuperior repair achieved 79% return to preinjury play rates in 80 competitive baseball players.",
+        "Avoiding rigid fixation of the posterosuperior labrum while selectively repairing only unstable anterior extensions may prevent overconstraint and improve outcomes.",
+        "Both pitchers and professional players returned to their preinjury level at similar rates (81% and 75% respectively) with mean return time of 9 months."
+      ]
+    },
+    {
+      "pmid": "42085536",
+      "title": "The Prevalence of Pediatric Septic Arthritis of the Hip with Concomitant Osteomyelitis: A Retrospective Study of 58 Consecutive Cases Investigated Using MRI.",
+      "authors": [
+        "Khan AA",
+        "Paris E",
+        "Sbampato V",
+        "De Marco G",
+        "Tabard-Foug\u00e8re A",
+        "Vazquez O",
+        "Steiger C",
+        "Dayer R",
+        "Ceroni D"
+      ],
+      "authors_short": "Khan AA, Paris E, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: This observational study systematically used magnetic resonance imaging (MRI) to determine the prevalence of concomitant osteomyelitis and its influence on clinical outcomes in cases of pediatric septic arthritis (SA) of the hip. METHODS: We retrospectively analyzed the demographic, clinical, microbiological, and radiographic data of 58 children treated for SA of the hip who underwent systematic MRI between 2000 and 2025. Patients were categorized into 2 groups: isolated septic arthritis and septic arthritis with concomitant osteomyelitis. The clinical and laboratory parameters, causative pathogens, and treatments were compared between the groups. RESULTS: Concomitant osteomyelitis was identified with MRI in 43% (25) of the 58 patients, while radiographs detected it in only 16%. Demographic, clinical, and inflammatory parameters were statistically similar between the groups. Kingella kingae was the most commonly identified pathogen (37.9%), and Staphylococcus aureus and Streptococcus spp. were more frequently associated with repeat surgery. No significant differences in complication rates, treatment duration, or outcomes were found between the groups. CONCLUSIONS: The systematic use of MRI revealed concomitant osteomyelitis in >40% of cases of pediatric SA. However, the presence of osteomyelitis was not associated with worse outcomes, suggesting that factors related to the microorganism profile or virulence must contribute substantially to disease severity. Nonetheless, MRI should be considered early in any diagnostic work-up of pediatric SA of the hip. LEVEL OF EVIDENCE: Diagnostic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42085536/",
+      "score": 54,
+      "score_reasoning": "Retrospective study with 58 pediatric patients showing high prevalence of concomitant osteomyelitis in septic arthritis using MRI, relevant to pediatric orthopedics.",
+      "bullets": [
+        "MRI detected concomitant osteomyelitis in 43% of pediatric hip septic arthritis cases compared to only 16% detected by radiographs.",
+        "Kingella kingae was the most common pathogen overall, while Staphylococcus aureus and Streptococcus species were associated with higher rates of repeat surgery.",
+        "Presence of concomitant osteomyelitis did not worsen clinical outcomes, complication rates, or treatment duration in pediatric hip septic arthritis."
+      ]
+    },
+    {
+      "pmid": "42106963",
+      "title": "European orthopaedic and traumatology residency is predominantly integrated, with substantial variability in competency-based models and duty hours: A survey of 33 countries.",
+      "authors": [
+        "Ostojic M",
+        "Lettner J",
+        "Hakam HT",
+        "Karakas T",
+        "Cukelj F",
+        "Mercurio M",
+        "Megaloikonomos P",
+        "Cizmic A",
+        "Madanat R",
+        "Ramadanov N",
+        "Salzmann M",
+        "Selmani E",
+        "Chiari C",
+        "Overschelde PV",
+        "Lambrechts J",
+        "Biscevic M",
+        "Kinov P",
+        "Smoljanovic T",
+        "Plecko M",
+        "Tanos A",
+        "Havlas V",
+        "Viberg B",
+        "Rips L",
+        "Lund T",
+        "Akos Z",
+        "Ezechieli M",
+        "Karachalios T",
+        "Harty J",
+        "Risitano S",
+        "Bytiqi C",
+        "Seil R",
+        "Bulatovic N",
+        "Nelissen R",
+        "Boe B",
+        "Piontek T",
+        "Mineiro J",
+        "Ene R",
+        "Stevanovic V",
+        "Mavcic B",
+        "Blanquet JL",
+        "Eriksson K",
+        "Hirschmann MT",
+        "Karahan M",
+        "Bondarenko S",
+        "Prill R",
+        "Indelli PF",
+        "Jelic M",
+        "Allington N",
+        "Sheth N",
+        "Limb D",
+        "Becker R",
+        "Ruggieri P"
+      ],
+      "authors_short": "Ostojic M, Lettner J, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: The aim of this study was to describe and compare the structure and organization of orthopaedic and traumatology residency training across European countries. METHODS: A descriptive, cross-sectional survey (31 items) of national teaching experts across Europe (\u226510 years of experience in training residents) focused on: specialty integration, training model (time-based/competency-based/hybrid), program duration and duty hours was conducted from October 2023 to February 2025. Standardized extraction by three blinded reviewers was done and the answers were transformed into a consensus dataset. RESULTS: Responses were obtained from 33/40 countries (82.5%). In 31/33 countries (94%), orthopaedic surgery and musculoskeletal traumatology form a unified specialty. Only 9/33 (27%) countries delineate fixed elective-orthopaedics versus trauma blocks during the course of the residency. Training models were predominantly hybrid-having both features of competency and time-based learning criteria (26/33; 78%), with 7/33 (21%) time-based and none fully competency-based. Program length was mostly 5 years (16/33; 48%) or 6 years (11/33; 33%) long. Extremes ranged from 2 to 8 years. Average weekly hours varied from 37 to 70+, with nearly half of countries reporting practice that exceeds the European Working Time Directive 48-h limit via legal exceptions or weak enforcement by hospital. Flexible (less than full time training) pathways exist in 19 (58%) countries (unrestricted in 8; restricted in 11), but remain unavailable in 14 (42%). CONCLUSIONS: European orthopaedic and trauma training programs show great similarity in terms of training duration and being a unified specialty. However, there still is a relevant difference in training models, duty hours and flexibility of prolonged training duration. There is a clear movement toward competency-based training in most of the European countries. LEVEL OF EVIDENCE: Level IV.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42106963/",
+      "score": 48,
+      "score_reasoning": "Survey study with 33 European countries describing orthopedic training variability, relevant to education but limited direct clinical applicability.",
+      "bullets": [
+        "Most European countries (94%) train orthopaedic surgery and trauma as one unified specialty rather than separate disciplines.",
+        "Training programs are typically 5-6 years long with hybrid competency and time-based models, though weekly hours vary widely from 37 to over 70.",
+        "Nearly half of European programs exceed the 48-hour weekly limit through legal exceptions, while 58% offer flexible part-time training options."
+      ]
+    },
+    {
+      "pmid": "42095646",
+      "title": "Bone Loss Progression in Two-stage Revision Total Knee Arthroplasty: The Potential Role of Reimplantation Timing in Prosthetic Joint Infection Management.",
+      "authors": [
+        "Najafi F",
+        "Hahn AK",
+        "Sherman M",
+        "Stein JM",
+        "Parvizi J",
+        "Grosso MJ"
+      ],
+      "authors_short": "Najafi F, Hahn AK, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Periprosthetic joint infection (PJI) after total knee arthroplasty (TKA) and its management with two-stage exchange arthroplasty can lead to notable femoral and tibial bone loss, further complicating subsequent reconstruction. This study aims to characterize the extent of bone loss in two-stage TKA revision for infection and assess the effect of reimplantation timing on bone loss progression. METHODS: We conducted a retrospective cohort study of patients who underwent a two-stage TKA revision for PJI between 2007 and 2022. The primary outcome was the degree of bone loss between the index and reimplantation procedures, and whether it was influenced by the rate of timing of reimplantation. Patients undergoing single-stage revisions were excluded. A total of 160 patients met the inclusion criteria. Bone loss was characterized using the Anderson Orthopaedic Research Institute (AORI) classification (1/2A/2B/3) before the index procedure and after reimplantation, with progression defined as an increase in AORI classification. RESULTS: Among the 160 patients, 100 (62.5%) experienced bone loss progression. This included 19 patients (11.9%) with a progression score of 1, 75 patients (46.9%) with a progression score of 2, and six patients (3.75%) with a progression score of 3. A higher AORI score at the index procedure showed a statistically significant association with bone loss progression (P < 0.001). Time to reimplantation was statistically significant (P = 0.034), with patients progressing from AORI 1 to AORI 3 experiencing the longest reimplantation interval (mean: 147 days). No notable differences were observed in revision surgery rates, time to revision surgery, infection eradication rates, or baseline medical comorbidities across progression groups. CONCLUSION: This study demonstrates that two-stage revision TKA for PJI is associated with a notable degree of bone loss, particularly in cases of delayed reimplantation. These findings emphasize the importance of timely reimplantation, or other strategies, to mitigate bone loss and surgical complexity.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42095646/",
+      "score": 45,
+      "score_reasoning": "Comprehensive review article on sternoclavicular joint injury management providing updated treatment algorithms, useful reference but not original research.",
+      "bullets": [
+        "Two-stage revision for infected knee replacements causes bone loss progression in 63% of patients, with higher baseline bone loss increasing risk of further deterioration.",
+        "Longer intervals between explantation and reimplantation increase bone loss, with patients progressing from minimal to severe loss averaging 147 days between stages.",
+        "Earlier reimplantation may preserve bone stock and reduce surgical complexity in two-stage infection treatment without affecting infection clearance rates."
+      ]
+    },
+    {
+      "pmid": "42102859",
+      "title": "Can Personalized 3D Kinematic Modeling Predict Loss of Pronation and Supination in Diaphyseal Forearm Malunions? A Clinical Validation Study.",
+      "authors": [
+        "van Loon DFR",
+        "van Es EM",
+        "Siemensma MF",
+        "Eygendaal D",
+        "Stockmans F",
+        "Veeger DHEJ",
+        "Colaris JW"
+      ],
+      "authors_short": "van Loon DFR, van Es EM, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Despite the clinical relevance of forearm fractures and malunions and the impact of a functional limitation, the link between forearm malalignment and limited pronation and supination remains poorly understood and still relies on anatomical alignment expressed as angulation. Using recently developed technologies, mechanisms that limit function can be automatically detected by modeling individual forearm kinematics using three-dimensional (3D) bone models of the radius and ulna. QUESTIONS/PURPOSES: We evaluated the accuracy of a personalized 3D kinematic model to identify limitations in forearm rotation in pronation and supination and to answer the following questions: (1) How accurately does the model-predicted ROM agree with the corresponding clinical measurements? (2) How accurately does the model classify malunited forearms according to the presence of clinically relevant functional limitations, defined as a range of pronation or supination less than 50\u00b0? (3) What is the frequency at which the model detects bone impingement and central band block during pronation and supination? METHODS: This retrospective study evaluated a diagnostic model using the preoperative CT scans of 45 patients with unilateral diaphyseal forearm malunions, all of whom underwent corrective osteotomy due to a clinically relevant limitation in pronation or supination function. In all, 53% (24) of patients were male; the mean \u00b1 SD age at the time of the CT scan was 16 \u00b1 6 years, and the mean time since the original trauma was 6 \u00b1 5 years. Twenty patients had a clinically relevant loss of pronation, 15 patients had a loss of supination, and 10 patients had a loss of both. We generated 3D bone models with landmarks to simulate forearm rotation in 5\u00b0 steps from 100\u00b0 of pronation to 100\u00b0 of supination. Two mechanisms that limit function after diaphyseal malunions-bone impingement and central band blockage-were identified in the simulation, resulting in a predicted ROM. For the first study question, differences between clinical and predicted function were expressed as mean absolute error, root mean square error, and mean error to illustrate typical error size, penalize outliers, and quantify the direction of error deviation, respectively. Acceptable errors were around 15\u00b0, comparable to the range seen in clinical measurements. For question two, clinical measurements and predictions were dichotomized based on a threshold of 50\u00b0. Accuracy, sensitivity, specificity, positive and negative predictive values, and the area under the receiver operating characteristic (ROC) curve for detecting clinically relevant limitations were calculated separately for pronation and supination. Acceptable diagnostic values should be above 60%, which is normal for angulation measurements. For question three, the blocking mechanisms detected during the simulation were counted. RESULTS: Mean absolute errors between prediction and clinical measurement for pronation, supination, and ROM were 19\u00b0, 23\u00b0, and 22\u00b0, respectively. Root mean square errors were 22\u00b0 for pronation, 28\u00b0 for supination, and 28\u00b0 for ROM. Mean errors were 3\u00b0 for pronation, 1\u00b0 for supination, and 5\u00b0 for ROM. Errors were substantially higher than the clinical measurement uncertainty, with some outliers. Accuracy for finding a relevant pronation or supination limitation was 91% and 82%, respectively. Diagnostic values for detecting pronation limitations were 91% for accuracy, 87% for sensitivity, 100% for specificity, 79% for negative predictive value, and 100% for positive predictive value. For supination, the values were 82% for accuracy, 84% for sensitivity, 80% for specificity, 80% for negative predictive value, and 84% for positive predictive value. Area under the curve values were 0.97 (95% confidence interval [CI] 0.93 to 1) for detecting pronation limitations and 0.93 (95% CI 0.87 to 1) for supination limitations. These values are higher than those reported by studies using angulation thresholds. Bone impingement was mainly seen during pronation, and a central band block was the most common reason for a supination limitation. CONCLUSION: Individualized kinematic modeling of forearm malunions reliably detects clinically relevant limitations of forearm rotation without requiring dynamic imaging. Because of simplifications on the exact location and status of the central band and the neutral position of the forearm, exact ROM prediction is not possible. CLINICAL RELEVANCE: This study represents an important step toward functional rather than anatomical evaluation of forearm anatomy and correction of malunited forearm fractures. The next step would be to use the model in preoperative planning optimization, focusing on functional outcomes rather than purely anatomical correction. Given the model's high diagnostic accuracy, personalized 3D kinematic modeling has potential as a decision tool for determining whether a forearm fracture should undergo operative treatment or whether it can be managed nonoperatively. However, challenges regarding fracture remodeling and stability in a cast, along with low-dose 3D imaging, must be addressed.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42102859/",
+      "score": 44,
+      "score_reasoning": "Cadaveric study with 12 specimens quantifying elbow stability after ligament transection, relevant to trauma surgery but limited clinical validation.",
+      "bullets": [
+        "3D kinematic modeling of malunited forearm fractures accurately identifies clinically relevant rotation limitations with 91% accuracy for pronation and 82% for supination deficits.",
+        "The model predicts range of motion within 19-23 degrees of clinical measurements in patients with diaphyseal forearm malunions requiring corrective osteotomy.",
+        "Bone impingement primarily causes pronation loss while central band blockage is the main mechanism limiting supination in forearm malunions."
+      ]
+    }
+  ],
+  "picks": [
+    3
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-05-11T05:38:57.388984-07:00"
+}
