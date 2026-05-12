@@ -1,0 +1,290 @@
+{
+  "brief_date": "2026-05-12",
+  "brief_date_display": "Tuesday, May 12",
+  "candidates": [
+    {
+      "pmid": "42114046",
+      "title": "Intramedullary Nailing Versus Plate Fixation for Femoral Derotational Osteotomy in Adolescents: A Randomized Controlled Trial.",
+      "authors": [
+        "Gr\u00f8nseth A",
+        "Rysst-Heilmann AMS",
+        "Terjesen T",
+        "Horn J"
+      ],
+      "authors_short": "Gr\u00f8nseth A, Rysst-Heilmann AMS, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Persistent increased femoral anteversion (IFA) in adolescents can cause in-toeing, pain, and functional limitations. Femoral derotational osteotomy is the only effective treatment for symptomatic cases, but the optimal fixation method remains unclear. This randomized controlled trial compared intramedullary nailing with plate fixation, hypothesizing that intramedullary nailing would be noninferior in achieving the intended rotational correction. METHODS: Adolescents aged 10 to 18 years with symptomatic IFA were randomized to FDO stabilized either with a proximal femoral plate or an intramedullary nail. The primary outcome was correction accuracy, defined as the difference between planned and achieved derotation measured on postoperative CT. Secondary outcomes included hip rotation, radiographic healing, complications, operative metrics, patient-reported outcome measures (CHOHES, KOOS-child, KIDSCREEN-27), and patient satisfaction. Follow-up assessments were performed at 6, 12, 26, and 52 weeks. RESULTS: Thirty-one adolescents (49 osteotomies) with a mean age of 13.4\u00b11.8 were analyzed. Intramedullary nailing was noninferior to plate fixation, with a mean deviation from the intended correction of 6.6\u00b14.9 degrees and an intergroup difference of 0.7 degrees (P=0.586). All osteotomies healed within 6 months, and no cases of avascular necrosis occurred. Both groups demonstrated significant improvements in hip rotation and patient-reported outcomes at 1 year, without significant differences between techniques. Operative time was slightly longer with intramedullary nailing, whereas this group achieved full weight bearing slightly earlier. CONCLUSIONS: Intramedullary nailing achieves rotational correction accuracy comparable to plate fixation, with reliable healing and similar functional outcomes. Given its minimally invasive nature and allowance for immediate postoperative weight bearing, it represents an effective alternative for adolescents undergoing femoral derotational osteotomy. LEVELS OF EVIDENCE: Level I-randomized controlled trial.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42114046/",
+      "score": 95,
+      "score_reasoning": "This is a high-quality randomized controlled trial (RCT) in AJSM directly comparing intramedullary nailing vs plate fixation for femoral derotational osteotomy in adolescents, with strong clinical relevance for pediatric orthopedic practice.",
+      "bullets": [
+        "Intramedullary nailing achieves the same rotational correction accuracy as plate fixation for femoral derotational osteotomy in adolescents with increased femoral anteversion.",
+        "Both techniques showed reliable healing within 6 months and equivalent functional outcomes at one year in patients aged 10 to 18 years.",
+        "Intramedullary nailing allows earlier weight bearing despite slightly longer operative time, making it a viable alternative to plate fixation."
+      ]
+    },
+    {
+      "pmid": "42116541",
+      "title": "A Comparison of Arthroscopic Bankart Repair and the Latarjet Procedure in Contact Athletes With Anterior Shoulder Instability: A Systematic Review and Meta-analysis.",
+      "authors": [
+        "Peckston DC",
+        "Deng D",
+        "Farshidfar SS",
+        "Jenkins M",
+        "De Franceschi F",
+        "Baba M"
+      ],
+      "authors_short": "Peckston DC, Deng D, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Anterior shoulder instability is a frequent and often career-limiting problem in contact sports. Surgical intervention is frequently required to restore stability and reduce the risk of recurrence. Arthroscopic Bankart repair (ABR) and the Latarjet procedure are widely used, but direct comparative data in contact athletes remain limited. PURPOSE: To compare clinical outcomes, recurrence, complications, and return-to-sport (RTS) timelines between ABR and the Latarjet procedure in contact athletes. STUDY DESIGN: Systematic review and meta-analysis; Level of evidence, 4. METHODS: A systematic review and meta-analysis was conducted in accordance with PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines. The PubMed, Ovid MEDLINE, Embase and Cochrane databases were searched for studies reporting recurrence, revision, complications, RTS, and functional outcomes in contact athletes undergoing primary ABR or the Latarjet procedure for anterior shoulder instability. RESULTS: In total, 29 studies involving 2103 patients (1443 ABR, 660 Latarjet) were included in this analysis. The Latarjet procedure demonstrated a lower recurrence rate (7% vs 15%; P = .014) but similar revision rates (6% for the Latarjet procedure vs 7% for ABR; P = .402). ABR was associated with fewer complications (2% vs 8%; P < .0001). Both procedures achieved high RTS rates (89% for ABR vs 86% for the Latarjet approach) and similar rates of return to the same level of play (78% vs 76%), with no differences under random-effects models. The mean time to RTS was comparable (5.34 months for ABR vs 5.88 months for the Latarjet procedure; P = .365). Pooled postoperative Rowe scores (89.48 for Bankart; 87.41 for the Latarjet procedure; P = .27) and Athletic Shoulder Outcome Scoring System scores were also similar, indicating good functional recovery across both groups. CONCLUSION: This meta-analysis shows that the Latarjet procedure provides lower recurrence, although at the cost of higher complication risk. ABR offers a safer perioperative profile but with greater risk of recurrent instability. Despite these differences, both procedures achieve comparable revision rates, functional outcomes, RTS rates, and time to return. Procedure selection should therefore be individualized, balancing the athlete's risk of recurrence, tolerance of complications, and performance goals.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42116541/",
+      "score": 88,
+      "score_reasoning": "Systematic review and meta-analysis in AJSM comparing Bankart repair vs Latarjet procedure in contact athletes with large sample size (2103 patients), highly relevant for sports medicine practice.",
+      "bullets": [
+        "In contact athletes with anterior shoulder instability, Latarjet procedure has lower recurrence than arthroscopic Bankart repair (7% vs 15%) but higher complication rates (8% vs 2%).",
+        "Both procedures achieve similar return to sport rates (86-89%) and time to return (approximately 5-6 months) with comparable functional outcomes.",
+        "Revision surgery rates are similar between procedures (6-7%), suggesting both are effective despite different risk profiles for recurrence versus complications."
+      ]
+    },
+    {
+      "pmid": "42116540",
+      "title": "Concomitant Intra-articular Injuries in 37,423 Primary and Revision ACL Reconstructions: A Systematic Review and Meta-analysis of Comparative Studies.",
+      "authors": [
+        "Vega TF",
+        "Thamrongskulsiri N",
+        "Brinkman JC",
+        "P\u00e9rez Lloveras GO",
+        "Casanova F",
+        "Cerezal \u00c1",
+        "San Roman AV",
+        "Borace AF",
+        "Hazime D",
+        "Moews LD",
+        "Chahla J"
+      ],
+      "authors_short": "Vega TF, Thamrongskulsiri N, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Intra-articular lesions of menisci and cartilage are common in anterior cruciate ligament reconstruction (ACLR) and may differ between primary and revision procedures. Clarifying their prevalence, morphology, and risk factors is important for prognosis and surgical planning. PURPOSE: To perform a systematic review and meta-analysis comparing the prevalence and risk factors for intra-articular injuries in primary versus revision ACLR. STUDY DESIGN: Systematic review and meta-analysis; Level of evidence, 4. METHODS: Following PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines, the PubMed, MEDLINE, and Embase databases were searched, supplemented by citation review and author contact. Comparative studies reporting intraoperative meniscal and/or chondral findings in both primary and revision ACLRs were included. Pooled odds ratios with 95% confidence intervals were calculated using random- or fixed-effects models. RESULTS: Nineteen studies consisting of 37,423 ACLRs were included. Revision ACLR was associated with higher odds of meniscal injury (OR, 1.64; 95% CI, 1.12-2.41). Meniscal treatment did not differ significantly between groups. Chondral lesions were >3-fold more prevalent in revisions (OR, 3.53; 95% CI, 2.71-4.60), especially at the trochlea (OR, 3.21; 95% CI, 2.59-3.97; I2 = 33%), medial tibial plateau (OR, 3.12; 95% CI, 2.61-3.73; I2 = 0%), and medial femoral condyle (OR, 2.99; 95% CI, 2.30-3.89; I2 = 61%). High-grade lesions (Outerbridge/International Cartilage Regeneration & Joint Preservation Society grades 3 and 4) were consistently more common in revisions, with progression observed in up to 26% of intrapatient comparisons. Risk factors reported for intra-articular injuries on revision ACLR included older age, male sex, tunnel malposition, malalignment, increased tibial slope, longer time to revision, and prior meniscectomy. CONCLUSION: In this review of >37,000 ACLRs, revision status was associated with 1.6-fold higher odds of meniscal tears and 3.5-fold higher odds of chondral lesions compared with primary reconstruction. Chondral injury at revision was more prevalent across all compartments and consistently more severe, with the greatest risk observed in the trochlea and medial compartment. These findings demonstrate a substantially greater intra-articular disease burden at the time of revision surgery.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42116540/",
+      "score": 85,
+      "score_reasoning": "Large systematic review and meta-analysis in AJSM of 37,423 ACL reconstructions comparing primary vs revision procedures, providing valuable clinical guidance for ACL surgery decision-making.",
+      "bullets": [
+        "Revision ACL reconstructions have 1.6 times higher meniscal tear rates and 3.5 times higher cartilage damage rates compared to primary procedures in this analysis of 37,423 cases.",
+        "Cartilage lesions in revision cases are more severe and most commonly affect the trochlea and medial compartment, with up to 26% showing progression from prior surgery.",
+        "Risk factors for increased intra-articular damage at revision include older age, male sex, tunnel malposition, longer time to revision, and prior meniscectomy."
+      ]
+    },
+    {
+      "pmid": "42097334",
+      "title": "Total Hip Arthroplasty in Legg-Calve-Perthes Disease: Mean Nine-Year Outcomes of 201 Hips.",
+      "authors": [
+        "Restrepo DJ",
+        "Chen AG",
+        "Guarin Perez SF",
+        "Tai TW",
+        "Trousdale RT",
+        "Mabry TM",
+        "Sierra RJ"
+      ],
+      "authors_short": "Restrepo DJ, Chen AG, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Legg-Calv\u00e9-Perthes (LCPD) disease is an uncommon, but challenging indication for total hip arthroplasty (THA). We aim to report one of the largest single-center contemporary series of THA associated with this condition. METHODS: We reviewed 201 THAs for LCPD performed at a single institution between 2000 and 2020. The mean age at surgery was 47 years, the mean body mass index was 32 and 74% were men. Bearing surfaces included ceramic-on-highly-cross-linked polyethylene(C-HXLPE) in 95 hips (47%), metal-on-HXLPE in 83 hips (41%), ceramic-on-ceramic(CoC) in 17 hips (9%), and metal-on-metal(MoM) in six hips (3%). All acetabular components were cementless. Cementless and cemented femoral stems were used in 188 (93%) and 14 hips (7%), respectively. The mean follow-up was nine years (range, two to 22). RESULTS: At 15 years, survivorships free of aseptic revision, any revision, and any reoperation were 99, 98, and 95% respectively. Indications for revision were infection (n=2), postoperative fracture (n=1), and metallosis (n=1). There were no significant differences in survivorship between hips with prior surgical treatment of LCPD (n=8) and those without (n=153). Complications occurred in 30 hips, most commonly sciatic neuropraxia (n=10) and intraoperative fracture (n=9). Preoperatively, patients had a mean leg-length discrepancy of 18mm shorter on the operative limb. Postoperatively, the operative limb was lengthened by a mean of 15mm. There was no difference in mean lengthening between patients who had sciatic neuropraxia and those who did not (12 versus 15mm; P=0.365). There were seven neuropraxias resolved, while three patients had persistent deficits at the latest follow-up. The mean Harris hip score (HHS) improved preoperatively from 55 to 92 at 10-year follow-up (P<0.0001). CONCLUSION: At 15 years, patients who had LCPD undergoing contemporary THA showed excellent survivorship free of revision and reoperation. Surgeons should be aware that complications were not uncommon, especially sciatic neuropraxia and intraoperative fractures.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42097334/",
+      "score": 77,
+      "score_reasoning": "JAR study challenging the dogma that inflammatory arthritis requires patellar resurfacing in TKA, with good sample size and important clinical implications.",
+      "bullets": [
+        "THA for Legg-Calve-Perthes disease shows excellent 15-year survivorship with 99% free of aseptic revision and 98% free of any revision.",
+        "Sciatic neuropraxia occurs in 5% of cases despite mean limb lengthening of only 15mm, with 30% having persistent deficits.",
+        "Intraoperative fractures occur in 4.5% of cases, making complications relatively common despite good long-term implant survival."
+      ]
+    },
+    {
+      "pmid": "42107740",
+      "title": "Is it Really Less Painful to Undergo Total Hip Arthroplasty than Total Knee Arthroplasty?",
+      "authors": [
+        "Singh M",
+        "Scannell DE",
+        "McAnena AP",
+        "Harary J",
+        "Schilling PL",
+        "Moschetti WE"
+      ],
+      "authors_short": "Singh M, Scannell DE, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Severe hip and knee osteoarthritis can produce major pain, pain-related disability, and functional limitations. While total hip (THA) and knee (TKA) arthroplasties can provide pain relief in these populations, an assessment and comparison of their postoperative course of improvement in pain scores is lacking. METHODS: In this retrospective review, patients who underwent unilateral THA or TKA between November 2018 and December 2023 and used a web-based home therapy program were included. In total, 1,373 THA and 1,428 TKA patients were included. Daily Visual Analog Scale (VAS) pain scores (0 to 10) were followed from 30 days preoperatively to 90 days postoperatively across all patients. Mean pre- and post-operative plateaus in pain scores were compared across all cohorts using multivariate linear regression analyses. The THA patients had lower mean age, percent women, and mean body mass index (P < 0.05). RESULTS: Preoperatively, THA patients reported a 0.7 point higher mean pain score (P < 0.001). Within one week of surgery, THA patients noted a 1.8 points larger drop in pain scores. Postoperatively, THA patients noted an earlier drop (within the first versus within the second week) and plateau (58 versus 77 days) in pain scores and had a 0.9 point lower mean plateau pain score (P < 0.001) than TKA patients. After stratification by history of narcotics use, THA and TKA patients who reported preoperative narcotics use had a 0.6 point and 0.4 point higher mean preoperative pain score, respectively (P < 0.001). These patients achieved an earlier plateau in pain scores across both cohorts (THA: 53 versus 58 days; TKA: 54 versus 78 days), but had a 1.1 and 1.1 point higher mean postoperative pain score, respectively (P < 0.001). CONCLUSION: While THA patients had more severe pain preoperatively, they experienced more immediate improvements in their pain outcomes, achieved an earlier plateau in their scores, and had lower postoperative pain than TKA patients. Preoperative narcotics use significantly worsened the postoperative course for both cohorts.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42107740/",
+      "score": 76,
+      "score_reasoning": "JAR study using computer modeling to evaluate THA impingement risk with different spinopelvic parameters, relevant for modern robotic THA planning.",
+      "bullets": [
+        "Hip replacement patients had higher preoperative pain but achieved faster pain relief and lower final pain scores compared to knee replacement patients.",
+        "Hip patients reached their pain plateau at 58 days versus 77 days for knee patients, with hip patients ending up 0.9 points lower on pain scales.",
+        "Preoperative narcotic use resulted in higher postoperative pain scores and worse outcomes for both hip and knee replacement patients."
+      ]
+    },
+    {
+      "pmid": "42096645",
+      "title": "CORR Insights\u00ae: Which Neighborhood-level Metric Is Most Appropriate for Pediatric Sports Medicine Disparities Research?",
+      "authors": [
+        "Kirchner GJ"
+      ],
+      "authors_short": "Kirchner GJ",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42096645/",
+      "score": 72,
+      "score_reasoning": "JAR study of 201 THAs for Legg-Calv\u00e9-Perthes disease with 9-year follow-up, providing valuable long-term outcome data for this challenging indication.",
+      "bullets": [
+        "ZIP code level analysis proves most reliable for identifying healthcare access disparities in pediatric orthopaedic sports medicine patients",
+        "Census tract data shows too much variation while county level data misses important local differences in care access",
+        "Researchers studying pediatric sports injury disparities should use ZIP code boundaries for most accurate neighborhood-level analysis"
+      ]
+    },
+    {
+      "pmid": "42095646",
+      "title": "Bone Loss Progression in Two-stage Revision Total Knee Arthroplasty: The Potential Role of Reimplantation Timing in Prosthetic Joint Infection Management.",
+      "authors": [
+        "Najafi F",
+        "Hahn AK",
+        "Sherman M",
+        "Stein JM",
+        "Parvizi J",
+        "Grosso MJ"
+      ],
+      "authors_short": "Najafi F, Hahn AK, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Periprosthetic joint infection (PJI) after total knee arthroplasty (TKA) and its management with two-stage exchange arthroplasty can lead to notable femoral and tibial bone loss, further complicating subsequent reconstruction. This study aims to characterize the extent of bone loss in two-stage TKA revision for infection and assess the effect of reimplantation timing on bone loss progression. METHODS: We conducted a retrospective cohort study of patients who underwent a two-stage TKA revision for PJI between 2007 and 2022. The primary outcome was the degree of bone loss between the index and reimplantation procedures, and whether it was influenced by the rate of timing of reimplantation. Patients undergoing single-stage revisions were excluded. A total of 160 patients met the inclusion criteria. Bone loss was characterized using the Anderson Orthopaedic Research Institute (AORI) classification (1/2A/2B/3) before the index procedure and after reimplantation, with progression defined as an increase in AORI classification. RESULTS: Among the 160 patients, 100 (62.5%) experienced bone loss progression. This included 19 patients (11.9%) with a progression score of 1, 75 patients (46.9%) with a progression score of 2, and six patients (3.75%) with a progression score of 3. A higher AORI score at the index procedure showed a statistically significant association with bone loss progression (P < 0.001). Time to reimplantation was statistically significant (P = 0.034), with patients progressing from AORI 1 to AORI 3 experiencing the longest reimplantation interval (mean: 147 days). No notable differences were observed in revision surgery rates, time to revision surgery, infection eradication rates, or baseline medical comorbidities across progression groups. CONCLUSION: This study demonstrates that two-stage revision TKA for PJI is associated with a notable degree of bone loss, particularly in cases of delayed reimplantation. These findings emphasize the importance of timely reimplantation, or other strategies, to mitigate bone loss and surgical complexity.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42095646/",
+      "score": 70,
+      "score_reasoning": "JAAOS comprehensive review of sternoclavicular joint injury management providing practical surgical guidance, though limited by being a narrative review rather than systematic analysis.",
+      "bullets": [
+        "Two-stage revision TKA for infection causes bone loss progression in 62.5% of patients, with longer delays to reimplantation associated with worse bone loss.",
+        "Patients with higher initial AORI bone loss scores are more likely to progress to even worse bone loss during the staged procedure.",
+        "Despite progressive bone loss, infection eradication rates and revision surgery rates remain similar regardless of the degree of bone loss progression."
+      ]
+    },
+    {
+      "pmid": "42110665",
+      "title": "Utilization Trends and Surgical Outcomes of Technology-Assisted Total Hip Arthroplasty in the United States From 2014 Through 2024.",
+      "authors": [
+        "Kim MS",
+        "Roshanzaer D",
+        "Romoff MR",
+        "Soriano K",
+        "DiGiovanni R",
+        "Stitzlein R",
+        "Yang S",
+        "Hsiue P"
+      ],
+      "authors_short": "Kim MS, Roshanzaer D, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Utilization of technology-assisted total hip arthroplasty (TA-THA) with computer navigation or robotic assistance continues to increase in the United States. This study aims to provide an updated examination of the trends and patient factors associated with TA-THA and compare postoperative surgical complications between TA-THA and manual THA (M-THA). METHODS: A retrospective cohort study was conducted using the TriNetX United States Collaborative Network. Current Procedural Terminology codes were used to identify a cohort of patients who received TA-THA vs M-THA between January 1, 2014, and December 31, 2024. Procedural incidences, regional and institutional distribution, and postoperative complication rates were analyzed. Outcomes included revision surgery, dislocation, periprosthetic fracture, superficial infection, deep infection, and aseptic loosening. Subanalyses were performed at 1-30, 31-90 days, and 3 years. Statistical comparisons used 2-tailed Student's t-tests (P < .05) and odds ratios (ORs). RESULTS: During the 10-year study period, 208,003 THA procedures were performed with 19,122 (9.2%) TA-THA and 188,881 (90.8%) M-THA. The utilization of TA-THA increased from 7.2% in 2014 to 14.2% in 2024, with highest adoption in the West (16.9%) and lowest in the Northeast (5.2%) (P < .001). Nonacademic institutions reported greater relative adoption than academic centers (12.7% vs 8.4%; P < .001). At 3-year follow-up, M-THA was associated with higher odds of all-cause revision (OR: 1.28), dislocation (OR: 1.43), deep infection (OR: 1.45), and aseptic loosening (OR: 1.38). In contrast, M-THA exhibited a lower risk of superficial infection (OR: 0.65). No significant difference was observed for the incidence of periprosthetic fractures. CONCLUSIONS: The utilization of TA-THA has more than doubled over the past decade, with notable regional and institutional differences. Compared to M-THA, TA-THA was associated with a decreased risk of multiple postoperative complications over a 3-year period. Further studies will be needed to determine whether this technology should be widely adopted by general orthopaedic surgeons performing THA or if it will primarily serve as a tool for arthroplasty surgeons seeking enhanced efficiency and precision.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42110665/",
+      "score": 69,
+      "score_reasoning": "Arthroplasty Today study of technology-assisted THA utilization trends over 10 years with large sample size (208,003 procedures), important for understanding current practice patterns.",
+      "bullets": [
+        "Technology-assisted total hip arthroplasty use doubled from 7.2% to 14.2% between 2014-2024, with highest adoption in western US and nonacademic centers.",
+        "Manual THA patients had 28% higher revision rates, 43% more dislocations, and 45% more deep infections at 3 years compared to technology-assisted cases.",
+        "Technology-assisted THA had higher superficial infection rates but significantly lower rates of revision, dislocation, deep infection, and aseptic loosening."
+      ]
+    },
+    {
+      "pmid": "42114081",
+      "title": "Age and Seasonal Variation in Pediatric Fractures: An Epidemiological Study Based on 90,000 Fractures From the Swedish Fracture Register.",
+      "authors": [
+        "Amilon S",
+        "Gatenholm B",
+        "Bergdahl C",
+        "M\u00f6ller Rydberg E",
+        "Rolfson O",
+        "Wennergren D"
+      ],
+      "authors_short": "Amilon S, Gatenholm B, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Fractures among children and adolescents are common; however, comprehensive national studies are limited. A nationwide register-based cohort study was undertaken using data from the Swedish Fracture Register (SFR) to analyze the epidemiology of long bone fractures in children and adolescents in Sweden, including seasonal and age-related variations. METHODS: This observational study used data from the SFR. All patients aged 16 or younger with a fracture in any segment of a long bone (humerus, forearm, femur, and tibia) from May 1, 2015 to April 31, 2023 were included. Epidemiological data, including age, month of injury, sex, affected side, open or closed physis, injury type, fracture classification according to the AO Paediatric Comprehensive Classification of Long Bone Fractures (PCCF), and treatment type, were retrieved and analyzed. RESULTS: During the 8-year study period, 87,004 children with 94,347 fractures to any part of a long bone were registered in the SFR. In 2021, the overall annual incidence of long bone fractures was 133 per 10,000 children. Distal forearm fractures accounted for almost half of all fractures (n=45,355, 48%). There was a continuously increasing number of fractures with increasing age until a peak between ages 10 and 12. Fractures were most common in May to June and August to September. CONCLUSION: This study presents the epidemiology of pediatric fractures based on over 90,000 cases from the SFR. Distal forearm fractures were the most common, accounting for half of long-bone fractures in children (0-16\u00a0y). A general peak in fracture incidence was observed around the onset of puberty, with variation across fracture locations. The study also reveals a distinct seasonal variation in pediatric fractures. May to June and August to September appear to be the most common months for children and adolescents to sustain fractures in Sweden. LEVELS OF EVIDENCE: Level II-retrospective study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42114081/",
+      "score": 64,
+      "score_reasoning": "Journal of Pediatric Orthopaedics large epidemiological study of 90,000+ pediatric fractures from Swedish registry providing comprehensive population-level data.",
+      "bullets": [
+        "Distal forearm fractures account for nearly half of all pediatric long bone fractures based on 94,000 fractures over 8 years in Sweden.",
+        "Pediatric fracture incidence peaks between ages 10-12 years, coinciding with the onset of puberty across all long bone locations.",
+        "Pediatric fractures show distinct seasonal clustering in May-June and August-September, likely corresponding to increased outdoor activity periods."
+      ]
+    },
+    {
+      "pmid": "42106965",
+      "title": "Achilles tendon rupture does not significantly reduce career longevity in professional soccer players compared with matched controls.",
+      "authors": [
+        "Khan HA",
+        "Khan A",
+        "Rosenberg A",
+        "Ather A"
+      ],
+      "authors_short": "Khan HA, Khan A, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To compare the career longevity of professional soccer players after achilles tendon rupture (ATR) with that of an uninjured matched control cohort. METHODS: A retrospective analysis of ATR cases in professional male athletes from the English Premier League and English Championship was performed. Each athlete with ATR was matched to three control athletes who had not sustained ATR. The analysis included all identified ATR cases, including those who failed to return to professional competition. Statistics were compiled for each year until retirement or study end. RESULTS: A total of 36 players with ATR were matched to 108 controls. The return-to-professional play rate following ATR was 91.7%. The mean career length after ATR was 4.9\u2009\u00b1\u20093.3 years, while that of the matched control athletes was 3.4\u2009\u00b1\u20093.5 years (p\u2009=\u20090.045). After ATR, an athlete had a 33% lower risk of retirement compared with the matched control athlete, which approached statistical significance (hazard ratio [HR]\u2009=\u20090.67; 95% confidence interval [CI], 0.45-1.00; p\u2009=\u20090.051). Significant subsequent non-ATR injuries were documented in 24.1% of control athletes during the follow-up period. At 5 years after ATR, 58.3% of athletes had retired from professional soccer, while 70.4% of the matched cohort were retired (p\u2009=\u20090.259). By 10 years, 83.3% of the ATR cohort had retired compared with 91.7% of the matched cohort (p\u2009=\u20090.270). Within the ATR cohort, re-rupture occurred in seven players (19.4%) but did not significantly affect career length (HR\u2009=\u20090.80; p\u2009=\u20090.622). Age at ATR remained the strongest predictor of retirement (HR\u2009=\u20091.27 per year; p\u2009<\u20090.001). CONCLUSION: Professional male soccer players who sustained ATR demonstrated comparable career longevity to a matched player cohort, with a trend toward longer survival in those who successfully return to play. ATR did not significantly shorten professional careers in this elite population. This likely reflects the efficacy of modern rehabilitation, a potential selection effect, and the high non-ATR injury burden observed in the control group. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42106965/",
+      "score": 63,
+      "score_reasoning": "Foot & Ankle International study of BMI-based eligibility criteria for total ankle arthroplasty with large sample size (3,019 patients), addressing important access to care issues.",
+      "bullets": [
+        "Professional soccer players with Achilles tendon ruptures had similar career lengths to uninjured controls, with 92% returning to play and averaging 4.9 years remaining in their careers.",
+        "Players with Achilles ruptures actually showed a trend toward longer careers than controls, likely due to modern rehabilitation and high injury rates in the control group.",
+        "Age at time of rupture was the strongest predictor of retirement, while re-rupture occurred in 19% but did not significantly affect career duration."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-05-12T04:54:01.442112-07:00"
+}
