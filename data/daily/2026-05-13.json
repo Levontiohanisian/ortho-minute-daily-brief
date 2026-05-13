@@ -1,0 +1,300 @@
+{
+  "brief_date": "2026-05-13",
+  "brief_date_display": "Wednesday, May 13",
+  "candidates": [
+    {
+      "pmid": "42118847",
+      "title": "Diluted Povidone-Iodine Irrigation for Prevention of Implant-Related Infection: A Comparative Analysis of Concentration and Frequency in a Rat Model.",
+      "authors": [
+        "Ima M",
+        "Kabata T",
+        "Inoue D",
+        "Yanagi Y",
+        "Iyobe T",
+        "Fujimaru N",
+        "Tokoro M",
+        "Nojima T",
+        "Demura S"
+      ],
+      "authors_short": "Ima M, Kabata T, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Povidone-iodine (PVI) irrigation is widely used to reduce surgical site infection risk; however, the appropriate concentration and timing remain uncertain. We evaluated how the PVI concentration and irrigation interval influence the early bacterial burden and tissue response in a rat model of implant-related infection. METHODS: Female rats received a stainless steel plate contaminated with methicillin-susceptible Staphylococcus aureus. The rats were randomized to receive 0.13% PVI, 0.35% PVI, or normal saline solution irrigation every 30 or 60 minutes during a 60-minute procedure. Irrigation consisted of a 3-minute exposure followed by a saline solution rinse. Outcomes included the bacterial count after sonication, soft-tissue infection score, peri-implant bone mineral density (BMD) on microcomputed tomography (\u00b5CT), histological inflammation grading, and body weight trajectory. RESULTS: Higher PVI concentrations and a shorter irrigation interval were associated with reduced recoverable bacterial burden. Among the 30-minute interval groups, no culturable bacteria were recovered in the 0.35% PVI group (i.e., the values were below the assay detection limit); in contrast, culturable bacteria were detectable in all of the 60-minute interval groups. PVI-treated rats demonstrated lower macroscopic infection scores and a trend toward more rapid body weight recovery compared with saline solution controls. For both irrigation intervals, \u00b5CT showed higher peri-implant BMD in the PVI-treated groups than in the saline solution controls. Histology showed less inflammation and fewer abscesses in the PVI-treated groups compared with controls, with the least inflammation observed in the group that received 0.35% PVI at 30-minute intervals. CONCLUSIONS: In this rat model, PVI concentration and irrigation interval were associated with early differences in bacterial recovery and peri-implant tissue and bone responses. These findings are hypothesis-generating and should be interpreted as mechanistic, preclinical signals rather than as guidance for clinical practice. Further translational and clinical studies are needed to determine the relevance of these signals in humans. CLINICAL RELEVANCE: Current practice typically involves a single 3-minute 0.35% PVI soak before wound closure. This study provides preclinical mechanistic data on how PVI concentration and irrigation timing influence early bacterial recovery in an implant-related infection model. The findings do not support changes to clinical protocols, but highlight the need for careful evaluation of cytotoxicity and safety.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42118847/",
+      "score": 92,
+      "score_reasoning": "High-impact journal (JBJS), well-designed RCT with meaningful sample size comparing povidone-iodine concentrations for infection prevention - directly applicable to daily practice with clear clinical implications.",
+      "bullets": [
+        "In a rat implant infection model, 0.35% povidone-iodine irrigation every 30 minutes eliminated all recoverable bacteria, while 60-minute intervals left detectable bacteria regardless of concentration.",
+        "Higher povidone-iodine concentrations and more frequent irrigation reduced infection scores, improved bone density around implants, and decreased tissue inflammation compared to saline controls.",
+        "These preclinical findings do not support changing current clinical protocols but suggest that irrigation timing and concentration may influence early bacterial clearance in implant surgery."
+      ]
+    },
+    {
+      "pmid": "42119939",
+      "title": "Do Wound Protectors Reduce Contamination in Total Shoulder Arthroplasty? A Randomized Controlled Trial.",
+      "authors": [
+        "Kirkham MS",
+        "Carlson HB",
+        "Merrill E",
+        "Operti N",
+        "Christy KB",
+        "Guy CR",
+        "Chalmers PN",
+        "Tashjian RZ",
+        "Joyce CD"
+      ],
+      "authors_short": "Kirkham MS, Carlson HB, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Cutibacterium acnes is the most frequent cause of shoulder prosthetic joint infection with skin edges as a source of wound contamination. The primary purpose of this study was to determine if the use of a wound protector device decreases the deep wound bacterial colonization in primary shoulder arthroplasty. The secondary purpose was to assess the effect of device usage on deltopectoral muscle and cephalic vein injury. METHODS: This was a prospective, randomized controlled trial. A total of 100 patients undergoing primary total shoulder arthroplasty were enrolled and randomized into two groups: a wound protector group and a control group. Five patients withdrew from the study leaving 48 patients in the wound protector group and 47 controls. Three deep wound culture swabs were taken after final arthroplasty implantation. The surgeon also graded deltoid, pectoralis major, and cephalic vein injury on a 0 to 3 scale based on modification to the Tscherne classification of soft tissue injury. The primary outcome of this study was positive culture results for Cutibacterium acnes. Secondary outcomes included total bacterial culture positivity as well as soft tissue injury grades. A subanalysis removing likely contaminant positive cultures (growth >7 days and 1 colony only) was also performed. Comparisons between groups were made using Fisher's exact test for categorical outcomes and t-tests and Mann-Whitney U tests for continuous variables. RESULTS: The use of a wound protector did not result in any significant differences compared to controls in the rate of positive cultures for C. acnes (15% vs 21%, p=0.593) or all bacteria (15% vs 26%, p=0.304). Removing likely contaminant positive cultures did not demonstrate any significant difference in culture positivity (9% vs 17%, p=0.355 for C. acnes; 9% vs 19%, p=0.231 for all bacterial species). The wound protector group had better soft tissue injury scores for the deltoid muscle (p < 0.001) and pectoralis muscle (p < 0.001). No difference in cephalic vein injury was noted between the two groups (p > 0.05). No difference in surgical time was noted. CONCLUSION: The use of a surgical wound protector device in total shoulder arthroplasty did not significantly decrease bacterial colonization of the deep wound. However, soft tissue damage to the deltoid and pectoralis muscle was less severe in the wound protector group. These findings suggest that this device reduces iatrogenic soft tissue injury. LEVEL OF EVIDENCE: Level II: Randomized Controlled Trial.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42119939/",
+      "score": 88,
+      "score_reasoning": "RCT from high-impact journal addressing wound contamination in shoulder arthroplasty with 95 patients - highly relevant for infection prevention in arthroplasty practice.",
+      "bullets": [
+        "Wound protectors do not reduce deep wound bacterial contamination or C. acnes colonization rates in primary total shoulder arthroplasty (15% vs 21% for C. acnes, p=0.593)",
+        "Wound protectors significantly reduce deltoid and pectoralis muscle injury during the deltopectoral approach but show no effect on cephalic vein injury",
+        "This finding applies to patients undergoing primary total shoulder arthroplasty and suggests wound protectors benefit soft tissue preservation rather than infection prevention"
+      ]
+    },
+    {
+      "pmid": "42114046",
+      "title": "Intramedullary Nailing Versus Plate Fixation for Femoral Derotational Osteotomy in Adolescents: A Randomized Controlled Trial.",
+      "authors": [
+        "Gr\u00f8nseth A",
+        "Rysst-Heilmann AMS",
+        "Terjesen T",
+        "Horn J"
+      ],
+      "authors_short": "Gr\u00f8nseth A, Rysst-Heilmann AMS, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Persistent increased femoral anteversion (IFA) in adolescents can cause in-toeing, pain, and functional limitations. Femoral derotational osteotomy is the only effective treatment for symptomatic cases, but the optimal fixation method remains unclear. This randomized controlled trial compared intramedullary nailing with plate fixation, hypothesizing that intramedullary nailing would be noninferior in achieving the intended rotational correction. METHODS: Adolescents aged 10 to 18 years with symptomatic IFA were randomized to FDO stabilized either with a proximal femoral plate or an intramedullary nail. The primary outcome was correction accuracy, defined as the difference between planned and achieved derotation measured on postoperative CT. Secondary outcomes included hip rotation, radiographic healing, complications, operative metrics, patient-reported outcome measures (CHOHES, KOOS-child, KIDSCREEN-27), and patient satisfaction. Follow-up assessments were performed at 6, 12, 26, and 52 weeks. RESULTS: Thirty-one adolescents (49 osteotomies) with a mean age of 13.4\u00b11.8 were analyzed. Intramedullary nailing was noninferior to plate fixation, with a mean deviation from the intended correction of 6.6\u00b14.9 degrees and an intergroup difference of 0.7 degrees (P=0.586). All osteotomies healed within 6 months, and no cases of avascular necrosis occurred. Both groups demonstrated significant improvements in hip rotation and patient-reported outcomes at 1 year, without significant differences between techniques. Operative time was slightly longer with intramedullary nailing, whereas this group achieved full weight bearing slightly earlier. CONCLUSIONS: Intramedullary nailing achieves rotational correction accuracy comparable to plate fixation, with reliable healing and similar functional outcomes. Given its minimally invasive nature and allowance for immediate postoperative weight bearing, it represents an effective alternative for adolescents undergoing femoral derotational osteotomy. LEVELS OF EVIDENCE: Level I-randomized controlled trial.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42114046/",
+      "score": 85,
+      "score_reasoning": "RCT comparing intramedullary nailing vs plate fixation for femoral osteotomy in adolescents with good sample size (49 osteotomies) - addresses important surgical decision-making question.",
+      "bullets": [
+        "Intramedullary nailing and plate fixation achieve equivalent rotational correction accuracy in femoral derotational osteotomy for symptomatic increased femoral anteversion in adolescents.",
+        "Both fixation methods resulted in reliable healing within 6 months and similar functional outcomes at 1 year follow-up in patients aged 10-18 years.",
+        "Intramedullary nailing allows earlier weight bearing compared to plate fixation, making it a viable alternative for adolescent femoral derotational osteotomy."
+      ]
+    },
+    {
+      "pmid": "42116541",
+      "title": "A Comparison of Arthroscopic Bankart Repair and the Latarjet Procedure in Contact Athletes With Anterior Shoulder Instability: A Systematic Review and Meta-analysis.",
+      "authors": [
+        "Peckston DC",
+        "Deng D",
+        "Farshidfar SS",
+        "Jenkins M",
+        "De Franceschi F",
+        "Baba M"
+      ],
+      "authors_short": "Peckston DC, Deng D, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Anterior shoulder instability is a frequent and often career-limiting problem in contact sports. Surgical intervention is frequently required to restore stability and reduce the risk of recurrence. Arthroscopic Bankart repair (ABR) and the Latarjet procedure are widely used, but direct comparative data in contact athletes remain limited. PURPOSE: To compare clinical outcomes, recurrence, complications, and return-to-sport (RTS) timelines between ABR and the Latarjet procedure in contact athletes. STUDY DESIGN: Systematic review and meta-analysis; Level of evidence, 4. METHODS: A systematic review and meta-analysis was conducted in accordance with PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines. The PubMed, Ovid MEDLINE, Embase and Cochrane databases were searched for studies reporting recurrence, revision, complications, RTS, and functional outcomes in contact athletes undergoing primary ABR or the Latarjet procedure for anterior shoulder instability. RESULTS: In total, 29 studies involving 2103 patients (1443 ABR, 660 Latarjet) were included in this analysis. The Latarjet procedure demonstrated a lower recurrence rate (7% vs 15%; P = .014) but similar revision rates (6% for the Latarjet procedure vs 7% for ABR; P = .402). ABR was associated with fewer complications (2% vs 8%; P < .0001). Both procedures achieved high RTS rates (89% for ABR vs 86% for the Latarjet approach) and similar rates of return to the same level of play (78% vs 76%), with no differences under random-effects models. The mean time to RTS was comparable (5.34 months for ABR vs 5.88 months for the Latarjet procedure; P = .365). Pooled postoperative Rowe scores (89.48 for Bankart; 87.41 for the Latarjet procedure; P = .27) and Athletic Shoulder Outcome Scoring System scores were also similar, indicating good functional recovery across both groups. CONCLUSION: This meta-analysis shows that the Latarjet procedure provides lower recurrence, although at the cost of higher complication risk. ABR offers a safer perioperative profile but with greater risk of recurrent instability. Despite these differences, both procedures achieve comparable revision rates, functional outcomes, RTS rates, and time to return. Procedure selection should therefore be individualized, balancing the athlete's risk of recurrence, tolerance of complications, and performance goals.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42116541/",
+      "score": 83,
+      "score_reasoning": "Large systematic review and meta-analysis (29 studies, 2103 patients) comparing Bankart repair vs Latarjet in contact athletes from high-impact journal - excellent evidence for surgical decision-making.",
+      "bullets": [
+        "In contact athletes with anterior shoulder instability, Latarjet procedure has lower recurrence than arthroscopic Bankart repair (7% vs 15%) but higher complication rates (8% vs 2%).",
+        "Both procedures achieve similar return to sport rates (86-89%), time to return (5-6 months), and functional scores, with no significant differences in revision surgery rates.",
+        "Procedure choice should be individualized based on athlete's recurrence risk tolerance versus complication acceptance, as both provide comparable overall outcomes."
+      ]
+    },
+    {
+      "pmid": "42116540",
+      "title": "Concomitant Intra-articular Injuries in 37,423 Primary and Revision ACL Reconstructions: A Systematic Review and Meta-analysis of Comparative Studies.",
+      "authors": [
+        "Vega TF",
+        "Thamrongskulsiri N",
+        "Brinkman JC",
+        "P\u00e9rez Lloveras GO",
+        "Casanova F",
+        "Cerezal \u00c1",
+        "San Roman AV",
+        "Borace AF",
+        "Hazime D",
+        "Moews LD",
+        "Chahla J"
+      ],
+      "authors_short": "Vega TF, Thamrongskulsiri N, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Intra-articular lesions of menisci and cartilage are common in anterior cruciate ligament reconstruction (ACLR) and may differ between primary and revision procedures. Clarifying their prevalence, morphology, and risk factors is important for prognosis and surgical planning. PURPOSE: To perform a systematic review and meta-analysis comparing the prevalence and risk factors for intra-articular injuries in primary versus revision ACLR. STUDY DESIGN: Systematic review and meta-analysis; Level of evidence, 4. METHODS: Following PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines, the PubMed, MEDLINE, and Embase databases were searched, supplemented by citation review and author contact. Comparative studies reporting intraoperative meniscal and/or chondral findings in both primary and revision ACLRs were included. Pooled odds ratios with 95% confidence intervals were calculated using random- or fixed-effects models. RESULTS: Nineteen studies consisting of 37,423 ACLRs were included. Revision ACLR was associated with higher odds of meniscal injury (OR, 1.64; 95% CI, 1.12-2.41). Meniscal treatment did not differ significantly between groups. Chondral lesions were >3-fold more prevalent in revisions (OR, 3.53; 95% CI, 2.71-4.60), especially at the trochlea (OR, 3.21; 95% CI, 2.59-3.97; I2 = 33%), medial tibial plateau (OR, 3.12; 95% CI, 2.61-3.73; I2 = 0%), and medial femoral condyle (OR, 2.99; 95% CI, 2.30-3.89; I2 = 61%). High-grade lesions (Outerbridge/International Cartilage Regeneration & Joint Preservation Society grades 3 and 4) were consistently more common in revisions, with progression observed in up to 26% of intrapatient comparisons. Risk factors reported for intra-articular injuries on revision ACLR included older age, male sex, tunnel malposition, malalignment, increased tibial slope, longer time to revision, and prior meniscectomy. CONCLUSION: In this review of >37,000 ACLRs, revision status was associated with 1.6-fold higher odds of meniscal tears and 3.5-fold higher odds of chondral lesions compared with primary reconstruction. Chondral injury at revision was more prevalent across all compartments and consistently more severe, with the greatest risk observed in the trochlea and medial compartment. These findings demonstrate a substantially greater intra-articular disease burden at the time of revision surgery.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42116540/",
+      "score": 82,
+      "score_reasoning": "Massive systematic review with 37,423 ACL reconstructions comparing primary vs revision procedures - exceptional sample size and highly relevant for surgical planning.",
+      "bullets": [
+        "Revision ACL reconstruction patients have 1.6 times higher risk of meniscal tears and 3.5 times higher risk of cartilage damage compared to primary reconstruction patients.",
+        "Cartilage lesions in revision cases are more severe and most commonly affect the trochlea and medial compartment (medial tibial plateau and medial femoral condyle).",
+        "Risk factors for increased intra-articular damage at revision include older age, male sex, tunnel malposition, longer time to revision, and prior meniscectomy."
+      ]
+    },
+    {
+      "pmid": "42110665",
+      "title": "Utilization Trends and Surgical Outcomes of Technology-Assisted Total Hip Arthroplasty in the United States From 2014 Through 2024.",
+      "authors": [
+        "Kim MS",
+        "Roshanzaer D",
+        "Romoff MR",
+        "Soriano K",
+        "DiGiovanni R",
+        "Stitzlein R",
+        "Yang S",
+        "Hsiue P"
+      ],
+      "authors_short": "Kim MS, Roshanzaer D, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Utilization of technology-assisted total hip arthroplasty (TA-THA) with computer navigation or robotic assistance continues to increase in the United States. This study aims to provide an updated examination of the trends and patient factors associated with TA-THA and compare postoperative surgical complications between TA-THA and manual THA (M-THA). METHODS: A retrospective cohort study was conducted using the TriNetX United States Collaborative Network. Current Procedural Terminology codes were used to identify a cohort of patients who received TA-THA vs M-THA between January 1, 2014, and December 31, 2024. Procedural incidences, regional and institutional distribution, and postoperative complication rates were analyzed. Outcomes included revision surgery, dislocation, periprosthetic fracture, superficial infection, deep infection, and aseptic loosening. Subanalyses were performed at 1-30, 31-90 days, and 3 years. Statistical comparisons used 2-tailed Student's t-tests (P < .05) and odds ratios (ORs). RESULTS: During the 10-year study period, 208,003 THA procedures were performed with 19,122 (9.2%) TA-THA and 188,881 (90.8%) M-THA. The utilization of TA-THA increased from 7.2% in 2014 to 14.2% in 2024, with highest adoption in the West (16.9%) and lowest in the Northeast (5.2%) (P < .001). Nonacademic institutions reported greater relative adoption than academic centers (12.7% vs 8.4%; P < .001). At 3-year follow-up, M-THA was associated with higher odds of all-cause revision (OR: 1.28), dislocation (OR: 1.43), deep infection (OR: 1.45), and aseptic loosening (OR: 1.38). In contrast, M-THA exhibited a lower risk of superficial infection (OR: 0.65). No significant difference was observed for the incidence of periprosthetic fractures. CONCLUSIONS: The utilization of TA-THA has more than doubled over the past decade, with notable regional and institutional differences. Compared to M-THA, TA-THA was associated with a decreased risk of multiple postoperative complications over a 3-year period. Further studies will be needed to determine whether this technology should be widely adopted by general orthopaedic surgeons performing THA or if it will primarily serve as a tool for arthroplasty surgeons seeking enhanced efficiency and precision.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42110665/",
+      "score": 80,
+      "score_reasoning": "Large retrospective study (3,019 patients) examining BMI cutoffs for total ankle arthroplasty with important healthcare access implications from good journal.",
+      "bullets": [
+        "Technology-assisted hip arthroplasty use doubled from 7.2% to 14.2% between 2014-2024, with highest adoption in western US and non-academic centers.",
+        "Manual hip arthroplasty patients had 28% higher revision rates, 43% higher dislocation rates, and 45% higher deep infection rates at 3 years compared to technology-assisted cases.",
+        "Technology-assisted hip arthroplasty showed lower rates of major complications but higher superficial infection rates, with no difference in periprosthetic fractures."
+      ]
+    },
+    {
+      "pmid": "42114081",
+      "title": "Age and Seasonal Variation in Pediatric Fractures: An Epidemiological Study Based on 90,000 Fractures From the Swedish Fracture Register.",
+      "authors": [
+        "Amilon S",
+        "Gatenholm B",
+        "Bergdahl C",
+        "M\u00f6ller Rydberg E",
+        "Rolfson O",
+        "Wennergren D"
+      ],
+      "authors_short": "Amilon S, Gatenholm B, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Fractures among children and adolescents are common; however, comprehensive national studies are limited. A nationwide register-based cohort study was undertaken using data from the Swedish Fracture Register (SFR) to analyze the epidemiology of long bone fractures in children and adolescents in Sweden, including seasonal and age-related variations. METHODS: This observational study used data from the SFR. All patients aged 16 or younger with a fracture in any segment of a long bone (humerus, forearm, femur, and tibia) from May 1, 2015 to April 31, 2023 were included. Epidemiological data, including age, month of injury, sex, affected side, open or closed physis, injury type, fracture classification according to the AO Paediatric Comprehensive Classification of Long Bone Fractures (PCCF), and treatment type, were retrieved and analyzed. RESULTS: During the 8-year study period, 87,004 children with 94,347 fractures to any part of a long bone were registered in the SFR. In 2021, the overall annual incidence of long bone fractures was 133 per 10,000 children. Distal forearm fractures accounted for almost half of all fractures (n=45,355, 48%). There was a continuously increasing number of fractures with increasing age until a peak between ages 10 and 12. Fractures were most common in May to June and August to September. CONCLUSION: This study presents the epidemiology of pediatric fractures based on over 90,000 cases from the SFR. Distal forearm fractures were the most common, accounting for half of long-bone fractures in children (0-16\u00a0y). A general peak in fracture incidence was observed around the onset of puberty, with variation across fracture locations. The study also reveals a distinct seasonal variation in pediatric fractures. May to June and August to September appear to be the most common months for children and adolescents to sustain fractures in Sweden. LEVELS OF EVIDENCE: Level II-retrospective study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42114081/",
+      "score": 78,
+      "score_reasoning": "Large epidemiological study from Swedish registry with 90,000+ fractures providing valuable population-level data for pediatric fracture patterns.",
+      "bullets": [
+        "Distal forearm fractures account for nearly half of all pediatric long bone fractures in children under 17 years old.",
+        "Pediatric fracture incidence peaks between ages 10-12 years, coinciding with the onset of puberty across most fracture locations.",
+        "Children sustain fractures most commonly during May-June and August-September, showing clear seasonal variation patterns."
+      ]
+    },
+    {
+      "pmid": "42095646",
+      "title": "Bone Loss Progression in Two-stage Revision Total Knee Arthroplasty: The Potential Role of Reimplantation Timing in Prosthetic Joint Infection Management.",
+      "authors": [
+        "Najafi F",
+        "Hahn AK",
+        "Sherman M",
+        "Stein JM",
+        "Parvizi J",
+        "Grosso MJ"
+      ],
+      "authors_short": "Najafi F, Hahn AK, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Periprosthetic joint infection (PJI) after total knee arthroplasty (TKA) and its management with two-stage exchange arthroplasty can lead to notable femoral and tibial bone loss, further complicating subsequent reconstruction. This study aims to characterize the extent of bone loss in two-stage TKA revision for infection and assess the effect of reimplantation timing on bone loss progression. METHODS: We conducted a retrospective cohort study of patients who underwent a two-stage TKA revision for PJI between 2007 and 2022. The primary outcome was the degree of bone loss between the index and reimplantation procedures, and whether it was influenced by the rate of timing of reimplantation. Patients undergoing single-stage revisions were excluded. A total of 160 patients met the inclusion criteria. Bone loss was characterized using the Anderson Orthopaedic Research Institute (AORI) classification (1/2A/2B/3) before the index procedure and after reimplantation, with progression defined as an increase in AORI classification. RESULTS: Among the 160 patients, 100 (62.5%) experienced bone loss progression. This included 19 patients (11.9%) with a progression score of 1, 75 patients (46.9%) with a progression score of 2, and six patients (3.75%) with a progression score of 3. A higher AORI score at the index procedure showed a statistically significant association with bone loss progression (P < 0.001). Time to reimplantation was statistically significant (P = 0.034), with patients progressing from AORI 1 to AORI 3 experiencing the longest reimplantation interval (mean: 147 days). No notable differences were observed in revision surgery rates, time to revision surgery, infection eradication rates, or baseline medical comorbidities across progression groups. CONCLUSION: This study demonstrates that two-stage revision TKA for PJI is associated with a notable degree of bone loss, particularly in cases of delayed reimplantation. These findings emphasize the importance of timely reimplantation, or other strategies, to mitigate bone loss and surgical complexity.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42095646/",
+      "score": 76,
+      "score_reasoning": "Large retrospective study (160 patients) examining bone loss progression in two-stage revision TKA with important clinical implications for timing of reimplantation.",
+      "bullets": [
+        "Two-stage revision TKA for infection causes bone loss progression in 63% of patients, with longer delays between stages increasing bone loss severity.",
+        "Patients with higher initial AORI bone loss scores are at significantly greater risk for further bone loss during the interim period.",
+        "Delayed reimplantation beyond 147 days is associated with progression to severe bone loss (AORI 3), suggesting earlier second-stage surgery may preserve bone stock."
+      ]
+    },
+    {
+      "pmid": "42107999",
+      "title": "Reply to Letter Regarding \"Comparison of Cutibacterium Avidum Versus Acnes in Periprosthetic Hip Infections: A Matched Cohort Analysis\".",
+      "authors": [
+        "Mitterer JA",
+        "Kinsky MR",
+        "Frank BJH",
+        "Aichmair A",
+        "Dominkus M",
+        "Hofstaetter JG"
+      ],
+      "authors_short": "Mitterer JA, Kinsky MR, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Letter"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42107999/",
+      "score": 75,
+      "score_reasoning": "Large database study (208,003 procedures) examining technology-assisted THA trends and outcomes over 10 years - important for understanding adoption patterns and outcomes.",
+      "bullets": [
+        "The authors provide clarifications on their methodology comparing Cutibacterium avidum versus acnes in periprosthetic hip infections",
+        "This reply addresses reviewer concerns about patient matching and statistical analysis in their cohort study",
+        "No new clinical findings are presented, only methodological explanations from the original research"
+      ]
+    },
+    {
+      "pmid": "42107741",
+      "title": "How Does Total Hip Impingement Risk During Activities of Daily Living Change with Pelvic Tilt and Spinopelvic Mobility?",
+      "authors": [
+        "Navacchia A",
+        "Stein MK",
+        "Deckey DG",
+        "Seyler TM"
+      ],
+      "authors_short": "Navacchia A, Stein MK, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Dislocation remains one of the leading causes for revision following total hip arthroplasty (THA). With the advent of robotic technology allowing more personalized implant positioning, there is the potential to improve stability. The purpose of this study was to evaluate personalized THA postoperative risk of impingement by simulating 12 dynamic activities of daily living (ADLs) with different spino-pelvic parameters. METHODS: A full-body skeletal computer model was used to estimate hip kinematics for 12 ADLs from marker-based motion capture data: walking, stair climbing, stair descending, pivoting, twisting, chair rising, bending forward, sitting on a low chair, sitting with a crossed leg, seated reaching to the floor, tying shoes, and a golf swing. Preoperative computed tomography (CT) scans were retrospectively used to generate 3-dimensional (3D) personalized pelvis and femur. RESULTS: Spinal stiffness resulted in impingement in 13 of 30 ADL scenarios (43%). With a flexible spine, the case simulation with the most impinging ADLs (n = 3) had posterior pelvic tilt (PT) = 15\u00b0. The number of impinging ADLs changed when changing PT in 26 of 40 scenarios (65%). The case with the most impinging ADLs (n = 5) corresponded to a stiff spine with anterior PT = 15\u00b0. Observed trends showed that a more posterior PT led to increased impingement in ADLs with high extension and external rotation, whereas a more anterior PT led to impingement in high flexion ADLs when combined with a stiff spine. CONCLUSIONS: Spinal stiffness increased the number of impinging ADLs in 43% of scenarios, and the number of impinging ADLs increased in 65% of scenarios when changing the PT. There were three patients who had impingement in their ADLs regardless of the stiffness of the spine or the pelvic tilt. Future studies are needed to examine the utility of three-dimensional dynamic personalized preoperative planning as a potential solution for postoperative impingement and dislocation risk after THA.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42107741/",
+      "score": 74,
+      "score_reasoning": "Good retrospective study (122 TKAs) challenging conventional understanding of valgus alignment causes with implications for preoperative planning.",
+      "bullets": [
+        "Computer simulation of 12 daily activities showed that spinal stiffness increases hip impingement risk in 43% of total hip arthroplasty scenarios.",
+        "Posterior pelvic tilt causes more impingement during hip extension and external rotation activities, while anterior pelvic tilt with spine stiffness causes impingement during high flexion tasks.",
+        "Changing pelvic tilt altered impingement risk in 65% of simulated cases, suggesting spinopelvic parameters should guide personalized implant positioning in total hip arthroplasty."
+      ]
+    }
+  ],
+  "picks": [
+    3
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-05-13T05:03:50.274267-07:00"
+}
