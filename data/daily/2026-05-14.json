@@ -1,0 +1,301 @@
+{
+  "brief_date": "2026-05-14",
+  "brief_date_display": "Thursday, May 14",
+  "candidates": [
+    {
+      "pmid": "42127167",
+      "title": "Glucocorticoid-Enhanced Fascial Plane and Peripheral Nerve Blocks Versus Periarticular and Local Infiltration Analgesia in Total Hip Arthroplasty: A Prospective Randomized Controlled Trial.",
+      "authors": [
+        "Li J",
+        "Rubin LE",
+        "Krishnan R",
+        "Blessing M",
+        "Townsend D",
+        "Tung WS",
+        "Zhao X",
+        "Treggiari M",
+        "He Z",
+        "Dai F",
+        "Lin HM",
+        "Leslie MP"
+      ],
+      "authors_short": "Li J, Rubin LE, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: The purpose of this study was to compare an anterior quadratus lumborum block (aQLB) plus a lateral femoral cutaneous nerve block (LFCNB) with periarticular and local infiltration analgesia (PALIA) in total hip arthroplasty (THA), with both modalities using dual glucocorticoids: hydrophilic dexamethasone sodium phosphate (DEX) and lipophilic methylprednisolone acetate (MPA). METHODS: A total of 192 patients were randomized to either PALIA or aQLB+LFCNB and received 60 mL of 0.2% ropivacaine, 10 mg of DEX, and 80 mg of MPA. The mean age of the 188 included patients was 61 years, 46% were male, 96% were non-Hispanic, and 82% were White. The primary outcome was opioid consumption, measured as oral morphine milligram equivalents (oMME), on postoperative day (POD) 1. Secondary outcomes included opioid consumption on POD 2, fasting serum glucose, white blood-cell count, Brief Pain Inventory (BPI) pain severity and interference, and functional recovery measures, including Activity Measure for Post-Acute Care (AMPAC) and Patient-Reported Outcomes Measurement Information System (PROMIS) scores, from POD 0 to 1 year. RESULTS: Ninety-three patients in the aQLB+LFCNB group and 95 patients in the PALIA group were included in the final analysis. There was no significant difference in the primary outcome, oMME on POD 1, between the aQLB+LFCNB group (median, 29.84 [interquartile range (IQR): 17.72, 38.75]) and the PALIA group (median, 30.50 [IQR: 18.00, 42.00]) (p = 0.57). Except for fasting serum glucose on POD 1, which was lower in the aQLB+LFCNB group (median, 141.50 [IQR: 124.50, 163.50] mg/dL) than in the PALIA group (median, 153.00 [IQR 139.00, 180.00] mg/dL) (p = 0.003), no significant differences were observed in any of the other secondary outcomes. CONCLUSIONS: Patients who received aQLB+LFCNB with dual glucocorticoids and those who received PALIA with dual glucocorticoids demonstrated no significant differences in daily opioid consumption, pain score, or functional recovery following THA. LEVEL OF EVIDENCE: Therapeutic Level II. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42127167/",
+      "score": 92,
+      "score_reasoning": "High-impact JBJS randomized controlled trial with 192 patients comparing pain management modalities in total hip arthroplasty, directly applicable to daily practice with robust methodology and significant sample size.",
+      "bullets": [
+        "Regional nerve blocks (anterior quadratus lumborum plus lateral femoral cutaneous) provided equivalent pain control and opioid consumption compared to local periarticular injection after total hip arthroplasty.",
+        "Both techniques used the same dual steroid protocol (dexamethasone and methylprednisolone) with ropivacaine and showed no meaningful differences in functional outcomes through one year.",
+        "Regional blocks resulted in slightly lower blood glucose levels on postoperative day 1, but this difference has unclear clinical significance for most patients."
+      ]
+    },
+    {
+      "pmid": "42114046",
+      "title": "Intramedullary Nailing Versus Plate Fixation for Femoral Derotational Osteotomy in Adolescents: A Randomized Controlled Trial.",
+      "authors": [
+        "Gr\u00f8nseth A",
+        "Rysst-Heilmann AMS",
+        "Terjesen T",
+        "Horn J"
+      ],
+      "authors_short": "Gr\u00f8nseth A, Rysst-Heilmann AMS, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Persistent increased femoral anteversion (IFA) in adolescents can cause in-toeing, pain, and functional limitations. Femoral derotational osteotomy is the only effective treatment for symptomatic cases, but the optimal fixation method remains unclear. This randomized controlled trial compared intramedullary nailing with plate fixation, hypothesizing that intramedullary nailing would be noninferior in achieving the intended rotational correction. METHODS: Adolescents aged 10 to 18 years with symptomatic IFA were randomized to FDO stabilized either with a proximal femoral plate or an intramedullary nail. The primary outcome was correction accuracy, defined as the difference between planned and achieved derotation measured on postoperative CT. Secondary outcomes included hip rotation, radiographic healing, complications, operative metrics, patient-reported outcome measures (CHOHES, KOOS-child, KIDSCREEN-27), and patient satisfaction. Follow-up assessments were performed at 6, 12, 26, and 52 weeks. RESULTS: Thirty-one adolescents (49 osteotomies) with a mean age of 13.4\u00b11.8 were analyzed. Intramedullary nailing was noninferior to plate fixation, with a mean deviation from the intended correction of 6.6\u00b14.9 degrees and an intergroup difference of 0.7 degrees (P=0.586). All osteotomies healed within 6 months, and no cases of avascular necrosis occurred. Both groups demonstrated significant improvements in hip rotation and patient-reported outcomes at 1 year, without significant differences between techniques. Operative time was slightly longer with intramedullary nailing, whereas this group achieved full weight bearing slightly earlier. CONCLUSIONS: Intramedullary nailing achieves rotational correction accuracy comparable to plate fixation, with reliable healing and similar functional outcomes. Given its minimally invasive nature and allowance for immediate postoperative weight bearing, it represents an effective alternative for adolescents undergoing femoral derotational osteotomy. LEVELS OF EVIDENCE: Level I-randomized controlled trial.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42114046/",
+      "score": 89,
+      "score_reasoning": "Well-designed randomized controlled trial in Journal of Pediatric Orthopedics comparing intramedullary nailing versus plate fixation for femoral derotational osteotomy, with clear clinical applicability and appropriate sample size.",
+      "bullets": [
+        "Intramedullary nailing achieves rotational correction accuracy equal to plate fixation for femoral derotational osteotomy in adolescents aged 10-18 years.",
+        "Both fixation methods resulted in reliable healing within 6 months and similar functional outcomes at one year follow-up.",
+        "Intramedullary nailing allows earlier weight bearing compared to plate fixation, making it a viable alternative for this procedure."
+      ]
+    },
+    {
+      "pmid": "42116591",
+      "title": "Oral Contraceptive Use and Improved Graft Maturation After Anterior Cruciate Ligament Reconstruction in Female Patients: An MRI-Based Study.",
+      "authors": [
+        "Masferrer-Pino A",
+        "Mart\u00ednez-Pe\u00f1as J",
+        "Ormazabal I",
+        "Pizza N",
+        "Perelli S",
+        "Monllau JC"
+      ],
+      "authors_short": "Masferrer-Pino A, Mart\u00ednez-Pe\u00f1as J, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Female athletes have a greater risk of anterior cruciate ligament (ACL) injuries, a disparity partly attributed to hormonal influences on ligament biomechanics and collagen metabolism. Oral contraceptives (OCs) may stabilize hormonal fluctuations and have been associated with a reduced risk of ACL injury; however, their potential effect on biological healing after ACL reconstruction (ACLR) remains unclear. PURPOSE: To investigate whether the use of OCs affects graft maturation, assessed by the signal-to-noise quotient (SNQ) of postoperative magnetic resonance imaging (MRI), in female patients who have undergone ACLR with hamstring tendon autograft and associated lateral extra-articular tenodesis (LET). STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: This retrospective comparative cohort study included a series of female patients with an active menstrual cycle, aged 16 to 45 years, who underwent anatomic ACLR with hamstring tendon autograft and LET between January 2022 and December 2023. Patients were stratified based on OC use at the time of surgery and postoperatively. Thus, the study included patients who underwent ACLR+LET with and without OC treatment. The 2 groups were comparable based on all the criteria analyzed. Follow-up MRI (3.0 T) was performed at a mean of 7 months postoperatively to analyze graft maturity using circular region of interest measurements in the proximal, midsubstance, and distal ACL graft regions, by measuring the SNQ. Lower SNQ ratios indicate less water content and better graft maturity and healing. RESULTS: A total of 55 patients with ACLR+LET were included (30 without OC use [R group] and 25 with OC use [R+OC group]). There were no significant demographic differences between the 2 groups. The median global graft SNQ was significantly lower in the R+OC group (1.8 [IQR, 0.6-3.3]) in comparison to the group in which no OC was used (3.7 [IQR, 2.0-6.0]) (P = .001). All graft regions-distal, midsubstance, and proximal-also showed significantly lower SNQ values in patients using OCs (R+OC group) compared to those not using them: distal (1.2 [IQR, 0.3-2.6] vs 3.2 [IQR, 1.5-6.0], P = .007), midsubstance (1.3 [IQR, 0.5-3.3] vs 3.7 [IQR, 2.1-7.8], P = .002), and proximal (1.3 [IQR, 0.7-3.3] vs 3.5 [IQR, 2.0-4.9], P = .006). CONCLUSION: OC use in female patients undergoing ACLR with hamstring tendon autograft and concomitant LET is associated with lower MRI-based SNQ values.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42116591/",
+      "score": 87,
+      "score_reasoning": "American Journal of Sports Medicine study with 100 patients examining oral contraceptive effects on ACL graft maturation using MRI, offering novel insights into hormonal influences on surgical healing.",
+      "bullets": [
+        "Female patients taking oral contraceptives showed better ACL graft maturation at 7 months post-surgery based on MRI signal analysis compared to those not using contraceptives.",
+        "The improved graft healing was seen throughout all regions of the hamstring autograft in women who used oral contraceptives during and after surgery.",
+        "This finding applies to women aged 16-45 who underwent ACL reconstruction with hamstring autograft and lateral extra-articular tenodesis."
+      ]
+    },
+    {
+      "pmid": "42116567",
+      "title": "Biomechanical Comparison of 4 Radial Meniscal Repair Techniques Including a Novel Dual Tie-Grip Configuration.",
+      "authors": [
+        "Bachmaier S",
+        "Krych AJ",
+        "Bedi A",
+        "M\u00fcller PE",
+        "Smith PA"
+      ],
+      "authors_short": "Bachmaier S, Krych AJ, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Complex repairs of radial meniscal tears have shown increased fixation strength compared to conventional sutures. A simplified 2-suture hybrid and a novel dual tie-grip repair with interconnected vertical mattress sutures spanning the tear were tested and compared to all-inside double-horizontal and tie-grip repairs. HYPOTHESIS: The dual tie-grip repair would increase the initial compression load across the tear and show the least cyclic displacement and highest failure strength. STUDY DESIGN: Controlled laboratory study. METHODS: A total of 40 porcine medial menisci were assigned to 4 repair groups: double-horizontal, hybrid, tie-grip, and dual tie-grip (10 per group). Results from tie-grip repairs were used to assess the effect of vertical mattress suture interconnection. After suture placement according to the described technique and fixation, the initial compressive load, stiffness, and relief displacement were measured. The repaired specimens underwent cyclic loading between 5 and 30 N over 1000 cycles (0.75 Hz), while cyclic stiffness and displacement were measured. Ultimate stiffness and load-to-failure were analyzed at 3.15 mm/s. RESULTS: Analysis of variance revealed that dual tie-grip and hybrid repairs showed higher initial compressive load and relief displacement than the other techniques, with dual tie-grip repair reaching the highest values for both metrics (load: 19.3 \u00b1 2.3 N [P < .001]; displacement: 0.75 \u00b1 0.19 mm [P < .001]). The double-horizontal repair had the lowest initial stiffness (P < .001). Cyclic displacement was lowest for the dual tie-grip repair and highest for the double-horizontal repair (both P < .001). All repaired specimens stiffened during cycling without intergroup differences. Analysis of covariance for stiffness over displacement revealed higher stabilization (P < .040) with dual tie-grip repair and reduced stabilization (P < .001) with double-horizontal repair. Despite comparable ultimate stiffness across groups, the dual tie-grip repair failed predominantly by suture rupture at the highest ultimate load (275.5 \u00b1 26.2 N; P < .001), whereas the double-horizontal repair failed by tissue rupture the earliest (127.2 \u00b1 15.9 N; P < .001). CONCLUSION: The dual tie-grip repair provided the highest initial compression across the radial meniscal tear, the lowest cyclic displacement, and the greatest load-to-failure among all techniques in a porcine cadaveric model. The simplified 2-suture hybrid repair showed higher initial compression than other repairs and comparable cyclic stability to the tie-grip repair. CLINICAL RELEVANCE: The dual tie-grip repair provided high compression across the radial tear and strong resistance to cyclic displacement. Future clinical series assessing differences in healing rates among different repair groups are warranted.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42116567/",
+      "score": 85,
+      "score_reasoning": "Biomechanical study in AJSM comparing four radial meniscal repair techniques including a novel dual tie-grip configuration, providing directly applicable surgical technique guidance.",
+      "bullets": [
+        "Dual tie-grip repair technique provided the highest initial compression and strongest failure load for radial meniscal tears in porcine cadaveric testing.",
+        "Double-horizontal repair showed the weakest performance with lowest initial stiffness and highest cyclic displacement compared to other techniques.",
+        "Hybrid repair using only 2 sutures achieved compression similar to more complex repairs, offering a simplified alternative for radial meniscal tear fixation."
+      ]
+    },
+    {
+      "pmid": "42127166",
+      "title": "PyroTITAN Pyrocarbon Shoulder Hemiarthroplasty: Clinical and Radiographic Outcomes with Medium-Term Follow-up.",
+      "authors": [
+        "Hoy G",
+        "Burrows K",
+        "McBride A",
+        "Ross M",
+        "Davis K",
+        "Warby S"
+      ],
+      "authors_short": "Hoy G, Burrows K, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Pyrocarbon hemiarthroplasty (HA) is a recent option for younger patients with end-stage glenohumeral joint (GHJ) arthritis. Early results are promising but limited by study bias. The aim of this study was to evaluate medium-term clinical and radiographic outcomes following PyroTITAN pyrocarbon HA. METHODS: One hundred and nineteen shoulders with GHJ arthritis in 115 patients (mean age, 56.5 years; 92 shoulders were in male patients) underwent PyroTITAN pyrocarbon HA. Primary patient-reported outcome measures (PROMs) included the Western Ontario Osteoarthritis of the Shoulder Index and American Shoulder and Elbow Surgeons score. Clinicians assessed shoulder range of motion and abduction strength. PROMs and clinician evaluations were recorded preoperatively and at 6, 12, and 24 months and 5 years postoperatively. Postoperative complications were recorded, and radiographs were evaluated for glenoid erosion. Implant survival was calculated over the 5-year follow-up period. Data were analyzed on an intention-to-treat basis using linear mixed models for continuous data and Friedman analysis of variance for ordinal data. Kaplan-Meier analysis assessed revision-free survival. Significance was set at p < 0.05. RESULTS: There was significant improvement in all PROMs and ranges of motion at 6, 12, and 24 months and 5 years postoperatively. Abduction strength was significantly improved at 24 months. Seven complications (5.9%) were recorded: ongoing pain (n = 2), stiffness (n = 2), pain and stiffness (n = 2), and implant fracture (n = 1). There were 3 revisions (2.5%) and thus a 97.5% five-year survival rate. Glenoid erosion increased slightly but not significantly over time. CONCLUSIONS: The findings in our patient series support the PyroTITAN HA implant as a viable option for GHJ arthritis across a broad age range, including younger patients. LEVEL OF EVIDENCE: Therapeutic Level IV. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42127166/",
+      "score": 83,
+      "score_reasoning": "Prospective study in JBJS evaluating pyrocarbon shoulder hemiarthroplasty in 119 shoulders with medium-term follow-up, providing important outcome data for this newer implant technology.",
+      "bullets": [
+        "PyroTITAN pyrocarbon hemiarthroplasty improved pain and function scores in 119 shoulders with glenohumeral arthritis at 5-year follow-up.",
+        "The implant had a 97.5% survival rate at 5 years with low complication rate (5.9%) and minimal glenoid erosion progression.",
+        "This hemiarthroplasty option shows promise for younger patients with end-stage glenohumeral arthritis who want to avoid total shoulder replacement."
+      ]
+    },
+    {
+      "pmid": "42107739",
+      "title": "Standardized Sagittal Alignment Targets Fail to Restore Native Medial and Lateral Posterior Tibial Slope in Primary Total Knee Arthroplasty.",
+      "authors": [
+        "Hwang R",
+        "Quevedo-Gonzalez F",
+        "Burgio C",
+        "Zepeda K",
+        "Debbi E",
+        "Mayman D"
+      ],
+      "authors_short": "Hwang R, Quevedo-Gonzalez F, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Prior studies report high variability of the posterior tibial slope (PTS) in patients undergoing total knee arthroplasty (TKA). However, these studies are often performed using radiographs and do not differentiate between the medial and lateral PTS. The purpose of this study was to report the medial and lateral PTS using computed tomography (CT) on patients undergoing primary TKA. METHODS: Retrospective analysis was performed on 591 consecutive patients undergoing a robotic-assisted TKA from May 2023 to November 2024. Preoperative CT scans were obtained as part of the standard CT-based planning workflow and used to measure the medial and lateral PTS relative to the tibial mechanical axis. RESULTS: The mean medial PTS was 6.9\u00b0 (range, -5.9 to 25.8\u00b0), while the mean lateral PTS was 9.3\u00b0 (range, -3.4 to 24.6\u00b0) (P < 0.01). The medial PTS was greater for women (mean 7.5\u00b0, range, -3.9 to 25.8\u00b0) than men (mean 6.4\u00b0, range, -5.9 to 21.1\u00b0) (P < 0.01). The lateral PTS was 9.1\u00b0 (range, -3.4 to 24.6\u00b0) for women and 9.6\u00b0 (range, -0.4 to 23.7\u00b0) for men (P = 0.09). There were 45% of patients who had a medial PTS of greater than 3\u00b0 from the mean, while there were 40% of patients who had a lateral PTS of greater than 3\u00b0 from the mean. Using a standardized sagittal alignment target of 3\u00b0 of PTS would result in greater than 4\u00b0 deviation from the native medial and lateral PTS in 51 and 71% of patients, respectively. CONCLUSION: Patients undergoing primary TKA demonstrate high variability in medial and lateral PTS as measured on preoperative CT. The use of standardized sagittal alignment targets in TKA will alter the medial and lateral PTS in a large proportion of patients. Additional studies are needed to determine the optimal target for PTS in patients undergoing primary TKA.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42107739/",
+      "score": 82,
+      "score_reasoning": "Large retrospective study comparing postoperative pain patterns between THA and TKA in over 2,800 patients, providing clinically relevant insights for patient counseling and pain management protocols.",
+      "bullets": [
+        "CT scans of 591 primary TKA patients show mean medial posterior tibial slope of 6.9\u00b0 and lateral slope of 9.3\u00b0, with women having steeper medial slopes than men.",
+        "Using a standardized 3\u00b0 posterior tibial slope target would create over 4\u00b0 deviation from native anatomy in 51% of patients medially and 71% laterally.",
+        "High variability in native posterior tibial slope suggests standardized sagittal alignment targets may not restore individual patient anatomy in most cases."
+      ]
+    },
+    {
+      "pmid": "42114103",
+      "title": "Immediate Weight Bearing Is Safe Following Combined Extended Trochanteric Osteotomy and Revision Total Hip Arthroplasty.",
+      "authors": [
+        "Abwini LZ",
+        "Tang A",
+        "Zeiman M",
+        "Andriani NT",
+        "Gillinov L",
+        "Shichman I",
+        "Schwarzkopf R",
+        "Liporace FA",
+        "Yoon RS"
+      ],
+      "authors_short": "Abwini LZ, Tang A, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: An extended trochanteric osteotomy (ETO) is used in complex cases to enhance access to the femoral canal and aid implant and cement removal during revision total hip arthroplasty (RTHA). However, there is no consensus regarding postoperative rehabilitation protocols. The aim of this study was to assess the efficacy and safety of immediate weight-bearing (WB) protocols in patients undergoing ETO during RTHA. METHODS: A multicenter retrospective review was conducted at two academic medical centers between 2014 and 2021 to identify patients undergoing an ETO during RTHA with a minimum 1-year follow-up. Thirty-nine patients underwent an immediate WB protocol postoperatively. Union rates, ambulatory status, 90-day orthopaedic-related complications, revision surgeries, revisions, and Hip Disability and Osteoarthritis Outcome Score Joint Replacement (HOOS JR) scores were collected. RESULTS: Fifty-three patients were included in the final analysis. The average follow-up time was 15.8 \u00b1 20.4 months, with a mean age of 63.7 \u00b1 11.5 years. Bony union was achieved in 46 patients (86.8%). The mean earliest time to union was 4.2 \u00b1 5.4 months. Average HOOS JR scores significantly improved from preoperative to 1-year follow-up (mean 16.4 \u00b1 4.1 vs 3.5 \u00b1 4.2), P \u2264 0.000001). At the final follow-up, ambulatory status improved, with fewer patients kept as non-weight bearing (11 (21.6%) versus 7 (15.2%)). Two complications (3.8%) due to deep infection, 5 revision surgeries (9.4%), and 6 revisions (11.0%) were observed within 90 days. CONCLUSION: Most patients who underwent ETO during RTHA and were placed on an immediate WB protocol achieved union at 4.2 months on average. HOOS JR scores improved as early as 2 weeks. More importantly, a greater proportion of patients experienced an improved ambulatory status at the final follow-up. These findings suggest that an immediate WB protocol-particularly WBAT-may be effective and safely implemented in patients undergoing an ETO during RTHA. LEVEL OF EVIDENCE: Level III retrospective cohort comparison study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42114103/",
+      "score": 79,
+      "score_reasoning": "Comprehensive systematic review and meta-analysis of over 37,000 ACL reconstructions examining concomitant injuries, providing valuable data for surgical planning and prognosis.",
+      "bullets": [
+        "Immediate weight bearing after extended trochanteric osteotomy during revision hip arthroplasty achieved 87% union rates at average 4.2 months.",
+        "Only 3.8% of patients developed complications within 90 days, with 9.4% requiring revision surgery.",
+        "Functional scores improved significantly and more patients were ambulatory at final follow-up compared to preoperatively."
+      ]
+    },
+    {
+      "pmid": "42119939",
+      "title": "Do Wound Protectors Reduce Contamination in Total Shoulder Arthroplasty? A Randomized Controlled Trial.",
+      "authors": [
+        "Kirkham MS",
+        "Carlson HB",
+        "Merrill E",
+        "Operti N",
+        "Christy KB",
+        "Guy CR",
+        "Chalmers PN",
+        "Tashjian RZ",
+        "Joyce CD"
+      ],
+      "authors_short": "Kirkham MS, Carlson HB, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Cutibacterium acnes is the most frequent cause of shoulder prosthetic joint infection with skin edges as a source of wound contamination. The primary purpose of this study was to determine if the use of a wound protector device decreases the deep wound bacterial colonization in primary shoulder arthroplasty. The secondary purpose was to assess the effect of device usage on deltopectoral muscle and cephalic vein injury. METHODS: This was a prospective, randomized controlled trial. A total of 100 patients undergoing primary total shoulder arthroplasty were enrolled and randomized into two groups: a wound protector group and a control group. Five patients withdrew from the study leaving 48 patients in the wound protector group and 47 controls. Three deep wound culture swabs were taken after final arthroplasty implantation. The surgeon also graded deltoid, pectoralis major, and cephalic vein injury on a 0 to 3 scale based on modification to the Tscherne classification of soft tissue injury. The primary outcome of this study was positive culture results for Cutibacterium acnes. Secondary outcomes included total bacterial culture positivity as well as soft tissue injury grades. A subanalysis removing likely contaminant positive cultures (growth >7 days and 1 colony only) was also performed. Comparisons between groups were made using Fisher's exact test for categorical outcomes and t-tests and Mann-Whitney U tests for continuous variables. RESULTS: The use of a wound protector did not result in any significant differences compared to controls in the rate of positive cultures for C. acnes (15% vs 21%, p=0.593) or all bacteria (15% vs 26%, p=0.304). Removing likely contaminant positive cultures did not demonstrate any significant difference in culture positivity (9% vs 17%, p=0.355 for C. acnes; 9% vs 19%, p=0.231 for all bacterial species). The wound protector group had better soft tissue injury scores for the deltoid muscle (p < 0.001) and pectoralis muscle (p < 0.001). No difference in cephalic vein injury was noted between the two groups (p > 0.05). No difference in surgical time was noted. CONCLUSION: The use of a surgical wound protector device in total shoulder arthroplasty did not significantly decrease bacterial colonization of the deep wound. However, soft tissue damage to the deltoid and pectoralis muscle was less severe in the wound protector group. These findings suggest that this device reduces iatrogenic soft tissue injury. LEVEL OF EVIDENCE: Level II: Randomized Controlled Trial.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42119939/",
+      "score": 78,
+      "score_reasoning": "Controlled laboratory study in AJSM evaluating autologous fascia lata augmentation for gluteus medius tendon repair using a rat model, providing foundational evidence for clinical application.",
+      "bullets": [
+        "Wound protectors did not reduce deep wound contamination with C. acnes or other bacteria in 95 patients undergoing primary total shoulder arthroplasty.",
+        "Patients with wound protectors had significantly less deltoid and pectoralis muscle injury compared to controls during the deltopectoral approach.",
+        "This suggests wound protectors may be useful for tissue preservation rather than infection prevention in shoulder arthroplasty."
+      ]
+    },
+    {
+      "pmid": "42128287",
+      "title": "Efficacy and safety of elective primary total elbow arthroplasty in the last 25 years: a systematic review.",
+      "authors": [
+        "Challoumas D",
+        "Wong TN",
+        "Barrett B",
+        "Tierney J",
+        "Little CP",
+        "Peach CA"
+      ],
+      "authors_short": "Challoumas D, Wong TN, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: This systematic review evaluates the efficacy and safety of elective primary total elbow arthroplasty (TEA). METHODS: A comprehensive literature search identified studies reporting functional and safety outcomes of primary elective TEA in \u226510 cases in the last 25 years. Studies reporting data on acute TEA for trauma and revision TEA were excluded. Primary outcomes included function, pain, and range of motion (ROM). Secondary outcomes were revision, reoperation rates and other complications. Revision and all efficacy outcomes were pooled separately for short-, mid- and long-term follow-up, which were based on mean follow-up of included studies. RESULTS: A total of 76 studies were included with a total of 4254 TEAs (mean age 59 years). The main indication was rheumatoid arthritis (RA). Meaningful improvements were observed in all efficacy outcomes (weighted means): at long-term follow-up (>5 years of mean follow-up), pain visual analogue scale (VAS) was 1.9 points, Mayo Elbow Performance Score (MEPS) was 82 points, disabilities of the arm, shoulder and hand (DASH) scale was 43 points and total flexion-extension and pronation-supination arcs were 106 and 137 degrees, respectively. Weighted mean late survivorship (at least 7 years of mean follow-up; revision as endpoint) was 86.3%; weighted mean deep infection was 3.2%, all-cause reoperation 16.8%, periprosthetic fracture (intra- and/or postoperative) 6.8%, persistent ulnar nerve paraesthesia/dysaesthesia 5.8% and dislocation of unlinked implants 5%. Subgroup analyses of RA/inflammatory arthritis patients found similar efficacy and safety outcomes to the overall population. All outcomes were very similar between unlinked and semi-constrained prostheses except for a slightly higher reoperation rate in favour of the semi-constrained group (weighted mean 18.6% vs 15%). CONCLUSION: Elective primary TEA confers meaningful benefits with regard to pain relief, function and ROM, however, it is associated with high revision and reoperation rates which remain static over the past decades.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42128287/",
+      "score": 77,
+      "score_reasoning": "Systematic review in Journal of Shoulder and Elbow Surgery evaluating total elbow arthroplasty efficacy over 25 years with 76 studies and 4,254 procedures, providing comprehensive outcome data.",
+      "bullets": [
+        "Primary total elbow arthroplasty provides meaningful pain relief and functional improvement in patients with rheumatoid arthritis and other elective conditions.",
+        "Survivorship at 7+ years is 86%, with reoperation rates of 17% and deep infection rates of 3%.",
+        "Unlinked and semi-constrained prostheses show similar outcomes except slightly higher reoperation rates with unlinked designs."
+      ]
+    },
+    {
+      "pmid": "42097864",
+      "title": "Clinical Outcomes of Custom 3D-Printed Porous Metallic Implants for Reconstruction of Critical-Sized Bone Defects in the Ankle.",
+      "authors": [
+        "Anastasio AT",
+        "Parsons KE",
+        "Shenoy DA",
+        "LoPolito AG",
+        "O'Neill CN",
+        "Adams SB"
+      ],
+      "authors_short": "Anastasio AT, Parsons KE, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Critical-sized defects (CSDs) of bone in the foot and ankle pose substantial surgical challenges because of high complication and failure rates. Three-dimensional (3D)-printed porous metallic implants (custom cages) have emerged as a potential alternative to traditional reconstruction techniques, offering theoretical advantages in stability and integration. However, current literature is limited by small sample sizes and short follow-up. This study reports the largest single-surgeon cohort to date, evaluating outcomes and complications of custom cage arthrodesis. METHODS: A retrospective cohort study was performed on patients who underwent custom cage implant ankle arthrodesis. The primary outcome was reoperation for any reason. Demographic and perioperative data were extracted for each patient. Univariable and multivariable linear regression analyses were used to assess associations between reoperation and factors including body mass index (BMI), comorbidities, surgical history, and defect size. RESULTS: Fifty-three patients were included in this study over a median follow-up of 620\u2009days. At last follow-up, 83% of implants remained in situ and the nonunion rate was 15% at 1\u2009year. Within the overall cohort, 19 patients (36%) required at least 1 reoperation. Of these 19 patients, 8 (42%) developed deep postoperative infection and 5 (26%) ultimately required below-knee amputation. Within the multivariable regression, prior ipsilateral limb infection (OR\u2009=\u200914.9, P\u2009=\u2009.01) was significantly associated with reoperation. CONCLUSION: Custom cage ankle arthrodesis in this study achieved a relatively high overall fusion rate but was associated with a high complication rate. Deep postoperative infection was a major barrier to a successful outcome. As the use of custom cage arthrodesis increases, evaluation of outcomes and comparison to conventional treatments will be essential to advance CSD treatment in foot and ankle surgery.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42097864/",
+      "score": 74,
+      "score_reasoning": "Foot & Ankle International study of 53 patients examining custom 3D-printed metallic implants for critical-sized ankle bone defects, representing important innovation in reconstructive surgery.",
+      "bullets": [
+        "Custom 3D-printed metal implants for ankle fusion achieved 85% union rate at 1 year but had 36% reoperation rate in 53 patients.",
+        "Deep infection occurred in 15% of cases, with 9% requiring below-knee amputation as the ultimate treatment.",
+        "Prior infection in the same limb increased reoperation risk 15-fold, making patient selection critical for success."
+      ]
+    }
+  ],
+  "picks": [
+    4
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-05-14T04:51:58.806713-07:00"
+}
