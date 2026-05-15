@@ -1,0 +1,296 @@
+{
+  "brief_date": "2026-05-15",
+  "brief_date_display": "Friday, May 15",
+  "candidates": [
+    {
+      "pmid": "42136128",
+      "title": "The Anterior Cruciate Ligament Injury Severity Scale (ACLISS) as a Predictor of Short-Term Reoperation and Functional Outcomes After ACL Reconstruction.",
+      "authors": [
+        "Graham GD",
+        "Haffner M",
+        "Testa EJ",
+        "White A",
+        "Lifsey C",
+        "Gachigi K",
+        "Padley J",
+        "Mueller J",
+        "Preuss F",
+        "Chandler C",
+        "Riboh J"
+      ],
+      "authors_short": "Graham GD, Haffner M, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: The Anterior Cruciate Ligament Injury Severity Scale (ACLISS) was developed to classify the magnitude of damage to knee structures beyond the anterior cruciate ligament (ACL) (meniscus, cartilage, collateral ligaments, etc) at the time of ACL rupture. However, its validity in predicting clinical outcomes after ACL reconstruction (ACLR) has never been assessed. PURPOSE: To determine whether ACLISS correlates with reoperation and patient-reported functional outcomes after ACLR. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: The records of all patients who underwent primary ACLR at a single institution between 2019 and 2022 with minimum follow-up of 2 years were reviewed. Patients were excluded if they had concomitant collateral ligament or posterior cruciate ligament repair/reconstruction or prior ipsilateral ACLR. ACLISS scores (0-12) and grades (grade 1: scores 0-3; grade 2: scores 4-7; grade 3: scores 8-12) were determined using preoperative magnetic resonance imaging and intraoperative arthroscopic findings based on the original published technique. The primary outcome was reoperation after ACLR. Secondary outcomes included International Knee Documentation Committee (IKDC) subjective scores and Marx activity scores. Bivariable and multivariable logistic regression analyses were performed to identify predictors of reoperation. Cox proportional hazards modeling and Kaplan-Meier survival analysis were used to evaluate time to reoperation. Statistical significance was defined as a P value <.05. RESULTS: A total of 324 patients met the inclusion criteria. The mean age was 29.3 \u00b1 13.6 years, and 50.9% of the patients were male. The mean follow-up was 5.1 \u00b1 0.8 years. Of the patients, 177 (54.6%) were classified as ACLISS grade 1 damage, with a mean score of 2.3 \u00b1 0.9; 141 (43.5%) as grade 2, with mean score of 4.8 \u00b1 0.9, and 6 (1.9%) as grade 3, with mean score of 8.2 \u00b1 0.4. Overall, 87 (26.9%) patients required medial meniscus repair, and 82 (25.3%) patients required lateral meniscus repair. The overall ACL revision rate was 4.0%. A total of 34 (10.5%) patients had reoperation for any reason. The mean IKDC score was 84.4 \u00b1 14.2, and the mean Marx score was 8.6 \u00b1 5.4. There was no significant association between ACLISS grade and reoperation rate (grade 1: 10.2%; grades 2 and 3: 10.9%; P = .832). In multivariable analysis, hybrid autograft with allograft augmentation was significantly associated with increased reoperation risk (OR, 7.68; 95% CI, 1.82-32.4; P = .006). Survival analysis revealed that patients with grades 2 and 3 experienced earlier reoperations, with 69% occurring between 5 and 15 months compared to 22% for grade 1 (P = .0086). IKDC and Marx scores did not differ significantly by ACLISS score. CONCLUSION: While ACLISS grade does not predict overall reoperation rates or functional outcomes when concomitant injuries are appropriately managed, patients with higher grades experienced earlier reoperation.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42136128/",
+      "score": 85,
+      "score_reasoning": "High clinical relevance for ACL reconstruction outcomes with prospective cohort design from AJSM, large sample size, and novel validated prediction scale for reoperation risk.",
+      "bullets": [
+        "ACLISS grade does not predict overall reoperation rates or functional outcomes after ACL reconstruction when concomitant injuries are properly addressed.",
+        "Patients with higher ACLISS grades (2 and 3) who need reoperation tend to require it earlier, with 69% occurring between 5-15 months versus 22% for grade 1 patients.",
+        "Hybrid autograft with allograft augmentation was the strongest predictor of reoperation, increasing risk nearly 8-fold compared to other graft types."
+      ]
+    },
+    {
+      "pmid": "42136091",
+      "title": "Cutting Technique of Soccer Players After ACLR: On-Field Matched Control Study.",
+      "authors": [
+        "Di Paolo S",
+        "Mendicino M",
+        "Viotto M",
+        "Aparo F",
+        "Ambrosini V",
+        "Grassi A",
+        "Zaffagnini S"
+      ],
+      "authors_short": "Di Paolo S, Mendicino M, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Anterior cruciate ligament (ACL) ruptures in soccer most commonly occur during cutting maneuvers with noncontact injury mechanisms. Biomechanical assessment of the cutting technique has become a critical component of return-to-sport (RTS) evaluation after ACL injury, particularly in young football players at elevated risk of reinjury. However, the cutting technique in players with ACL reconstruction (ACLR) has never been examined under sport-specific conditions. PURPOSE/HYPOTHESIS: This study aimed to evaluate the cutting technique in pediatric soccer players who had ACLR after RTS clearance against matched healthy controls during on-field soccer (or football)-specific (FS) movements. It was hypothesized that players with ACLR would exhibit risk factors for ACL injury and biomechanical differences relative to healthy counterparts. STUDY DESIGN: Case-control study; Level of evidence, 3. METHODS: A total of 61 young soccer players-21 with ACLR (age, 16.7 \u00b1 1.5 years) and 40 healthy matched controls-performed planned and unplanned FS cutting tasks on a regular soccer pitch. Kinematics of the lower limbs, pelvis, and trunk were collected using 8 wearable inertial sensors. Cut-stance phase kinematics were extracted as peak values, range of motion (ROM), initial contact values, and peak knee flexion. A linear mixed-effects model tested the effects of injury (\u03b21, ACLR vs healthy), limb (\u03b22, injured/dominant vs noninjured/nondominant), and their interaction effect (\u03b22 + \u03b23, injury \u00d7 limb) on kinematics (P < .05). RESULTS: Significant injury \u00d7 limb interactions (R2: 0.02-0.41; P < .001-P < .046) indicated altered kinematics in players with ACLR compared with healthy controls. Players with ACLR showed greater peak hip flexion (\u03b21 = 22.2\u00b0), knee valgus (\u03b21 = 2.3\u00b0), and lower knee flexion (\u03b21 = -2.6\u00b0) during the unplanned FS task. Players with ACLR also showed reduced lower limb flexion ROM (\u03b21 = -19.6\u00b0 to -10.6\u00b0) but greater pelvis and trunk flexion ROM (\u03b21= 2.2\u00b0 to 4.8\u00b0) during unplanned FS task and greater contralateral pelvic drop and trunk tilt (\u03b21 = -2.9\u00b0 to -3.7\u00b0) in both tasks. CONCLUSION: Players with ACLR showed biomechanical alterations during field-based sport-specific cutting maneuvers compared with matched healthy controls, despite RTS clearance.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42136091/",
+      "score": 82,
+      "score_reasoning": "Excellent clinical applicability for ACL return-to-sport assessment using innovative on-field biomechanical analysis in young athletes, published in top-tier journal with good sample size.",
+      "bullets": [
+        "Young soccer players with ACLR show increased knee valgus and decreased knee flexion during cutting maneuvers compared to healthy controls, despite clearance to return to sport.",
+        "Players with ACLR demonstrate compensatory movement patterns including greater hip flexion, reduced lower limb range of motion, and increased trunk movement during sport-specific cutting tasks.",
+        "Biomechanical differences persist in ACLR patients during on-field activities even after meeting standard return-to-sport criteria, suggesting current clearance protocols may be insufficient."
+      ]
+    },
+    {
+      "pmid": "42133722",
+      "title": "Long-Term Outcomes After Arthroscopically Assisted Latissimus Dorsi Tendon Transfer for Irreparable Posterosuperior Rotator Cuff Tears: Assessment at a Minimum 10-Year Follow-up.",
+      "authors": [
+        "Baek CH",
+        "Kim JG",
+        "Kim BT",
+        "Lim C",
+        "Kim SJ"
+      ],
+      "authors_short": "Baek CH, Kim JG, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Arthroscopically assisted latissimus dorsi tendon transfer (LDT) offers a joint-preserving option for irreparable posterosuperior rotator cuff tears, but long-term efficacy remains uncertain. We report outcomes after a minimum of 10 years. METHODS: We retrospectively analyzed 33 shoulders in 33 patients (mean age, 62.2 years; 58% male; all ethnic Korean) after arthroscopically assisted LDT. Clinical assessment included range of motion and Constant-Murley, American Shoulder and Elbow Surgeons (ASES), and VAS pain scores. Osteoarthritis progression was assessed radiographically using the Hamada classification. Complications and reoperations, including reverse total shoulder arthroplasty (rTSA), were recorded. RESULTS: The Constant-Murley score increased from 48.2 to 62.7, the ASES score increased from 49.5 to 68.7, and VAS pain decreased from 5.0 to 2.3 (all p < 0.001). Forward elevation increased from 115\u00b0 to 143\u00b0 and external rotation at 90\u00b0 of abduction increased from 22\u00b0 to 51\u00b0 (both p < 0.001). The mean Hamada grade increased from 1.2 to 2.4, but clinical scores and range of motion were similar in the 12 shoulders (36%) that progressed to grade 3 or higher. On magnetic resonance imaging at the final follow-up (mean, 134 months postoperatively), 19 transfers (58%) remained intact (Sugaya types I to III) and 14 (42%) had a full-thickness retear (Sugaya types IV and V). Outcomes were similar between patients with and without osteoarthritis progression, but patients with intact transfers had better forward elevation, external rotation at 90\u00b0, and ADLER (activities of daily living that require active external rotation) scores. Late subscapularis tears occurred in 10 shoulders (30%) and were associated with preoperative grade-2 fatty infiltration (p = 0.002). Three shoulders (9%) required conversion to rTSA. CONCLUSIONS: Arthroscopically assisted LDT improved pain and function for most patients with irreparable posterosuperior rotator cuff tears. Despite frequent radiographic osteoarthritis progression, clinical outcomes remained favorable, and most shoulders retained the native joint. LDT may serve as an option to delay rTSA in appropriately selected younger patients. LEVEL OF EVIDENCE: Therapeutic Level IV. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42133722/",
+      "score": 76,
+      "score_reasoning": "Excellent long-term follow-up study of latissimus dorsi transfer with minimum 10-year data from JBJS, high clinical relevance for irreparable rotator cuff tears.",
+      "bullets": [
+        "Arthroscopic latissimus dorsi transfer for irreparable posterosuperior rotator cuff tears improved pain and function scores significantly at 10+ years in 33 Korean patients aged 62 years.",
+        "Despite 36% developing advanced osteoarthritis and 42% having transfer retears, clinical outcomes remained good and only 9% required conversion to reverse shoulder replacement.",
+        "Patients with preoperative grade 2 fatty infiltration of subscapularis had 30% risk of late subscapularis tears, while intact transfers correlated with better motion and function."
+      ]
+    },
+    {
+      "pmid": "42134568",
+      "title": "Evaluation of the International Consensus Meeting (ICM) Diagnostic Categories for Shoulder Periprosthetic Joint Infection: C. Acnes Predominates even in Definite Infections.",
+      "authors": [
+        "Ricchetti ET",
+        "Collins AP",
+        "Khazzam MS",
+        "Wright TW",
+        "Entezari V",
+        "Orvets ND",
+        "Whitson AJ",
+        "Hsu JE"
+      ],
+      "authors_short": "Ricchetti ET, Collins AP, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Consensus-derived diagnostic criteria for shoulder periprosthetic joint infection (PJI) were established at the 2nd International Consensus Meeting (ICM) on Musculoskeletal Infection in 2018. Data is still limited, however, on the clinical presentation and distribution of shoulder PJI cases with regards to ICM diagnostic categories. The purpose of this study was to utilize data from a multicenter prospective cohort of revision shoulder arthroplasties to evaluate the frequency of cases meeting criteria for each ICM PJI category and to examine the distribution of demographic data, microbiology, and positive criteria in each category. METHODS: Data were prospectively collected on consecutive revision shoulder arthroplasty cases in the American Shoulder and Elbow Surgeons (ASES) Revision Shoulder Arthroplasty and PJI Multicenter Research Group. Standardized collection was performed for patient demographics, microbiology, major diagnostic criteria for the Definite PJI category, and minor criteria for the Probable, Possible, and Unlikely PJI categories in the ICM classification. Variations in demographic data, microbiology, and frequency of major and minor criteria were then evaluated within each PJI category for associations and differences. RESULTS: 490 cases were evaluated, including 71 (14%) Definite PJI, 52 (11%) Probable PJI, 87 (18%) Possible PJI, and 280 (57%) Unlikely PJI. Male sex was significantly more common in the Probable PJI group (80.8%) compared to Definite (63.3%), Possible (59.8%), or Unlikely PJI (43.2%) (p<0.001). The Probable PJI group was also more likely to be younger (p=0.010), on less narcotics (p=0.014), and of lower ASA class (p=0.004) than the Definite PJI group. Gross intra-articular purulence was the most common Definite PJI criteria (65%). Across Non-Definite PJI groups, the mean ICM PJI score and mean number of positive tissue cultures were significantly higher in the Probable PJI group (p<0.001) and remained statistically significant even after adjusting for amount of testing performed. C. acnes was the most commonly cultured bacteria in both Definite PJI (25%) and Non-Definite PJI (27%) groups. CONCLUSION: C. acnes was the most common bacteria present in Non-Definite PJI as well as Definite PJI cases, suggesting that classification of bacteria as \"virulent\" and \"low virulence\" may need reconsideration. Significant differences were seen in demographic characteristics, presence of minor criteria, and growth of positive cultures across Non-Definite PJI groups, even when adjusted by amount of testing performed. These findings support the usefulness of these diagnostic categories and criteria. Data from this multicenter effort will help refine ICM PJI categories and determine how they guide treatment decision-making. LEVEL OF EVIDENCE: Level I, Prospective Cohort Design, Epidemiology Study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42134568/",
+      "score": 75,
+      "score_reasoning": "High clinical impact systematic review and meta-analysis on smoking effects in rotator cuff repair with large sample size and clear practice implications.",
+      "bullets": [
+        "C. acnes was the most common organism in both definite shoulder infections (25%) and non-definite infections (27%), challenging current virulence classifications.",
+        "In 490 revision shoulder cases, 14% met definite infection criteria, 11% probable, 18% possible, and 57% unlikely using ICM diagnostic categories.",
+        "Gross purulence was present in 65% of definite shoulder infections, making it the most common major diagnostic criterion."
+      ]
+    },
+    {
+      "pmid": "42127166",
+      "title": "PyroTITAN Pyrocarbon Shoulder Hemiarthroplasty: Clinical and Radiographic Outcomes with Medium-Term Follow-up.",
+      "authors": [
+        "Hoy G",
+        "Burrows K",
+        "McBride A",
+        "Ross M",
+        "Davis K",
+        "Warby S"
+      ],
+      "authors_short": "Hoy G, Burrows K, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Pyrocarbon hemiarthroplasty (HA) is a recent option for younger patients with end-stage glenohumeral joint (GHJ) arthritis. Early results are promising but limited by study bias. The aim of this study was to evaluate medium-term clinical and radiographic outcomes following PyroTITAN pyrocarbon HA. METHODS: One hundred and nineteen shoulders with GHJ arthritis in 115 patients (mean age, 56.5 years; 92 shoulders were in male patients) underwent PyroTITAN pyrocarbon HA. Primary patient-reported outcome measures (PROMs) included the Western Ontario Osteoarthritis of the Shoulder Index and American Shoulder and Elbow Surgeons score. Clinicians assessed shoulder range of motion and abduction strength. PROMs and clinician evaluations were recorded preoperatively and at 6, 12, and 24 months and 5 years postoperatively. Postoperative complications were recorded, and radiographs were evaluated for glenoid erosion. Implant survival was calculated over the 5-year follow-up period. Data were analyzed on an intention-to-treat basis using linear mixed models for continuous data and Friedman analysis of variance for ordinal data. Kaplan-Meier analysis assessed revision-free survival. Significance was set at p < 0.05. RESULTS: There was significant improvement in all PROMs and ranges of motion at 6, 12, and 24 months and 5 years postoperatively. Abduction strength was significantly improved at 24 months. Seven complications (5.9%) were recorded: ongoing pain (n = 2), stiffness (n = 2), pain and stiffness (n = 2), and implant fracture (n = 1). There were 3 revisions (2.5%) and thus a 97.5% five-year survival rate. Glenoid erosion increased slightly but not significantly over time. CONCLUSIONS: The findings in our patient series support the PyroTITAN HA implant as a viable option for GHJ arthritis across a broad age range, including younger patients. LEVEL OF EVIDENCE: Therapeutic Level IV . See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42127166/",
+      "score": 74,
+      "score_reasoning": "Well-designed RCT comparing anesthesia techniques in THA from top journal with good sample size and directly applicable clinical findings.",
+      "bullets": [
+        "PyroTITAN pyrocarbon hemiarthroplasty improved pain and function scores in 119 shoulders with glenohumeral arthritis at 5-year follow-up.",
+        "The implant had 97.5% survival at 5 years with 3 revisions and 5.9% complication rate in patients averaging 57 years old.",
+        "Glenoid erosion increased slightly over time but did not reach statistical significance compared to baseline radiographs."
+      ]
+    },
+    {
+      "pmid": "42114103",
+      "title": "Immediate Weight Bearing Is Safe Following Combined Extended Trochanteric Osteotomy and Revision Total Hip Arthroplasty.",
+      "authors": [
+        "Abwini LZ",
+        "Tang A",
+        "Zeiman M",
+        "Andriani NT",
+        "Gillinov L",
+        "Shichman I",
+        "Schwarzkopf R",
+        "Liporace FA",
+        "Yoon RS"
+      ],
+      "authors_short": "Abwini LZ, Tang A, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: An extended trochanteric osteotomy (ETO) is used in complex cases to enhance access to the femoral canal and aid implant and cement removal during revision total hip arthroplasty (RTHA). However, there is no consensus regarding postoperative rehabilitation protocols. The aim of this study was to assess the efficacy and safety of immediate weight-bearing (WB) protocols in patients undergoing ETO during RTHA. METHODS: A multicenter retrospective review was conducted at two academic medical centers between 2014 and 2021 to identify patients undergoing an ETO during RTHA with a minimum 1-year follow-up. Thirty-nine patients underwent an immediate WB protocol postoperatively. Union rates, ambulatory status, 90-day orthopaedic-related complications, revision surgeries, revisions, and Hip Disability and Osteoarthritis Outcome Score Joint Replacement (HOOS JR) scores were collected. RESULTS: Fifty-three patients were included in the final analysis. The average follow-up time was 15.8 \u00b1 20.4 months, with a mean age of 63.7 \u00b1 11.5 years. Bony union was achieved in 46 patients (86.8%). The mean earliest time to union was 4.2 \u00b1 5.4 months. Average HOOS JR scores significantly improved from preoperative to 1-year follow-up (mean 16.4 \u00b1 4.1 vs 3.5 \u00b1 4.2), P \u2264 0.000001). At the final follow-up, ambulatory status improved, with fewer patients kept as non-weight bearing (11 (21.6%) versus 7 (15.2%)). Two complications (3.8%) due to deep infection, 5 revision surgeries (9.4%), and 6 revisions (11.0%) were observed within 90 days. CONCLUSION: Most patients who underwent ETO during RTHA and were placed on an immediate WB protocol achieved union at 4.2 months on average. HOOS JR scores improved as early as 2 weeks. More importantly, a greater proportion of patients experienced an improved ambulatory status at the final follow-up. These findings suggest that an immediate WB protocol-particularly WBAT-may be effective and safely implemented in patients undergoing an ETO during RTHA. LEVEL OF EVIDENCE: Level III retrospective cohort comparison study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42114103/",
+      "score": 69,
+      "score_reasoning": "Large systematic review and meta-analysis of concomitant injuries in ACL reconstruction with excellent sample size and clinical planning value.",
+      "bullets": [
+        "Immediate weight bearing after extended trochanteric osteotomy during revision hip arthroplasty achieved 87% union rates at an average of 4.2 months in 53 patients.",
+        "Early weight bearing protocols resulted in 3.8% infection rate and 9.4% revision surgery rate within 90 days, suggesting acceptable safety profile.",
+        "Patients showed significant functional improvement with fewer requiring non-weight bearing status at final follow-up compared to immediate postoperative period."
+      ]
+    },
+    {
+      "pmid": "42134642",
+      "title": "Incidence of Bone Cement Implantation Syndrome Is Not Associated With Cement in a Modern Series of Patients Treated with Arthroplasty for Femoral Neck Fracture.",
+      "authors": [
+        "Engh CA",
+        "Temple J",
+        "Novicoff W",
+        "Browne JA"
+      ],
+      "authors_short": "Engh CA, Temple J, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Bone cement implantation syndrome (BCIS) has been characterized by hypotension and/or hypoxia during cementation of a prosthesis; however, the casual link between cement and the pathophysiology of BCIS is unclear. This study aimed to determine if there is an association between cement and the incidence of BCIS by comparing cemented versus non-cemented hip arthroplasties in a modern series of patients who had a femoral neck fracture. METHODS: A single-institution multi-surgeon retrospective review of 428 patients who underwent either hemi-arthroplasty (HA) or total hip arthroplasty (THA) for acute femoral neck fracture between May 2017 and December 2024 was performed. Data including American Society of Anesthesiologists (ASA) classification, co-morbidities, type of anesthesia, operative time, and use of cement for fixation were recorded. Intraoperative anesthesia records were manually reviewed for hypoxia and hypotension, and the grade of BCIS was calculated where applicable. Data were then analyzed using multivariate logistic regressions, analyses of variances (ANOVA), t-tests, and Chi-square analyses. Of the 428 patients, 301 (70%) had a cemented arthroplasty (211 HA and 90 THA), whereas the remaining 127 (30%) had cementless implants (18 HA and 109 THA). Of patients who met BCIS criteria, 219 (51%) were grade I and 83 (19%) were grade II. RESULTS: There were no patients who were grade III (cardiovascular collapse requiring cardiopulmonary resuscitation). Of patients who met BCIS criteria, there was no statistical association with cemented versus cementless fixation. In the multivariate analyses, only the type of anesthesia (spinal versus general) was associated with BCIS grade I or II (odds ratio (OR) = 2.37 (95% confidence interval (CI): 1.55 to 3.61), P < 0.001). There were no other recorded variables that reached statistical significance. CONCLUSION: In this modern series of patients undergoing arthroplasty for femoral neck fracture, no association was found between intraoperative BCIS and the use of cement fixation. Prior assumptions regarding BCIS may need to be reconsidered given contemporary surgical and anesthetic techniques.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42134642/",
+      "score": 68,
+      "score_reasoning": "Important retrospective cohort study on BCIS in modern hip arthroplasty challenging conventional wisdom about cement use with good sample size.",
+      "bullets": [
+        "Bone cement implantation syndrome occurred equally in cemented and cementless hip arthroplasties for femoral neck fractures in 428 patients.",
+        "General anaesthesia increased BCIS risk by 2.4 times compared to spinal anaesthesia, while cement type showed no association.",
+        "Seventy percent of patients had grade I or II BCIS with no cardiovascular collapse cases requiring CPR in this modern series."
+      ]
+    },
+    {
+      "pmid": "42134641",
+      "title": "Technology-Assisted Total Knee Arthroplasty Is Associated with Faster Initial Recovery, But Similar One-Year Outcomes: A Retrospective Cohort Study of Patient-Reported Outcomes in 2,002 Patients.",
+      "authors": [
+        "Omran K",
+        "Wixted C",
+        "Waren D",
+        "Rozell JC",
+        "Schwarzkopf R"
+      ],
+      "authors_short": "Omran K, Wixted C, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Robotic and navigation-assisted total knee arthroplasty (TKA) systems aim to optimize surgical performance; however, their influence on the speed of functional recovery remains unclear. This study compared the time to achieve a minimal clinically important difference (MCID) among patients undergoing robotic-assisted (RA), navigation-assisted (NA), and conventional TKA using Knee Injury and Osteoarthritis Outcome Score for Joint Replacement (KOOS-JR) questionnaires. METHODS: This retrospective cohort study included patients undergoing primary TKA for osteoarthritis at a tertiary academic center from July 2017 to July 2024. Inclusion required preoperative and postoperative KOOS-JR scores within 12 months of surgery. Exclusion criteria were non-osteoarthritis indications, bilateral procedures, or revision within one year. The MCID was defined using both anchor-based and distribution-based methods. The time to MCID was analyzed using multivariable interval-censored accelerated failure time models, accounting for clinical and demographic variables and the operating surgeon. A total of 2,002 patients met the inclusion criteria: 433 (21.6%) underwent RA-TKA, 713 (35.6%) NA-TKA, and 856 (42.8%) conventional TKA. RESULTS: Both technology-assisted approaches were associated with faster MCID achievement compared to conventional TKA. Using distribution-based thresholds, NA-TKA achieved MCID 29% faster (time ratio [TR] = 0.71, 95% confidence interval (CI): 0.58 to 0.88, P = 0.002) and RA-TKA 26% faster (TR = 0.74, 95% CI: 0.57 to 0.95, P = 0.018), with covariate-standardized estimated median times of 19.9, 20.7, and 28.0 days, respectively. Using anchor-based thresholds, NA-TKA achieved MCID 27% faster (TR = 0.73, 95% CI: 0.57 to 0.95, P = 0.017) and RA-TKA 26% faster (TR = 0.74, 95% CI: 0.55 to 1.00, P = 0.050), with corresponding median times of 52.8, 53.5, and 71.9 days. The one-year MCID attainment rates were similar across all techniques (P > 0.6 for both definitions). CONCLUSIONS: Both RA-TKA and NA-TKA were associated with 26 to 29% faster achievement of clinically meaningful improvement compared with conventional TKA, corresponding to approximately seven to 19 fewer days to reach MCID, despite similar one-year attainment rates. Prospective multicenter studies are needed to validate these results and determine whether accelerated recovery translates to advantages in quality of life, healthcare utilization, and patient satisfaction.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42134641/",
+      "score": 67,
+      "score_reasoning": "Large retrospective study on technology-assisted TKA with 2,002 patients showing faster recovery, high clinical relevance for surgical planning.",
+      "bullets": [
+        "Robotic and navigation-assisted TKA patients reach meaningful functional improvement 7-19 days faster than conventional TKA patients in a cohort of 2,002 primary knee replacements.",
+        "Both technology-assisted approaches showed 26-29% faster recovery to clinically important improvement thresholds, with navigation slightly outperforming robotic assistance.",
+        "One-year functional outcomes were identical across all three techniques, suggesting the benefit is limited to early recovery speed rather than final results."
+      ]
+    },
+    {
+      "pmid": "42114081",
+      "title": "Age and Seasonal Variation in Pediatric Fractures: An Epidemiological Study Based on 90,000 Fractures From the Swedish Fracture Register.",
+      "authors": [
+        "Amilon S",
+        "Gatenholm B",
+        "Bergdahl C",
+        "M\u00f6ller Rydberg E",
+        "Rolfson O",
+        "Wennergren D"
+      ],
+      "authors_short": "Amilon S, Gatenholm B, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Fractures among children and adolescents are common; however, comprehensive national studies are limited. A nationwide register-based cohort study was undertaken using data from the Swedish Fracture Register (SFR) to analyze the epidemiology of long bone fractures in children and adolescents in Sweden, including seasonal and age-related variations. METHODS: This observational study used data from the SFR. All patients aged 16 or younger with a fracture in any segment of a long bone (humerus, forearm, femur, and tibia) from May 1, 2015 to April 31, 2023 were included. Epidemiological data, including age, month of injury, sex, affected side, open or closed physis, injury type, fracture classification according to the AO Paediatric Comprehensive Classification of Long Bone Fractures (PCCF), and treatment type, were retrieved and analyzed. RESULTS: During the 8-year study period, 87,004 children with 94,347 fractures to any part of a long bone were registered in the SFR. In 2021, the overall annual incidence of long bone fractures was 133 per 10,000 children. Distal forearm fractures accounted for almost half of all fractures (n=45,355, 48%). There was a continuously increasing number of fractures with increasing age until a peak between ages 10 and 12. Fractures were most common in May to June and August to September. CONCLUSION: This study presents the epidemiology of pediatric fractures based on over 90,000 cases from the SFR. Distal forearm fractures were the most common, accounting for half of long-bone fractures in children (0-16\u00a0y). A general peak in fracture incidence was observed around the onset of puberty, with variation across fracture locations. The study also reveals a distinct seasonal variation in pediatric fractures. May to June and August to September appear to be the most common months for children and adolescents to sustain fractures in Sweden. LEVELS OF EVIDENCE: Level II-retrospective study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42114081/",
+      "score": 60,
+      "score_reasoning": "Multi-center study of immediate weight bearing after extended trochanteric osteotomy with good safety outcomes and practice implications.",
+      "bullets": [
+        "Distal forearm fractures account for nearly half of all pediatric long bone fractures, making them the most common fracture location in children aged 0-16 years.",
+        "Pediatric fracture incidence peaks between ages 10-12 years, corresponding to the onset of puberty across all long bone locations.",
+        "Seasonal clustering occurs in May-June and August-September, suggesting increased fracture risk during periods of higher outdoor activity in children."
+      ]
+    },
+    {
+      "pmid": "42114046",
+      "title": "Intramedullary Nailing Versus Plate Fixation for Femoral Derotational Osteotomy in Adolescents: A Randomized Controlled Trial.",
+      "authors": [
+        "Gr\u00f8nseth A",
+        "Rysst-Heilmann AMS",
+        "Terjesen T",
+        "Horn J"
+      ],
+      "authors_short": "Gr\u00f8nseth A, Rysst-Heilmann AMS, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Persistent increased femoral anteversion (IFA) in adolescents can cause in-toeing, pain, and functional limitations. Femoral derotational osteotomy is the only effective treatment for symptomatic cases, but the optimal fixation method remains unclear. This randomized controlled trial compared intramedullary nailing with plate fixation, hypothesizing that intramedullary nailing would be noninferior in achieving the intended rotational correction. METHODS: Adolescents aged 10 to 18 years with symptomatic IFA were randomized to FDO stabilized either with a proximal femoral plate or an intramedullary nail. The primary outcome was correction accuracy, defined as the difference between planned and achieved derotation measured on postoperative CT. Secondary outcomes included hip rotation, radiographic healing, complications, operative metrics, patient-reported outcome measures (CHOHES, KOOS-child, KIDSCREEN-27), and patient satisfaction. Follow-up assessments were performed at 6, 12, 26, and 52 weeks. RESULTS: Thirty-one adolescents (49 osteotomies) with a mean age of 13.4\u00b11.8 were analyzed. Intramedullary nailing was noninferior to plate fixation, with a mean deviation from the intended correction of 6.6\u00b14.9 degrees and an intergroup difference of 0.7 degrees ( P =0.586). All osteotomies healed within 6 months, and no cases of avascular necrosis occurred. Both groups demonstrated significant improvements in hip rotation and patient-reported outcomes at 1 year, without significant differences between techniques. Operative time was slightly longer with intramedullary nailing, whereas this group achieved full weight bearing slightly earlier. CONCLUSIONS: Intramedullary nailing achieves rotational correction accuracy comparable to plate fixation, with reliable healing and similar functional outcomes. Given its minimally invasive nature and allowance for immediate postoperative weight bearing, it represents an effective alternative for adolescents undergoing femoral derotational osteotomy. LEVELS OF EVIDENCE: Level I-randomized controlled trial.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42114046/",
+      "score": 59,
+      "score_reasoning": "RCT comparing fixation methods for femoral derotational osteotomy with good methodology and clinical applicability.",
+      "bullets": [
+        "Intramedullary nailing achieves rotational correction accuracy equal to plate fixation for femoral derotational osteotomy in adolescents aged 10-18 years.",
+        "Both fixation methods resulted in complete healing within 6 months with no avascular necrosis in 49 osteotomies performed.",
+        "Intramedullary nailing allows earlier weight bearing compared to plate fixation while producing similar functional outcomes at one year."
+      ]
+    }
+  ],
+  "picks": [
+    7
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-05-15T04:55:10.656221-07:00"
+}
