@@ -1,0 +1,312 @@
+{
+  "brief_date": "2026-05-18",
+  "brief_date_display": "Monday, May 18",
+  "candidates": [
+    {
+      "pmid": "42139672",
+      "title": "Severity-dependent shift in knee osteoarthritis toward a dominant varus-flexion alignment phenotype on weight-bearing 3D imaging.",
+      "authors": [
+        "Liang Z",
+        "He J",
+        "Rong F",
+        "Li H",
+        "Zhang Y",
+        "Chen Z",
+        "Zhang Y",
+        "Yu X",
+        "Zhang M",
+        "Zheng H",
+        "Ye C",
+        "Sun X",
+        "Xia C",
+        "Li Z",
+        "Tang J"
+      ],
+      "authors_short": "Liang Z, He J, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To determine whether weight-bearing three-dimensional (3D) spatial hip-knee-ankle (HKA) alignment exhibits severity-dependent changes across knee osteoarthritis (KOA) stages, whether it is more strongly associated with joint structure and symptoms than conventional two-dimensional (2D) HKA alignment, and whether these 3D alignment patterns correspond to distinct cartilage stress distributions. METHODS: This prospective study enroled 151 patients (296 knees) with radiographic KOA (Kellgren-Lawrence [KL] Grades 1-4). Spatial HKA angles, defined as 3D mechanical alignment angles without projection onto any anatomical plane, were measured using weight-bearing cone-beam computed tomography (CBCT) and compared with conventional 2D radiographic HKA angles. Knees were classified into 3D alignment phenotypes based on their alignment orientation: valgus-extension, valgus-flexion, varus-extension and varus-flexion. Joint space narrowing and Western Ontario and McMaster Universities osteoarthritis index (WOMAC) scores were assessed. For each KL grade, the average spatial HKA orientation was incorporated into finite element models to estimate cartilage stress distributions. RESULTS: Spatial HKA angles showed stronger correlations with joint space narrowing (r\u2009=\u20090.52-0.61) and WOMAC scores (r\u2009=\u20090.45-0.56) than single-plane alignment measures. Spatial HKA angles increased progressively across KL grades. Knees with mild osteoarthritis clustered near neutral, whereas knees with KL Grades 3 and 4 predominantly shifted toward a varus-flexion pattern. The prevalence of varus-flexion alignment increased markedly with severity, reaching 67.2% and 89.1% in KL Grades 3 and 4, respectively. Medial and posterior cartilage stress increased with severe varus-flexion alignment. CONCLUSION: The spatial HKA angle derived from weight-bearing CBCT captured severity-dependent multiplanar malalignment and demonstrated stronger structural and symptomatic associations than 2D measures. Advanced KOA was characterized by a dominant varus-flexion alignment phenotype, associated with increased medial and posterior cartilage stress. LEVEL OF EVIDENCE: Level IV.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42139672/",
+      "score": 95,
+      "score_reasoning": "High-quality prospective study from ESSKA journal examining patient expectations as predictors of ACL reconstruction outcomes with strong clinical relevance for surgical counseling and patient selection.",
+      "bullets": [
+        "Weight-bearing 3D imaging shows knee osteoarthritis progressively shifts from neutral alignment to varus-flexion deformity as severity increases.",
+        "Advanced osteoarthritis (KL grades 3-4) demonstrates varus-flexion alignment in 67% to 89% of cases, creating increased stress on medial and posterior cartilage.",
+        "3D spatial alignment measurements correlate better with joint space narrowing and pain scores than traditional 2D radiographic measurements."
+      ]
+    },
+    {
+      "pmid": "42139640",
+      "title": "Increased residual anterior knee laxity at one year is associated with a dose-dependent increase in graft re-rupture risk following hamstring autograft ACL reconstruction in athletes.",
+      "authors": [
+        "Erden T",
+        "A\u011f\u0131r M",
+        "Enes Kayaalp M",
+        "Toker B",
+        "Ta\u015fer \u00d6"
+      ],
+      "authors_short": "Erden T, A\u011f\u0131r M, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: Residual anterior knee laxity following anterior cruciate ligament reconstruction (ACLR) has been associated with inferior subjective outcomes and an increased risk of revision surgery; however, its prognostic value for predicting subsequent graft re-rupture remains unclear. This study aimed to assess the association between KT-1000-measured 1-year post-operative anterior knee laxity and graft re-rupture after ACLR. We hypothesised that increased residual anterior knee laxity at 1 year post-operatively would be associated with a higher risk of graft re-rupture in a dose-dependent manner. METHODS: This retrospective cohort study included 1011 amateur and professional athletes who underwent primary ACLR with hamstring tendon autograft (HTA) between 2005 and 2024 by a single surgeon using a standardised surgical technique. Patients undergoing revision ACLR, multiligament reconstruction, or any lateral extra-articular augmentation procedure were excluded. Anterior knee laxity was quantified using the KT-1000 arthrometer at a mean of 12.1\u2009\u00b1\u20091.3 months post-operatively. A landmark time-to-event design was applied, with follow-up starting from the KT-1000 assessment to minimise immortal time bias and to focus on anterior knee laxity after biological graft maturation. The primary exposure was KT-1000 side-to-side difference (SSD), analysed as both a continuous variable and using clinically relevant thresholds (<3\u2009mm, 3-5\u2009mm, and >5\u2009mm). Associations between post-operative laxity and graft re-rupture, adjusting for demographic, surgical, and activity-related factors were assessed using a multivariable Cox proportional hazards model. Secondary analyses evaluated the relationship between KT-1000 laxity, return-to-play status, and post-operative activity level. RESULTS: Patients who experienced graft re-rupture had significantly greater post-operative KT-1000 SSD compared with those without re-rupture (3.5\u2009\u00b1\u20091.3\u2009mm vs. 2.1\u2009\u00b1\u20090.9\u2009mm; p\u2009<\u20090.001). Increased KT-1000 SSD was independently associated with higher graft re-rupture risk (adjusted hazard ratio, 2.97 per 1-mm increase; 95% confidence interval [CI], 2.5-3.5). Higher laxity categories were associated with progressively increased re-rupture risk with adjusted hazard ratios of 1.76 (95% CI, 1.3-2.3; p\u2009<\u20090.001) for 3-5\u2009mm and 8.85 (95% CI, 4.7-16.4; p\u2009<\u20090.001) for >5\u2009mm compared with <3\u2009mm. Post-operative 1-year KT-1000 anterior knee laxity was not significantly associated with return-to-play status (odds ratio, 0.84 per 1-mm increase; 95% CI, 0.6-1.1; p\u2009=\u20090.28), but was modestly associated with lower post-operative Tegner activity level (p\u2009<\u20090.001). CONCLUSION: KT-1000-measured post-operative anterior knee laxity at 1 year post-operatively was independently associated with the risk of subsequent graft re-rupture after HTA ACLR in athletic patients. These findings suggest that residual laxity may serve as a useful risk stratification tool, rather than a deterministic predictor of failure, and should be interpreted in the context of overall clinical and biomechanical assessment. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42139640/",
+      "score": 92,
+      "score_reasoning": "Large cohort study (1011 patients) from ESSKA examining residual anterior knee laxity as a predictor of ACL graft re-rupture with direct implications for post-operative monitoring and patient counseling.",
+      "bullets": [
+        "Athletes with KT-1000 side-to-side difference over 5mm at one year after hamstring ACL reconstruction had 9 times higher graft re-rupture risk than those under 3mm.",
+        "Each 1mm increase in post-operative anterior laxity at one year nearly tripled the risk of subsequent graft failure in this cohort of over 1000 athletes.",
+        "Residual laxity measurement at one year can help stratify re-rupture risk but does not predict return to play status after hamstring autograft ACL reconstruction."
+      ]
+    },
+    {
+      "pmid": "42136071",
+      "title": "Low Fragility Index Undermines Confidence in ACL Graft Superiority: A Systematic Review and Fragility Index Analysis.",
+      "authors": [
+        "Mahatme RJ",
+        "Moore SA",
+        "Gangavaram A",
+        "Anderson W",
+        "Campa W",
+        "Grawe BM"
+      ],
+      "authors_short": "Mahatme RJ, Moore SA, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Graft selection is a key factor in anterior cruciate ligament reconstruction (ACLR), yet the statistical robustness of comparative outcomes remains unclear. Reliance on P values may overstate confidence in clinical differences. PURPOSE: To assess the statistical fragility of dichotomous outcomes in randomized controlled trials (RCTs) comparing hamstring tendon (HT), bone-patellar tendon-bone (BPTB), quadriceps tendon (QT), and allograft ACL grafts. STUDY DESIGN: Systematic review and fragility analysis; Level of evidence, 1. METHODS: A systematic search of PubMed, Embase, and Medline (June 2025) identified RCTs comparing 2 ACL graft types with >1 dichotomous outcome. Outcomes were analyzed for fragility index (FI), reverse FI (rFI), fragility quotient (FQ), and reverse FQ (rFQ); those with zero events in both groups were excluded. Median FI and rFI values were compared across graft types and outcome categories, and significant outcomes were stratified by graft type. RESULTS: A total of 29 RCTs (200 outcomes) were included; 179 outcomes (89.5%) were analyzed, and 21 (10.5%) showed significant results. Overall median FI and rFI were both 2.0 (interquartile range: FI 1.0-5.0, rFI 1.0-4.0). In 26 studies (89.7%), loss to follow-up exceeded or equaled the FI or rFI. HT versus BPTB was the most common graft pair comparison (72.1%). All graft comparisons had high fragility (FI \u22642.5). Radiographic complications and knee complications had relatively high FIs (6.5 and 4.5), whereas medical complications, revision ACL, and secondary surgery were most fragile (FI = 1.0). Among significant outcomes, HT had the highest FQ (0.034), followed by QT (0.026) and BPTB (0.016); none favored allografts. CONCLUSION: Many ACLR RCT findings were fragile, with most significant results reversible by altering 2 events. Loss to follow-up often exceeded fragility thresholds, raising reliability concerns. Although HT had the greatest number of significant outcomes and highest FQ, this likely reflects study volume rather than clinical superiority. High-powered RCTs with standardized outcomes and fragility reporting are needed to clarify graft effectiveness.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42136071/",
+      "score": 88,
+      "score_reasoning": "Systematic review with fragility analysis from AJSM examining statistical robustness of ACL graft comparison studies, providing critical insight into reliability of current evidence.",
+      "bullets": [
+        "Most significant differences between ACL graft types in randomized trials could be reversed by changing just 2 patient outcomes, indicating weak statistical evidence.",
+        "Study dropouts typically exceeded the number of events needed to flip study conclusions, making published graft comparison results unreliable.",
+        "No strong evidence exists for superiority of any specific ACL graft type including hamstring, patellar tendon, quadriceps tendon, or allograft based on current trial data."
+      ]
+    },
+    {
+      "pmid": "42116540",
+      "title": "Concomitant Intra-articular Injuries in 37,423 Primary and Revision ACL Reconstructions: A Systematic Review and Meta-analysis of Comparative Studies.",
+      "authors": [
+        "Vega TF",
+        "Thamrongskulsiri N",
+        "Brinkman JC",
+        "P\u00e9rez Lloveras GO",
+        "Casanova F",
+        "Cerezal \u00c1",
+        "San Roman AV",
+        "Borace AF",
+        "Hazime D",
+        "Moews LD",
+        "Chahla J"
+      ],
+      "authors_short": "Vega TF, Thamrongskulsiri N, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Intra-articular lesions of menisci and cartilage are common in anterior cruciate ligament reconstruction (ACLR) and may differ between primary and revision procedures. Clarifying their prevalence, morphology, and risk factors is important for prognosis and surgical planning. PURPOSE: To perform a systematic review and meta-analysis comparing the prevalence and risk factors for intra-articular injuries in primary versus revision ACLR. STUDY DESIGN: Systematic review and meta-analysis; Level of evidence, 4. METHODS: Following PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines, the PubMed, MEDLINE, and Embase databases were searched, supplemented by citation review and author contact. Comparative studies reporting intraoperative meniscal and/or chondral findings in both primary and revision ACLRs were included. Pooled odds ratios with 95% confidence intervals were calculated using random- or fixed-effects models. RESULTS: Nineteen studies consisting of 37,423 ACLRs were included. Revision ACLR was associated with higher odds of meniscal injury (OR, 1.64; 95% CI, 1.12-2.41). Meniscal treatment did not differ significantly between groups. Chondral lesions were >3-fold more prevalent in revisions (OR, 3.53; 95% CI, 2.71-4.60), especially at the trochlea (OR, 3.21; 95% CI, 2.59-3.97; I2 = 33%), medial tibial plateau (OR, 3.12; 95% CI, 2.61-3.73; I2 = 0%), and medial femoral condyle (OR, 2.99; 95% CI, 2.30-3.89; I2 = 61%). High-grade lesions (Outerbridge/International Cartilage Regeneration & Joint Preservation Society grades 3 and 4) were consistently more common in revisions, with progression observed in up to 26% of intrapatient comparisons. Risk factors reported for intra-articular injuries on revision ACLR included older age, male sex, tunnel malposition, malalignment, increased tibial slope, longer time to revision, and prior meniscectomy. CONCLUSION: In this review of >37,000 ACLRs, revision status was associated with 1.6-fold higher odds of meniscal tears and 3.5-fold higher odds of chondral lesions compared with primary reconstruction. Chondral injury at revision was more prevalent across all compartments and consistently more severe, with the greatest risk observed in the trochlea and medial compartment. These findings demonstrate a substantially greater intra-articular disease burden at the time of revision surgery.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42116540/",
+      "score": 84,
+      "score_reasoning": "Systematic review and meta-analysis from AJSM comparing two major shoulder instability procedures in contact athletes with high clinical relevance for sports medicine practitioners.",
+      "bullets": [
+        "Revision ACL reconstruction patients have 1.6 times higher odds of meniscal tears and 3.5 times higher odds of cartilage damage compared to primary ACL reconstruction patients.",
+        "Cartilage lesions in revision cases are more severe and affect all compartments, with the highest risk in the trochlea and medial compartment.",
+        "Risk factors for increased joint damage at revision include older age, male sex, tunnel malposition, longer time to revision, and prior meniscectomy."
+      ]
+    },
+    {
+      "pmid": "42114103",
+      "title": "Immediate Weight Bearing Is Safe Following Combined Extended Trochanteric Osteotomy and Revision Total Hip Arthroplasty.",
+      "authors": [
+        "Abwini LZ",
+        "Tang A",
+        "Zeiman M",
+        "Andriani NT",
+        "Gillinov L",
+        "Shichman I",
+        "Schwarzkopf R",
+        "Liporace FA",
+        "Yoon RS"
+      ],
+      "authors_short": "Abwini LZ, Tang A, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: An extended trochanteric osteotomy (ETO) is used in complex cases to enhance access to the femoral canal and aid implant and cement removal during revision total hip arthroplasty (RTHA). However, there is no consensus regarding postoperative rehabilitation protocols. The aim of this study was to assess the efficacy and safety of immediate weight-bearing (WB) protocols in patients undergoing ETO during RTHA. METHODS: A multicenter retrospective review was conducted at two academic medical centers between 2014 and 2021 to identify patients undergoing an ETO during RTHA with a minimum 1-year follow-up. Thirty-nine patients underwent an immediate WB protocol postoperatively. Union rates, ambulatory status, 90-day orthopaedic-related complications, revision surgeries, revisions, and Hip Disability and Osteoarthritis Outcome Score Joint Replacement (HOOS JR) scores were collected. RESULTS: Fifty-three patients were included in the final analysis. The average follow-up time was 15.8 \u00b1 20.4 months, with a mean age of 63.7 \u00b1 11.5 years. Bony union was achieved in 46 patients (86.8%). The mean earliest time to union was 4.2 \u00b1 5.4 months. Average HOOS JR scores significantly improved from preoperative to 1-year follow-up (mean 16.4 \u00b1 4.1 vs 3.5 \u00b1 4.2), P \u2264 0.000001). At the final follow-up, ambulatory status improved, with fewer patients kept as non-weight bearing (11 (21.6%) versus 7 (15.2%)). Two complications (3.8%) due to deep infection, 5 revision surgeries (9.4%), and 6 revisions (11.0%) were observed within 90 days. CONCLUSION: Most patients who underwent ETO during RTHA and were placed on an immediate WB protocol achieved union at 4.2 months on average. HOOS JR scores improved as early as 2 weeks. More importantly, a greater proportion of patients experienced an improved ambulatory status at the final follow-up. These findings suggest that an immediate WB protocol-particularly WBAT-may be effective and safely implemented in patients undergoing an ETO during RTHA. LEVEL OF EVIDENCE: Level III retrospective cohort comparison study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42114103/",
+      "score": 83,
+      "score_reasoning": "Large meta-analysis of 37,423 ACL reconstructions from AJSM examining concomitant injuries with important implications for surgical planning and prognosis.",
+      "bullets": [
+        "Extended trochanteric osteotomy sites achieved 87% union rates at average 4.2 months when patients were allowed immediate weight bearing after revision hip arthroplasty.",
+        "Immediate weight bearing after combined ETO and revision hip surgery resulted in low 90-day complication rates (3.8% infection, 9.4% revision surgery).",
+        "Patients who weight bore immediately after ETO revision hip surgery showed improved walking ability and functional scores compared to preoperative status."
+      ]
+    },
+    {
+      "pmid": "42133527",
+      "title": "Trends of E-Scooter-Related Pediatric Orthopaedic Injuries: 20 Years of Nationally Representative Data.",
+      "authors": [
+        "Lu S",
+        "Williams CJ",
+        "Marsh IG",
+        "Nian PP",
+        "Beber SA",
+        "Ross S",
+        "Logterman S",
+        "Heyer JH"
+      ],
+      "authors_short": "Lu S, Williams CJ, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: The rise in popularity of battery-powered 2-wheeled electric scooters (e-scooters) has fostered safety concerns, particularly because of a lack of universally recommended safety precautions. Orthopaedic injuries are common in the pediatric population, yet little is known about the trends of e-scooter-related orthopaedic injuries in this population. The aim of this study was to investigate the national trends in orthopaedic injuries among children operating e-scooters over a twenty-year period. METHODS: The National Electronic Surveillance System, a publicly available database of 102 emergency departments, was retrospectively queried for patients aged 0 to 21 years with an orthopaedic injury related to e-scooter usage between 2005 and 2024. Each case was assigned a sampling weight to produce nationally representative estimates. Linear regressions were used to calculate trends. RESULTS: An estimated 55,653 pediatric orthopaedic injuries were reported during the study period. The weighted estimates of orthopaedic injuries related to e-scooter use had an upward trend from 2005 to 2024, with notable peaks in 2020 and 2024, which were paralleled by annual incident rates. The estimated average annual incidence rate was 204 injuries per 100,000 children per year. Most (65%) of the injuries occurred in male individuals. Children (aged 0-13) accounted for 63% of injuries, and adolescents (aged 14-21) accounted for 37% of injuries. Fractures were the most common injury (71.7%), followed by strain or sprain (25.2%). Most commonly injured anatomical areas were in the upper extremities, particularly the wrist (21.5%), forearm (15.6%), and shoulder (8.4%). Most (90.2%) of the injuries were treated and discharged on the same day. CONCLUSION: Pediatric orthopaedic-related e-scooter injuries have increased over the past 20 years, with injuries occurring more commonly in male individuals and children sustaining mostly fractures and upper body injuries. As new technologies facilitating high-speed travel emerge, orthopaedic surgeons should be cognizant of the injuries associated with the new products.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42133527/",
+      "score": 68,
+      "score_reasoning": "Long-term outcomes study from JBJS examining latissimus dorsi tendon transfer for irreparable rotator cuff tears with minimum 10-year follow-up providing valuable prognostic information.",
+      "bullets": [
+        "E-scooter injuries in children increased dramatically over 20 years with peaks in 2020 and 2024, averaging 204 injuries per 100,000 children annually.",
+        "Boys aged 0-13 sustain most injuries, with 72% being fractures and upper extremity injuries predominating (wrist 22%, forearm 16%).",
+        "Most pediatric e-scooter orthopaedic injuries are treated and discharged the same day, requiring outpatient fracture management rather than admission."
+      ]
+    },
+    {
+      "pmid": "42127166",
+      "title": "PyroTITAN Pyrocarbon Shoulder Hemiarthroplasty: Clinical and Radiographic Outcomes with Medium-Term Follow-up.",
+      "authors": [
+        "Hoy G",
+        "Burrows K",
+        "McBride A",
+        "Ross M",
+        "Davis K",
+        "Warby S"
+      ],
+      "authors_short": "Hoy G, Burrows K, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Pyrocarbon hemiarthroplasty (HA) is a recent option for younger patients with end-stage glenohumeral joint (GHJ) arthritis. Early results are promising but limited by study bias. The aim of this study was to evaluate medium-term clinical and radiographic outcomes following PyroTITAN pyrocarbon HA. METHODS: One hundred and nineteen shoulders with GHJ arthritis in 115 patients (mean age, 56.5 years; 92 shoulders were in male patients) underwent PyroTITAN pyrocarbon HA. Primary patient-reported outcome measures (PROMs) included the Western Ontario Osteoarthritis of the Shoulder Index and American Shoulder and Elbow Surgeons score. Clinicians assessed shoulder range of motion and abduction strength. PROMs and clinician evaluations were recorded preoperatively and at 6, 12, and 24 months and 5 years postoperatively. Postoperative complications were recorded, and radiographs were evaluated for glenoid erosion. Implant survival was calculated over the 5-year follow-up period. Data were analyzed on an intention-to-treat basis using linear mixed models for continuous data and Friedman analysis of variance for ordinal data. Kaplan-Meier analysis assessed revision-free survival. Significance was set at p < 0.05. RESULTS: There was significant improvement in all PROMs and ranges of motion at 6, 12, and 24 months and 5 years postoperatively. Abduction strength was significantly improved at 24 months. Seven complications (5.9%) were recorded: ongoing pain (n = 2), stiffness (n = 2), pain and stiffness (n = 2), and implant fracture (n = 1). There were 3 revisions (2.5%) and thus a 97.5% five-year survival rate. Glenoid erosion increased slightly but not significantly over time. CONCLUSIONS: The findings in our patient series support the PyroTITAN HA implant as a viable option for GHJ arthritis across a broad age range, including younger patients. LEVEL OF EVIDENCE: Therapeutic Level IV . See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42127166/",
+      "score": 65,
+      "score_reasoning": "RCT from JBJS comparing regional anesthesia techniques in total hip arthroplasty with direct implications for perioperative pain management protocols.",
+      "bullets": [
+        "PyroTITAN pyrocarbon hemiarthroplasty improved pain, function, and range of motion at 5 years in 119 shoulders with glenohumeral arthritis (mean age 57 years).",
+        "Revision rate was 2.5% at 5 years with 97.5% implant survival, complications occurred in 5.9% of patients including ongoing pain, stiffness, and one implant fracture.",
+        "Glenoid erosion increased slightly over time but was not statistically significant, supporting use in younger patients with end-stage glenohumeral arthritis."
+      ]
+    },
+    {
+      "pmid": "42134569",
+      "title": "Impact of Smoking on Structural Failure After Arthroscopic Rotator Cuff Repair: A Systematic Review and Meta-analysis\".",
+      "authors": [
+        "Nguyen VT",
+        "Kuo YJ",
+        "Wu LC",
+        "Lian YZ",
+        "Chen YP"
+      ],
+      "authors_short": "Nguyen VT, Kuo YJ, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Rotator cuff tears cause significant shoulder pain and functional limitation. Arthroscopic rotator cuff repair improves symptoms, yet structural failure rates remain substantial. Smoking may impair tendon-to-bone healing, but clinical studies report mixed findings due to heterogeneous methodology. Therefore, a systematic synthesis of imaging-confirmed outcomes is needed to clarify the association between smoking and structural failure after arthroscopic rotator cuff repair. METHODS: This review followed PRISMA 2020 and was registered in PROSPERO. PubMed, Embase, Scopus, Web of Science, and the Cochrane Library were searched from inception to 12 December 2025. Comparative clinical studies of adults undergoing arthroscopic rotator cuff repair that reported imaging-confirmed structural integrity (magnetic resonance imaging or ultrasonography) at \u22656 months were included. Two reviewers independently screened studies, extracted data, and assessed quality using the Newcastle-Ottawa Scale. The primary outcome (structural failure) was pooled as risk ratios using a random-effects model with the restricted maximum likelihood estimator and Hartung-Knapp adjustment. Secondary continuous outcomes were synthesized using Bayesian random-effects models; subgroup, sensitivity, and meta-regression analyses explored heterogeneity. RESULTS: Ten cohort studies (1,683 shoulders) were included. Smoking was associated with a higher risk of imaging-confirmed structural failure (risk ratio 1.53; 95% confidence interval 1.13-2.08; P = .011) with low heterogeneity (I2 = 24.7%). Subgroup and sensitivity analyses supported robustness, with no evidence of effect modification by region, follow-up duration, tear size, or smoking definition. Meta-regression showed no significant influence of age, smoking prevalence, or diabetes prevalence on the pooled effect. Secondary outcomes (three studies) suggested slightly lower postoperative American Shoulder and Elbow Surgeons scores among smokers, while visual analog scale pain scores and forward flexion showed no clear between-group differences. No publication-bias signals were detected for the primary outcome. CONCLUSION: Smoking is associated with a higher risk of imaging-confirmed structural failure after arthroscopic rotator cuff repair. Functional outcomes were broadly similar between groups, with only a small, likely clinically negligible reduction in American Shoulder and Elbow Surgeons scores among smokers. These findings support careful smoking history assessment and perioperative risk modification, including smoking cessation strategies. LEVEL OF EVIDENCE: Level III, Systematic Review/ Meta-analysis.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42134569/",
+      "score": 64,
+      "score_reasoning": "Long-term study from JOA examining cementless TKA in morbidly obese patients with minimum 10-year follow-up providing important data for this challenging patient population.",
+      "bullets": [
+        "Smoking increases the risk of structural failure after arthroscopic rotator cuff repair by 53% based on imaging at 6 months or longer.",
+        "This finding was consistent across different regions, follow-up periods, tear sizes, and smoking definitions in 1,683 shoulders from 10 studies.",
+        "Functional outcomes were similar between smokers and non-smokers, with only a small difference in shoulder scores that is likely not clinically meaningful."
+      ]
+    },
+    {
+      "pmid": "42134634",
+      "title": "The One-Year Postoperative Trajectories of Knee Joint Angle Recovery During Walking After Total Knee Arthroplasty in Women: A Cross-Sectional Study.",
+      "authors": [
+        "Fan CH",
+        "Hsu JH",
+        "Yu PA",
+        "Chen CL",
+        "Wen-Wei Hsu R",
+        "Hsu WH"
+      ],
+      "authors_short": "Fan CH, Hsu JH, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Total knee arthroplasty (TKA) effectively alleviates pain in end-stage knee osteoarthritis; however, postoperative functional recovery, particularly gait restoration, remains variable. Although knee range of motion (ROM) typically recovers early after surgery, its relationship with patient-reported outcomes such as the Knee injury and Osteoarthritis Outcome Score (KOOS) is inconsistent. Understanding how dynamic knee joint kinematics during walking evolve over time and relate to perceived function may provide sensitive recovery indicators. METHODS: Women who underwent unilateral primary TKA were assessed at three, six, nine, and 12 months postoperatively. A three-dimensional gait analysis was used to quantify knee joint angles during walking, and KOOS subscales were collected concurrently. A one-dimensional statistical parametric mapping was applied to examine temporal changes in knee joint kinematics and their associations with KOOS outcomes. RESULTS: Knee muscle strength, walking speed, and all KOOS subscales improved progressively over the first postoperative year. Knee joint kinematics of the operated limb stabilized by approximately three months, with minimal subsequent changes. There were no significant inter-limb differences observed, except for greater terminal swing knee flexion in the non-operated limb at three months. Notably, knee flexion angles of the operated limb during the swing phase (approximately 55.0 to 75.0% of the gait cycle) significantly predicted all KOOS subscales except sports/recreation. CONCLUSION: These findings indicate that dynamic knee joint angles during walking, rather than static ROM measures, are closely associated with perceived knee function after TKA. Gait-based kinematic assessments may serve as valuable objective markers for monitoring recovery and guiding rehabilitation.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42134634/",
+      "score": 63,
+      "score_reasoning": "10-year outcomes study from JOA examining computer-assisted navigation in hip resurfacing with important implications for surgical technique and long-term survivorship.",
+      "bullets": [
+        "Women after TKA show stable knee joint motion during walking by 3 months postoperatively, with minimal changes thereafter through 12 months.",
+        "Knee flexion angles during the swing phase of walking predict patient-reported outcomes better than static range of motion measurements.",
+        "Gait analysis may provide more useful recovery markers than traditional ROM testing for monitoring TKA rehabilitation progress."
+      ]
+    },
+    {
+      "pmid": "42134640",
+      "title": "Incidence of Early Periprosthetic Hip Fractures in Patients Over Age 70 Years Following Primary Total Hip Arthroplasty Using a Novel Triple-Tapered Collared Femoral Stem.",
+      "authors": [
+        "Smith NS",
+        "Grimm AJ",
+        "Malkani AL",
+        "Gililland JM",
+        "Mayman DJ",
+        "Westrich GH",
+        "Zepeda KE",
+        "Smith LS",
+        "Jerabek SA"
+      ],
+      "authors_short": "Smith NS, Grimm AJ, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Periprosthetic hip fractures are a known complication following cementless total hip arthroplasty (THA), especially in elderly patients. A triple-tapered collared femoral stem was introduced to provide multidirectional contact, resist torsional forces, and distribute load to help reduce subsidence. The purpose of this study was to determine the incidence of periprosthetic femoral fractures with a novel triple-tapered collared femoral stem in a group of patients who were aged greater than 70 years undergoing primary THA. METHODS: This was a multi-center retrospective analysis of patients who were aged greater than 70 years undergoing primary THA. There were 385 THAs that had a triple-tapered collared stem compared to 383 dual-tapered collarless stems. There were no differences between groups regarding sex and American Society of Anesthesiologists (ASA) class. The dual-tapered group had a higher average body mass index (BMI) than the triple-tapered group (29.9 versus 28.4, P < 0.01) and higher age (76.0 versus 75.2, P = 0.022). Overall revision rates, incidence of periprosthetic fractures, and complications were compared. RESULTS: There were seven (1.8%) early (less than one month) periprosthetic fractures in the dual-tapered group, and one (0.26%) early fracture in the triple-tapered group (P = 0.038). The dual-tapered group had a longer follow-up and a higher overall revision rate of 5.7%, primarily due to prosthetic joint infection (PJI) and periprosthetic fractures. There were four revisions in the triple-tapered collared group (1.0%, P < 0.01). CONCLUSION: The use of a novel triple-tapered collared stem was associated with a significant decrease in the incidence of periprosthetic fractures in patients who were aged greater than 70 years undergoing primary THA. Given the increased mortality of periprosthetic hip fractures in elderly patients, the results of this study appear promising and require additional follow-up to determine if the results are durable.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42134640/",
+      "score": 62,
+      "score_reasoning": "Large retrospective cohort study (2,002 patients) from JOA comparing technology-assisted vs conventional TKA recovery with practical implications for surgical planning.",
+      "bullets": [
+        "Triple-tapered collared femoral stems had significantly lower early periprosthetic fracture rates compared to dual-tapered stems in patients over 70 (0.26% vs 1.8%).",
+        "Study included 768 primary THAs in elderly patients with mean follow-up favoring the dual-tapered group, which also had higher BMI and age.",
+        "Overall revision rates were lower with triple-tapered stems (1.0% vs 5.7%), though dual-tapered group had longer follow-up and more infections."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-05-18T06:44:47.169516-07:00"
+}
