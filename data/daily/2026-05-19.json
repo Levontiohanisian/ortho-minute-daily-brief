@@ -1,0 +1,291 @@
+{
+  "brief_date": "2026-05-19",
+  "brief_date_display": "Tuesday, May 19",
+  "candidates": [
+    {
+      "pmid": "42153302",
+      "title": "Complications, Reoperations, and Healthcare Costs Following Total Ankle Arthroplasty vs Ankle Arthrodesis.",
+      "authors": [
+        "McDevitt JW",
+        "Durudogan EH",
+        "Patel MS",
+        "Mutawakkil MY",
+        "Kadakia AR"
+      ],
+      "authors_short": "McDevitt JW, Durudogan EH, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Ankle arthrodesis (AA) has historically been the gold standard surgical treatment for end-stage ankle arthritis, providing reliable pain relief at the expense of motion. Total ankle arthroplasty (TAA) has emerged as a motion-preserving alternative with improving survivorship and functional outcomes. However, large-scale comparative data evaluating complications, reoperation rates, opioid utilization, and health care costs remain limited. This study compared outcomes following AA and TAA using a national administrative database. METHODS: A retrospective cohort study was performed using a national claims database. Adult patients undergoing primary TAA or AA were identified, excluding cases involving trauma, infection, or malignancy. Propensity score matching (1:1) was performed based on age, sex, year of surgery, insurance type, and comorbidities. Thirty-day complications, 2-year outcomes, postoperative opioid utilization, and cumulative health care costs were assessed. Categorical variables were compared using \u03c72 testing and continuous variables using independent-samples t-tests. RESULTS: A total of 15\u2009898 patients met inclusion criteria (9271 AA; 6627 TAA). After matching, 6627 patients remained in each cohort. At 2 years, TAA demonstrated lower rates of any reoperation compared with AA (3.1% vs 7.7%, P\u2009<\u2009.001), driven by lower rates of revision (1.1% vs 3.3%), hardware removal (1.3% vs 5.5%), and infection-related reoperations (1.3% vs 1.9%) (all P\u2009<\u2009.05). Diagnosis-based endpoints, reported separately, similarly favored TAA. Within 30 days, TAA was associated with fewer complications (1.0% vs 2.3%, P\u2009<\u2009.001). Although index costs were modestly higher for TAA, cumulative costs at 2 years were lower ($7225 vs $8043, P\u2009<\u2009.001). Early opioid use was slightly higher following TAA but converged by 1 year. CONCLUSION: In a propensity-matched national cohort, TAA demonstrated lower reoperation rates, fewer early complications, and lower cumulative costs at 2 years compared with AA, supporting TAA as a durable treatment option.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42153302/",
+      "score": 92,
+      "score_reasoning": "Large-scale propensity-matched study (n=15,898) comparing TAA vs AA with highly relevant clinical outcomes including complications, costs, and reoperation rates from a prestigious journal.",
+      "bullets": [
+        "Total ankle arthroplasty had lower 2-year reoperation rates than ankle arthrodesis (3.1% vs 7.7%) in a matched cohort of over 13,000 patients.",
+        "Ankle arthroplasty patients had fewer 30-day complications (1.0% vs 2.3%) and lower cumulative healthcare costs at 2 years despite higher initial procedure costs.",
+        "Hardware removal was needed more often after ankle arthrodesis than arthroplasty (5.5% vs 1.3%) within 2 years of surgery."
+      ]
+    },
+    {
+      "pmid": "42148749",
+      "title": "Comparison of Costs and Postoperative Complications Between Carbon Fiber and Titanium Intramedullary Nails in the Treatment of Impending or Completed Pathologic Femoral Fractures: A Propensity-Matched Study.",
+      "authors": [
+        "Rizk PA",
+        "Gonzalez MR",
+        "Morse AS",
+        "Lozano-Calder\u00f3n SA"
+      ],
+      "authors_short": "Rizk PA, Gonzalez MR, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "AIMS: Despite the benefits of carbon fiber (CF) implants, concerns over their higher cost relative to titanium implants have limited their broader adoption in orthopaedic oncology. Our study compared the costs and postoperative complications associated with titanium and CF intramedullary nails (IMNs) in patients with femoral bone metastases. METHODS: We conducted a retrospective analysis of patients treated with titanium or CF IMNs for impending or completed pathologic femoral fractures due to metastatic bone disease between 2016 and 2023. Inpatient costs, 30-day costs, and 30-day postoperative complications were assessed. Mean and median total, direct, and indirect costs were evaluated using cost units. Propensity-score matching was conducted to minimize potential confounders. RESULTS: After propensity-score matching, we included 91 and 45 patients treated with titanium and CF femur IMNs, respectively. No differences in age, sex, primary tumor, or comorbidity profile were found between groups. Mean and median total costs, direct costs, and indirect costs during the inpatient stay and at 30 days postoperatively were similar between the titanium and CF groups. The mean length of stay was 8 days in both groups (P = 0.70). Thirty-day complication rates were 25% and 20% in the titanium and CF group, respectively (P = 0.50). No differences in 30-day readmission (25% in both; P = 0.35), mortality (4% versus 9%; P = 0.29), and revision surgery (1% versus 2%; P = 0.61) rates were observed between the titanium and CF groups. CONCLUSION: We found comparable inpatient costs, 30-day costs, and short-term postoperative complications between titanium and CF IMNs for impending or completed pathologic femoral fractures. LEVEL OF EVIDENCE: III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42148749/",
+      "score": 88,
+      "score_reasoning": "Well-designed propensity-matched study comparing carbon fiber vs titanium implants for pathologic fractures with cost analysis and clinical outcomes, addressing a relevant clinical question.",
+      "bullets": [
+        "Carbon fiber and titanium intramedullary nails showed similar total costs for pathologic femoral fractures in cancer patients despite higher implant costs for carbon fiber.",
+        "Thirty-day complication rates were equivalent between carbon fiber and titanium nails at 20% versus 25% in patients with femoral bone metastases.",
+        "Hospital length of stay, readmission rates, and revision surgery rates were comparable between carbon fiber and titanium implants at 30 days postoperatively."
+      ]
+    },
+    {
+      "pmid": "42134642",
+      "title": "Incidence of Bone Cement Implantation Syndrome Is Not Associated With Cement in a Modern Series of Patients Treated with Arthroplasty for Femoral Neck Fracture.",
+      "authors": [
+        "Engh CA",
+        "Temple J",
+        "Novicoff W",
+        "Browne JA"
+      ],
+      "authors_short": "Engh CA, Temple J, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Bone cement implantation syndrome (BCIS) has been characterized by hypotension and/or hypoxia during cementation of a prosthesis; however, the casual link between cement and the pathophysiology of BCIS is unclear. This study aimed to determine if there is an association between cement and the incidence of BCIS by comparing cemented versus non-cemented hip arthroplasties in a modern series of patients who had a femoral neck fracture. METHODS: A single-institution multi-surgeon retrospective review of 428 patients who underwent either hemi-arthroplasty (HA) or total hip arthroplasty (THA) for acute femoral neck fracture between May 2017 and December 2024 was performed. Data including American Society of Anesthesiologists (ASA) classification, co-morbidities, type of anesthesia, operative time, and use of cement for fixation were recorded. Intraoperative anesthesia records were manually reviewed for hypoxia and hypotension, and the grade of BCIS was calculated where applicable. Data were then analyzed using multivariate logistic regressions, analyses of variances (ANOVA), t-tests, and Chi-square analyses. Of the 428 patients, 301 (70%) had a cemented arthroplasty (211 HA and 90 THA), whereas the remaining 127 (30%) had cementless implants (18 HA and 109 THA). Of patients who met BCIS criteria, 219 (51%) were grade I and 83 (19%) were grade II. RESULTS: There were no patients who were grade III (cardiovascular collapse requiring cardiopulmonary resuscitation). Of patients who met BCIS criteria, there was no statistical association with cemented versus cementless fixation. In the multivariate analyses, only the type of anesthesia (spinal versus general) was associated with BCIS grade I or II (odds ratio (OR) = 2.37 (95% confidence interval (CI): 1.55 to 3.61), P < 0.001). There were no other recorded variables that reached statistical significance. CONCLUSION: In this modern series of patients undergoing arthroplasty for femoral neck fracture, no association was found between intraoperative BCIS and the use of cement fixation. Prior assumptions regarding BCIS may need to be reconsidered given contemporary surgical and anesthetic techniques.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42134642/",
+      "score": 86,
+      "score_reasoning": "Large retrospective study (n=428) examining bone cement implantation syndrome in femoral neck fractures with practical clinical implications for daily practice.",
+      "bullets": [
+        "BCIS occurred in 70% of patients during hip arthroplasty for femoral neck fractures but showed no association with cemented versus cementless fixation.",
+        "General anesthesia increased BCIS risk 2.4 times compared to spinal anesthesia, while patient factors and operative time showed no correlation.",
+        "All BCIS cases were grade I or II with no cardiovascular collapse, suggesting modern techniques may reduce severe complications previously attributed to cement."
+      ]
+    },
+    {
+      "pmid": "42134641",
+      "title": "Technology-Assisted Total Knee Arthroplasty Is Associated with Faster Initial Recovery, But Similar One-Year Outcomes: A Retrospective Cohort Study of Patient-Reported Outcomes in 2,002 Patients.",
+      "authors": [
+        "Omran K",
+        "Wixted C",
+        "Waren D",
+        "Rozell JC",
+        "Schwarzkopf R"
+      ],
+      "authors_short": "Omran K, Wixted C, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Robotic and navigation-assisted total knee arthroplasty (TKA) systems aim to optimize surgical performance; however, their influence on the speed of functional recovery remains unclear. This study compared the time to achieve a minimal clinically important difference (MCID) among patients undergoing robotic-assisted (RA), navigation-assisted (NA), and conventional TKA using Knee Injury and Osteoarthritis Outcome Score for Joint Replacement (KOOS-JR) questionnaires. METHODS: This retrospective cohort study included patients undergoing primary TKA for osteoarthritis at a tertiary academic center from July 2017 to July 2024. Inclusion required preoperative and postoperative KOOS-JR scores within 12 months of surgery. Exclusion criteria were non-osteoarthritis indications, bilateral procedures, or revision within one year. The MCID was defined using both anchor-based and distribution-based methods. The time to MCID was analyzed using multivariable interval-censored accelerated failure time models, accounting for clinical and demographic variables and the operating surgeon. A total of 2,002 patients met the inclusion criteria: 433 (21.6%) underwent RA-TKA, 713 (35.6%) NA-TKA, and 856 (42.8%) conventional TKA. RESULTS: Both technology-assisted approaches were associated with faster MCID achievement compared to conventional TKA. Using distribution-based thresholds, NA-TKA achieved MCID 29% faster (time ratio [TR] = 0.71, 95% confidence interval (CI): 0.58 to 0.88, P = 0.002) and RA-TKA 26% faster (TR = 0.74, 95% CI: 0.57 to 0.95, P = 0.018), with covariate-standardized estimated median times of 19.9, 20.7, and 28.0 days, respectively. Using anchor-based thresholds, NA-TKA achieved MCID 27% faster (TR = 0.73, 95% CI: 0.57 to 0.95, P = 0.017) and RA-TKA 26% faster (TR = 0.74, 95% CI: 0.55 to 1.00, P = 0.050), with corresponding median times of 52.8, 53.5, and 71.9 days. The one-year MCID attainment rates were similar across all techniques (P > 0.6 for both definitions). CONCLUSIONS: Both RA-TKA and NA-TKA were associated with 26 to 29% faster achievement of clinically meaningful improvement compared with conventional TKA, corresponding to approximately seven to 19 fewer days to reach MCID, despite similar one-year attainment rates. Prospective multicenter studies are needed to validate these results and determine whether accelerated recovery translates to advantages in quality of life, healthcare utilization, and patient satisfaction.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42134641/",
+      "score": 85,
+      "score_reasoning": "Large cohort study (n=2,002) comparing technology-assisted vs conventional TKA with patient-reported outcomes and meaningful sample size from high-impact journal.",
+      "bullets": [
+        "Robotic and navigation-assisted total knee arthroplasty patients reach meaningful functional improvement 26-29% faster than conventional TKA patients, translating to 7-19 fewer days to recovery.",
+        "Both technology-assisted approaches showed similar acceleration benefits in this 2,002 patient retrospective study of primary TKA for osteoarthritis over 7 years.",
+        "Despite faster early recovery, all three surgical techniques had identical rates of meaningful improvement at one year postoperatively."
+      ]
+    },
+    {
+      "pmid": "42142866",
+      "title": "Survival and clinical outcomes of the Eclipse\u2122 stemless anatomic total shoulder arthroplasty: a comparative study of glenoid component designs and humeral head materials.",
+      "authors": [
+        "Kraus M",
+        "Gebauer H",
+        "Warnhoff M",
+        "Lazaridou A",
+        "Scheibel M"
+      ],
+      "authors_short": "Kraus M, Gebauer H, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Fixation of the glenoid component in anatomic total shoulder arthroplasty (aTSA) is critical for implant longevity. The aim of this study was to compare long-term implant survival and clinical outcomes between keeled and pegged glenoid components of the Eclipse\u2122 stemless aTSA, and to evaluate the influence of humeral head material on revision rates and functional outcomes. METHODS: A retrospective, bicentric analysis was conducted on 90 patients who underwent aTSA between 2011 and 2016. Patients were classified into three groups based on the specific glenoid and humeral components received: Group 1 had keeled cemented all-polyethylene glenoid components with cobalt-chromium humeral heads (n = 38); Group 2, pegged cemented all-polyethylene glenoid components with cobalt-chromium humeral heads (n = 14); and Group 3 received pegged cemented all-polyethylene glenoid components with titanium-coated humeral heads (n = 38). Propensity score matching was performed between Groups 1 and 3 with adjustments made for age, sex, and glenoid morphology. The primary outcome was implant survival at five years. Secondary outcomes included the Constant score and glenohumeral distance (GHD) evaluated at baseline and the 5-year follow-up with additional analysis of postoperative changes in GHD. Revisions were documented throughout the follow-up period. Implant survival was evaluated using Kaplan-Meier estimates with log-rank tests. Multivariable Cox proportional hazards regression was then performed to adjust for potential confounders with sensitivity analyses conducted to assess the robustness of the findings. RESULTS: Baseline patient characteristics of age, sex, and glenoid morphology were similar among the three groups. Median implant survival of 102 months for Group 1 was significantly longer compared to 66 and 73 months for Groups 2 and 3, respectively (P < 0.0001). The median 5-year Constant score was significantly higher in Group 1 (80.0) compared to Groups 2 (37.5) and 3 (32.5) (P < 0.001). Baseline and 5-year GHDs and the difference over time were similar across patient groups (P \u2265 0.203). Revision rates were significantly lower for Group 1 (13%) over Groups 2 and 3 (53%) (P < 0.001). CONCLUSION: For our aTSA cohort, keeled glenoid components with cobalt-chromium humeral heads demonstrate the best implant survival and clinical outcomes. For the pegged components the type of humeral head material used had no influence on implant survival and clinical outcome. The mechanisms behind glenoid component failure remain to be clarified. LEVEL OF EVIDENCE: Level III; Retrospective Cohort Comparison, Treatment Study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42142866/",
+      "score": 84,
+      "score_reasoning": "Comparative study of glenoid component designs in shoulder arthroplasty with propensity matching and long-term survival data, relevant for shoulder surgeons.",
+      "bullets": [
+        "Keeled glenoid components with cobalt-chromium heads showed better 5-year survival (102 months) than pegged designs with either cobalt-chromium or titanium heads (66-73 months) in stemless shoulder arthroplasty.",
+        "Revision rates were significantly lower with keeled glenoids (13%) compared to pegged glenoids (53%), regardless of humeral head material.",
+        "Functional outcomes measured by Constant scores were superior with keeled glenoid components (80.0) versus pegged designs (32.5-37.5) at 5-year follow-up."
+      ]
+    },
+    {
+      "pmid": "42153282",
+      "title": "Long-term Clinical and Radiographic Outcomes After Salto Talaris Total Ankle Arthroplasty: Long-term Follow-up of a Previously Published Cohort.",
+      "authors": [
+        "Slowinski J",
+        "Lutnick E",
+        "Frappa N",
+        "Orie G",
+        "Bousleiman J",
+        "Ritter C"
+      ],
+      "authors_short": "Slowinski J, Lutnick E, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: This study aimed to demonstrate long term clinical follow-up and implant survivorship of Salto Talaris-type primary total ankle arthroplasty (TAA) by 1 foot and ankle-trained surgeon at a single institution. METHODS: Patients treated with primary Salto Talaris TAA were identified via Current Procedural Terminology (CPT) codes and included if they underwent primary TAA without history of arthrodesis and had complete imaging, clinical evaluation, and patient-reported outcomes preoperatively. Implant survivorship was calculated considering revision as requiring metal component explantation. Patient outcomes at final follow-up were compared to available preoperative values via paired t tests. P\u2009<.05 was considered significant. RESULTS: A total of 154 patients met inclusion (55.8% female, mean age at surgery 63.3\u2009\u00b1\u20098.9\u2009years). Mean follow-up was 9.7\u2009years (range, 0.6-17.6\u2009years). Estimated implant survival probability was 100% at 1\u2009year, 97.2% at 3\u2009years (95% CI 94.6-99.9), 94.9% at 5\u2009years (95% CI 91.3-98.7), 91.6% at 10\u2009years (95% CI 86.7-96.9), and 86.9% at both 12 and 15\u2009years (95% CI 79.3-95.3); no component explantation events occurred between 12 and 15\u2009years, with the final explantation recorded at 15.28\u2009years postoperatively. Thirteen patients underwent revision. There was no significant change in dorsiflexion but a reduction in plantarflexion (\u0394\u2009=\u2009-4.3\u00b0, 95% CI -6.0 to -2.6; P\u2009<\u2009.001) at final follow-up. No significant changes were observed comparing radiographs at 6-week and final follow-up, including tibial component coronal alignment, posterior tibial slope, and talar component position. Among 87 patients (91 TAA) with complete long-term data, VAS pain decreased (\u0394\u2009=\u2009-26.5, 95% CI -33.0 to -20.0; P\u2009<\u2009.001), mean FCS 12 increased (\u0394\u2009=\u2009+20.9, 95% CI 18.7-23.2; P\u2009<\u2009.001), and MCS increased (\u0394\u2009=\u2009+5.2, 95% CI 2.9-7.5; P\u2009<\u2009.001). All FAOS subscales improved significantly (P\u2009<\u2009.001). CONCLUSION: This cohort suggests that Salto Talaris-type TAA is associated with durable survivorship and patient outcomes at long-term follow-up in this single-surgeon series.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42153282/",
+      "score": 83,
+      "score_reasoning": "Long-term follow-up study (mean 9.7 years) of Salto Talaris TAA with survival analysis and clinical outcomes, providing valuable survivorship data.",
+      "bullets": [
+        "Salto Talaris total ankle arthroplasty shows 87% implant survival at 15 years with 13 revisions in 154 patients at mean 9.7 year follow-up.",
+        "Pain scores improved significantly while plantarflexion decreased by 4 degrees, but dorsiflexion and radiographic alignment remained stable long-term.",
+        "All functional outcome scores including FAOS subscales improved significantly compared to preoperative baseline in this single surgeon series."
+      ]
+    },
+    {
+      "pmid": "42149746",
+      "title": "A Fracture Healing Odyssey: Kinematic Comparison of Unions and Nonunions in Human Lower-Extremity Long Bones Treated with Intramedullary Nailing: A Retrospective Cohort Study.",
+      "authors": [
+        "Lopas LA",
+        "Jang Y",
+        "Liu Z",
+        "Slaven JE",
+        "Arnold JC",
+        "Haller JM",
+        "Marchand LS",
+        "Mau M",
+        "Kacena MA",
+        "Natoli RM"
+      ],
+      "authors_short": "Lopas LA, Jang Y, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Fracture nonunion remains a major clinical challenge. Although radiographic scores such as RUST (Radiographic Union Score for Tibial fractures) and mRUST (the modified version) are widely used to assess healing, there has been limited investigation into their longitudinal use. This study evaluated whether a log-logistic statistical model of radiographic healing scores over time could quantify differences between fractures that healed and those that went on to nonunion. METHODS: This retrospective cohort analysis added serial radiographs of 49 femoral shaft nonunions to radiographs from previous cohorts. Tibiae and femora were scored with RUST and mRUST, respectively. Scores were plotted over time and fitted to a log-logistic curve to generate a healing (\"position\") equation. Model-derived parameters (Yinf [ultimate score], k [a curve shape parameter], and thalf [time to half of the score change]) were compared between fractures that did and did not unite. Secondarily, first and second derivatives were used to describe the fracture healing \"velocity\" and \"acceleration\" for each group. RESULTS: A total of 613 fractures were analyzed: 234 tibial (196 healed, 38 nonunion) and 379 femoral (330 healed, 49 nonunion). In femoral fractures, Yinf, k, and thalf all differed significantly (p < 0.008) between healed and nonunion cases. In tibial fractures, Yinf and k differed (both p < 0.008), whereas thalf did not (p = 0.30). The first and second derivatives at the population level suggest early differences in healing kinematics between fractures that heal and those that go on to nonunion. CONCLUSIONS: This proof-of-concept study demonstrates that log-logistic modeling of radiographic scores can quantify differences in radiographic healing between femoral and tibial shaft fractures treated with intramedullary nails that will go on to union versus nonunion. Differences in healing velocity and acceleration may emerge early, supporting the potential of the longitudinal framework for earlier identification of fractures at risk for nonunion. LEVEL OF EVIDENCE: Therapeutic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42149746/",
+      "score": 82,
+      "score_reasoning": "Large retrospective cohort (n=613) using novel statistical modeling to differentiate fracture healing patterns between unions and nonunions, published in top-tier journal.",
+      "bullets": [
+        "Researchers tracked RUST scores over time in 613 nailed femur and tibia fractures to compare healing patterns between unions and nonunions.",
+        "Fractures destined for nonunion showed different mathematical healing curves with lower ultimate scores and altered shape parameters compared to those that healed.",
+        "Early differences in healing velocity and acceleration between eventual unions and nonunions suggest this modeling approach could identify at-risk fractures sooner than current methods."
+      ]
+    },
+    {
+      "pmid": "42134569",
+      "title": "Impact of Smoking on Structural Failure After Arthroscopic Rotator Cuff Repair: A Systematic Review and Meta-analysis\".",
+      "authors": [
+        "Nguyen VT",
+        "Kuo YJ",
+        "Wu LC",
+        "Lian YZ",
+        "Chen YP"
+      ],
+      "authors_short": "Nguyen VT, Kuo YJ, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Rotator cuff tears cause significant shoulder pain and functional limitation. Arthroscopic rotator cuff repair improves symptoms, yet structural failure rates remain substantial. Smoking may impair tendon-to-bone healing, but clinical studies report mixed findings due to heterogeneous methodology. Therefore, a systematic synthesis of imaging-confirmed outcomes is needed to clarify the association between smoking and structural failure after arthroscopic rotator cuff repair. METHODS: This review followed PRISMA 2020 and was registered in PROSPERO. PubMed, Embase, Scopus, Web of Science, and the Cochrane Library were searched from inception to 12 December 2025. Comparative clinical studies of adults undergoing arthroscopic rotator cuff repair that reported imaging-confirmed structural integrity (magnetic resonance imaging or ultrasonography) at \u22656 months were included. Two reviewers independently screened studies, extracted data, and assessed quality using the Newcastle-Ottawa Scale. The primary outcome (structural failure) was pooled as risk ratios using a random-effects model with the restricted maximum likelihood estimator and Hartung-Knapp adjustment. Secondary continuous outcomes were synthesized using Bayesian random-effects models; subgroup, sensitivity, and meta-regression analyses explored heterogeneity. RESULTS: Ten cohort studies (1,683 shoulders) were included. Smoking was associated with a higher risk of imaging-confirmed structural failure (risk ratio 1.53; 95% confidence interval 1.13-2.08; P = .011) with low heterogeneity (I2 = 24.7%). Subgroup and sensitivity analyses supported robustness, with no evidence of effect modification by region, follow-up duration, tear size, or smoking definition. Meta-regression showed no significant influence of age, smoking prevalence, or diabetes prevalence on the pooled effect. Secondary outcomes (three studies) suggested slightly lower postoperative American Shoulder and Elbow Surgeons scores among smokers, while visual analog scale pain scores and forward flexion showed no clear between-group differences. No publication-bias signals were detected for the primary outcome. CONCLUSION: Smoking is associated with a higher risk of imaging-confirmed structural failure after arthroscopic rotator cuff repair. Functional outcomes were broadly similar between groups, with only a small, likely clinically negligible reduction in American Shoulder and Elbow Surgeons scores among smokers. These findings support careful smoking history assessment and perioperative risk modification, including smoking cessation strategies. LEVEL OF EVIDENCE: Level III, Systematic Review/ Meta-analysis.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42134569/",
+      "score": 78,
+      "score_reasoning": "Systematic review and meta-analysis of RCTs examining smoking impact on rotator cuff repair outcomes with clinical relevance for patient counseling.",
+      "bullets": [
+        "Smokers have a 53% higher risk of structural failure after arthroscopic rotator cuff repair based on MRI or ultrasound at 6+ months follow-up.",
+        "This increased failure risk applies across different tear sizes, regions, and follow-up durations in a meta-analysis of 1,683 shoulders.",
+        "Functional outcomes remain similar between smokers and non-smokers, but smoking history should guide perioperative counseling and cessation efforts."
+      ]
+    },
+    {
+      "pmid": "42142097",
+      "title": "Clinical Outcomes of Surgical Options for Base-of-Thumb Arthritis: A Systematic Review and Network Meta-Analysis.",
+      "authors": [
+        "Burnett N",
+        "Cheok T",
+        "Wills K",
+        "Van Hout Z",
+        "Zhang YX",
+        "McCarthy M",
+        "Smith T",
+        "Jaarsma R",
+        "Jayasekera N"
+      ],
+      "authors_short": "Burnett N, Cheok T, et al.",
+      "journal": "The Journal of hand surgery",
+      "journal_abbrev": "J Hand Surg Am",
+      "year": "2026",
+      "abstract": "PURPOSE: We investigated the complication profile and effectiveness of arthrodesis, trapeziectomy without suspensionplasty or ligament reconstruction (S/LR), trapeziectomy with S/LR, and joint replacement (JR) for the management of base-of-thumb arthritis. We included cases of interposition material placement within the trapeziectomy without the S/LR group. METHODS: A systematic search of PubMed, Embase, and Web of Science was performed from their date of inception to November 2024. The primary complication outcome of interest was the reoperation risk, whereas the primary efficacy outcomes of interest were the pain score measured using a visual analog scale (VAS), Kapandji Opposition Score, and Disability of the Arm, Shoulder and Hand (DASH) or QuickDASH score at the end of the follow-up period. Network meta-analysis was performed. Surface under cumulative ranking (SUCRA) values were computed for studies published within the past 2 decades to rank each group against outcomes of interest, resulting in an approximate summary of the rank distribution of each intervention. A higher SUCRA value, therefore, indicates a better ranking. Cluster analysis was then used to provide an overall recommendation, balancing the risks and benefits of the procedure. RESULTS: Seventy-one studies were included in the final analysis. SUCRA values for reoperation risk in the arthrodesis, trapeziectomy without S/LR, trapeziectomy with S/LR and JR groups were 1.3%, 66.4%, 98.2%, and 34.1%, respectively. Likewise, the SUCRA values for each of these groups (in the same order) were 45.5%, 18.0%, 44.7%, and 91.7% for VAS pain scores; 0.0%, 76.8%, 34.4%, and 88.8% for Kapandji Opposition Score; and 2.0%, 44.9%, 53.2%, and 99.9% for DASH or QuickDASH score. CONCLUSIONS: Trapeziectomy with or without S/LR had a lower reoperation risk and improved patient-reported outcome measures. Balancing the modest improvement in impairment measures against a high reoperation risk, there is still insufficient evidence to recommend the routine use of JR. LEVEL OF EVIDENCE: Therapeutic IV.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42142097/",
+      "score": 77,
+      "score_reasoning": "Comprehensive systematic review and network meta-analysis comparing surgical options for base-of-thumb arthritis with practical treatment guidance.",
+      "bullets": [
+        "Trapeziectomy with suspensionplasty had the lowest reoperation risk among all base-of-thumb arthritis treatments, while joint replacement had the highest reoperation risk.",
+        "Joint replacement provided the best pain relief and functional scores but came with significantly higher complication rates compared to trapeziectomy options.",
+        "Current evidence does not support routine use of joint replacement for base-of-thumb arthritis due to high reoperation risk despite better functional outcomes."
+      ]
+    },
+    {
+      "pmid": "42116541",
+      "title": "A Comparison of Arthroscopic Bankart Repair and the Latarjet Procedure in Contact Athletes With Anterior Shoulder Instability: A Systematic Review and Meta-analysis.",
+      "authors": [
+        "Peckston DC",
+        "Deng D",
+        "Farshidfar SS",
+        "Jenkins M",
+        "De Franceschi F",
+        "Baba M"
+      ],
+      "authors_short": "Peckston DC, Deng D, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Anterior shoulder instability is a frequent and often career-limiting problem in contact sports. Surgical intervention is frequently required to restore stability and reduce the risk of recurrence. Arthroscopic Bankart repair (ABR) and the Latarjet procedure are widely used, but direct comparative data in contact athletes remain limited. PURPOSE: To compare clinical outcomes, recurrence, complications, and return-to-sport (RTS) timelines between ABR and the Latarjet procedure in contact athletes. STUDY DESIGN: Systematic review and meta-analysis; Level of evidence, 4. METHODS: A systematic review and meta-analysis was conducted in accordance with PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines. The PubMed, Ovid MEDLINE, Embase and Cochrane databases were searched for studies reporting recurrence, revision, complications, RTS, and functional outcomes in contact athletes undergoing primary ABR or the Latarjet procedure for anterior shoulder instability. RESULTS: In total, 29 studies involving 2103 patients (1443 ABR, 660 Latarjet) were included in this analysis. The Latarjet procedure demonstrated a lower recurrence rate (7% vs 15%; P = .014) but similar revision rates (6% for the Latarjet procedure vs 7% for ABR; P = .402). ABR was associated with fewer complications (2% vs 8%; P < .0001). Both procedures achieved high RTS rates (89% for ABR vs 86% for the Latarjet approach) and similar rates of return to the same level of play (78% vs 76%), with no differences under random-effects models. The mean time to RTS was comparable (5.34 months for ABR vs 5.88 months for the Latarjet procedure; P = .365). Pooled postoperative Rowe scores (89.48 for Bankart; 87.41 for the Latarjet procedure; P = .27) and Athletic Shoulder Outcome Scoring System scores were also similar, indicating good functional recovery across both groups. CONCLUSION: This meta-analysis shows that the Latarjet procedure provides lower recurrence, although at the cost of higher complication risk. ABR offers a safer perioperative profile but with greater risk of recurrent instability. Despite these differences, both procedures achieve comparable revision rates, functional outcomes, RTS rates, and time to return. Procedure selection should therefore be individualized, balancing the athlete's risk of recurrence, tolerance of complications, and performance goals.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42116541/",
+      "score": 75,
+      "score_reasoning": "Well-designed systematic review and meta-analysis comparing Bankart repair vs Latarjet in contact athletes with clinically relevant outcomes.",
+      "bullets": [
+        "In contact athletes with anterior shoulder instability, Latarjet procedure reduces recurrence compared to arthroscopic Bankart repair (7% vs 15%) but causes more complications (8% vs 2%).",
+        "Both procedures achieve similar return to sport rates (89% Bankart vs 86% Latarjet), same level return rates (78% vs 76%), and recovery times (5.3 vs 5.9 months).",
+        "Revision rates and functional scores are equivalent between procedures, making choice dependent on individual athlete's recurrence risk tolerance versus complication acceptance."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-05-19T05:38:58.375584-07:00"
+}
