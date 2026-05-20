@@ -1,0 +1,314 @@
+{
+  "brief_date": "2026-05-20",
+  "brief_date_display": "Wednesday, May 20",
+  "candidates": [
+    {
+      "pmid": "42155688",
+      "title": "Clinical, Radiological, and Kinematic Impact of Gluteus Maximus Tendon Release During Total Hip Arthroplasty: A Prospective Randomized Controlled Trial.",
+      "authors": [
+        "Nald\u00f6ven \u00d6F",
+        "\u00c7epni \u015e",
+        "Veizi E",
+        "Duran S",
+        "Ordu G\u00f6kkaya NK",
+        "Ko\u00e7 SS",
+        "F\u0131rat A",
+        "K\u0131l\u0131\u00e7arslan K"
+      ],
+      "authors_short": "Nald\u00f6ven \u00d6F, \u00c7epni \u015e, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Release of the gluteus maximus tendon during a total hip arthroplasty (THA) can lead to gluteal dysfunction. Sciatic nerve injury, while rare, remains a serious complication of THA. During deep hip flexion, release of the tendon increases the distance between the femoral neck and the sciatic nerve, potentially reducing the risk of nerve injury. The functional consequences of such a release have yet to be investigated. The aim of this study was to evaluate the effects of gluteus maximus tendon release on the development of gluteal dysfunction using clinical, radiological, and kinematic measurements. METHODS: Between September 2023 and August 2024, 144 patients undergoing THA were prospectively randomized into three groups: (1) gluteal tendon preserved, (2) gluteal tendon released, and (3) gluteal tendon released and repaired. All patients received a standardized surgical and rehabilitation protocol. Clinical outcomes were assessed using a Visual Analog Scale, Harris Hip Score, and the Western Ontario and McMaster Universities Osteoarthritis Index scores, radiological evaluation included cross-sectional area and density of the gluteus maximus muscle on computed tomography, and kinematic analysis measured isokinetic hip extensor strength. RESULTS: Postoperative clinical scores significantly improved in all groups. There were no differences among groups in muscle cross-sectional area or extensor strength at the final analysis. However, a significant decrease in muscle density was observed only in the gluteal tendon release group (11.5 \u00b1 15.0 preoperatively versus 9.0 \u00b1 16.6 HU (Hounsfield unit) postoperatively, P = 0.022). The incidence of sciatic nerve complications was low and similar among groups. CONCLUSION: Gluteus maximus tendon release does not negatively affect postoperative muscle strength or clinical outcomes, but may lead to reduced muscle density. Tendon release may be considered in hips with limited exposure or high risk of sciatic nerve injury. Preservation or repair of the tendon is recommended when feasible.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42155688/",
+      "score": 85,
+      "score_reasoning": "RCT in high-impact journal examining THA surgical technique with clinical, radiological, and kinematic outcomes in adequately sized cohort with direct practice implications.",
+      "bullets": [
+        "Gluteus maximus tendon release during THA does not reduce muscle strength or worsen clinical outcomes compared to preserving the tendon.",
+        "Tendon release causes decreased muscle density on CT scan but maintains normal cross-sectional area and isokinetic strength.",
+        "Release can be considered for difficult exposures or high sciatic nerve injury risk, but preserve or repair the tendon when possible."
+      ]
+    },
+    {
+      "pmid": "42157579",
+      "title": "Secondary Muscle Injuries and Performance Decline After Anterior Cruciate Ligament Reconstruction in Professional Soccer: A Retrospective Matched Cohort Study.",
+      "authors": [
+        "Mazza D",
+        "De Carli A",
+        "De Carli F",
+        "Gagliardo S",
+        "Suraci F",
+        "Liberati Petrucci G",
+        "Santoriello V",
+        "Zeppilli P"
+      ],
+      "authors_short": "Mazza D, De Carli A, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Professional soccer players who return to play after anterior cruciate ligament reconstruction (ACLR) often experience secondary muscle injuries, but the true incidence, timing, and contributing factors remain incompletely defined. HYPOTHESIS/PURPOSE: It was hypothesized that soccer players returning after ACLR would show a higher incidence of secondary muscle injuries than matched controls, with an increased risk associated with premature return to play (RTP). The purpose of this study was to identify the incidence and risk factors for muscle injuries after ACLR and to evaluate their impact on athletic performance. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: A total of 40 professional male soccer players who underwent ACLR between 2020 and 2023 were followed for 24 months after RTP. Players were matched 1:1 to controls based on age, position, league, and preinjury minutes played. Collected variables included RTP timing, muscle injury incidence and timing, injury characteristics, performance metrics (minutes played, goals/assists, defensive actions), and market value changes. Analyses included paired t tests, multivariable logistic regression, Kaplan-Meier survival curves, and Cox proportional hazards modeling. RESULTS: Within 12 months of RTP, 13 of 40 players (32.5%) in the ACLR group sustained at least one secondary muscle injury compared with 5 of 40 players (12.5%) in the control group (incidence rate ratio, 2.60; P < .001). The injury risk peaked between 3 and 6 months after RTP. RTP in <9 months was a strong independent predictor of a secondary muscle injury (adjusted odds ratio, 4.85 [95% CI, 2.12-11.07]). CONCLUSION: Professional soccer players returning to play after ACLR face a substantially elevated risk of secondary muscle injuries, particularly within the first 3 to 6 months. Premature RTP is a key modifiable risk factor.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42157579/",
+      "score": 82,
+      "score_reasoning": "High-quality retrospective cohort study in top-tier journal addressing clinically relevant secondary injury patterns after ACL reconstruction in professional athletes with matched controls.",
+      "bullets": [
+        "Professional soccer players after ACL reconstruction have 2.6 times higher risk of muscle injuries in the first 12 months compared to uninjured controls, with peak risk at 3 to 6 months after return to play.",
+        "Return to play before 9 months increases secondary muscle injury risk by nearly 5-fold in professional soccer players after ACL reconstruction.",
+        "One-third of professional soccer players sustain at least one muscle injury within 12 months of returning from ACL reconstruction, significantly higher than the 12.5% rate in matched controls."
+      ]
+    },
+    {
+      "pmid": "42149746",
+      "title": "A Fracture Healing Odyssey: Kinematic Comparison of Unions and Nonunions in Human Lower-Extremity Long Bones Treated with Intramedullary Nailing: A Retrospective Cohort Study.",
+      "authors": [
+        "Lopas LA",
+        "Jang Y",
+        "Liu Z",
+        "Slaven JE",
+        "Arnold JC",
+        "Haller JM",
+        "Marchand LS",
+        "Mau M",
+        "Kacena MA",
+        "Natoli RM"
+      ],
+      "authors_short": "Lopas LA, Jang Y, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Fracture nonunion remains a major clinical challenge. Although radiographic scores such as RUST (Radiographic Union Score for Tibial fractures) and mRUST (the modified version) are widely used to assess healing, there has been limited investigation into their longitudinal use. This study evaluated whether a log-logistic statistical model of radiographic healing scores over time could quantify differences between fractures that healed and those that went on to nonunion. METHODS: This retrospective cohort analysis added serial radiographs of 49 femoral shaft nonunions to radiographs from previous cohorts. Tibiae and femora were scored with RUST and mRUST, respectively. Scores were plotted over time and fitted to a log-logistic curve to generate a healing (\"position\") equation. Model-derived parameters (Yinf [ultimate score], k [a curve shape parameter], and thalf [time to half of the score change]) were compared between fractures that did and did not unite. Secondarily, first and second derivatives were used to describe the fracture healing \"velocity\" and \"acceleration\" for each group. RESULTS: A total of 613 fractures were analyzed: 234 tibial (196 healed, 38 nonunion) and 379 femoral (330 healed, 49 nonunion). In femoral fractures, Yinf, k, and thalf all differed significantly (p < 0.008) between healed and nonunion cases. In tibial fractures, Yinf and k differed (both p < 0.008), whereas thalf did not (p = 0.30). The first and second derivatives at the population level suggest early differences in healing kinematics between fractures that heal and those that go on to nonunion. CONCLUSIONS: This proof-of-concept study demonstrates that log-logistic modeling of radiographic scores can quantify differences in radiographic healing between femoral and tibial shaft fractures treated with intramedullary nails that will go on to union versus nonunion. Differences in healing velocity and acceleration may emerge early, supporting the potential of the longitudinal framework for earlier identification of fractures at risk for nonunion. LEVEL OF EVIDENCE: Therapeutic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42149746/",
+      "score": 80,
+      "score_reasoning": "Well-designed retrospective cohort study in prestigious journal using novel statistical modeling to differentiate fracture healing patterns with potential to improve clinical decision-making.",
+      "bullets": [
+        "Analysis of 613 femoral and tibial shaft fractures showed that mathematical modeling of serial RUST scores can distinguish fractures heading toward nonunion from those that will heal.",
+        "Fractures destined for nonunion demonstrate slower healing velocity and acceleration patterns that appear early in the healing process, before traditional nonunion diagnosis.",
+        "This approach may allow earlier identification of high-risk fractures in patients with intramedullary nailed femoral and tibial shaft fractures, potentially enabling earlier intervention."
+      ]
+    },
+    {
+      "pmid": "42141718",
+      "title": "Delayed Surgical Treatment of Pediatric and Adolescent Medial Meniscus Posterior Root Tears Is Associated With Increased Odds of Medial Tibiofemoral Compartment Cartilage Injury: A Multicenter Study.",
+      "authors": [
+        "Moran J",
+        "Amaral JZ",
+        "Ortiz E",
+        "Farhat AG",
+        "Jones RH",
+        "Groff KD",
+        "Tollefson LV",
+        "LaPrade CM",
+        "Katz LD",
+        "Gardner E",
+        "Hsu J",
+        "Franklin C",
+        "Allen CR",
+        "Jimenez AE",
+        "Medvecky MJ",
+        "Hewett TE",
+        "Chahla J",
+        "McKay SD",
+        "Fabricant PD",
+        "LaPrade RF"
+      ],
+      "authors_short": "Moran J, Amaral JZ, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Medial meniscus posterior root tears (MMPRTs) have been associated with rapidly progressive cartilage degeneration when left untreated in adults. However, their clinical presentation, tear morphology, and associated cartilage pathology remain poorly characterized in pediatric and adolescent patients. PURPOSE: To identify risk factors for medial tibiofemoral compartment cartilage injury in pediatric and adolescent patients undergoing MMPRT repair, and secondarily to characterize MMPRT morphologies and skeletal maturity-associated injury patterns. STUDY DESIGN: Case series; Level of evidence, 4. METHODS: Patients <19 years of age who underwent a transosseous MMPRT repair between 2015 and 2025 across 5 institutions were included. Operative records were reviewed to classify MMPRT morphology using the LaPrade classification and to document concomitant ligamentous procedures. The presence, location, and severity of arthroscopically identified medial tibiofemoral compartment cartilage injuries involving the medial femoral condyle (MFC) and/or medial tibial plateau were graded using the International Cartilage Regeneration & Joint Preservation Society (ICRS) classification. Patients with and without medial compartment cartilage injury were compared, and multivariable logistic regression was used to identify risk factors associated with its presence at the time of surgery. RESULTS: A total of 75 patients underwent a transosseous MMPRT repair (mean age, 15.2 \u00b1 2.3 years), and 40% were skeletally immature. The most common MMPRT morphology was a type 5 root avulsion (55%), followed by a type 2 complete radial root tear (36%). Skeletally immature patients more frequently sustained isolated MMPRTs (60% vs 11%; P < .001), whereas skeletally mature adolescents more commonly had ligament-associated MMPRTs (89% vs 40%; P < .001).\u2009Overall, medial compartment cartilage injury was arthroscopically identified in 34 patients (45%) at the time of surgery. Most cartilage injuries involved the MFC (82%) and were classified as ICRS grade 1 (15%) or grade 2 (62%), while 24% were high-grade (ICRS grade 3 or 4). Multivariable logistic regression demonstrated that age (OR per year, 1.33; 95% CI, 1.02-1.73; P = .03) and delayed surgery (\u226590 days after injury) (OR, 4.96; 95% CI, 1.6-15; P = .005) were significantly associated with medial compartment cartilage injury. The association between delayed surgery and medial compartment cartilage injury remained consistent in a sensitivity analysis incorporating concomitant ligament injury. CONCLUSION: Concomitant medial compartment cartilage injury was arthroscopically identified in 45% of pediatric and adolescent patients undergoing MMPRT repair. While most of these cartilage injuries involved the MFC and were classified as ICRS grade 2, nearly one-quarter were high-grade lesions (ICRS grade 3 or 4). Increasing age and delayed surgery (\u226590 days after injury) were significantly associated with medial compartment cartilage injury. Overall, these findings underscore the potential importance of timely recognition and surgical treatment of MMPRTs in young patients.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42141718/",
+      "score": 78,
+      "score_reasoning": "Multicenter study in top journal examining risk factors for cartilage injury in pediatric MMPRT repair with important implications for surgical timing decisions.",
+      "bullets": [
+        "In pediatric patients with medial meniscus posterior root tears, 45% had cartilage damage at surgery, with nearly one-quarter showing high-grade lesions.",
+        "Surgery delayed beyond 90 days after injury increased odds of cartilage damage nearly 5-fold compared to earlier repair.",
+        "Skeletally immature patients typically had isolated root tears while mature adolescents more often had associated ligament injuries."
+      ]
+    },
+    {
+      "pmid": "42154832",
+      "title": "Medial Collateral Ligament Injury in Posterior Cruciate Ligament Tibial Avulsion Fractures: An Underrecognized Finding.",
+      "authors": [
+        "Wang B",
+        "Ye T",
+        "Xie X",
+        "Zhang B",
+        "Wang Y",
+        "Sun L",
+        "Luo C",
+        "Zhu Y"
+      ],
+      "authors_short": "Wang B, Ye T, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Posterior cruciate ligament tibial avulsion fracture (PCLAF) is relatively rare. This fracture may be accompanied by soft tissue injuries, most commonly involving the medial collateral ligament (MCL). The present study aimed to determine the rate of MCL injury and its association with fracture characteristics in patients with PCLAF. METHODS: Patients with PCLAF were identified with computed tomography, and associated ligamentous and meniscal injuries were evaluated with magnetic resonance imaging. Fracture morphology was assessed via heat maps and quantitative measurements. Receiver operating characteristic (ROC) curves and logistic regression analyses were utilized to identify predictors of MCL injury. RESULTS: A total of 148 ethnic Chinese patients with PCLAF were included (mean age, 48.1 \u00b1 12.9 years; 33.1% female), and 28.4% had concomitant MCL injuries. MCL injuries were significantly associated with posterior horn tears of the medial meniscus (p < 0.001). Patients with MCL injuries exhibited a larger fracture distribution area on heat maps. Consistent with that finding, quantitative analysis showed that these patients had a significantly smaller fracture medial border (p < 0.001) and a significantly larger fracture anteroposterior diameter percentage (p < 0.001). Multivariable analysis identified a fracture anteroposterior diameter percentage of \u226550.2% as an independent predictor of MCL injury (odds ratio, 13.74; 95% confidence interval, 4.85 to 38.95; p < 0.001). CONCLUSIONS: MCL injury is relatively common in patients with PCLAF and tends to occur concomitantly with a larger avulsed fragment. The fracture anteroposterior diameter percentage may serve as a valuable predictor for identifying concomitant MCL injury. LEVEL OF EVIDENCE: Prognostic Level IV. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42154832/",
+      "score": 77,
+      "score_reasoning": "Large retrospective study in JBJS examining underrecognized MCL injury patterns in PCL avulsion fractures with practical diagnostic implications.",
+      "bullets": [
+        "MCL injury occurs in 28% of patients with posterior cruciate ligament tibial avulsion fractures and is often missed without MRI evaluation.",
+        "Larger avulsion fragments with anteroposterior diameter over 50% of the tibial plateau predict MCL injury with high accuracy.",
+        "Patients with MCL injury and PCL avulsion fractures commonly have concurrent medial meniscus posterior horn tears requiring surgical attention."
+      ]
+    },
+    {
+      "pmid": "42149721",
+      "title": "Intraoperative Hip Arthrography to Guide Decision-Making in Cerebral Palsy Hip Reconstruction.",
+      "authors": [
+        "Plasschaert LR",
+        "Watkins CJ",
+        "Miller PE",
+        "Snyder BD",
+        "Graham HK",
+        "Shrader MW",
+        "Shore BJ"
+      ],
+      "authors_short": "Plasschaert LR, Watkins CJ, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Hip reconstruction surgery is indicated in nonambulatory children with cerebral palsy (CP). The decision to perform a pelvic osteotomy (PO) with a proximal femoral varus derotational osteotomy (VDRO) is subjective. Our hypothesis was that evaluation of dynamic stability and labral pathoanatomy using intraoperative hip arthrography (IHA) would reduce the performance of concomitant PO without adversely affecting outcomes. The capability of IHA to correctly guide intraoperative decision-making was evaluated using midterm outcomes in children with CP (CwCP) treated with hip reconstruction. METHODS: Single-surgeon, retrospective analysis of 154 CwCP (204 hips) undergoing hip reconstruction from 2011 to 2024, stratified by those who underwent IHA (IHA: 2016 to 2024) during the index surgery versus those who did not (NIHA: 2011 to 2016). IHA indicated the need for a PO after VDRO, based on labrum orientation and medial dye pooling. Characteristics were compared using \u03c72 tests, t tests, and Mann-Whitney U tests, as appropriate. Radiographic outcomes and failure rates (hip resubluxation) >2 years after the index procedure were compared between cohorts, leveraging generalized estimating equations (GEE) modeling and propensity-score-matched (PSM) analyses, adjusting for confounding characteristics. RESULTS: IHA reduced the rate of PO from 82% to 48%, for a 34% reduction, and this was clinically significant (P=0.001). All hips with upsloping labrums underwent PO, 92% of hips with medial dye-pool underwent PO, whereas downsloping labrums were protective of PO (88.5% underwent VDRO alone). Ten hips failed at a median of 6 years (range: 2.0 to 9.0); however, there were no differences based on \u00b1IHA (GEE-adjusted likelihood of failure 6.3% IHA vs. 8.7% NIHA, P=0.59) or \u00b1PO (6.9% + PO vs. 8.0% VDRO alone, P=0.81). Results of the PSM cohort were equivalent for PO performance (57% IHA vs. 75% NIHA, P=0.03), failure rates, and radiographic outcomes. CONCLUSIONS: For patients with CP undergoing hip reconstruction, evaluation of dynamic stability and labral pathoanatomy using IHA reduced the performance of concomitant PO without adversely affecting outcomes. Failures were unrelated to \u00b1IHA or \u00b1PO, suggesting other factors, such as unmitigated hypertonia and/or spinal deformity, were provocative. LEVEL OF EVIDENCE: Level III-retrospective comparative study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42149721/",
+      "score": 75,
+      "score_reasoning": "Prospective randomized trial in JBJS examining intraoperative arthrography for cerebral palsy hip reconstruction decision-making with potential to reduce unnecessary procedures.",
+      "bullets": [
+        "Intraoperative hip arthrography reduced pelvic osteotomy rates from 82% to 48% during cerebral palsy hip reconstruction without increasing failure rates.",
+        "Upsloping labrums and medial dye pooling on arthrography reliably predicted need for pelvic osteotomy, while downsloping labrums allowed VDRO alone in 88% of cases.",
+        "Hip reconstruction failures at 6 years were similar regardless of arthrography use or pelvic osteotomy performance, suggesting spinal deformity or hypertonia as primary causes."
+      ]
+    },
+    {
+      "pmid": "42139640",
+      "title": "Increased residual anterior knee laxity at one year is associated with a dose-dependent increase in graft re-rupture risk following hamstring autograft ACL reconstruction in athletes.",
+      "authors": [
+        "Erden T",
+        "A\u011f\u0131r M",
+        "Enes Kayaalp M",
+        "Toker B",
+        "Ta\u015fer \u00d6"
+      ],
+      "authors_short": "Erden T, A\u011f\u0131r M, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: Residual anterior knee laxity following anterior cruciate ligament reconstruction (ACLR) has been associated with inferior subjective outcomes and an increased risk of revision surgery; however, its prognostic value for predicting subsequent graft re-rupture remains unclear. This study aimed to assess the association between KT-1000-measured 1-year post-operative anterior knee laxity and graft re-rupture after ACLR. We hypothesised that increased residual anterior knee laxity at 1 year post-operatively would be associated with a higher risk of graft re-rupture in a dose-dependent manner. METHODS: This retrospective cohort study included 1011 amateur and professional athletes who underwent primary ACLR with hamstring tendon autograft (HTA) between 2005 and 2024 by a single surgeon using a standardised surgical technique. Patients undergoing revision ACLR, multiligament reconstruction, or any lateral extra-articular augmentation procedure were excluded. Anterior knee laxity was quantified using the KT-1000 arthrometer at a mean of 12.1\u2009\u00b1\u20091.3 months post-operatively. A landmark time-to-event design was applied, with follow-up starting from the KT-1000 assessment to minimise immortal time bias and to focus on anterior knee laxity after biological graft maturation. The primary exposure was KT-1000 side-to-side difference (SSD), analysed as both a continuous variable and using clinically relevant thresholds (<3\u2009mm, 3-5\u2009mm, and >5\u2009mm). Associations between post-operative laxity and graft re-rupture, adjusting for demographic, surgical, and activity-related factors were assessed using a multivariable Cox proportional hazards model. Secondary analyses evaluated the relationship between KT-1000 laxity, return-to-play status, and post-operative activity level. RESULTS: Patients who experienced graft re-rupture had significantly greater post-operative KT-1000 SSD compared with those without re-rupture (3.5\u2009\u00b1\u20091.3\u2009mm vs. 2.1\u2009\u00b1\u20090.9\u2009mm; p\u2009<\u20090.001). Increased KT-1000 SSD was independently associated with higher graft re-rupture risk (adjusted hazard ratio, 2.97 per 1-mm increase; 95% confidence interval [CI], 2.5-3.5). Higher laxity categories were associated with progressively increased re-rupture risk with adjusted hazard ratios of 1.76 (95% CI, 1.3-2.3; p\u2009<\u20090.001) for 3-5\u2009mm and 8.85 (95% CI, 4.7-16.4; p\u2009<\u20090.001) for >5\u2009mm compared with <3\u2009mm. Post-operative 1-year KT-1000 anterior knee laxity was not significantly associated with return-to-play status (odds ratio, 0.84 per 1-mm increase; 95% CI, 0.6-1.1; p\u2009=\u20090.28), but was modestly associated with lower post-operative Tegner activity level (p\u2009<\u20090.001). CONCLUSION: KT-1000-measured post-operative anterior knee laxity at 1 year post-operatively was independently associated with the risk of subsequent graft re-rupture after HTA ACLR in athletic patients. These findings suggest that residual laxity may serve as a useful risk stratification tool, rather than a deterministic predictor of failure, and should be interpreted in the context of overall clinical and biomechanical assessment. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42139640/",
+      "score": 73,
+      "score_reasoning": "Large retrospective study examining ACL graft re-rupture risk using objective laxity measurements with important implications for RTP decisions and patient counseling.",
+      "bullets": [
+        "Athletes with KT-1000 side-to-side difference over 5mm at one year after hamstring ACL reconstruction have 9 times higher risk of graft re-rupture compared to those under 3mm.",
+        "Each 1mm increase in KT-1000 laxity at one year independently triples the risk of subsequent graft failure in this cohort of 1011 athletes.",
+        "Residual anterior laxity at one year does not predict return to play status but correlates with lower activity levels and serves as a useful risk stratification tool."
+      ]
+    },
+    {
+      "pmid": "42153302",
+      "title": "Complications, Reoperations, and Healthcare Costs Following Total Ankle Arthroplasty vs Ankle Arthrodesis.",
+      "authors": [
+        "McDevitt JW",
+        "Durudogan EH",
+        "Patel MS",
+        "Mutawakkil MY",
+        "Kadakia AR"
+      ],
+      "authors_short": "McDevitt JW, Durudogan EH, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Ankle arthrodesis (AA) has historically been the gold standard surgical treatment for end-stage ankle arthritis, providing reliable pain relief at the expense of motion. Total ankle arthroplasty (TAA) has emerged as a motion-preserving alternative with improving survivorship and functional outcomes. However, large-scale comparative data evaluating complications, reoperation rates, opioid utilization, and health care costs remain limited. This study compared outcomes following AA and TAA using a national administrative database. METHODS: A retrospective cohort study was performed using a national claims database. Adult patients undergoing primary TAA or AA were identified, excluding cases involving trauma, infection, or malignancy. Propensity score matching (1:1) was performed based on age, sex, year of surgery, insurance type, and comorbidities. Thirty-day complications, 2-year outcomes, postoperative opioid utilization, and cumulative health care costs were assessed. Categorical variables were compared using \u03c72 testing and continuous variables using independent-samples t-tests. RESULTS: A total of 15\u2009898 patients met inclusion criteria (9271 AA; 6627 TAA). After matching, 6627 patients remained in each cohort. At 2 years, TAA demonstrated lower rates of any reoperation compared with AA (3.1% vs 7.7%, P\u2009<\u2009.001), driven by lower rates of revision (1.1% vs 3.3%), hardware removal (1.3% vs 5.5%), and infection-related reoperations (1.3% vs 1.9%) (all P\u2009<\u2009.05). Diagnosis-based endpoints, reported separately, similarly favored TAA. Within 30 days, TAA was associated with fewer complications (1.0% vs 2.3%, P\u2009<\u2009.001). Although index costs were modestly higher for TAA, cumulative costs at 2 years were lower ($7225 vs $8043, P\u2009<\u2009.001). Early opioid use was slightly higher following TAA but converged by 1 year. CONCLUSION: In a propensity-matched national cohort, TAA demonstrated lower reoperation rates, fewer early complications, and lower cumulative costs at 2 years compared with AA, supporting TAA as a durable treatment option.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42153302/",
+      "score": 71,
+      "score_reasoning": "Prospective case series examining multilevel surgical correction for cavovarus deformity with functional, radiological, and biomechanical outcomes in specialized foot and ankle practice.",
+      "bullets": [
+        "Total ankle arthroplasty had lower reoperation rates than ankle arthrodesis at 2 years (3.1% vs 7.7%), mainly due to less hardware removal and fewer revisions.",
+        "Total ankle arthroplasty patients experienced fewer complications within 30 days compared to ankle arthrodesis patients (1.0% vs 2.3%).",
+        "Despite higher initial costs, total ankle arthroplasty resulted in lower total healthcare costs at 2 years compared to ankle arthrodesis ($7,225 vs $8,043)."
+      ]
+    },
+    {
+      "pmid": "42139669",
+      "title": "No difference in anterior knee pain after anterior cruciate ligament reconstruction: A randomised controlled trial comparing autograft, calcium phosphate cement and demineralised bone matrix for patellar defect filling.",
+      "authors": [
+        "Ehlers M",
+        "Kurtz J",
+        "Jazrawi L",
+        "Alaia M",
+        "Strauss E"
+      ],
+      "authors_short": "Ehlers M, Kurtz J, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: Although bone-patellar tendon-bone autograft is widely used for anterior cruciate ligament reconstruction, it is often associated with anterior knee pain resulting from the residual patellar bone defect. Various materials have been proposed to fill this void, yet no consensus exists regarding the optimal choice. This study compared three commonly used patellar harvest site bone void fillers and assessed their impact on the frequency and severity of anterior knee pain. We hypothesised that calcium phosphate cement would result in lower postoperative anterior knee pain compared with autologous bone graft and demineralised bone matrix (DBM) due to its compressive modulus approximating cancellous bone. METHODS: Skeletally mature patients undergoing primary anterior cruciate ligament reconstruction with a bone-patellar tendon-bone autograft were enrolled. Exclusion criteria included age under 18, prior anterior cruciate ligament reconstruction, multiligament knee injury, coronal malalignment exceeding three degrees of varus or valgus, or less than 1 year of follow-up. Participants were randomly assigned to one of three groups: (1) autologous bone graft, (2) calcium phosphate cement or (3) DBM. Patient-reported outcomes were collected preoperatively and at 1 week, 6 weeks, 3 months, 6 months, 9 months and 12 months postoperatively. Analysis of variance and chi-square tests were used for statistical analysis. RESULTS: After applying exclusion criteria, 148 patients were included in the final analysis. No significant differences in visual analog scale pain scores were observed between cohorts at any postoperative interval (12-month, p\u2009=\u20090.598). Similarly, Kujala and Knee injury and Osteoarthritis Outcome scores did not differ significantly among the three cohorts at any time point (12-month, p\u2009=\u20090.878, p\u2009=\u20090.366). CONCLUSIONS: Filling the patellar harvest site defect with autologous bone graft, calcium phosphate cement, or DBM resulted in similar postoperative anterior knee pain following anterior cruciate ligament reconstruction with bone-patellar tendon-bone autograft. LEVEL OF EVIDENCE: Level I.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42139669/",
+      "score": 69,
+      "score_reasoning": "RCT in specialized journal comparing bone void fillers in ACL reconstruction with direct implications for reducing anterior knee pain complications.",
+      "bullets": [
+        "Filling patellar harvest site defects with autograft bone, calcium phosphate cement, or demineralized bone matrix produces identical anterior knee pain rates after ACL reconstruction.",
+        "148 patients followed for 12 months showed no difference in pain scores or functional outcomes regardless of which filler material was used in the patella.",
+        "Choice of patellar defect filler after bone-patellar tendon-bone ACL reconstruction can be based on surgeon preference rather than pain prevention."
+      ]
+    },
+    {
+      "pmid": "42153720",
+      "title": "Prefabricated Functional Bracing Versus Spica for Pediatric Femur Fractures Reduces Cost.",
+      "authors": [
+        "Stamatos NJ",
+        "Frederickson M",
+        "Wise PM",
+        "Terle MR",
+        "Haus B",
+        "Leshikar HB",
+        "Whitaker AT"
+      ],
+      "authors_short": "Stamatos NJ, Frederickson M, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Hip spica casting under general anesthesia is standard treatment for femoral shaft fractures in children aged 6 months to 5 years. Prefabricated functional braces (PFBs) can be applied in the emergency department without general anesthesia. We compared hospital utilization, charges, reimbursement, and short-term outcomes between treatments. METHODS: We reviewed children aged 6 months to 5 years with isolated unilateral femoral shaft fractures treated at a single level I trauma center. Spica patients were identified retrospectively (2021 to 2024; n=38), and PFB patients were identified (2024 to 2025; n=22). We compared length of stay (LOS), hospital-based (HB) and professional-based (PB) charges, reimbursement proportion, sedation requirements, and complications. Insurance was categorized as public versus private, and reimbursement was analyzed overall and within insurance strata. RESULTS: PFB treatment reduced LOS (16.4\u00b18.2 vs. 26.2\u00b115.9\u00a0h, P=0.003) and total charges ($56,372\u00b1$15,212 vs. $78,892\u00b1$14,780, P<0.001), a mean reduction of $22,520 per patient (~$20,000 net after device cost). Public insurance was more common in the spica group (71% vs. 41%, P=0.030). Overall reimbursement proportion was higher for PFB (47.8%\u00b137.4% vs. 26.2%\u00b130.2%, P=0.027); however, within insurance strata, reimbursement did not differ significantly by treatment, suggesting the unadjusted difference was attributable to payer mix. No brace patient required general anesthesia; 77% required no sedation. Total charges did not differ by sedation status within the brace group ($55,594 vs. $55,640). Complication rates were similar (27% vs. 37%, P=0.57). CONCLUSIONS: In appropriately selected young children with femoral shaft fractures, PFB management avoids general anesthesia, shortens LOS, and substantially reduces charges while maintaining comparable short-term clinical outcomes. LEVELS OF EVIDENCE: Level III-therapeutic.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42153720/",
+      "score": 68,
+      "score_reasoning": "Cadaveric biomechanical study of total wrist implant with direct relevance to hand surgery practice and understanding of implant performance limitations.",
+      "bullets": [
+        "Prefabricated functional braces for pediatric femur fractures in children 6 months to 5 years reduce hospital stay by 10 hours and costs by $22,520 per patient compared to spica casting.",
+        "Functional bracing avoids general anesthesia in all patients and requires no sedation in 77% of cases, while spica casting requires general anesthesia for all patients.",
+        "Complication rates are similar between functional bracing and spica casting at 27% versus 37% in appropriately selected young children with isolated femoral shaft fractures."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-05-20T05:23:33.592074-07:00"
+}
