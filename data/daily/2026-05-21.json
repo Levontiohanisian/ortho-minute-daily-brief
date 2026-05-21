@@ -1,0 +1,312 @@
+{
+  "brief_date": "2026-05-21",
+  "brief_date_display": "Thursday, May 21",
+  "candidates": [
+    {
+      "pmid": "42162891",
+      "title": "A Non-Opioid Multimodal Pain Protocol Achieves Equivalent Pain Control After Total Shoulder Arthroplasty: A Randomized-Controlled Trial.",
+      "authors": [
+        "Evans H",
+        "Castle JP",
+        "Kasto J",
+        "Nerys-Fugeroa J",
+        "Movassaghi A",
+        "Jurayj A",
+        "Obinero CV",
+        "Zhu K",
+        "Wines W",
+        "Mahylis JM",
+        "Muh SJ"
+      ],
+      "authors_short": "Evans H, Castle JP, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Amid efforts to reduce opioid use, identifying effective non-opioid pain protocols for orthopedic procedures is a priority. Shoulder arthroplasty is associated with significant postoperative pain and has traditionally relied on opioids, despite their side effects. This study evaluated the efficacy of a postoperative non-opioid, multimodal pain protocol compared to an opioid protocol for patients undergoing shoulder arthroplasty. METHODS: We performed a prospective, single blinded, randomized controlled trial including patients undergoing primary anatomic or reverse total shoulder arthroplasty. Patients were excluded if they underwent revision surgery, surgery for fracture, or received opioids within 3 months of surgery. All patients received standardized preoperative analgesics, general anesthesia, and an intraoperative periarticular injection without a regional block. Patients were randomly assigned to a postoperative non-opioid multimodal pain protocol or a standard opioid protocol containing 28 tablets of 5 mg oxycodone in addition to the multimodal regimen. Patients completed visual analog scale (VAS) and PROMIS Pain Interference (PI) surveys and reported opioid use and side effects over 10 post-operative days. An intention-to-treat analysis was performed. RESULTS: 78 patients were enrolled and included in the analysis with 38 in the multimodal and 40 in the opioid cohort. Demographics (age, sex, race, and body mass index) were comparable between both groups. Pain scores at 10 days postoperatively were comparable between groups with no significant differences in mean VAS pain (2.4 \u00b1 1.7 in the multimodal group vs. 2.3 \u00b1 1.6 in the opioid group; P = 0.52) or median PROMIS-PI scores (61.5, interquartile range 58.5-67.0 in the multimodal vs. 62.0, interquartile range 56.5-64.0 in the opioid; P = 0.90. However, the opioid group consumed significantly more morphine milligram equivalents (3.7 \u00b1 5.07 compared to 0.4 \u00b1 1.35 for the multimodal group; P < 0.001). There were no significant differences in side effects between treatment groups. CONCLUSION: In patients undergoing shoulder arthroplasty, a non-opioid, multimodal pain protocol provided non-inferior pain relief compared to an opioid-based regimen. These findings support the shift toward opioid-sparing strategies in orthopedic surgery to minimize postoperative dependence without compromising patient care.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42162891/",
+      "score": 95,
+      "score_reasoning": "High-quality RCT comparing non-opioid vs opioid protocols for shoulder arthroplasty, addressing critical clinical question of pain management with excellent study design and sample size.",
+      "bullets": [
+        "Non-opioid multimodal pain protocol provided equivalent pain control to opioid-based regimen in 78 total shoulder arthroplasty patients over 10 days postoperatively.",
+        "Patients receiving non-opioid protocol used significantly fewer morphine equivalents (0.4 vs 3.7 mg) with no difference in pain scores or side effects.",
+        "Study supports opioid-sparing strategies for primary shoulder arthroplasty in opioid-naive patients without compromising pain management."
+      ]
+    },
+    {
+      "pmid": "42162751",
+      "title": "Tourniquet Use Increases Harm Without Benefit in Total Knee Arthroplasty: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Posta AZ",
+        "Nemes NJ",
+        "Takanouchi S",
+        "Galdzytska N",
+        "Engh MA",
+        "Fazekas KK",
+        "Hegyi P",
+        "Bejek Z"
+      ],
+      "authors_short": "Posta AZ, Nemes NJ, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Approximately 60% of orthopaedic surgeons worldwide use tourniquets (TQ) during primary total knee arthroplasty (TKA) surgeries. Currently, there are no established guidelines or recommendations; therefore, we aimed to conduct a systematic review and meta-analysis to investigate the effects of tourniquet application. METHODS: There were three major databases (PubMed, Cochrane, and Embase) systematically searched in November 2024. Randomized controlled trials (RCTs) comparing primary total knee arthroplasty with or without a tourniquet were included. We identified 6,040 studies, from which we included 41 RCTs. From reference and citation chasing, we added 10 more eligible articles. The risk of bias was assessed using the Cochrane Risk of Bias tool version 2 (RoB2), and the level of evidence was evaluated using the GRADE (Grading of Recommendations Assessment, Development and Evaluation) approach. For continuous outcomes, the difference between the means was used as the effect size measure, along with a 95% confidence interval (CI). In the case of dichotomous outcomes, the risk ratio with a 95% CI was used. RESULTS: In the tourniquet group, we observed a significantly higher risk of deep vein thrombosis (DVT) (P < 0.0001), risk ratio: 1.60 (95% CI: 1.25 to 2.05). We did not find a significant difference in the calculated total blood loss (CBL), and there was no significant difference in the risk of transfusions, with a relative risk of 1.05 (95% CI: 0.76 to -1.44). Furthermore, we observed no significant differences in pain levels or range of motion at any given time point. We experienced a moderate to high risk of bias in most outcomes, and the strength of evidence was low to moderate after grading. CONCLUSION: In conclusion, the use of a tourniquet during total knee arthroplasty increases the risk of deep vein thrombosis, results in higher pain levels, and leads to a lower range of motion in the early postoperative days. However, it has no significant effect on blood loss or transfusion requirements.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42162751/",
+      "score": 89,
+      "score_reasoning": "Well-designed meta-analysis with large sample size (51 RCTs) demonstrating that tourniquet use increases complications without benefits in TKA, providing clear actionable evidence.",
+      "bullets": [
+        "Tourniquet use during primary total knee arthroplasty increases deep vein thrombosis risk by 60% compared to surgery without tourniquet.",
+        "Tourniquets provide no benefit for blood loss control or transfusion requirements in total knee arthroplasty patients.",
+        "Pain levels and early range of motion are worse with tourniquet use, with no offsetting clinical advantages identified."
+      ]
+    },
+    {
+      "pmid": "42162890",
+      "title": "Elevated Risk of Medical Complications in Sickle Cell Disease Patients after Total Shoulder Arthroplasty.",
+      "authors": [
+        "Khanna A",
+        "Lawand JJ",
+        "Adio A",
+        "Holle AM",
+        "Eble S",
+        "Abboud JA"
+      ],
+      "authors_short": "Khanna A, Lawand JJ, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Sickle cell disease (SCD) predisposes patients to vaso-occlusive and inflammatory complications that may be exacerbated by surgical stress. While SCD has been linked to adverse outcomes after lower-extremity arthroplasty, its effect on postoperative complications following total shoulder arthroplasty (TSA) is poorly understood, particularly independent of avascular necrosis (AVN). This study evaluates the association between SCD and postoperative outcomes after TSA using a national database. METHODS: A retrospective cohort study was conducted using the PearlDiver database. Patients with sickle cell who underwent TSA were matched 1:10 with controls without sickle cell based on age, gender, comorbidities, Charlson comorbidity index, obesity, and tobacco use. Patients with preoperative avascular necrosis were excluded to isolate the independent effect of SCD. Postoperative complications were assessed at 90 days and two years, with statistical comparisons made using odds ratios (OR) and 95% confidence intervals (CI). A p-value of <0.05 was considered statistically significant. RESULTS: The matched cohort included 210 SCD patients and 2,000 controls. Within 90 days, SCD patients had significantly higher rates of deep vein thrombosis (1.4% vs 0.3%, OR 4.82, p = 0.027), acute kidney injury (3.8% vs 0.9%, OR 4.36, p < 0.001), wound dehiscence (1.4% vs 0.3%, OR 4.82, p = 0.027), emergency department visits (20.0% vs 13.2%, OR 1.65, p = 0.007), and hospital readmissions (6.2% vs 3.0%, OR 2.13, p = 0.016). No significant differences were found for postoperative myocardial infarction, pneumonia, or blood transfusions. Over two years, no significant differences were observed in surgical complications such as revision rates, periprosthetic joint infection, dislocation events, or aseptic loosening. CONCLUSION: SCD is associated with significantly increased early medical complications after TSA but does not appear to increase short-term implant complications. These findings highlight the need for focused perioperative risk mitigation in this high-risk population.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42162890/",
+      "score": 87,
+      "score_reasoning": "Large database study (18,922 patients) showing increased periprosthetic fracture risk with bisphosphonates in shoulder arthroplasty, highly relevant for clinical practice in osteoporotic patients.",
+      "bullets": [
+        "Sickle cell disease patients have 4-5 times higher risk of DVT, acute kidney injury, and wound dehiscence within 90 days after total shoulder arthroplasty.",
+        "Emergency department visits and hospital readmissions are significantly more common in sickle cell patients after shoulder replacement surgery.",
+        "Implant-related complications like infection, dislocation, and loosening rates are similar between sickle cell and control patients at two years."
+      ]
+    },
+    {
+      "pmid": "42155687",
+      "title": "Rates of New-Onset Postoperative Heart Failure Among Type 2 Diabetics Who Use Nonsteroidal Anti-Inflammatory Drugs for Total Hip Arthroplasty.",
+      "authors": [
+        "Antonioli SS",
+        "Saba BV",
+        "Schaffer O",
+        "Prinos A",
+        "Khury F",
+        "Schwarzkopf R",
+        "Macaulay W"
+      ],
+      "authors_short": "Antonioli SS, Saba BV, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "PURPOSE: Nonsteroidal anti-inflammatory drugs (NSAIDs) increase fluid retention and the risk of heart failure (HF). The NSAIDs are commonly used in total hip arthroplasty (THA) as part of a modern multimodal pain protocol, but the risk of selective cyclooxygenase-2 (COX-2)-preferential NSAIDs in THA for Type 2 diabetes mellitus (T2DM) patients, who have an increased risk for cardiac disease, is not well understood. This study aimed to compare rates of new-onset HF following THA in T2DM patients receiving perioperative meloxicam or celecoxib. METHODS: A retrospective review was conducted of 18,142 patients who underwent primary elective THA. Data included demographics, perioperative aspirin, meloxicam and celecoxib use, T2DM diagnosis, and development of new-onset postoperative HF. Cohorts were separated based on the presence of a T2DM diagnosis and use of meloxicam or celecoxib. Propensity-matching controlled for age, American Society of Anesthesiologists score, and perioperative aspirin use. Rates of HF within T2DM patients who utilized peri-THA meloxicam versus celecoxib were compared. RESULTS: Of patients who utilized meloxicam or celecoxib, T2DM patients experience new-onset postoperative HF at higher rates than non-diabetics (6.1 [T2DM] versus 2.8% [non-T2DM], P < 0.001). Within the T2DM patients, the patients who utilized celecoxib developed HF at higher rates than T2DM patients who utilized meloxicam (4.0 [meloxicam] versus 7.1% [celecoxib], P = 0.013). CONCLUSIONS: Patients who have T2DM experience a higher incidence of new-onset postoperative HF compared to non-diabetics following perioperative selective NSAID use for THA. Additionally, T2DM patients developed HF at a greater rate when treated with perioperative celecoxib versus meloxicam. Given that both agents were associated with HF events in this high-risk population, caution is warranted when prescribing selective NSAIDs in T2DM patients undergoing THA. Risk-benefit considerations and individualized perioperative pain management strategies should be carefully considered.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42155687/",
+      "score": 84,
+      "score_reasoning": "RCT with kinematic analysis showing functional consequences of gluteus maximus tendon release during THA, providing evidence-based guidance for surgical approach.",
+      "bullets": [
+        "Type 2 diabetics undergoing THA had double the rate of new heart failure when using NSAIDs compared to non-diabetics (6.1% vs 2.8%).",
+        "Among diabetic THA patients, celecoxib caused nearly twice as much new heart failure as meloxicam (7.1% vs 4.0%).",
+        "Consider avoiding selective NSAIDs in diabetic THA patients or use meloxicam over celecoxib if NSAIDs are necessary for pain control."
+      ]
+    },
+    {
+      "pmid": "42139669",
+      "title": "No difference in anterior knee pain after anterior cruciate ligament reconstruction: A randomised controlled trial comparing autograft, calcium phosphate cement and demineralised bone matrix for patellar defect filling.",
+      "authors": [
+        "Ehlers M",
+        "Kurtz J",
+        "Jazrawi L",
+        "Alaia M",
+        "Strauss E"
+      ],
+      "authors_short": "Ehlers M, Kurtz J, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: Although bone-patellar tendon-bone autograft is widely used for anterior cruciate ligament reconstruction, it is often associated with anterior knee pain resulting from the residual patellar bone defect. Various materials have been proposed to fill this void, yet no consensus exists regarding the optimal choice. This study compared three commonly used patellar harvest site bone void fillers and assessed their impact on the frequency and severity of anterior knee pain. We hypothesised that calcium phosphate cement would result in lower postoperative anterior knee pain compared with autologous bone graft and demineralised bone matrix (DBM) due to its compressive modulus approximating cancellous bone. METHODS: Skeletally mature patients undergoing primary anterior cruciate ligament reconstruction with a bone-patellar tendon-bone autograft were enrolled. Exclusion criteria included age under 18, prior anterior cruciate ligament reconstruction, multiligament knee injury, coronal malalignment exceeding three degrees of varus or valgus, or less than 1 year of follow-up. Participants were randomly assigned to one of three groups: (1) autologous bone graft, (2) calcium phosphate cement or (3) DBM. Patient-reported outcomes were collected preoperatively and at 1 week, 6 weeks, 3 months, 6 months, 9 months and 12 months postoperatively. Analysis of variance and chi-square tests were used for statistical analysis. RESULTS: After applying exclusion criteria, 148 patients were included in the final analysis. No significant differences in visual analog scale pain scores were observed between cohorts at any postoperative interval (12-month, p\u2009=\u20090.598). Similarly, Kujala and Knee injury and Osteoarthritis Outcome scores did not differ significantly among the three cohorts at any time point (12-month, p\u2009=\u20090.878, p\u2009=\u20090.366). CONCLUSIONS: Filling the patellar harvest site defect with autologous bone graft, calcium phosphate cement, or DBM resulted in similar postoperative anterior knee pain following anterior cruciate ligament reconstruction with bone-patellar tendon-bone autograft. LEVEL OF EVIDENCE: Level I.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42139669/",
+      "score": 82,
+      "score_reasoning": "RCT comparing different bone void fillers for patellar defects in ACL reconstruction, addressing common clinical concern of anterior knee pain with good sample size.",
+      "bullets": [
+        "Patellar bone graft, calcium phosphate cement, and demineralized bone matrix produce identical anterior knee pain rates after ACL reconstruction with bone-patellar tendon-bone autograft.",
+        "Study of 148 patients found no differences in pain scores or functional outcomes at 12 months regardless of which material filled the patellar harvest site defect.",
+        "Choice of patellar void filler can be based on surgeon preference and cost considerations rather than patient pain outcomes."
+      ]
+    },
+    {
+      "pmid": "42154897",
+      "title": "Minimally Invasive Sacroiliac Joint Fusion Compared with Sham Operation (SIFSO Trial): A Concise Follow-up, at 2 Years, of a Previous Report.",
+      "authors": [
+        "Kibsg\u00e5rd TJ",
+        "Gerdhem P",
+        "Diarbakerli E",
+        "Randers EM"
+      ],
+      "authors_short": "Kibsg\u00e5rd TJ, Gerdhem P, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "Therapeutic Level II. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42154897/",
+      "score": 79,
+      "score_reasoning": "Large database study showing differential heart failure risks between NSAIDs in diabetic THA patients, clinically relevant for perioperative management.",
+      "bullets": [
+        "Minimally invasive sacroiliac joint fusion showed sustained pain reduction and functional improvement compared to sham surgery at 2 years in patients with chronic SI joint dysfunction.",
+        "The study provides Level II evidence that SI joint fusion offers genuine therapeutic benefit beyond placebo effects in carefully selected patients.",
+        "Results support offering minimally invasive SI fusion to patients with confirmed sacroiliac joint pain who have failed conservative treatment."
+      ]
+    },
+    {
+      "pmid": "42141718",
+      "title": "Delayed Surgical Treatment of Pediatric and Adolescent Medial Meniscus Posterior Root Tears Is Associated With Increased Odds of Medial Tibiofemoral Compartment Cartilage Injury: A Multicenter Study.",
+      "authors": [
+        "Moran J",
+        "Amaral JZ",
+        "Ortiz E",
+        "Farhat AG",
+        "Jones RH",
+        "Groff KD",
+        "Tollefson LV",
+        "LaPrade CM",
+        "Katz LD",
+        "Gardner E",
+        "Hsu J",
+        "Franklin C",
+        "Allen CR",
+        "Jimenez AE",
+        "Medvecky MJ",
+        "Hewett TE",
+        "Chahla J",
+        "McKay SD",
+        "Fabricant PD",
+        "LaPrade RF"
+      ],
+      "authors_short": "Moran J, Amaral JZ, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Medial meniscus posterior root tears (MMPRTs) have been associated with rapidly progressive cartilage degeneration when left untreated in adults. However, their clinical presentation, tear morphology, and associated cartilage pathology remain poorly characterized in pediatric and adolescent patients. PURPOSE: To identify risk factors for medial tibiofemoral compartment cartilage injury in pediatric and adolescent patients undergoing MMPRT repair, and secondarily to characterize MMPRT morphologies and skeletal maturity-associated injury patterns. STUDY DESIGN: Case series; Level of evidence, 4. METHODS: Patients <19 years of age who underwent a transosseous MMPRT repair between 2015 and 2025 across 5 institutions were included. Operative records were reviewed to classify MMPRT morphology using the LaPrade classification and to document concomitant ligamentous procedures. The presence, location, and severity of arthroscopically identified medial tibiofemoral compartment cartilage injuries involving the medial femoral condyle (MFC) and/or medial tibial plateau were graded using the International Cartilage Regeneration & Joint Preservation Society (ICRS) classification. Patients with and without medial compartment cartilage injury were compared, and multivariable logistic regression was used to identify risk factors associated with its presence at the time of surgery. RESULTS: A total of 75 patients underwent a transosseous MMPRT repair (mean age, 15.2 \u00b1 2.3 years), and 40% were skeletally immature. The most common MMPRT morphology was a type 5 root avulsion (55%), followed by a type 2 complete radial root tear (36%). Skeletally immature patients more frequently sustained isolated MMPRTs (60% vs 11%; P < .001), whereas skeletally mature adolescents more commonly had ligament-associated MMPRTs (89% vs 40%; P < .001).\u2009Overall, medial compartment cartilage injury was arthroscopically identified in 34 patients (45%) at the time of surgery. Most cartilage injuries involved the MFC (82%) and were classified as ICRS grade 1 (15%) or grade 2 (62%), while 24% were high-grade (ICRS grade 3 or 4). Multivariable logistic regression demonstrated that age (OR per year, 1.33; 95% CI, 1.02-1.73; P = .03) and delayed surgery (\u226590 days after injury) (OR, 4.96; 95% CI, 1.6-15; P = .005) were significantly associated with medial compartment cartilage injury. The association between delayed surgery and medial compartment cartilage injury remained consistent in a sensitivity analysis incorporating concomitant ligament injury. CONCLUSION: Concomitant medial compartment cartilage injury was arthroscopically identified in 45% of pediatric and adolescent patients undergoing MMPRT repair. While most of these cartilage injuries involved the MFC and were classified as ICRS grade 2, nearly one-quarter were high-grade lesions (ICRS grade 3 or 4). Increasing age and delayed surgery (\u226590 days after injury) were significantly associated with medial compartment cartilage injury. Overall, these findings underscore the potential importance of timely recognition and surgical treatment of MMPRTs in young patients.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42141718/",
+      "score": 76,
+      "score_reasoning": "RCT showing minimalist shoes reduce patellofemoral joint forces in adolescents with patellofemoral pain, providing biomechanical evidence for conservative treatment.",
+      "bullets": [
+        "In pediatric and adolescent medial meniscus posterior root tears, 45% had medial compartment cartilage damage at surgery, with nearly a quarter being high-grade lesions.",
+        "Delaying surgery beyond 90 days after injury increased odds of cartilage damage by 5-fold compared to earlier repair.",
+        "Skeletally immature patients typically had isolated root tears while mature adolescents more commonly had associated ligament injuries."
+      ]
+    },
+    {
+      "pmid": "42157579",
+      "title": "Secondary Muscle Injuries and Performance Decline After Anterior Cruciate Ligament Reconstruction in Professional Soccer: A Retrospective Matched Cohort Study.",
+      "authors": [
+        "Mazza D",
+        "De Carli A",
+        "De Carli F",
+        "Gagliardo S",
+        "Suraci F",
+        "Liberati Petrucci G",
+        "Santoriello V",
+        "Zeppilli P"
+      ],
+      "authors_short": "Mazza D, De Carli A, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Professional soccer players who return to play after anterior cruciate ligament reconstruction (ACLR) often experience secondary muscle injuries, but the true incidence, timing, and contributing factors remain incompletely defined. HYPOTHESIS/PURPOSE: It was hypothesized that soccer players returning after ACLR would show a higher incidence of secondary muscle injuries than matched controls, with an increased risk associated with premature return to play (RTP). The purpose of this study was to identify the incidence and risk factors for muscle injuries after ACLR and to evaluate their impact on athletic performance. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: A total of 40 professional male soccer players who underwent ACLR between 2020 and 2023 were followed for 24 months after RTP. Players were matched 1:1 to controls based on age, position, league, and preinjury minutes played. Collected variables included RTP timing, muscle injury incidence and timing, injury characteristics, performance metrics (minutes played, goals/assists, defensive actions), and market value changes. Analyses included paired t tests, multivariable logistic regression, Kaplan-Meier survival curves, and Cox proportional hazards modeling. RESULTS: Within 12 months of RTP, 13 of 40 players (32.5%) in the ACLR group sustained at least one secondary muscle injury compared with 5 of 40 players (12.5%) in the control group (incidence rate ratio, 2.60; P < .001). The injury risk peaked between 3 and 6 months after RTP. RTP in <9 months was a strong independent predictor of a secondary muscle injury (adjusted odds ratio, 4.85 [95% CI, 2.12-11.07]). CONCLUSION: Professional soccer players returning to play after ACLR face a substantially elevated risk of secondary muscle injuries, particularly within the first 3 to 6 months. Premature RTP is a key modifiable risk factor.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42157579/",
+      "score": 75,
+      "score_reasoning": "Systematic review and meta-analysis of lateral robotic UKA showing excellent survivorship, relevant to growing use of robotic surgery in knee arthroplasty.",
+      "bullets": [
+        "Professional soccer players have 2.6 times higher risk of muscle injuries in the first year after ACL reconstruction compared to matched controls (32.5% vs 12.5%).",
+        "Secondary muscle injury risk peaks between 3 to 6 months after return to play following ACL reconstruction.",
+        "Return to play before 9 months after ACL reconstruction increases secondary muscle injury risk by nearly 5 times."
+      ]
+    },
+    {
+      "pmid": "42165158",
+      "title": "Treatment of Chondroblastoma of the Capital Femoral Epiphysis in Children Using a Cartilage Fenestration Approach Combined With Artificial Bone Implantation.",
+      "authors": [
+        "Wang W",
+        "Liao W",
+        "Ma Y",
+        "Zhang T",
+        "Yang Z",
+        "Lyu X"
+      ],
+      "authors_short": "Wang W, Liao W, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Chondroblastoma of the capital femoral epiphysis (CHCFE) in children is a rare benign bone tumor that poses significant therapeutic challenges due to its unique anatomic location adjacent to the physeal plate and femoral head articular cartilage. This study aimed to evaluate the clinical efficacy and safety of a cartilage fenestration approach combined with artificial bone implantation for the treatment of CHCFE. METHODS: A retrospective analysis was conducted on 25 consecutive pediatric patients (14 boys and 11 girls; mean age, 10.5\u00a0y; range, 6 to 14\u00a0y) diagnosed with CHCFE and treated at our institution between January 2011 and October 2021. All patients underwent cartilage fenestration plus curettage and artificial bone (calcium sulfurphosphorus composite) implantation. Lesions were classified into 4 types based on anatomic involvement: medial (n=8), central (n=10), lateral (n=5), and medial-central (n=2). The mean follow-up duration was 67.5 months (range, 24 to 145\u00a0mo). Clinical outcomes were assessed using the Musculoskeletal Tumor Society (MSTS) functional score, with recurrence, complications [eg, avascular necrosis (AVN), physeal premature closure], and radiologic findings recorded. RESULTS: All patients had open epiphyseal plates preoperatively. The mean MSTS score improved significantly from 18.56 preoperatively to 27.40 postoperatively (P<0.001). At final follow-up, only 1 case (4%) of tumor recurrence was observed, and no AVN of the femoral head was detected. Among 16 patients with preoperative physeal plate invasion, 7 (43.75%) developed mild-to-moderate proximal femoral epiphyseal premature closure, predominantly in the lateral lesion group. Multivariate analysis identified preoperative femoral head involvement location as the only independent factor affecting postoperative MSTS scores (P=0.026), with lateral involvement associated with the lowest functional scores (mean, 23.00) compared with medial (27.88), central (28.10), and medial-central (27.00) involvement. CONCLUSION: The cartilage fenestration approach combined with artificial bone implantation is a safe and effective minimally invasive treatment for CHCFE in children, offering thorough tumor clearance, significant functional improvement, and low rates of recurrence and AVN. However, lateral involvement of the femoral head indicates a relatively poor prognosis, requiring more meticulous surgical planning and postoperative rehabilitation to optimize outcomes. LEVEL OF EVIDENCE: Level IV-case series.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42165158/",
+      "score": 74,
+      "score_reasoning": "Retrospective series of 25 children with rare chondroblastoma showing innovative cartilage fenestration approach, but limited by small sample size and rarity of condition.",
+      "bullets": [
+        "Cartilage fenestration with curettage and artificial bone grafting for femoral head chondroblastoma in children achieved 96% local control with no avascular necrosis in 25 patients.",
+        "Lateral femoral head involvement carries worse functional outcomes compared to medial or central locations and should guide surgical planning and expectations.",
+        "Physeal arrest occurred in 44% of cases with preoperative growth plate invasion, but functional scores improved significantly in all patients at average 5.6 year follow-up."
+      ]
+    },
+    {
+      "pmid": "42153282",
+      "title": "Long-term Clinical and Radiographic Outcomes After Salto Talaris Total Ankle Arthroplasty: Long-term Follow-up of a Previously Published Cohort.",
+      "authors": [
+        "Slowinski J",
+        "Lutnick E",
+        "Frappa N",
+        "Orie G",
+        "Bousleiman J",
+        "Ritter C"
+      ],
+      "authors_short": "Slowinski J, Lutnick E, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: This study aimed to demonstrate long term clinical follow-up and implant survivorship of Salto Talaris-type primary total ankle arthroplasty (TAA) by 1 foot and ankle-trained surgeon at a single institution. METHODS: Patients treated with primary Salto Talaris TAA were identified via Current Procedural Terminology (CPT) codes and included if they underwent primary TAA without history of arthrodesis and had complete imaging, clinical evaluation, and patient-reported outcomes preoperatively. Implant survivorship was calculated considering revision as requiring metal component explantation. Patient outcomes at final follow-up were compared to available preoperative values via paired t tests. P\u2009<.05 was considered significant. RESULTS: A total of 154 patients met inclusion (55.8% female, mean age at surgery 63.3\u2009\u00b1\u20098.9\u2009years). Mean follow-up was 9.7\u2009years (range, 0.6-17.6\u2009years). Estimated implant survival probability was 100% at 1\u2009year, 97.2% at 3\u2009years (95% CI 94.6-99.9), 94.9% at 5\u2009years (95% CI 91.3-98.7), 91.6% at 10\u2009years (95% CI 86.7-96.9), and 86.9% at both 12 and 15\u2009years (95% CI 79.3-95.3); no component explantation events occurred between 12 and 15\u2009years, with the final explantation recorded at 15.28\u2009years postoperatively. Thirteen patients underwent revision. There was no significant change in dorsiflexion but a reduction in plantarflexion (\u0394\u2009=\u2009-4.3\u00b0, 95% CI -6.0 to -2.6; P\u2009<\u2009.001) at final follow-up. No significant changes were observed comparing radiographs at 6-week and final follow-up, including tibial component coronal alignment, posterior tibial slope, and talar component position. Among 87 patients (91 TAA) with complete long-term data, VAS pain decreased (\u0394\u2009=\u2009-26.5, 95% CI -33.0 to -20.0; P\u2009<\u2009.001), mean FCS 12 increased (\u0394\u2009=\u2009+20.9, 95% CI 18.7-23.2; P\u2009<\u2009.001), and MCS increased (\u0394\u2009=\u2009+5.2, 95% CI 2.9-7.5; P\u2009<\u2009.001). All FAOS subscales improved significantly (P\u2009<\u2009.001). CONCLUSION: This cohort suggests that Salto Talaris-type TAA is associated with durable survivorship and patient outcomes at long-term follow-up in this single-surgeon series.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42153282/",
+      "score": 68,
+      "score_reasoning": "Large database study (15,898 patients) comparing TAA vs ankle arthrodesis outcomes, providing comprehensive comparative effectiveness data.",
+      "bullets": [
+        "Salto Talaris total ankle replacement showed 87% implant survival at 15 years with 13 revisions in 154 patients.",
+        "Patients had significant pain reduction and improved function scores at 10 year follow-up, though plantarflexion decreased by 4 degrees.",
+        "Component positioning remained stable on radiographs from 6 weeks to final follow-up without significant loosening or migration."
+      ]
+    }
+  ],
+  "picks": [
+    4
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-05-21T05:45:31.747639-07:00"
+}
