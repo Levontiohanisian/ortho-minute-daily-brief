@@ -1,0 +1,319 @@
+{
+  "brief_date": "2026-05-22",
+  "brief_date_display": "Friday, May 22",
+  "candidates": [
+    {
+      "pmid": "42162891",
+      "title": "A Non-Opioid Multimodal Pain Protocol Achieves Equivalent Pain Control After Total Shoulder Arthroplasty: A Randomized-Controlled Trial.",
+      "authors": [
+        "Evans H",
+        "Castle JP",
+        "Kasto J",
+        "Nerys-Fugeroa J",
+        "Movassaghi A",
+        "Jurayj A",
+        "Obinero CV",
+        "Zhu K",
+        "Wines W",
+        "Mahylis JM",
+        "Muh SJ"
+      ],
+      "authors_short": "Evans H, Castle JP, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Amid efforts to reduce opioid use, identifying effective non-opioid pain protocols for orthopedic procedures is a priority. Shoulder arthroplasty is associated with significant postoperative pain and has traditionally relied on opioids, despite their side effects. This study evaluated the efficacy of a postoperative non-opioid, multimodal pain protocol compared to an opioid protocol for patients undergoing shoulder arthroplasty. METHODS: We performed a prospective, single blinded, randomized controlled trial including patients undergoing primary anatomic or reverse total shoulder arthroplasty. Patients were excluded if they underwent revision surgery, surgery for fracture, or received opioids within 3 months of surgery. All patients received standardized preoperative analgesics, general anesthesia, and an intraoperative periarticular injection without a regional block. Patients were randomly assigned to a postoperative non-opioid multimodal pain protocol or a standard opioid protocol containing 28 tablets of 5 mg oxycodone in addition to the multimodal regimen. Patients completed visual analog scale (VAS) and PROMIS Pain Interference (PI) surveys and reported opioid use and side effects over 10 post-operative days. An intention-to-treat analysis was performed. RESULTS: 78 patients were enrolled and included in the analysis with 38 in the multimodal and 40 in the opioid cohort. Demographics (age, sex, race, and body mass index) were comparable between both groups. Pain scores at 10 days postoperatively were comparable between groups with no significant differences in mean VAS pain (2.4 \u00b1 1.7 in the multimodal group vs. 2.3 \u00b1 1.6 in the opioid group; P = 0.52) or median PROMIS-PI scores (61.5, interquartile range 58.5-67.0 in the multimodal vs. 62.0, interquartile range 56.5-64.0 in the opioid; P = 0.90. However, the opioid group consumed significantly more morphine milligram equivalents (3.7 \u00b1 5.07 compared to 0.4 \u00b1 1.35 for the multimodal group; P < 0.001). There were no significant differences in side effects between treatment groups. CONCLUSION: In patients undergoing shoulder arthroplasty, a non-opioid, multimodal pain protocol provided non-inferior pain relief compared to an opioid-based regimen. These findings support the shift toward opioid-sparing strategies in orthopedic surgery to minimize postoperative dependence without compromising patient care.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42162891/",
+      "score": 90,
+      "score_reasoning": "RCT comparing non-opioid multimodal pain protocol vs standard opioid protocol in shoulder arthroplasty addresses a high-priority clinical problem with excellent study design and direct practice applicability.",
+      "bullets": [
+        "Non-opioid multimodal pain protocol provides equivalent pain control to opioid protocol after primary total shoulder arthroplasty in 78 patients over 10 days.",
+        "Patients receiving multimodal protocol used 90% less morphine equivalents than opioid group with no difference in pain scores or side effects.",
+        "Study supports eliminating routine opioids after shoulder arthroplasty in opioid-naive patients undergoing elective primary procedures."
+      ]
+    },
+    {
+      "pmid": "42162751",
+      "title": "Tourniquet Use Increases Harm Without Benefit in Total Knee Arthroplasty: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Posta AZ",
+        "Nemes NJ",
+        "Takanouchi S",
+        "Galdzytska N",
+        "Engh MA",
+        "Fazekas KK",
+        "Hegyi P",
+        "Bejek Z"
+      ],
+      "authors_short": "Posta AZ, Nemes NJ, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Approximately 60% of orthopaedic surgeons worldwide use tourniquets (TQ) during primary total knee arthroplasty (TKA) surgeries. Currently, there are no established guidelines or recommendations; therefore, we aimed to conduct a systematic review and meta-analysis to investigate the effects of tourniquet application. METHODS: There were three major databases (PubMed, Cochrane, and Embase) systematically searched in November 2024. Randomized controlled trials (RCTs) comparing primary total knee arthroplasty with or without a tourniquet were included. We identified 6,040 studies, from which we included 41 RCTs. From reference and citation chasing, we added 10 more eligible articles. The risk of bias was assessed using the Cochrane Risk of Bias tool version 2 (RoB2), and the level of evidence was evaluated using the GRADE (Grading of Recommendations Assessment, Development and Evaluation) approach. For continuous outcomes, the difference between the means was used as the effect size measure, along with a 95% confidence interval (CI). In the case of dichotomous outcomes, the risk ratio with a 95% CI was used. RESULTS: In the tourniquet group, we observed a significantly higher risk of deep vein thrombosis (DVT) (P < 0.0001), risk ratio: 1.60 (95% CI: 1.25 to 2.05). We did not find a significant difference in the calculated total blood loss (CBL), and there was no significant difference in the risk of transfusions, with a relative risk of 1.05 (95% CI: 0.76 to -1.44). Furthermore, we observed no significant differences in pain levels or range of motion at any given time point. We experienced a moderate to high risk of bias in most outcomes, and the strength of evidence was low to moderate after grading. CONCLUSION: In conclusion, the use of a tourniquet during total knee arthroplasty increases the risk of deep vein thrombosis, results in higher pain levels, and leads to a lower range of motion in the early postoperative days. However, it has no significant effect on blood loss or transfusion requirements.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42162751/",
+      "score": 88,
+      "score_reasoning": "Large prospective cohort study (315 patients) using advanced statistical modeling to identify fear of falling trajectories after TKA provides clinically relevant insights for patient counseling and rehabilitation.",
+      "bullets": [
+        "Tourniquet use during primary total knee arthroplasty increases deep vein thrombosis risk by 60% compared to surgery without tourniquet.",
+        "Tourniquets provide no benefit for blood loss reduction or transfusion requirements in total knee arthroplasty patients.",
+        "Early postoperative pain levels and range of motion are worse with tourniquet use, with no long-term functional differences."
+      ]
+    },
+    {
+      "pmid": "42162750",
+      "title": "Diverging Surgeon Distribution in Primary Versus Revision Arthroplasty: A National Analysis.",
+      "authors": [
+        "Persaud SG",
+        "Kucherina A",
+        "Zepeda KE",
+        "Burgio C",
+        "Cheng S",
+        "Vigdorchik JM",
+        "Debbi EM"
+      ],
+      "authors_short": "Persaud SG, Kucherina A, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Total hip (THA) and total knee arthroplasty (TKA) utilization has increased substantially over the past decade, highlighting the importance of understanding how operative volume is distributed among surgeons. While prior studies have focused on consolidation at the health-system level, surgeon-level procedural concentration remains incompletely characterized. METHODS: A retrospective analysis of Medicare fee-for-service claims from 2013 to 2023 was performed using a national Medicare administrative claims dataset. The primary and revision THAs and TKAs were identified using Current Procedural Terminology (CPT) codes, including surgeons performing \u2265 11 procedures annually. Surgeon-level case concentration was assessed using the Herfindahl-Hirschman Index (HHI), with state-level variation evaluated using change in HHI (2023 minus 2013). Entrant surgeons were defined as those who had no cases in the prior two years. Temporal trends were assessed using linear regressions. RESULTS: Primary THA volume increased from 166,730 to 274,801 and TKA from 390,710 to 526,893 between 2013 and 2023, with corresponding increases in median annual surgeon volume (THA: 21 to 26; TKA: 27 to 31). Surgeon-level HHI declined for primary THA (2.7 to 2.0; \u03b2 = -0.064/year, P < 0.001) and TKA (1.7 to 1.5; \u03b2 = -0.016/year, P = 0.022), indicating decentralization. Revision THA volume decreased (5,667 to 1,814) with increasing HHI (42.4 to 132.8; \u03b2 = +8.37/year, P < 0.001), while revision TKA remained persistently concentrated. Entrant surgeons accounted for 12 to 18% of annual primary arthroplasty volume. CONCLUSION: The primary THAs and TKAs have become increasingly dispersed over the last decade, whereas revision arthroplasty remained concentrated among specialist high-volume surgeons, indicating contrasting workforce patterns.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42162750/",
+      "score": 87,
+      "score_reasoning": "Comprehensive meta-analysis of 51 RCTs examining tourniquet use in TKA provides high-quality evidence showing increased harm without benefit, directly informing surgical practice.",
+      "bullets": [
+        "Primary hip and knee replacement volume has become more dispersed among surgeons over the past decade, with new surgeons entering the field accounting for 12-18% of annual primary cases.",
+        "Revision hip arthroplasty volume decreased substantially from 2013 to 2023 and became increasingly concentrated among high-volume specialist surgeons.",
+        "While primary arthroplasty shows decentralization trends, revision knee arthroplasty remained persistently concentrated among fewer surgeons throughout the study period."
+      ]
+    },
+    {
+      "pmid": "42139669",
+      "title": "No difference in anterior knee pain after anterior cruciate ligament reconstruction: A randomised controlled trial comparing autograft, calcium phosphate cement and demineralised bone matrix for patellar defect filling.",
+      "authors": [
+        "Ehlers M",
+        "Kurtz J",
+        "Jazrawi L",
+        "Alaia M",
+        "Strauss E"
+      ],
+      "authors_short": "Ehlers M, Kurtz J, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: Although bone-patellar tendon-bone autograft is widely used for anterior cruciate ligament reconstruction, it is often associated with anterior knee pain resulting from the residual patellar bone defect. Various materials have been proposed to fill this void, yet no consensus exists regarding the optimal choice. This study compared three commonly used patellar harvest site bone void fillers and assessed their impact on the frequency and severity of anterior knee pain. We hypothesised that calcium phosphate cement would result in lower postoperative anterior knee pain compared with autologous bone graft and demineralised bone matrix (DBM) due to its compressive modulus approximating cancellous bone. METHODS: Skeletally mature patients undergoing primary anterior cruciate ligament reconstruction with a bone-patellar tendon-bone autograft were enrolled. Exclusion criteria included age under 18, prior anterior cruciate ligament reconstruction, multiligament knee injury, coronal malalignment exceeding three degrees of varus or valgus, or less than 1 year of follow-up. Participants were randomly assigned to one of three groups: (1) autologous bone graft, (2) calcium phosphate cement or (3) DBM. Patient-reported outcomes were collected preoperatively and at 1 week, 6 weeks, 3 months, 6 months, 9 months and 12 months postoperatively. Analysis of variance and chi-square tests were used for statistical analysis. RESULTS: After applying exclusion criteria, 148 patients were included in the final analysis. No significant differences in visual analog scale pain scores were observed between cohorts at any postoperative interval (12-month, p\u2009=\u20090.598). Similarly, Kujala and Knee injury and Osteoarthritis Outcome scores did not differ significantly among the three cohorts at any time point (12-month, p\u2009=\u20090.878, p\u2009=\u20090.366). CONCLUSIONS: Filling the patellar harvest site defect with autologous bone graft, calcium phosphate cement, or DBM resulted in similar postoperative anterior knee pain following anterior cruciate ligament reconstruction with bone-patellar tendon-bone autograft. LEVEL OF EVIDENCE: Level I.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42139669/",
+      "score": 85,
+      "score_reasoning": "RCT comparing bone void fillers in ACL reconstruction addresses anterior knee pain with robust methodology and directly applicable clinical findings for graft harvest site management.",
+      "bullets": [
+        "Autologous bone graft, calcium phosphate cement, and demineralized bone matrix produce identical anterior knee pain rates when filling patellar harvest sites after BTB ACL reconstruction.",
+        "Pain scores and functional outcomes at 12 months showed no differences between the three void fillers in 148 patients.",
+        "Choice of patellar defect filler can be based on surgeon preference and cost rather than expected pain reduction."
+      ]
+    },
+    {
+      "pmid": "42141718",
+      "title": "Delayed Surgical Treatment of Pediatric and Adolescent Medial Meniscus Posterior Root Tears Is Associated With Increased Odds of Medial Tibiofemoral Compartment Cartilage Injury: A Multicenter Study.",
+      "authors": [
+        "Moran J",
+        "Amaral JZ",
+        "Ortiz E",
+        "Farhat AG",
+        "Jones RH",
+        "Groff KD",
+        "Tollefson LV",
+        "LaPrade CM",
+        "Katz LD",
+        "Gardner E",
+        "Hsu J",
+        "Franklin C",
+        "Allen CR",
+        "Jimenez AE",
+        "Medvecky MJ",
+        "Hewett TE",
+        "Chahla J",
+        "McKay SD",
+        "Fabricant PD",
+        "LaPrade RF"
+      ],
+      "authors_short": "Moran J, Amaral JZ, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Medial meniscus posterior root tears (MMPRTs) have been associated with rapidly progressive cartilage degeneration when left untreated in adults. However, their clinical presentation, tear morphology, and associated cartilage pathology remain poorly characterized in pediatric and adolescent patients. PURPOSE: To identify risk factors for medial tibiofemoral compartment cartilage injury in pediatric and adolescent patients undergoing MMPRT repair, and secondarily to characterize MMPRT morphologies and skeletal maturity-associated injury patterns. STUDY DESIGN: Case series; Level of evidence, 4. METHODS: Patients <19 years of age who underwent a transosseous MMPRT repair between 2015 and 2025 across 5 institutions were included. Operative records were reviewed to classify MMPRT morphology using the LaPrade classification and to document concomitant ligamentous procedures. The presence, location, and severity of arthroscopically identified medial tibiofemoral compartment cartilage injuries involving the medial femoral condyle (MFC) and/or medial tibial plateau were graded using the International Cartilage Regeneration & Joint Preservation Society (ICRS) classification. Patients with and without medial compartment cartilage injury were compared, and multivariable logistic regression was used to identify risk factors associated with its presence at the time of surgery. RESULTS: A total of 75 patients underwent a transosseous MMPRT repair (mean age, 15.2 \u00b1 2.3 years), and 40% were skeletally immature. The most common MMPRT morphology was a type 5 root avulsion (55%), followed by a type 2 complete radial root tear (36%). Skeletally immature patients more frequently sustained isolated MMPRTs (60% vs 11%; P < .001), whereas skeletally mature adolescents more commonly had ligament-associated MMPRTs (89% vs 40%; P < .001).\u2009Overall, medial compartment cartilage injury was arthroscopically identified in 34 patients (45%) at the time of surgery. Most cartilage injuries involved the MFC (82%) and were classified as ICRS grade 1 (15%) or grade 2 (62%), while 24% were high-grade (ICRS grade 3 or 4). Multivariable logistic regression demonstrated that age (OR per year, 1.33; 95% CI, 1.02-1.73; P = .03) and delayed surgery (\u226590 days after injury) (OR, 4.96; 95% CI, 1.6-15; P = .005) were significantly associated with medial compartment cartilage injury. The association between delayed surgery and medial compartment cartilage injury remained consistent in a sensitivity analysis incorporating concomitant ligament injury. CONCLUSION: Concomitant medial compartment cartilage injury was arthroscopically identified in 45% of pediatric and adolescent patients undergoing MMPRT repair. While most of these cartilage injuries involved the MFC and were classified as ICRS grade 2, nearly one-quarter were high-grade lesions (ICRS grade 3 or 4). Increasing age and delayed surgery (\u226590 days after injury) were significantly associated with medial compartment cartilage injury. Overall, these findings underscore the potential importance of timely recognition and surgical treatment of MMPRTs in young patients.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42141718/",
+      "score": 84,
+      "score_reasoning": "Well-designed randomized crossover study using advanced biomechanical modeling to evaluate footwear effects on patellofemoral forces in adolescents provides novel evidence-based treatment guidance.",
+      "bullets": [
+        "Medial meniscus posterior root tears in patients under 19 cause cartilage damage in 45% of cases, with most injuries affecting the medial femoral condyle.",
+        "Delaying surgery beyond 90 days after injury increases odds of cartilage damage by nearly 5-fold compared to earlier repair.",
+        "Skeletally immature patients more often have isolated root tears while mature adolescents typically have concurrent ligament injuries."
+      ]
+    },
+    {
+      "pmid": "42139673",
+      "title": "Preoperative expectations and 2-year outcomes after primary anterior cruciate ligament reconstruction.",
+      "authors": [
+        "Swamykumar P",
+        "McCurdy MA",
+        "Ventimiglia DJ",
+        "Chrencik MT",
+        "Lingenfelter CC",
+        "Blommer JM",
+        "Leong NL",
+        "Meredith SJ",
+        "Frank Henn R",
+        "Packer JD"
+      ],
+      "authors_short": "Swamykumar P, McCurdy MA, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: A growing emphasis on patient-centered care, paired with a steady rise in anterior cruciate ligament reconstructions (ACLRs), has led to greater interest in identifying predictors of patient-reported outcomes (PROs) after ACLR. Patient expectations are one factor previously identified as potentially impacting post-operative PROs in orthopaedic surgery; however, the association between preoperative expectations and PROs after ACLR has not been thoroughly investigated. Therefore, the present study aimed to examine the association between preoperative expectations and PROs 2 years after primary ACLR. METHODS: Patients who underwent primary ACLR at an academic institution from July 2015 to May 2018 were retrospectively identified from a prospectively enroled registry. Surveys were administered at baseline and 2 years post-operatively. Outcomes included six Patient-Reported Outcomes Measurement Information System (PROMIS) computer adaptive testing (CAT) domains, International Knee Documentation Committee (IKDC) Subjective Knee Form, Tegner Activity Scale (TAS), Marx Activity Rating Scale of the lower extremity (MARS LE) and numeric pain scale (NPS) of the operative knee and body. Musculoskeletal Outcomes Data Evaluation and Management System (MODEMS) preoperative expectations domain assessed patient expectations. RESULTS: Out of 184 patients, 129 patients (70.1%) with complete preoperative expectations completed 2-year PROs and were included for statistical analysis. The mean preoperative expectations score for our patient population was 88.1. On bivariate analysis, preoperative expectations were not associated with patient sociodemographics. Higher preoperative expectations correlated with improved 2-year surgical satisfaction (p\u2009=\u20090.005), greater 2-year improvement in PROMIS Social Satisfaction (p\u2009=\u20090.023) and improved PROMIS Pain Interference (p\u2009=\u20090.005). On regression analysis, preoperative expectations predicted 2-year PROMIS Pain Interference (p\u2009=\u20090.030) and Met Expectations (p\u2009=\u20090.038). Preoperative expectations were also a predictor of greater improvement in PROMIS Pain Interference (p\u2009=\u20090.014). CONCLUSION: The current study found that preoperative expectations are predictive of improved 2-year pain-related outcomes and a greater sense that expectations were met after ACLR. LEVEL OF EVIDENCE: Level IV, a retrospective cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42139673/",
+      "score": 82,
+      "score_reasoning": "Large multicenter study (75 patients) identifying delayed treatment as risk factor for cartilage injury in pediatric meniscus tears provides important timing guidance for surgical intervention.",
+      "bullets": [
+        "Patients with higher preoperative expectations before ACL reconstruction report better pain outcomes and greater satisfaction at 2 years postoperatively.",
+        "This finding applies to primary ACL reconstruction patients and suggests that patient expectations independently predict pain-related outcomes regardless of demographics.",
+        "Preoperative counseling about realistic expectations may be important for optimizing patient satisfaction and pain outcomes after ACL reconstruction."
+      ]
+    },
+    {
+      "pmid": "42169443",
+      "title": "Association Between Autograft Choice and Risk of Contralateral ACL Injury in Patients \u226425 Years of Age: A Systematic Review and Meta-analysis.",
+      "authors": [
+        "Petit CB",
+        "Hussain ZB",
+        "Lloyd RS",
+        "Kember LS",
+        "McPherson AL",
+        "Pradip K",
+        "Petushek EJ",
+        "White MS",
+        "Xerogeanes JW",
+        "Lamplot JD",
+        "Myer GD",
+        "Montalvo AM"
+      ],
+      "authors_short": "Petit CB, Hussain ZB, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Understanding the risk of secondary contralateral (CL) anterior cruciate ligament (ACL) injury in young patients after ACL reconstruction (ACLR) may help identify targetable risk factors to optimize rehabilitation and return to sport. It is not clear if the autograft type used in the index procedure affects the risk of having a CL injury. Additionally, the aggregated CL injury rates across studies in young patients have not been well described. PURPOSE: To compare CL ACL injury rates by graft type in patients \u226425 years of age at a minimum follow-up of 24 months after ACLR, and to stratify CL injury rates by potential modifiers, including sex. STUDY DESIGN: Systematic review and meta-analysis; Level of evidence, 4. METHODS: A systematic review of the literature for studies reporting ACL autograft reinjury rates after ACLR using hamstring tendon (HT), bone-patellar tendon-bone (BPTB), or quadriceps tendon (QT) autograft in patients \u226425 years of age with a minimum follow-up of 24 months was conducted. From this data set, CL ACL injury rates from studies in which they were reported were evaluated. RESULTS: The meta-analysis included 22 studies pooling 4435 total patients who received BPTB (n = 2349), HT (n = 1561), or QT (n = 525) autografts for their ALCR. The pooled CL ACL injury rate was 10.8% (95% CI, 8.2%-14.0%) for HT, 10.5% (95% CI, 7.4%-14.8%) for BPTB, 12.2% (95% CI, 9.7%-15.3%) for QT, and 10.6% (95% CI, 8.8%-12.8%) for all grafts together. There were no differences among primary ACLR graft types in CL ACL injury rates (\u03c72 = 0.7; P = .7). There were differences in CL injury rates by sex among graft types (risk ratio [RR], 0.8; 95% CI, 0.5-1.4; \u03c72 = 9.2; P < .01). Males had a significantly lower risk of CL ACL injury relative to females after primary BPTB ACLR (RR, 0.439), but not HT (RR, 1.050) or QT (RR, 1.219) ACLR. CONCLUSION: In patients \u226425 years of age, the rates of CL ACL injury are similar after primary HT, BPTB, and QT autograft ACLR. The risk of CL injury was lower in males relative to females after ACLR with BPTB, but not with HT or QT.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42169443/",
+      "score": 78,
+      "score_reasoning": "Comprehensive meta-analysis of 22 studies examining ACL graft choice and contralateral injury risk provides high-quality evidence for surgical decision-making in young athletes.",
+      "bullets": [
+        "Contralateral ACL injury rates are similar across hamstring, patellar tendon, and quadriceps autografts in patients 25 and under, occurring in about 11% at 2+ year follow-up.",
+        "Males have lower contralateral ACL injury risk than females when patellar tendon autograft is used, but not with hamstring or quadriceps grafts.",
+        "Graft choice does not meaningfully influence contralateral ACL injury risk in young patients undergoing primary ACL reconstruction."
+      ]
+    },
+    {
+      "pmid": "42156168",
+      "title": "Reply to the Letter to the Editor: All-inside ACL Reconstruction Offers No Advantage in Clinical Outcomes, Graft Healing, or Tunnel Widening Compared With the Complete Tibial Tunnel Technique: A Prospective Randomized Trial.",
+      "authors": [
+        "Okutan AE",
+        "G\u00fcr\u00fcn E"
+      ],
+      "authors_short": "Okutan AE, G\u00fcr\u00fcn E",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42156168/",
+      "score": 76,
+      "score_reasoning": "Matched cohort study of professional soccer players after ACLR provides specific evidence on secondary injury risk and performance decline relevant to high-level athletes.",
+      "bullets": [
+        "All-inside ACL reconstruction shows no clinical benefit over complete tibial tunnel technique in prospective randomized comparison",
+        "Graft healing rates are equivalent between all-inside and traditional tunnel methods",
+        "Tunnel widening occurs at similar rates regardless of reconstruction technique used"
+      ]
+    },
+    {
+      "pmid": "42166562",
+      "title": "Lower Trapezius Transfer at the Time of Reverse Shoulder Arthroplasty with an Allograft-Prosthetic Composite Can Restore External Rotation.",
+      "authors": [
+        "Sanchez-Sotelo J",
+        "Hart CM",
+        "Weir TB",
+        "Graden N",
+        "Gulzar M",
+        "ElHassan B",
+        "Wagner E"
+      ],
+      "authors_short": "Sanchez-Sotelo J, Hart CM, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: The purpose of this study was to describe, and report the outcomes of, a surgical technique that combines reverse shoulder arthroplasty (RSA) using an allograft-prosthetic composite (APC) with a lower trapezius transfer (LTT) to the infraspinatus of the allograft extended with the inferior capsule. METHODS: Between 2019 and 2023, 2 surgeons performed a total of 27 RSAs using an APC in conjunction with an LTT. Once the RSA APC reconstruction had been performed, cuff-capsule allograft tissue was passed posterior to the glenosphere and secured to the harvested lower trapezius. One shoulder was resected for periprosthetic joint infection; the remaining 26 shoulders were followed for a minimum of 2 years (mean, 2.7 years; range, 2 to 5 years). RESULTS: The rate of revision or reoperation for humeral complications was 15% and included secondary bone grafting (2 shoulders), resection for infection (1 shoulder), and internal fixation of a periprosthetic fracture (1 shoulder). Other complications requiring surgery included hematoma treated with evacuation (2 shoulders), dislocation (1 shoulder), and glenosphere disassociation (1 shoulder). Preoperatively, 11 shoulders presented with pseudoparalysis, and the mean active elevation of the remaining 16 shoulders was 43\u00b0, with only 1 shoulder demonstrating >90\u00b0 of active elevation. At the most recent follow-up, 3 shoulders were pseudoparalytic, 11 had <90\u00b0 of active elevation, 8 had >90\u00b0 of active elevation, and 3 had active elevation to 90\u00b0. The overall mean active elevation of the 25 shoulders that could be assessed was 79\u00b0. Preoperatively, only 4 (15%) of the 27 shoulders demonstrated active external rotation past neutral; at the most recent follow-up, 80% of surviving shoulders had active external rotation past neutral. CONCLUSIONS: LTT at the time of RSA using an APC has the potential to restore active external rotation in shoulders with proximal humeral bone loss and posterosuperior cuff deficiency. LEVEL OF EVIDENCE: Therapeutic Level IV. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42166562/",
+      "score": 70,
+      "score_reasoning": "Large retrospective analysis (1,000 TKAs) examining CPAK phenotypes and alignment changes provides insights for kinematic vs mechanical alignment debate.",
+      "bullets": [
+        "Lower trapezius transfer combined with reverse shoulder arthroplasty using allograft-prosthetic composite improved external rotation from 15% to 80% of patients in proximal humeral bone loss cases.",
+        "This technique applies to patients with proximal humeral bone loss and posterosuperior rotator cuff deficiency requiring complex reconstruction.",
+        "Complication rate was notable with 15% humeral revisions and additional surgeries for hematoma, dislocation, and glenosphere problems over 2.7 years follow-up."
+      ]
+    },
+    {
+      "pmid": "42162890",
+      "title": "Elevated Risk of Medical Complications in Sickle Cell Disease Patients after Total Shoulder Arthroplasty.",
+      "authors": [
+        "Khanna A",
+        "Lawand JJ",
+        "Adio A",
+        "Holle AM",
+        "Eble S",
+        "Abboud JA"
+      ],
+      "authors_short": "Khanna A, Lawand JJ, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Sickle cell disease (SCD) predisposes patients to vaso-occlusive and inflammatory complications that may be exacerbated by surgical stress. While SCD has been linked to adverse outcomes after lower-extremity arthroplasty, its effect on postoperative complications following total shoulder arthroplasty (TSA) is poorly understood, particularly independent of avascular necrosis (AVN). This study evaluates the association between SCD and postoperative outcomes after TSA using a national database. METHODS: A retrospective cohort study was conducted using the PearlDiver database. Patients with sickle cell who underwent TSA were matched 1:10 with controls without sickle cell based on age, gender, comorbidities, Charlson comorbidity index, obesity, and tobacco use. Patients with preoperative avascular necrosis were excluded to isolate the independent effect of SCD. Postoperative complications were assessed at 90 days and two years, with statistical comparisons made using odds ratios (OR) and 95% confidence intervals (CI). A p-value of <0.05 was considered statistically significant. RESULTS: The matched cohort included 210 SCD patients and 2,000 controls. Within 90 days, SCD patients had significantly higher rates of deep vein thrombosis (1.4% vs 0.3%, OR 4.82, p = 0.027), acute kidney injury (3.8% vs 0.9%, OR 4.36, p < 0.001), wound dehiscence (1.4% vs 0.3%, OR 4.82, p = 0.027), emergency department visits (20.0% vs 13.2%, OR 1.65, p = 0.007), and hospital readmissions (6.2% vs 3.0%, OR 2.13, p = 0.016). No significant differences were found for postoperative myocardial infarction, pneumonia, or blood transfusions. Over two years, no significant differences were observed in surgical complications such as revision rates, periprosthetic joint infection, dislocation events, or aseptic loosening. CONCLUSION: SCD is associated with significantly increased early medical complications after TSA but does not appear to increase short-term implant complications. These findings highlight the need for focused perioperative risk mitigation in this high-risk population.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42162890/",
+      "score": 68,
+      "score_reasoning": "Prospective study comparing non-opioid pain protocols in shoulder arthroplasty addresses important clinical need with good methodology and practical applicability.",
+      "bullets": [
+        "Sickle cell disease patients have 4-5 times higher rates of DVT, acute kidney injury, and wound dehiscence within 90 days after total shoulder arthroplasty.",
+        "These patients also experience significantly more emergency department visits and hospital readmissions in the first 90 days compared to matched controls.",
+        "Long-term implant outcomes at two years show no difference in revision rates, infection, dislocation, or loosening between sickle cell and control patients."
+      ]
+    }
+  ],
+  "picks": [
+    5
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-05-22T05:17:24.400997-07:00"
+}
