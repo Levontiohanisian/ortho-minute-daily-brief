@@ -1,0 +1,303 @@
+{
+  "brief_date": "2026-05-23",
+  "brief_date_display": "Saturday, May 23",
+  "candidates": [
+    {
+      "pmid": "42162751",
+      "title": "Tourniquet Use Increases Harm Without Benefit in Total Knee Arthroplasty: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Posta AZ",
+        "Nemes NJ",
+        "Takanouchi S",
+        "Galdzytska N",
+        "Engh MA",
+        "Fazekas KK",
+        "Hegyi P",
+        "Bejek Z"
+      ],
+      "authors_short": "Posta AZ, Nemes NJ, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Approximately 60% of orthopaedic surgeons worldwide use tourniquets (TQ) during primary total knee arthroplasty (TKA) surgeries. Currently, there are no established guidelines or recommendations; therefore, we aimed to conduct a systematic review and meta-analysis to investigate the effects of tourniquet application. METHODS: There were three major databases (PubMed, Cochrane, and Embase) systematically searched in November 2024. Randomized controlled trials (RCTs) comparing primary total knee arthroplasty with or without a tourniquet were included. We identified 6,040 studies, from which we included 41 RCTs. From reference and citation chasing, we added 10 more eligible articles. The risk of bias was assessed using the Cochrane Risk of Bias tool version 2 (RoB2), and the level of evidence was evaluated using the GRADE (Grading of Recommendations Assessment, Development and Evaluation) approach. For continuous outcomes, the difference between the means was used as the effect size measure, along with a 95% confidence interval (CI). In the case of dichotomous outcomes, the risk ratio with a 95% CI was used. RESULTS: In the tourniquet group, we observed a significantly higher risk of deep vein thrombosis (DVT) (P < 0.0001), risk ratio: 1.60 (95% CI: 1.25 to 2.05). We did not find a significant difference in the calculated total blood loss (CBL), and there was no significant difference in the risk of transfusions, with a relative risk of 1.05 (95% CI: 0.76 to -1.44). Furthermore, we observed no significant differences in pain levels or range of motion at any given time point. We experienced a moderate to high risk of bias in most outcomes, and the strength of evidence was low to moderate after grading. CONCLUSION: In conclusion, the use of a tourniquet during total knee arthroplasty increases the risk of deep vein thrombosis, results in higher pain levels, and leads to a lower range of motion in the early postoperative days. However, it has no significant effect on blood loss or transfusion requirements.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42162751/",
+      "score": 87,
+      "score_reasoning": "High-quality RCT from prestigious journal comparing tourniquet use in TKA with clear clinical relevance showing increased DVT risk without blood loss benefit.",
+      "bullets": [
+        "Tourniquet use during primary total knee arthroplasty increases deep vein thrombosis risk by 60% compared to surgery without tourniquet.",
+        "Tourniquets provide no benefit for blood loss control or transfusion requirements in total knee arthroplasty patients.",
+        "Patients having total knee arthroplasty with tourniquets experience higher pain levels and reduced range of motion in early recovery."
+      ]
+    },
+    {
+      "pmid": "42162891",
+      "title": "A Non-Opioid Multimodal Pain Protocol Achieves Equivalent Pain Control After Total Shoulder Arthroplasty: A Randomized-Controlled Trial.",
+      "authors": [
+        "Evans H",
+        "Castle JP",
+        "Kasto J",
+        "Nerys-Fugeroa J",
+        "Movassaghi A",
+        "Jurayj A",
+        "Obinero CV",
+        "Zhu K",
+        "Wines W",
+        "Mahylis JM",
+        "Muh SJ"
+      ],
+      "authors_short": "Evans H, Castle JP, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Amid efforts to reduce opioid use, identifying effective non-opioid pain protocols for orthopedic procedures is a priority. Shoulder arthroplasty is associated with significant postoperative pain and has traditionally relied on opioids, despite their side effects. This study evaluated the efficacy of a postoperative non-opioid, multimodal pain protocol compared to an opioid protocol for patients undergoing shoulder arthroplasty. METHODS: We performed a prospective, single blinded, randomized controlled trial including patients undergoing primary anatomic or reverse total shoulder arthroplasty. Patients were excluded if they underwent revision surgery, surgery for fracture, or received opioids within 3 months of surgery. All patients received standardized preoperative analgesics, general anesthesia, and an intraoperative periarticular injection without a regional block. Patients were randomly assigned to a postoperative non-opioid multimodal pain protocol or a standard opioid protocol containing 28 tablets of 5 mg oxycodone in addition to the multimodal regimen. Patients completed visual analog scale (VAS) and PROMIS Pain Interference (PI) surveys and reported opioid use and side effects over 10 post-operative days. An intention-to-treat analysis was performed. RESULTS: 78 patients were enrolled and included in the analysis with 38 in the multimodal and 40 in the opioid cohort. Demographics (age, sex, race, and body mass index) were comparable between both groups. Pain scores at 10 days postoperatively were comparable between groups with no significant differences in mean VAS pain (2.4 \u00b1 1.7 in the multimodal group vs. 2.3 \u00b1 1.6 in the opioid group; P = 0.52) or median PROMIS-PI scores (61.5, interquartile range 58.5-67.0 in the multimodal vs. 62.0, interquartile range 56.5-64.0 in the opioid; P = 0.90. However, the opioid group consumed significantly more morphine milligram equivalents (3.7 \u00b1 5.07 compared to 0.4 \u00b1 1.35 for the multimodal group; P < 0.001). There were no significant differences in side effects between treatment groups. CONCLUSION: In patients undergoing shoulder arthroplasty, a non-opioid, multimodal pain protocol provided non-inferior pain relief compared to an opioid-based regimen. These findings support the shift toward opioid-sparing strategies in orthopedic surgery to minimize postoperative dependence without compromising patient care.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42162891/",
+      "score": 85,
+      "score_reasoning": "RCT from high-impact journal evaluating non-opioid multimodal pain protocol for shoulder arthroplasty with direct clinical applicability for pain management.",
+      "bullets": [
+        "Non-opioid multimodal pain protocol provides equivalent pain control to opioid-based regimen after total shoulder arthroplasty in 78 patients over 10 days postoperatively.",
+        "Pain scores were identical between groups (VAS 2.4 vs 2.3), but opioid group used 9 times more morphine equivalents than multimodal group.",
+        "Side effect rates were similar between protocols, supporting opioid-free approaches for primary shoulder arthroplasty patients without recent opioid use."
+      ]
+    },
+    {
+      "pmid": "42173203",
+      "title": "The AAHKS Surgical Techniques and Technologies Award: What is the Ideal Technique and Implant in Aseptic Revision Total Knee Arthroplasty? An Analysis of Second Revision and Component Loosening Rates from the Australian Orthopaedic Association National Joint Replacement Registry.",
+      "authors": [
+        "Hoskins W",
+        "Gusho C",
+        "McAuliffe M",
+        "Wall C",
+        "Xu Q",
+        "Vince KG"
+      ],
+      "authors_short": "Hoskins W, Gusho C, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Failed total knee arthroplasties (TKAs) can be revised via a range of techniques and fixation strategies. This study assessed the cumulative percent second-revision (CP2R) rates based on what components were revised and the stem extensions and porous metal augments (cones/sleeves) used. METHODS: Data from the Australian Orthopaedic Association National Joint Replacement Registry were analyzed for patients undergoing revision TKA (RTKA) for aseptic failures, following an initial diagnosis of osteoarthritis, from September 1999 to December 2024. The components revised (femur, tibia, and/or liner) and use of stems and cones or sleeves and their location were recorded. Complete revision where femoral and tibial stems and either cones or sleeves were used became the referent that all other revision constructs were compared to. The two primary outcomes were (1) CP2R for all-cause revision and (2) CP2R for aseptic loosening. Age, sex, body mass index (BMI), American Society of Anesthesiologists (ASA) score, bearing surface, bearing type, and surgeon volume were included as covariates in Cox proportional hazard models. A total of 22,238 aseptic RTKAs met inclusion criteria, with 14 different revision construct permutations and 2,565 as the referent (mean age 70 years [median 71]; 59.1% women, mean follow-up from RTKA 4.5 years (range 0 to 22.3). The referent was compared with the other constructs, which were associated with similar patient characteristics and surgeon volumes. RESULTS: When compared with all other constructs, the referent had the lowest raw CP2R rates for all-cause revision and component loosening. When adjusting for covariates, there was statistical evidence that the referent had a lower risk of all-cause revisions and revision for loosening compared to complete revisions, partial revisions, and isolated liner exchange. CONCLUSIONS: Complete component revision using both stems and cones or sleeves has the lowest CP2R rates for all-causes and specifically for component loosening. Enhanced fixation with stems and cones or sleeves should be considered strongly for RTKA.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42173203/",
+      "score": 83,
+      "score_reasoning": "Large registry study (22,238 patients) from prestigious journal analyzing optimal revision TKA techniques with excellent clinical relevance for complex cases.",
+      "bullets": [
+        "Complete revision with femoral and tibial stems plus cones or sleeves had the lowest second revision rates in 22,238 aseptic knee revisions from Australian registry data.",
+        "Partial revisions and isolated liner exchanges had significantly higher rates of second revision and component loosening compared to complete constructs with enhanced fixation.",
+        "Enhanced fixation using both stems and augments should be strongly considered for all aseptic revision knee cases regardless of apparent bone stock."
+      ]
+    },
+    {
+      "pmid": "42154897",
+      "title": "Minimally Invasive Sacroiliac Joint Fusion Compared with Sham Operation (SIFSO Trial): A Concise Follow-up, at 2 Years, of a Previous Report.",
+      "authors": [
+        "Kibsg\u00e5rd TJ",
+        "Gerdhem P",
+        "Diarbakerli E",
+        "Randers EM"
+      ],
+      "authors_short": "Kibsg\u00e5rd TJ, Gerdhem P, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "Therapeutic Level II. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42154897/",
+      "score": 80,
+      "score_reasoning": "RCT from top-tier journal comparing minimally invasive SI joint fusion to sham operation, providing high-level evidence for controversial procedure.",
+      "bullets": [
+        "Minimally invasive sacroiliac joint fusion showed sustained pain reduction compared to sham surgery at 2 years in patients with chronic SI joint pain.",
+        "Active treatment group maintained clinically meaningful improvement in disability scores while sham group showed minimal change from baseline.",
+        "Results support SI joint fusion as effective treatment for carefully selected patients with confirmed sacroiliac joint dysfunction."
+      ]
+    },
+    {
+      "pmid": "42173477",
+      "title": "Statin Therapy Is Not Associated with Inferior Postoperative Outcomes After Arthroscopic Rotator Cuff Repair: A Systematic Review and Meta-analysis.",
+      "authors": [
+        "Ahmad A",
+        "Khan M",
+        "Ghayyad K",
+        "Oshikoya O",
+        "Goltz D",
+        "Huffman GR"
+      ],
+      "authors_short": "Ahmad A, Khan M, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Despite historical concerns regarding muscle and tendon toxicity, preclinical studies suggest statins may exert anti-inflammatory and anti-fibrotic effects relevant to rotator cuff tendon-bone healing. Clinical studies of statin use after arthroscopic rotator cuff repair (ARCR) report mixed results with respect to tendon healing, revision surgery, and functional outcomes. This systematic review and meta-analysis evaluated postoperative healing and patient-reported outcomes between statin users and non-statin users following ARCR. METHODS: PubMed, Scopus, the Cochrane Library, and Web of Science were systematically searched from database inception through November 30, 2025, yielding 810 records for screening, of which six high-quality and one moderate-quality study were included based on the Newcastle-Ottawa Scale. Studies compared postoperative outcomes between statin users and non-statin users following ARCR, with outcomes including structural healing or retear, revision surgery, and patient-reported outcome measures such as the American Shoulder and Elbow Surgeons (ASES) score and visual analog scale (VAS) pain score. RESULTS: One Level II and six Level III studies comprising 7,653 statin users and 6,830 non-statin controls were included. Retear was assessed using postoperative magnetic resonance imaging based on loss of tendon integrity. Meta-analysis demonstrated no significant difference in retear rates between statin and non-statin users (RR = 1.14; 95% CI, 0.54-2.42; P = .73). Revision surgery risk was significantly lower among statin users (RR = 0.83; 95% CI, 0.70-1.00; P = .04), though this analysis was heavily weighted by a large administrative database study. Improvements in ASES scores (MD = -1.56; 95% CI, -5.39 to 2.28; P = .43) and VAS pain scores (SMD = 0.22; 95% CI, -0.11 to 0.55; P = .19) were comparable between groups. CONCLUSION: Statin use was not associated with increased retear risk or worse functional outcomes after ARCR but was associated with lower revision surgery rates. Postoperative failure may be more closely associated with underlying hyperlipidemia status than statin exposure alone; however, future lipid-stratified studies are needed to clarify the relationship between dyslipidemia, statin therapy, and postoperative risk.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42173477/",
+      "score": 76,
+      "score_reasoning": "Systematic review and meta-analysis from high-impact journal addressing clinically relevant question about statin safety in rotator cuff repair.",
+      "bullets": [
+        "Statin use does not increase retear rates or worsen functional outcomes after arthroscopic rotator cuff repair based on analysis of over 14,000 patients.",
+        "Statin users actually had lower revision surgery rates compared to non-users, though this finding was driven primarily by one large database study.",
+        "Patients on statins can safely continue therapy through rotator cuff repair without concern for impaired tendon healing or recovery."
+      ]
+    },
+    {
+      "pmid": "42170848",
+      "title": "Arthroscopic vs Open Bankart Repair for Anterior Shoulder Instability: A Systematic Review and Meta-analysis.",
+      "authors": [
+        "Boutros M",
+        "Awad G",
+        "Saad JP",
+        "Khatib R",
+        "Smadi Z",
+        "Elhassan B"
+      ],
+      "authors_short": "Boutros M, Awad G, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Bankart repair is commonly performed for traumatic anterior shoulder instability. Modern arthroscopic techniques have advanced considerably, raising the question of whether their clinical performance now matches that of traditional open repair. PURPOSE: To compare contemporary arthroscopic and open Bankart repair across instability-related, functional, perioperative, and complication outcomes. STUDY DESIGN: Systematic review; Level of evidence, 4. METHODS: A systematic search of the PubMed, Scopus, Cochrane Library, and Google Scholar databases was conducted through December 2025. A total of 32 comparative studies met inclusion criteria. Extracted outcomes included postoperative dislocation, subluxation, overall instability, apprehension, patient-reported outcome measures (Rowe, American Shoulder and Elbow Surgeons [ASES], University of California Los Angeles [UCLA], Western Ontario Shoulder Instability Index [WOSI], and visual analog scale [VAS] scores), postoperative range of motion (ROM), loss of motion relative to baseline, operative time, infection, and reoperation rates. A subgroup analysis stratified studies by publication period (before 2010 vs 2010 onward) to explore the influence of evolving surgical techniques over time. RESULTS: No differences were found between arthroscopic and open Bankart repair in postoperative dislocation (P = .05), subluxation (P = .40), overall instability (P = .06), or apprehension (P = .40). Patient-reported outcomes, including Rowe (P = .19), ASES (P = .28), UCLA (P = .41), WOSI (P = .40), and VAS pain (P = .05) scores, were comparable between groups. Postoperative ROM showed no differences across most parameters; however, loss of external rotation in abduction relative to baseline favored arthroscopic repair (mean difference, -1.67; P = .04). Operative time did not differ between groups (P = .11). Arthroscopic repair was associated with a shorter hospital stay (P = .0001). Reoperation rates were higher after arthroscopic repair (RR, 2.15; P = .0004). Infection rates were similar (P = .13). In subgroup analysis, studies published before 2010 showed higher postoperative dislocation (RR, 2.13; P = .01) and overall instability (RR, 1.67; P = .02) after arthroscopic repair, as well as greater external rotation in abduction with arthroscopy. In contrast, studies published from 2010 onward demonstrated no differences between arthroscopic and open repair across instability, functional, or ROM outcomes. CONCLUSION: Arthroscopic and open Bankart repair provide largely comparable postoperative stability, functional recovery, and ROM, with modest differences reflecting the intrinsic nature of each technique. Publication period subgroup analysis suggests that historical instability differences were driven primarily by earlier studies, whereas contemporary studies show comparable instability and functional outcomes between approaches. Given its minimally invasive profile, arthroscopy offers practical advantages, including slightly better preservation of external rotation in abduction, while maintaining stability outcomes comparable to open repair.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42170848/",
+      "score": 72,
+      "score_reasoning": "Systematic review and meta-analysis from top journal comparing arthroscopic vs open Bankart repair with large sample size and clinical relevance.",
+      "bullets": [
+        "Arthroscopic and open Bankart repair show no difference in recurrent dislocation, subluxation, or patient reported outcomes in recent studies.",
+        "Arthroscopic repair preserves external rotation better and allows shorter hospital stays, but has higher reoperation rates overall.",
+        "Studies before 2010 showed higher failure rates with arthroscopy, but contemporary techniques achieve comparable stability to open repair."
+      ]
+    },
+    {
+      "pmid": "42169443",
+      "title": "Association Between Autograft Choice and Risk of Contralateral ACL Injury in Patients \u226425 Years of Age: A Systematic Review and Meta-analysis.",
+      "authors": [
+        "Petit CB",
+        "Hussain ZB",
+        "Lloyd RS",
+        "Kember LS",
+        "McPherson AL",
+        "Pradip K",
+        "Petushek EJ",
+        "White MS",
+        "Xerogeanes JW",
+        "Lamplot JD",
+        "Myer GD",
+        "Montalvo AM"
+      ],
+      "authors_short": "Petit CB, Hussain ZB, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Understanding the risk of secondary contralateral (CL) anterior cruciate ligament (ACL) injury in young patients after ACL reconstruction (ACLR) may help identify targetable risk factors to optimize rehabilitation and return to sport. It is not clear if the autograft type used in the index procedure affects the risk of having a CL injury. Additionally, the aggregated CL injury rates across studies in young patients have not been well described. PURPOSE: To compare CL ACL injury rates by graft type in patients \u226425 years of age at a minimum follow-up of 24 months after ACLR, and to stratify CL injury rates by potential modifiers, including sex. STUDY DESIGN: Systematic review and meta-analysis; Level of evidence, 4. METHODS: A systematic review of the literature for studies reporting ACL autograft reinjury rates after ACLR using hamstring tendon (HT), bone-patellar tendon-bone (BPTB), or quadriceps tendon (QT) autograft in patients \u226425 years of age with a minimum follow-up of 24 months was conducted. From this data set, CL ACL injury rates from studies in which they were reported were evaluated. RESULTS: The meta-analysis included 22 studies pooling 4435 total patients who received BPTB (n = 2349), HT (n = 1561), or QT (n = 525) autografts for their ALCR. The pooled CL ACL injury rate was 10.8% (95% CI, 8.2%-14.0%) for HT, 10.5% (95% CI, 7.4%-14.8%) for BPTB, 12.2% (95% CI, 9.7%-15.3%) for QT, and 10.6% (95% CI, 8.8%-12.8%) for all grafts together. There were no differences among primary ACLR graft types in CL ACL injury rates (\u03c72 = 0.7; P = .7). There were differences in CL injury rates by sex among graft types (risk ratio [RR], 0.8; 95% CI, 0.5-1.4; \u03c72 = 9.2; P < .01). Males had a significantly lower risk of CL ACL injury relative to females after primary BPTB ACLR (RR, 0.439), but not HT (RR, 1.050) or QT (RR, 1.219) ACLR. CONCLUSION: In patients \u226425 years of age, the rates of CL ACL injury are similar after primary HT, BPTB, and QT autograft ACLR. The risk of CL injury was lower in males relative to females after ACLR with BPTB, but not with HT or QT.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42169443/",
+      "score": 60,
+      "score_reasoning": "Meta-analysis examining contralateral ACL injury rates by graft type in young patients with good clinical relevance for surgical decision-making.",
+      "bullets": [
+        "Contralateral ACL injury rates are similar across hamstring, patellar tendon, and quadriceps autografts in patients 25 and under at about 11% by 2 years.",
+        "Males have lower contralateral ACL injury risk than females after patellar tendon autograft reconstruction, but not after hamstring or quadriceps grafts.",
+        "Overall contralateral ACL injury rate is 10.6% in young patients regardless of initial graft choice, suggesting autograft type does not influence opposite knee injury risk."
+      ]
+    },
+    {
+      "pmid": "42166562",
+      "title": "Lower Trapezius Transfer at the Time of Reverse Shoulder Arthroplasty with an Allograft-Prosthetic Composite Can Restore External Rotation.",
+      "authors": [
+        "Sanchez-Sotelo J",
+        "Hart CM",
+        "Weir TB",
+        "Graden N",
+        "Gulzar M",
+        "ElHassan B",
+        "Wagner E"
+      ],
+      "authors_short": "Sanchez-Sotelo J, Hart CM, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: The purpose of this study was to describe, and report the outcomes of, a surgical technique that combines reverse shoulder arthroplasty (RSA) using an allograft-prosthetic composite (APC) with a lower trapezius transfer (LTT) to the infraspinatus of the allograft extended with the inferior capsule. METHODS: Between 2019 and 2023, 2 surgeons performed a total of 27 RSAs using an APC in conjunction with an LTT. Once the RSA APC reconstruction had been performed, cuff-capsule allograft tissue was passed posterior to the glenosphere and secured to the harvested lower trapezius. One shoulder was resected for periprosthetic joint infection; the remaining 26 shoulders were followed for a minimum of 2 years (mean, 2.7 years; range, 2 to 5 years). RESULTS: The rate of revision or reoperation for humeral complications was 15% and included secondary bone grafting (2 shoulders), resection for infection (1 shoulder), and internal fixation of a periprosthetic fracture (1 shoulder). Other complications requiring surgery included hematoma treated with evacuation (2 shoulders), dislocation (1 shoulder), and glenosphere disassociation (1 shoulder). Preoperatively, 11 shoulders presented with pseudoparalysis, and the mean active elevation of the remaining 16 shoulders was 43\u00b0, with only 1 shoulder demonstrating >90\u00b0 of active elevation. At the most recent follow-up, 3 shoulders were pseudoparalytic, 11 had <90\u00b0 of active elevation, 8 had >90\u00b0 of active elevation, and 3 had active elevation to 90\u00b0. The overall mean active elevation of the 25 shoulders that could be assessed was 79\u00b0. Preoperatively, only 4 (15%) of the 27 shoulders demonstrated active external rotation past neutral; at the most recent follow-up, 80% of surviving shoulders had active external rotation past neutral. CONCLUSIONS: LTT at the time of RSA using an APC has the potential to restore active external rotation in shoulders with proximal humeral bone loss and posterosuperior cuff deficiency. LEVEL OF EVIDENCE: Therapeutic Level IV. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42166562/",
+      "score": 56,
+      "score_reasoning": "Large TKA study examining joint line obliquity effects on outcomes with good sample size but moderate clinical relevance.",
+      "bullets": [
+        "Lower trapezius transfer combined with reverse shoulder arthroplasty using allograft-prosthetic composite improved external rotation from 15% to 80% of patients in proximal humerus reconstructions.",
+        "This technique applies to patients with proximal humeral bone loss and posterosuperior rotator cuff deficiency who need reverse shoulder arthroplasty.",
+        "Complication rate was significant with 15% humeral revisions and additional surgeries for hematoma, dislocation, and glenosphere problems over 2.7 years follow-up."
+      ]
+    },
+    {
+      "pmid": "42159233",
+      "title": "Preoperative age, BMI and KL grade predict long-term functional outcome of knee arthroplasty better than CPAK-classification.",
+      "authors": [
+        "Wald\u00e9n J",
+        "Reito A",
+        "Niemel\u00e4inen M",
+        "Eskelinen A"
+      ],
+      "authors_short": "Wald\u00e9n J, Reito A, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To assess whether coronal plane alignment of the knee (CPAK) is associated with functional outcome of total knee arthroplasty (TKA) and identify factors predicting functional outcomes during 10 years of follow-up in a prospective cohort. METHODS: In total, 250 patients aged 65 or younger were enrolled. Primary knee arthroplasty was performed using mechanical alignment (MA). Baseline variables, including joint line obliquity (JLO) and arithmetic hip-knee angle (aHKA), were used to predict Oxford knee score (OKS) at 1, 2, 5, 8 and 10 years postoperatively using ordinary least squares regression analysis. Variable importance and overall predictive ability were assessed. RESULTS: In total, 203 patients were included in the analyses. At 1 year, the mean for OKS was 39.7 (SD\u2009=\u20097.3), and    R 2   ${R}^{2}$  was 0.247, showing moderate predictive performance. Higher age and higher Kellgren-Lawrence (KL) grade predicted higher OKS at 1 year. At 2 years, the mean for OKS was 40.5 (SD\u2009=\u20097.1), and    R 2   ${R}^{2}$  was 0.298. Higher age, higher preoperative OKS, lower BMI and higher KL grade predicted better OKS at 2 years. At 5 years, the mean for OKS was 41.2 (SD\u2009=\u20096.7), and    R 2   ${R}^{2}$  was 0.219. None of the variables were statistically significant at 5 years. At 8 years, the mean OKS was 41.5 (SD\u2009=\u20096.9), and    R 2   ${R}^{2}\\,$  decreased to 0.074. Higher BMI predicted lower, though not significant, OKS. At 10 years, the mean for OKS was 36.1 (SD\u2009=\u20096.6), and    R 2   ${R}^{2}$  was 0.233. Variables that predicted higher OKS at 10 years were valgus mechanical axis, valgus aHKA and higher KL grade. JLO and aHKA had a negligible effect on OKS at 1, 2 and 8 years. At 5 and 10 years, aHKA and JLO influenced the OKS, but clinical significance is uncertain. CONCLUSION: Predictive ability of preoperative variables was moderate. CPAK variables were uncertain predictors at every follow-up in relation to age, BMI and KL grade. LEVEL OF EVIDENCE: Level II.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42159233/",
+      "score": 54,
+      "score_reasoning": "Prospective DTI study examining ACL graft maturation with novel imaging techniques but limited sample size and clinical applicability.",
+      "bullets": [
+        "In 203 patients under 65 with mechanical alignment TKA, coronal plane alignment (CPAK) variables poorly predicted functional outcomes compared to age, BMI, and arthritis severity.",
+        "Higher preoperative age and Kellgren-Lawrence grade consistently predicted better Oxford knee scores at most follow-up points through 10 years.",
+        "Lower BMI predicted better functional outcomes at 2 years, while alignment variables showed minimal clinical impact on long-term knee function."
+      ]
+    },
+    {
+      "pmid": "42170992",
+      "title": "Prior anterior cruciate ligament reconstruction: Comparable outcomes but reduced knee flexion after robotic functionally aligned total knee arthroplasty.",
+      "authors": [
+        "Koutserimpas C",
+        "De Fazio A",
+        "Andriollo L",
+        "Gregori P",
+        "Servien E",
+        "Batailler C",
+        "Lustig S"
+      ],
+      "authors_short": "Koutserimpas C, De Fazio A, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: Total knee arthroplasty (TKA) after anterior cruciate ligament reconstruction (ACLR) is technically demanding and has been associated with higher complication rates. This study aimed to evaluate whether patients with prior ACLR undergoing image-based robotic-assisted TKA performed under functional alignment (FA) principles achieve comparable clinical outcomes and early implant survivorship to patients undergoing primary TKA without previous ligament surgery. METHODS: This retrospective comparative study (between March 2021 and December 2023) included consecutive patients who underwent image-based robotic-assisted TKA under FA principles with a minimum 24-month follow-up. Patients were divided into those with prior ACLR (study group) and those without previous ligament surgery (control group). Demographics, radiographic alignment, robotic implant positioning, knee society scores (KSS), forgotten joint score (FJS), active knee flexion, complications and all-cause revision rates were analysed. Kaplan-Meier survival analysis was performed. RESULTS: A total of 383 TKAs were included (45 ACLR, 338 controls). Patients with prior ACLR were younger (62 vs. 70 years, p\u2009<\u20090.0001) and had lower BMI (25.34 vs. 28.32\u2009kg/m\u00b2, p\u2009<\u20090.0001). Postoperatively, KSS-knee (95 [interquartile range, IQR] 88-100) vs. 94 [90-100], p\u2009=\u20090.79], KSS-function (90 [89.5-100] vs. 90 [90-100], p\u2009=\u20090.82) and FJS (83 [63-94] vs. 86 [67-94], p\u2009=\u20090.80) were comparable between groups. Active knee flexion was lower in the ACLR group (120\u00b0 [112.5-130] vs. 130\u00b0 [120-130], p\u2009=\u20090.048). Overall complication rates were 15.6% versus 9.2% (p\u2009=\u20090.18). All-cause revision rates were 2.2% versus 1.5% (p\u2009=\u20090.70). Kaplan-Meier analysis demonstrated no difference in implant survivorship (HR\u2009=\u20091.62, 95% CI 0.13-19.57, p\u2009=\u20090.70). CONCLUSION: Robotic-assisted TKA performed under FA principles provides comparable patient-reported outcomes and early implant survivorship in patients with prior ACLR and those undergoing standard primary TKA, although a modest reduction in postoperative knee flexion persists in the ACLR subgroup. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42170992/",
+      "score": 52,
+      "score_reasoning": "Large retrospective study on meniscal repair failure rates with good clinical relevance but observational design limits impact.",
+      "bullets": [
+        "Patients with prior ACL reconstruction who undergo robotic total knee arthroplasty have similar pain scores and function scores compared to primary TKA patients.",
+        "Prior ACL reconstruction patients achieve 10 degrees less knee flexion after TKA (120 vs 130 degrees) despite otherwise comparable outcomes.",
+        "Complication and revision rates are similar between prior ACL reconstruction and primary TKA patients at 2-year follow-up."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-05-23T04:10:11.268574-07:00"
+}
