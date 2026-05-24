@@ -1,0 +1,305 @@
+{
+  "brief_date": "2026-05-24",
+  "brief_date_display": "Sunday, May 24",
+  "candidates": [
+    {
+      "pmid": "42176752",
+      "title": "Can Arthroplasty Stem Influence Outcome (CASINO): A Seven-Year Follow-Up of a Randomized Controlled Trial of Stem Length in Cemented Total Hip Arthroplasty.",
+      "authors": [
+        "Clement ND",
+        "Williamson TR",
+        "Chopra S",
+        "Ohly NE",
+        "Macpherson GJ",
+        "Gaston P"
+      ],
+      "authors_short": "Clement ND, Williamson TR, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: To assess whether a cemented short (125 mm) polished taper slip (PTS) stem offered an equivalent hip-specific outcome, health-related quality of life (HRQoL), satisfaction, and survival compared to the standard (150 mm) stem when used for total hip arthroplasty (THA). METHODS: A multicenter double-blind randomized controlled trial was conducted. There were 220 patients randomized to either a standard or a short stem. Patient-reported outcome measures were completed preoperatively and at one (n = 193), two (n = 180), five (n = 116), and seven (n = 148) years postoperatively. Radiographic assessment was undertaken postoperatively, at one year (n = 210) and at a median follow-up of six years (n = 188). RESULTS: There were no significant (P \u2265 0.428) differences in hip-specific function between the groups according to the Oxford hip score at any time point, with a marginal mean difference of 0.5 (95% confidence interval [CI] -2.1 to 4.4, P = 0.681) over the postoperative period (primary outcome). A similar trend was also observed for the forgotten joint score, EQ-5D, EQ-VAS, and short-form 12, with no significant (P \u2265 0.083) differences between the groups at any postoperative assessment or in the mean difference over the follow-up period (P \u2265 0.550). There were no differences in satisfaction at one (P = 0.537), two (P = 0.777), five (P = 0.438), or seven years postoperatively (P = 0.999). A greater subsidence (mean 0.7 mm, 95% CI 0.1 to 1.3, P = 0.035) was observed for the standard stem at a median of six years. There were three short-stem patients who demonstrated medial cortical femoral hypertrophy. The survival rate of the standard stem was 98.2% (95% CI 95.7 to 100) and 98.1% (95% CI 95.6 to 100) for the short stem at a median follow-up of 7.3 years, which was not significantly different (P = 0.994). CONCLUSION: The short PTS stem had equivalent hip-specific outcomes, HRQoL, patient satisfaction, and survival when compared to the standard stem at seven years following THA, but was associated with reduced subsidence and proximal femoral hypertrophy.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42176752/",
+      "score": 95,
+      "score_reasoning": "High-quality multicenter double-blind RCT with 7-year follow-up comparing stem lengths in cemented THA, published in prestigious journal with excellent sample size and direct clinical relevance for implant selection.",
+      "bullets": [
+        "Short cemented stems (125mm) perform identically to standard stems (150mm) for patient outcomes, satisfaction, and survival at 7 years in total hip arthroplasty.",
+        "Short stems showed less subsidence than standard stems but caused medial cortical femoral hypertrophy in 3 patients.",
+        "Both stem lengths had excellent 7-year survival rates above 98% with no significant difference between groups."
+      ]
+    },
+    {
+      "pmid": "42176878",
+      "title": "Defining Optimal Synovial Aspirate Thresholds and Utility of Frozen Sections in Predicting Bacterial Presence at the Time of Revision Shoulder Arthroplasty.",
+      "authors": [
+        "Collins AP",
+        "Whitson AJ",
+        "Duquin TR",
+        "Ho JC",
+        "Vanderbeck JL",
+        "Rauck RC",
+        "Richchetti ET",
+        "Hsu JE"
+      ],
+      "authors_short": "Collins AP, Whitson AJ, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: The discriminatory utility of synovial aspirates and frozen sections in the evaluation of a failed shoulder arthroplasty is uncertain. We performed a multi-institutional study of consecutive revision shoulder arthroplasties to define the utility and optimal cutoffs of synovial aspirates and frozen sections to predict positive intraoperative cultures. METHODS: Multicenter data was collected on 425 revision shoulder arthroplasties in which a synovial aspirate, frozen section, and a minimum of three deep intraoperative cultures were reported. Analysis was stratified based on International Consensus Meeting (ICM) Definite and Non-Definite PJI and two different thresholds of culture positivity (\u22652 or \u22653). Receiver operating characteristic (ROC) curves were constructed, and area under the curve (AUC), optimal thresholds, and diagnostic utility for each test were calculated. RESULTS: Fifty-five patients (13%) had Definite PJI per ICM criteria while 370 (87%) had Non-Definite PJI. Cutibacterium was the most common bacteria recovered in both Definite PJI and Non-Definite PJI. Synovial neutrophil percentage had the highest AUC at 0.707 and 0.714 for Definite PJI using a threshold of \u22652 and \u22653 positive cultures, respectively, and optimal cutoff values were 71.9% and 76.7%, respectively. For Non-Definite PJI, the AUC was 0.625 and 0.595 using a threshold of \u22652 and \u22653 positive cultures, respectively, with optimal cutoff values of 74.5% and 77.7%, respectively. Synovial cell count had poor discriminatory utility for Definite PJI (AUC 0.448-0.584) but slightly higher for Non-Definite PJI (AUC 0.600-0.664) with optimal cutoff of 3,800-4,100 cells. Frozen section had moderate discriminatory utility for Definite PJI (sensitivity 0.667-0.708, specificity 0.500-0.778) but poor sensitivity for Non-Definite PJI (sensitivity 0.197-0.282, specificity 0.943-0.948). CONCLUSION: This is the first large-scale, multicenter study of consecutive revision shoulder arthroplasties analyzing the utility of synovial aspirate analysis and frozen sections. Synovial neutrophil percentage provided the greatest discriminatory utility with optimal cutoff values ranging from 71.9% to 77.7%. Frozen section also provided utility in predicting positive cultures in patients with Definite PJI.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42176878/",
+      "score": 92,
+      "score_reasoning": "Large multicenter study (425 patients) defining optimal diagnostic thresholds for periprosthetic shoulder infection with high clinical applicability for revision shoulder arthroplasty decision-making.",
+      "bullets": [
+        "Synovial neutrophil percentage above 72-78% best predicts infection in revision shoulder arthroplasty with moderate accuracy.",
+        "Synovial cell count performs poorly for detecting shoulder prosthetic joint infection regardless of infection severity.",
+        "Frozen section helps identify definite prosthetic joint infections but misses most low-grade shoulder infections."
+      ]
+    },
+    {
+      "pmid": "42176751",
+      "title": "The Efficacy of Cefazolin Alternatives for Periprosthetic Joint Infection Prevention after Primary Total Hip and Knee Arthroplasty: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Kanumuri SD",
+        "Dasari SP",
+        "Roth OS",
+        "Yang J",
+        "Fernando N",
+        "Hernandez N"
+      ],
+      "authors_short": "Kanumuri SD, Dasari SP, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Periprosthetic joint infection (PJI) remains a challenging complication following total joint arthroplasty (TJA). Current guidelines recommend the use of first-generation cephalosporins for prophylactic antibiotic coverage. The primary aim of this investigation was to determine if there was a difference in the incidence of postoperative PJI between TJA patients who were treated with cefazolin and non-cefazolin prophylaxis. The secondary aim of this study was to evaluate differences among those treated with cefazolin prophylaxis and higher generation cephalosporins. METHODS: Multiple databases were queried for literature comparing the clinical outcomes between patients who were treated with cefazolin prophylaxis and those treated with non-cefazolin prophylaxis, including higher-generation cephalosporins. The primary outcome was PJI rates. A random effects model was used to compare the relative risk of PJI in the two pooled cohorts. There was a total of 2,303,501 patients included in this study across 18 studies. RESULTS: Patients who were treated with cefazolin were 45% less likely to develop a PJI relative to patients who were treated with vancomycin with/without clindamycin (P = 0.004). Patients who were treated with cefazolin were 34% less likely to develop a PJI relative to patients who were treated with non-cephalosporin antibiotics (P = 0.004). When comparing patients who were treated with cefazolin with those who were treated with higher-generation cephalosporins, there were no significant differences. Further studies are needed to assess variability due to heterogeneity in effect sizes across the meta-analysis (I2= 88%, Tau 0.20), likely from differences within antibiotic regimens. CONCLUSION: Compared to all non-cephalosporin antibiotics and specifically vancomycin with/without clindamycin, cefazolin was associated with a significantly lower rate of PJI following TJA. There were no significant differences observed when comparing cefazolin to higher generation cephalosporins. Further research is warranted to elucidate the ideal antibiotic prophylaxis for total joint arthroplasty, especially given differences in timing and reasons for selection of antibiotics.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42176751/",
+      "score": 90,
+      "score_reasoning": "Comprehensive systematic review and meta-analysis of over 2.3 million patients examining antibiotic prophylaxis in total joint arthroplasty with immediate clinical implications for infection prevention.",
+      "bullets": [
+        "Cefazolin reduces periprosthetic joint infection rates by 45% compared to vancomycin with or without clindamycin in primary hip and knee arthroplasty patients.",
+        "Cefazolin outperforms non-cephalosporin antibiotics by 34% for infection prevention but shows no difference compared to higher generation cephalosporins.",
+        "This meta-analysis of over 2.3 million patients supports current guidelines recommending first-generation cephalosporins as preferred prophylaxis for total joint arthroplasty."
+      ]
+    },
+    {
+      "pmid": "42170848",
+      "title": "Arthroscopic vs Open Bankart Repair for Anterior Shoulder Instability: A Systematic Review and Meta-analysis.",
+      "authors": [
+        "Boutros M",
+        "Awad G",
+        "Saad JP",
+        "Khatib R",
+        "Smadi Z",
+        "Elhassan B"
+      ],
+      "authors_short": "Boutros M, Awad G, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Bankart repair is commonly performed for traumatic anterior shoulder instability. Modern arthroscopic techniques have advanced considerably, raising the question of whether their clinical performance now matches that of traditional open repair. PURPOSE: To compare contemporary arthroscopic and open Bankart repair across instability-related, functional, perioperative, and complication outcomes. STUDY DESIGN: Systematic review; Level of evidence, 4. METHODS: A systematic search of the PubMed, Scopus, Cochrane Library, and Google Scholar databases was conducted through December 2025. A total of 32 comparative studies met inclusion criteria. Extracted outcomes included postoperative dislocation, subluxation, overall instability, apprehension, patient-reported outcome measures (Rowe, American Shoulder and Elbow Surgeons [ASES], University of California Los Angeles [UCLA], Western Ontario Shoulder Instability Index [WOSI], and visual analog scale [VAS] scores), postoperative range of motion (ROM), loss of motion relative to baseline, operative time, infection, and reoperation rates. A subgroup analysis stratified studies by publication period (before 2010 vs 2010 onward) to explore the influence of evolving surgical techniques over time. RESULTS: No differences were found between arthroscopic and open Bankart repair in postoperative dislocation (P = .05), subluxation (P = .40), overall instability (P = .06), or apprehension (P = .40). Patient-reported outcomes, including Rowe (P = .19), ASES (P = .28), UCLA (P = .41), WOSI (P = .40), and VAS pain (P = .05) scores, were comparable between groups. Postoperative ROM showed no differences across most parameters; however, loss of external rotation in abduction relative to baseline favored arthroscopic repair (mean difference, -1.67; P = .04). Operative time did not differ between groups (P = .11). Arthroscopic repair was associated with a shorter hospital stay (P = .0001). Reoperation rates were higher after arthroscopic repair (RR, 2.15; P = .0004). Infection rates were similar (P = .13). In subgroup analysis, studies published before 2010 showed higher postoperative dislocation (RR, 2.13; P = .01) and overall instability (RR, 1.67; P = .02) after arthroscopic repair, as well as greater external rotation in abduction with arthroscopy. In contrast, studies published from 2010 onward demonstrated no differences between arthroscopic and open repair across instability, functional, or ROM outcomes. CONCLUSION: Arthroscopic and open Bankart repair provide largely comparable postoperative stability, functional recovery, and ROM, with modest differences reflecting the intrinsic nature of each technique. Publication period subgroup analysis suggests that historical instability differences were driven primarily by earlier studies, whereas contemporary studies show comparable instability and functional outcomes between approaches. Given its minimally invasive profile, arthroscopy offers practical advantages, including slightly better preservation of external rotation in abduction, while maintaining stability outcomes comparable to open repair.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42170848/",
+      "score": 79,
+      "score_reasoning": "Systematic review and meta-analysis (32 studies) comparing arthroscopic versus open Bankart repair with comprehensive outcomes analysis and high clinical relevance.",
+      "bullets": [
+        "Modern arthroscopic and open Bankart repairs show equal rates of postoperative dislocation, subluxation, and patient reported outcomes in traumatic anterior shoulder instability.",
+        "Arthroscopic repair preserves external rotation better and requires shorter hospital stay, but has twice the reoperation rate compared to open repair.",
+        "Studies before 2010 showed higher failure rates with arthroscopic technique, but contemporary studies from 2010 onward show equivalent outcomes between approaches."
+      ]
+    },
+    {
+      "pmid": "42169443",
+      "title": "Association Between Autograft Choice and Risk of Contralateral ACL Injury in Patients \u226425 Years of Age: A Systematic Review and Meta-analysis.",
+      "authors": [
+        "Petit CB",
+        "Hussain ZB",
+        "Lloyd RS",
+        "Kember LS",
+        "McPherson AL",
+        "Pradip K",
+        "Petushek EJ",
+        "White MS",
+        "Xerogeanes JW",
+        "Lamplot JD",
+        "Myer GD",
+        "Montalvo AM"
+      ],
+      "authors_short": "Petit CB, Hussain ZB, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Understanding the risk of secondary contralateral (CL) anterior cruciate ligament (ACL) injury in young patients after ACL reconstruction (ACLR) may help identify targetable risk factors to optimize rehabilitation and return to sport. It is not clear if the autograft type used in the index procedure affects the risk of having a CL injury. Additionally, the aggregated CL injury rates across studies in young patients have not been well described. PURPOSE: To compare CL ACL injury rates by graft type in patients \u226425 years of age at a minimum follow-up of 24 months after ACLR, and to stratify CL injury rates by potential modifiers, including sex. STUDY DESIGN: Systematic review and meta-analysis; Level of evidence, 4. METHODS: A systematic review of the literature for studies reporting ACL autograft reinjury rates after ACLR using hamstring tendon (HT), bone-patellar tendon-bone (BPTB), or quadriceps tendon (QT) autograft in patients \u226425 years of age with a minimum follow-up of 24 months was conducted. From this data set, CL ACL injury rates from studies in which they were reported were evaluated. RESULTS: The meta-analysis included 22 studies pooling 4435 total patients who received BPTB (n = 2349), HT (n = 1561), or QT (n = 525) autografts for their ALCR. The pooled CL ACL injury rate was 10.8% (95% CI, 8.2%-14.0%) for HT, 10.5% (95% CI, 7.4%-14.8%) for BPTB, 12.2% (95% CI, 9.7%-15.3%) for QT, and 10.6% (95% CI, 8.8%-12.8%) for all grafts together. There were no differences among primary ACLR graft types in CL ACL injury rates (\u03c72 = 0.7; P = .7). There were differences in CL injury rates by sex among graft types (risk ratio [RR], 0.8; 95% CI, 0.5-1.4; \u03c72 = 9.2; P < .01). Males had a significantly lower risk of CL ACL injury relative to females after primary BPTB ACLR (RR, 0.439), but not HT (RR, 1.050) or QT (RR, 1.219) ACLR. CONCLUSION: In patients \u226425 years of age, the rates of CL ACL injury are similar after primary HT, BPTB, and QT autograft ACLR. The risk of CL injury was lower in males relative to females after ACLR with BPTB, but not with HT or QT.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42169443/",
+      "score": 78,
+      "score_reasoning": "Large systematic review and meta-analysis examining autograft choice and contralateral ACL injury risk in young patients with important clinical implications for graft selection.",
+      "bullets": [
+        "Young patients under 25 have roughly 11% risk of contralateral ACL injury after reconstruction, regardless of autograft type used.",
+        "Hamstring, patellar tendon, and quadriceps autografts show no significant difference in contralateral ACL injury rates in young patients.",
+        "Males have lower contralateral ACL injury risk than females only when patellar tendon autograft is used, not with hamstring or quadriceps grafts."
+      ]
+    },
+    {
+      "pmid": "42166561",
+      "title": "Surgeons May Be \"Touched Out\": The Ever-Increasing Workload of Telephone Calls and Electronic Messages in Total Joint Arthroplasty.",
+      "authors": [
+        "Lam AD",
+        "Parikh N",
+        "Leipman JH",
+        "Abe EA",
+        "Hoffman E",
+        "Linton AA",
+        "Bido J",
+        "Purtill JJ",
+        "Fillingham YA",
+        "Krueger CA"
+      ],
+      "authors_short": "Lam AD, Parikh N, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: With evolving patient expectations and practice models, perioperative communication through telephone and web encounters, termed \"touchpoints,\" gains further importance. This study quantifies the workload created by telephone calls and electronic messages during patient episodes of care and analyzes their change over time. METHODS: We retrospectively reviewed 277,729 telephone calls and 16,966 electronic messages within the 30-day preoperative periods and the 90-day postoperative periods of 45,216 patients who underwent primary total hip arthroplasty (THA) or total knee arthroplasty (TKA) from January 1, 2016, to December 31, 2022. Touchpoints were temporally trended by year to characterize utilization over time. Regression analysis was performed to determine factors predictive of increased touchpoint utilization. RESULTS: Preoperatively, patients had a mean of 2.2 telephone calls (2.2 for THA and 2.1 for TKA) and 2.3 electronic messages (2.3 for both THA and TKA). Postoperatively, patients had a mean of 4.4 telephone calls (4.1 for THA and 4.6 for TKA) and 2.8 electronic messages (2.8 for both THA and TKA). From 2016 to 2022, the total perioperative touchpoints increased by 105% (8.7 to 17.8 touchpoints) for patients who underwent TKA and by 121% (7.3 to 16.1 touchpoints) for patients who underwent THA. Medicare insurance was independently associated with fewer touchpoints compared with commercial insurance (beta estimate, -0.31 [95% confidence interval, -0.41 to -0.21]; p < 0.001). CONCLUSIONS: Practices can now expect to handle a mean of 17.8 touchpoints for patients who undergo TKA and 16.1 for patients who undergo THA. The increase in touchpoint utilization underscores a growing strain on orthopaedic practices' resources as reimbursement for these procedures continues to decrease. Future policy discussions must acknowledge and remunerate the time spent communicating via telephone calls and electronic messages to offset their increasing frequency. CLINICAL RELEVANCE: As orthopaedic care begins to extend beyond the operating room into patient communication pathways, understanding how the growing touchpoint utilization can strain resources and adversely affect high-quality patient care is essential.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42166561/",
+      "score": 72,
+      "score_reasoning": "Longitudinal study (277,729 calls, 16,966 messages) quantifying communication workload in TJA with important practice management implications and large dataset.",
+      "bullets": [
+        "Total joint patients now generate an average of 17.8 phone calls and messages per TKA case and 16.1 per THA case during the perioperative period.",
+        "Communication workload more than doubled from 2016 to 2022, with most touchpoints occurring postoperatively (4.4 calls and 2.8 messages per patient).",
+        "Patients with commercial insurance generate significantly more communications than Medicare patients, creating uncompensated administrative burden for orthopaedic practices."
+      ]
+    },
+    {
+      "pmid": "42162891",
+      "title": "A Non-Opioid Multimodal Pain Protocol Achieves Equivalent Pain Control After Total Shoulder Arthroplasty: A Randomized-Controlled Trial.",
+      "authors": [
+        "Evans H",
+        "Castle JP",
+        "Kasto J",
+        "Nerys-Fugeroa J",
+        "Movassaghi A",
+        "Jurayj A",
+        "Obinero CV",
+        "Zhu K",
+        "Wines W",
+        "Mahylis JM",
+        "Muh SJ"
+      ],
+      "authors_short": "Evans H, Castle JP, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Amid efforts to reduce opioid use, identifying effective non-opioid pain protocols for orthopedic procedures is a priority. Shoulder arthroplasty is associated with significant postoperative pain and has traditionally relied on opioids, despite their side effects. This study evaluated the efficacy of a postoperative non-opioid, multimodal pain protocol compared to an opioid protocol for patients undergoing shoulder arthroplasty. METHODS: We performed a prospective, single blinded, randomized controlled trial including patients undergoing primary anatomic or reverse total shoulder arthroplasty. Patients were excluded if they underwent revision surgery, surgery for fracture, or received opioids within 3 months of surgery. All patients received standardized preoperative analgesics, general anesthesia, and an intraoperative periarticular injection without a regional block. Patients were randomly assigned to a postoperative non-opioid multimodal pain protocol or a standard opioid protocol containing 28 tablets of 5 mg oxycodone in addition to the multimodal regimen. Patients completed visual analog scale (VAS) and PROMIS Pain Interference (PI) surveys and reported opioid use and side effects over 10 post-operative days. An intention-to-treat analysis was performed. RESULTS: 78 patients were enrolled and included in the analysis with 38 in the multimodal and 40 in the opioid cohort. Demographics (age, sex, race, and body mass index) were comparable between both groups. Pain scores at 10 days postoperatively were comparable between groups with no significant differences in mean VAS pain (2.4 \u00b1 1.7 in the multimodal group vs. 2.3 \u00b1 1.6 in the opioid group; P = 0.52) or median PROMIS-PI scores (61.5, interquartile range 58.5-67.0 in the multimodal vs. 62.0, interquartile range 56.5-64.0 in the opioid; P = 0.90. However, the opioid group consumed significantly more morphine milligram equivalents (3.7 \u00b1 5.07 compared to 0.4 \u00b1 1.35 for the multimodal group; P < 0.001). There were no significant differences in side effects between treatment groups. CONCLUSION: In patients undergoing shoulder arthroplasty, a non-opioid, multimodal pain protocol provided non-inferior pain relief compared to an opioid-based regimen. These findings support the shift toward opioid-sparing strategies in orthopedic surgery to minimize postoperative dependence without compromising patient care.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42162891/",
+      "score": 69,
+      "score_reasoning": "Randomized controlled trial (78 patients) comparing non-opioid versus opioid pain protocols after shoulder arthroplasty with important pain management implications.",
+      "bullets": [
+        "Non-opioid multimodal pain protocol provides equivalent pain control to opioid-based regimen in patients undergoing primary total shoulder arthroplasty.",
+        "Pain scores at 10 days were identical between groups, but opioid group used 9 times more morphine equivalents than multimodal group.",
+        "Study supports eliminating routine opioid prescriptions after shoulder arthroplasty without compromising patient comfort or outcomes."
+      ]
+    },
+    {
+      "pmid": "42166562",
+      "title": "Lower Trapezius Transfer at the Time of Reverse Shoulder Arthroplasty with an Allograft-Prosthetic Composite Can Restore External Rotation.",
+      "authors": [
+        "Sanchez-Sotelo J",
+        "Hart CM",
+        "Weir TB",
+        "Graden N",
+        "Gulzar M",
+        "ElHassan B",
+        "Wagner E"
+      ],
+      "authors_short": "Sanchez-Sotelo J, Hart CM, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: The purpose of this study was to describe, and report the outcomes of, a surgical technique that combines reverse shoulder arthroplasty (RSA) using an allograft-prosthetic composite (APC) with a lower trapezius transfer (LTT) to the infraspinatus of the allograft extended with the inferior capsule. METHODS: Between 2019 and 2023, 2 surgeons performed a total of 27 RSAs using an APC in conjunction with an LTT. Once the RSA APC reconstruction had been performed, cuff-capsule allograft tissue was passed posterior to the glenosphere and secured to the harvested lower trapezius. One shoulder was resected for periprosthetic joint infection; the remaining 26 shoulders were followed for a minimum of 2 years (mean, 2.7 years; range, 2 to 5 years). RESULTS: The rate of revision or reoperation for humeral complications was 15% and included secondary bone grafting (2 shoulders), resection for infection (1 shoulder), and internal fixation of a periprosthetic fracture (1 shoulder). Other complications requiring surgery included hematoma treated with evacuation (2 shoulders), dislocation (1 shoulder), and glenosphere disassociation (1 shoulder). Preoperatively, 11 shoulders presented with pseudoparalysis, and the mean active elevation of the remaining 16 shoulders was 43\u00b0, with only 1 shoulder demonstrating >90\u00b0 of active elevation. At the most recent follow-up, 3 shoulders were pseudoparalytic, 11 had <90\u00b0 of active elevation, 8 had >90\u00b0 of active elevation, and 3 had active elevation to 90\u00b0. The overall mean active elevation of the 25 shoulders that could be assessed was 79\u00b0. Preoperatively, only 4 (15%) of the 27 shoulders demonstrated active external rotation past neutral; at the most recent follow-up, 80% of surviving shoulders had active external rotation past neutral. CONCLUSIONS: LTT at the time of RSA using an APC has the potential to restore active external rotation in shoulders with proximal humeral bone loss and posterosuperior cuff deficiency. LEVEL OF EVIDENCE: Therapeutic Level IV. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42166562/",
+      "score": 58,
+      "score_reasoning": "Novel surgical technique report (27 cases) combining RSA with lower trapezius transfer showing innovative approach for complex shoulder reconstruction.",
+      "bullets": [
+        "Lower trapezius transfer combined with reverse shoulder arthroplasty using allograft-prosthetic composite improved external rotation from 15% to 80% of patients achieving active external rotation past neutral.",
+        "This technique applies to patients with proximal humeral bone loss and posterosuperior rotator cuff deficiency, with mean follow-up of 2.7 years in 26 shoulders.",
+        "Complication rate was notable with 15% requiring revision for humeral issues and additional surgeries needed for hematoma, dislocation, and glenosphere problems."
+      ]
+    },
+    {
+      "pmid": "42171370",
+      "title": "Assessing Large Language Models for Clinical Coding in Hand Surgery: Effect of Note Authorship, Prompt Design, and Diagnosis/Procedure Type.",
+      "authors": [
+        "Schroeder AM",
+        "Goldenberg CB",
+        "Khaleel MI",
+        "Nuelle JAV",
+        "Kirby BJ",
+        "London DA"
+      ],
+      "authors_short": "Schroeder AM, Goldenberg CB, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: This study sought to assess large language models' (LLM) ability to generate correct ICD-10 and CPT codes using clinical documentation, and to determine whether note authorship, prompt design, or diagnosis/procedure type affect LLM performance. We hypothesized that LLMs can code hand surgery clinic and surgical notes with greater than 80% accuracy. METHODS: Ninety patients evenly distributed across three orthopaedic hand surgeons and procedure types (cubital tunnel, carpal tunnel, and trigger finger release) were identified. Clinic and surgical notes were deidentified, and correct ICD-10 diagnosis and CPT procedure codes were recorded. \"Zero-shot,\" \"one-shot,\" \"multishot,\" and \"chain-of-thought\" prompts instructed LLMs to assign ICD-10 codes and CPT codes based on note content. Each prompt was posed to Chat GPT 3.5, Chat GPT 4.0, and Gemini. Rates of coding correctness were calculated across attendings, diagnosis/procedure, prompt type, and LLM. Chi-square analysis determined statistical significance for these comparisons (P < 0.05). RESULTS: No differences in LLM coding performance were observed between note authors (P = 0.09 ICD-10, P = 0.48 CPT) or prompt types (P = 0.27 ICD-10, P = 0.62 CPT). Chat GPT 3.5 provided less accurate ICD-10 codes than Chat GPT 4.0 or Gemini (P < 0.0001). All LLMs better predicted CPT codes (91.5% correct) than ICD-10 codes (23.9% correct). The most common error was incorrect or omitted ICD-10 laterality. Prompts updated to emphasize ICD-10 laterality demonstrated improved accuracy (40%). DISCUSSION: Variation in note content and writing style did not markedly affect LLM performance. Public-facing LLMs require additional optimization to interpret clinical documentation for coding purposes and are not ready for independent use.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42171370/",
+      "score": 50,
+      "score_reasoning": "LLM study for clinical coding in hand surgery (90 patients) with AI application relevance but limited to specific subspecialty and coding tasks.",
+      "bullets": [
+        "Large language models achieved 91.5% accuracy for CPT codes but only 23.9% for ICD-10 codes when analyzing hand surgery notes for carpal tunnel, cubital tunnel, and trigger finger procedures.",
+        "The most common coding error was incorrect or missing laterality in ICD-10 codes, with accuracy improving to 40% when prompts specifically emphasized laterality requirements.",
+        "Current public LLMs are not ready for independent clinical coding use and require significant optimization before implementation in orthopaedic practice workflows."
+      ]
+    },
+    {
+      "pmid": "42159374",
+      "title": "Remain-In or Opt-Out: An Economic Evaluation of Medicare Opt-Outs in Orthopaedic Surgery.",
+      "authors": [
+        "Lee B",
+        "Levin AS"
+      ],
+      "authors_short": "Lee B, Levin AS",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Medicare reimbursements for orthopaedic surgeries have consistently declined over past decades, raising concerns about surgeons opting out of Medicare and reducing coverage for older adults. However, little is known about this phenomenon. METHODS: We conducted a retrospective evaluation of orthopaedic surgeon Medicare opt-outs as of January 2025. We analyzed charge-payment ratios of orthopaedic surgeries performed in areas with versus without opt-outs and examined the 3-year moving averages and population demographics for areas with opt-outs. RESULTS: As of January 2025, 341 orthopaedic surgeons have opted out of Medicare, representing 0.7% of all opted-out practitioners and 1.7% of 2022 Medicare-enrolled orthopaedic surgeons. The median charge-payment ratio for all orthopaedic surgeries is 18.3% higher in areas with these opt-outs compared with those without (95% confidence interval [CI], 11.7% to 30.1%; P < 0.0001) and 34.5% higher for joint arthroplasty and reconstruction surgeries (95% CI, 9.2% to 51.9%; P = 0.0003). These opt-outs primarily occurred in high-cost regions, with approximately 70% of surgeons practicing in areas with regional price parities greater than 110% of the national average. Consequently, Medicare opt-outs by orthopaedic surgeons have risen from 0.3 to 32.0 annually from 2002-2004 to 2022-2024. In 2022, there were 958 reported Medicare beneficiaries of orthopaedic surgeries per zip code in areas with opt-outs, 612 higher than in areas without opt-outs (95% CI, 277 to 629; P < 0.0001). The median proportion of Medicare-eligible individuals by age in areas with opt-outs is 35.8%, 18.1% higher than the national rate (95% CI, 16.3% to 19.3%; P < 0.0001). CONCLUSIONS: Orthopaedic surgeons practicing in high-cost and relatively lower reimbursed areas are increasingly opting out of Medicare, disproportionately affecting older adults and higher need areas. CLINICAL RELEVANCE: These results suggest that correcting declining Medicare surgery reimbursements is critical to minimize coverage lapses for a growing older adult population, which is an important issue in orthopaedic surgery.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42159374/",
+      "score": 49,
+      "score_reasoning": "Economic analysis of Medicare opt-outs in orthopaedic surgery with healthcare policy relevance but limited direct clinical applicability.",
+      "bullets": [
+        "Only 1.7% of orthopaedic surgeons have opted out of Medicare as of 2025, but the rate increased from 0.3 to 32 annually between 2002 and 2024.",
+        "Medicare opt-outs concentrate in high-cost regions where surgeons charge 18% more overall and 35% more for joint replacements compared to areas without opt-outs.",
+        "Areas with surgeon opt-outs have 35% more Medicare-eligible patients than the national average, creating access problems where coverage is needed most."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-05-24T04:16:03.486309-07:00"
+}
