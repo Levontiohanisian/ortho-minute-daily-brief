@@ -1,0 +1,303 @@
+{
+  "brief_date": "2026-05-25",
+  "brief_date_display": "Monday, May 25",
+  "candidates": [
+    {
+      "pmid": "42176752",
+      "title": "Can Arthroplasty Stem Influence Outcome (CASINO): A Seven-Year Follow-Up of a Randomized Controlled Trial of Stem Length in Cemented Total Hip Arthroplasty.",
+      "authors": [
+        "Clement ND",
+        "Williamson TR",
+        "Chopra S",
+        "Ohly NE",
+        "Macpherson GJ",
+        "Gaston P"
+      ],
+      "authors_short": "Clement ND, Williamson TR, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: To assess whether a cemented short (125 mm) polished taper slip (PTS) stem offered an equivalent hip-specific outcome, health-related quality of life (HRQoL), satisfaction, and survival compared to the standard (150 mm) stem when used for total hip arthroplasty (THA). METHODS: A multicenter double-blind randomized controlled trial was conducted. There were 220 patients randomized to either a standard or a short stem. Patient-reported outcome measures were completed preoperatively and at one (n = 193), two (n = 180), five (n = 116), and seven (n = 148) years postoperatively. Radiographic assessment was undertaken postoperatively, at one year (n = 210) and at a median follow-up of six years (n = 188). RESULTS: There were no significant (P \u2265 0.428) differences in hip-specific function between the groups according to the Oxford hip score at any time point, with a marginal mean difference of 0.5 (95% confidence interval [CI] -2.1 to 4.4, P = 0.681) over the postoperative period (primary outcome). A similar trend was also observed for the forgotten joint score, EQ-5D, EQ-VAS, and short-form 12, with no significant (P \u2265 0.083) differences between the groups at any postoperative assessment or in the mean difference over the follow-up period (P \u2265 0.550). There were no differences in satisfaction at one (P = 0.537), two (P = 0.777), five (P = 0.438), or seven years postoperatively (P = 0.999). A greater subsidence (mean 0.7 mm, 95% CI 0.1 to 1.3, P = 0.035) was observed for the standard stem at a median of six years. There were three short-stem patients who demonstrated medial cortical femoral hypertrophy. The survival rate of the standard stem was 98.2% (95% CI 95.7 to 100) and 98.1% (95% CI 95.6 to 100) for the short stem at a median follow-up of 7.3 years, which was not significantly different (P = 0.994). CONCLUSION: The short PTS stem had equivalent hip-specific outcomes, HRQoL, patient satisfaction, and survival when compared to the standard stem at seven years following THA, but was associated with reduced subsidence and proximal femoral hypertrophy.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42176752/",
+      "score": 92,
+      "score_reasoning": "High-quality RCT with 7-year follow-up comparing cemented stem lengths in THA, published in prestigious journal with excellent study design and direct clinical applicability.",
+      "bullets": [
+        "Short cemented stems (125mm) perform equivalently to standard stems (150mm) in total hip arthroplasty with identical patient outcomes and 98% survival at 7 years.",
+        "Short stems showed less subsidence than standard stems but caused medial cortical femoral hypertrophy in 3 patients at 6 year followup.",
+        "No difference in Oxford hip scores, quality of life measures, or patient satisfaction between short and standard cemented polished taper slip stems."
+      ]
+    },
+    {
+      "pmid": "42176751",
+      "title": "The Efficacy of Cefazolin Alternatives for Periprosthetic Joint Infection Prevention after Primary Total Hip and Knee Arthroplasty: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Kanumuri SD",
+        "Dasari SP",
+        "Roth OS",
+        "Yang J",
+        "Fernando N",
+        "Hernandez N"
+      ],
+      "authors_short": "Kanumuri SD, Dasari SP, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Periprosthetic joint infection (PJI) remains a challenging complication following total joint arthroplasty (TJA). Current guidelines recommend the use of first-generation cephalosporins for prophylactic antibiotic coverage. The primary aim of this investigation was to determine if there was a difference in the incidence of postoperative PJI between TJA patients who were treated with cefazolin and non-cefazolin prophylaxis. The secondary aim of this study was to evaluate differences among those treated with cefazolin prophylaxis and higher generation cephalosporins. METHODS: Multiple databases were queried for literature comparing the clinical outcomes between patients who were treated with cefazolin prophylaxis and those treated with non-cefazolin prophylaxis, including higher-generation cephalosporins. The primary outcome was PJI rates. A random effects model was used to compare the relative risk of PJI in the two pooled cohorts. There was a total of 2,303,501 patients included in this study across 18 studies. RESULTS: Patients who were treated with cefazolin were 45% less likely to develop a PJI relative to patients who were treated with vancomycin with/without clindamycin (P = 0.004). Patients who were treated with cefazolin were 34% less likely to develop a PJI relative to patients who were treated with non-cephalosporin antibiotics (P = 0.004). When comparing patients who were treated with cefazolin with those who were treated with higher-generation cephalosporins, there were no significant differences. Further studies are needed to assess variability due to heterogeneity in effect sizes across the meta-analysis (I2= 88%, Tau 0.20), likely from differences within antibiotic regimens. CONCLUSION: Compared to all non-cephalosporin antibiotics and specifically vancomycin with/without clindamycin, cefazolin was associated with a significantly lower rate of PJI following TJA. There were no significant differences observed when comparing cefazolin to higher generation cephalosporins. Further research is warranted to elucidate the ideal antibiotic prophylaxis for total joint arthroplasty, especially given differences in timing and reasons for selection of antibiotics.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42176751/",
+      "score": 89,
+      "score_reasoning": "Large systematic review and meta-analysis of cefazolin alternatives for PJI prevention with over 2.3 million patients, addressing critical antibiotic prophylaxis question.",
+      "bullets": [
+        "Cefazolin reduces periprosthetic joint infection rates by 45% compared to vancomycin with or without clindamycin in primary hip and knee arthroplasty patients.",
+        "Cefazolin performs 34% better than non-cephalosporin antibiotics for infection prevention but shows no difference compared to higher generation cephalosporins.",
+        "This meta-analysis of over 2.3 million patients confirms first-generation cephalosporins remain the optimal prophylaxis choice for routine total joint arthroplasty."
+      ]
+    },
+    {
+      "pmid": "42177938",
+      "title": "Subscapularis Repair in Reverse Shoulder Arthroplasty: A Systematic Review and Meta-Analysis with a Sub-analysis by Implant Lateralization and Repair Techniques.",
+      "authors": [
+        "Daher M",
+        "Boufadel P",
+        "Fiandeiro M",
+        "Parmar T",
+        "Kane L",
+        "Satalich JR",
+        "Klifto CS",
+        "Abboud JA"
+      ],
+      "authors_short": "Daher M, Boufadel P, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: The debate about repairing the subscapularis in the setting of reverse shoulder arthroplasty (rTSA) is ongoing. Some reported benefits of the subscapularis repair are a reduced rate of instability, more internal rotation (IR) improvement, and better functional outcomes. However, with the popularization of lateralized implants, these benefits are becoming more limited. Therefore, this meta-analysis compared outcomes of rTSA depending on whether or not the subscapularis was repaired with a sub-analysis by rTSA design (lateralized vs medialized) and subscapularis repair technique. METHODS: PubMed, Cochrane, and Google Scholar were queried through January 2026. Inclusion criteria consisted of studies comparing the outcomes of rTSA based on whether the subscapularis was repaired or not. Extracted data included adverse events, improvement in patient reported outcome measures (PROMs), and improvement in range of motion (ROM). A sub-analysis was done by whether or not the rTSA was lateralized or medialized, and by subscapularis repair techniques (trans-osseous (TO), tendon to tendon (TT), or both). RESULTS: Nineteen articles based on 18 cohorts met the inclusion criteria with 1698 patients in the subscapularis repair group (R) and 1284 in the non-repair group (NR). Patients in the R group had a lower rate of instability (Odds-Ratio=0.26, p<.001), better pain improvement (Mean difference=0.47, p=0.01), and better IR improvement (Standardized mean difference=0.17, p=0.04). When sub-analyzing by rTSA design the R group in the medialized rTSA subgroup had a lower rate of complications (Odds-Ratio=0.10, p<.001) and instability (Odds-Ratio=0.06, p<.001), as well as better ASES improvement (Mean difference=7.01, p<.001) compared to the NR group. The R group had better pain improvement in both the medialized and lateralized subgroups. Of note, there was no difference in IR improvement between the two groups in the lateralized subgroup. When sub-analyzing by subscapularis repair technique, the R group had a lower rate of complications and instability (Odds-Ratio=0.06, p<.001, both) in the TT+TO subgroup, and better ASES (Mean difference=5.22, p<.001), and pain improvement (Mean difference=0.62, p<.001) in the TO subgroup, and better IR improvement (Standardized mean difference=0.52, p<.001) in the TT subgroup. CONCLUSION: While subscapularis repair is shown to be beneficial in medialized rTSA implants, minimal benefits are reported in lateralized rTSA implants. However, repair techniques were shown to affect outcomes with TO repair resulting in better PROMs improvement, and TT in better IR improvement. Future studies are needed to assess different tendon repair techniques in the setting of lateralized rTSA implants.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42177938/",
+      "score": 85,
+      "score_reasoning": "Comprehensive systematic review and meta-analysis on subscapularis repair in reverse shoulder arthroplasty with sub-analysis by implant type, addressing ongoing clinical debate.",
+      "bullets": [
+        "Subscapularis repair in reverse shoulder arthroplasty reduces instability rates and improves pain scores compared to non-repair across 2,982 patients.",
+        "The benefits of subscapularis repair are mainly seen with medialized implants, while lateralized implants show minimal improvement in outcomes when repaired.",
+        "Trans-osseous repair techniques provide better functional scores while tendon-to-tendon repairs offer superior internal rotation improvement."
+      ]
+    },
+    {
+      "pmid": "42178719",
+      "title": "Arthroscopy for Femoroacetabular Impingement in Tonnis Grade 2 Arthritic Hips Results in Similar Clinical and Radiographic Outcomes but Lower Survivorship Than Tonnis Grades 0 and 1: A Systematic Review and Meta-analysis.",
+      "authors": [
+        "Krivicich L",
+        "Driscoll A",
+        "Hayes-Lattin M",
+        "Guenthner G",
+        "Yen YM",
+        "Salzler M"
+      ],
+      "authors_short": "Krivicich L, Driscoll A, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: An expanding body of literature is available on arthroscopy for femoroacetabular impingement syndrome (FAIS). Studies have attempted to relate Tonnis grade to postoperative outcomes but do not often provide a complete picture of the clinical, radiographic, and failure outcomes for a given Tonnis cohort. PURPOSE: To systematically review and meta-analyze the impact of preoperative arthritic changes, as measured by Tonnis grade, on clinical, radiographic, and survivorship outcomes in patients undergoing hip arthroscopy for FAIS. STUDY DESIGN: Systematic review; Level of evidence, 4. METHODS: PubMed, EMBASE, and Web of Science Core Collection databases were queried for investigations associating preoperative Tonnis grade with postoperative outcomes after hip arthroscopy for FAIS. Eligible articles compared patient-reported outcomes (PROs), radiographic arthritis progression, or rate of secondary surgical interventions between patients with various Tonnis arthritis grades. Continuous random-effects models were used to compare PROs between arthritic grades as represented by standardized mean difference (SMD), whereas restricted maximum likelihood random-effects models compared event rates of Tonnis grade progression and secondary surgical interventions, reported as odds ratio (OR). RESULTS: A total 29 investigations were included in this systematic review, of which 16 studies provided sufficient quantitative data for meta-analysis. The 3972 hips included were followed for a mean of 68.4 months (range, 24.0-150.0 months); the mean age was 39.6 years (range, 20.3-63.3 years). Meta-analysis revealed similar results between Tonnis 0 and 1 cohorts for modified Harris Hip Score (SMD = 0.05, 95% CI [-0.33, 0.42]; I2 = 73.35%; P = .80), Hip Outcome Score (HOS)-Activities of Daily Living (SMD = -0.16, 95% CI [-0.36, 0.04]; I2 = 0.00%; P = .12), HOS-Sports Subscale (SMD = -0.36, 95% CI [-0.97, 0.25]; I2 = 89.14%; P = .25), and Tonnis progression (OR = 2.66, 95% CI [0.51-13.95]; I2 = 58.80%; P = .25). The Tonnis 2 cohort was found to have similar mHHS to Tonnis 0 (SMD = -0.22, 95% CI [-0.60, 0.17]; I2 = 52.52%; P = .27) and Tonnis 1 (SMD = -0.24, 95% CI [-0.48, 0.01]; I2 = 0.00%; P = .06). Tonnis 0, 1, and 2 cohorts were found to have similar rates of revision arthroscopy (OR = 1.65, 95% CI [0.63-4.28]; I2 = 0.00%; P = .31). Increasing Tonnis grade was found to have increased rates of conversion to total hip arthroplasty, except for Tonnis 2 and 3 having similar rates of conversion (OR = 5.27, 95% CI [0.91-30.51]; I2 = 0.00%; P = .06). CONCLUSION: A systematic review of 29 studies identified relevant data, and meta-analysis of 16 studies that provided sufficient quantitative data revealed that compared with Tonnis grade 0 and 1 hips, Tonnis grade 2 hips had similar symptomatic improvement, reflected by select PROs, but decreased joint survivorship, reflected by significantly higher rates of conversion to total hip arthroplasty.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42178719/",
+      "score": 84,
+      "score_reasoning": "Systematic review and meta-analysis comparing hip arthroscopy outcomes by Tonnis grade with nearly 4,000 hips, providing evidence-based guidance for patient selection.",
+      "bullets": [
+        "Hip arthroscopy for femoroacetabular impingement in Tonnis grade 2 hips produces similar clinical outcomes to grades 0 and 1 based on patient reported outcome scores.",
+        "Tonnis grade 2 hips have significantly higher rates of conversion to total hip arthroplasty compared to grades 0 and 1, indicating worse long-term survivorship.",
+        "Revision arthroscopy rates are similar across all Tonnis grades 0, 1, and 2 in patients undergoing hip arthroscopy for femoroacetabular impingement."
+      ]
+    },
+    {
+      "pmid": "42170848",
+      "title": "Arthroscopic vs Open Bankart Repair for Anterior Shoulder Instability: A Systematic Review and Meta-analysis.",
+      "authors": [
+        "Boutros M",
+        "Awad G",
+        "Saad JP",
+        "Khatib R",
+        "Smadi Z",
+        "Elhassan B"
+      ],
+      "authors_short": "Boutros M, Awad G, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Bankart repair is commonly performed for traumatic anterior shoulder instability. Modern arthroscopic techniques have advanced considerably, raising the question of whether their clinical performance now matches that of traditional open repair. PURPOSE: To compare contemporary arthroscopic and open Bankart repair across instability-related, functional, perioperative, and complication outcomes. STUDY DESIGN: Systematic review; Level of evidence, 4. METHODS: A systematic search of the PubMed, Scopus, Cochrane Library, and Google Scholar databases was conducted through December 2025. A total of 32 comparative studies met inclusion criteria. Extracted outcomes included postoperative dislocation, subluxation, overall instability, apprehension, patient-reported outcome measures (Rowe, American Shoulder and Elbow Surgeons [ASES], University of California Los Angeles [UCLA], Western Ontario Shoulder Instability Index [WOSI], and visual analog scale [VAS] scores), postoperative range of motion (ROM), loss of motion relative to baseline, operative time, infection, and reoperation rates. A subgroup analysis stratified studies by publication period (before 2010 vs 2010 onward) to explore the influence of evolving surgical techniques over time. RESULTS: No differences were found between arthroscopic and open Bankart repair in postoperative dislocation (P = .05), subluxation (P = .40), overall instability (P = .06), or apprehension (P = .40). Patient-reported outcomes, including Rowe (P = .19), ASES (P = .28), UCLA (P = .41), WOSI (P = .40), and VAS pain (P = .05) scores, were comparable between groups. Postoperative ROM showed no differences across most parameters; however, loss of external rotation in abduction relative to baseline favored arthroscopic repair (mean difference, -1.67; P = .04). Operative time did not differ between groups (P = .11). Arthroscopic repair was associated with a shorter hospital stay (P = .0001). Reoperation rates were higher after arthroscopic repair (RR, 2.15; P = .0004). Infection rates were similar (P = .13). In subgroup analysis, studies published before 2010 showed higher postoperative dislocation (RR, 2.13; P = .01) and overall instability (RR, 1.67; P = .02) after arthroscopic repair, as well as greater external rotation in abduction with arthroscopy. In contrast, studies published from 2010 onward demonstrated no differences between arthroscopic and open repair across instability, functional, or ROM outcomes. CONCLUSION: Arthroscopic and open Bankart repair provide largely comparable postoperative stability, functional recovery, and ROM, with modest differences reflecting the intrinsic nature of each technique. Publication period subgroup analysis suggests that historical instability differences were driven primarily by earlier studies, whereas contemporary studies show comparable instability and functional outcomes between approaches. Given its minimally invasive profile, arthroscopy offers practical advantages, including slightly better preservation of external rotation in abduction, while maintaining stability outcomes comparable to open repair.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42170848/",
+      "score": 83,
+      "score_reasoning": "Systematic review and meta-analysis showing no difference between arthroscopic and open Bankart repair with modern techniques, resolving important surgical approach question.",
+      "bullets": [
+        "Arthroscopic and open Bankart repair show no differences in recurrent dislocation, subluxation, or patient reported outcomes in modern studies from 2010 onward.",
+        "Arthroscopic repair preserves external rotation better and allows shorter hospital stays, but has higher reoperation rates compared to open repair.",
+        "Earlier studies before 2010 showed higher failure rates with arthroscopic repair, but contemporary arthroscopic techniques now match open repair outcomes."
+      ]
+    },
+    {
+      "pmid": "42171084",
+      "title": "Nutrition and rehabilitation after anterior cruciate ligament reconstruction: A systematic review.",
+      "authors": [
+        "Raghoebar S",
+        "Roozenboom-van Vliet C",
+        "Wal WV",
+        "Welling W",
+        "Boersma D",
+        "Oosting E",
+        "Zwerver J",
+        "Mensink M"
+      ],
+      "authors_short": "Raghoebar S, Roozenboom-van Vliet C, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: As the impact of nutrition on rehabilitation and return to sport (RTS) after ACL reconstruction (ACLR) remains largely unexplored, this review aimed to review the current evidence on the role of nutrition in rehabilitation outcomes for ACLR patients, with as ultimate goal a safer and more successful RTS. METHODS: Systematic review, adhering to PRISMA. Studies were selected from PubMed, EMBASE, and Web of Science with as mean search strings 'ACL*' and 'Nutrition', and/or 'Diet*'. A broad approach was applied considering populations/patients of any age undergoing ACLR, with nutritional focus, including randomised and non-randomised trials, as well as observational studies. Data were extracted and analysed; risk of bias assessments by RoB 2 and ROBINS-I tools RESULTS: Fifteen studies were included. Two observational studies examined the effects of diet exposure, while 13 RCTs considered specific supplements, alongside any form of physical therapy. RTS was only considered in a single trial only. Serious risk of bias and critical issue were identified in the majority of the studies. This risk of bias and the variability across studies meant that there was not enough high-quality data to perform meta-analyses. Protein intake was associated with improved muscle mass retention and functional recovery. Flaxseed oil (omega 3 fatty acids) and leucine showed some promise. For vitamin-D, correcting insufficiency seemed warranted. CONCLUSION: A high protein intake along with physical rehabilitation is related to improved muscle mass and function, however the impact on RTS and other ACLR outcomes needs to be established. Supplements like leucine and flaxseed oil, and correcting vitamin D inadequacy deserve more attention. More high-quality research is needed to formulate specific personalised nutritional guidelines for ACLR rehabilitation. LEVEL OF EVIDENCE: Level NA.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42171084/",
+      "score": 78,
+      "score_reasoning": "Systematic review of nutrition's role in ACL reconstruction rehabilitation with focus on return to sport, addressing emerging clinical interest.",
+      "bullets": [
+        "High protein intake during ACL reconstruction rehabilitation improves muscle mass retention and functional recovery compared to standard nutrition.",
+        "Leucine supplementation and flaxseed oil show potential benefits for ACL reconstruction patients, though evidence remains limited.",
+        "Correcting vitamin D deficiency appears beneficial for ACL reconstruction recovery, but overall nutrition research quality is poor with high bias risk."
+      ]
+    },
+    {
+      "pmid": "42162891",
+      "title": "A Non-Opioid Multimodal Pain Protocol Achieves Equivalent Pain Control After Total Shoulder Arthroplasty: A Randomized-Controlled Trial.",
+      "authors": [
+        "Evans H",
+        "Castle JP",
+        "Kasto J",
+        "Nerys-Fugeroa J",
+        "Movassaghi A",
+        "Jurayj A",
+        "Obinero CV",
+        "Zhu K",
+        "Wines W",
+        "Mahylis JM",
+        "Muh SJ"
+      ],
+      "authors_short": "Evans H, Castle JP, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Amid efforts to reduce opioid use, identifying effective non-opioid pain protocols for orthopedic procedures is a priority. Shoulder arthroplasty is associated with significant postoperative pain and has traditionally relied on opioids, despite their side effects. This study evaluated the efficacy of a postoperative non-opioid, multimodal pain protocol compared to an opioid protocol for patients undergoing shoulder arthroplasty. METHODS: We performed a prospective, single blinded, randomized controlled trial including patients undergoing primary anatomic or reverse total shoulder arthroplasty. Patients were excluded if they underwent revision surgery, surgery for fracture, or received opioids within 3 months of surgery. All patients received standardized preoperative analgesics, general anesthesia, and an intraoperative periarticular injection without a regional block. Patients were randomly assigned to a postoperative non-opioid multimodal pain protocol or a standard opioid protocol containing 28 tablets of 5 mg oxycodone in addition to the multimodal regimen. Patients completed visual analog scale (VAS) and PROMIS Pain Interference (PI) surveys and reported opioid use and side effects over 10 post-operative days. An intention-to-treat analysis was performed. RESULTS: 78 patients were enrolled and included in the analysis with 38 in the multimodal and 40 in the opioid cohort. Demographics (age, sex, race, and body mass index) were comparable between both groups. Pain scores at 10 days postoperatively were comparable between groups with no significant differences in mean VAS pain (2.4 \u00b1 1.7 in the multimodal group vs. 2.3 \u00b1 1.6 in the opioid group; P = 0.52) or median PROMIS-PI scores (61.5, interquartile range 58.5-67.0 in the multimodal vs. 62.0, interquartile range 56.5-64.0 in the opioid; P = 0.90. However, the opioid group consumed significantly more morphine milligram equivalents (3.7 \u00b1 5.07 compared to 0.4 \u00b1 1.35 for the multimodal group; P < 0.001). There were no significant differences in side effects between treatment groups. CONCLUSION: In patients undergoing shoulder arthroplasty, a non-opioid, multimodal pain protocol provided non-inferior pain relief compared to an opioid-based regimen. These findings support the shift toward opioid-sparing strategies in orthopedic surgery to minimize postoperative dependence without compromising patient care.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42162891/",
+      "score": 75,
+      "score_reasoning": "RCT of non-opioid multimodal pain protocol in shoulder arthroplasty showing equivalent outcomes, addressing opioid crisis concerns.",
+      "bullets": [
+        "Non-opioid multimodal pain protocol provided equivalent pain control to opioid-based regimen at 10 days after total shoulder arthroplasty in 78 patients.",
+        "Patients receiving multimodal protocol used 90% fewer morphine equivalents without increased pain scores or side effects compared to opioid group.",
+        "Study excluded revision cases, fracture surgeries, and patients with recent opioid use within 3 months of surgery."
+      ]
+    },
+    {
+      "pmid": "42166562",
+      "title": "Lower Trapezius Transfer at the Time of Reverse Shoulder Arthroplasty with an Allograft-Prosthetic Composite Can Restore External Rotation.",
+      "authors": [
+        "Sanchez-Sotelo J",
+        "Hart CM",
+        "Weir TB",
+        "Graden N",
+        "Gulzar M",
+        "ElHassan B",
+        "Wagner E"
+      ],
+      "authors_short": "Sanchez-Sotelo J, Hart CM, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: The purpose of this study was to describe, and report the outcomes of, a surgical technique that combines reverse shoulder arthroplasty (RSA) using an allograft-prosthetic composite (APC) with a lower trapezius transfer (LTT) to the infraspinatus of the allograft extended with the inferior capsule. METHODS: Between 2019 and 2023, 2 surgeons performed a total of 27 RSAs using an APC in conjunction with an LTT. Once the RSA APC reconstruction had been performed, cuff-capsule allograft tissue was passed posterior to the glenosphere and secured to the harvested lower trapezius. One shoulder was resected for periprosthetic joint infection; the remaining 26 shoulders were followed for a minimum of 2 years (mean, 2.7 years; range, 2 to 5 years). RESULTS: The rate of revision or reoperation for humeral complications was 15% and included secondary bone grafting (2 shoulders), resection for infection (1 shoulder), and internal fixation of a periprosthetic fracture (1 shoulder). Other complications requiring surgery included hematoma treated with evacuation (2 shoulders), dislocation (1 shoulder), and glenosphere disassociation (1 shoulder). Preoperatively, 11 shoulders presented with pseudoparalysis, and the mean active elevation of the remaining 16 shoulders was 43\u00b0, with only 1 shoulder demonstrating >90\u00b0 of active elevation. At the most recent follow-up, 3 shoulders were pseudoparalytic, 11 had <90\u00b0 of active elevation, 8 had >90\u00b0 of active elevation, and 3 had active elevation to 90\u00b0. The overall mean active elevation of the 25 shoulders that could be assessed was 79\u00b0. Preoperatively, only 4 (15%) of the 27 shoulders demonstrated active external rotation past neutral; at the most recent follow-up, 80% of surviving shoulders had active external rotation past neutral. CONCLUSIONS: LTT at the time of RSA using an APC has the potential to restore active external rotation in shoulders with proximal humeral bone loss and posterosuperior cuff deficiency. LEVEL OF EVIDENCE: Therapeutic Level IV. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42166562/",
+      "score": 71,
+      "score_reasoning": "RCT of 78 patients showing non-opioid multimodal pain protocol achieves equivalent pain control after shoulder arthroplasty.",
+      "bullets": [
+        "Lower trapezius transfer combined with reverse shoulder arthroplasty using allograft-prosthetic composite improved active external rotation from 15% to 80% of patients in shoulders with proximal humeral bone loss.",
+        "Technique applies to complex shoulder reconstructions with both significant bone loss and posterosuperior rotator cuff deficiency requiring massive allograft reconstruction.",
+        "Complication rate was notable with 15% humeral revisions and additional surgeries for hematoma, dislocation, and glenosphere problems, but functional gains in external rotation were substantial."
+      ]
+    },
+    {
+      "pmid": "42171370",
+      "title": "Assessing Large Language Models for Clinical Coding in Hand Surgery: Effect of Note Authorship, Prompt Design, and Diagnosis/Procedure Type.",
+      "authors": [
+        "Schroeder AM",
+        "Goldenberg CB",
+        "Khaleel MI",
+        "Nuelle JAV",
+        "Kirby BJ",
+        "London DA"
+      ],
+      "authors_short": "Schroeder AM, Goldenberg CB, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: This study sought to assess large language models' (LLM) ability to generate correct ICD-10 and CPT codes using clinical documentation, and to determine whether note authorship, prompt design, or diagnosis/procedure type affect LLM performance. We hypothesized that LLMs can code hand surgery clinic and surgical notes with greater than 80% accuracy. METHODS: Ninety patients evenly distributed across three orthopaedic hand surgeons and procedure types (cubital tunnel, carpal tunnel, and trigger finger release) were identified. Clinic and surgical notes were deidentified, and correct ICD-10 diagnosis and CPT procedure codes were recorded. \"Zero-shot,\" \"one-shot,\" \"multishot,\" and \"chain-of-thought\" prompts instructed LLMs to assign ICD-10 codes and CPT codes based on note content. Each prompt was posed to Chat GPT 3.5, Chat GPT 4.0, and Gemini. Rates of coding correctness were calculated across attendings, diagnosis/procedure, prompt type, and LLM. Chi-square analysis determined statistical significance for these comparisons (P < 0.05). RESULTS: No differences in LLM coding performance were observed between note authors (P = 0.09 ICD-10, P = 0.48 CPT) or prompt types (P = 0.27 ICD-10, P = 0.62 CPT). Chat GPT 3.5 provided less accurate ICD-10 codes than Chat GPT 4.0 or Gemini (P < 0.0001). All LLMs better predicted CPT codes (91.5% correct) than ICD-10 codes (23.9% correct). The most common error was incorrect or omitted ICD-10 laterality. Prompts updated to emphasize ICD-10 laterality demonstrated improved accuracy (40%). DISCUSSION: Variation in note content and writing style did not markedly affect LLM performance. Public-facing LLMs require additional optimization to interpret clinical documentation for coding purposes and are not ready for independent use.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42171370/",
+      "score": 62,
+      "score_reasoning": "External evaluation of PathFX survival model in 1,018 patients with extremity metastases revealing reduced performance and algorithmic bias.",
+      "bullets": [
+        "Large language models correctly assigned CPT procedure codes 91.5% of the time but ICD-10 diagnosis codes only 23.9% of the time when analyzing hand surgery notes.",
+        "The most common coding error was incorrect or missing laterality in ICD-10 codes, with accuracy improving to 40% when prompts specifically emphasized laterality.",
+        "ChatGPT 4.0 and Gemini outperformed ChatGPT 3.5 for ICD-10 coding, while note author and prompt style had no significant impact on accuracy."
+      ]
+    },
+    {
+      "pmid": "42175977",
+      "title": "Nerve Gap Reconstruction.",
+      "authors": [
+        "Imbergamo C",
+        "Moeller E",
+        "Lindsey S",
+        "Giladi AM",
+        "Solomon JS"
+      ],
+      "authors_short": "Imbergamo C, Moeller E, et al.",
+      "journal": "The Journal of hand surgery",
+      "journal_abbrev": "J Hand Surg Am",
+      "year": "2026",
+      "abstract": "In many nerve injuries, tissue destruction, scar, and other factors prohibit surgical reapproximation of the nerve ends without excessive tension. The resultant nerve gap has traditionally been bridged using autologous sensory nerve; however, the harvest of autologous nerve graft adds time and donor site morbidity. Over the past decades, a variety of commercially available hollow conduits designed for nerve gap reconstruction have been used. More recently, commercially available processed human nerve allograft has been introduced with the promise of reconstruction whose success rivals the results of nerve autograft. In the case of digital nerve reconstructions, a number of studies indicate that for small nerve gaps (<15 mm) the recovery of sensation is the same for nerves repaired with nerve autograft, hollow nerve conduit, or processed nerve allograft. Although processed nerve allograft appears to outperform hollow conduits for slightly larger nerve gaps, it is unclear how it compares to nerve autograft across a variety of different nerve injuries. Overall, the results of nerve reconstruction are often disappointing, regardless of whether by direct repair or by spanning an intervening nerve gap. Further work on the biology of nerve regeneration is needed, not only to improve existing nerve conduits, but to improve the results of all nerve repairs and reconstructions.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42175977/",
+      "score": 46,
+      "score_reasoning": "Registry review of 886 patients showing 90% return to sport within one year after direct anterior approach THA.",
+      "bullets": [
+        "For digital nerve gaps under 15mm, autograft, hollow conduits, and processed nerve allograft all produce equivalent sensory recovery outcomes.",
+        "Processed nerve allograft outperforms hollow conduits for moderately larger gaps, but comparison to autograft remains unclear across different nerve types.",
+        "Nerve reconstruction results remain disappointing regardless of technique, with direct repair and gap reconstruction both showing limited success rates."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-05-25T06:01:02.076156-07:00"
+}
