@@ -1,0 +1,302 @@
+{
+  "brief_date": "2026-05-28",
+  "brief_date_display": "Thursday, May 28",
+  "candidates": [
+    {
+      "pmid": "42205467",
+      "title": "Influence of Obesity on Mid-term Revision Rates and Mortality After Elective Total Hip Arthroplasty-Analysis From the German Arthroplasty Registry (EPRD).",
+      "authors": [
+        "L\u00fctzner J",
+        "Melsheimer O",
+        "Grimberg A",
+        "G\u00fcnther KP",
+        "L\u00fctzner C",
+        "Steinbr\u00fcck A"
+      ],
+      "authors_short": "L\u00fctzner J, Melsheimer O, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Obesity has been associated with increased revision rates in total hip arthroplasty (THA). There is ongoing discussion as to whether this justifies postponing or denying THA to these patients. This study was initiated to determine the influence of obesity on revision rates and mortality after primary elective THA in Germany. METHODS: The German Arthroplasty Registry (EPRD) provided data of 403,073 elective THAs with a valid body mass index (BMI) for analysis. Cumulative revision rates up to 7 years and 1-year mortality were calculated for BMI groups (nonobese, obesity grade 1, 2, and 3). RESULTS: Increased revision rates with rising BMI were found. The main differences in revision rates appeared within the first postoperative months. This was most distinctive for periprosthetic joint infections during the first year after surgery (0.7% in nonobese, 1.3% in grade 1, 2.1% in grade 2, and 4.2% grade 3 obesity). Similar effects were observed in cementless and cemented stems. Revision rates in morbidly obese patients were not influenced by hospital caseload. Age- and sex-standardized mortality was lower than expected in most groups, but also increasing with rising BMI. CONCLUSIONS: Obesity increased the risk of revision following primary elective THA, particularly for periprosthetic joint infection in morbidly obese patients. However, the absolute risks of this potentially life-improving surgery may be acceptable for the patients affected. The potential risks and benefits should be weighed up individually for each patient, taking into account their BMI and any other risk factors they have. LEVEL OF EVIDENCE: Level III, Therapeutic Study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42205467/",
+      "score": 85,
+      "score_reasoning": "Large registry study (403,073 patients) from prestigious German registry examining obesity's impact on THA revision rates with high clinical relevance for daily practice decisions.",
+      "bullets": [
+        "Obesity increases THA revision rates in a dose-dependent manner, with morbidly obese patients having 6-fold higher infection rates (4.2% vs 0.7%) within the first year.",
+        "The highest revision risk occurs in the early postoperative period, particularly for periprosthetic joint infections, regardless of cement use or hospital volume.",
+        "Despite increased complications, absolute revision rates may still justify surgery in obese patients given the life-improving benefits of THA."
+      ]
+    },
+    {
+      "pmid": "42205466",
+      "title": "Preoperative Weight Loss Intervention With Glucagon-Like Peptides 1 Receptor Agonists Is Associated With Lower Complication Rates Following Primary Total Knee Arthroplasty Than Preoperative Bariatric Surgery.",
+      "authors": [
+        "Bcharah G",
+        "Wininger AE",
+        "Elsabbagh Z",
+        "Braithwaite CL",
+        "Van Schuyver PR",
+        "Spangehl MJ",
+        "Clarke HD",
+        "Bingham JS"
+      ],
+      "authors_short": "Bcharah G, Wininger AE, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Obesity is a risk factor for adverse outcomes following total knee arthroplasty (TKA). Bariatric surgery (BS) and glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are weight-loss strategies commonly encountered in TKA patients. This study aimed to compare short- and long-term complications among obese patients treated with either BS or GLP-1 RAs prior to TKA. METHODS: The database was queried to identify patients with obesity (body mass index [BMI] \u226535 kg/m2) undergoing primary TKA. Patients were stratified based on interventions within 1 year prior to surgery: BS, GLP-1 RA, and no weight-loss intervention. Propensity score matching was performed to balance baseline characteristics. Subgroup analyses were conducted for BMI 35-40 kg/m2 and >40 kg/m2. Primary outcomes included periprosthetic joint infection (PJI), aseptic loosening, periprosthetic fracture, and revision surgery at 90 days, 2 years, and 5 years. RESULTS: In the matched BMI \u226535 kg/m2 cohort (n = 3635 per group), patients with prior BS had significantly higher odds of all surgical complications, including PJI (odds ratio [OR]: 1.70) and all-cause revision (OR: 1.69) compared to the GLP-1 RA cohort. Compared to the no-intervention cohort, BS was associated with increased risks of PJI (OR: 1.33) and periprosthetic fracture (OR: 2.01). Conversely, the GLP-1 RA cohort showed significantly lower risks of surgical complications compared to the no-intervention cohort across most time points and BMI subgroups. CONCLUSIONS: Preoperative GLP-1 RA use is associated with lower complication rates than BS and demonstrates a protective safety profile compared with no weight-loss intervention, underscoring their potential role in preoperative obesity patients undergoing TKA.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42205466/",
+      "score": 83,
+      "score_reasoning": "Highly relevant comparison of GLP-1 agonists vs bariatric surgery before TKA with large matched cohorts (3,635 per group) addressing current clinical dilemma.",
+      "bullets": [
+        "Obese patients using GLP-1 agonists before knee replacement had 70% lower infection rates and 69% lower revision rates compared to those who had bariatric surgery.",
+        "Prior bariatric surgery doubled periprosthetic fracture risk and increased infection rates by 33% compared to no weight loss intervention in obese knee replacement patients.",
+        "GLP-1 agonists reduced most orthopaedic complications across all obesity levels compared to no preoperative weight loss treatment."
+      ]
+    },
+    {
+      "pmid": "42203123",
+      "title": "A Randomized Controlled Trial to Compare a Mobile Bearing Cementless and Cemented Unicompartmental Knee: Results of an Investigational Device Exemption Study in the United States.",
+      "authors": [
+        "Hamilton WG",
+        "Redfern RE",
+        "Klaassen MA",
+        "Berend KR",
+        "Lackey WG",
+        "Berend ME",
+        "Anseth SD",
+        "Emerson RH",
+        "Reitman RD",
+        "Masonis JL",
+        "Lombardi AV"
+      ],
+      "authors_short": "Hamilton WG, Redfern RE, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Cementless implants have seen a resurgence in knee arthroplasty to improve long-term bone fixation. The purpose of this study was to report the results of the United States (US) Investigational Device Exemption (IDE) study comparing the mobile bearing cementless and cemented unicompartmental knee arthroplasty (UKA). METHODS: A single-blind, multicenter, randomized controlled trial was performed to compare a medial cementless and cemented UKA implant. There were 378 patients allocated 2:1 to receive the cementless (n = 241) or cemented (n = 137) device between November 2013 and November 2018. The primary endpoints were identified to demonstrate non-inferiority of the cementless device in terms of survivorship, radiographic results, and Knee Society Clinical Assessment and Functional Scores. RESULTS: There was no statistical difference in Kaplan-Meier two-year survivorship between the cementless (94.0%, 95% confidence interval (CI) 89.9 to 96.8) and cemented cohorts (97.5%, 95% CI 93.0 to 99.5, P = 0.19); similar survival persisted at five years (91.7%, 95% CI 86.4 to 95.0 versus 95.6%, 95% CI 88.4 to 98.4, P = 0.24). Examination of radiographic success revealed non-inferior performance of the cementless prosthesis (93.8 versus 97.4%, P = 0.19). Knee Society function (89.9 \u00b1 13.0 versus 89.8 \u00b1 14.0, P = 0.95) and clinical assessment (95.5 \u00b1 8.5 versus 95.6 \u00b1 6.9, P = 0.92) scores at two years demonstrated no differences between groups. CONCLUSION: The cementless mobile bearing UKA demonstrated non-inferior clinical and radiographic outcomes compared to the cemented device in this US IDE study. Cementless fixation may be an attractive option for appropriately selected patients.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42203123/",
+      "score": 78,
+      "score_reasoning": "Well-designed RCT comparing cementless vs cemented UKA with 5-year follow-up data from US IDE study, addressing important implant choice question.",
+      "bullets": [
+        "Cementless mobile bearing unicompartmental knee replacement showed similar 5-year survival rates compared to cemented versions in 378 patients (91.7% vs 95.6%).",
+        "Functional outcomes and clinical scores were equivalent between cementless and cemented unicompartmental knees at 2 years post-surgery.",
+        "Cementless fixation in unicompartmental knee replacement may be a viable alternative to cemented implants for selected patients."
+      ]
+    },
+    {
+      "pmid": "42201990",
+      "title": "Evaluating the Utility of Staphylococcus aureus Nasal Screening in Preventing Surgical Site Infections in Elective Orthopaedic Surgery: A Propensity-Matched Analysis.",
+      "authors": [
+        "Leijs LJ",
+        "Kha ST",
+        "Lucaciu AR",
+        "Gholipour A",
+        "Coan J",
+        "van der Wal RJP",
+        "Xiong GX",
+        "Tobert DG"
+      ],
+      "authors_short": "Leijs LJ, Kha ST, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Use of preoperative Staphylococcus aureus nasal screening and decolonization varies across orthopaedic surgery. The efficacy of universal nasal screening with regard to surgical site infection (SSI) rates remains unclear, particularly in elective orthopaedic procedures. METHODS: We conducted a multicenter retrospective cohort study of adults who underwent elective orthopaedic surgery. Patients were stratified by S. aureus nasal screening status within 90 days prior to surgery. Deep SSI (within 90 days postoperatively) was the primary outcome, and superficial SSI (within 7 to 30 days postoperatively) was defined as the secondary outcome. We used doubly robust adjustment involving propensity-score matching on 9 variables followed by logistic regression analysis with demographic and clinical covariates. RESULTS: The cohorts comprised 25,005 patients each (mean age, 63 years; 51% female; 88% White). After adjustment, screening was associated with lower odds of developing deep SSI (odds ratio [OR], 0.52 [95% confidence interval (CI), 0.39 to 0.70]; p < 0.001) and superficial SSI (OR, 0.67 [95% CI, 0.62 to 0.73]; p < 0.001). A positive, versus negative, methicillin-resistant S. aureus (MRSA) result was associated with an increased risk of deep (1.47% versus 0.41%; OR, 3.65 [95% CI, 1.59 to 8.38]; p < 0.001) and superficial (12.96% versus 7.63%; OR, 1.80 [95% CI, 1.34 to 2.42]; p < 0.001) SSI. Among screened patients with a deep SSI, only 5.7% had tested positive for MRSA on the screening test. CONCLUSIONS: Preoperative S. aureus nasal screening was associated with a significant reduction in the odds of developing deep and superficial SSIs following elective orthopaedic surgery. However, the overall incidence of deep infection was low, and the MRSA infection rate was negligible. These findings suggest that universal S. aureus nasal screening may have limited value and support consideration of targeted screening in higher-risk surgical populations. LEVEL OF EVIDENCE: Therapeutic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42201990/",
+      "score": 76,
+      "score_reasoning": "Large propensity-matched study (25,005 patients each) demonstrating efficacy of S. aureus screening in preventing SSI with strong clinical applicability.",
+      "bullets": [
+        "Preoperative nasal S. aureus screening reduced deep SSI risk by 48% and superficial SSI risk by 33% in 50,000 elective orthopaedic patients.",
+        "Positive MRSA screening increased deep SSI risk nearly 4-fold, but only 5.7% of patients with deep SSI had positive MRSA screens.",
+        "Universal screening may have limited value given low overall deep infection rates, suggesting targeted screening for high-risk patients instead."
+      ]
+    },
+    {
+      "pmid": "42202043",
+      "title": "Differences Among Genomic Profiling Tests for Bone and Soft-Tissue Sarcomas in a Universal Health Insurance System.",
+      "authors": [
+        "Kamio S",
+        "Ikegami M",
+        "Kitada R",
+        "Miwa S",
+        "Ogura K",
+        "Iwata S",
+        "Kawai A",
+        "Kobayashi E",
+        "Suehara Y",
+        "Kohsaka S"
+      ],
+      "authors_short": "Kamio S, Ikegami M, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Accurate identification of gene fusions is critical for precision oncological approaches to sarcomas, where specific fusion genes are actionable targets of tyrosine kinase (TK) inhibitors. This study provides a descriptive overview of the real-world use, under a universal health insurance program, of 3 different comprehensive genomic profiling (CGP) panels within the Japanese national CGP system: GenMineTOP, which integrates DNA and RNA sequencing, and 2 DNA-based panels, FoundationOne CDx and the OncoGuide NCC Oncopanel System. METHODS: We examined 2,633 sarcoma cases from the Center for Cancer Genomics and Advanced Therapeutics (C-CAT) database to identify potentially actionable alterations classified by the Cancer Knowledge Database (CKDB). The mean patient age was 51.1 years, and 45% were female. Detection rates of TK fusions (FGFR1-4, NTRK1-3, ALK, RET, ROS1, and BRAF) were compared descriptively. Additionally, 3 sarcoma cases with an NTRK fusion detected by GenMineTOP were functionally validated. RESULTS: Potentially actionable alterations (CKDB Levels A, B, and C) were identified in 566 patients (21.5%). Actionable TK fusions were detected in 3.1% (8 of 254) with GenMineTOP, 1.4% (31 of 2,211) with FoundationOne CDx, and 0.6% (1 of 168) with NCC Oncopanel. GenMineTOP identified rare NTRK fusions, including RBPMS::NTRK2, HTT::NTRK2, and EML4::NTRK3. Functional assays suggested their oncogenic potential and demonstrated responsiveness to the TK inhibitors larotrectinib and entrectinib. CONCLUSIONS: In this cohort, the DNA+RNA-based panel showed a higher detection rate for TK fusions, although the panels were applied to different patient groups and the sensitivity and specificity could not be determined. Future studies evaluating different test types on the same tumor specimens are warranted to clarify whether the dual-sequencing approaches can improve the identification of actionable genetic events. LEVEL OF EVIDENCE: Diagnostic Level IV. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42202043/",
+      "score": 74,
+      "score_reasoning": "Genomic profiling study in sarcomas from JBJS examining real-world use of precision oncology tools under universal health insurance system.",
+      "bullets": [
+        "DNA plus RNA sequencing detected actionable tyrosine kinase fusions in 3.1% of sarcomas compared to 1.4% and 0.6% with DNA-only panels.",
+        "Combined sequencing identified rare NTRK fusions that responded to larotrectinib and entrectinib in functional testing.",
+        "About one in five sarcoma patients had potentially actionable genetic alterations across all genomic profiling methods."
+      ]
+    },
+    {
+      "pmid": "42200664",
+      "title": "Effect of Glucagon-Like Peptide-1 Receptor Agonist Use on Fusion Outcomes After First Metatarsophalangeal Arthrodesis in Patients With Type 2 Diabetes Mellitus.",
+      "authors": [
+        "Kayali H",
+        "Adio A",
+        "Parmar T",
+        "Sumiyoshi N",
+        "Boakye L"
+      ],
+      "authors_short": "Kayali H, Adio A, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) influence bone metabolism by promoting formation and reducing resorption in patients with type 2 diabetes mellitus (T2DM). Although studied in hindfoot and midfoot fusion, their effect on forefoot arthrodesis remains unknown. This study evaluated 1-year fusion and complication rates after first metatarsophalangeal joint (MTPJ) arthrodesis in patients prescribed GLP-1 RAs compared with nonusers, with focused analysis in diabetics. METHODS: A retrospective cohort study was conducted using the TriNetX research network. Adults undergoing first MTPJ arthrodesis were identified and stratified by GLP-1 RA use within 1 year before surgery. Glucagon-like peptide-1 (GLP-1) users were compared with nonusers, using a subgroup analysis among patients with T2DM. Propensity score matching (1:1) was conducted using age, sex, obesity, hypertension, peripheral vascular disease, smoking status, and baseline HbA1c. All patients had at least 1 year of follow-up, and relative risks with 95% confidence intervals were calculated. RESULTS: In the primary matched analysis (n = 712 patients per cohort), rates of pseudarthrosis were similar between GLP-1 users and nonusers (7.2% vs. 8.2%; risk ratio, 0.88; P = 0.49), with no significant differences in other complications. However, in the T2DM subgroup (n = 508 patients per cohort), GLP-1 users demonstrated a lower rate of pseudarthrosis compared with diabetic control subjects (7.7% vs. 11.8%; risk ratio, 0.65; P = 0.026), while rates of implant pain, implant removal, and surgical-site infection were comparable between groups. CONCLUSION: Among patients undergoing first MTPJ arthrodesis, GLP-1 RA use was not associated with differences in overall complication rates in the general population. However, among patients with T2DM, GLP-1 use was linked to a markedly lower risk of pseudarthrosis at 1 year postoperatively. These findings suggest that GLP-1 therapy may have a favorable influence on fusion in diabetic patients and warrant additional prospective investigation. LEVEL OF EVIDENCE: III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42200664/",
+      "score": 68,
+      "score_reasoning": "Promising study showing GLP-1 agonists reduce pseudarthrosis rates in diabetic patients after first MTPJ arthrodesis with large matched cohorts.",
+      "bullets": [
+        "GLP-1 receptor agonists did not improve fusion rates after first MTPJ arthrodesis in the general population compared to non-users.",
+        "In type 2 diabetics specifically, GLP-1 users had lower pseudarthrosis rates than diabetic controls (7.7% vs 11.8%) at one year.",
+        "Overall complication rates including infection and implant removal were similar between GLP-1 users and non-users regardless of diabetes status."
+      ]
+    },
+    {
+      "pmid": "42200647",
+      "title": "Risk of Overdose and Adverse Events With Concomitant Opioids and Gabapentinoid Use After Total Joint Arthroplasty.",
+      "authors": [
+        "Domingo PT",
+        "Berger GK",
+        "Gray P",
+        "Chaput R",
+        "Navarro R",
+        "Singh A"
+      ],
+      "authors_short": "Domingo PT, Berger GK, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "PURPOSE: We evaluated the safety outcomes of opioids alone versus opioids plus low-dose gabapentinoids in patients na\u00efve to both opioids and gabapentinoids, after total joint arthroplasty (TJA) of the knee, hip, or shoulder. METHODS: This was a multicenter, population-based, retrospective cohort study based in a large, integrated health system. It included opioid-na\u00efve and gabapentinoid-na\u00efve patients who underwent TJA between 2018 and 2024. Patients were categorized into two groups: those dispensed opioids and low-dose gabapentinoids or those dispensed opioids alone postoperatively. The primary outcome was opioid-related overdose events. The secondary outcome was adverse events, including falls, fractures, neurologic/cognitive changes, sedation, and delirium. RESULTS: In total, 36,351 consecutive patients comprised the study cohort, including 29,009 (79.8%) in the opioids-alone group and 7,342 (20.2%) in the opioids plus gabapentinoids group. In total, there were 19 (0.05% total cohort) opioid-related overdose events. Fourteen of these (0.05%) were in the opioids-alone group, and five (0.07%) were in the opioids plus gabapentinoids group (P = 0.3). In addition, 233 patients (0.6%) experienced emergency department or hospital admission due to an adverse event, including 200 patients (0.69%) in the opioids-alone group and 33 patients (0.45%) in the opioids plus gabapentinoids group. No statistically significant difference in adverse event risk was identified between groups. CONCLUSION: Concurrent prescriptions for opioids and low-dose gabapentinoids after TJA were not associated with a statistically significant difference in risk of emergency department or hospital readmission due to opioid-related overdose or adverse events compared with opioids alone. However, the rarity of overdose events limits statistical power, and these findings should be interpreted cautiously.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42200647/",
+      "score": 66,
+      "score_reasoning": "Important findings that professional athletes with ACL/MCL injuries maintain career longevity comparable to uninjured controls with 90.4% return to play rate.",
+      "bullets": [
+        "Adding low-dose gabapentinoids to opioids after total joint arthroplasty does not increase risk of opioid overdose or adverse events compared to opioids alone in previously naive patients.",
+        "Opioid overdose rates were extremely low in both groups (0.05% opioids alone vs 0.07% combination therapy) among 36,351 total joint patients.",
+        "Emergency department visits for drug-related adverse events occurred in 0.69% of opioid-only patients versus 0.45% of combination therapy patients with no significant difference."
+      ]
+    },
+    {
+      "pmid": "42200663",
+      "title": "AI-Assisted MRI Interpretation in Diagnosing Bankart and Reverse Bankart Lesions.",
+      "authors": [
+        "Sethi S",
+        "Reddy S",
+        "Sakarvadia M",
+        "Serotte J",
+        "Nwaudo D",
+        "Ho S",
+        "Maassen N",
+        "Shi L"
+      ],
+      "authors_short": "Sethi S, Reddy S, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Accurate detection of glenoid labral tears remains challenging; however, it is essential for guiding treatment and return-to-play decisions in athletes. Magnetic resonance arthrography (MRA) improves diagnostic performance over noncontrast magnetic resonance imaging (MRI) but is invasive and more costly. Recent studies have shown that artificial intelligence (AI) models can accurately detect Bankart lesions on MRI and MRA, but whether AI assistance can improve clinician interpretation remains unknown. PURPOSE: To evaluate whether AI assistance improves clinician sensitivity and diagnostic confidence in detecting Bankart and reverse Bankart lesions on MRI and MRA. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: A retrospective reader study was conducted using 586 shoulder examinations (335 MRI, 251 MRA) from 546 patients in the publicly available ScopeMRI data set, with arthroscopic findings as the reference standard. Custom AI models were trained to provide binary tear predictions for Bankart and reverse Bankart lesions. Four orthopaedic clinicians (2 fellowship-trained shoulder surgeons and 2 residents) independently reviewed all 117 test cases twice in a paired design: once unaided and once with AI assistance after a 60-day washout. The primary outcome was the change in sensitivity from unaided to aided interpretation, pooled across MRI and MRA, and evaluated separately for Bankart and reverse Bankart lesions. Secondary outcomes included changes in accuracy, specificity, and confidence. RESULTS: For Bankart lesions, the mean sensitivity across clinicians increased from 38% unaided to 78.3% with AI assistance (P < .001), while accuracy increased from 77.1% to 84% (P = .002). For reverse Bankart lesions, sensitivity improved from 31.2% to 50% (P = .049). Specificity remained high across conditions. Across both pathologies, AI assistance corrected 51.1% of initially missed labral tears. Diagnostic confidence increased with AI assistance by 0.80 for noncontrast MRIs (P < .001) and 0.54 for MRAs (P < .001) on a 10-point scale. CONCLUSION: AI assistance significantly improved clinician sensitivity and diagnostic confidence for detecting Bankart and reverse Bankart lesions on MRI and MRA, with minimal impact on specificity.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42200663/",
+      "score": 62,
+      "score_reasoning": "High sensitivity AI assistance study for detecting shoulder labral tears with potential to improve clinical diagnostic accuracy significantly.",
+      "bullets": [
+        "AI assistance doubled clinician sensitivity for detecting Bankart lesions on MRI and MRA from 38% to 78% without compromising specificity.",
+        "AI helped orthopaedic surgeons and residents catch over half of initially missed labral tears across both standard MRI and MRA studies.",
+        "Diagnostic confidence increased significantly with AI support, particularly for noncontrast MRI where contrast injection may not be feasible."
+      ]
+    },
+    {
+      "pmid": "42202894",
+      "title": "Static and Dynamic Internal Ulnar Rotational Stability in Collegiate Baseball Pitchers.",
+      "authors": [
+        "Sakata J",
+        "Matsuzawa K",
+        "Tsutsui T",
+        "Akeda M",
+        "Sakai T"
+      ],
+      "authors_short": "Sakata J, Matsuzawa K, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND/HYPOTHESIS: The primary soft tissue stabilizer of valgus stress across the elbow is the anterior oblique ligament (AOL). The posterior oblique ligament (POL) is a stabilizer of internal rotational stress. This study aimed to identify whether POL morphological changes affect the ulnar internal rotational laxity of the elbow, and whether the elbow flexors restrain it. METHODS: Fifty-three collegiate-level pitchers were recruited in this cross-sectional study. For ultrasound assessment, pitchers were positioned supine with 90\u00b0 shoulder abduction, 90\u00b0 elbow flexion, and the forearm in a pronated position. POL morphological changes were evaluated, and the posteromedial ulnohumeral joint distance under the POL was measured at rest, under gravity-induced valgus stress, and under gravity-induced valgus stress with brachial flexor muscle contraction. A linear mixed-effects model was used to examine the effects of the group (abnormal vs. normal POL) and condition (elbow valgus [EV] vs. EV with brachial flexor muscle contraction [EV-B]). RESULTS: The prevalence of POL morphological changes in all pitchers was 34% (18/53 patients). The abnormal POL group showed a significantly larger joint gap than the normal POL group under EV (difference: +0.63 mm, 95% confidence interval [CI]: [0.14, 1.12], p = 0.012). This between-group difference was not observed in EV-B (difference: -0.05 mm, 95% CI: [-0.54, 0.44], p = 0.85). CONCLUSION: This study demonstrated that morphological abnormalities of the POL are associated with increased ulnar internal rotational laxity of the elbow in asymptomatic collegiate baseball pitchers. In addition, activation of the elbow flexor muscles reduced posteromedial joint gapping under valgus loading, suggesting a compensatory role of dynamic muscular stabilization in POL-related rotatory instability.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42202894/",
+      "score": 60,
+      "score_reasoning": "Interesting biomechanical study showing postoperative infraspinatus contractility predicts objective outcomes after rotator cuff repair using novel elastography technique.",
+      "bullets": [
+        "One-third of collegiate baseball pitchers have abnormal posterior oblique ligament morphology on ultrasound, even without symptoms.",
+        "Pitchers with abnormal posterior oblique ligaments show increased posteromedial joint gapping under valgus stress compared to those with normal ligaments.",
+        "Elbow flexor muscle contraction eliminates the increased joint gapping, suggesting dynamic compensation for posterior oblique ligament insufficiency."
+      ]
+    },
+    {
+      "pmid": "42190173",
+      "title": "What Is the Relationship Between Clinician-reported and Patient-reported Outcomes in Orthopaedic Surgery?",
+      "authors": [
+        "Aepala MR",
+        "Kiani S",
+        "Yeramosu T",
+        "Sabharwal S"
+      ],
+      "authors_short": "Aepala MR, Kiani S, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Patient-reported outcome measures (PROMs) and clinician-reported outcome measures (CROMs) are designed to capture different dimensions of treatment response: the patient's experience and the clinician's assessment, respectively. Because of that, some degree of discordance between them is expected. However, the nature and magnitude of PROM-CROM correlations across orthopaedic subspecialties have not been systematically characterized. Understanding where they converge and where they diverge may help clinicians and researchers select instrument pairings that capture complementary dimensions of treatment response for different musculoskeletal conditions. QUESTIONS/PURPOSES: (1) Do CROMs correlate differently with condition-specific PROMs compared with general health PROMs? (2) Do PROMs show distinct correlations with hard CROMs (objective, performance-based measures without patient-reported outcomes) versus soft CROMs (objective, performance-based measures including patient-reported domains)? (3) How do PROMs and CROMs compare in their ability to detect change over time as measured by responsiveness indices such as effect size, standardized response mean, and other related metrics? METHODS: We systematically searched Medline via PubMed, Embase, and Web of Science Core Collection in July 2025. Two reviewers independently performed title, abstract, and full-text screening. Studies were included when they directly compared PROMs and CROMs for orthopaedic-related topics. Extracted variables included study design, sample size, Spearman and Pearson correlation coefficients, and responsiveness. CROMs were classified as \"hard\" or \"soft\" based on the extent to which the instrument relied on patient input. Hard CROMs represent objective, performance-based or clinician-measured outcomes that do not require patient-reported information, whereas soft CROMs include clinician-administered instruments that incorporate patient-reported symptoms or functional assessments. PROMs were categorized as either generic or condition specific (joint-, region-, disease-specific) according to established definitions. All reported correlation coefficients were extracted and included regardless of statistical significance to comprehensively characterize the magnitude and variability of associations between PROMs and CROMs. Responsiveness was defined as the comparative sensitivity of PROMs and CROMs to clinical change, assessed using effect sizes, standardized response means, and related metrics. Thirty studies met inclusion criteria; 27 reported PROM-CROM correlations and nine evaluated responsiveness. The included studies encompassed a variety of musculoskeletal conditions, including musculoskeletal tumors (n = 4), distal radius fractures (n = 3), total joint arthroplasty and osteoarthritis (n = 11), pediatric limb deformities (n = 3), foot and ankle disorders (n = 7), spine (n = 1), and trauma (n = 1), with sample sizes ranging from 20 to 717 (mean = 143). Assessment of study quality, using an adapted Consensus-based Standards for the Selection of Health Measurement Instruments risk of bias framework, revealed that most studies were of \"low risk\" or \"some concerns\" because of incomplete paired PROM-CROM outcome data rather than flaws in design or analysis. RESULTS: In evaluating relationships between PROMs and CROMs across orthopaedic subspecialties, condition-specific PROMs generally showed stronger correlations with corresponding CROMs, including the Toronto Extremity Salvage Score (r = 0.75 to 0.81) and the patient-reported American Orthopaedic Foot & Ankle Society (AOFAS) score (r = 0.70). In contrast, general health measures such as the EQ-5D time trade-off (r = -0.29 to 0.13) and certain region-specific instruments, including the Oswestry Disability Index (r = 0.27) and several upper extremity PROMs (r = -0.046 to 0.41), often demonstrated weaker correlations with CROMs. When evaluating differences in correlation by CROM subtype, PROMs tended to correlate more strongly with soft CROMs, such as the AOFAS score, Musculoskeletal Tumor Society score, and Harris hip score, than with hard CROMs. In comparing responsiveness between PROMs and CROMs, condition-specific PROMs, including the Manchester-Oxford Foot Questionnaire, the WOMAC, and Knee Society Score, were more often sensitive to clinical change than CROMs, except in rehabilitation-focused settings, where hard CROM responsiveness was often greater than for PROMs and soft CROMs. CONCLUSION: Based on currently available studies related to musculoskeletal conditions, PROMs and CROMs show variable associations with one another. The stronger correlations between soft CROMs and condition-specific PROMs suggest that when the goal is to establish benchmarks, a condition-specific PROM should be paired with a soft CROM. In contrast, hard CROMs may be particularly useful in short-term rehabilitation settings, where objective performance changes are a primary focus of evaluation. We recommend that orthopaedic studies and registries include, at a minimum, one condition-specific PROM (or soft CROM) and one hard CROM to ensure a multidimensional assessment of patient outcomes and improve interpretability across studies. LEVEL OF EVIDENCE: Level III, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42190173/",
+      "score": 58,
+      "score_reasoning": "Comprehensive study establishing age and sex-specific reference values for rotator cuff muscle characteristics that could improve surgical decision-making.",
+      "bullets": [
+        "Condition-specific patient questionnaires correlate better with clinician assessments than general health measures across orthopaedic conditions.",
+        "Patient-reported measures correlate more strongly with clinician scores that include patient input than with purely objective measurements.",
+        "Condition-specific patient questionnaires detect clinical changes better than clinician measures except in rehabilitation settings where objective performance measures are more sensitive."
+      ]
+    }
+  ],
+  "picks": [
+    1
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-05-28T06:47:36.029202-07:00"
+}
