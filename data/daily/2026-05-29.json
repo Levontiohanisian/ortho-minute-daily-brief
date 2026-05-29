@@ -1,0 +1,302 @@
+{
+  "brief_date": "2026-05-29",
+  "brief_date_display": "Friday, May 29",
+  "candidates": [
+    {
+      "pmid": "42205467",
+      "title": "Influence of Obesity on Mid-term Revision Rates and Mortality After Elective Total Hip Arthroplasty-Analysis From the German Arthroplasty Registry (EPRD).",
+      "authors": [
+        "L\u00fctzner J",
+        "Melsheimer O",
+        "Grimberg A",
+        "G\u00fcnther KP",
+        "L\u00fctzner C",
+        "Steinbr\u00fcck A"
+      ],
+      "authors_short": "L\u00fctzner J, Melsheimer O, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Obesity has been associated with increased revision rates in total hip arthroplasty (THA). There is ongoing discussion as to whether this justifies postponing or denying THA to these patients. This study was initiated to determine the influence of obesity on revision rates and mortality after primary elective THA in Germany. METHODS: The German Arthroplasty Registry (EPRD) provided data of 403,073 elective THAs with a valid body mass index (BMI) for analysis. Cumulative revision rates up to 7 years and 1-year mortality were calculated for BMI groups (nonobese, obesity grade 1, 2, and 3). RESULTS: Increased revision rates with rising BMI were found. The main differences in revision rates appeared within the first postoperative months. This was most distinctive for periprosthetic joint infections during the first year after surgery (0.7% in nonobese, 1.3% in grade 1, 2.1% in grade 2, and 4.2% grade 3 obesity). Similar effects were observed in cementless and cemented stems. Revision rates in morbidly obese patients were not influenced by hospital caseload. Age- and sex-standardized mortality was lower than expected in most groups, but also increasing with rising BMI. CONCLUSIONS: Obesity increased the risk of revision following primary elective THA, particularly for periprosthetic joint infection in morbidly obese patients. However, the absolute risks of this potentially life-improving surgery may be acceptable for the patients affected. The potential risks and benefits should be weighed up individually for each patient, taking into account their BMI and any other risk factors they have. LEVEL OF EVIDENCE: Level III, Therapeutic Study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42205467/",
+      "score": 85,
+      "score_reasoning": "Large-scale registry study (403,073 THAs) from prestigious journal examining obesity's impact on revision rates and mortality with high clinical relevance for surgical decision-making.",
+      "bullets": [
+        "Revision rates after total hip arthroplasty increase with higher BMI, with most complications occurring in the first postoperative months.",
+        "Periprosthetic joint infection rates rise dramatically with obesity: 0.7% in normal weight patients vs 4.2% in morbidly obese patients within one year.",
+        "Despite higher revision rates, absolute risks may be acceptable for obese patients given the life-improving benefits of hip replacement surgery."
+      ]
+    },
+    {
+      "pmid": "42205466",
+      "title": "Preoperative Weight Loss Intervention With Glucagon-Like Peptides 1 Receptor Agonists Is Associated With Lower Complication Rates Following Primary Total Knee Arthroplasty Than Preoperative Bariatric Surgery.",
+      "authors": [
+        "Bcharah G",
+        "Wininger AE",
+        "Elsabbagh Z",
+        "Braithwaite CL",
+        "Van Schuyver PR",
+        "Spangehl MJ",
+        "Clarke HD",
+        "Bingham JS"
+      ],
+      "authors_short": "Bcharah G, Wininger AE, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Obesity is a risk factor for adverse outcomes following total knee arthroplasty (TKA). Bariatric surgery (BS) and glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are weight-loss strategies commonly encountered in TKA patients. This study aimed to compare short- and long-term complications among obese patients treated with either BS or GLP-1 RAs prior to TKA. METHODS: The database was queried to identify patients with obesity (body mass index [BMI] \u226535 kg/m2) undergoing primary TKA. Patients were stratified based on interventions within 1 year prior to surgery: BS, GLP-1 RA, and no weight-loss intervention. Propensity score matching was performed to balance baseline characteristics. Subgroup analyses were conducted for BMI 35-40 kg/m2 and >40 kg/m2. Primary outcomes included periprosthetic joint infection (PJI), aseptic loosening, periprosthetic fracture, and revision surgery at 90 days, 2 years, and 5 years. RESULTS: In the matched BMI \u226535 kg/m2 cohort (n = 3635 per group), patients with prior BS had significantly higher odds of all surgical complications, including PJI (odds ratio [OR]: 1.70) and all-cause revision (OR: 1.69) compared to the GLP-1 RA cohort. Compared to the no-intervention cohort, BS was associated with increased risks of PJI (OR: 1.33) and periprosthetic fracture (OR: 2.01). Conversely, the GLP-1 RA cohort showed significantly lower risks of surgical complications compared to the no-intervention cohort across most time points and BMI subgroups. CONCLUSIONS: Preoperative GLP-1 RA use is associated with lower complication rates than BS and demonstrates a protective safety profile compared with no weight-loss intervention, underscoring their potential role in preoperative obesity patients undergoing TKA.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42205466/",
+      "score": 82,
+      "score_reasoning": "Well-designed propensity-matched study (3,635 per group) comparing GLP-1 agonists vs bariatric surgery before TKA with important implications for perioperative optimization.",
+      "bullets": [
+        "Obese patients who used GLP-1 receptor agonists before total knee arthroplasty had significantly lower complication rates than those who had bariatric surgery within the prior year.",
+        "Bariatric surgery patients showed 70% higher odds of periprosthetic joint infection and 69% higher odds of revision surgery compared to GLP-1 receptor agonist patients.",
+        "GLP-1 receptor agonists demonstrated protective effects compared to no weight loss intervention, while bariatric surgery increased risks of infection and periprosthetic fracture."
+      ]
+    },
+    {
+      "pmid": "42201990",
+      "title": "Evaluating the Utility of Staphylococcus aureus Nasal Screening in Preventing Surgical Site Infections in Elective Orthopaedic Surgery: A Propensity-Matched Analysis.",
+      "authors": [
+        "Leijs LJ",
+        "Kha ST",
+        "Lucaciu AR",
+        "Gholipour A",
+        "Coan J",
+        "van der Wal RJP",
+        "Xiong GX",
+        "Tobert DG"
+      ],
+      "authors_short": "Leijs LJ, Kha ST, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Use of preoperative Staphylococcus aureus nasal screening and decolonization varies across orthopaedic surgery. The efficacy of universal nasal screening with regard to surgical site infection (SSI) rates remains unclear, particularly in elective orthopaedic procedures. METHODS: We conducted a multicenter retrospective cohort study of adults who underwent elective orthopaedic surgery. Patients were stratified by S. aureus nasal screening status within 90 days prior to surgery. Deep SSI (within 90 days postoperatively) was the primary outcome, and superficial SSI (within 7 to 30 days postoperatively) was defined as the secondary outcome. We used doubly robust adjustment involving propensity-score matching on 9 variables followed by logistic regression analysis with demographic and clinical covariates. RESULTS: The cohorts comprised 25,005 patients each (mean age, 63 years; 51% female; 88% White). After adjustment, screening was associated with lower odds of developing deep SSI (odds ratio [OR], 0.52 [95% confidence interval (CI), 0.39 to 0.70]; p < 0.001) and superficial SSI (OR, 0.67 [95% CI, 0.62 to 0.73]; p < 0.001). A positive, versus negative, methicillin-resistant S. aureus (MRSA) result was associated with an increased risk of deep (1.47% versus 0.41%; OR, 3.65 [95% CI, 1.59 to 8.38]; p < 0.001) and superficial (12.96% versus 7.63%; OR, 1.80 [95% CI, 1.34 to 2.42]; p < 0.001) SSI. Among screened patients with a deep SSI, only 5.7% had tested positive for MRSA on the screening test. CONCLUSIONS: Preoperative S. aureus nasal screening was associated with a significant reduction in the odds of developing deep and superficial SSIs following elective orthopaedic surgery. However, the overall incidence of deep infection was low, and the MRSA infection rate was negligible. These findings suggest that universal S. aureus nasal screening may have limited value and support consideration of targeted screening in higher-risk surgical populations. LEVEL OF EVIDENCE: Therapeutic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42201990/",
+      "score": 81,
+      "score_reasoning": "Large propensity-matched study (25,005 per cohort) demonstrating significant reduction in SSI with S. aureus screening, directly applicable to daily practice.",
+      "bullets": [
+        "Preoperative S. aureus nasal screening reduced deep surgical site infections by 48% and superficial infections by 33% in elective orthopaedic surgery patients.",
+        "Positive MRSA screening identified higher-risk patients, but only 5.7% of patients who developed deep infections had tested positive, limiting screening's predictive value.",
+        "Universal nasal screening may have limited benefit given low overall deep infection rates, suggesting targeted screening for high-risk patients may be more appropriate."
+      ]
+    },
+    {
+      "pmid": "42203123",
+      "title": "A Randomized Controlled Trial to Compare a Mobile Bearing Cementless and Cemented Unicompartmental Knee: Results of an Investigational Device Exemption Study in the United States.",
+      "authors": [
+        "Hamilton WG",
+        "Redfern RE",
+        "Klaassen MA",
+        "Berend KR",
+        "Lackey WG",
+        "Berend ME",
+        "Anseth SD",
+        "Emerson RH",
+        "Reitman RD",
+        "Masonis JL",
+        "Lombardi AV"
+      ],
+      "authors_short": "Hamilton WG, Redfern RE, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Cementless implants have seen a resurgence in knee arthroplasty to improve long-term bone fixation. The purpose of this study was to report the results of the United States (US) Investigational Device Exemption (IDE) study comparing the mobile bearing cementless and cemented unicompartmental knee arthroplasty (UKA). METHODS: A single-blind, multicenter, randomized controlled trial was performed to compare a medial cementless and cemented UKA implant. There were 378 patients allocated 2:1 to receive the cementless (n = 241) or cemented (n = 137) device between November 2013 and November 2018. The primary endpoints were identified to demonstrate non-inferiority of the cementless device in terms of survivorship, radiographic results, and Knee Society Clinical Assessment and Functional Scores. RESULTS: There was no statistical difference in Kaplan-Meier two-year survivorship between the cementless (94.0%, 95% confidence interval (CI) 89.9 to 96.8) and cemented cohorts (97.5%, 95% CI 93.0 to 99.5, P = 0.19); similar survival persisted at five years (91.7%, 95% CI 86.4 to 95.0 versus 95.6%, 95% CI 88.4 to 98.4, P = 0.24). Examination of radiographic success revealed non-inferior performance of the cementless prosthesis (93.8 versus 97.4%, P = 0.19). Knee Society function (89.9 \u00b1 13.0 versus 89.8 \u00b1 14.0, P = 0.95) and clinical assessment (95.5 \u00b1 8.5 versus 95.6 \u00b1 6.9, P = 0.92) scores at two years demonstrated no differences between groups. CONCLUSION: The cementless mobile bearing UKA demonstrated non-inferior clinical and radiographic outcomes compared to the cemented device in this US IDE study. Cementless fixation may be an attractive option for appropriately selected patients.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42203123/",
+      "score": 80,
+      "score_reasoning": "US FDA IDE randomized controlled trial comparing cementless vs cemented UKA with 378 patients and 5-year follow-up from high-impact journal.",
+      "bullets": [
+        "Cementless mobile bearing unicompartmental knee replacement showed similar 5-year survival rates compared to cemented versions in 378 patients (91.7% vs 95.6%).",
+        "Patient function scores and clinical outcomes at 2 years were equivalent between cementless and cemented unicompartmental knee implants.",
+        "Cementless fixation in unicompartmental knee replacement is a viable alternative to cemented fixation for appropriately selected patients."
+      ]
+    },
+    {
+      "pmid": "42200652",
+      "title": "ACL Reconstruction for Combined ACL/MCL Injuries in Professional Soccer and Rugby Players: No Difference in Career Longevity Compared to Uninjured Matched Controls.",
+      "authors": [
+        "Jones M",
+        "Motesharei A",
+        "Abdul W",
+        "Haslhofer D",
+        "Ball S",
+        "Williams A"
+      ],
+      "authors_short": "Jones M, Motesharei A, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Combined anterior cruciate ligament (ACL) and medial collateral ligament (MCL) injuries are common in professional sport, but there is little evidence available regarding the long-term impact of them on players' sporting careers. PURPOSE: To determine the effect on return to play (RTP), career longevity, and match participation of male professional soccer and rugby players after primary ACL reconstruction (ACLR) and associated MCL injury, treated with operative or nonoperative management, by comparing each group with uninjured matched controls. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: Male professional soccer and rugby players who underwent ACLR with an MCL injury, which was treated either operatively or nonoperatively, between 2015 and 2022 were each compared with 5 uninjured control players matched by age, sport, playing position, league, match appearances, and minutes played in the 12 months before injury. Kaplan-Meier survival analysis and Cox proportional hazards regression models were created. RESULTS: Overall, 90.4% (soccer, 92.6%; rugby, 87.5%) of players with ACLR+MCL injuries returned to play at 11.6 \u00b1 4.1 months, which was similar to the 91.5% rate (soccer, 92.8%; rugby, 89.5%) of uninjured control players still competing at 11 months after the operation date of their matched player with injury. \u2003At 2 years postsurgery 81.9% of all injured athletes were still competing compared to 81.3% in the control group. This decreased to 61.7% and 62.8%, respectively, at 5 years postsurgery. There was no difference between the still playing rates of the ACLR+MCL operative group 2 and 5 years postsurgery compared to their uninjured controls (2 years: 75.0% vs 75.9%; 5 years: 37.5% vs 41.5%) or between the ACLR+MCL nonoperative group and their uninjured controls (2 years: 86.2% vs 84.6%; 5 years: 70.5% vs 70.8%). \u2003Age, sport, and competition level all had a significant effect on retirement risk, but being injured did not. After controlling for age, sport, and level played, the median career length was 7.07 years in the uninjured group compared to 6.68 years in the ACLR+MCL injury group. CONCLUSION: After ACLR with either operative or nonoperative management of an associated MCL injury, professional soccer and rugby players have high rates of RTP and maintain career longevity equal to that of a player without injury if the severity of the MCL injury is recognized and treated appropriately.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42200652/",
+      "score": 78,
+      "score_reasoning": "Large cohort study (90.4% return to play rate) of professional athletes with combined ACL/MCL injuries showing comparable career longevity to matched controls.",
+      "bullets": [
+        "Professional soccer and rugby players with combined ACL and MCL injuries return to play at 90% rate after ACL reconstruction, matching uninjured controls.",
+        "Career longevity after ACL reconstruction with MCL injury is equivalent to uninjured players regardless of whether MCL is treated operatively or nonoperatively.",
+        "At 5 years post-surgery, 62% of players with ACL and MCL injuries remain active compared to 63% of uninjured controls, showing no statistical difference."
+      ]
+    },
+    {
+      "pmid": "42189018",
+      "title": "Thumb Carpometacarpal Joint Denervation Has Lower Reoperation Rates Than Trapeziectomy for Thumb Base Arthritis: A Retrospective Database Study.",
+      "authors": [
+        "Wier J",
+        "Rusu D",
+        "Lindgren A",
+        "Azad A",
+        "Nicholson LT"
+      ],
+      "authors_short": "Wier J, Rusu D, et al.",
+      "journal": "The Journal of hand surgery",
+      "journal_abbrev": "J Hand Surg Am",
+      "year": "2026",
+      "abstract": "PURPOSE: Various surgical options exist to treat thumb carpometacarpal (CMC) osteoarthritis, including trapeziectomy-based procedures and CMC denervation. Presently, there is limited data on the relative longevity of these 2 procedures, with conflicting data on the rates of secondary conversion after CMC denervation. We sought to investigate the rates of secondary surgery in patients undergoing trapeziectomy or denervation for CMC osteoarthritis. METHODS: The PearlDiver Mariner Database was retrospectively queried for patients with CMC arthritis undergoing trapeziectomy-based procedures or CMC denervation. A propensity score-matched analysis was conducted. The primary end point was all-cause reoperation rates, including neuroma excision, secondary trapeziectomy, arthrodesis, and arthroplasty, however, excluding hardware removals, at 2 years after surgery. Univariate and multivariable analyses were performed to assess whether CMC denervation offered a protective effect on reoperation rates. P values of <.05 were considered statistically significant. RESULTS: Five hundred forty patients who underwent CMC denervation were matched to 540 patients who underwent trapeziectomy. Cohorts were well balanced (standardized mean difference [SMD], <0.1), including age (64.1 vs 63.8 years), comorbidity burden (Elixhauser Comorbidity Index, 4.8 vs 5.0), and sex (male, 32.6% vs 29.6%). The denervation cohort experienced lower rates and adjusted odds of all-cause reoperation than the trapeziectomy cohort at 2 years (3.3% vs 7.8%, P = .002; adjusted odd, 0.4 [0.2-0.7], P = .002). CONCLUSIONS: Carpometacarpal denervation was associated with significantly lower reoperation than trapeziectomy at 2 years. Integrating denervation into treatment algorithms prior to proceeding with more invasive procedures has the potential to provide short- to mid-term longevity; however, more data are needed to validate these results. TYPE OF STUDY/LEVEL OF EVIDENCE: Therapeutic III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42189018/",
+      "score": 76,
+      "score_reasoning": "Innovative multicomponent ML approach for osteosarcoma survival prediction using large national datasets (8,327 patients) with superior cross-dataset performance.",
+      "bullets": [
+        "CMC denervation had lower 2-year reoperation rates than trapeziectomy in 540 matched patients with thumb base arthritis (3.3% vs 7.8%).",
+        "This database study included patients averaging 64 years old with similar comorbidity profiles between treatment groups.",
+        "CMC denervation may be worth considering before more invasive procedures, though longer follow-up data is needed."
+      ]
+    },
+    {
+      "pmid": "42200679",
+      "title": "Computed Tomography Overestimates Roentgenographic Posterior Tilt in Geriatric Garden I/II Femoral Neck Fractures.",
+      "authors": [
+        "Greenhill DA",
+        "Jain N",
+        "Weiss S",
+        "Lundy D"
+      ],
+      "authors_short": "Greenhill DA, Jain N, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Current best practice is to consider primary arthroplasty for elderly patients with a Garden I/II femoral neck fracture (FNF) when posterior tilt measures greater than 20\u00b0 on the lateral radiograph. Although this evidence-based threshold stemmed from plain radiographs, clinicians similarly use it using CT when available. The correspondence of posterior tilt measured on radiograph versus CT is unknown. METHODS: Patients older than 65 years presenting with a Garden I/II FNF during a 6.5-year period (January 2018 to August 2024) were retrospectively reviewed. Patients without concomitant radiograph and CT of the affected hip or with inadequate radiographs were excluded. Posterior tilt of the FNF was measured on lateral radiographs (PT-XR) and compared with CT (PT-CT). RESULTS: After review of 1,244 records, a total of 100 patients averaging 82 \u00b1 8 years old met inclusion criteria. Twenty-nine patients underwent internal fixation and 71 hemiarthroplasty. On average, PT-CT was larger than PT-XR (14\u00b0 vs. 9\u00b0; P < 0.001). Lateral radiographs identified two patients (2%) with a posterior tilt \u226520\u00b0, while CT identified 17 (17%). For the 15 patients in whom increased posterior tilt was identified only by CT, the mean difference between PT-XR and PT-CT was 24 \u00b1 15\u00b0. CONCLUSION: In patients with Garden I/II FNFs, CT often generates larger posterior tilt measurements than plain radiographs. Using CT, an additional 15% of these patients are identified as having posterior tilt \u226520\u00b0. Therefore, advanced imaging of Garden I/II FNFs objectively increases the number of fractures considered too unstable for internal fixation. However, its use as an indication for primary arthroplasty is not yet evidence based. LEVEL OF EVIDENCE: III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42200679/",
+      "score": 75,
+      "score_reasoning": "Well-designed CT study demonstrating significant overestimation of posterior tilt in Garden I/II fractures with important implications for treatment decisions.",
+      "bullets": [
+        "CT scans measure posterior tilt angles 5 degrees higher on average than lateral radiographs in Garden I/II femoral neck fractures in patients over 65.",
+        "CT imaging identifies 15% more patients with posterior tilt over 20 degrees compared to plain films, potentially changing treatment decisions from fixation to arthroplasty.",
+        "The 20-degree posterior tilt threshold for primary arthroplasty was established using plain radiographs, so applying this cutoff to CT measurements lacks evidence-based support."
+      ]
+    },
+    {
+      "pmid": "42184930",
+      "title": "Impact Of Prior Bariatric Surgery Versus Immediate Total Knee Arthroplasty On Knee Function Among Patients Who Have Severe Obesity And Advanced Knee Osteoarthritis: The SWIFT Trial.",
+      "authors": [
+        "Benotti PN",
+        "Wood GC",
+        "Irving B",
+        "Ricciardi B",
+        "Schwarzkopf R",
+        "Parikh M",
+        "Browne J",
+        "Seiler J",
+        "Still C"
+      ],
+      "authors_short": "Benotti PN, Wood GC, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Severe obesity and its association with advanced knee osteoarthritis are established risk factors for surgical complications and associated costs of total knee arthroplasty (TKA). This clinical trial examines the functional knee outcomes of severely obese patients who have severe knee osteoarthritis undergoing bariatric surgery versus immediate TKA and examines the impact of surgical weight loss on the pursuit of TKA. METHODS: The SWIFT Trial (Surgical Weight-loss to improve Functional status Trajectories) following total knee arthroplasty was a multicenter, prospective trial examining outcomes of weight loss surgery and TKA in patients who have severe obesity (body mass index \u2265 40 or greater than 35 who have comorbidities) and symptomatic Kellgren-Lawrence grades 3 or 4 radiographic knee osteoarthritis. Study patients were recruited prospectively from November 2015, to October 2024 and divided into two groups: the bariatric arm (patients undergoing bariatric surgery) and the TKA arm (patients undergoing TKA). Each study arm underwent a comprehensive battery of knee functional assessments at baseline, six, 12, and 24 months, as well as re-evaluations in the bariatric surgery arm to assess the need for delaying or proceeding with TKA at 12 and 24 months. There were 232 study subjects who completed surgery and knee evaluation (n = 159: immediate TKA versus n = 73: bariatric surgery). The study groups had comparable degrees of knee disability at study initiation. RESULTS: Longitudinal functional analysis demonstrated major improvement extending to two years in patient-reported outcomes and performance-based functional assessments in both study arms, with a slight superiority in the TKA arm. Total weight loss % was higher in bariatric surgery patients (28.7%, P < 0.0001). Bariatric surgery resulted in 45 and 36% delays in TKA at 12 and 24 months, respectively, due to improved knee status. CONCLUSION: Knee function and mobility improved significantly in both study arms, with superiority in the Knee Injury and Osteoarthritis Outcome and Western Ontario and McMaster Universities Osteoarthritis Index scores in the TKA group. Improved knee function with surgical weight loss can be associated with up to a two-year delay in the need for TKA.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42184930/",
+      "score": 74,
+      "score_reasoning": "Large-scale study (14,564 procedures) quantifying actual work time for outpatient TJA with important implications for healthcare economics and scheduling.",
+      "bullets": [
+        "Patients with severe obesity and advanced knee arthritis showed significant knee function improvement at 2 years whether they had bariatric surgery first or immediate total knee arthroplasty, with TKA patients having slightly better outcomes.",
+        "Bariatric surgery delayed the need for TKA in 45% of patients at 1 year and 36% at 2 years due to improved knee symptoms from weight loss averaging 28.7%.",
+        "Both treatment approaches are effective for severely obese patients with advanced knee arthritis, but immediate TKA provides superior functional scores compared to bariatric surgery alone."
+      ]
+    },
+    {
+      "pmid": "42183840",
+      "title": "Reduced length of stay and improved perioperative outcomes in robotic-arm-assisted TKA: A real-world evidence study of 63,931 cases from German hospitals.",
+      "authors": [
+        "Tuecking LR",
+        "Ezechieli M",
+        "Barkhausen C",
+        "Hendrich C",
+        "Wienholt LC",
+        "Pross C",
+        "von Eisenhart-Rothe R",
+        "Windhagen H"
+      ],
+      "authors_short": "Tuecking LR, Ezechieli M, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: Robotic-arm-assisted surgery is increasingly used in orthopaedics due to its potential clinical benefits. This real-world data analysis evaluated the impact of image-based, robotic-arm-assisted total knee arthroplasty (raTKA) over non-robotic-arm-assisted total knee arthroplasty (nraTKA) on perioperative outcomes in Germany based on a large, multi-hospital administrative dataset. METHODS: This observational, cohort study used a large set of pooled administrative data from 91 hospitals from 2018 to 2023. Perioperative outcomes analysed included length of stay (LOS), extended hospitalization, inpatient complications, blood transfusions and intensive care unit (ICU) admission. A two-stage model was conducted: propensity score matching (PSM) to balance various patient characteristics, followed by multi-level regression analysis with hospital-level random intercepts to account for hospital effects. Using this multi-level model specification accounts for hospital-level differences in institutional practices. Significance was set at p\u2009<\u20090.05, and 95% confidence intervals were consistently reported. RESULTS: A total of 63,931 TKA cases were included: 11,305 raTKA and 52,626 nraTKA. PSM successfully eliminated baseline differences between groups, with all raTKA matched 1:1 to nraTKA controls. raTKA was associated with a 0.99-day shorter LOS (confidence interval [CI] -1.04 to -0.93), corresponding to a 14% reduction relative to the median LOS of nraTKA and a significant reduction in the risk of extended hospitalization (2266 vs. 5372 events, odds ratio [OR]\u2009=\u20090.375, CI 0.334-0.420). The risk of inpatient complications (93 vs. 186 events, OR\u2009=\u20090.728, CI 0.727-0.729), blood transfusions (68 vs. 118 events, OR\u2009=\u20090.435, CI 0.293-0.644) and ICU admission (220 vs. 459 events, OR\u2009=\u20090.495, 0.398-0.615) were also significantly lower in the raTKA group. CONCLUSIONS: In this real-world analysis of 63,931 cases from 91 German hospitals, raTKA is associated with clinically and statistically significant improvements in perioperative outcomes compared to non-robotic procedures. These clinical improvements might translate into cost efficiencies that can compensate for extra procedural costs of raTKA; however, the economic impact of raTKA should be examined further, considering also long-term outcomes and their health economic implications. Employing a large real-world data set, closely matched cohorts and explicit adjustment for hospital-level effects, this study isolates associations between raTKA and perioperative outcomes that are not solely attributable to institutional differences between hospitals and thus provides valuable information for policymakers and hospital decision-makers. LEVEL OF EVIDENCE: Level III, retrospective comparative, cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42183840/",
+      "score": 73,
+      "score_reasoning": "Large statewide database study (3,715 PFAs) providing important reoperation data for patellofemoral arthroplasty with 21.8% cumulative incidence at 5 years.",
+      "bullets": [
+        "Robotic-assisted TKA reduced hospital stay by 1 day and decreased extended hospitalization risk by 63% compared to conventional TKA in 63,931 matched German patients.",
+        "Robotic TKA patients had lower rates of inpatient complications, blood transfusions, and ICU admissions across 91 hospitals from 2018-2023.",
+        "Real-world data suggests robotic assistance improves perioperative outcomes independent of hospital differences, though long-term cost effectiveness remains unclear."
+      ]
+    },
+    {
+      "pmid": "42200647",
+      "title": "Risk of Overdose and Adverse Events With Concomitant Opioids and Gabapentinoid Use After Total Joint Arthroplasty.",
+      "authors": [
+        "Domingo PT",
+        "Berger GK",
+        "Gray P",
+        "Chaput R",
+        "Navarro R",
+        "Singh A"
+      ],
+      "authors_short": "Domingo PT, Berger GK, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "PURPOSE: We evaluated the safety outcomes of opioids alone versus opioids plus low-dose gabapentinoids in patients na\u00efve to both opioids and gabapentinoids, after total joint arthroplasty (TJA) of the knee, hip, or shoulder. METHODS: This was a multicenter, population-based, retrospective cohort study based in a large, integrated health system. It included opioid-na\u00efve and gabapentinoid-na\u00efve patients who underwent TJA between 2018 and 2024. Patients were categorized into two groups: those dispensed opioids and low-dose gabapentinoids or those dispensed opioids alone postoperatively. The primary outcome was opioid-related overdose events. The secondary outcome was adverse events, including falls, fractures, neurologic/cognitive changes, sedation, and delirium. RESULTS: In total, 36,351 consecutive patients comprised the study cohort, including 29,009 (79.8%) in the opioids-alone group and 7,342 (20.2%) in the opioids plus gabapentinoids group. In total, there were 19 (0.05% total cohort) opioid-related overdose events. Fourteen of these (0.05%) were in the opioids-alone group, and five (0.07%) were in the opioids plus gabapentinoids group (P = 0.3). In addition, 233 patients (0.6%) experienced emergency department or hospital admission due to an adverse event, including 200 patients (0.69%) in the opioids-alone group and 33 patients (0.45%) in the opioids plus gabapentinoids group. No statistically significant difference in adverse event risk was identified between groups. CONCLUSION: Concurrent prescriptions for opioids and low-dose gabapentinoids after TJA were not associated with a statistically significant difference in risk of emergency department or hospital readmission due to opioid-related overdose or adverse events compared with opioids alone. However, the rarity of overdose events limits statistical power, and these findings should be interpreted cautiously.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42200647/",
+      "score": 72,
+      "score_reasoning": "Important safety study (36,351 patients) examining opioid overdose risk with gabapentinoids after TJA, finding no increased adverse events.",
+      "bullets": [
+        "Adding low-dose gabapentinoids to opioids after total joint arthroplasty does not increase overdose risk compared to opioids alone in previously unexposed patients.",
+        "Opioid overdose rates were extremely low in both groups (0.05% opioids alone vs 0.07% combination) among 36,351 total joint patients.",
+        "Emergency department visits and hospital readmissions for adverse events were similar between opioid-only and combination therapy groups."
+      ]
+    }
+  ],
+  "picks": [
+    3
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-05-29T05:47:39.006525-07:00"
+}
