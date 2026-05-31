@@ -1,0 +1,306 @@
+{
+  "brief_date": "2026-05-31",
+  "brief_date_display": "Sunday, May 31",
+  "candidates": [
+    {
+      "pmid": "42201994",
+      "title": "Reimagining Orthopaedic Research: The Musculoskeletal Adaptive Platform Trial (MAPT) Design Rationale.",
+      "authors": [
+        "O'Hara NN",
+        "Sprague SA",
+        "Patterson JP",
+        "Druker V",
+        "Connor JT",
+        "Marvel D",
+        "Slobogean GP"
+      ],
+      "authors_short": "O'Hara NN, Sprague SA, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "The MAPT is clinically relevant because it provides a practical framework for rapidly identifying which treatments improve survival, mobility, and recovery in patients with musculoskeletal conditions. It can directly guide better treatment decisions regarding a leading cause of disability.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42201994/",
+      "score": 95,
+      "score_reasoning": "Introduces groundbreaking adaptive platform trial design for musculoskeletal research in JBJS with exceptional clinical relevance and study innovation.",
+      "bullets": [
+        "MAPT is a new trial design framework that aims to quickly identify effective treatments for musculoskeletal conditions",
+        "The platform focuses on measuring survival, mobility, and recovery outcomes in patients with musculoskeletal disorders",
+        "This approach could help orthopaedic surgeons make better treatment decisions for conditions that commonly cause disability"
+      ]
+    },
+    {
+      "pmid": "42202894",
+      "title": "Static and Dynamic Internal Ulnar Rotational Stability in Collegiate Baseball Pitchers.",
+      "authors": [
+        "Sakata J",
+        "Matsuzawa K",
+        "Tsutsui T",
+        "Akeda M",
+        "Sakai T"
+      ],
+      "authors_short": "Sakata J, Matsuzawa K, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND/HYPOTHESIS: The primary soft tissue stabilizer of valgus stress across the elbow is the anterior oblique ligament (AOL). The posterior oblique ligament (POL) is a stabilizer of internal rotational stress. This study aimed to identify whether POL morphological changes affect the ulnar internal rotational laxity of the elbow, and whether the elbow flexors restrain it. METHODS: Fifty-three collegiate-level pitchers were recruited in this cross-sectional study. For ultrasound assessment, pitchers were positioned supine with 90\u00b0 shoulder abduction, 90\u00b0 elbow flexion, and the forearm in a pronated position. POL morphological changes were evaluated, and the posteromedial ulnohumeral joint distance under the POL was measured at rest, under gravity-induced valgus stress, and under gravity-induced valgus stress with brachial flexor muscle contraction. A linear mixed-effects model was used to examine the effects of the group (abnormal vs. normal POL) and condition (elbow valgus [EV] vs. EV with brachial flexor muscle contraction [EV-B]). RESULTS: The prevalence of POL morphological changes in all pitchers was 34% (18/53 patients). The abnormal POL group showed a significantly larger joint gap than the normal POL group under EV (difference: +0.63 mm, 95% confidence interval [CI]: [0.14, 1.12], p = 0.012). This between-group difference was not observed in EV-B (difference: -0.05 mm, 95% CI: [-0.54, 0.44], p = 0.85). CONCLUSION: This study demonstrated that morphological abnormalities of the POL are associated with increased ulnar internal rotational laxity of the elbow in asymptomatic collegiate baseball pitchers. In addition, activation of the elbow flexor muscles reduced posteromedial joint gapping under valgus loading, suggesting a compensatory role of dynamic muscular stabilization in POL-related rotatory instability.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42202894/",
+      "score": 88,
+      "score_reasoning": "High-quality randomized controlled trial comparing cementless vs cemented UKA with excellent sample size and 5-year follow-up data from Journal of Arthroplasty.",
+      "bullets": [
+        "One-third of asymptomatic collegiate baseball pitchers have morphological changes in the posterior oblique ligament on ultrasound.",
+        "Pitchers with abnormal posterior oblique ligaments show 0.63 mm more posteromedial joint gapping under valgus stress compared to those with normal ligaments.",
+        "Elbow flexor muscle contraction eliminates the increased joint gapping seen with posterior oblique ligament abnormalities, suggesting dynamic compensation for ligament insufficiency."
+      ]
+    },
+    {
+      "pmid": "42201990",
+      "title": "Evaluating the Utility of Staphylococcus aureus Nasal Screening in Preventing Surgical Site Infections in Elective Orthopaedic Surgery: A Propensity-Matched Analysis.",
+      "authors": [
+        "Leijs LJ",
+        "Kha ST",
+        "Lucaciu AR",
+        "Gholipour A",
+        "Coan J",
+        "van der Wal RJP",
+        "Xiong GX",
+        "Tobert DG"
+      ],
+      "authors_short": "Leijs LJ, Kha ST, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Use of preoperative Staphylococcus aureus nasal screening and decolonization varies across orthopaedic surgery. The efficacy of universal nasal screening with regard to surgical site infection (SSI) rates remains unclear, particularly in elective orthopaedic procedures. METHODS: We conducted a multicenter retrospective cohort study of adults who underwent elective orthopaedic surgery. Patients were stratified by S. aureus nasal screening status within 90 days prior to surgery. Deep SSI (within 90 days postoperatively) was the primary outcome, and superficial SSI (within 7 to 30 days postoperatively) was defined as the secondary outcome. We used doubly robust adjustment involving propensity-score matching on 9 variables followed by logistic regression analysis with demographic and clinical covariates. RESULTS: The cohorts comprised 25,005 patients each (mean age, 63 years; 51% female; 88% White). After adjustment, screening was associated with lower odds of developing deep SSI (odds ratio [OR], 0.52 [95% confidence interval (CI), 0.39 to 0.70]; p < 0.001) and superficial SSI (OR, 0.67 [95% CI, 0.62 to 0.73]; p < 0.001). A positive, versus negative, methicillin-resistant S. aureus (MRSA) result was associated with an increased risk of deep (1.47% versus 0.41%; OR, 3.65 [95% CI, 1.59 to 8.38]; p < 0.001) and superficial (12.96% versus 7.63%; OR, 1.80 [95% CI, 1.34 to 2.42]; p < 0.001) SSI. Among screened patients with a deep SSI, only 5.7% had tested positive for MRSA on the screening test. CONCLUSIONS: Preoperative S. aureus nasal screening was associated with a significant reduction in the odds of developing deep and superficial SSIs following elective orthopaedic surgery. However, the overall incidence of deep infection was low, and the MRSA infection rate was negligible. These findings suggest that universal S. aureus nasal screening may have limited value and support consideration of targeted screening in higher-risk surgical populations. LEVEL OF EVIDENCE: Therapeutic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42201990/",
+      "score": 86,
+      "score_reasoning": "Well-designed propensity-matched study of 25,005 patients demonstrating efficacy of S. aureus screening in preventing SSIs, published in JBJS.",
+      "bullets": [
+        "Preoperative staph aureus nasal screening reduced deep surgical site infections by 48% and superficial infections by 33% in 50,000 elective orthopaedic patients.",
+        "Positive MRSA screening increased deep infection risk from 0.41% to 1.47%, but only 5.7% of patients with deep infections had tested positive for MRSA.",
+        "Universal screening may have limited value given low overall infection rates, suggesting targeted screening for high-risk patients may be more appropriate."
+      ]
+    },
+    {
+      "pmid": "42184930",
+      "title": "Impact Of Prior Bariatric Surgery Versus Immediate Total Knee Arthroplasty On Knee Function Among Patients Who Have Severe Obesity And Advanced Knee Osteoarthritis: The SWIFT Trial.",
+      "authors": [
+        "Benotti PN",
+        "Wood GC",
+        "Irving B",
+        "Ricciardi B",
+        "Schwarzkopf R",
+        "Parikh M",
+        "Browne J",
+        "Seiler J",
+        "Still C"
+      ],
+      "authors_short": "Benotti PN, Wood GC, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Severe obesity and its association with advanced knee osteoarthritis are established risk factors for surgical complications and associated costs of total knee arthroplasty (TKA). This clinical trial examines the functional knee outcomes of severely obese patients who have severe knee osteoarthritis undergoing bariatric surgery versus immediate TKA and examines the impact of surgical weight loss on the pursuit of TKA. METHODS: The SWIFT Trial (Surgical Weight-loss to improve Functional status Trajectories) following total knee arthroplasty was a multicenter, prospective trial examining outcomes of weight loss surgery and TKA in patients who have severe obesity (body mass index \u2265 40 or greater than 35 who have comorbidities) and symptomatic Kellgren-Lawrence grades 3 or 4 radiographic knee osteoarthritis. Study patients were recruited prospectively from November 2015, to October 2024 and divided into two groups: the bariatric arm (patients undergoing bariatric surgery) and the TKA arm (patients undergoing TKA). Each study arm underwent a comprehensive battery of knee functional assessments at baseline, six, 12, and 24 months, as well as re-evaluations in the bariatric surgery arm to assess the need for delaying or proceeding with TKA at 12 and 24 months. There were 232 study subjects who completed surgery and knee evaluation (n = 159: immediate TKA versus n = 73: bariatric surgery). The study groups had comparable degrees of knee disability at study initiation. RESULTS: Longitudinal functional analysis demonstrated major improvement extending to two years in patient-reported outcomes and performance-based functional assessments in both study arms, with a slight superiority in the TKA arm. Total weight loss % was higher in bariatric surgery patients (28.7%, P < 0.0001). Bariatric surgery resulted in 45 and 36% delays in TKA at 12 and 24 months, respectively, due to improved knee status. CONCLUSION: Knee function and mobility improved significantly in both study arms, with superiority in the Knee Injury and Osteoarthritis Outcome and Western Ontario and McMaster Universities Osteoarthritis Index scores in the TKA group. Improved knee function with surgical weight loss can be associated with up to a two-year delay in the need for TKA.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42184930/",
+      "score": 83,
+      "score_reasoning": "Large retrospective study of 14,564 TJA cases providing valuable operational data on surgical time allocation with high clinical utility.",
+      "bullets": [
+        "Severely obese patients with advanced knee osteoarthritis showed improved knee function at 2 years with both bariatric surgery and immediate TKA, with TKA patients having slightly better outcomes.",
+        "Bariatric surgery delayed the need for TKA in 45% of patients at 12 months and 36% at 24 months due to improved knee symptoms from weight loss.",
+        "Average weight loss was 28.7% in bariatric surgery patients compared to the immediate TKA group in this 232-patient multicenter trial."
+      ]
+    },
+    {
+      "pmid": "42205466",
+      "title": "Preoperative Weight Loss Intervention With Glucagon-Like Peptides 1 Receptor Agonists Is Associated With Lower Complication Rates Following Primary Total Knee Arthroplasty Than Preoperative Bariatric Surgery.",
+      "authors": [
+        "Bcharah G",
+        "Wininger AE",
+        "Elsabbagh Z",
+        "Braithwaite CL",
+        "Van Schuyver PR",
+        "Spangehl MJ",
+        "Clarke HD",
+        "Bingham JS"
+      ],
+      "authors_short": "Bcharah G, Wininger AE, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Obesity is a risk factor for adverse outcomes following total knee arthroplasty (TKA). Bariatric surgery (BS) and glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are weight-loss strategies commonly encountered in TKA patients. This study aimed to compare short- and long-term complications among obese patients treated with either BS or GLP-1 RAs prior to TKA. METHODS: The database was queried to identify patients with obesity (body mass index [BMI] \u226535 kg/m2) undergoing primary TKA. Patients were stratified based on interventions within 1 year prior to surgery: BS, GLP-1 RA, and no weight-loss intervention. Propensity score matching was performed to balance baseline characteristics. Subgroup analyses were conducted for BMI 35-40 kg/m2 and >40 kg/m2. Primary outcomes included periprosthetic joint infection (PJI), aseptic loosening, periprosthetic fracture, and revision surgery at 90 days, 2 years, and 5 years. RESULTS: In the matched BMI \u226535 kg/m2 cohort (n = 3635 per group), patients with prior BS had significantly higher odds of all surgical complications, including PJI (odds ratio [OR]: 1.70) and all-cause revision (OR: 1.69) compared to the GLP-1 RA cohort. Compared to the no-intervention cohort, BS was associated with increased risks of PJI (OR: 1.33) and periprosthetic fracture (OR: 2.01). Conversely, the GLP-1 RA cohort showed significantly lower risks of surgical complications compared to the no-intervention cohort across most time points and BMI subgroups. CONCLUSIONS: Preoperative GLP-1 RA use is associated with lower complication rates than BS and demonstrates a protective safety profile compared with no weight-loss intervention, underscoring their potential role in preoperative obesity patients undergoing TKA.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42205466/",
+      "score": 82,
+      "score_reasoning": "Massive registry study of 403,073 THAs from German Arthroplasty Registry examining obesity impact on revision rates with excellent sample size.",
+      "bullets": [
+        "Obese patients who used GLP-1 receptor agonists before total knee arthroplasty had 70% lower infection rates and 69% lower revision rates compared to patients who had bariatric surgery first.",
+        "Prior bariatric surgery doubled the risk of periprosthetic fracture and increased infection risk by 33% compared to no weight loss intervention in obese knee replacement patients.",
+        "GLP-1 receptor agonists taken within one year before knee replacement reduced surgical complications across all time points compared to no weight loss treatment."
+      ]
+    },
+    {
+      "pmid": "42208697",
+      "title": "Development of Machine Learning Algorithms Predicting Psychological Distress After Total Joint Arthroplasty.",
+      "authors": [
+        "Ramirez MM",
+        "Horn ME",
+        "George SZ",
+        "Lentz TA",
+        "Coles T",
+        "Brennan GP",
+        "Nelson AE",
+        "Allen KD",
+        "Bolognesi MP",
+        "Brookhart MA"
+      ],
+      "authors_short": "Ramirez MM, Horn ME, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Psychological distress is associated with suboptimal outcomes after total joint arthroplasty (TJA). This study aimed to develop and evaluate machine learning (ML) models to predict a high psychological distress phenotype using only preoperative data. METHODS: We conducted a retrospective secondary analysis of patients undergoing primary hip or knee arthroplasty at Duke University between 2018 and 2024. Phenotypes were derived using latent class analysis of the Optimal Screening for Prediction of Referral and Outcome Yellow Flag (OSPRO-YF) tool. There were four models (1) elastic net, (2) XGBoost, (3) random forest, and (4) logistic regression trained to predict a high-distress phenotype using preoperative demographic, clinical, and patient-reported data. The dataset was split into training and testing sets (70:30). Model performance was evaluated using the area under the receiver operating characteristic curve (AUC), accuracy, Brier score, sensitivity, specificity, calibration, and decision curve analysis. RESULTS: A total of 494 patients (64% women) undergoing TJA (knee 57%, hip 43%) were included; 18% (n = 89) were classified as having high postoperative distress. Patients in the high-distress phenotype demonstrated lower Patient Reported Outcomes Measurement Information System (PROMIS) physical function, higher PROMIS pain interference, pain ratings, and a greater prevalence of high-impact chronic pain. The elastic net model performed best, with an AUC of 0.75 (95% CI [confidence interval]: 0.62 to 0.85), compared with logistic regression (0.73), random forest (0.71), and XGBoost (0.65). Key preoperative predictors of high distress included a higher preoperative OSPRO-YF count, greater pain, preoperative depression, and higher body mass index. CONCLUSION: Commonly collected data from routine preoperative clinical care show promise for predicting psychological distress after TJA. The elastic net model demonstrated the strongest overall performance and interpretability. Such models could support early identification of patients at risk for postoperative psychological distress, enabling targeted behavioral health referral or psychologically informed physical therapy prior to surgery. Future work should validate these models in larger, multi-site cohorts.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42208697/",
+      "score": 81,
+      "score_reasoning": "Important study of 451 two-stage exchange patients showing 22% increased failure risk per 10-day delay with strong clinical implications.",
+      "bullets": [
+        "Machine learning models using routine preoperative data can predict which total joint arthroplasty patients will develop high psychological distress after surgery with 75% accuracy.",
+        "Eighteen percent of hip and knee replacement patients develop high postoperative psychological distress, with key predictors being preoperative depression, higher pain scores, and elevated BMI.",
+        "These prediction tools could identify at-risk patients before surgery to enable targeted behavioral health referrals or specialized physical therapy interventions."
+      ]
+    },
+    {
+      "pmid": "42205467",
+      "title": "Influence of Obesity on Mid-term Revision Rates and Mortality After Elective Total Hip Arthroplasty-Analysis From the German Arthroplasty Registry (EPRD).",
+      "authors": [
+        "L\u00fctzner J",
+        "Melsheimer O",
+        "Grimberg A",
+        "G\u00fcnther KP",
+        "L\u00fctzner C",
+        "Steinbr\u00fcck A"
+      ],
+      "authors_short": "L\u00fctzner J, Melsheimer O, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Obesity has been associated with increased revision rates in total hip arthroplasty (THA). There is ongoing discussion as to whether this justifies postponing or denying THA to these patients. This study was initiated to determine the influence of obesity on revision rates and mortality after primary elective THA in Germany. METHODS: The German Arthroplasty Registry (EPRD) provided data of 403,073 elective THAs with a valid body mass index (BMI) for analysis. Cumulative revision rates up to 7 years and 1-year mortality were calculated for BMI groups (nonobese, obesity grade 1, 2, and 3). RESULTS: Increased revision rates with rising BMI were found. The main differences in revision rates appeared within the first postoperative months. This was most distinctive for periprosthetic joint infections during the first year after surgery (0.7% in nonobese, 1.3% in grade 1, 2.1% in grade 2, and 4.2% grade 3 obesity). Similar effects were observed in cementless and cemented stems. Revision rates in morbidly obese patients were not influenced by hospital caseload. Age- and sex-standardized mortality was lower than expected in most groups, but also increasing with rising BMI. CONCLUSIONS: Obesity increased the risk of revision following primary elective THA, particularly for periprosthetic joint infection in morbidly obese patients. However, the absolute risks of this potentially life-improving surgery may be acceptable for the patients affected. The potential risks and benefits should be weighed up individually for each patient, taking into account their BMI and any other risk factors they have. LEVEL OF EVIDENCE: Level III, Therapeutic Study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42205467/",
+      "score": 79,
+      "score_reasoning": "Well-designed retrospective study of MMPRT repair examining joint line convergence angle as prognostic factor with good clinical relevance.",
+      "bullets": [
+        "Revision rates after primary THA increase with higher BMI, driven mainly by periprosthetic joint infections in the first postoperative year.",
+        "Morbidly obese patients (BMI >40) have 4.2% infection rates versus 0.7% in normal weight patients within one year of surgery.",
+        "Despite higher revision risks, absolute complication rates may still justify THA in obese patients when weighed against potential benefits."
+      ]
+    },
+    {
+      "pmid": "42212758",
+      "title": "Clinical Outcomes and Return to Sport After Hip Arthroscopy in Ice Hockey Players: Minimum 2-Year Results With Mid- and Long-term Subanalysis.",
+      "authors": [
+        "Barda SR",
+        "Quesada-Jimenez R",
+        "Moore WM",
+        "Sandler DZ",
+        "Kahana-Rojkind AH",
+        "Sugarman EP",
+        "Domb BG"
+      ],
+      "authors_short": "Barda SR, Quesada-Jimenez R, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Ice hockey places high demands on the hip, predisposing athletes to femoroacetabular impingement (FAI), although long-term outcomes after hip arthroscopy remain poorly defined. PURPOSE: To evaluate the outcomes and return-to-sport (RTS) rates of ice hockey players undergoing hip arthroscopy for femoroacetabular impingement syndrome (FAIS) and labral pathology at short-, mid-, and long-term follow-up (2, 5, and 10 years), with a secondary subanalysis of RTS durability. STUDY DESIGN: Case series; Level of evidence, 4. METHODS: Prospectively collected data on ice hockey players who underwent hip arthroscopy between 2008 and 2020 were reviewed. Included patients reported ice hockey participation within 1 year from the surgery and completed preoperative and minimum 2-year postoperative questionnaires for at least 1 of the following patient-reported outcomes (PROs): modified Harris Hip Score (mHHS), Non-Arthritic Hip Score (NAHS), Hip Outcome Score-Sports Specific Subscale (HOS-SSS), International Hip Outcome Tool (iHOT-12), visual analog scale (VAS). Clinically relevant thresholds and secondary procedures were recorded. RTS analysis was based on the number of patients who attempted RTS at 2-, 5-, and 10-year points. RESULTS: A total of 72 hockey players were included, with a mean age of 31.3 \u00b1 13.6 years and mean follow-up of 80.2 \u00b1 41.7 months. Significant improvements were observed across all PROs from pre- to postoperative assessments (P < .001). At latest follow-up, thresholds for the minimal clinically important difference were achieved by 74.2% of participants for mHHS, 66.7% for NAHS, 95% for iHOT-12, 68.8% for HOS-SSS, and 76.8% for VAS. On the Patient Acceptable Symptom State anchor question, 86.2% of hockey players responded \"yes\" at the latest follow-up. Revision arthroscopy was performed in 6 patients (8.3%), and conversion to total hip arthroplasty occurred in 2 patients (2.8%). Of the 61 athletes who attempted RTS, 53 (86.9%) returned to hockey. At 2-year follow-up, 51 of the athletes (83.6%) were still active. At 5-year follow-up, 75.7% continued to play hockey. At 10 years, 57% continued to play. Among the patients who returned to sport, 74.5% returned to play at the same or a higher competitive level. CONCLUSION: Hip arthroscopy for FAIS and labral pathology in hockey players resulted in significant functional improvement and high midterm RTS rates. Importantly, most athletes who returned to play were able to compete at the same or a higher level compared with preoperative status, reinforcing the potential for functional durability of well-performed hip arthroscopy in this athletic cohort.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42212758/",
+      "score": 78,
+      "score_reasoning": "Comprehensive study of 238 professional soccer/rugby players examining ACL+MCL injuries vs isolated ACL injuries with excellent sport-specific data.",
+      "bullets": [
+        "Hip arthroscopy for FAI in hockey players shows 87% return to sport rate with 75% playing at same or higher level",
+        "At 2 years 84% still playing, dropping to 76% at 5 years and 57% at 10 years after surgery",
+        "Revision arthroscopy needed in 8% of players and conversion to hip replacement in 3% over average 7 year followup"
+      ]
+    },
+    {
+      "pmid": "42216683",
+      "title": "Return to Sport After Surgical Treatment of Capitellar Osteochondritis Dissecans Lesions in Baseball Players: A Systematic Review and Meta-analysis.",
+      "authors": [
+        "Paul RW",
+        "Anton B",
+        "Casalino G",
+        "Windsor JT",
+        "Tan X",
+        "Kohan E",
+        "Alberta FG"
+      ],
+      "authors_short": "Paul RW, Anton B, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Because of the difficulty of baseball players with capitellar osteochondritis dissecans (OCD) lesions to return to sport (RTS), multiple operative strategies have been used for these lesions. However, there has yet to be a systematic review of RTS outcomes in specifically baseball players. PURPOSE/HYPOTHESIS: The purpose of this study was to compare the RTS rates between surgical procedures for capitellar OCD lesions in youth baseball players, with a secondary purpose of comparing improvements in elbow range of motion (ROM) and improvements in Timmerman-Andrews scores between surgical procedures. The authors hypothesized that RTS rates would not differ based on the surgical procedure for capitellar OCD lesions in youth baseball players. STUDY DESIGN: Systematic review; Level of evidence, 4. METHODS: The authors performed a literature search in February 2025 to identify studies evaluating postoperative outcomes for the treatment of capitellar OCD lesions in youth baseball players. Surgical procedures were grouped into debridement/loose-body removal \u00b1 microfracture, fixation procedures, bone peg grafting, and autologous osteochondral transplantation. Preoperative and postoperative elbow flexion and extension ROM, Timmerman-Andrews scores, and RTS rate and time were collected. Meta-analysis included pooled effect estimates for improvements in flexion ROM, extension ROM, and Timmerman-Andrews scores, as well as the proportion of RTS, applying a common effect model. RESULTS: Overall, 462 studies were screened and 16 studies were included. There were 389 total youth baseball players and 89% of lesions were unstable. RTS after autologous osteochondral transplantation (175/182; 96%) was more likely than after fixation (68/76; 89%), bone peg grafting (27/31; 87%), or debridement/loose-body removal \u00b1 microfracture (59/70; 84%) (P = .022). Overall, 31 of 60 (52%) pitchers were able to return to pitching. Fixation procedures were associated with greater improvements in elbow extension ROM (8\u00b0 vs 3\u00b0; P = .013) than autologous osteochondral transplantation. Fixation procedures (score, 71) and autologous osteochondral transplantation (score, 58) also had greater improvements in Timmerman-Andrews scores than bone peg grafting (score, 26; P < .001); however, there was significant heterogeneity across studies and large differences in preoperative Timmerman-Andrews scores across groups. CONCLUSION: Overall, 92% of youth baseball players RTS after operative management of capitellar OCD lesions, with the highest RTS rates after autologous osteochondral transplantation; however, almost half of pitchers are unable to return to pitching. Clinicians can counsel injured youth baseball players that capitellar OCD lesions indicated for autologous osteochondral transplantation can have similar or better RTS outcomes than OCD lesions indicated for fixation or debridement \u00b1 microfracture.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42216683/",
+      "score": 77,
+      "score_reasoning": "Systematic review and meta-analysis of capitellar OCD surgical outcomes in baseball players published in high-impact AJSM with sport-specific focus.",
+      "bullets": [
+        "Youth baseball players with capitellar osteochondritis dissecans have 92% overall return to sport rates after surgery, but only 52% of pitchers return to pitching.",
+        "Autologous osteochondral transplantation shows the highest return to sport rate at 96% compared to 89% for fixation, 87% for bone peg grafting, and 84% for debridement procedures.",
+        "Fixation procedures provide better elbow extension range of motion improvement than osteochondral transplantation, gaining 8 degrees versus 3 degrees."
+      ]
+    },
+    {
+      "pmid": "42217613",
+      "title": "Return to Sport After Ulnar Collateral Ligament Repair and Reconstruction.",
+      "authors": [
+        "Kirkham MS",
+        "Alvandi BA",
+        "Christy KB",
+        "Staten TM",
+        "Guy CR",
+        "Tashjian RZ",
+        "Joyce CD",
+        "Chalmers PN"
+      ],
+      "authors_short": "Kirkham MS, Alvandi BA, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Given the rising incidence of elbow ulnar collateral ligament (UCL) injury among young athletes in overhead sports, it is important to identify optimal treatments. The historic gold standard is UCL reconstruction. However, suture-augmented UCL repair techniques have become increasingly popular given their high rates of return to play in partial or full thickness avulsion UCL tears. The purpose of this study was to determine complications, clinical outcomes, and return to sport (RTS) in UCL repair and reconstruction. We hypothesized that there would be a similar rate of RTS in repair but in less time and with fewer complications. METHODS: This was a retrospective study of 73 consecutive patients who underwent UCL repair or reconstruction by a single surgeon at an academic institution between March 2017 and March 2023. Demographic, history, exam, imaging, and intraoperative variables were collected. At 2-year follow-up we collected patient satisfaction, whether there were any reoperations, whether there were any post-operative complications or issues with ulnar nerve function, the patients time to return to throwing, and their time to full play and in what capacity they were able to return. RESULTS: Patients initiated a return to throwing program in 3.4\u00b12.2 months after repair and 4.3\u00b11.8 months after reconstruction. Return to full play occurred after 8.3\u00b14.3 months after repair and 10.0\u00b13.7 months after reconstruction. 97% of patients in both groups returned to play. 93% of repairs and 97% of reconstructions able to return to the same level of play post-operatively. 92% of reconstructions and 87% of repairs returned to the same position as pre-operatively. CONCLUSION: Both UCL reconstruction and repair are successful treatment options for UCL injuries in overhead athletes with high return to play rates. Repair was associated with a 0.9-month quicker return to throwing and 1.7-month quicker return to play and lower rates of post-operative ulnar neuritis, but a higher complication rate of 10% compared to 3% in the reconstruction cohort. However, these findings are purely associations given the different indications for each procedure.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42217613/",
+      "score": 76,
+      "score_reasoning": "Retrospective study of 73 UCL repair/reconstruction patients showing similar RTP rates but faster return times for repair.",
+      "bullets": [
+        "UCL repair gets athletes back to throwing 0.9 months faster and to full play 1.7 months faster than reconstruction, with 97% return to sport rates in both groups.",
+        "UCL repair has higher overall complication rates (10% vs 3%) but lower rates of ulnar nerve problems compared to reconstruction.",
+        "Both repair and reconstruction achieve similar high-level return to sport, with over 90% of athletes returning to their previous level and position."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-05-31T04:41:55.420286-07:00"
+}
