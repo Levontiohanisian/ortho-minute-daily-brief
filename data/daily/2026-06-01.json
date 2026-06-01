@@ -1,0 +1,303 @@
+{
+  "brief_date": "2026-06-01",
+  "brief_date_display": "Monday, June 01",
+  "candidates": [
+    {
+      "pmid": "42203123",
+      "title": "A Randomized Controlled Trial to Compare a Mobile Bearing Cementless and Cemented Unicompartmental Knee: Results of an Investigational Device Exemption Study in the United States.",
+      "authors": [
+        "Hamilton WG",
+        "Redfern RE",
+        "Klaassen MA",
+        "Berend KR",
+        "Lackey WG",
+        "Berend ME",
+        "Anseth SD",
+        "Emerson RH",
+        "Reitman RD",
+        "Masonis JL",
+        "Lombardi AV"
+      ],
+      "authors_short": "Hamilton WG, Redfern RE, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Cementless implants have seen a resurgence in knee arthroplasty to improve long-term bone fixation. The purpose of this study was to report the results of the United States (US) Investigational Device Exemption (IDE) study comparing the mobile bearing cementless and cemented unicompartmental knee arthroplasty (UKA). METHODS: A single-blind, multicenter, randomized controlled trial was performed to compare a medial cementless and cemented UKA implant. There were 378 patients allocated 2:1 to receive the cementless (n = 241) or cemented (n = 137) device between November 2013 and November 2018. The primary endpoints were identified to demonstrate non-inferiority of the cementless device in terms of survivorship, radiographic results, and Knee Society Clinical Assessment and Functional Scores. RESULTS: There was no statistical difference in Kaplan-Meier two-year survivorship between the cementless (94.0%, 95% confidence interval (CI) 89.9 to 96.8) and cemented cohorts (97.5%, 95% CI 93.0 to 99.5, P = 0.19); similar survival persisted at five years (91.7%, 95% CI 86.4 to 95.0 versus 95.6%, 95% CI 88.4 to 98.4, P = 0.24). Examination of radiographic success revealed non-inferior performance of the cementless prosthesis (93.8 versus 97.4%, P = 0.19). Knee Society function (89.9 \u00b1 13.0 versus 89.8 \u00b1 14.0, P = 0.95) and clinical assessment (95.5 \u00b1 8.5 versus 95.6 \u00b1 6.9, P = 0.92) scores at two years demonstrated no differences between groups. CONCLUSION: The cementless mobile bearing UKA demonstrated non-inferior clinical and radiographic outcomes compared to the cemented device in this US IDE study. Cementless fixation may be an attractive option for appropriately selected patients.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42203123/",
+      "score": 85,
+      "score_reasoning": "Well-designed RCT comparing cementless vs cemented UKA with strong methodology, large sample size (378 patients), and high clinical relevance for knee surgeons choosing implant fixation methods.",
+      "bullets": [
+        "Cementless mobile bearing unicompartmental knee replacement showed similar 5-year survival rates to cemented versions (91.7% vs 95.6%) in 378 patients.",
+        "Functional outcomes and pain scores were identical between cementless and cemented groups at 2 years in this randomized trial.",
+        "Cementless fixation performed as well as cement fixation on radiographic analysis with no increased loosening risk."
+      ]
+    },
+    {
+      "pmid": "42201994",
+      "title": "Reimagining Orthopaedic Research: The Musculoskeletal Adaptive Platform Trial (MAPT) Design Rationale.",
+      "authors": [
+        "O'Hara NN",
+        "Sprague SA",
+        "Patterson JP",
+        "Druker V",
+        "Connor JT",
+        "Marvel D",
+        "Slobogean GP"
+      ],
+      "authors_short": "O'Hara NN, Sprague SA, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "The MAPT is clinically relevant because it provides a practical framework for rapidly identifying which treatments improve survival, mobility, and recovery in patients with musculoskeletal conditions. It can directly guide better treatment decisions regarding a leading cause of disability.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42201994/",
+      "score": 82,
+      "score_reasoning": "Novel adaptive platform trial design for musculoskeletal research published in JBJS with high potential impact on future orthopaedic research methodology and clinical practice.",
+      "bullets": [
+        "MAPT is a new clinical trial design that tests multiple musculoskeletal treatments simultaneously to find which ones work best.",
+        "The platform can quickly identify treatments that improve survival, mobility, and recovery in orthopaedic patients.",
+        "This design allows faster evidence generation to guide treatment decisions for conditions causing significant disability."
+      ]
+    },
+    {
+      "pmid": "42201990",
+      "title": "Evaluating the Utility of Staphylococcus aureus Nasal Screening in Preventing Surgical Site Infections in Elective Orthopaedic Surgery: A Propensity-Matched Analysis.",
+      "authors": [
+        "Leijs LJ",
+        "Kha ST",
+        "Lucaciu AR",
+        "Gholipour A",
+        "Coan J",
+        "van der Wal RJP",
+        "Xiong GX",
+        "Tobert DG"
+      ],
+      "authors_short": "Leijs LJ, Kha ST, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Use of preoperative Staphylococcus aureus nasal screening and decolonization varies across orthopaedic surgery. The efficacy of universal nasal screening with regard to surgical site infection (SSI) rates remains unclear, particularly in elective orthopaedic procedures. METHODS: We conducted a multicenter retrospective cohort study of adults who underwent elective orthopaedic surgery. Patients were stratified by S. aureus nasal screening status within 90 days prior to surgery. Deep SSI (within 90 days postoperatively) was the primary outcome, and superficial SSI (within 7 to 30 days postoperatively) was defined as the secondary outcome. We used doubly robust adjustment involving propensity-score matching on 9 variables followed by logistic regression analysis with demographic and clinical covariates. RESULTS: The cohorts comprised 25,005 patients each (mean age, 63 years; 51% female; 88% White). After adjustment, screening was associated with lower odds of developing deep SSI (odds ratio [OR], 0.52 [95% confidence interval (CI), 0.39 to 0.70]; p < 0.001) and superficial SSI (OR, 0.67 [95% CI, 0.62 to 0.73]; p < 0.001). A positive, versus negative, methicillin-resistant S. aureus (MRSA) result was associated with an increased risk of deep (1.47% versus 0.41%; OR, 3.65 [95% CI, 1.59 to 8.38]; p < 0.001) and superficial (12.96% versus 7.63%; OR, 1.80 [95% CI, 1.34 to 2.42]; p < 0.001) SSI. Among screened patients with a deep SSI, only 5.7% had tested positive for MRSA on the screening test. CONCLUSIONS: Preoperative S. aureus nasal screening was associated with a significant reduction in the odds of developing deep and superficial SSIs following elective orthopaedic surgery. However, the overall incidence of deep infection was low, and the MRSA infection rate was negligible. These findings suggest that universal S. aureus nasal screening may have limited value and support consideration of targeted screening in higher-risk surgical populations. LEVEL OF EVIDENCE: Therapeutic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42201990/",
+      "score": 80,
+      "score_reasoning": "Large-scale study (25,005 patients each cohort) demonstrating efficacy of S. aureus screening in preventing SSI with robust propensity-matched methodology and high clinical applicability.",
+      "bullets": [
+        "Preoperative S. aureus nasal screening reduced both deep and superficial surgical site infections by roughly half in elective orthopaedic surgery patients.",
+        "Positive MRSA screening increased infection risk, but only 5.7% of patients who developed deep infections had tested MRSA positive preoperatively.",
+        "Universal screening may have limited value given low overall infection rates, suggesting targeted screening for high-risk patients may be more appropriate."
+      ]
+    },
+    {
+      "pmid": "42211329",
+      "title": "Bikinis, Tissue Protectors, and the Standard Longitudinal Incision: Comparable Wound Complications and Safety in Direct Anterior Approach Total Hip Arthroplasty.",
+      "authors": [
+        "Crockatt WK",
+        "Sevensky R",
+        "Ren M",
+        "Sarpong NO",
+        "Neuwirth AL",
+        "Cooper HJ",
+        "Herndon CL"
+      ],
+      "authors_short": "Crockatt WK, Sevensky R, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Wound complications in direct anterior approach (DAA) total hip arthroplasty (THA) may differ by incision type. Bikini incisions may improve cosmesis and healing, minimizing panniculus effects while single-use soft tissue protectors may prevent damage from surgical instruments. This study compared wound complication rates in DAA THA with longitudinal incisions with and without a tissue protector, and bikini incisions. METHODS: We retrospectively reviewed 925 primary DAA THAs performed via standard longitudinal incision (n = 444, 48.0%), bikini incision (n = 375, 40.5%), and longitudinal incision with a tissue protector (n = 106, 11.5%). Wound data included complication type, depth, and treatment, including return to the operating room (RTOR). Analyses included pairwise Fisher exact testing and multivariable regression, controlling for age, sex, body mass index, smoking, surgical indication, American Society of Anesthesiologists, operative time, and performing surgeon. RESULTS: There were 37 (4.0%) wound complications-34 (3.7%) superficial wound issues (eg, dehiscence without deep infection) and 3 (0.3%) deep infections. Seven (0.8%) patients required RTOR, with no significant difference between cohorts. Compared to the standard longitudinal incision (6.5%), both the bikini incision (2.4%) and the tissue protector (0.0%) cohorts had fewer overall wound complications. When controlling for the performing surgeon, the bikini incision performed similarly to the standard longitudinal approach (adjusted Odds Ratio: 0.49; P = .23). CONCLUSIONS: DAA THA demonstrates an excellent safety profile, with a low overall incidence of wound complications. While initial reductions in superficial complications with bikini incisions and tissue protectors were influenced by surgeon-specific factors, all techniques proved to be highly safe and effective, with low RTOR rates.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42211329/",
+      "score": 75,
+      "score_reasoning": "Retrospective study of 1.5-stage arthroplasty for native joint septic arthritis with good sample size (45 patients) addressing an important clinical problem with acceptable revision rates.",
+      "bullets": [
+        "Direct anterior approach hip replacement had 4% wound complications overall, with only 0.3% deep infections and 0.8% requiring reoperation across all incision types.",
+        "Bikini incisions and tissue protectors initially showed fewer complications than standard longitudinal incisions, but differences disappeared when accounting for surgeon experience.",
+        "All three incision techniques (standard longitudinal, bikini, longitudinal with tissue protector) proved equally safe for direct anterior hip replacement."
+      ]
+    },
+    {
+      "pmid": "42205467",
+      "title": "Influence of Obesity on Mid-term Revision Rates and Mortality After Elective Total Hip Arthroplasty-Analysis From the German Arthroplasty Registry (EPRD).",
+      "authors": [
+        "L\u00fctzner J",
+        "Melsheimer O",
+        "Grimberg A",
+        "G\u00fcnther KP",
+        "L\u00fctzner C",
+        "Steinbr\u00fcck A"
+      ],
+      "authors_short": "L\u00fctzner J, Melsheimer O, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Obesity has been associated with increased revision rates in total hip arthroplasty (THA). There is ongoing discussion as to whether this justifies postponing or denying THA to these patients. This study was initiated to determine the influence of obesity on revision rates and mortality after primary elective THA in Germany. METHODS: The German Arthroplasty Registry (EPRD) provided data of 403,073 elective THAs with a valid body mass index (BMI) for analysis. Cumulative revision rates up to 7 years and 1-year mortality were calculated for BMI groups (nonobese, obesity grade 1, 2, and 3). RESULTS: Increased revision rates with rising BMI were found. The main differences in revision rates appeared within the first postoperative months. This was most distinctive for periprosthetic joint infections during the first year after surgery (0.7% in nonobese, 1.3% in grade 1, 2.1% in grade 2, and 4.2% grade 3 obesity). Similar effects were observed in cementless and cemented stems. Revision rates in morbidly obese patients were not influenced by hospital caseload. Age- and sex-standardized mortality was lower than expected in most groups, but also increasing with rising BMI. CONCLUSIONS: Obesity increased the risk of revision following primary elective THA, particularly for periprosthetic joint infection in morbidly obese patients. However, the absolute risks of this potentially life-improving surgery may be acceptable for the patients affected. The potential risks and benefits should be weighed up individually for each patient, taking into account their BMI and any other risk factors they have. LEVEL OF EVIDENCE: Level III, Therapeutic Study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42205467/",
+      "score": 74,
+      "score_reasoning": "Large registry analysis (403,073 THAs) from German Arthroplasty Registry examining obesity impact on revision rates with strong methodology and highly relevant clinical findings.",
+      "bullets": [
+        "Obesity increases revision rates after total hip arthroplasty, with morbidly obese patients having a 4.2% infection rate versus 0.7% in normal weight patients within one year.",
+        "The highest risk period for complications in obese patients occurs in the first few months after surgery, affecting both cemented and cementless implants equally.",
+        "Despite higher revision rates, absolute risks may still be acceptable for obese patients given the life-improving benefits of hip replacement surgery."
+      ]
+    },
+    {
+      "pmid": "42214703",
+      "title": "Trends in Reimbursement for One- Versus Two-Stage Exchange Arthroplasty for Periprosthetic Joint Infection.",
+      "authors": [
+        "Forlenza EM",
+        "Serino J",
+        "Hietpas K",
+        "Fehring KA",
+        "Della Valle CJ",
+        "Fehring TK"
+      ],
+      "authors_short": "Forlenza EM, Serino J, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Emerging evidence suggests similar efficacy of one- and two-stage revision for periprosthetic joint infection (PJI). However, there is concern that extended surgical time and lower reimbursement for one-stage exchange may disincentivize surgeons from performing this procedure. METHODS: Reimbursement data from 200 patients enrolled in a randomized controlled trial evaluating one- versus two-stage exchange for PJI between 2016 and 2022 was collected. The final cohort consisted of 98 patients undergoing one-stage exchange and 101 patients undergoing two-stage exchange. There was one patient excluded from the final analysis due to incomplete reimbursement data. Reimbursements were converted to 2022 inflation-adjusted dollars. The mean reimbursements for one- and two-stage exchanges were compared, and subgroup analyses based on procedure type (THA or TKA), insurance status (Medicare or private), and Current Procedural Terminology (CPT) codes were performed. A separate opportunity cost analysis was performed to determine the theoretical cumulative reimbursement surgeons could expect after treating 10 cases of PJI via either one- or two-stage exchange. RESULTS: The mean combined reimbursement for a two-stage exchange was significantly greater than for a one-stage exchange ($4,342.40 versus $3,382.40; P < 0.001). The CPT codes 27487/27488 and 27091/27134 when billed together consistently yielded the greatest reimbursement for one-stage exchange knee and hip procedures, respectively. Total operative time of a one-stage exchange was lower by 43 minutes, potentially allowing surgeons to perform more primary arthroplasties, equalizing total surgeon reimbursement. CONCLUSION: Reimbursement for a one-stage exchange is lagging behind a two-stage exchange; however, the efficiency of performing one procedure rather than two could lead to an equalization of total reimbursement. In an era of decreased surgical fees, a 28% discrepancy in reimbursement could conceivably discourage the usage of a potentially superior evidence-based treatment.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42214703/",
+      "score": 70,
+      "score_reasoning": "Retrospective study of THA in cerebral palsy patients (56 patients, 60 hips) with 2-8 year follow-up showing significant pain reduction and addressing an important specialized population.",
+      "bullets": [
+        "Two-stage revision for periprosthetic joint infection reimburses $960 more than one-stage revision ($4,342 vs $3,382).",
+        "One-stage revision takes 43 minutes less operative time, potentially allowing surgeons to perform additional primary cases.",
+        "The 28% reimbursement gap may discourage use of one-stage revision despite similar clinical outcomes to two-stage procedures."
+      ]
+    },
+    {
+      "pmid": "42200647",
+      "title": "Risk of Overdose and Adverse Events With Concomitant Opioids and Gabapentinoid Use After Total Joint Arthroplasty.",
+      "authors": [
+        "Domingo PT",
+        "Berger GK",
+        "Gray P",
+        "Chaput R",
+        "Navarro R",
+        "Singh A"
+      ],
+      "authors_short": "Domingo PT, Berger GK, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "PURPOSE: We evaluated the safety outcomes of opioids alone versus opioids plus low-dose gabapentinoids in patients na\u00efve to both opioids and gabapentinoids, after total joint arthroplasty (TJA) of the knee, hip, or shoulder. METHODS: This was a multicenter, population-based, retrospective cohort study based in a large, integrated health system. It included opioid-na\u00efve and gabapentinoid-na\u00efve patients who underwent TJA between 2018 and 2024. Patients were categorized into two groups: those dispensed opioids and low-dose gabapentinoids or those dispensed opioids alone postoperatively. The primary outcome was opioid-related overdose events. The secondary outcome was adverse events, including falls, fractures, neurologic/cognitive changes, sedation, and delirium. RESULTS: In total, 36,351 consecutive patients comprised the study cohort, including 29,009 (79.8%) in the opioids-alone group and 7,342 (20.2%) in the opioids plus gabapentinoids group. In total, there were 19 (0.05% total cohort) opioid-related overdose events. Fourteen of these (0.05%) were in the opioids-alone group, and five (0.07%) were in the opioids plus gabapentinoids group (P = 0.3). In addition, 233 patients (0.6%) experienced emergency department or hospital admission due to an adverse event, including 200 patients (0.69%) in the opioids-alone group and 33 patients (0.45%) in the opioids plus gabapentinoids group. No statistically significant difference in adverse event risk was identified between groups. CONCLUSION: Concurrent prescriptions for opioids and low-dose gabapentinoids after TJA were not associated with a statistically significant difference in risk of emergency department or hospital readmission due to opioid-related overdose or adverse events compared with opioids alone. However, the rarity of overdose events limits statistical power, and these findings should be interpreted cautiously.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42200647/",
+      "score": 69,
+      "score_reasoning": "Large database study evaluating GLP-1 RA vs non-users before TKA with good sample size and propensity matching, addressing timely clinical question about these medications.",
+      "bullets": [
+        "Adding low-dose gabapentinoids to opioids after total joint arthroplasty did not increase overdose risk compared to opioids alone in over 36,000 patients.",
+        "Opioid overdose events were extremely rare in both groups (0.05% opioids alone vs 0.07% combination), affecting only 19 total patients.",
+        "Emergency department visits and hospital readmissions for adverse events occurred in less than 1% of patients regardless of gabapentinoid use."
+      ]
+    },
+    {
+      "pmid": "42220245",
+      "title": "Cost-effectiveness of Adding Remplissage to Bankart Repair for On-Track Hill-Sachs Lesions: A Markov Decision Analysis.",
+      "authors": [
+        "Frederickson M",
+        "Kou M",
+        "Cullinane D",
+        "Menendez ME"
+      ],
+      "authors_short": "Frederickson M, Kou M, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Remplissage decreases recurrence after arthroscopic Bankart repair for anterior shoulder instability but has historically been reserved for off-track Hill-Sachs lesions. The addition of remplissage for patients with on-track lesions remains controversial because of concerns about added operative costs and potential loss of range of motion. The cost-effectiveness of remplissage in patients with on-track Hill-Sachs lesions has not been established. PURPOSE: To evaluate the cost-effectiveness of arthroscopic Bankart repair with remplissage versus isolated Bankart repair in patients with on-track Hill-Sachs lesions. STUDY DESIGN: Economic decision analysis; Level of evidence, 3. METHODS: A Markov decision model simulated a 10-year period from a societal perspective. There were 2 treatment strategies compared: isolated arthroscopic Bankart repair (IBR) and arthroscopic Bankart repair with remplissage (BR+R). Health states included stable shoulder, recurrent instability, stable shoulder after revision, and persistent instability. Transition probabilities were derived from random-effects meta-analysis of recurrence rates at a median 34.7-month follow-up. Costs (in 2025 United States dollars) included direct medical costs and indirect costs related to productivity loss. Costs and quality-adjusted life-years (QALYs) were discounted at 3% annually. Outcomes included total costs, QALYs, net monetary benefit (NMB), and incremental cost-effectiveness ratios (ICERs). Probabilistic sensitivity analysis (PSA) with Monte Carlo microsimulation was conducted with 1000 simulated patients and 10,000 PSA iterations. One-way sensitivity analysis evaluated the influence of individual parameters. Cost-effectiveness acceptability curves were generated at willingness-to-pay (WTP) thresholds of $50,000/QALY and $100,000/QALY. RESULTS: Over a 10-year time horizon, BR+R yielded 8.59 QALYs at a cost of $24,980, whereas IBR yielded 8.18 QALYs at a cost of $23,333. BR+R was cost-effective in 99.89% and 99.99% of simulations at WTP thresholds of $50,000/QALY and $100,000/QALY, respectively. One-way sensitivity analysis showed that the model was most sensitive to recurrence probabilities. CONCLUSION: For patients with on-track Hill-Sachs lesions and subcritical glenoid bone loss, Bankart repair with remplissage was cost-effective compared with isolated Bankart repair, driven by reductions in recurrence and revision surgery. These findings support the consideration of remplissage in patients with on-track lesions, particularly those at a higher risk for recurrence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42220245/",
+      "score": 67,
+      "score_reasoning": "Economic decision analysis using Markov modeling comparing Bankart repair with/without remplissage, providing valuable cost-effectiveness data for shoulder surgeons.",
+      "bullets": [
+        "Adding remplissage to Bankart repair for on-track Hill-Sachs lesions reduces recurrence rates and revision surgery needs over 10 years.",
+        "Bankart repair with remplissage costs $1,647 more initially but provides better quality of life and fewer repeat operations than isolated Bankart repair.",
+        "The combined procedure is cost-effective in over 99% of scenarios, supporting its use in patients with on-track lesions at higher recurrence risk."
+      ]
+    },
+    {
+      "pmid": "42212766",
+      "title": "Comparison of Isolated ACL and Combined ACL/MCL Injuries in Professional Soccer and Rugby Players: Return to Play and Career Longevity Outcomes.",
+      "authors": [
+        "Abdul W",
+        "Jones M",
+        "Haslhofer D",
+        "Motesharei A",
+        "Ball S",
+        "Williams A"
+      ],
+      "authors_short": "Abdul W, Jones M, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Combined injury of the anterior cruciate ligament (ACL) and medial collateral ligament (MCL) is the most common combined knee ligament injury. However, there is only limited evidence, and no clear consensus, on the optimum management of these injuries. PURPOSE: To determine the return-to-play (RTP) rate and time, career longevity, and rerupture rates of elite soccer and rugby players after combined ACL+MCL injuries and to compare RTP rate, career longevity, and rerupture rates in players with ACL+MCL injury versus those who have isolated ACL injuries. STUDY DESIGN: Case series; Level of evidence, 4. METHODS: A consecutive series of professional soccer and rugby players who underwent primary ACL reconstruction (ACLR), with and without MCL injury, and treatment between 2015 and 2022 were retrospectively reviewed. Indications for MCL surgery were medial opening on valgus stress in full extension and/or grade II/III valgus laxity at 30\u00b0, positive dial test for anteromedial rotatory instability (AMRI), a positive Slocum test in external rotation, or a \"Stener-like\" lesion or intra-articular MCL incarceration. RTP was defined as first competitive match appearance. Data were extracted from clinical notes, contact with teams' medical staff, and publicly available databases. RESULTS: A total of 230 athletes (238 knees) were included; 97 (40.8%) had ACLR only, 97 (40.8%) had ACLR + nonoperative MCL management, and 44 (18.5%) had ACLR + MCL reconstruction. Of these, 135 (56.7%) were soccer and 103 (43.3%) were rugby players. Mean follow-up was 5.8 \u00b1 2.4 years with a minimum of 3.4 years. Overall RTP rate was 95.4% (96.3% soccer, 94.2% rugby). This was similar in the ACLR-only group, ACLR + nonoperative MCL group, and ACLR + MCL reconstruction group (P = .06). Mean RTP time was 12.0 \u00b1 4.4 months; 11.8 months for ACLR only, 12.2 months for ACLR + nonoperative MCL, and 11.9 months for ACLR + MCL reconstruction (P = .88). Overall, 2- and 5-year still-playing rates were 79.8% and 67.7%, respectively, with no difference between subgroups at 2 (P = .55) or 5 years (P = .53). CONCLUSION: RTP times and career longevity after ACLR with and without MCL injury in professional soccer and rugby players are similar.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42212766/",
+      "score": 66,
+      "score_reasoning": "Large cohort study (90 matched patients) comparing ACL+MCL vs isolated ACL injuries in professional athletes with excellent clinical relevance and long-term career impact data.",
+      "bullets": [
+        "Professional soccer and rugby players with combined ACL and MCL injuries return to play at similar rates and times as those with isolated ACL injuries (95% return rate, 12 months average).",
+        "Whether the MCL is treated surgically or non-surgically does not affect return to play time, career longevity, or overall outcomes in elite athletes.",
+        "Career survival rates at 2 and 5 years post-injury are identical between isolated ACL and combined ACL/MCL injuries in professional players (80% and 68% respectively)."
+      ]
+    },
+    {
+      "pmid": "42200576",
+      "title": "Single Antibiotic Use with Ceftriaxone for Prophylaxis of All Open Fractures.",
+      "authors": [
+        "Koulopoulos MW",
+        "Buseck A",
+        "Lynch CP",
+        "Lutz K",
+        "Brand O",
+        "Sommers E",
+        "Pompo I",
+        "Laychur A",
+        "Vaughn J",
+        "Mann K",
+        "Sullivan MP"
+      ],
+      "authors_short": "Koulopoulos MW, Buseck A, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To compare outcomes for open fractures treated with a prophylactic antibiotic protocol using ceftriaxone for all open fractures, referred to as group \"CTX\", versus a previous protocol utilizing cefazolin for Gustilo I/II fractures and cefazolin plus gentamicin or ceftriaxone monotherapy for Gustilo type III fractures only, referred to as group \"Classic\". METHODS: Design: Retrospective cohort study. SETTING: Single level I trauma center. PATIENT SELECTION CRITERIA: This study included adult patients undergoing surgery for an open fracture from December 2016 to December 2022 with a minimum follow-up of 3 months.Outcome Measures and Comparisons: The primary outcome of deep infection and secondary outcomes of superficial infection rates, nonunion rate, and time to antibiotic administration were compared between overall groups and subgroups based on Gustilo type. RESULTS: A total of 521 patients were included. Baseline characteristics were similar between groups, with no differences in age (CTX 41.1\u00b119.7 vs Classic 39.5\u00b119.3), sex (68.5% vs 72.0% male), or comorbidities (p>0.05). There were no differences in deep infection (7.8% vs 12.7%, p=0.095), superficial infection (7.0% vs 4.7%, p=0.427), or nonunion (10.3% vs 7.9%, p=0.500) between CTX and Classic groups for all Gustilo types. Similarly for only type I/II fractures, rates of deep infection (3.5% vs 8.9%, p=0.145), superficial infection (2.9% vs 3.6%, p=0.683), and nonunion (3.6% vs 0.0%, p=0.340) did not differ. Non-inferiority of CTX for deep infection was demonstrated for all Gustilo types (intergroup difference -0.048, p=0.027) and type I/II fractures (-0.054, p=0.035). The CTX protocol was associated with shorter time to antibiotic administration (63.9\u00b1116.9 vs 114.1\u00b1199.0 minutes, p=0.002). CONCLUSIONS: The use of ceftriaxone for prophylaxis of all open fractures, regardless of Gustilo type, was associated with non-inferior outcomes in terms of deep infection as well as shorter time to antibiotic administration, compared to a regimen where type I/II fractures received cefazolin. No significant differences in rates of superficial infection or nonunion were noted following transition to CTX protocol. The study was notably under-powered to detect a difference in the primary outcome of deep infection. Prophylaxis of all open fractures with ceftriaxone may be a safe and effective method of standardizing and expediting care for orthopedic trauma patients. LEVEL OF EVIDENCE: Therapeutic Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42200576/",
+      "score": 61,
+      "score_reasoning": "Single antibiotic protocol study for open fractures (521 patients) comparing ceftriaxone vs traditional protocols with good clinical relevance for trauma surgeons.",
+      "bullets": [
+        "Ceftriaxone for all open fractures had similar infection and nonunion rates compared to the standard cefazolin protocol for Gustilo I/II fractures.",
+        "Using ceftriaxone for all open fractures reduced time to antibiotic administration by about 50 minutes compared to the multi-drug protocol.",
+        "Single antibiotic prophylaxis with ceftriaxone may simplify care for all open fractures regardless of Gustilo classification without compromising outcomes."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-06-01T08:56:07.015776-07:00"
+}
