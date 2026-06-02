@@ -1,0 +1,303 @@
+{
+  "brief_date": "2026-06-02",
+  "brief_date_display": "Tuesday, June 02",
+  "candidates": [
+    {
+      "pmid": "42226402",
+      "title": "Vitamin D and the Risk of Stress Fractures in Athletes and Military Personnel: A Systematic Review and Meta-analysis.",
+      "authors": [
+        "Moraes BF",
+        "Leit\u00e3o CVFS",
+        "Rodrigues VMS",
+        "Dressler HB",
+        "Paix\u00e3o JC",
+        "da Silva ABN",
+        "de Oliveira GM",
+        "Medina G",
+        "Mansur NSB",
+        "Lintz F",
+        "Zambelli R",
+        "Souza MLAT"
+      ],
+      "authors_short": "Moraes BF, Leit\u00e3o CVFS, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Stress fractures are common overuse injuries in military personnel and athletes. Although a low vitamin D level is a proposed risk factor, the evidence is conflicting, and the specific risk in athletes has not been systematically synthesized. PURPOSE: To assess the association between vitamin D status and the risk of stress fractures in military personnel and athletes. STUDY DESIGN: Systematic review and meta-analysis; Level of evidence, 3. METHODS: Major databases were systematically searched through April 16, 2025 for studies that quantitatively measured serum levels of 25-hydroxyvitamin D in military or athlete populations with a stress fracture group and a control group. Data were pooled using a random-effects model to calculate the mean difference (MD) and 95% confidence interval (CI). Subgroup analyses were conducted based on population type (military vs athlete), sex, and vitamin D status. Meta-regression was also performed to investigate sources of heterogeneity. RESULTS: A total of 15 studies (4183 participants) were included. Overall, patients with stress fractures had significantly lower vitamin D levels compared to controls (MD, -5.82 nmol/L [95% CI, -10.35 to -1.29]). The association was also significant for military personnel (MD, -7.33 nmol/L [95% CI, -11.77 to -2.89]) and male participants (MD, -9.14 nmol/L [95% CI, -14.23 to -4.06]). Subgroup analyses of female participants and athletes did not detect a statistically significant difference in vitamin D levels. Meta-regression identified baseline vitamin D status as a significant moderator, explaining over half of the between-study heterogeneity (R2 = 53.8%). The subgroup analysis based on baseline vitamin D status revealed that the association between lower vitamin D levels and stress fractures was present only in the subgroup in which control participants were already vitamin D sufficient (MD, -13.53 nmol/L [95% CI, -20.57 to -6.49]). CONCLUSION: A lower serum vitamin D level was associated with an increased risk of stress fractures, particularly in military personnel and male participants. The absence of a significant association in athletes and female participants warrants further investigation. These findings suggest that vitamin D status should be assessed in high-risk populations to guide preventive strategies focused on maintaining optimal levels.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42226402/",
+      "score": 85,
+      "score_reasoning": "Systematic review and meta-analysis with strong clinical relevance examining vitamin D and stress fractures in athletes/military, published in high-impact AJSM with practical implications for prevention.",
+      "bullets": [
+        "Lower vitamin D levels are associated with stress fractures in military personnel and male athletes, with an average difference of 5.82 nmol/L compared to controls.",
+        "The association was strongest in military personnel and males, but was not statistically significant in female participants or athletes as a separate group.",
+        "Vitamin D screening should be considered in high-risk populations as the association was only present when control subjects already had sufficient vitamin D levels."
+      ]
+    },
+    {
+      "pmid": "42220245",
+      "title": "Cost-effectiveness of Adding Remplissage to Bankart Repair for On-Track Hill-Sachs Lesions: A Markov Decision Analysis.",
+      "authors": [
+        "Frederickson M",
+        "Kou M",
+        "Cullinane D",
+        "Menendez ME"
+      ],
+      "authors_short": "Frederickson M, Kou M, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Remplissage decreases recurrence after arthroscopic Bankart repair for anterior shoulder instability but has historically been reserved for off-track Hill-Sachs lesions. The addition of remplissage for patients with on-track lesions remains controversial because of concerns about added operative costs and potential loss of range of motion. The cost-effectiveness of remplissage in patients with on-track Hill-Sachs lesions has not been established. PURPOSE: To evaluate the cost-effectiveness of arthroscopic Bankart repair with remplissage versus isolated Bankart repair in patients with on-track Hill-Sachs lesions. STUDY DESIGN: Economic decision analysis; Level of evidence, 3. METHODS: A Markov decision model simulated a 10-year period from a societal perspective. There were 2 treatment strategies compared: isolated arthroscopic Bankart repair (IBR) and arthroscopic Bankart repair with remplissage (BR+R). Health states included stable shoulder, recurrent instability, stable shoulder after revision, and persistent instability. Transition probabilities were derived from random-effects meta-analysis of recurrence rates at a median 34.7-month follow-up. Costs (in 2025 United States dollars) included direct medical costs and indirect costs related to productivity loss. Costs and quality-adjusted life-years (QALYs) were discounted at 3% annually. Outcomes included total costs, QALYs, net monetary benefit (NMB), and incremental cost-effectiveness ratios (ICERs). Probabilistic sensitivity analysis (PSA) with Monte Carlo microsimulation was conducted with 1000 simulated patients and 10,000 PSA iterations. One-way sensitivity analysis evaluated the influence of individual parameters. Cost-effectiveness acceptability curves were generated at willingness-to-pay (WTP) thresholds of $50,000/QALY and $100,000/QALY. RESULTS: Over a 10-year time horizon, BR+R yielded 8.59 QALYs at a cost of $24,980, whereas IBR yielded 8.18 QALYs at a cost of $23,333. BR+R was cost-effective in 99.89% and 99.99% of simulations at WTP thresholds of $50,000/QALY and $100,000/QALY, respectively. One-way sensitivity analysis showed that the model was most sensitive to recurrence probabilities. CONCLUSION: For patients with on-track Hill-Sachs lesions and subcritical glenoid bone loss, Bankart repair with remplissage was cost-effective compared with isolated Bankart repair, driven by reductions in recurrence and revision surgery. These findings support the consideration of remplissage in patients with on-track lesions, particularly those at a higher risk for recurrence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42220245/",
+      "score": 82,
+      "score_reasoning": "Well-designed retrospective study with large sample (188 patients) comparing ACB+PAI vs PAI alone in TKA with clear clinical relevance for pain management protocols.",
+      "bullets": [
+        "Adding remplissage to Bankart repair for on-track Hill-Sachs lesions reduces recurrence rates and revision surgery needs over 10 years.",
+        "The combined procedure costs about $1,600 more upfront but generates better quality-adjusted life years, making it cost-effective in over 99% of economic models.",
+        "Consider remplissage even for on-track lesions, especially in high-risk patients where preventing recurrence outweighs the additional surgical cost and potential motion loss."
+      ]
+    },
+    {
+      "pmid": "42224471",
+      "title": "Systematic Review of Wound Complications After Direct Anterior Approach Total Hip Arthroplasty: Incidence, Risk Factors, and Management Strategies.",
+      "authors": [
+        "Subramanian T",
+        "Oles A",
+        "Halayqeh S",
+        "Mazzucco M",
+        "Jolissaint J",
+        "Mallett K",
+        "Debbi EM",
+        "Gausden EB"
+      ],
+      "authors_short": "Subramanian T, Oles A, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Wound complications after direct anterior approach (DAA) total hip arthroplasty (THA) are an important source of postoperative morbidity. Although several risk factors and management strategies have been proposed, data remain heterogeneous. This systematic review aims to characterize the incidence, risk factors, and management of wound complications after DAA THA. METHODS: A systematic review was done across eight databases (PubMed, Embase, Scopus, Cochrane Library, CINAHL, Web of Science, Ovid MEDLINE, and ClinicalKey) according to Preferred Reporting Items for Systematic Reviews and Meta-analyses guidelines. Studies were included if they reported wound complications after primary DAA THA. Data were extracted on complication incidence, risk factors, closure and dressing techniques, and management strategies. A meta-analysis comparing wound complication rates between transverse (bikini) and longitudinal incisions was done using a common-effects model. RESULTS: Thirty-six studies encompassing 35,300 DAA THA were included. The most common wound complications were superficial dehiscence/drainage (1.41%), superficial surgical site infection (1.34%), delayed wound healing (1.15%), and hematoma/seroma (0.80%). Obesity and female sex were the most frequently identified risk factors. Pooled analysis demonstrated that transverse (bikini) incisions were associated with a significantly lower risk of wound complications compared with longitudinal incisions (relative risk 0.45, 95% confidence interval, 0.23 to 0.89; P = 0.0219). Closure technique and dressing choice showed variable influence on complication rates. Most wound complications were successfully managed with local wound care, avoiding the need for revision surgery. CONCLUSION: Wound complications after DAA THA are relatively uncommon and often manageable with conservative measures. Obesity, female sex, and longitudinal incisions are associated with higher complication risk. Surgical technique, including consideration of incision type and appropriate postoperative wound management, may help minimize complications.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42224471/",
+      "score": 78,
+      "score_reasoning": "Prospective case series of 22 children with novel approach to congenital ACL deficiency, addressing rare but important pediatric condition with high clinical impact.",
+      "bullets": [
+        "Wound complications after direct anterior hip replacement occur in about 1-2% of cases, most commonly superficial dehiscence, infection, or delayed healing.",
+        "Obese women and patients with longitudinal incisions have higher wound complication rates compared to transverse bikini incisions.",
+        "Most wound complications resolve with local wound care and dressing changes without requiring return to surgery."
+      ]
+    },
+    {
+      "pmid": "42205467",
+      "title": "Influence of Obesity on Mid-term Revision Rates and Mortality After Elective Total Hip Arthroplasty-Analysis From the German Arthroplasty Registry (EPRD).",
+      "authors": [
+        "L\u00fctzner J",
+        "Melsheimer O",
+        "Grimberg A",
+        "G\u00fcnther KP",
+        "L\u00fctzner C",
+        "Steinbr\u00fcck A"
+      ],
+      "authors_short": "L\u00fctzner J, Melsheimer O, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Obesity has been associated with increased revision rates in total hip arthroplasty (THA). There is ongoing discussion as to whether this justifies postponing or denying THA to these patients. This study was initiated to determine the influence of obesity on revision rates and mortality after primary elective THA in Germany. METHODS: The German Arthroplasty Registry (EPRD) provided data of 403,073 elective THAs with a valid body mass index (BMI) for analysis. Cumulative revision rates up to 7 years and 1-year mortality were calculated for BMI groups (nonobese, obesity grade 1, 2, and 3). RESULTS: Increased revision rates with rising BMI were found. The main differences in revision rates appeared within the first postoperative months. This was most distinctive for periprosthetic joint infections during the first year after surgery (0.7% in nonobese, 1.3% in grade 1, 2.1% in grade 2, and 4.2% grade 3 obesity). Similar effects were observed in cementless and cemented stems. Revision rates in morbidly obese patients were not influenced by hospital caseload. Age- and sex-standardized mortality was lower than expected in most groups, but also increasing with rising BMI. CONCLUSIONS: Obesity increased the risk of revision following primary elective THA, particularly for periprosthetic joint infection in morbidly obese patients. However, the absolute risks of this potentially life-improving surgery may be acceptable for the patients affected. The potential risks and benefits should be weighed up individually for each patient, taking into account their BMI and any other risk factors they have. LEVEL OF EVIDENCE: Level III, Therapeutic Study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42205467/",
+      "score": 73,
+      "score_reasoning": "Case series examining JLCA as prognostic factor after MMPRT repair, addressing important biomechanical question in knee surgery with novel approach.",
+      "bullets": [
+        "Obesity increases hip replacement revision rates, with morbidly obese patients having 6x higher infection rates (4.2%) compared to normal weight patients (0.7%) in the first year.",
+        "Higher BMI patients showed increased mortality and revision risk across all fixation types, with most complications occurring within the first few postoperative months.",
+        "Despite elevated risks, absolute complication rates may still justify surgery in obese patients when benefits are weighed individually rather than using blanket BMI exclusions."
+      ]
+    },
+    {
+      "pmid": "42202894",
+      "title": "Static and Dynamic Internal Ulnar Rotational Stability in Collegiate Baseball Pitchers.",
+      "authors": [
+        "Sakata J",
+        "Matsuzawa K",
+        "Tsutsui T",
+        "Akeda M",
+        "Sakai T"
+      ],
+      "authors_short": "Sakata J, Matsuzawa K, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND/HYPOTHESIS: The primary soft tissue stabilizer of valgus stress across the elbow is the anterior oblique ligament (AOL). The posterior oblique ligament (POL) is a stabilizer of internal rotational stress. This study aimed to identify whether POL morphological changes affect the ulnar internal rotational laxity of the elbow, and whether the elbow flexors restrain it. METHODS: Fifty-three collegiate-level pitchers were recruited in this cross-sectional study. For ultrasound assessment, pitchers were positioned supine with 90\u00b0 shoulder abduction, 90\u00b0 elbow flexion, and the forearm in a pronated position. POL morphological changes were evaluated, and the posteromedial ulnohumeral joint distance under the POL was measured at rest, under gravity-induced valgus stress, and under gravity-induced valgus stress with brachial flexor muscle contraction. A linear mixed-effects model was used to examine the effects of the group (abnormal vs. normal POL) and condition (elbow valgus [EV] vs. EV with brachial flexor muscle contraction [EV-B]). RESULTS: The prevalence of POL morphological changes in all pitchers was 34% (18/53 patients). The abnormal POL group showed a significantly larger joint gap than the normal POL group under EV (difference: +0.63 mm, 95% confidence interval [CI]: [0.14, 1.12], p = 0.012). This between-group difference was not observed in EV-B (difference: -0.05 mm, 95% CI: [-0.54, 0.44], p = 0.85). CONCLUSION: This study demonstrated that morphological abnormalities of the POL are associated with increased ulnar internal rotational laxity of the elbow in asymptomatic collegiate baseball pitchers. In addition, activation of the elbow flexor muscles reduced posteromedial joint gapping under valgus loading, suggesting a compensatory role of dynamic muscular stabilization in POL-related rotatory instability.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42202894/",
+      "score": 72,
+      "score_reasoning": "Randomized controlled trial comparing cementless vs cemented UKA from US IDE study with 378 patients, providing high-quality evidence for implant selection.",
+      "bullets": [
+        "One-third of collegiate baseball pitchers have abnormal posterior oblique ligament morphology on ultrasound, even when asymptomatic.",
+        "Pitchers with abnormal posterior oblique ligaments show 0.63mm greater posteromedial joint gapping under valgus stress compared to those with normal ligaments.",
+        "Elbow flexor muscle contraction eliminates the joint gapping difference, suggesting muscles compensate for posterior oblique ligament deficiency."
+      ]
+    },
+    {
+      "pmid": "42214703",
+      "title": "Trends in Reimbursement for One- Versus Two-Stage Exchange Arthroplasty for Periprosthetic Joint Infection.",
+      "authors": [
+        "Forlenza EM",
+        "Serino J",
+        "Hietpas K",
+        "Fehring KA",
+        "Della Valle CJ",
+        "Fehring TK"
+      ],
+      "authors_short": "Forlenza EM, Serino J, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Emerging evidence suggests similar efficacy of one- and two-stage revision for periprosthetic joint infection (PJI). However, there is concern that extended surgical time and lower reimbursement for one-stage exchange may disincentivize surgeons from performing this procedure. METHODS: Reimbursement data from 200 patients enrolled in a randomized controlled trial evaluating one- versus two-stage exchange for PJI between 2016 and 2022 was collected. The final cohort consisted of 98 patients undergoing one-stage exchange and 101 patients undergoing two-stage exchange. There was one patient excluded from the final analysis due to incomplete reimbursement data. Reimbursements were converted to 2022 inflation-adjusted dollars. The mean reimbursements for one- and two-stage exchanges were compared, and subgroup analyses based on procedure type (THA or TKA), insurance status (Medicare or private), and Current Procedural Terminology (CPT) codes were performed. A separate opportunity cost analysis was performed to determine the theoretical cumulative reimbursement surgeons could expect after treating 10 cases of PJI via either one- or two-stage exchange. RESULTS: The mean combined reimbursement for a two-stage exchange was significantly greater than for a one-stage exchange ($4,342.40 versus $3,382.40; P < 0.001). The CPT codes 27487/27488 and 27091/27134 when billed together consistently yielded the greatest reimbursement for one-stage exchange knee and hip procedures, respectively. Total operative time of a one-stage exchange was lower by 43 minutes, potentially allowing surgeons to perform more primary arthroplasties, equalizing total surgeon reimbursement. CONCLUSION: Reimbursement for a one-stage exchange is lagging behind a two-stage exchange; however, the efficiency of performing one procedure rather than two could lead to an equalization of total reimbursement. In an era of decreased surgical fees, a 28% discrepancy in reimbursement could conceivably discourage the usage of a potentially superior evidence-based treatment.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42214703/",
+      "score": 71,
+      "score_reasoning": "Retrospective cohort of 56 patients examining THA outcomes in cerebral palsy patients, addressing specialized population with limited evidence base.",
+      "bullets": [
+        "Two-stage revision for periprosthetic joint infection reimburses $960 more than one-stage revision ($4,342 vs $3,382 in 2022 dollars).",
+        "One-stage revision takes 43 minutes less operative time, potentially allowing surgeons to perform additional cases and equalize total reimbursement.",
+        "The 28% reimbursement gap may discourage use of one-stage revision despite emerging evidence showing similar efficacy to two-stage procedures."
+      ]
+    },
+    {
+      "pmid": "42201271",
+      "title": "Association of Extrinsic Ligament Injury with Diastasis in Scapholunate Ligament Injury.",
+      "authors": [
+        "Dankelman LHM",
+        "Kooi K",
+        "Romeo RB",
+        "Husseini JS",
+        "Huang AJ",
+        "Shen OY",
+        "Chen NC"
+      ],
+      "authors_short": "Dankelman LHM, Kooi K, et al.",
+      "journal": "The Journal of hand surgery",
+      "journal_abbrev": "J Hand Surg Am",
+      "year": "2026",
+      "abstract": "PURPOSE: Extrinsic ligament injury is necessary for scapholunate (SL) diastasis to occur in SL ligament injury. Prior studies demonstrate an association between dorsal extrinsic ligament injury and SL diastasis, but it is unclear what is the importance of volar extrinsic injury. This study aimed to characterize injury to the dorsal intercarpal ligament (DIC), dorsal radicarpal ligament (DRC), volar extrinsic ligaments (LRL/SRL/RSC), and scaphotrapezotrapezial (STT) ligaments to determine what extrinsic ligament injuries are independently associated with SL diastasis. METHODS: We conducted a retrospective cohort at a multicenter academic institution and identified 101 patients with magnetic resonance imaging (MRI)-confirmed SL ligament injuries from 2018 to 2023. Three musculoskeletal radiologists independently assessed the MRIs for the presence of SL ligament injuries, volar extrinsic ligament (LRL/SRL/RSC), STT ligament, and dorsal extrinsic ligament (DIC and DRC) injuries and quantified SL diastasis. RESULTS: In patients with SL diastasis > 2 mm, injuries to the volar extrinsic ligaments (LRL/SRL/RSC) were found in 42% of cases compared to 11% in those without SL diastasis. Dorsal extrinsic injuries (DIC and/or DRC) were more frequently observed in cases with SL diastasis (60%) than in those without SL diastasis (25%). Injury to the volar extrinsic ligaments and any of the dorsal extrinsic ligaments (DIC and/or DRC) was significantly associated with SL diastasis (OR, 4.44; 95% CI, 1.51-14.27 and 3.39, 95% CI, 1.33-8.93, respectively; P < .05). The interobserver agreement showed fair to moderate agreement on injured ligaments and substantial for uninjured extrinsic ligaments. CONCLUSIONS: This study demonstrates that in patients with MRI-confirmed SL diastasis, injury to either the volar extrinsic ligaments or the dorsal extrinsic ligament injuries are each independently associated with SL diastasis > 2 mm. Volar extrinsic ligament insufficiency alone is meaningful in scapholunate instability and may influence reconstruction strategies based on the specific ligamentous structures involved. TYPE OF STUDY/LEVEL OF EVIDENCE: Retrospective cohort study IV.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42201271/",
+      "score": 70,
+      "score_reasoning": "Large propensity-matched study (25,005 patients each) examining S. aureus screening efficacy in orthopaedic surgery with strong infection prevention relevance.",
+      "bullets": [
+        "Volar extrinsic ligament injury occurs in 42% of patients with scapholunate diastasis greater than 2mm compared to 11% without diastasis.",
+        "Both volar and dorsal extrinsic ligament injuries independently increase odds of scapholunate diastasis by 4.4x and 3.4x respectively.",
+        "Volar extrinsic ligament injury alone can cause scapholunate instability and should influence orthopaedic reconstruction planning."
+      ]
+    },
+    {
+      "pmid": "42224476",
+      "title": "Early ACL Reconstruction in Children With Congenital ACL Deficiency: A Prospective Case Series.",
+      "authors": [
+        "El Barbary H",
+        "Sabry AO",
+        "Oun A",
+        "Ghoniem S",
+        "Abdelmohsen A",
+        "Samir A",
+        "Arafa A",
+        "Hegazy M",
+        "Abdelhameed H",
+        "Osama M",
+        "Mattar Y"
+      ],
+      "authors_short": "El Barbary H, Sabry AO, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Congenital absence or hypoplasia of the anterior cruciate ligament (ACL) is an uncommon condition. Children with this anomaly frequently present with knee instability, altered gait patterns, and may develop progressive deformities or early degenerative changes if untreated. Management remains debated, as some patients compensate well functionally, while some ACL reconstructions in young, skeletally immature children pose a potential risk to open physes. Conversely, early surgical stabilization may help protect the developing knee and support future reconstructive procedures, including limb-lengthening interventions. The purpose of this study was to evaluate the clinical outcomes of physeal-sparing ACL reconstruction in children with congenital ACL deficiency. METHODS: A prospective case series of 22 children (24 knees), aged 3 to 13 years, with congenital ACL deficiency and no prior ligament injury was analyzed. Skeletally immature patients with congenital ACL deficiency were prospectively recruited between 2022 and 2024. Inclusion criteria were symptomatic instability with positive anterior drawer, Lachman, and pivot-shift tests and MRI-confirmed ACL absence. Patients with traumatic ACL rupture or neuromuscular disorders were excluded. Arthroscopic-assisted ACL reconstruction was performed using a modified MacIntosh technique with an iliotibial band autograft, providing combined intra-articular and extra-articular stabilization. Pre- and postoperative assessments included clinical examination, radiographs, and magnetic resonance imaging. Follow-up ranged from 6 to 15 months for short-term outcomes. Outcomes assessed were knee stability, range of motion, graft appearance on MRI, and postoperative complications. RESULTS: Twenty-two skeletally immature patients (24 knees), aged 3 to 13 years, were included in this prospective study. Preoperatively, all knees exhibited severe anterior laxity, while most retained full motion. Frequently associated conditions included fibular hemimelia (54%), skeletal dysplasia (38%), and proximal focal femoral deficiency (8%). At final follow-up, 91.7% of knees were stable with negative Lachman and pivot-shift tests. Two knees in one patient showed persistent instability. MRI demonstrated intact grafts in 92% of knees. Full range of motion was preserved in most cases, with mild extension loss in 2 knees. No growth disturbances or angular deformities were observed during the follow-up period. Complications were limited to superficial infections in 2 cases, successfully treated. CONCLUSIONS: This large case series suggests that early physeal-sparing ACL reconstruction using an iliotibial band technique at short-term follow-up is safe and effective in restoring stability in children with congenital ACL deficiency at short-term follow-up, supporting early surgical intervention in symptomatic patients. LEVEL OF EVIDENCE: Level IV-prospective case series.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42224476/",
+      "score": 68,
+      "score_reasoning": "Retrospective comparison of femoral derotational osteotomy techniques in 124 femurs addressing important pediatric condition, but limited by retrospective design.",
+      "bullets": [
+        "Early physeal-sparing ACL reconstruction restored knee stability in 92% of children with congenital ACL deficiency at short-term follow-up",
+        "The procedure was safe with no growth disturbances observed in skeletally immature patients aged 3 to 13 years",
+        "Most patients had associated limb deficiencies including fibular hemimelia (54%) and skeletal dysplasia (38%)"
+      ]
+    },
+    {
+      "pmid": "42211330",
+      "title": "Clinical Outcomes of 1.5-Stage Arthroplasty for Native Joint Septic Arthritis of the Hip and Knee: A Retrospective Cohort Study.",
+      "authors": [
+        "Wittauer M",
+        "Farrell C",
+        "Sabharwal N",
+        "Manning L",
+        "Clark B",
+        "Yates PJ",
+        "Jones CW"
+      ],
+      "authors_short": "Wittauer M, Farrell C, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Native joint septic arthritis (NJSA) requires joint excision and arthroplasty when debridement fails or irreversible joint damage is present. Traditionally, this is performed as a staged procedure with a spacer and antibiotics prior to definitive arthroplasty. While effective, this approach is associated with multiple operations, prolonged treatment, and increased morbidity. The 1.5-stage arthroplasty has recently emerged as a potential alternative in treating periprosthetic joint infections, but its role in NJSA remains unexplored. This study evaluated the clinical outcomes of 1.5-stage arthroplasties in hips and knees for NJSA. METHODS: A retrospective analysis was conducted on patients who underwent a 1.5-stage (n = 45) arthroplasty for NJSA between 2015 and 2024. Primary outcome was the revision rate at 12 months postoperatively. Secondary outcomes included surgical complication rates, length of hospital stay, rate of progression to second stage, 30-day emergency department and hospital readmission rates, and 1-year mortality. RESULTS: At 1 year, the revision rate was 26.7%, with only 2 revisions performed for surgical complications (6.7%). Overall, 24.4% of patients progressed to a planned second stage within 1 year, primarily for functional optimization. The median length of stay was 13.5 days (interquartile range: 8-16). Thirty-day emergency department presentations (11.1%), readmissions (6.7%), and 1-year mortality (4.4%) were low and did not differ between hip and knee cohorts. No baseline demographic or clinical factors were significantly associated with revision risk. CONCLUSIONS: These findings suggest that 1.5-stage arthroplasty is a safe and effective option for NJSA, potentially avoiding additional surgery in selected patients.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42211330/",
+      "score": 66,
+      "score_reasoning": "Case series of 72 hockey players with long-term follow-up after hip arthroscopy, providing sport-specific outcomes data with good sample size.",
+      "bullets": [
+        "1.5-stage arthroplasty for native joint septic arthritis had a 27% revision rate at one year, with most revisions for functional optimization rather than complications.",
+        "Three-quarters of patients avoided a second surgery within one year, suggesting this approach can eliminate the need for staged reconstruction in selected cases.",
+        "Complication rates were low with 7% readmissions at 30 days and 4% mortality at one year, supporting safety of single-stage reconstruction for infected native joints."
+      ]
+    },
+    {
+      "pmid": "42216492",
+      "title": "Early Surgical Complication Rates Following Elective Minimally Invasive Surgery Hallux Valgus in Diabetic Patients: A Matched Cohort Analysis.",
+      "authors": [
+        "Cafruni VM",
+        "Parise AC",
+        "Conti L",
+        "Sotelano P",
+        "Bilbao F",
+        "Santini-Araujo MG"
+      ],
+      "authors_short": "Cafruni VM, Parise AC, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: The objective of this study was to assess the types and rates of early complications following elective percutaneous surgery for hallux valgus (HV) in diabetic (DP) vs non-diabetic (NDP) patients. METHOD: This retrospective study was conducted at our institution between October 2017 and August 2020. During this period, 874\u2009feet underwent percutaneous surgery for HV correction. All adult diabetic patients with controlled diabetes who underwent percutaneous distal metaphyseal osteotomy and had a minimum follow-up of 6\u2009months were included. For each diabetic patient, 2 age-matched (\u00b11 year) non-diabetic controls were randomly selected. Complications were defined as any deviation from the normal postoperative course and were systematically recorded. This work is a retrospective exploratory analysis of a matched cohort. RESULTS: A total of 75 patients were analyzed, 25 DP and 50 NDP, with a mean follow-up of 10.8\u2009months (range 6-48) months. There were no significant differences in demographic characteristics between groups, except for body mass index and Charlson Comorbidity Index, both of which were significantly higher in the DP group (P\u2009<\u2009.001 and P\u2009=\u2009.014, respectively). Although pre- and postoperative functional scale scores did not differ significantly between the groups, the postoperative radiographic angles showed a greater correction in the diabetic group.The overall complication rate was 24% (n\u2009=\u20096) in the DP group and 18% (n\u2009=\u20099) in the NDP group (P\u2009=\u2009.553). Complications included infection, osteosynthesis discomfort, pseudarthrosis, residual pain, and metatarsalgia. In the DP group, all superficial infections were successfully managed with oral antibiotics. CONCLUSION: With the available sample size, no statistically significant differences in the overall complication rate were detected between well-controlled diabetic and non-diabetic patients undergoing minimally invasive hallux valgus surgery. These findings should be interpreted as exploratory and hypothesis-generating, and require confirmation in larger studies.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42216492/",
+      "score": 65,
+      "score_reasoning": "Systematic review and meta-analysis of capitellar OCD in baseball players addressing sport-specific condition, though limited evidence quality likely.",
+      "bullets": [
+        "Diabetic patients with controlled diabetes had similar early complication rates as non-diabetics after minimally invasive hallux valgus surgery (24% vs 18%).",
+        "All superficial infections in diabetic patients resolved with oral antibiotics alone, with no deep infections or major wound healing problems.",
+        "Sample size was small (25 diabetic vs 50 non-diabetic patients) so larger studies needed to confirm safety in diabetic populations."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-06-02T07:01:28.949264-07:00"
+}
