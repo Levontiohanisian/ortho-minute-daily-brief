@@ -1,0 +1,310 @@
+{
+  "brief_date": "2026-06-03",
+  "brief_date_display": "Wednesday, June 03",
+  "candidates": [
+    {
+      "pmid": "42229782",
+      "title": "Morrey Award 2025: Cell Count and Differential of Aspirated Fluid in the Diagnosis of Periprosthetic Joint Infection of Total Elbow Arthroplasty.",
+      "authors": [
+        "Nieboer M",
+        "Rosenow C",
+        "Koch J",
+        "Barlow J",
+        "Sanchez-Sotelo J",
+        "O'Driscoll S",
+        "Morrey M"
+      ],
+      "authors_short": "Nieboer M, Rosenow C, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Periprosthetic joint infection (PJI) is a common method of failure following total elbow arthroplasty (TEA). Diagnosis is often guided by synovial fluid leukocyte counts and neutrophil percentages. While cutoff values have been defined for hip and knee arthroplasty PJI, the elbow has a different microbiome and a higher rate of PJI. Currently, there are no data to guide determination of PJI following TEA. The purpose of this study was to identify cutoff values of synovial fluid leukocyte counts, neutrophil percentage, erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP) to aid in detection of periprosthetic total elbow infection. METHODS: We identified 135 TEA undergoing revision surgery that had preoperative aspiration of the synovial fluid at a single institution. Receiver operating characteristic (ROC) curves were utilized to determine the optimal cutoff points for synovial fluid leukocyte count, the neutrophil differential, the ESR and the CRP. Sensitivity, specificity, negative predictive value and positive predictive value were determined. Patients were determined to be infected when they had a positive intraoperative culture or gross purulence at the time of reoperation. RESULTS: 35 elbows were found to be infected and 100 were determined to be aseptic. The infected elbow group had a higher mean fluid leukocyte count (8100 vs. 687 cells/\u03bcL, p <0.01), higher neutrophil differential (63% vs. 18%, p<0.01), higher ESR (32 vs. 15mm/1h, p<0.01) and higher CRP (15 vs. 5mg/L, p<0.01) than the aseptic cohort. Based on the ROC curves the optimal cutoff values were a leukocyte count of 1300 cells/\u03bcL (sensitivity 88%, specificity 75%), neutrophil differential of 70% (sensitivity 71%, specificity 92%), ESR >13 (sensitivity 76%, specificity 67%) and CRP >7 (sensitivity 73%, specificity 83%). When both the leukocyte count and neutrophil differential were below the cutoff values, the negative predictive value was 96%. When both the neutrophil differential and ESR were above the cutoff values the positive predictive value was 95%. DISCUSSION: This study identifies optimal synovial fluid and inflammatory marker cutoff values to help clinicians determine the presence of a TEA PJI prior to revision surgery. The optimal cutoff values were a leukocyte count >1300 cells/\u03bcL, neutrophil differential >70%, ESR >13 and CRP >7.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42229782/",
+      "score": 85,
+      "score_reasoning": "High-impact specialized journal study establishing critical diagnostic cutoffs for periprosthetic joint infection in total elbow arthroplasty with strong sample size and direct clinical applicability.",
+      "bullets": [
+        "Elbow periprosthetic joint infection diagnosis requires different cutoff values than hip or knee: synovial fluid leukocytes >1300 cells/\u03bcL, neutrophils >70%, ESR >13, CRP >7.",
+        "When both synovial leukocyte count and neutrophil percentage are below cutoffs, infection is ruled out with 96% confidence in total elbow arthroplasty patients.",
+        "When both neutrophil percentage and ESR are above cutoffs, periprosthetic elbow infection is present in 95% of cases requiring revision surgery."
+      ]
+    },
+    {
+      "pmid": "42232370",
+      "title": "Survivorship and Clinical Outcomes up to Six Years After Combined Patellofemoral and Unicondylar Knee Arthroplasty.",
+      "authors": [
+        "Holz J",
+        "Linnhoff D",
+        "Schneider S",
+        "Villinger S",
+        "Behling AV"
+      ],
+      "authors_short": "Holz J, Linnhoff D, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Due to improved technique and design, bicompartmental knee arthroplasty consisting of patellofemoral joint and unicondylar knee arthroplasty has become a promising alternative to total knee arthroplasty. Advantages include preserving natural knee biomechanics, reducing complication rates, shortening hospital stays, and facilitating faster rehabilitation. This study aimed to assess the survivorship and clinical outcomes for combined medial unicondylar and patellofemoral arthroplasty up to 6 years. METHODS: Data on survivorship and patient-reported outcome measures (PROMs) were analyzed retrospectively for 47 patients (mean age: 58.2 years [range: 45 - 78]; mean body mass index: 31.3 kg/m2 [range: 22.8 - 47.3]; 66% female). The PROMs included pain (visual analog scale), knee functionality (Knee Injury and Osteoarthritis Outcome Score for Joint Replacement), mental and physical health (Veterans RAND 12-Item Health Survey), and patient satisfaction (Knee Society Score). Survivorship was analyzed using a survivorship life table, while changes in PROMs from preoperatively to the follow-up (FU) time points were assessed via paired t-tests. RESULTS: Of the 47 patients enrolled, 7 were lost to FU. The 97.8% survival rate remained consistent throughout the 6-year FU period, following 1 device-related revision within the first 2 years. There was a significant improvement in pain, knee functionality, and patient satisfaction from preoperative to the 1-, 3-, and 5/6-year FUs (P < .0001). Physical health significantly improved for all FU time points (P < .0001), while mental health trended toward improvement throughout the FU period. CONCLUSIONS: The combined unicondylar and patellofemoral arthroplasty procedure has been shown to achieve excellent survivorship and clinical results up to 6 years after surgery. This makes it an attractive alternative to total knee arthroplasty for patients with medial condylar and patellofemoral knee osteoarthritis.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42232370/",
+      "score": 78,
+      "score_reasoning": "Novel bicompartmental knee arthroplasty technique with 6-year survivorship data showing excellent results, though limited by small sample size and retrospective design.",
+      "bullets": [
+        "Combined medial unicondylar and patellofemoral arthroplasty showed 97.8% survivorship at 6 years with only one device-related revision in 47 patients.",
+        "Patients with isolated medial and patellofemoral compartment arthritis had significant improvements in pain, function, and satisfaction that persisted through 6 years.",
+        "This bicompartmental approach offers an alternative to total knee arthroplasty for patients with spared lateral compartments, preserving native knee mechanics."
+      ]
+    },
+    {
+      "pmid": "42229781",
+      "title": "Clinical and Radiographic Survival Rates of the Arthrex Univers VaultLock Uncemented Central-Peg All-Polyethylene Glenoid Component in Anatomic Total Shoulder Arthroplasty at 2- and 5-Years Postoperatively.",
+      "authors": [
+        "Nazzal EM",
+        "Lin RT",
+        "McMahon S",
+        "Denard PJ",
+        "Farmer K",
+        "Huffman GR",
+        "Lin A"
+      ],
+      "authors_short": "Nazzal EM, Lin RT, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: To evaluate radiographic and functional outcomes at 2 and 5 years postoperatively for anatomic total shoulder arthroplasty (aTSA) performed with an uncemented central-peg all-polyethylene glenoid (Univers VaultLock; Arthrex, Inc., Naples, FL) designed for an uncemented central-peg fixation with peripheral cement and central osseous interdigitation. METHODS: This was a multi-center retrospective case series of aTSAs identified from a prospectively maintained registry. All primary aTSAs with an intact rotator cuff using a VaultLock glenoid (uncemented central-peg all-polyethylene design) and available radiographic data were included for analysis at 2- and 5-years postoperatively. Primary outcomes included radiographic glenoid loosening (via Lazarus classification) and revision rates for glenoid loosening. Relevant changes in lucency were defined as change in Lazarus score \u2265 2 and an \"at-risk\" component for loosening was defined as Lazarus score \u2265 3. Secondary outcomes included range of motion, as well as patient-reported outcomes. RESULTS: A total of 133 patients were included in the overall cohort, of whom 119 met criteria for analysis of radiographic and patient-reported outcomes at 5 years. The mean age was 63.9 \u00b1 7.8 years, with an average body mass index (BMI) of 30.2 \u00b1 4.9 kg/m2 and mean follow-up of 5.0 \u00b1 0.4 years. All outcome measures significantly improved at 2- and 5-years compared to baseline. At 2 years, 111 patients (93.3%) demonstrated a grade 0-1 Lazarus score, while 8 patients (6.7%) had a grade 2 Lazarus score. No glenoids at 2 years were observed to have grade 3 changes consistent with being \"at-risk\" for radiographic loosening. At 5 years, 100 patients (84.0%) had a grade 0-1 Lazarus score, 13 patients (11.0%) had a grade 2 Lazarus score, and 6 patients (5.0%) had a grade 3 or greater Lazarus scores. 40 (33.6%) patients had an increase in Lazarus score from 2 to 5 years with mean increase of 1.2 (SD 0.42, Range: 1-2). At 5 years, central peg humeral head bone grafting was associated with lower rates of Lazarus score \u22652 versus no grafting (9.5% vs 23.2%, p = 0.042). Clinical survival rate was 99.2% (132/133) at 5-years postoperatively, with radiographic survival of 95.0% (113/119) at 5-years postoperatively. CONCLUSIONS: The VaultLock glenoid has a 5-year clinical and radiographic glenoid survival rate of 99.2% and 95.0%, respectively. These findings are consistent with or superior to prior published reports of all-polyethylene glenoids and supports the use of a uncemented central-peg all-polyethylene component in primary TSA. LEVEL OF EVIDENCE: Level IV, Case Series, Treatment Study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42229781/",
+      "score": 76,
+      "score_reasoning": "Large multicenter study evaluating novel uncemented glenoid component with 5-year outcomes, providing valuable data for shoulder arthroplasty practice.",
+      "bullets": [
+        "The Arthrex VaultLock uncemented glenoid shows 99% clinical survival and 95% radiographic survival at 5 years in 119 primary shoulder replacements.",
+        "5% of patients developed radiographic loosening (Lazarus grade 3+) by 5 years, with one-third showing some progression of lucencies between years 2 and 5.",
+        "Central peg bone grafting reduced radiographic loosening rates compared to no grafting (9.5% versus 23.2% with Lazarus grade 2+ changes)."
+      ]
+    },
+    {
+      "pmid": "42224471",
+      "title": "Systematic Review of Wound Complications After Direct Anterior Approach Total Hip Arthroplasty: Incidence, Risk Factors, and Management Strategies.",
+      "authors": [
+        "Subramanian T",
+        "Oles A",
+        "Halayqeh S",
+        "Mazzucco M",
+        "Jolissaint J",
+        "Mallett K",
+        "Debbi EM",
+        "Gausden EB"
+      ],
+      "authors_short": "Subramanian T, Oles A, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Wound complications after direct anterior approach (DAA) total hip arthroplasty (THA) are an important source of postoperative morbidity. Although several risk factors and management strategies have been proposed, data remain heterogeneous. This systematic review aims to characterize the incidence, risk factors, and management of wound complications after DAA THA. METHODS: A systematic review was done across eight databases (PubMed, Embase, Scopus, Cochrane Library, CINAHL, Web of Science, Ovid MEDLINE, and ClinicalKey) according to Preferred Reporting Items for Systematic Reviews and Meta-analyses guidelines. Studies were included if they reported wound complications after primary DAA THA. Data were extracted on complication incidence, risk factors, closure and dressing techniques, and management strategies. A meta-analysis comparing wound complication rates between transverse (bikini) and longitudinal incisions was done using a common-effects model. RESULTS: Thirty-six studies encompassing 35,300 DAA THA were included. The most common wound complications were superficial dehiscence/drainage (1.41%), superficial surgical site infection (1.34%), delayed wound healing (1.15%), and hematoma/seroma (0.80%). Obesity and female sex were the most frequently identified risk factors. Pooled analysis demonstrated that transverse (bikini) incisions were associated with a significantly lower risk of wound complications compared with longitudinal incisions (relative risk 0.45, 95% confidence interval, 0.23 to 0.89; P = 0.0219). Closure technique and dressing choice showed variable influence on complication rates. Most wound complications were successfully managed with local wound care, avoiding the need for revision surgery. CONCLUSION: Wound complications after DAA THA are relatively uncommon and often manageable with conservative measures. Obesity, female sex, and longitudinal incisions are associated with higher complication risk. Surgical technique, including consideration of incision type and appropriate postoperative wound management, may help minimize complications.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42224471/",
+      "score": 75,
+      "score_reasoning": "Comprehensive systematic review with meta-analysis addressing important wound complication concerns in increasingly popular direct anterior approach hip arthroplasty.",
+      "bullets": [
+        "Wound complications occur in about 4.7% of direct anterior approach hip replacements, with superficial dehiscence and infection being most common.",
+        "Obese female patients and those with longitudinal incisions have higher wound complication rates than normal weight males with transverse incisions.",
+        "Most wound complications after direct anterior approach hip replacement resolve with local wound care without requiring reoperation."
+      ]
+    },
+    {
+      "pmid": "42203123",
+      "title": "A Randomized Controlled Trial to Compare a Mobile Bearing Cementless and Cemented Unicompartmental Knee: Results of an Investigational Device Exemption Study in the United States.",
+      "authors": [
+        "Hamilton WG",
+        "Redfern RE",
+        "Klaassen MA",
+        "Berend KR",
+        "Lackey WG",
+        "Berend ME",
+        "Anseth SD",
+        "Emerson RH",
+        "Reitman RD",
+        "Masonis JL",
+        "Lombardi AV"
+      ],
+      "authors_short": "Hamilton WG, Redfern RE, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Cementless implants have seen a resurgence in knee arthroplasty to improve long-term bone fixation. The purpose of this study was to report the results of the United States (US) Investigational Device Exemption (IDE) study comparing the mobile bearing cementless and cemented unicompartmental knee arthroplasty (UKA). METHODS: A single-blind, multicenter, randomized controlled trial was performed to compare a medial cementless and cemented UKA implant. There were 378 patients allocated 2:1 to receive the cementless (n = 241) or cemented (n = 137) device between November 2013 and November 2018. The primary endpoints were identified to demonstrate non-inferiority of the cementless device in terms of survivorship, radiographic results, and Knee Society Clinical Assessment and Functional Scores. RESULTS: There was no statistical difference in Kaplan-Meier two-year survivorship between the cementless (94.0%, 95% confidence interval (CI) 89.9 to 96.8) and cemented cohorts (97.5%, 95% CI 93.0 to 99.5, P = 0.19); similar survival persisted at five years (91.7%, 95% CI 86.4 to 95.0 versus 95.6%, 95% CI 88.4 to 98.4, P = 0.24). Examination of radiographic success revealed non-inferior performance of the cementless prosthesis (93.8 versus 97.4%, P = 0.19). Knee Society function (89.9 \u00b1 13.0 versus 89.8 \u00b1 14.0, P = 0.95) and clinical assessment (95.5 \u00b1 8.5 versus 95.6 \u00b1 6.9, P = 0.92) scores at two years demonstrated no differences between groups. CONCLUSION: The cementless mobile bearing UKA demonstrated non-inferior clinical and radiographic outcomes compared to the cemented device in this US IDE study. Cementless fixation may be an attractive option for appropriately selected patients.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42203123/",
+      "score": 74,
+      "score_reasoning": "Rigorous randomized controlled trial comparing cementless and cemented unicompartmental knee arthroplasty with excellent sample size and follow-up data.",
+      "bullets": [
+        "Cementless mobile bearing unicompartmental knee replacement showed similar 5-year survival rates compared to cemented versions (91.7% vs 95.6%) in 378 patients.",
+        "Both cementless and cemented UKA groups had equivalent functional outcomes and radiographic success rates at 2 years with no significant differences.",
+        "Cementless fixation provides a viable alternative to cement in appropriately selected unicompartmental knee replacement candidates."
+      ]
+    },
+    {
+      "pmid": "42226402",
+      "title": "Vitamin D and the Risk of Stress Fractures in Athletes and Military Personnel: A Systematic Review and Meta-analysis.",
+      "authors": [
+        "Moraes BF",
+        "Leit\u00e3o CVFS",
+        "Rodrigues VMS",
+        "Dressler HB",
+        "Paix\u00e3o JC",
+        "da Silva ABN",
+        "de Oliveira GM",
+        "Medina G",
+        "Mansur NSB",
+        "Lintz F",
+        "Zambelli R",
+        "Souza MLAT"
+      ],
+      "authors_short": "Moraes BF, Leit\u00e3o CVFS, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Stress fractures are common overuse injuries in military personnel and athletes. Although a low vitamin D level is a proposed risk factor, the evidence is conflicting, and the specific risk in athletes has not been systematically synthesized. PURPOSE: To assess the association between vitamin D status and the risk of stress fractures in military personnel and athletes. STUDY DESIGN: Systematic review and meta-analysis; Level of evidence, 3. METHODS: Major databases were systematically searched through April 16, 2025 for studies that quantitatively measured serum levels of 25-hydroxyvitamin D in military or athlete populations with a stress fracture group and a control group. Data were pooled using a random-effects model to calculate the mean difference (MD) and 95% confidence interval (CI). Subgroup analyses were conducted based on population type (military vs athlete), sex, and vitamin D status. Meta-regression was also performed to investigate sources of heterogeneity. RESULTS: A total of 15 studies (4183 participants) were included. Overall, patients with stress fractures had significantly lower vitamin D levels compared to controls (MD, -5.82 nmol/L [95% CI, -10.35 to -1.29]). The association was also significant for military personnel (MD, -7.33 nmol/L [95% CI, -11.77 to -2.89]) and male participants (MD, -9.14 nmol/L [95% CI, -14.23 to -4.06]). Subgroup analyses of female participants and athletes did not detect a statistically significant difference in vitamin D levels. Meta-regression identified baseline vitamin D status as a significant moderator, explaining over half of the between-study heterogeneity (R2 = 53.8%). The subgroup analysis based on baseline vitamin D status revealed that the association between lower vitamin D levels and stress fractures was present only in the subgroup in which control participants were already vitamin D sufficient (MD, -13.53 nmol/L [95% CI, -20.57 to -6.49]). CONCLUSION: A lower serum vitamin D level was associated with an increased risk of stress fractures, particularly in military personnel and male participants. The absence of a significant association in athletes and female participants warrants further investigation. These findings suggest that vitamin D status should be assessed in high-risk populations to guide preventive strategies focused on maintaining optimal levels.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42226402/",
+      "score": 73,
+      "score_reasoning": "Important systematic review and meta-analysis examining vitamin D's role in stress fractures among athletes and military personnel with substantial clinical implications.",
+      "bullets": [
+        "Military personnel and men with stress fractures have vitamin D levels that are 7-9 nmol/L lower than controls without stress fractures.",
+        "Female athletes show no significant association between vitamin D levels and stress fracture risk, unlike their male military counterparts.",
+        "The vitamin D and stress fracture link only appears meaningful when comparing to populations that already have sufficient vitamin D levels."
+      ]
+    },
+    {
+      "pmid": "42201990",
+      "title": "Evaluating the Utility of Staphylococcus aureus Nasal Screening in Preventing Surgical Site Infections in Elective Orthopaedic Surgery: A Propensity-Matched Analysis.",
+      "authors": [
+        "Leijs LJ",
+        "Kha ST",
+        "Lucaciu AR",
+        "Gholipour A",
+        "Coan J",
+        "van der Wal RJP",
+        "Xiong GX",
+        "Tobert DG"
+      ],
+      "authors_short": "Leijs LJ, Kha ST, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Use of preoperative Staphylococcus aureus nasal screening and decolonization varies across orthopaedic surgery. The efficacy of universal nasal screening with regard to surgical site infection (SSI) rates remains unclear, particularly in elective orthopaedic procedures. METHODS: We conducted a multicenter retrospective cohort study of adults who underwent elective orthopaedic surgery. Patients were stratified by S. aureus nasal screening status within 90 days prior to surgery. Deep SSI (within 90 days postoperatively) was the primary outcome, and superficial SSI (within 7 to 30 days postoperatively) was defined as the secondary outcome. We used doubly robust adjustment involving propensity-score matching on 9 variables followed by logistic regression analysis with demographic and clinical covariates. RESULTS: The cohorts comprised 25,005 patients each (mean age, 63 years; 51% female; 88% White). After adjustment, screening was associated with lower odds of developing deep SSI (odds ratio [OR], 0.52 [95% confidence interval (CI), 0.39 to 0.70]; p < 0.001) and superficial SSI (OR, 0.67 [95% CI, 0.62 to 0.73]; p < 0.001). A positive, versus negative, methicillin-resistant S. aureus (MRSA) result was associated with an increased risk of deep (1.47% versus 0.41%; OR, 3.65 [95% CI, 1.59 to 8.38]; p < 0.001) and superficial (12.96% versus 7.63%; OR, 1.80 [95% CI, 1.34 to 2.42]; p < 0.001) SSI. Among screened patients with a deep SSI, only 5.7% had tested positive for MRSA on the screening test. CONCLUSIONS: Preoperative S. aureus nasal screening was associated with a significant reduction in the odds of developing deep and superficial SSIs following elective orthopaedic surgery. However, the overall incidence of deep infection was low, and the MRSA infection rate was negligible. These findings suggest that universal S. aureus nasal screening may have limited value and support consideration of targeted screening in higher-risk surgical populations. LEVEL OF EVIDENCE: Therapeutic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42201990/",
+      "score": 72,
+      "score_reasoning": "Large propensity-matched study demonstrating efficacy of S. aureus screening in preventing surgical site infections with strong methodology and clinical relevance.",
+      "bullets": [
+        "Preoperative S. aureus nasal screening reduced deep SSI rates by 48% and superficial SSI rates by 33% in 50,010 elective orthopaedic surgery patients.",
+        "Positive MRSA screening increased deep SSI risk 3.6-fold, but only 5.7% of patients who developed deep SSI had tested positive for MRSA.",
+        "Universal screening may have limited value given low overall deep infection rates, suggesting targeted screening for high-risk patients may be more appropriate."
+      ]
+    },
+    {
+      "pmid": "42220245",
+      "title": "Cost-effectiveness of Adding Remplissage to Bankart Repair for On-Track Hill-Sachs Lesions: A Markov Decision Analysis.",
+      "authors": [
+        "Frederickson M",
+        "Kou M",
+        "Cullinane D",
+        "Menendez ME"
+      ],
+      "authors_short": "Frederickson M, Kou M, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Remplissage decreases recurrence after arthroscopic Bankart repair for anterior shoulder instability but has historically been reserved for off-track Hill-Sachs lesions. The addition of remplissage for patients with on-track lesions remains controversial because of concerns about added operative costs and potential loss of range of motion. The cost-effectiveness of remplissage in patients with on-track Hill-Sachs lesions has not been established. PURPOSE: To evaluate the cost-effectiveness of arthroscopic Bankart repair with remplissage versus isolated Bankart repair in patients with on-track Hill-Sachs lesions. STUDY DESIGN: Economic decision analysis; Level of evidence, 3. METHODS: A Markov decision model simulated a 10-year period from a societal perspective. There were 2 treatment strategies compared: isolated arthroscopic Bankart repair (IBR) and arthroscopic Bankart repair with remplissage (BR+R). Health states included stable shoulder, recurrent instability, stable shoulder after revision, and persistent instability. Transition probabilities were derived from random-effects meta-analysis of recurrence rates at a median 34.7-month follow-up. Costs (in 2025 United States dollars) included direct medical costs and indirect costs related to productivity loss. Costs and quality-adjusted life-years (QALYs) were discounted at 3% annually. Outcomes included total costs, QALYs, net monetary benefit (NMB), and incremental cost-effectiveness ratios (ICERs). Probabilistic sensitivity analysis (PSA) with Monte Carlo microsimulation was conducted with 1000 simulated patients and 10,000 PSA iterations. One-way sensitivity analysis evaluated the influence of individual parameters. Cost-effectiveness acceptability curves were generated at willingness-to-pay (WTP) thresholds of $50,000/QALY and $100,000/QALY. RESULTS: Over a 10-year time horizon, BR+R yielded 8.59 QALYs at a cost of $24,980, whereas IBR yielded 8.18 QALYs at a cost of $23,333. BR+R was cost-effective in 99.89% and 99.99% of simulations at WTP thresholds of $50,000/QALY and $100,000/QALY, respectively. One-way sensitivity analysis showed that the model was most sensitive to recurrence probabilities. CONCLUSION: For patients with on-track Hill-Sachs lesions and subcritical glenoid bone loss, Bankart repair with remplissage was cost-effective compared with isolated Bankart repair, driven by reductions in recurrence and revision surgery. These findings support the consideration of remplissage in patients with on-track lesions, particularly those at a higher risk for recurrence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42220245/",
+      "score": 71,
+      "score_reasoning": "Sophisticated economic analysis using Markov modeling to evaluate cost-effectiveness of remplissage for shoulder instability with strong methodology.",
+      "bullets": [
+        "Adding remplissage to Bankart repair for on-track Hill-Sachs lesions costs an extra $1,647 but prevents enough recurrences to be cost-effective over 10 years.",
+        "Remplissage with Bankart repair was cost-effective in over 99% of simulations at standard healthcare spending thresholds of $50,000 and $100,000 per quality-adjusted life year.",
+        "This economic analysis supports considering remplissage for on-track Hill-Sachs lesions, especially in high-risk patients, despite the additional operative time and cost."
+      ]
+    },
+    {
+      "pmid": "42208698",
+      "title": "Time to Reimplantation: Waiting Longer May Increase the Risk of Subsequent Failure.",
+      "authors": [
+        "Tarabichi S",
+        "Verhey JT",
+        "Van Schuyver P",
+        "Paul BR",
+        "Iturregui JM",
+        "Wyles CC",
+        "Deckey DG",
+        "Christopher ZK",
+        "Springer BD",
+        "Clarke HD",
+        "Spangehl MJ",
+        "Bingham JS"
+      ],
+      "authors_short": "Tarabichi S, Verhey JT, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: To date, few studies in the orthopaedic literature have evaluated the association between the time from resection arthroplasty to reimplantation and subsequent outcomes following completion of a two-stage exchange. The purpose of this study was to evaluate the impact of time to reimplantation on the risk of failure in two-stage exchange patients. METHODS: This retrospective study identified 576 patients who had chronic periprosthetic joint infection (PJI) of the knee who underwent two-stage exchange arthroplasty. A PJI was defined using the 2013 Musculoskeletal Infection Society (MSIS) criteria. Patients who had a time to reimplantation greater than 180 days from resection arthroplasty (n = 76) and those who underwent spacer exchange were excluded (n = 49). Treatment failure was defined as any reoperation for infection or PJI-related mortality. Multivariate regression analyses were performed to identify predictors of failure. RESULTS: There were 451 patients who had a mean follow-up time of 5.8 \u00b1 3.6 years included. Of these, 71 (15.7%) patients experienced failure and 380 (84.3%) experienced success. Using multivariate regression analyses, we found that there was a 22% increase in the risk of failure for every 10-day increase in time to reimplantation. Furthermore, when stratifying the cohort into tertiles based on their interstage duration (less than 76, 76 to 100, and \u2265 100 days), there was no difference in baseline health status or infecting organism between the three groups (all P > 0.05). After controlling for co-variates, regression analyses demonstrated that a time to reimplantation of less than 76 days (OR [odds ratio] 0.23 [95% CI [confidence interval]: 0.05 to 0.75]; P = 0.031) was an independent predictor of treatment success. CONCLUSION: We found that prolonging time to reimplantation is associated with an increased risk of treatment failure after completion of a two-stage procedure. Furthermore, patients who had an interstage duration of less than 76 days were more than three times more likely to experience a successful two-stage.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42208698/",
+      "score": 68,
+      "score_reasoning": "Important study examining timing of reimplantation in two-stage exchange with significant implications for infection management protocols.",
+      "bullets": [
+        "In two-stage knee revision for chronic infection, each additional 10 days between resection and reimplantation increases failure risk by 22%.",
+        "Patients with less than 76 days between stages were three times more likely to have successful treatment compared to longer intervals.",
+        "This applies to chronic periprosthetic joint infections treated with two-stage exchange, suggesting earlier reimplantation may improve outcomes."
+      ]
+    },
+    {
+      "pmid": "42222429",
+      "title": "Do Adductor Canal Blocks Provide Additional Analgesic Benefit to Periarticular Injection Alone for Primary Total Knee Arthroplasty?",
+      "authors": [
+        "Brutti J",
+        "Grand Z",
+        "Osondu CU",
+        "Birch R",
+        "Lawrie CM"
+      ],
+      "authors_short": "Brutti J, Grand Z, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: The added benefit of preoperative, anesthesiologist-performed adductor canal blocks (ACBs) to a modern pain management regimen in total knee arthroplasty (TKA), including multimodal analgesia and periarticular injection (PAI), remains controversial. This study compared opioid consumption and postoperative pain in TKA patients receiving ACB + PAI vs PAI alone. METHODS: This was a single-surgeon retrospective review of patients who underwent unilateral primary TKA over a 2-year period. During year 1, no patients received ACB. During year 2, all patients received ACB. Morphine milligram equivalents, visual analog scale (VAS), and summed pain intensity difference values were compared between both groups over the first 24 hours postoperatively. The final sample included 188 patients: 104 with ACB + PAI and 84 with PAI only. RESULTS: The mean total morphine milligram equivalents of opioids administered was lower in the ACB + PAI group (31.6 [range: 0-177] vs 42.5 [range: 0-103.5]; P < .01). The ACB + PAI group had lower mean VAS scores (3.1 [range: 0-7.2] vs 4.0 [range: 1.2-6.5]; P < .001). Median maximum VAS pain scores were also lower in the ACB + PAI group (7.0 [interquartile range: 6.0-8.5] vs 8.0 [interquartile range: 7.0-9.0]; P < .001). Similarly, the mean summed pain intensity differ value was lower in the ACB + PAI group (40 [range: 0-118] vs 54 [range: 9-121]; P < .001). These findings remained significant after adjusting for age, sex, body mass index, and American Society of Anesthesiologists class. CONCLUSIONS: The addition of an ACB to PAI was associated with lower postoperative pain values and reduced opioid consumption compared to PAI alone in the first 24 hours postoperatively.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42222429/",
+      "score": 60,
+      "score_reasoning": "Large retrospective study demonstrating additional benefit of adductor canal blocks in total knee arthroplasty pain management.",
+      "bullets": [
+        "Adding adductor canal blocks to periarticular injection reduces opioid use by 25% and pain scores in primary total knee arthroplasty patients.",
+        "This benefit applies to all primary TKA patients regardless of age, sex, BMI, or medical comorbidities during the first 24 hours after surgery.",
+        "Adductor canal blocks provide meaningful additional pain control even when patients already receive modern multimodal analgesia and periarticular injection."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-06-03T07:28:07.816536-07:00"
+}
