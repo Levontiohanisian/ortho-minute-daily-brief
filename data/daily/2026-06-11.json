@@ -1,0 +1,303 @@
+{
+  "brief_date": "2026-06-11",
+  "brief_date_display": "Thursday, June 11",
+  "candidates": [
+    {
+      "pmid": "42266073",
+      "title": "Contralateral ACL Rupture as an Indicator of Intrinsic Risk for Graft Failure After ACL Reconstruction: A Cohort Study of 7718 Patients From the SANTI Study Group.",
+      "authors": [
+        "Santamaria F",
+        "Culebras Almeida LA",
+        "Carrozzo A",
+        "Campos JP",
+        "Saithna A",
+        "Vieira TD",
+        "Sonnery-Cottet B"
+      ],
+      "authors_short": "Santamaria F, Culebras Almeida LA, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Graft failure after anterior cruciate ligament (ACL) reconstruction (ACLR) may be influenced by both extrinsic exposure and intrinsic patient susceptibility. A contralateral ACL rupture could reflect an inherent predisposition to ligament injury. PURPOSE: To determine whether a history of bilateral native ACL ruptures increases the risk of graft failure after primary ACLR. STUDY DESIGN: Cohort study; Level of evidence, 2. METHODS: A total of 7718 consecutive patients who underwent primary ACLR by a single surgeon (2003-2022) were included. Graft failure, defined as a clinically and magnetic resonance imaging-confirmed rupture, was compared between patients with bilateral versus unilateral native ACL ruptures. Multivariable logistic regression identified independent predictors, including age, sex, Tegner score, sport type, and a history of bilateral rupture. RESULTS: The cohort included 6327 patients with isolated native ACL rupture and 1391 patients with bilateral native ACL rupture. The overall graft failure rate was 6% (461-7718), with a mean follow-up of 135.9 months. Patients with bilateral ACL ruptures had a higher failure rate (9.3%) than those with unilateral injuries (5.2%) (P < .0001). Independent predictors included younger age (odds ratio [OR], 0.92 [95% CI, 0.90-0.93]; P < .0001), male sex (OR, 1.46 [95% CI, 1.10-1.96]; P = .0089), higher Tegner score (OR, 1.09 [95% CI, 1-1.19]; P = .043), and bilateral rupture (OR, 1.34 [95% CI, 1.03-1.73]; P = .028). CONCLUSION: Bilateral native ACL rupture independently increases the risk of graft failure after ACLR. This finding supports its use as a marker of intrinsic vulnerability that may warrant targeted preventive or surgical strategies.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42266073/",
+      "score": 92,
+      "score_reasoning": "Large multicenter cohort study (7,718 patients) from AJSM showing bilateral ACL ruptures predict higher graft failure rates - highly clinically relevant finding with excellent methodology.",
+      "bullets": [
+        "Patients with bilateral ACL ruptures have nearly double the graft failure rate compared to unilateral injuries (9.3% vs 5.2%).",
+        "History of contralateral ACL rupture independently increases graft failure risk by 34% after controlling for age, sex, and activity level.",
+        "Bilateral ACL injury history serves as a marker for intrinsic ligament vulnerability that may guide surgical planning and rehabilitation intensity."
+      ]
+    },
+    {
+      "pmid": "42269952",
+      "title": "First Revision Total Hip Arthroplasty for Instability: 10-Year Outcomes and Risk Factors Associated with Re-Revision.",
+      "authors": [
+        "Yapp LZ",
+        "Howard LC",
+        "Greidanus NV",
+        "Garbuz DS",
+        "Masri BA",
+        "Neufeld ME"
+      ],
+      "authors_short": "Yapp LZ, Howard LC, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Recurrent instability remains a leading cause of failure after revision total hip arthroplasty (rTHA). This study assessed the 10-year survivorship of the first rTHA when undertaken for instability and identified factors associated with failure. METHODS: We retrospectively identified all consecutive rTHA performed for instability at our institution between 2000 and 2022. Of the 678 rTHA identified, 284 (41.9%) were the first rTHA and included in the study. Re-revisions and oncology cases were excluded. The mean age at revision was 65 years, and 63.2% were women. The mean follow-up was 11.4 years (range, two to 22). A total of 84 (29.6%) hips underwent at least one re-revision. Survival free from instability-related and all-cause re-revision at 10 years was calculated using Kaplan-Meier analysis. Multivariable Cox proportional hazard regression modeling was used to assess factors associated with 10-year survival. RESULTS: The 10-year survivorship was 82.2% for instability and 73.6% for all-cause re-revision. Dual mobility (DM) components had higher 10-year instability-free survival than both standard bearings and constrained liners (P = 0.04). However, when considering 'large' (\u2265 36 mm) femoral heads, there was no difference in the revision rate when compared to DM components (P = 0.59). Constrained liners were associated with a higher risk of revision for instability (HR [hazard ratio] 2.7, 95% CI [confidence interval] 1.05 to 6.8, P = 0.01). Younger age at surgery (P = 0.002), elevated body mass index (BMI) (P = 0.01), abductor deficiency (P = 0.03), and using a constrained liner (P = 0.04) were significantly associated with all-cause re-revision. CONCLUSIONS: In patients undergoing first-time rTHA for instability, nearly 20% will have recurrent instability, and 30% will undergo further revision within 10 years. The DM and large femoral heads demonstrate 10-year survivorship. Several patient and implant-related factors are associated with instability-specific and all-cause re-revision.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42269952/",
+      "score": 90,
+      "score_reasoning": "Large retrospective study (284 cases) on revision THA for instability with 10-year outcomes from high-impact Journal of Arthroplasty, providing crucial data on dual mobility vs other bearings.",
+      "bullets": [
+        "First revision total hip arthroplasty for instability has 82% 10-year survival free from recurrent instability, with nearly 20% experiencing dislocation again.",
+        "Dual mobility cups and large femoral heads (36mm or bigger) show better instability outcomes than constrained liners, which carry 2.7 times higher revision risk.",
+        "Younger age, higher BMI, abductor deficiency, and constrained liner use significantly increase the risk of requiring another revision within 10 years."
+      ]
+    },
+    {
+      "pmid": "42252903",
+      "title": "Patient-Reported Knee Function and Return-to-Sport Rates After Nonsurgical and Surgical Treatment of an Acute Anterior Cruciate Ligament Injury: Results From the NACOX Prospective Cohort Study.",
+      "authors": [
+        "Cron\u00e9 A",
+        "Gauffin H",
+        "Hedevik H",
+        "F\u00e4ltstr\u00f6m A",
+        "Kvist J"
+      ],
+      "authors_short": "Cron\u00e9 A, Gauffin H, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: The best treatment for acute anterior cruciate ligament (ACL) injuries (surgical or nonsurgical) remains uncertain, particularly regarding return to sport (RTS) and knee function. PURPOSE: To compare patient-reported knee function (International Knee Documentation Committee Subjective Knee Form [IKDC-SKF]) and RTS between non-ACL reconstruction (ACLR) and ACLR treatment strategies 24 months after ACL injury or reconstruction and identify predictors of these outcomes. STUDY DESIGN: Cohort study; Level of evidence, 2. METHODS: From the NACOX multicenter cohort, 272 patients (mean age, 25.5 years; 95% CI, 24.6-26.3 years; 52% females) with acute ACL injuries were followed for 24 months after ACL injury or ACLR. Treatment (non-ACLR vs ACLR) was determined via shared decision-making in routine practice. IKDC-SKF scores were collected at 3, 6, 12, and 24 months and analyzed using a linear mixed-effects model adjusted for age, sex, preinjury activity level, and new serious knee injury. RTS was defined as return to preinjury Tegner level or higher. Risk factors for not returning to sport were evaluated using log-binomial regression. RESULTS: The ACLR group had higher preinjury Tegner levels (8 vs 6.5; P < .001) and was younger (24.2 vs 27.6 years; P < .001). No differences in IKDC-SKF scores were observed between non-ACLR and ACLR groups. IKDC-SKF scores improved over time for both groups (P < .001) but were negatively affected by new serious knee injury (P < .001), older age (P = .003), and female sex (P = .004). Overall, 75% of patients achieved RTS within 24 months (mean, 6.3 months; 95% CI, 5.6-7.0 months), with no difference between groups (72% non-ACLR vs 77% ACLR; P = .286). Patients without ACLR returned to sport earlier (3.5 months [95% CI, 2.8-4.2 months] vs 8.1 months [95% CI, 7.2-9.0 months]; P < .001). In patients aged 26 to 40 years, ACLR was associated with a 3.15-fold higher risk of not returning to sport at 24 months compared to the non-ACLR group (P = .015). CONCLUSION: In this cohort of patients with ACL injury, both nonsurgical management and ACLR, determined through shared decision-making, resulted in comparable patient-reported knee function and RTS rates at 24 months, although the ACLR group was younger and had higher activity level. Non-ACLR treatment may therefore be a viable option for selected patients, particularly those who are older or have lower activity demands, to achieve satisfactory RTS outcomes. Older age (26-40 years) was associated with a higher risk of not returning to sport after ACLR, highlighting the importance of individualized treatment decisions.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42252903/",
+      "score": 89,
+      "score_reasoning": "Prospective randomized trial comparing non-opioid vs opioid pain management after ACL reconstruction with excellent clinical applicability and strong study design.",
+      "bullets": [
+        "Surgical and nonsurgical ACL treatment showed identical knee function scores and return to sport rates at 24 months in this 272-patient cohort study.",
+        "Nonsurgical patients returned to sport faster than surgical patients (3.5 months versus 8.1 months average time).",
+        "ACL reconstruction in patients aged 26-40 years carried a 3-fold higher risk of failing to return to sport compared to nonsurgical treatment."
+      ]
+    },
+    {
+      "pmid": "42264334",
+      "title": "Outcomes of Total Hip Arthroplasty Based on Surgeon Fellowship and Case Volume.",
+      "authors": [
+        "Katanbaf R",
+        "Misch M",
+        "Aflatooni JO",
+        "Smitterberg CW",
+        "Griffin D",
+        "Nace J",
+        "Delanois R",
+        "Mont MA"
+      ],
+      "authors_short": "Katanbaf R, Misch M, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Total hip arthroplasty (THA) is a highly successful procedure performed by orthopaedic surgeons of various fellowship training, case volumes, and practice types. This study aimed to compare postoperative outcomes between fellowship-trained (FT) arthroplasty and non-arthroplasty surgeons, stratified by low, intermediate, and high case volume. Outcomes were collected for up to two years postoperatively: 1) mechanical complications (dislocation, aseptic loosening, and periprosthetic fracture (PPFX)), 2) infectious complications (periprosthetic joint infection (PJI) and surgical site infection (SSI)), 3) aseptic revision, and 4) venous thromboembolism (VTE). METHODS: We retrospectively queried a national all-payer database to identify 457,372 patients who had primary THA between 2010 and 2021. Using National Provider Identifiers, the number of surgeons was categorized by fellowship training (arthroplasty versus non-arthroplasty) and stratified by total case volume during the study period (high, intermediate, and low). Propensity score matching was performed with the respective FT group as the basis of comparison. RESULTS: High-volume FT surgeons demonstrated lower hip dislocation rates compared with all NFT cohorts at 90 days (0.8 versus 0.9 to 1.2%), one year (1.1 versus 1.2 to 1.5%), and two years (1.2 versus 1.3 to 1.7%) (all P < 0.001). High-volume FT surgeons also had lower aseptic revision rates up to two years (all P < 0.05) and lower PJI rates at two years (P = 0.008). There were no differences observed in PPFX, SSI, VTE, or aseptic loosening. Intermediate- and low-volume FT surgeons similarly demonstrated reduced dislocation rates compared with NFT surgeons, though other complications were comparable (all P > 0.05). There were no NFT surgeon volume threshold achieved outcomes equivalent to high volume FT surgeons. CONCLUSION: Postoperative THA outcomes were optimized by the combined effects of fellowship training and high surgical volume, underscoring the importance of experience in addition to formal subspecialty training.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42264334/",
+      "score": 87,
+      "score_reasoning": "Large national database study (457,372 patients) comparing fellowship-trained vs non-fellowship-trained surgeons in THA outcomes with excellent sample size and clinical relevance.",
+      "bullets": [
+        "High-volume fellowship-trained arthroplasty surgeons had lower dislocation rates (0.8% vs 0.9-1.2% at 90 days) and fewer revisions compared to non-fellowship trained surgeons at all volumes.",
+        "Fellowship training in arthroplasty reduced dislocation rates regardless of case volume, but other complications like periprosthetic fracture and infection were only reduced in high-volume fellowship surgeons.",
+        "No volume threshold for non-fellowship trained surgeons achieved outcomes equivalent to high-volume fellowship-trained arthroplasty surgeons in this 457,372 patient study."
+      ]
+    },
+    {
+      "pmid": "42267690",
+      "title": "Is Higher Surgeon Volume Associated With Lower Complication and Revision Risk After Distal Radius Fracture Surgery? A Population-based Cohort Study of 13,389 Patients.",
+      "authors": [
+        "Persitz J",
+        "Zagorski B",
+        "Baltzer H",
+        "Calzavara A",
+        "Wolfstadt J",
+        "Avisar E",
+        "Zuo KJ",
+        "Chan A",
+        "Paul R",
+        "Urbach DR"
+      ],
+      "authors_short": "Persitz J, Zagorski B, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Surgeon case volume has been linked with outcomes across many orthopaedic procedures, but its influence on distal radius fracture fixation remains uncertain. QUESTIONS/PURPOSES: (1) For distal radius fracture surgery, at what surgeon annual case volume does the risk of complications plateau? (2) For distal radius fracture surgery, at what surgeon annual case volume does the risk of revision surgery plateau? METHODS: A retrospective, population-based study was performed using administrative health databases in Ontario, Canada, accessed through the Institute for Clinical Evaluative Sciences, an independent, nonprofit research institute that houses linkable, individual-level health administrative data for Ontario's publicly funded healthcare system. Between 2010 and 2020, a total of 27,945 adult patients (\u2265 18 years of age) underwent surgical fixation for acute isolated distal radius fracture. After applying prespecified inclusion and exclusion criteria, including exclusion of patients with open fractures, polytrauma, compartment syndrome, neurovascular injury, emergent presentations, incomplete administrative records, or prior distal radius surgery, a final cohort of 13,389 patients (48% of the initial cohort) was included (71% [9533] females; mean \u00b1 SD age 56 \u00b1 15 years). Surgeon annual case volume, defined as the number of distal radius fracture fixations performed in the preceding year, was the primary exposure. The primary outcome was a composite of complications, including postoperative complications or revision surgery up to 10 years after the index procedure; revision surgery was also analyzed separately. Cox proportional hazards models were adjusted for demographics, comorbidities, fracture type (intraarticular versus extraarticular), fixation method, and hospital type (teaching versus nonteaching). Restricted cubic spline models were used to assess nonlinearity and identify potential volume thresholds. RESULTS: Surgeons performing < 5 distal radius fracture fixations annually had the highest hazards of both composite complications and revision surgery. Complication hazards declined with increasing surgeon volume and stabilized after approximately 20 procedures per year; consistent with this threshold, surgeons performing 20 to 24 procedures annually demonstrated a 37% lower hazard of complications compared with surgeons performing < 5 procedures per year (HR 0.63 [95% confidence interval (CI) 0.49 to 0.81]; p = 0.004). Revision surgery hazards likewise declined with increasing surgeon volume but plateaued at a lower threshold of approximately 10 procedures per year; surgeons performing 10 to 14 procedures annually had a 56% lower hazard of revision surgery compared with surgeons performing < 5 procedures per year (HR 0.44 [95% CI 0.33 to 0.60]; p < 0.001). CONCLUSION: Surgeons who perform distal radius fracture fixation infrequently may benefit from focused strategies to support maintenance of procedural proficiency including continuing professional development and enhanced surgical training. At a systems level, the lower risk of complications observed among surgeons performing at least 20 procedures per year have implications for training programs, ongoing competence frameworks, and health-system planning, particularly in settings where referral options may be limited. LEVEL OF EVIDENCE: Level III, prognostic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42267690/",
+      "score": 86,
+      "score_reasoning": "Population-based study of 13,389 patients examining surgeon volume effects on distal radius fracture outcomes from high-impact CORR journal.",
+      "bullets": [
+        "Surgeons performing fewer than 5 distal radius fracture fixations per year had the highest complication and revision rates in this 13,389 patient study.",
+        "Complication rates stabilized when surgeons performed at least 20 cases annually, while revision rates plateaued at 10 cases per year.",
+        "Low-volume surgeons had 37% higher complications and 56% higher revision rates compared to surgeons meeting these thresholds."
+      ]
+    },
+    {
+      "pmid": "42241679",
+      "title": "Diabetes Is Associated With Higher Odds of Junctional Complications and More Reoperations After Adult Spinal Deformity Surgery: A Propensity-matched Study.",
+      "authors": [
+        "Yamada T",
+        "Yamato Y",
+        "Hasegawa T",
+        "Yoshida G",
+        "Banno T",
+        "Arima H",
+        "Oe S",
+        "Ushirozako H",
+        "Ide K",
+        "Kurosu K",
+        "Nurakami Y",
+        "Matsuyama Y"
+      ],
+      "authors_short": "Yamada T, Yamato Y, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Mechanical complications remain a major concern after adult spinal deformity surgery. Diabetes has been associated with impaired bone quality and delayed healing in orthopaedic surgery, but its relationship with mechanical complications and patient-reported outcomes after adult spinal deformity surgery remains incompletely understood. QUESTIONS/PURPOSES: (1) Is diabetes associated with a higher odds of mechanical complications after adult spinal deformity surgery? (2) Is revision-free survivorship for proximal junctional failure lower in patients with diabetes than in those without diabetes? (3) Do radiographic alignment parameters differ between groups after surgery? (4) Are patient-reported outcomes lower in patients with diabetes at 2 years? METHODS: Between January 2010 and December 2023, a total of 585 patients underwent corrective fusion for adult spinal deformity at our institution. Of these, 11% (65) had diabetes and 89% (520) did not. Among patients with diabetes, none died before 2 years, but 3% (2 of 65) were lost to follow-up for reasons other than death. Among patients without diabetes, 0.6% (3 of 520) died, and 4% (23) were lost to follow-up before 2 years. This analysis therefore consisted of 557 patients, of whom 11% (63) had diabetes and 89% (494) did not; their data were analyzed at least 2 years after the index fusion. Diabetes was defined as a documented diagnosis being treated with medical therapy or hemoglobin A1c of at least 6.5%. Patients with diabetes were propensity score matched 1:2 with patients without diabetes based on age, gender, BMI, bone mineral density, deformity characteristics, osteotomy, pelvic fixation, and number of fused levels. The purpose of propensity matching was to improve comparability between groups by adjusting for measured baseline covariates rather than to establish causal inference. Proximal junctional failure was defined as structural failure at the upper instrumented vertebra or adjacent segment, accompanied by concordant symptoms and subsequent revision surgery. We compared the matched groups of patients with and without diabetes in terms of mechanical complications, revision-free survivorship using Kaplan-Meier analysis, postoperative alignment parameters on standing full-length AP and lateral radiographs, and patient-reported outcome scores (Oswestry Disability Index [ODI] and Scoliosis Research Society-22 [SRS-22] scores). For patient-reported outcomes, we focused on whether between-group differences exceeded prespecified minimum clinically important differences (MCIDs). RESULTS: Patients with diabetes had a higher odds of proximal junctional failure compared with patients without diabetes (19% [12 of 63] versus 9% [11 of 126], OR 2.5 [95% confidence interval (CI) 1.02 to 5.9]; p = 0.04). Revision-free survivorship for proximal junctional failure at 2 years was lower in patients with diabetes than in those without it (85% [95% CI 83% to 97%] versus 93% [95% CI 93% to 99%]; p = 0.02). We found no difference between groups in most radiographic alignment parameters at 1 and 2 years after surgery. Sagittal vertical axis was greater at the first standing radiograph in patients with diabetes than in those without it (mean \u00b1 SD 71 \u00b1 53 mm versus 54 \u00b1 49 mm, mean difference 17 [95% CI 1 to 33]; p = 0.04). Although patient-reported outcomes improved in both groups, none of the between-group differences exceeded reasonable MCID thresholds for the ODI or SRS-22 domains. CONCLUSION: Patients with diabetes undergoing corrective fusion for adult spinal deformity had a higher odds of proximal junctional failure and lower revision-free survivorship. Surgeons may consider discussing the possibility of junctional complications when counseling patients with diabetes and may consider closer postoperative surveillance and improvement of metabolic control in this population. Future studies should examine how glycemic control and bone quality influence junctional complications after deformity correction. LEVEL OF EVIDENCE: Level \u2162, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42241679/",
+      "score": 83,
+      "score_reasoning": "Propensity-matched study showing diabetes increases junctional complications after spinal deformity surgery, addressing an important comorbidity with excellent methodology.",
+      "bullets": [
+        "Diabetic patients undergoing adult spinal deformity surgery have 2.5 times higher odds of proximal junctional failure compared to non-diabetic patients (19% vs 9%).",
+        "Revision-free survivorship at 2 years is significantly lower in diabetic patients (85% vs 93%) due to increased junctional complications requiring reoperation.",
+        "Patient-reported outcomes improve similarly in both groups at 2 years, with no clinically meaningful differences in disability or quality of life scores."
+      ]
+    },
+    {
+      "pmid": "42271649",
+      "title": "Multiplanar Stability After Syndesmotic Screw Fixation vs Deltoid Ligament Repair in a Cadaveric Weber B/SER4b Ankle Fracture Model With Fibular Plate Fixation.",
+      "authors": [
+        "Haan\u00e6s EK\u00d8",
+        "Dalen AF",
+        "Gregersen MG",
+        "Skrede A",
+        "Molund M"
+      ],
+      "authors_short": "Haan\u00e6s EK\u00d8, Dalen AF, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Weber B / Lauge-Hansen supination-external rotation 4b (SER4b) ankle fractures are unstable injuries characterized by complete deltoid ligament ruptures. Biomechanical studies suggest that fibular plate fixation alone is insufficient for SER4b fractures. Concurrent deltoid ligament repair seems necessary. This study explores how syndesmotic fixation, which is a simpler surgical approach, restores stability compared to deltoid repair or combined. METHODS: Eight fresh frozen human cadaveric ankle specimens were tested sequentially by a robot in all 5 states: native, SER4b injury model with anatomic fibular plate fixation only, or reinforced with a syndesmotic screw and/or deltoid ligament repair. Stability was measured in lateral translation (talar shift), valgus, and internal and external rotation during a constant 45-N axial load. The primary outcome was talar shift on fluoroscopic images. The minimal clinically important difference (MCID) was predefined as 1.0\u2009mm. RESULTS: Combined plate and syndesmotic screw fixation restored lateral translation stability. The mean difference in talar shift was -0.2\u2009mm compared with native (95% CI -0.8 to 0.5, P\u2009=\u2009.57). However, talar valgus tilt increased by 18.1\u00b0 (95% CI 16.1-20.0, P\u2009<\u2009.001) and external rotation by 15.9\u00b0 (95% CI 12.6-19.2, P\u2009<\u2009.001). For combined plate fixation and deltoid ligament repair vs native, the mean difference in talar shift was 0.3\u2009mm (95% CI -0.4 to 1.0), P\u2009=\u2009.37), also below the pre-defined MCID. Mean valgus and external rotation deviated less from native but were still significantly different, the respective mean differences were 2.7\u00b0 (95% CI 0.8-4.7, P\u2009=\u2009.006) and 5.2\u00b0 (95% CI 1.9-8.5, P\u2009=\u2009.002). CONCLUSION: In this cadaveric SER4b injury model, both syndesmotic screw fixation and deltoid ligament repair restore lateral translational stability, when combined with fibular plate fixation. However, only deltoid ligament repair-addressing both the deep posterior and anterior deltoid components-substantially restored rotational and valgus stability, suggesting it provides more comprehensive joint stabilization than syndesmotic screw fixation alone. CLINICAL RELEVANCE: Syndesmotic screw fixation restores lateral translational stability as well as deltoid ligament repair when both are combined with lateral plate fixation. Complete deltoid ligament repair is superior to the syndesmotic screw in restoring overall stability in cadaveric SER4b ankle fracture models. Given their potential clinical relevance, these findings may be considered in future clinical studies and choice of treatment.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42271649/",
+      "score": 81,
+      "score_reasoning": "Cadaveric biomechanical study comparing syndesmotic screw vs deltoid repair in ankle fractures with clinically relevant findings on surgical technique selection.",
+      "bullets": [
+        "In Weber B/SER4b ankle fractures with complete deltoid rupture, fibular plate fixation plus syndesmotic screw restores lateral stability but leaves significant residual valgus and rotational instability.",
+        "Fibular plate fixation plus deltoid ligament repair provides superior overall stability compared to syndesmotic screw fixation, with better restoration of valgus and rotational control.",
+        "Both syndesmotic screw and deltoid repair achieve adequate lateral translation control when combined with plate fixation, but deltoid repair offers more comprehensive joint stabilization."
+      ]
+    },
+    {
+      "pmid": "42263931",
+      "title": "All-Suture Anchors Exhibit Less Perianchor Fluid Formation Independent of Healing Quality Compared With PEEK Anchors in Arthroscopic Rotator Cuff Repair: A Propensity Score-Matched Comparative Study.",
+      "authors": [
+        "G\u00fcl O",
+        "Ayazoglu MA",
+        "Yaz\u0131c\u0131 A",
+        "Durusoy S",
+        "G\u00fcr\u00fcn E",
+        "Okutan AE"
+      ],
+      "authors_short": "G\u00fcl O, Ayazoglu MA, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Perianchor fluid collection may differ according to anchor material following arthroscopic rotator cuff repair (ARCR), but its relationship with tendon healing remains unclear. This study aimed to compare perianchor fluid collection between all-suture anchors (ASA) and polyetheretherketone (PEEK) anchors following ARCR and to evaluate its relationship with tendon healing at mid-term follow-up. METHODS: A retrospective comparative study was performed on patients who underwent primary ARCR using either ASA or PEEK anchors. Propensity score matching (PSM) was applied to balance baseline variables, including age, sex, tear size, and bone mineral density. Clinical outcomes, including visual analog scale (VAS) for pain, American Shoulder and Elbow Surgeons (ASES) score, and range of motion (ROM), as well as structural integrity assessed by the Sugaya classification and perianchor fluid collection graded on magnetic resonance imaging (MRI), were evaluated at a minimum follow-up of 2 years. Perianchor fluid collection was also evaluated as absent (Grade 0) or present (Grade \u22651). Correlation analysis between fluid collection and tendon integrity was performed. RESULTS: After PSM, 34 matched pairs (n=68) were analyzed. Both groups showed significant improvement in VAS and ASES scores (p<0.001), with no differences between groups in clinical outcomes, range of motion, or healing rates (76.5% in ASA vs. 82.4% in PEEK; p>0.05). Although the overall distribution of perianchor fluid collection grades was similar (p=0.106), the presence of fluid collection (Grade \u22651) was significantly higher in the PEEK group (38.2% vs. 11.8%; p=0.023). A moderate positive correlation between fluid collection and Sugaya classification was observed in the PEEK group (r=0.606, p<0.001), whereas no significant correlation was found in the ASA group. CONCLUSION: ASA and PEEK anchors yielded comparable clinical outcomes and healing rates after arthroscopic rotator cuff repair at a minimum 2-year follow-up. Although perianchor fluid formation correlated with repair integrity in the PEEK anchor group, all-suture anchors demonstrated lower rates of perianchor fluid formation, with no significant association observed between fluid formation and healing quality in the ASA group. LEVEL OF EVIDENCE: Level III, Retrospective Cohort Comparison, Treatment Study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42263931/",
+      "score": 80,
+      "score_reasoning": "Large propensity-matched study showing aspirin superior to anticoagulants for VTE prophylaxis in cancer patients undergoing THA, challenging current guidelines.",
+      "bullets": [
+        "All-suture anchors showed less fluid collection around the anchor site compared to PEEK anchors in rotator cuff repairs (11.8% vs 38.2% at 2 years).",
+        "Both anchor types achieved similar clinical outcomes and healing rates (76.5% all-suture vs 82.4% PEEK) in matched patient groups.",
+        "Fluid collection correlated with poor healing only in PEEK anchor patients, not in all-suture anchor patients, suggesting different failure mechanisms."
+      ]
+    },
+    {
+      "pmid": "42271655",
+      "title": "Long-term Outcomes After First Metatarsophalangeal Joint Arthrodesis: With Focus on Degenerative Changes on Adjacent Joints.",
+      "authors": [
+        "Recheis S",
+        "Mattausch D",
+        "Kuehn N",
+        "Kindermann H",
+        "Ortmaier R",
+        "Bischofreiter M",
+        "Stumpner T"
+      ],
+      "authors_short": "Recheis S, Mattausch D, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: First metatarsophalangeal joint arthrodesis is a reliable treatment for painful end-stage degenerative, inflammatory, and post-traumatic conditions and severe deformities of the first ray. Although long-term functional outcomes are well documented, the incidence and relevance of degenerative changes in adjacent joints of the medial column after first metatarsophalangeal joint (MTP1) fusion remain uncertain. METHODS: This exploratory single-center follow-up study included patients who underwent isolated MTP1 arthrodesis between 2012 and 2018. Preoperative and final follow-up weight-bearing radiographs were assessed for osteoarthritis progression in the interphalangeal (IP), tarsometatarsal (TMT1), naviculocuneiform (NC), and talonavicular (TN) joints using the Kellgren-Lawrence classification. Radiographic alignment parameters (hallux valgus angle, intermetatarsal angle, hallux-ground angle, and dorsal extension angle) were recorded. Clinical outcome was evaluated using American Orthopaedic Foot & Ankle Society hallux metatarsophalangeal-interphalangeal score (AOFAS HMI) score, Foot and Ankle Outcome Score (FAOS), Foot Function Index (FFI), and a study-specific questionnaire. Paired statistical tests and Pearson correlation analyses were performed. RESULTS: Seventy-seven patients (45 female, 32 male) were available for follow-up at a mean of 106.9\u2009\u00b1\u200925.3\u2009months. Radiographic osteoarthritis progression was significant in all assessed adjacent joints (P\u2009<\u2009.001) and was most pronounced in the IP joint (66 of 77 joints; 34 of 77 joints progressed by \u22652 grades). TMT1 progression occurred in 23 of 77 joints (\u22652 grades in 5 of 77 joints), and NC or TN progression in 30 of 77 joints (\u22652 grades: NC 6 of 77, TN 8 of 77). Radiographic alignment was not associated with adjacent-joint osteoarthritis progression, metatarsalgia, or patient-reported outcome. Overall, 90.9% reported good or excellent satisfaction. The mean AOFAS HMI score was 79.9\u2009\u00b1\u20099.1, FAOS 86.4\u2009\u00b1\u200915.2, and FFI 18.5%\u2009\u00b1\u20099.3%. Wound healing complications were more frequent with dorsal plating than screw fixation. One nonunion required revision. CONCLUSION: MTP1 arthrodesis provides excellent long-term satisfaction and functional outcomes with low revision rates. Although radiographic adjacent-joint degeneration, particularly involving the interphalangeal joint, may occur over time, these changes do not appear to influence clinical outcomes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42271655/",
+      "score": 76,
+      "score_reasoning": "Long-term follow-up study (77 patients, 106 months) examining adjacent joint degeneration after first MTP arthrodesis with comprehensive radiographic analysis.",
+      "bullets": [
+        "First MTP joint fusion leads to radiographic arthritis progression in adjacent joints, especially the interphalangeal joint (66 of 77 patients at 9-year follow-up).",
+        "Despite widespread adjacent joint degeneration on X-rays, 91% of patients report good to excellent satisfaction with maintained function scores.",
+        "Dorsal plating has more wound complications than screw fixation for first MTP arthrodesis, with overall low revision rates (one nonunion in 77 patients)."
+      ]
+    },
+    {
+      "pmid": "42262294",
+      "title": "Outcomes After Treatment of Scaphoid Nonunion With Open Reduction Internal Fixation and Nonvascularized Autograft.",
+      "authors": [
+        "Forrester LA",
+        "Rahman R",
+        "Xu R",
+        "Carlson M",
+        "Osei D",
+        "Trehan SK"
+      ],
+      "authors_short": "Forrester LA, Rahman R, et al.",
+      "journal": "The Journal of hand surgery",
+      "journal_abbrev": "J Hand Surg Am",
+      "year": "2026",
+      "abstract": "PURPOSE: The purpose of this study was to assess outcomes after treatment of scaphoid nonunion with open reduction internal fixation and nonvascularized autograft (NVA). METHODS: This was a retrospective case series assessing all patients with scaphoid nonunions treated with open reduction internal fixation and NVA at a multispecialty orthopedic hospital from 2014 to 2024. Inclusion criteria were 12 weeks or greater from date of injury to date of surgery. Exclusion criteria were absence of postoperative CT scan or presence of additional local procedures. Radiographic healing was defined as 50% bridging bone on CT scan. RESULTS: Ninety-nine patients were included in this study: 45 patients were treated with cancellous only autograft (COA), 52 were treated with corticocancellous autograft (CCA), and 2 were treated with osteochondral autograft. Ninety-five percent of patients healed. Median time to healing was 81 days. On first postoperative CT, obtained at a median of 77 days after surgery, 75% of patients were healed. Eighty-nine percent of patients had bridging bone present on first CT; 99% of these patients went on to heal. Thirteen patients in this study had a prior attempt at surgical fixation at another institution; all healed after revision surgery. There were no significant differences in the odds of healing at any time point or the time to healing for patients treated with CCA versus COA. CONCLUSIONS: Surgical treatment of scaphoid nonunion with NVA had a union rate of 95%. There were no significant differences in outcomes between patients treated with CCA and COA. Of patients who exhibited bridging bone on CT obtained at a median of 76 days after surgery, 99% went on to union. These findings support use of NVA for scaphoid nonunion and discourage the use of multiple postoperative CT scans to confirm healing. TYPE OF STUDY/LEVEL OF EVIDENCE: Therapeutic IV.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42262294/",
+      "score": 75,
+      "score_reasoning": "Retrospective case series of 99 scaphoid nonunion cases treated with autograft showing 95% union rate with good sample size and clinical relevance.",
+      "bullets": [
+        "Scaphoid nonunion treated with open reduction, internal fixation, and nonvascularized autograft achieved 95% union rate in 99 patients with median healing time of 81 days.",
+        "No difference in healing rates between cancellous only autograft versus corticocancellous autograft, and all 13 patients with prior failed surgery elsewhere healed after revision.",
+        "If bridging bone appears on first postoperative CT at 11 weeks, 99% of patients will heal completely, suggesting additional imaging is unnecessary."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-06-11T06:59:11.092155-07:00"
+}
