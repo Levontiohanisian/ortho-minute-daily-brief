@@ -1,0 +1,345 @@
+{
+  "brief_date": "2026-06-12",
+  "brief_date_display": "Friday, June 12",
+  "candidates": [
+    {
+      "pmid": "42266073",
+      "title": "Contralateral ACL Rupture as an Indicator of Intrinsic Risk for Graft Failure After ACL Reconstruction: A Cohort Study of 7718 Patients From the SANTI Study Group.",
+      "authors": [
+        "Santamaria F",
+        "Culebras Almeida LA",
+        "Carrozzo A",
+        "Campos JP",
+        "Saithna A",
+        "Vieira TD",
+        "Sonnery-Cottet B"
+      ],
+      "authors_short": "Santamaria F, Culebras Almeida LA, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Graft failure after anterior cruciate ligament (ACL) reconstruction (ACLR) may be influenced by both extrinsic exposure and intrinsic patient susceptibility. A contralateral ACL rupture could reflect an inherent predisposition to ligament injury. PURPOSE: To determine whether a history of bilateral native ACL ruptures increases the risk of graft failure after primary ACLR. STUDY DESIGN: Cohort study; Level of evidence, 2. METHODS: A total of 7718 consecutive patients who underwent primary ACLR by a single surgeon (2003-2022) were included. Graft failure, defined as a clinically and magnetic resonance imaging-confirmed rupture, was compared between patients with bilateral versus unilateral native ACL ruptures. Multivariable logistic regression identified independent predictors, including age, sex, Tegner score, sport type, and a history of bilateral rupture. RESULTS: The cohort included 6327 patients with isolated native ACL rupture and 1391 patients with bilateral native ACL rupture. The overall graft failure rate was 6% (461-7718), with a mean follow-up of 135.9 months. Patients with bilateral ACL ruptures had a higher failure rate (9.3%) than those with unilateral injuries (5.2%) (P < .0001). Independent predictors included younger age (odds ratio [OR], 0.92 [95% CI, 0.90-0.93]; P < .0001), male sex (OR, 1.46 [95% CI, 1.10-1.96]; P = .0089), higher Tegner score (OR, 1.09 [95% CI, 1-1.19]; P = .043), and bilateral rupture (OR, 1.34 [95% CI, 1.03-1.73]; P = .028). CONCLUSION: Bilateral native ACL rupture independently increases the risk of graft failure after ACLR. This finding supports its use as a marker of intrinsic vulnerability that may warrant targeted preventive or surgical strategies.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42266073/",
+      "score": 85,
+      "score_reasoning": "Large prospective cohort study (7718 patients) from AJSM examining bilateral ACL rupture as risk factor for graft failure with high clinical relevance for ACL reconstruction decision-making.",
+      "bullets": [
+        "Patients with bilateral native ACL ruptures have 9.3% graft failure rates compared to 5.2% for unilateral injuries in this 7,718 patient cohort.",
+        "Bilateral ACL rupture history independently predicts graft failure with 34% increased odds after controlling for age, sex, and activity level.",
+        "A history of contralateral ACL rupture may identify patients needing enhanced surgical techniques or prevention strategies due to intrinsic tissue vulnerability."
+      ]
+    },
+    {
+      "pmid": "42267387",
+      "title": "The Effect of Preoperative Symptom Duration on 10-Year Outcomes After Hip Arthroscopy for Femoroacetabular Impingement Syndrome: A Matched Analysis.",
+      "authors": [
+        "Hu EY",
+        "Bi AS",
+        "Cervantes JE",
+        "Nho SJ"
+      ],
+      "authors_short": "Hu EY, Bi AS, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Patients with femoroacetabular impingement syndrome (FAIS) experiencing >2 years of pain before hip arthroscopy have been linked with worse short-term and midterm outcomes. PURPOSE: To examine the effect of preoperative pain duration on patient-reported outcomes (PROs), clinically significant outcomes, and reoperation rates in patients undergoing primary hip arthroscopy for FAIS. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: A prospectively maintained surgical repository was reviewed to select patients who underwent primary hip arthroscopy for FAIS between January 2012 and October 2014 with 10-year follow-up. Patients who reported pain \u22652 years before surgery were propensity score matched 1:1 to patients reporting preoperative pain <2 years by age, sex, and body mass index (BMI). PRO scores collected included those for the Hip Outcome Score-Activities of Daily Living (HOS-ADL), Hip Outcome Score-Sports Subscale (HOS-SS), modified Harris Hip Score (mHHS), and visual analog scale (VAS) for pain and satisfaction. Achievement rates of the minimal clinically important difference and patient acceptable symptom state were compared. Reoperation-free survivorship was compared with Kaplan-Meier analysis. RESULTS: A total of 164 patients who had a symptom duration \u22652 years (mean age, 35.9 \u00b1 11.7 years; 64.0% female; mean BMI, 25.3 \u00b1 5.2 kg/m2) were successfully matched to 164 patients who had a symptom duration <2 years (mean age, 35.8 \u00b1 11.9 years; 64.6% female; mean BMI, 25.3 \u00b1 4.7 kg/m2). Patient characteristics were similar between groups. Preoperative and 2-year PRO scores were similar between groups. At 10 years, the prolonged pain group had worse mHHS (P = .027), higher VAS pain (P = .002), and lower VAS satisfaction (P = .002) scores than the short pain group. The prolonged pain group also had significantly lower achievement rates of the minimal clinically important difference for the HOS-ADL (P = .024) and HOS-SS (P = .039) and lower achievement rates of the patient acceptable symptom state for the VAS pain (P = .006) and at least 1 PRO measure (P = .041). Reoperation-free survivorship did not differ between groups (P = .11). CONCLUSION: Patients with pain \u22652 years before undergoing primary hip arthroscopy for FAIS significantly improved at 10 years but experienced worse function, pain, satisfaction, and achievement of clinically significant outcomes, with similar survivorship, compared to a matched group of patients with preoperative pain <2 years.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42267387/",
+      "score": 82,
+      "score_reasoning": "Controlled laboratory study in AJSM demonstrating novel transcortical vessel revascularization technique for rotator cuff repair with potential clinical applications for improving healing.",
+      "bullets": [
+        "Patients with hip pain for 2+ years before arthroscopy for FAI have worse function, more pain, and lower satisfaction at 10 years compared to those with shorter symptom duration.",
+        "Achievement of meaningful clinical improvement is significantly lower in patients who wait 2+ years for surgery versus those treated earlier.",
+        "Reoperation rates at 10 years are similar regardless of preoperative symptom duration, but earlier intervention leads to better outcomes."
+      ]
+    },
+    {
+      "pmid": "42242570",
+      "title": "Subsidence Starts Distally: Scaffolding Versus Reconstitution Closure of the Extended Trochanteric Osteotomy in Revision Total Hip Arthroplasty.",
+      "authors": [
+        "Jolissaint JE",
+        "Rodriguez S",
+        "Sanchez LA",
+        "Weiner TR",
+        "Gausden EB",
+        "Chalmers B",
+        "Rodriguez J",
+        "Sculco P"
+      ],
+      "authors_short": "Jolissaint JE, Rodriguez S, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Extended trochanteric osteotomy (ETO) facilitates safe removal of well-fixed femoral stems during revision total hip arthroplasty (rTHA). The optimal ETO closure method, scaffolding (open ETO during canal preparation) or reconstitution (ETO reduced prior to preparation), remains unclear, especially regarding subsidence of tapered splined titanium stems (TSTS). We evaluated the impact of the ETO closure technique on postoperative TSTS subsidence, hypothesizing no significant difference. METHODS: We retrospectively reviewed 66 rTHAs (2016 to 2020) performed with ETO and TSTS implantation. There were 35 cases that used reconstitution and 31 that used scaffolding. Subsidence was measured radiographically from immediate postoperative to final follow-up. Subsidence greater than five mm was deemed clinically relevant. Statistical analyses included Mann-Whitney U-tests, Chi-square tests, and multivariable logistic regressions. RESULTS: Average subsidence was higher in the reconstitution group (6.0 \u00b1 3.6 mm) than in the scaffolding group (4.3 \u00b1 2.9 mm, P = 0.018). Rates of significant subsidence (greater than five mm) were similar (31.4 versus 32.3%, P = 0.958). Scaffolding achieved greater distal bicortical contact (50 \u00b1 5.4 versus 28 \u00b1 4.8 mm; P = 0.002), which inversely correlated with subsidence (r = -0.26, P = 0.037). Contact length within the ETO was not predictive of subsidence (P = 0.359). Logistic regression identified distal bicortical contact greater than 30 mm below the ETO as protective against significant subsidence (odds ratio (OR) 0.12, P < 0.001). Subgroup analysis revealed lower subsidence in reconstitution cases with a healed ETO (e.g., staged periprosthetic joint infection revisions) than in fresh ETOs closed with reconstitution (4.0 \u00b1 1.1 versus 9.1 \u00b1 2.4 mm). The ETO union rates were high (94.0%) in both groups. CONCLUSION: Both closure techniques are viable; however, scaffolding offers superior distal fixation and reduced subsidence in fresh osteotomies. Reconstitution yields similar outcomes when the ETO is healed. Ensuring greater than 30 mm of bicortical contact below the ETO is key to minimizing stem subsidence, regardless of closure technique.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42242570/",
+      "score": 78,
+      "score_reasoning": "Controlled laboratory study from AJSM evaluating modified MacIntosh ACLR biomechanics in pediatric patients, addressing important clinical technique with novel findings.",
+      "bullets": [
+        "Scaffolding closure of extended trochanteric osteotomy reduces stem subsidence compared to reconstitution closure (4.3 mm vs 6.0 mm average) in revision hip arthroplasty.",
+        "Distal bicortical contact greater than 30 mm below the osteotomy protects against clinically significant subsidence regardless of closure technique used.",
+        "Reconstitution closure performs similarly to scaffolding when the osteotomy is already healed, as in staged periprosthetic joint infection revisions."
+      ]
+    },
+    {
+      "pmid": "42264334",
+      "title": "Outcomes of Total Hip Arthroplasty Based on Surgeon Fellowship and Case Volume.",
+      "authors": [
+        "Katanbaf R",
+        "Misch M",
+        "Aflatooni JO",
+        "Smitterberg CW",
+        "Griffin D",
+        "Nace J",
+        "Delanois R",
+        "Mont MA"
+      ],
+      "authors_short": "Katanbaf R, Misch M, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Total hip arthroplasty (THA) is a highly successful procedure performed by orthopaedic surgeons of various fellowship training, case volumes, and practice types. This study aimed to compare postoperative outcomes between fellowship-trained (FT) arthroplasty and non-arthroplasty surgeons, stratified by low, intermediate, and high case volume. Outcomes were collected for up to two years postoperatively: 1) mechanical complications (dislocation, aseptic loosening, and periprosthetic fracture (PPFX)), 2) infectious complications (periprosthetic joint infection (PJI) and surgical site infection (SSI)), 3) aseptic revision, and 4) venous thromboembolism (VTE). METHODS: We retrospectively queried a national all-payer database to identify 457,372 patients who had primary THA between 2010 and 2021. Using National Provider Identifiers, the number of surgeons was categorized by fellowship training (arthroplasty versus non-arthroplasty) and stratified by total case volume during the study period (high, intermediate, and low). Propensity score matching was performed with the respective FT group as the basis of comparison. RESULTS: High-volume FT surgeons demonstrated lower hip dislocation rates compared with all NFT cohorts at 90 days (0.8 versus 0.9 to 1.2%), one year (1.1 versus 1.2 to 1.5%), and two years (1.2 versus 1.3 to 1.7%) (all P < 0.001). High-volume FT surgeons also had lower aseptic revision rates up to two years (all P < 0.05) and lower PJI rates at two years (P = 0.008). There were no differences observed in PPFX, SSI, VTE, or aseptic loosening. Intermediate- and low-volume FT surgeons similarly demonstrated reduced dislocation rates compared with NFT surgeons, though other complications were comparable (all P > 0.05). There were no NFT surgeon volume threshold achieved outcomes equivalent to high volume FT surgeons. CONCLUSION: Postoperative THA outcomes were optimized by the combined effects of fellowship training and high surgical volume, underscoring the importance of experience in addition to formal subspecialty training.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42264334/",
+      "score": 75,
+      "score_reasoning": "Large arthroplasty study (457,372 patients) comparing fellowship-trained vs non-fellowship surgeons with high clinical relevance for surgeon selection and training.",
+      "bullets": [
+        "Fellowship-trained arthroplasty surgeons with high case volumes had lower hip dislocation rates at all time points compared to non-fellowship trained surgeons regardless of volume.",
+        "High-volume fellowship-trained surgeons also showed lower two-year aseptic revision rates and periprosthetic joint infection rates compared to non-fellowship trained surgeons.",
+        "No case volume threshold allowed non-fellowship trained surgeons to achieve outcomes equivalent to high-volume fellowship-trained arthroplasty surgeons."
+      ]
+    },
+    {
+      "pmid": "42281841",
+      "title": "Impact of Preoperative Osteoporotic Medications on Total Hip Arthroplasty Outcomes.",
+      "authors": [
+        "Antonioli SS",
+        "Ruff G",
+        "Leung N",
+        "Patel A",
+        "Schwarzkopf R",
+        "Cohen-Rosenblum A"
+      ],
+      "authors_short": "Antonioli SS, Ruff G, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Osteoporosis (OP) is a common comorbidity in patients undergoing total hip arthroplasty (THA) and is a known risk factor for poor postoperative outcomes such as periprosthetic fracture (PPF). The impact of preoperative OP medications in patients with OP undergoing THA remains unclear. This study aimed to compare THA outcomes by OP diagnosis and preoperative bone strengthening medication usage. METHODS: This was a retrospective review of primary elective THAs from June 2011-January 2024. Patients were stratified by OP diagnosis and OP medication usage, then propensity matched in a 1:2:3 ratio by age, sex, body mass index, and comorbidities. The resulting cohorts: (1) OP and medication usage for at least 1 year preoperatively and within 7 years of the procedure (n = 296), (2) OP and no medication usage (n = 592), and (3) no diagnosis of OP and no medication usage (n = 888) were then compared for postoperative outcomes. RESULTS: Patients in cohort 1 were more likely to visit the emergency department (P = .043) or be readmitted for a surgical complication (P = .007) within 90 days. They were more likely to undergo posterior approach than cohorts 2 and 3 (P = .016), had the highest occurrence of cemented femoral stems (38.2%, P < .001), and had a higher incidence of revision for PPF (3.4%, vs 0.8% [cohort 2] and 1.2% [cohort 3], P = .009). Of the 12 revisions due to periprosthetic femoral fracture in cohorts 1 and 2 combined, 11 (91.7%) occurred around an uncemented implant. CONCLUSIONS: Osteoporotic patients on OP medications did not have improved outcomes after THA compared with nonmedicated osteoporotic patients or those without a diagnosis of OP. PPF in osteoporotic patients overwhelmingly occurred around uncemented femoral implants. Surgeons should use caution when operating on osteoporotic patients, regardless of utilization of preoperative medications, and strongly consider using cemented femoral implants to decrease the risk of PPF.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42281841/",
+      "score": 72,
+      "score_reasoning": "Large retrospective THA study examining osteoporotic medication impact on outcomes with propensity matching and clinically relevant findings for perioperative management.",
+      "bullets": [
+        "Osteoporotic patients on bone medications had higher 90-day complications and revision rates for periprosthetic fracture compared to untreated osteoporotic patients or normal bone patients.",
+        "Among osteoporotic THA patients, 92% of periprosthetic femoral fractures occurred around uncemented implants versus cemented stems.",
+        "Preoperative osteoporosis medications did not improve THA outcomes, suggesting cemented femoral components should be considered in all osteoporotic patients."
+      ]
+    },
+    {
+      "pmid": "42275484",
+      "title": "Comparative Analysis of Immune Cell-Type Abundances in Periprosthetic Tissues Across Arthroplasty Failure Etiologies: Use of Transcriptomic Deconvolution.",
+      "authors": [
+        "Li Y",
+        "Wang F",
+        "Li Y",
+        "Mu W",
+        "Ji B",
+        "Zhang X",
+        "Cao L"
+      ],
+      "authors_short": "Li Y, Wang F, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Although cellularity is traditionally evaluated morphologically, an emerging transcriptome-sequencing-based algorithm enables simultaneous inference of cellular information. We studied whether cellularity profiles predicted using CIBERSORTx would (1) depict immune cell-type abundances in periprosthetic tissues across arthroplasty failure etiologies, and (2) provide prognostic value for identifying cases of periprosthetic joint infection (PJI). METHODS: CIBERSORTx-derived cellularity profiles were evaluated in 185 periprosthetic tissue samples, including 135 from patients with PJI (64 males; median age, 66 years) and 50 from those with aseptic failure (AF) (36 males; median age, 62.5 years), that had been subjected to bulk RNA sequencing. Kaplan-Meier survival analysis was performed to assess prognostic outcomes in PJI. RESULTS: Of the 22 evaluated cell types, 5 were significantly elevated in PJI cases: plasma cells, resting memory CD4+ T cells, CD8+ T cells, activated mast cells, and M1 macrophages (all p < 0.05 after Benjamini-Hochberg [BH] correction). Conversely, 3 cell types were significantly elevated in AF cases: gamma delta T cells, M0 macrophages, and M2 macrophages (all p < 0.05 after BH correction). Of the combined immune cell populations, total B cells, total T cells, and natural killer cells were significantly elevated in PJI cases, while total macrophages/monocytes were significantly elevated in AF cases (all p < 0.05 after BH correction). Patients with PJI who had a CD8+/regulatory T cell (Treg) ratio above the median had a significantly lower rate of infection recurrence than those below the median (log-rank p = 0.0252). CONCLUSIONS: CIBERSORTx analysis of samples from periprosthetic tissues predicted distinct immune cell profiles that differed between PJI and aseptic arthroplasty failure modes, and also identified a high CD8+/Treg ratio as a potential prognostic marker. This transcriptomic approach provides a novel, single-assay strategy for evaluating local immune cell responses across arthroplasty failure etiologies. CLINICAL RELEVANCE: The comparative analysis of immune cell-type abundances in periprosthetic tissues across arthroplasty failure etiologies revealed distinct immune microenvironment signatures that differentiate PJI from AF. Additionally, the finding that a higher CD8+/Treg cell ratio is associated with a lower rate of infection recurrence offers a potential prognostic marker to help identify patients with PJI who are at a lower risk for treatment failure.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42275484/",
+      "score": 70,
+      "score_reasoning": "JBJS study using novel transcriptomic deconvolution to analyze immune cell populations in periprosthetic tissues with potential prognostic value for PJI.",
+      "bullets": [
+        "Periprosthetic joint infection tissues show higher plasma cells, memory T cells, CD8+ T cells, activated mast cells, and M1 macrophages compared to aseptic failure tissues.",
+        "Aseptic failure tissues contain more gamma delta T cells, M0 macrophages, and M2 macrophages than infected tissues.",
+        "Periprosthetic joint infection patients with high CD8+/regulatory T cell ratios have lower infection recurrence rates after treatment."
+      ]
+    },
+    {
+      "pmid": "42257364",
+      "title": "Prospective Methodology Results in Higher Rates of Reported Complications Following Pediatric ACL Reconstruction.",
+      "authors": [
+        "Martin H",
+        "Ellis H",
+        "Agonias K",
+        "Van Pelt R",
+        "Saper M",
+        "Niu EL",
+        "Green D",
+        "Schmitz M",
+        "Ganley T",
+        "Wilson P",
+        "Shea K",
+        "Albright J",
+        "Algan S",
+        "Arvesen J",
+        "Beck J",
+        "Bowen R",
+        "Brey J",
+        "Brown M",
+        "Cardelia M",
+        "Chan C",
+        "Clark C",
+        "Crepeau A",
+        "Cruz A",
+        "Edmonds E",
+        "Ellington M",
+        "Fabricant P",
+        "Frank J",
+        "Heyworth BE",
+        "Koehler R",
+        "Latz K",
+        "Lawrence T",
+        "Mansour A",
+        "Mayer S",
+        "McKay S",
+        "Meadows M",
+        "Milewski M",
+        "Pacicca D",
+        "Parikh S",
+        "Pearce S",
+        "Piazza B",
+        "Schlechter J",
+        "Schmale G",
+        "Storer S",
+        "Vandenberg C",
+        "Warnick D",
+        "Yen YM"
+      ],
+      "authors_short": "Martin H, Ellis H, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: The incidence of pediatric anterior cruciate ligament reconstructions (ACLR) has drastically increased over the last 20 years. Previous studies have sought to characterize postoperative complications, but few have utilized a prospective, surgeon-reported protocol. This study aimed to utilize a large, multicenter, prospective collection from a quality improvement registry to determine complication incidence \u22648 months after ACLR. Additional aims sought to compare complication rates between the prospective database and a non-prospective database, as well as between early-career (\u22645\u00a0y) and more experienced surgeons (>5\u00a0y). METHODS: This study is a review of complication rates after pediatric ACLR submitted to 2 different collection instruments: the Sports Cohort Outcomes Registry (SCORE), a multicenter, prospective quality improvement registry, and the American Board of Orthopaedic Surgeons (ABOS) Part II Oral Exam database. Patients within the SCORE database underwent surgery from 2018 to 2025 and were \u226418 years old at the time of surgery, while ABOS patients underwent surgery from 2000 to 2021 and were \u226419 years old. Frequencies of complications were calculated, and statistical analysis followed using \u03c72 and Fisher's exact tests. Additional comparisons were performed based on surgeon experience. Significance was set at P<0.05. RESULTS: Out of 8516 total cases in the SCORE database, 992 (11.6%) experienced a complication \u22648 months post-operation, and there was no significant difference between SCORE and ABOS incidence of total complications (11.6% vs. 11.1%, P=0.2296) (SCORE % vs. ABOS %, P value). In addition, there were no differences in medical complications (0.8% vs. 0.9%, P=0.2182), surgical complications (10.8% vs. 10.1%, P=0.0777), and infection (1.3% vs. 1.5%, P=0.2023). The most common complication, stiffness, had significant differences in reported rates between SCORE and ABOS (4.8% vs. 3.6%, P=0.0013). Differences were also noted in reoperation (3.7% vs. 1.8%, P<0.0001), wound-healing delay (1.3% vs. 0.5%, P<0.0001), pain (1.2% vs. 0.4%, P<0.0001), nerve palsy (1.0% vs. 0.7%, P=0.0325), readmission (0.6% vs. 1%, P=0.0047), and deep vein thrombosis (0.1% vs. 0.2%, P=0.0119). Further analysis of SCORE surgeons with >5 years of experience versus SCORE surgeons with \u22645 years of experience yielded no differences among any complications. In addition, significant differences were no longer found for only DVT (0% vs. 0.2%, P=0.6247) and nerve palsy (0.3% vs. 0.7%, P=0.3281) when comparing SCORE surgeons with \u22645 years of experience versus ABOS surgeons. CONCLUSION: This study provides the first comprehensive list of complications after pediatric ACLR with a large, entirely pediatric, and prospective patient cohort. In addition, it provides the first statistical comparison between pediatric ACLR complications as reported by a prospective database versus a non-prospective database and finds that prospective studies may allow for more accurate determination of reoperation rates and surgical-related complication rates, such as pain, stiffness, and wound-healing delay. In addition, this study provides evidence that complication rates after ACLR do not differ between early-career (\u22645\u00a0y) and more experienced (>5\u00a0y) surgeons.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42257364/",
+      "score": 68,
+      "score_reasoning": "Systematic review from AJSM examining return-to-play rates after hook of hamate excision in 624 baseball players with sport-specific clinical relevance.",
+      "bullets": [
+        "Pediatric ACL reconstruction has an 11.6% complication rate within 8 months, with stiffness being the most common problem at 4.8%.",
+        "Prospective data collection captures higher rates of reoperations, stiffness, pain, and wound healing delays compared to retrospective reporting methods.",
+        "Surgeon experience level does not affect complication rates in pediatric ACL reconstruction cases."
+      ]
+    },
+    {
+      "pmid": "42248213",
+      "title": "Preoperative Shoulder Stiffness Was Accompanied by Distinct Supraspinatus Tendon Inflammatory Signatures but Not Inferior Long-term Outcomes After Rotator Cuff Repair.",
+      "authors": [
+        "Liu M",
+        "Cai H",
+        "Tang C",
+        "Luo J",
+        "Wang X",
+        "Liu H",
+        "Ruan D",
+        "Wang C",
+        "Chen X",
+        "Shen W"
+      ],
+      "authors_short": "Liu M, Cai H, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Rotator cuff tears with concomitant preoperative shoulder stiffness present a clinical challenge because the rehabilitation needed to restore motion may conflict with the protection typically used to support tendon healing after rotator cuff repair. Although recent studies suggest that preoperative stiffness may not be associated with inferior long-term outcomes, whether it is associated with a different pattern of postoperative improvement and distinct inflammatory features in the torn tendon remains unclear. QUESTIONS/PURPOSES: (1) Do a greater proportion of patients with preoperative shoulder stiffness achieve improvements in functional outcomes that exceed the minimum clinically important difference (MCID) at 3, 6, 12, and 24 months? (2) Do supraspinatus tendons from patients with shoulder stiffness show molecular and histologic features consistent with greater inflammation than tendons from patients without stiffness? METHODS: This prospective, observational cohort study included patients scheduled to undergo arthroscopic rotator cuff repair for unilateral rotator cuff tears with medium-sized, full-thickness supraspinatus tears, with or without concomitant preoperative shoulder stiffness. A medium-sized tear was defined as a supraspinatus tendon tear measuring 3 cm or less on preoperative coronal MRI. Preoperative shoulder stiffness was defined as passive shoulder ROM of less than 120\u00b0 in forward flexion, less than 30\u00b0 in external rotation at the side, or internal rotation lower than the L3 spinal level. Patients who met any one of these three criteria were assigned to the stiffness group. Between March 2020 and December 2023, 474 patients from both urban and rural areas who were scheduled to undergo repair for rotator cuff tears were evaluated at our shoulder pain specialty clinic. The inclusion criteria were: (1) full-thickness unilateral supraspinatus tendon tears measuring 3 cm or less in the AP dimension, confirmed on T2-weighted MRI, and (2) radiographs and MRI demonstrating no other shoulder pathology, including fracture, arthritis, dislocation, or glenoid labral tear. After strict eligibility assessment, 39% (186 of 474) of patients met all inclusion criteria and were enrolled into either the stiffness group (92 patients) or the without stiffness group (94 patients) based on predefined criteria. Specifically, 28% (135 of 474) of patients were excluded because symptom duration exceeded 12 months, 1% (2 of 474) were excluded because of missing MRI data, and 4% (20 of 474) were excluded because they had received more than three glucocorticoid injections. In addition, 18% (84 of 474) of patients were excluded because of systemic comorbidities or a history of surgery on the affected shoulder: rheumatoid arthritis in 1% (2 of 474), thyroid disorders in 3% (12 of 474), diabetes in 9% (43 of 474), gout in 1% (1 of 474), osteoporosis in 1% (5 of 474), hyperlipidemia in 4% (17 of 474), previous shoulder surgery in 1% (3 of 474), and concomitant upper limb fracture in 1% (1 of 474). A preoperative MRI evaluation resulted in the exclusion of patients with labral lesions (1% [5 of 474]), calcific tendinitis (1% [3 of 474]), massive tears (4% [21 of 474]), and partial-thickness tears (4% [18 of 474]). The enrolled cohort comprised 186 patients, with a mean age of 62 \u00b1 7 years and a mean BMI of 24.1 \u00b1 2.8 kg/m2. Women accounted for 68% (127 of 186) of the cohort. Of the 186 enrolled patients, 4% (8 of 186) were lost to follow-up by 12 months and an additional 15% (27 of 186) by 24 months, leaving 81% (151 of 186) for the final analysis; there were 75 patients with stiffness and 76 without stiffness. Clinical outcomes, including ROM, the VAS, Oxford shoulder score (OSS), and Constant-Murley Score (CMS), were assessed preoperatively and at 3, 6, 12, and 24 months postoperatively. MRI was performed preoperatively and at 24 months. Retears were assessed using the Sugaya classification at 24-month follow-up, with Types IV and V defined as postoperative retears. Intraoperative supraspinatus tendon samples were collected and analyzed using histology and bulk RNA sequencing. To address our first study question, we evaluated postoperative recovery at two levels. First, we applied anchor-based MCID thresholds reported in previous studies: 10 points for the CMS, 6 points for the OSS, and 1.4 points for the VAS. We then compared the proportions of patients in the two groups who achieved clinically meaningful improvement at each postoperative follow-up time point (3, 6, 12, and 24 months) to determine whether patients with preoperative stiffness were more likely to achieve meaningful improvement at scheduled follow-up visits. Second, we used repeated-measures ANOVA and mixed-effects models to analyze the longitudinal trajectories of the CMS and OSS across follow-up and to evaluate whether the postoperative pattern of improvement differed between groups. To address our second study question, supraspinatus tendon tissue was collected intraoperatively for histologic and bulk RNA sequencing. Histologic differences were assessed using the revised Bonar scoring system, and transcriptomic differences were evaluated using differential gene expression and functional enrichment analyses. RESULTS: At 3 months, a greater proportion of patients in the stiffness group achieved the MCID in the CMS (43% [32 of 75] versus 13% [10 of 76], OR 4.9 [95% CI 2.2 to 11.0]; p < 0.001), OSS (59% [44 of 75] versus 21% [16 of 76], OR 5.3 [95% CI 2.6 to 10.9]; p < 0.001), and VAS-movement (33% [25 of 75] versus 17% [13 of 76], OR 2.4 [95% CI 1.1 to 5.2]; p = 0.02). Similar patterns were observed at 6 and 12 months, with higher proportions of patients in the stiffness group achieving clinically meaningful improvement across the CMS, OSS, and VAS-movement. By 24 months, the patients with stiffness still had higher MCID achievement proportions for the CMS (100% [75 of 75] versus 83% [63 of 76], OR 32.1 [95% CI 1.9 to 550.8]; p < 0.001), OSS (99% [74 of 75] versus 88% [67 of 76], OR 9.9 [95% CI 1.2 to 80.6]; p = 0.02), and VAS-movement (83% [62 of 75] versus 68% [52 of 76], OR 2.2 [95% CI 1.0 to 4.7]; p = 0.04), whereas we found no differences between groups for VAS-rest or VAS-sleep at any follow-up timepoint. Longitudinal analyses showed different postoperative improvement patterns for the CMS and OSS between groups (group-by-time interaction: CMS, ges = 0.121; p < 0.001; OSS, ges = 0.075; p < 0.001), although these differences were no longer observed after adjustment for baseline score (CMS: \u03b2 0.1 [95% CI -0.1 to 0.2]; p = 0.63). With respect to tendon biology, patients with and without preoperative stiffness showed different molecular and histologic features. The patients with stiffness had 254 upregulated genes and 554 downregulated genes, were enriched in the inflammatory tendinopathy subtype (NES 2.6; adjusted p < 0.01), and showed more inflammatory cell infiltration and higher revised Bonar inflammation scores. By contrast, the patients without stiffness were enriched in the hypoxia-white subtype (NES -2.8; adjusted p < 0.01) and in metabolic, muscle-development, and neurodevelopment pathways. Immune deconvolution also supported a more immune-activated tendon microenvironment in the patients with stiffness. CONCLUSION: In patients with medium-sized rotator cuff tears, preoperative shoulder stiffness was not associated with worse long-term outcomes after arthroscopic rotator cuff repair. Although patients with stiffness started with worse shoulder function, they were more likely to achieve clinically meaningful improvement during the early postoperative period, a pattern that likely reflects lower baseline function and greater room for improvement rather than superior final recovery. In addition, inflammatory tendon features from patients with shoulder stiffness reflected a distinct biologic context. For surgeons, these findings may help when counseling patients with rotator cuff tears that satisfactory recovery is achievable even with concomitant preoperative shoulder stiffness. Future work should focus on whether this inflammatory tendon feature can be validated in broader patient populations and can be used to refine biologic classification and postoperative management. LEVEL OF EVIDENCE: Level II, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42248213/",
+      "score": 67,
+      "score_reasoning": "Prospective comparative study of bilateral shoulder arthroplasty timing from JSES with important clinical implications for surgical scheduling and complications.",
+      "bullets": [
+        "Patients with preoperative shoulder stiffness and medium rotator cuff tears achieve similar long-term outcomes as those without stiffness after arthroscopic repair.",
+        "Stiff shoulders show greater early postoperative improvement rates because they start with worse baseline function, creating more room for meaningful gains.",
+        "Supraspinatus tendons from patients with shoulder stiffness demonstrate increased inflammatory cell infiltration and distinct molecular signatures compared to non-stiff shoulders."
+      ]
+    },
+    {
+      "pmid": "42248346",
+      "title": "Shoulder Arthroplasty Outcomes in Hypertensive Patients: A Propensity Score-Matched Comparison of ARBs and ACE Inhibitors.",
+      "authors": [
+        "Lee S",
+        "Jayne C",
+        "Kim MT",
+        "Boufadel P",
+        "Cook AE",
+        "Uppstrom TJ",
+        "Li X"
+      ],
+      "authors_short": "Lee S, Jayne C, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Hypertension is a highly prevalent comorbidity among patients undergoing total shoulder arthroplasty (TSA), and angiotensin receptor blockers (ARBs) and angiotensin-converting enzyme inhibitors (ACEIs) are among the most commonly prescribed antihypertensive medications. Emerging evidence suggests that ARBs may confer musculoskeletal benefits, including improved bone quality and reduced fracture risk, compared with ACEIs. The purpose of this study was to evaluate the association between ARB versus ACEI use and the risk of periprosthetic complications in hypertensive patients undergoing TSA. METHODS: The TriNetX Global Collaborative Network was queried for hypertensive patients who underwent primary TSA: anatomic total shoulder arthroplasty (aTSA), reverse shoulder arthroplasty (rTSA), and hemiarthroplasty (HA). Patients were stratified by documented perioperative use of ARBs or ACEIs at both timepoints, 6 months before and after surgery. Propensity score matching (1:1) was performed for age, sex, BMI, HbA1c, smoking status, osteoporosis, rheumatoid arthritis, and comorbidities included in the Charlson Comorbidity Index. Outcomes included medical complications, surgical complications, readmission, emergency department (ED) visits, and revision rates, assessed at 90 days, 1 and 2 years postoperatively. Kaplan-Meier analyses evaluated survivorship free from dislocation, stiffness, and periprosthetic fracture (PPFx). RESULTS: After matching, 11,603 patients were included in both ARB and ACEI cohorts. Further stratification by arthroplasty type yielded matched cohorts of 1,559 aTSA, 3,734 rTSA, and 412 HA patients in both ARB and ACEI cohorts. ARB usage was associated with significantly decreased rates of dislocation at 90 days (OR 0.657; P = 0.014), 1 year (OR 0.793; P = 0.030), and 2 years (OR 0.668; P = 0.002). Similarly, PPFx rates were significantly reduced in the ARB cohort at 90 days (OR 0.674; P = 0.003), 1 year (OR 0.709; P = 0.003), and 2 years (OR 0.733; P = 0.004). Additionally, the risk of stiffness was significantly reduced in the ARB cohort at 1 (OR 0.793; P = 0.030) and 2 years (OR 0.778; P = 0.013). Subgroup analyses by arthroplasty type demonstrated a significantly decreased risk of PPFx among ARB users undergoing rTSA (OR 0.713; P = 0.027) and HA (OR 0.447; P = 0.016) at 2 years. CONCLUSIONS: Among hypertensive patients undergoing TSA, ARB usage was associated with lower risk of PPFx, dislocation, and stiffness compared with ACEI therapy, without differences in revision or medical complications. Although these findings suggest that ARBs may offer musculoskeletal advantages in the perioperative management of patients undergoing TSA, the observed associations were not consistently reproduced in the procedure-specific subgroups and warrant further prospective investigation.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42248346/",
+      "score": 66,
+      "score_reasoning": "RCT from JSES comparing non-opioid vs opioid pain management in young arthroscopy patients, addressing important contemporary pain management concerns.",
+      "bullets": [
+        "ARB users had 33% lower dislocation rates and 27% lower periprosthetic fracture rates compared to ACE inhibitor users after shoulder arthroplasty",
+        "The protective effect was most pronounced in reverse shoulder arthroplasty and hemiarthroplasty patients for periprosthetic fractures at 2 years",
+        "No differences in revision rates or medical complications were found between hypertensive patients taking ARBs versus ACE inhibitors"
+      ]
+    },
+    {
+      "pmid": "42281414",
+      "title": "Animal-Assisted Therapy Reduces Patient Reported Pain During Office Pin Removal Following Supracondylar Humerus Fracture Fixation: A Randomized Controlled Study.",
+      "authors": [
+        "Arif HA",
+        "Feijoo E",
+        "Padgett M",
+        "Nishikawa A",
+        "Williams KA",
+        "Strom SF",
+        "Ashley P",
+        "McGwin G",
+        "Doyle JS",
+        "Gilbert S",
+        "Conklin MJ"
+      ],
+      "authors_short": "Arif HA, Feijoo E, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Outpatient pin removal after pin fixation of supracondylar humerus (SCH) fractures is a frequent source of pain and anxiety in children. While pharmacologic and digital distraction strategies have demonstrated minimal efficacy in reducing procedural distress, animal-assisted therapy (AAT) remains an unexplored alternative in pediatric orthopaedics. The purpose of this study was to assess the effect of AAT on patient-reported pain and behavioral distress during office SCH pin removal. METHODS: A randomized controlled trial was conducted at a tertiary pediatric hospital. Pediatric patients aged 3 to 10 years undergoing office pin removal after SCH fracture fixation were randomized to pin removal with or without the presence of a certified therapy dog. Outcomes included patient-reported pain using the Wong-Baker FACES Pain Rating Scale, behavioral distress using the Face, Legs, Activity, Cry, and Consolability (FLACC) scale, heart rate measurements, and parental-reported anxiety assessed through survey. RESULTS: A total of 52 patients were enrolled in this study with 27 randomized to the Dog cohort and 25 to the control cohort. Patients in the Dog cohort demonstrated significantly lower patient-reported pain (FACES: 2.9 vs. 6.4, P<0.01) and behavioral distress (FLACC: 3.3 vs. 5.6, P=0.02) during pin removal. Peak heart rate was significantly lower in the Dog cohort (121.3 vs. 138.4 bpm, P=0.04), although change from baseline heart rate did not differ significantly (P=0.09). CONCLUSIONS: Animal-assisted therapy was associated with reduced patient-reported pain and behavioral distress during office SCH pin removal, supporting its role as a non-pharmacologic adjunct in pediatric orthopaedic care. LEVEL OF EVIDENCE: Level I, randomized controlled trial.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42281414/",
+      "score": 65,
+      "score_reasoning": "RCT from pediatric orthopaedics journal showing animal-assisted therapy reduces pain during pin removal, novel intervention with practical clinical applications.",
+      "bullets": [
+        "Children aged 3-10 undergoing supracondylar humerus pin removal reported significantly less pain when a therapy dog was present (2.9 vs 6.4 on FACES scale).",
+        "Therapy dogs also reduced behavioral distress scores and peak heart rate during the pin removal procedure in this 52-patient randomized trial.",
+        "Animal-assisted therapy offers a non-pharmacologic option for reducing procedural pain in pediatric orthopaedic office procedures."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-06-12T05:54:27.855430-07:00"
+}
