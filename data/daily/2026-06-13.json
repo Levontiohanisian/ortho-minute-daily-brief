@@ -1,0 +1,286 @@
+{
+  "brief_date": "2026-06-13",
+  "brief_date_display": "Saturday, June 13",
+  "candidates": [
+    {
+      "pmid": "42275484",
+      "title": "Comparative Analysis of Immune Cell-Type Abundances in Periprosthetic Tissues Across Arthroplasty Failure Etiologies: Use of Transcriptomic Deconvolution.",
+      "authors": [
+        "Li Y",
+        "Wang F",
+        "Li Y",
+        "Mu W",
+        "Ji B",
+        "Zhang X",
+        "Cao L"
+      ],
+      "authors_short": "Li Y, Wang F, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Although cellularity is traditionally evaluated morphologically, an emerging transcriptome-sequencing-based algorithm enables simultaneous inference of cellular information. We studied whether cellularity profiles predicted using CIBERSORTx would (1) depict immune cell-type abundances in periprosthetic tissues across arthroplasty failure etiologies, and (2) provide prognostic value for identifying cases of periprosthetic joint infection (PJI). METHODS: CIBERSORTx-derived cellularity profiles were evaluated in 185 periprosthetic tissue samples, including 135 from patients with PJI (64 males; median age, 66 years) and 50 from those with aseptic failure (AF) (36 males; median age, 62.5 years), that had been subjected to bulk RNA sequencing. Kaplan-Meier survival analysis was performed to assess prognostic outcomes in PJI. RESULTS: Of the 22 evaluated cell types, 5 were significantly elevated in PJI cases: plasma cells, resting memory CD4+ T cells, CD8+ T cells, activated mast cells, and M1 macrophages (all p < 0.05 after Benjamini-Hochberg [BH] correction). Conversely, 3 cell types were significantly elevated in AF cases: gamma delta T cells, M0 macrophages, and M2 macrophages (all p < 0.05 after BH correction). Of the combined immune cell populations, total B cells, total T cells, and natural killer cells were significantly elevated in PJI cases, while total macrophages/monocytes were significantly elevated in AF cases (all p < 0.05 after BH correction). Patients with PJI who had a CD8+/regulatory T cell (Treg) ratio above the median had a significantly lower rate of infection recurrence than those below the median (log-rank p = 0.0252). CONCLUSIONS: CIBERSORTx analysis of samples from periprosthetic tissues predicted distinct immune cell profiles that differed between PJI and aseptic arthroplasty failure modes, and also identified a high CD8+/Treg ratio as a potential prognostic marker. This transcriptomic approach provides a novel, single-assay strategy for evaluating local immune cell responses across arthroplasty failure etiologies. CLINICAL RELEVANCE: The comparative analysis of immune cell-type abundances in periprosthetic tissues across arthroplasty failure etiologies revealed distinct immune microenvironment signatures that differentiate PJI from AF. Additionally, the finding that a higher CD8+/Treg cell ratio is associated with a lower rate of infection recurrence offers a potential prognostic marker to help identify patients with PJI who are at a lower risk for treatment failure.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42275484/",
+      "score": 92,
+      "score_reasoning": "Transcriptomic deconvolution for PJI diagnosis in JBJS represents novel methodology with high clinical relevance for arthroplasty surgeons, strong study design with 185 samples, and significant potential for improving diagnostic accuracy.",
+      "bullets": [
+        "Periprosthetic joint infection tissues show higher levels of plasma cells, CD4+ T cells, CD8+ T cells, and M1 macrophages compared to aseptic failure tissues.",
+        "Aseptic failure tissues contain more gamma delta T cells and M2 macrophages, while infection tissues have more total B cells and T cells overall.",
+        "Patients with periprosthetic joint infection who have a high CD8+ to regulatory T cell ratio have lower rates of infection recurrence."
+      ]
+    },
+    {
+      "pmid": "42266073",
+      "title": "Contralateral ACL Rupture as an Indicator of Intrinsic Risk for Graft Failure After ACL Reconstruction: A Cohort Study of 7718 Patients From the SANTI Study Group.",
+      "authors": [
+        "Santamaria F",
+        "Culebras Almeida LA",
+        "Carrozzo A",
+        "Campos JP",
+        "Saithna A",
+        "Vieira TD",
+        "Sonnery-Cottet B"
+      ],
+      "authors_short": "Santamaria F, Culebras Almeida LA, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Graft failure after anterior cruciate ligament (ACL) reconstruction (ACLR) may be influenced by both extrinsic exposure and intrinsic patient susceptibility. A contralateral ACL rupture could reflect an inherent predisposition to ligament injury. PURPOSE: To determine whether a history of bilateral native ACL ruptures increases the risk of graft failure after primary ACLR. STUDY DESIGN: Cohort study; Level of evidence, 2. METHODS: A total of 7718 consecutive patients who underwent primary ACLR by a single surgeon (2003-2022) were included. Graft failure, defined as a clinically and magnetic resonance imaging-confirmed rupture, was compared between patients with bilateral versus unilateral native ACL ruptures. Multivariable logistic regression identified independent predictors, including age, sex, Tegner score, sport type, and a history of bilateral rupture. RESULTS: The cohort included 6327 patients with isolated native ACL rupture and 1391 patients with bilateral native ACL rupture. The overall graft failure rate was 6% (461-7718), with a mean follow-up of 135.9 months. Patients with bilateral ACL ruptures had a higher failure rate (9.3%) than those with unilateral injuries (5.2%) (P < .0001). Independent predictors included younger age (odds ratio [OR], 0.92 [95% CI, 0.90-0.93]; P < .0001), male sex (OR, 1.46 [95% CI, 1.10-1.96]; P = .0089), higher Tegner score (OR, 1.09 [95% CI, 1-1.19]; P = .043), and bilateral rupture (OR, 1.34 [95% CI, 1.03-1.73]; P = .028). CONCLUSION: Bilateral native ACL rupture independently increases the risk of graft failure after ACLR. This finding supports its use as a marker of intrinsic vulnerability that may warrant targeted preventive or surgical strategies.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42266073/",
+      "score": 89,
+      "score_reasoning": "Large cohort study (7718 patients) from SANTI group in AJSM examining bilateral ACL rupture as predictor of graft failure provides highly clinically relevant data for counseling patients about revision risk.",
+      "bullets": [
+        "Patients with bilateral native ACL ruptures have nearly double the graft failure rate compared to unilateral injuries (9.3% vs 5.2%).",
+        "Bilateral ACL rupture history independently predicts graft failure with 34% increased odds after controlling for age, sex, and activity level.",
+        "Contralateral ACL injury serves as a clinical marker for intrinsic ligament vulnerability that should influence surgical planning and prevention strategies."
+      ]
+    },
+    {
+      "pmid": "42285325",
+      "title": "What Factors Increase the Risk of Dislocation after Primary Total Hip Arthroplasty Using the Direct Anterior Approach?",
+      "authors": [
+        "Murphy MP",
+        "Forti CR",
+        "Ho H",
+        "Hopper RH",
+        "Hamilton WG"
+      ],
+      "authors_short": "Murphy MP, Forti CR, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: While the direct anterior approach (DAA) for total hip arthroplasty (THA) is associated with a lower risk of dislocation, this complication has not been eliminated and can be acutely disabling when it occurs. This study aimed to identify patient, surgical, and radiographic factors that contribute to dislocation risk for the DAA based on primary THAs performed over a 15-year period. METHODS: Using an institutional database, we identified 8,658 DAA THAs performed by four surgeons from March 2009 through May 2024. A Cox proportional hazards regression was performed to determine how patient demographics and implant characteristics were associated with dislocation. Patients who dislocated were also compared to a matched control cohort without dislocation to evaluate the influence of radiographic parameters, including acetabular cup orientation, offset, limb length changes, and preoperative acetabular coverage. RESULTS: The dislocation rate among all primary THAs was 0.5% (45 of 8,656). Women had a higher dislocation rate than men (0.7 versus 0.2%), and Cox regression identified an increased risk among women with 28 mm (hazard ratio (HR) 7.5; 95% confidence interval (CI) 3.2 to 17.6) and 32 mm heads (HR 3.8; 95% CI 1.9 to 7.5). Radiographic analysis showed no significant differences in total offset (P = 0.13) or limb length change (P = 0.41), but controls demonstrated significantly lower variance in cup inclination (P = 0.01). CONCLUSION: Although the incidence of dislocation after THA using the DAA is low, women who have smaller diameter femoral heads are at increased risk of dislocation. The significantly lower variance in radiographic inclination among controls also underscores the importance of precise cup positioning.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42285325/",
+      "score": 87,
+      "score_reasoning": "Large database study (8,658 DAA THAs) identifying specific risk factors for dislocation in Journal of Arthroplasty provides immediately actionable clinical guidance for component selection and patient counseling.",
+      "bullets": [
+        "Women have higher dislocation rates after direct anterior approach THA, especially with 28mm and 32mm femoral heads compared to men.",
+        "Overall dislocation rate after primary direct anterior approach THA is 0.5% based on over 8,600 cases across 15 years.",
+        "Precise acetabular cup positioning matters more than achieving specific inclination angles, as controls showed less variability in cup placement."
+      ]
+    },
+    {
+      "pmid": "42285326",
+      "title": "Propensity Score-Matched Comparison of Patient-Reported Outcomes Between Crowe I Developmental Dysplasia of the Hip and Primary Osteoarthritis Following Total Hip Arthroplasty.",
+      "authors": [
+        "Saluja A",
+        "Eschert J",
+        "Ren R",
+        "Wong Z",
+        "Su E"
+      ],
+      "authors_short": "Saluja A, Eschert J, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Total hip arthroplasty (THA) is commonly performed for Crowe I developmental dysplasia of the hip (DDH) and primary osteoarthritis (OA), but comparative survivorship and patient-reported outcome measure (PROM) data remain limited with mixed findings. This study aimed to compare PROMs, revision rates, and implant survivorship between propensity-matched THA patients who had Crowe I DDH and OA. METHODS: A retrospective review of a single surgeon's case log was performed to identify patients who had a diagnosis of DDH or OA who underwent THA. Propensity-score matching was utilized, yielding 105 DDH hips and 105 OA hips. Primary outcomes were modified Harris Hip Score (mHHS), Hip disability and Osteoarthritis Outcome Score - Joint Replacement (HOOS-JR), Visual Analog Scale (VAS) for pain, and University of California, Los Angeles Activity Scale (UCLA) collected preoperatively, at one year, and at minimum 2-year final follow-up. The secondary outcomes included implant survivorship via Kaplan-Meier analysis, multivariable logistic regression for minimal clinically important difference (MCID) and substantial clinical benefit (SCB) achievement, revision rates, and radiographic assessment of leg length discrepancy and acetabular inclination. RESULTS: There were no significant between-group differences in any PROM at any time point (all P > 0.05). Analysis of covariance (ANCOVA) confirmed equivalent adjusted final scores across all four PROMs (all P > 0.14). MCID was achieved in over 92% of both cohorts for mHHS, HOOS-JR, and VAS. There were four revisions in the DDH group (three instability, one periprosthetic joint infection) and three in the OA group; revision rates did not differ significantly (P = 1.0). Kaplan-Meier survivorship analysis showed no significant difference between groups (log-rank P = 0.83). CONCLUSIONS: In this propensity-matched series, Crowe I DDH and OA patients achieved comparable midterm PROMs, revision rates, and implant survivorship after THA. Furthermore, preoperative functional status, rather than underlying diagnosis, was the primary predictor of achieving minimal clinically important difference (MCID). These findings suggest that contemporary THA provides similar clinical benefits across both diagnoses.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42285326/",
+      "score": 86,
+      "score_reasoning": "Well-designed propensity-matched comparison (210 hips) in Journal of Arthroplasty comparing DDH vs OA outcomes after THA with comprehensive PROM analysis provides valuable patient counseling data.",
+      "bullets": [
+        "Patients with Crowe I developmental dysplasia of the hip achieve identical functional outcomes after total hip arthroplasty compared to primary osteoarthritis patients at minimum 2-year follow-up.",
+        "Revision rates and implant survivorship are equivalent between Crowe I DDH and primary osteoarthritis patients undergoing total hip arthroplasty.",
+        "Preoperative functional status, not underlying diagnosis, predicts achievement of clinically meaningful improvement after total hip arthroplasty in both patient groups."
+      ]
+    },
+    {
+      "pmid": "42252903",
+      "title": "Patient-Reported Knee Function and Return-to-Sport Rates After Nonsurgical and Surgical Treatment of an Acute Anterior Cruciate Ligament Injury: Results From the NACOX Prospective Cohort Study.",
+      "authors": [
+        "Cron\u00e9 A",
+        "Gauffin H",
+        "Hedevik H",
+        "F\u00e4ltstr\u00f6m A",
+        "Kvist J"
+      ],
+      "authors_short": "Cron\u00e9 A, Gauffin H, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: The best treatment for acute anterior cruciate ligament (ACL) injuries (surgical or nonsurgical) remains uncertain, particularly regarding return to sport (RTS) and knee function. PURPOSE: To compare patient-reported knee function (International Knee Documentation Committee Subjective Knee Form [IKDC-SKF]) and RTS between non-ACL reconstruction (ACLR) and ACLR treatment strategies 24 months after ACL injury or reconstruction and identify predictors of these outcomes. STUDY DESIGN: Cohort study; Level of evidence, 2. METHODS: From the NACOX multicenter cohort, 272 patients (mean age, 25.5 years; 95% CI, 24.6-26.3 years; 52% females) with acute ACL injuries were followed for 24 months after ACL injury or ACLR. Treatment (non-ACLR vs ACLR) was determined via shared decision-making in routine practice. IKDC-SKF scores were collected at 3, 6, 12, and 24 months and analyzed using a linear mixed-effects model adjusted for age, sex, preinjury activity level, and new serious knee injury. RTS was defined as return to preinjury Tegner level or higher. Risk factors for not returning to sport were evaluated using log-binomial regression. RESULTS: The ACLR group had higher preinjury Tegner levels (8 vs 6.5; P < .001) and was younger (24.2 vs 27.6 years; P < .001). No differences in IKDC-SKF scores were observed between non-ACLR and ACLR groups. IKDC-SKF scores improved over time for both groups (P < .001) but were negatively affected by new serious knee injury (P < .001), older age (P = .003), and female sex (P = .004). Overall, 75% of patients achieved RTS within 24 months (mean, 6.3 months; 95% CI, 5.6-7.0 months), with no difference between groups (72% non-ACLR vs 77% ACLR; P = .286). Patients without ACLR returned to sport earlier (3.5 months [95% CI, 2.8-4.2 months] vs 8.1 months [95% CI, 7.2-9.0 months]; P < .001). In patients aged 26 to 40 years, ACLR was associated with a 3.15-fold higher risk of not returning to sport at 24 months compared to the non-ACLR group (P = .015). CONCLUSION: In this cohort of patients with ACL injury, both nonsurgical management and ACLR, determined through shared decision-making, resulted in comparable patient-reported knee function and RTS rates at 24 months, although the ACLR group was younger and had higher activity level. Non-ACLR treatment may therefore be a viable option for selected patients, particularly those who are older or have lower activity demands, to achieve satisfactory RTS outcomes. Older age (26-40 years) was associated with a higher risk of not returning to sport after ACLR, highlighting the importance of individualized treatment decisions.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42252903/",
+      "score": 82,
+      "score_reasoning": "Large prospective cohort (272 patients) comparing non-ACLR vs ACLR treatment strategies in AJSM provides crucial evidence for shared decision-making in ACL injury management.",
+      "bullets": [
+        "ACL reconstruction and nonsurgical treatment showed no difference in knee function scores or return to sport rates at 24 months (77% vs 72% respectively).",
+        "Patients treated nonsurgically returned to sport faster than those with reconstruction (3.5 months vs 8.1 months average).",
+        "ACL reconstruction in patients aged 26-40 years was associated with 3 times higher risk of not returning to sport compared to nonsurgical treatment."
+      ]
+    },
+    {
+      "pmid": "42281414",
+      "title": "Animal-Assisted Therapy Reduces Patient Reported Pain During Office Pin Removal Following Supracondylar Humerus Fracture Fixation: A Randomized Controlled Study.",
+      "authors": [
+        "Arif HA",
+        "Feijoo E",
+        "Padgett M",
+        "Nishikawa A",
+        "Williams KA",
+        "Strom SF",
+        "Ashley P",
+        "McGwin G",
+        "Doyle JS",
+        "Gilbert S",
+        "Conklin MJ"
+      ],
+      "authors_short": "Arif HA, Feijoo E, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Outpatient pin removal after pin fixation of supracondylar humerus (SCH) fractures is a frequent source of pain and anxiety in children. While pharmacologic and digital distraction strategies have demonstrated minimal efficacy in reducing procedural distress, animal-assisted therapy (AAT) remains an unexplored alternative in pediatric orthopaedics. The purpose of this study was to assess the effect of AAT on patient-reported pain and behavioral distress during office SCH pin removal. METHODS: A randomized controlled trial was conducted at a tertiary pediatric hospital. Pediatric patients aged 3 to 10 years undergoing office pin removal after SCH fracture fixation were randomized to pin removal with or without the presence of a certified therapy dog. Outcomes included patient-reported pain using the Wong-Baker FACES Pain Rating Scale, behavioral distress using the Face, Legs, Activity, Cry, and Consolability (FLACC) scale, heart rate measurements, and parental-reported anxiety assessed through survey. RESULTS: A total of 52 patients were enrolled in this study with 27 randomized to the Dog cohort and 25 to the control cohort. Patients in the Dog cohort demonstrated significantly lower patient-reported pain (FACES: 2.9 vs. 6.4, P<0.01) and behavioral distress (FLACC: 3.3 vs. 5.6, P=0.02) during pin removal. Peak heart rate was significantly lower in the Dog cohort (121.3 vs. 138.4 bpm, P=0.04), although change from baseline heart rate did not differ significantly (P=0.09). CONCLUSIONS: Animal-assisted therapy was associated with reduced patient-reported pain and behavioral distress during office SCH pin removal, supporting its role as a non-pharmacologic adjunct in pediatric orthopaedic care. LEVEL OF EVIDENCE: Level I, randomized controlled trial.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42281414/",
+      "score": 78,
+      "score_reasoning": "Randomized controlled trial (52 patients) in Journal of Pediatric Orthopedics demonstrating animal-assisted therapy reduces pain during pin removal represents innovative pain management approach.",
+      "bullets": [
+        "Children aged 3-10 having supracondylar humerus pins removed in clinic reported significantly less pain when a therapy dog was present (2.9 vs 6.4 on FACES scale).",
+        "The same patients showed less behavioral distress and lower peak heart rates during the procedure compared to standard pin removal without the dog.",
+        "Animal-assisted therapy offers a practical non-drug option to reduce procedural pain and anxiety for routine pediatric orthopaedic office procedures."
+      ]
+    },
+    {
+      "pmid": "42267699",
+      "title": "CORR Insights\u00ae: Is Higher Surgeon Volume Associated With Lower Complication and Revision Risk After Distal Radius Fracture Surgery? A Population-based Cohort Study of 13,389 Patients.",
+      "authors": [
+        "O'Shaughnessy MA"
+      ],
+      "authors_short": "O'Shaughnessy MA",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42267699/",
+      "score": 76,
+      "score_reasoning": "Population-based study (13,389 patients) in CORR examining surgeon volume effects on distal radius fracture outcomes provides evidence-based volume thresholds for quality improvement.",
+      "bullets": [
+        "Higher surgeon volume for distal radius fracture surgery is associated with lower complication and revision rates in a large population study of 13,389 patients.",
+        "The volume-outcome relationship applies to all patients undergoing surgical fixation of distal radius fractures, regardless of fracture complexity.",
+        "Patients may benefit from referral to higher-volume surgeons for distal radius fracture surgery to reduce their risk of complications and reoperations."
+      ]
+    },
+    {
+      "pmid": "42275670",
+      "title": "Is Neighborhood Socioeconomic Deprivation Associated With Outcomes Following Primary THA and TKA? A Systematic Review Utilizing the Area Deprivation Index.",
+      "authors": [
+        "Furyes AR",
+        "Elmenawi KA",
+        "Hackett L",
+        "Deren ME",
+        "Piuzzi NS"
+      ],
+      "authors_short": "Furyes AR, Elmenawi KA, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Socioeconomic disadvantage is increasingly recognized as an important factor associated with outcomes after total joint arthroplasty (TJA). The Area Deprivation Index (ADI) has emerged as a validated measure of socioeconomic disadvantage that specifically captures individual neighborhood levels of structural and material deprivation based on income, education, employment, and housing characteristics. Prior research has demonstrated ADI to be associated with surgical outcomes; however, its relationship to postoperative outcomes after THA and TKA, procedures in which outcomes depend highly on institutional and structural support, home environment, and accessible postacute care resources, has not been well synthesized. Prior studies provide a broad overview of heterogeneous measures of socioeconomic disadvantage that are not directly comparable. QUESTIONS/PURPOSES: (1) Is a higher ADI associated with increased postoperative healthcare utilization after primary THA and TKA? (2) Is a higher ADI associated with differences in patient-reported outcome measures (PROMs)? (3) Is a higher ADI associated with increased postoperative complications? (4) Is ADI associated with differences in implant survivorship after TJA? METHODS: A systematic review of four databases-Ovid Medline, Embase, Cochrane Library, and Web of Science Core Collection-was performed from their inception to March 27, 2025. Each database was last searched on March 27, 2025. In all, 128 records were available. Studies were included if they evaluated patients receiving primary THA or TKA and examined ADI in the Results section of the manuscript in terms of any of the following: 90-day outcomes, healthcare utilization, complications, reoperations, revisions, cost, or PROMs. Studies were excluded if they examined revision hip or knee arthroplasty, hemiarthroplasty, or arthroplasty of any other joint; did not evaluate outcomes in association with ADI; or were case reports, systematic reviews, conference abstracts, editorials, or narrative reviews. Sixteen studies were included for final review. Two reviewers independently screened studies, extracted data, and assessed methodological quality using the Newcastle-Ottawa Scale (NOS), which has a maximum quality score of nine stars. Included studies had a median (range) NOS score of 8 stars (7 to 9), suggesting that most were of good quality with a low risk of bias. Results were synthesized qualitatively; meta-analyses were not performed because of the heterogeneity of included studies. RESULTS: A higher ADI was consistently associated with greater healthcare utilization, including prolonged length of stay, increased likelihood of nonhome discharge, and increased odds of emergency department visits. PROMs demonstrated worse absolute postoperative scores and lower likelihood of achieving patient acceptable symptom states among patients who live in high ADI neighborhoods despite comparable levels of improvement across all groups. Overall, ADI was not associated with reaching the standard minimum clinically important difference (MCID). All groups achieved the MCID on all domains of the Hip Disability and Osteoarthritis Outcome Score, Knee Injury and Osteoarthritis Outcome Score, and Patient-Reported Outcomes Measurement Information System short forms regardless of ADI. A higher ADI was associated with increased odds of medical complications such as infection, venous thromboembolism, cardiopulmonary events, and acute kidney injury. Evidence on implant survivorship was limited but suggested increased odds of reoperation and periprosthetic joint infection within 90 days and increased odds of aseptic revision beyond 90 days in populations with more severe levels of deprivation as measured by the ADI. CONCLUSION: Higher neighborhood socioeconomic deprivation was independently associated with worse postoperative outcomes, greater resource utilization, and signals of inferior early implant survivorship after THA and TKA. The ADI provides meaningful insight into neighborhood-level social risk beyond traditional clinical factors and individual patient demographics and may help identify patients who may benefit from interventions such as more intensive preoperative medical management of comorbidities, tailored perioperative support, easily accessible rehabilitation, or closer postoperative follow-up. Incorporating the ADI into risk-adjustment models and care pathways may help clinicians better anticipate possible barriers to recovery and may help ensure that patients from less affluent communities achieve the results they seek after lower extremity arthroplasty. LEVEL OF EVIDENCE: Level III, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42275670/",
+      "score": 75,
+      "score_reasoning": "Systematic review of ADI and TJA outcomes in CORR synthesizes important socioeconomic factors affecting arthroplasty success, highly relevant for healthcare equity initiatives.",
+      "bullets": [
+        "Patients from socioeconomically disadvantaged neighborhoods have longer hospital stays, more non-home discharges, and higher emergency department visits after hip and knee replacement.",
+        "Higher neighborhood deprivation correlates with worse absolute patient-reported outcomes and increased medical complications including infection, blood clots, and heart/lung problems.",
+        "Early evidence suggests patients from deprived areas may have higher reoperation rates and periprosthetic infections within 90 days of total joint arthroplasty."
+      ]
+    },
+    {
+      "pmid": "42242495",
+      "title": "MCP-1 Exacerbates Diabetic Rotator Cuff Tear by Driving Synovial Inflammation via MAPK/ERK-Mediated Macrophage Polarization.",
+      "authors": [
+        "Wang Y",
+        "Gu X",
+        "Tu J",
+        "Xu B"
+      ],
+      "authors_short": "Wang Y, Gu X, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Patients with diabetes exhibit a higher incidence and more severe manifestations of rotator cuff tears (RCTs), yet the etiopathogenesis remains poorly defined. This study investigates the pathological characteristics and mechanisms underlying diabetic rotator cuff pathology. METHODS: The clinical study enrolled 30 patients with diabetes and RCTs, along with 30 matched non-diabetic controls with RCTs. Preoperative functional scores and MRI data were collected. Synovial samples were obtained during surgery, and inflammatory mediators were quantified by enzyme-linked immunosorbent assay (ELISA). In the animal study, diabetes was induced in mice using a high-fat diet and streptozotocin. Synovium-specific Ccl2 knockout mice and wild-type controls underwent subacromial impingement surgery. Postoperative assessments included gait analysis, pain threshold testing, biomechanical evaluation, as well as histological and molecular analyses. Statistical significance was set at p < 0.05 RESULTS: We observed significantly elevated synovial inflammation and MCP-1 expression in patients with diabetes and rotator cuff tears. These findings were recapitulated in diabetic murine models of rotator cuff injury, which exhibited exacerbated synovitis (with increased IFN-\u03b3, IL-1\u03b2, and TNF-\u03b1), marked pain, functional impairment, and accelerated tendon degeneration. Notably, synovium-specific Ccl2 knockdown attenuated the diabetes-associated degenerative progression. Mechanistically, MCP-1 signals primarily through the CCR2 receptor to enhance the release of inflammatory mediators. Subsequent activation of the MAPK/ERK pathway drives pro-inflammatory M1 macrophage polarization, thereby aggravating synovitis and contributing to severe pain, functional disability, and tendon degeneration. In vivo pharmacological inhibition of MCP-1 significantly reversed diabetes-induced synovial inflammation and improved pain thresholds. CONCLUSIONS: Diabetes exacerbates rotator cuff degeneration through MCP-1/CCR2 signaling, which may activate ERK/MAPK and drive M1 macrophage polarization. Targeting this axis could be a potential therapeutic approach for diabetic RCTs. LEVEL OF EVIDENCE: Basic Science Study, Molecular Biology.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42242495/",
+      "score": 74,
+      "score_reasoning": "Animal study in Journal of Shoulder and Elbow Surgery demonstrating MCP-1 role in diabetic rotator cuff pathology provides novel mechanistic insights with therapeutic implications.",
+      "bullets": [
+        "Diabetic patients with rotator cuff tears show significantly worse synovial inflammation and higher MCP-1 levels compared to non-diabetic controls.",
+        "In diabetic rotator cuff tears, MCP-1 drives inflammatory macrophage activation, leading to increased pain, functional impairment, and accelerated tendon degeneration.",
+        "Blocking MCP-1 signaling reduced inflammation and improved pain in diabetic animal models, suggesting a potential therapeutic target for diabetic rotator cuff disease."
+      ]
+    },
+    {
+      "pmid": "42271649",
+      "title": "Multiplanar Stability After Syndesmotic Screw Fixation vs Deltoid Ligament Repair in a Cadaveric Weber B/SER4b Ankle Fracture Model With Fibular Plate Fixation.",
+      "authors": [
+        "Haan\u00e6s EK\u00d8",
+        "Dalen AF",
+        "Gregersen MG",
+        "Skrede A",
+        "Molund M"
+      ],
+      "authors_short": "Haan\u00e6s EK\u00d8, Dalen AF, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Weber B / Lauge-Hansen supination-external rotation 4b (SER4b) ankle fractures are unstable injuries characterized by complete deltoid ligament ruptures. Biomechanical studies suggest that fibular plate fixation alone is insufficient for SER4b fractures. Concurrent deltoid ligament repair seems necessary. This study explores how syndesmotic fixation, which is a simpler surgical approach, restores stability compared to deltoid repair or combined. METHODS: Eight fresh frozen human cadaveric ankle specimens were tested sequentially by a robot in all 5 states: native, SER4b injury model with anatomic fibular plate fixation only, or reinforced with a syndesmotic screw and/or deltoid ligament repair. Stability was measured in lateral translation (talar shift), valgus, and internal and external rotation during a constant 45-N axial load. The primary outcome was talar shift on fluoroscopic images. The minimal clinically important difference (MCID) was predefined as 1.0\u2009mm. RESULTS: Combined plate and syndesmotic screw fixation restored lateral translation stability. The mean difference in talar shift was -0.2\u2009mm compared with native (95% CI -0.8 to 0.5, P\u2009=\u2009.57). However, talar valgus tilt increased by 18.1\u00b0 (95% CI 16.1-20.0, P\u2009<\u2009.001) and external rotation by 15.9\u00b0 (95% CI 12.6-19.2, P\u2009<\u2009.001). For combined plate fixation and deltoid ligament repair vs native, the mean difference in talar shift was 0.3\u2009mm (95% CI -0.4 to 1.0), P\u2009=\u2009.37), also below the pre-defined MCID. Mean valgus and external rotation deviated less from native but were still significantly different, the respective mean differences were 2.7\u00b0 (95% CI 0.8-4.7, P\u2009=\u2009.006) and 5.2\u00b0 (95% CI 1.9-8.5, P\u2009=\u2009.002). CONCLUSION: In this cadaveric SER4b injury model, both syndesmotic screw fixation and deltoid ligament repair restore lateral translational stability, when combined with fibular plate fixation. However, only deltoid ligament repair-addressing both the deep posterior and anterior deltoid components-substantially restored rotational and valgus stability, suggesting it provides more comprehensive joint stabilization than syndesmotic screw fixation alone. CLINICAL RELEVANCE: Syndesmotic screw fixation restores lateral translational stability as well as deltoid ligament repair when both are combined with lateral plate fixation. Complete deltoid ligament repair is superior to the syndesmotic screw in restoring overall stability in cadaveric SER4b ankle fracture models. Given their potential clinical relevance, these findings may be considered in future clinical studies and choice of treatment.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42271649/",
+      "score": 70,
+      "score_reasoning": "Cadaveric study (8 specimens) comparing deltoid repair vs syndesmotic fixation in ankle fractures provides biomechanical evidence for optimal treatment strategies.",
+      "bullets": [
+        "In Weber B/SER4b ankle fractures with complete deltoid rupture, both syndesmotic screw fixation and deltoid repair restore lateral translation when added to fibular plating.",
+        "Syndesmotic screws still allow significant valgus tilting (18 degrees) and external rotation (16 degrees) compared to native ankles in this cadaver model.",
+        "Complete deltoid ligament repair provides better overall stability than syndesmotic screws, with less residual valgus and rotational motion."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-06-13T04:54:14.479372-07:00"
+}
