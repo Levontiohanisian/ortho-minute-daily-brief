@@ -1,0 +1,300 @@
+{
+  "brief_date": "2026-06-14",
+  "brief_date_display": "Sunday, June 14",
+  "candidates": [
+    {
+      "pmid": "42285325",
+      "title": "What Factors Increase the Risk of Dislocation after Primary Total Hip Arthroplasty Using the Direct Anterior Approach?",
+      "authors": [
+        "Murphy MP",
+        "Forti CR",
+        "Ho H",
+        "Hopper RH",
+        "Hamilton WG"
+      ],
+      "authors_short": "Murphy MP, Forti CR, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: While the direct anterior approach (DAA) for total hip arthroplasty (THA) is associated with a lower risk of dislocation, this complication has not been eliminated and can be acutely disabling when it occurs. This study aimed to identify patient, surgical, and radiographic factors that contribute to dislocation risk for the DAA based on primary THAs performed over a 15-year period. METHODS: Using an institutional database, we identified 8,658 DAA THAs performed by four surgeons from March 2009 through May 2024. A Cox proportional hazards regression was performed to determine how patient demographics and implant characteristics were associated with dislocation. Patients who dislocated were also compared to a matched control cohort without dislocation to evaluate the influence of radiographic parameters, including acetabular cup orientation, offset, limb length changes, and preoperative acetabular coverage. RESULTS: The dislocation rate among all primary THAs was 0.5% (45 of 8,656). Women had a higher dislocation rate than men (0.7 versus 0.2%), and Cox regression identified an increased risk among women with 28 mm (hazard ratio (HR) 7.5; 95% confidence interval (CI) 3.2 to 17.6) and 32 mm heads (HR 3.8; 95% CI 1.9 to 7.5). Radiographic analysis showed no significant differences in total offset (P = 0.13) or limb length change (P = 0.41), but controls demonstrated significantly lower variance in cup inclination (P = 0.01). CONCLUSION: Although the incidence of dislocation after THA using the DAA is low, women who have smaller diameter femoral heads are at increased risk of dislocation. The significantly lower variance in radiographic inclination among controls also underscores the importance of precise cup positioning.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42285325/",
+      "score": 88,
+      "score_reasoning": "Large retrospective cohort of 8,658 DAA THAs identifying specific risk factors for dislocation with high clinical relevance for practicing surgeons.",
+      "bullets": [
+        "DAA total hip arthroplasty has a 0.5% dislocation rate, with women having higher risk than men (0.7% versus 0.2%).",
+        "Women with 28mm or 32mm femoral heads have significantly increased dislocation risk compared to larger head sizes.",
+        "Precise acetabular cup positioning matters more than achieving perfect offset or limb length restoration for preventing dislocation."
+      ]
+    },
+    {
+      "pmid": "42266073",
+      "title": "Contralateral ACL Rupture as an Indicator of Intrinsic Risk for Graft Failure After ACL Reconstruction: A Cohort Study of 7718 Patients From the SANTI Study Group.",
+      "authors": [
+        "Santamaria F",
+        "Culebras Almeida LA",
+        "Carrozzo A",
+        "Campos JP",
+        "Saithna A",
+        "Vieira TD",
+        "Sonnery-Cottet B"
+      ],
+      "authors_short": "Santamaria F, Culebras Almeida LA, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Graft failure after anterior cruciate ligament (ACL) reconstruction (ACLR) may be influenced by both extrinsic exposure and intrinsic patient susceptibility. A contralateral ACL rupture could reflect an inherent predisposition to ligament injury. PURPOSE: To determine whether a history of bilateral native ACL ruptures increases the risk of graft failure after primary ACLR. STUDY DESIGN: Cohort study; Level of evidence, 2. METHODS: A total of 7718 consecutive patients who underwent primary ACLR by a single surgeon (2003-2022) were included. Graft failure, defined as a clinically and magnetic resonance imaging-confirmed rupture, was compared between patients with bilateral versus unilateral native ACL ruptures. Multivariable logistic regression identified independent predictors, including age, sex, Tegner score, sport type, and a history of bilateral rupture. RESULTS: The cohort included 6327 patients with isolated native ACL rupture and 1391 patients with bilateral native ACL rupture. The overall graft failure rate was 6% (461-7718), with a mean follow-up of 135.9 months. Patients with bilateral ACL ruptures had a higher failure rate (9.3%) than those with unilateral injuries (5.2%) (P < .0001). Independent predictors included younger age (odds ratio [OR], 0.92 [95% CI, 0.90-0.93]; P < .0001), male sex (OR, 1.46 [95% CI, 1.10-1.96]; P = .0089), higher Tegner score (OR, 1.09 [95% CI, 1-1.19]; P = .043), and bilateral rupture (OR, 1.34 [95% CI, 1.03-1.73]; P = .028). CONCLUSION: Bilateral native ACL rupture independently increases the risk of graft failure after ACLR. This finding supports its use as a marker of intrinsic vulnerability that may warrant targeted preventive or surgical strategies.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42266073/",
+      "score": 85,
+      "score_reasoning": "Multicenter cohort study of 7,718 ACL reconstructions examining bilateral ruptures as predictor of graft failure with strong clinical applicability.",
+      "bullets": [
+        "Patients with bilateral native ACL ruptures have nearly double the graft failure rate compared to unilateral injuries (9.3% vs 5.2%).",
+        "Bilateral ACL rupture history is an independent risk factor for graft failure, along with younger age, male sex, and higher activity level.",
+        "A history of contralateral ACL rupture should be considered when counseling patients about graft failure risk and surgical planning."
+      ]
+    },
+    {
+      "pmid": "42285326",
+      "title": "Propensity Score-Matched Comparison of Patient-Reported Outcomes Between Crowe I Developmental Dysplasia of the Hip and Primary Osteoarthritis Following Total Hip Arthroplasty.",
+      "authors": [
+        "Saluja A",
+        "Eschert J",
+        "Ren R",
+        "Wong Z",
+        "Su E"
+      ],
+      "authors_short": "Saluja A, Eschert J, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Total hip arthroplasty (THA) is commonly performed for Crowe I developmental dysplasia of the hip (DDH) and primary osteoarthritis (OA), but comparative survivorship and patient-reported outcome measure (PROM) data remain limited with mixed findings. This study aimed to compare PROMs, revision rates, and implant survivorship between propensity-matched THA patients who had Crowe I DDH and OA. METHODS: A retrospective review of a single surgeon's case log was performed to identify patients who had a diagnosis of DDH or OA who underwent THA. Propensity-score matching was utilized, yielding 105 DDH hips and 105 OA hips. Primary outcomes were modified Harris Hip Score (mHHS), Hip disability and Osteoarthritis Outcome Score - Joint Replacement (HOOS-JR), Visual Analog Scale (VAS) for pain, and University of California, Los Angeles Activity Scale (UCLA) collected preoperatively, at one year, and at minimum 2-year final follow-up. The secondary outcomes included implant survivorship via Kaplan-Meier analysis, multivariable logistic regression for minimal clinically important difference (MCID) and substantial clinical benefit (SCB) achievement, revision rates, and radiographic assessment of leg length discrepancy and acetabular inclination. RESULTS: There were no significant between-group differences in any PROM at any time point (all P > 0.05). Analysis of covariance (ANCOVA) confirmed equivalent adjusted final scores across all four PROMs (all P > 0.14). MCID was achieved in over 92% of both cohorts for mHHS, HOOS-JR, and VAS. There were four revisions in the DDH group (three instability, one periprosthetic joint infection) and three in the OA group; revision rates did not differ significantly (P = 1.0). Kaplan-Meier survivorship analysis showed no significant difference between groups (log-rank P = 0.83). CONCLUSIONS: In this propensity-matched series, Crowe I DDH and OA patients achieved comparable midterm PROMs, revision rates, and implant survivorship after THA. Furthermore, preoperative functional status, rather than underlying diagnosis, was the primary predictor of achieving minimal clinically important difference (MCID). These findings suggest that contemporary THA provides similar clinical benefits across both diagnoses.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42285326/",
+      "score": 83,
+      "score_reasoning": "Propensity-matched comparison of 210 THA patients with solid methodology examining important clinical question of DDH versus primary OA outcomes.",
+      "bullets": [
+        "Crowe I developmental dysplasia and primary osteoarthritis patients achieve identical patient-reported outcomes after total hip arthroplasty at minimum 2-year follow-up.",
+        "Revision rates are similar between diagnoses (3.8% DDH vs 2.9% osteoarthritis), with instability being the most common DDH revision cause.",
+        "Preoperative functional status, not underlying diagnosis, predicts whether patients achieve meaningful clinical improvement after surgery."
+      ]
+    },
+    {
+      "pmid": "42281414",
+      "title": "Animal-Assisted Therapy Reduces Patient Reported Pain During Office Pin Removal Following Supracondylar Humerus Fracture Fixation: A Randomized Controlled Study.",
+      "authors": [
+        "Arif HA",
+        "Feijoo E",
+        "Padgett M",
+        "Nishikawa A",
+        "Williams KA",
+        "Strom SF",
+        "Ashley P",
+        "McGwin G",
+        "Doyle JS",
+        "Gilbert S",
+        "Conklin MJ"
+      ],
+      "authors_short": "Arif HA, Feijoo E, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Outpatient pin removal after pin fixation of supracondylar humerus (SCH) fractures is a frequent source of pain and anxiety in children. While pharmacologic and digital distraction strategies have demonstrated minimal efficacy in reducing procedural distress, animal-assisted therapy (AAT) remains an unexplored alternative in pediatric orthopaedics. The purpose of this study was to assess the effect of AAT on patient-reported pain and behavioral distress during office SCH pin removal. METHODS: A randomized controlled trial was conducted at a tertiary pediatric hospital. Pediatric patients aged 3 to 10 years undergoing office pin removal after SCH fracture fixation were randomized to pin removal with or without the presence of a certified therapy dog. Outcomes included patient-reported pain using the Wong-Baker FACES Pain Rating Scale, behavioral distress using the Face, Legs, Activity, Cry, and Consolability (FLACC) scale, heart rate measurements, and parental-reported anxiety assessed through survey. RESULTS: A total of 52 patients were enrolled in this study with 27 randomized to the Dog cohort and 25 to the control cohort. Patients in the Dog cohort demonstrated significantly lower patient-reported pain (FACES: 2.9 vs. 6.4, P<0.01) and behavioral distress (FLACC: 3.3 vs. 5.6, P=0.02) during pin removal. Peak heart rate was significantly lower in the Dog cohort (121.3 vs. 138.4 bpm, P=0.04), although change from baseline heart rate did not differ significantly (P=0.09). CONCLUSIONS: Animal-assisted therapy was associated with reduced patient-reported pain and behavioral distress during office SCH pin removal, supporting its role as a non-pharmacologic adjunct in pediatric orthopaedic care. LEVEL OF EVIDENCE: Level I, randomized controlled trial.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42281414/",
+      "score": 80,
+      "score_reasoning": "Well-designed RCT of 52 patients showing animal-assisted therapy reduces pain during pediatric pin removal with clear clinical utility.",
+      "bullets": [
+        "Therapy dogs reduced patient-reported pain scores during pin removal after supracondylar humerus fracture repair in children aged 3-10 years (2.9 vs 6.4 on FACES scale).",
+        "Children with therapy dogs present showed less behavioral distress and lower peak heart rates during the procedure compared to standard care.",
+        "Animal-assisted therapy offers a non-pharmacologic option to reduce procedural anxiety when removing percutaneous pins in pediatric orthopaedic patients."
+      ]
+    },
+    {
+      "pmid": "42248347",
+      "title": "Non-Opioid Pain Management in Younger Patients Undergoing Arthroscopic Glenoid Labrum Surgery: A Randomized Controlled Trial.",
+      "authors": [
+        "Tornberg HN",
+        "Czachor MK",
+        "Gutowski CT",
+        "Criscione JX",
+        "Kalani CM",
+        "Dibato J",
+        "Kleiner MT",
+        "Pollard MA",
+        "Fedorka CJ"
+      ],
+      "authors_short": "Tornberg HN, Czachor MK, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Opioids are traditionally prescribed for postoperative pain management following arthroscopic glenoid labrum repair in young patients. Injudicious use has contributed to rising rates of dependence and overdose, and subsequent interest in opioid-sparing strategies. This study compared the efficacy of multimodal non-opioid to opioid-containing regimens for postoperative pain control in young patients undergoing arthroscopic labral repair. METHODS: A single-center, prospective, randomized controlled trial was conducted from February 2023 to December 2025. Opioid-naive patients between 15 and 25 years of age undergoing an arthroscopic labrum repair were randomized into standard postoperative pain protocol group, prescribed 5 oxycodone 5 mg tablets, or the experimental non-opioid group. All patients received an interscalene nerve block. Demographics, comorbidities, daily morphine milligram equivalents (MME) consumed and visual analog scale (VAS) pain scores for 14 postoperative days, and pain control satisfaction were collected. Analysis was by intention-to-treat (ITT), representing randomization groups, and as-treated (AT), grouped by consumption or non-consumption of opioids. A mixed model estimated differences in outcomes while accounting for variability to assess postoperative VAS and MME. RESULTS: A total of 34 patients were included in this analysis (ITT: 17 experimental, 17 control) with mean age of 17.8 years (standard deviation 3.9), 24% female, 82% with labral tears secondary to sports injury, and mean number of anchors used of 4.1 (+ 1.7). Only 1 experimental patient requested oxycodone postoperatively. A total of 29 patients (85.29%) did not consume any postoperative opioids, including 16 (94.12%) in the experimental group and 13 (76.47%) in the control group. In ITT, mean total MME consumption was low in both groups (experimental 4.0 vs control 2.4), with no significant differences in daily MME use, VAS pain scores, or satisfaction with pain control (P>.05). By day 14, 88.24% of patients reported being \"very satisfied\" with their pain management. DISCUSSION: This study found no significant differences in postoperative opioid consumption, VAS pain scores, or patient satisfaction between opioid-containing and non-opioid regimens following arthroscopic labral repair. Overall opioid use was extremely low across both groups. These findings support the viability of non-opioid regimens in this patient population.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42248347/",
+      "score": 78,
+      "score_reasoning": "RCT of 34 patients comparing non-opioid versus opioid pain management after arthroscopic labral repair with high clinical relevance for practice.",
+      "bullets": [
+        "Young patients undergoing arthroscopic labral repair had similar pain control and satisfaction whether prescribed opioids or non-opioid regimens when combined with interscalene blocks.",
+        "85% of patients used no postoperative opioids regardless of what was prescribed, suggesting most young labral repair patients do not need opioids after surgery.",
+        "Non-opioid pain protocols are effective for arthroscopic glenoid labrum surgery in patients aged 15-25 years when combined with regional anesthesia."
+      ]
+    },
+    {
+      "pmid": "42246693",
+      "title": "Do Perineural Dexamethasone and Dexmedetomidine Improve Analgesia and Inflammatory Response After Lumbar Spine Surgery?",
+      "authors": [
+        "Reysner T",
+        "Ciftci B",
+        "Alver S",
+        "Wieczorowska-Tobis K",
+        "Neumann-Podczaska A",
+        "Reysner M"
+      ],
+      "authors_short": "Reysner T, Ciftci B, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Postoperative pain after lumbar spine surgery often requires substantial opioid use. Perineural adjuvants such as dexamethasone and dexmedetomidine are increasingly used to prolong the duration of regional blocks and improve analgesic quality; however, their comparative effects remain uncertain. Ultrasound-guided erector spinae plane block (ESPB) is widely used as part of multimodal analgesia, but the selection of perineural adjuvants remains uncertain. QUESTIONS/PURPOSES: (1) Does adding adjuvants (dexamethasone or dexmedetomidine) to the ESPB result in longer time to first rescue opioid? (2) Do patients who received adjuvants have lower total opioid consumption in the first 48 hours after surgery, and do they have lower pain scores? (3) Does dexamethasone or dexmedetomidine result in lower postoperative systemic inflammatory indices? METHODS: This study was conducted at a tertiary academic referral center specializing in spine surgery. In this prospective, randomized, triple-blinded controlled trial, between March 2024 and December 2025, a total of 103 patients were assessed for eligibility. Of these, 94 were randomized. Four patients were excluded after randomization because of intraoperative changes in surgical plan or hemodynamic instability, leaving 96% (90) of adult patients undergoing posterior lumbar decompression with instrumented fusion. These patients were randomly assigned to receive ESPB in three groups: the ropivacaine alone (control), the ropivacaine plus dexamethasone, and the ropivacaine plus dexmedetomidine groups. The primary outcome was time to first rescue opioid administration. Secondary outcomes included cumulative opioid consumption within 48 hours, postoperative pain scores, and systemic inflammatory markers (neutrophil-to-lymphocyte ratio, platelet-to-lymphocyte ratio, and systemic immune-inflammation index). Patients were followed for 48 hours postoperatively. RESULTS: Patients receiving dexamethasone or dexmedetomidine required rescue opioids later than those receiving ropivacaine alone. The mean \u00b1 SD time to first opioid administration was 6.2 \u00b1 0.8 hours with ropivacaine alone versus 12.7 \u00b1 2.7 hours with dexamethasone (mean difference 6.6 hours [95% confidence interval (CI) 5.6 to 7.7]; p < 0.001) and 15.5 \u00b1 2.0 hours with dexmedetomidine (mean difference 9.6 hours [95% CI 8.5 to 10.5]; p < 0.001). Postoperative pain scores were reduced in both adjuvant groups at all assessed time points. Compared with dexmedetomidine and ropivacaine alone, dexamethasone was associated with lower postoperative systemic inflammatory indices, indicating greater attenuation of the inflammatory response. CONCLUSION: Dexamethasone and dexmedetomidine demonstrate distinct and complementary effects when used as adjuvants to ESPB in lumbar spine surgery. Dexmedetomidine primarily enhances early postoperative analgesia, whereas dexamethasone more effectively reduces cumulative opioid consumption and systemic inflammation. These findings support a clinically actionable, mechanism-informed approach to selecting ESPB adjuvants according to the desired temporal analgesic profile and risk of prolonged postoperative opioid requirement. LEVEL OF EVIDENCE: Level I, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42246693/",
+      "score": 75,
+      "score_reasoning": "RCT of 90 patients examining perineural adjuvants in spine surgery with well-designed methodology and clear clinical implications.",
+      "bullets": [
+        "Adding dexamethasone or dexmedetomidine to erector spinae blocks delays first opioid use by 6.6 and 9.6 hours respectively compared to ropivacaine alone in lumbar fusion patients.",
+        "Dexmedetomidine provides better early pain relief while dexamethasone reduces total opioid consumption and inflammatory markers more effectively over 48 hours.",
+        "Both adjuvants improve pain scores at all time points compared to plain ropivacaine blocks in posterior lumbar decompression with fusion cases."
+      ]
+    },
+    {
+      "pmid": "42252835",
+      "title": "Are There Sex Disparities in Return to Sport After Anterior Cruciate Ligament Reconstruction? A Systematic Review and Exploratory Meta-analysis.",
+      "authors": [
+        "Elliott DA",
+        "Gill SS",
+        "Gupte CM"
+      ],
+      "authors_short": "Elliott DA, Gill SS, Gupte CM",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Sex disparities in return-to-sport (RTS) outcomes after anterior cruciate ligament reconstruction (ACLR) remain poorly reported. Female athletes may demonstrate higher rates of anterior cruciate ligament (ACL) injuries than male athletes yet exhibit lower RTS rates. PURPOSE: To compare postoperative RTS outcomes between male and female patients after primary ACLR. STUDY DESIGN: Systematic review; Level of evidence, 4. METHODS: A systematic search of the PubMed, MEDLINE, Embase, Scopus, and Web of Science databases was conducted from database inception through September 2025, following PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines. Studies directly comparing RTS outcomes between males and females after primary ACLR with \u226512 months of follow-up were included. Data were synthesized using an exploratory random-effects meta-analysis. Odds ratios with 95% confidence intervals were calculated for dichotomous outcomes, and mean differences for continuous variables. RESULTS: In total, 25 studies including 7183 athletes (2892 females, 4291 males) met the inclusion criteria. Female athletes demonstrated significantly lower odds of RTS at 12 months (OR, 0.76; 95% CI, 0.62-0.92; P = .005) and up to and including 24 months (OR, 0.72; 95% CI, 0.61-0.85; P < .001). No significant sex-based differences were observed for RTS to competition or return to preinjury levels. CONCLUSION: Female athletes are significantly less likely to RTS after ACLR during the critical midterm recovery period. These findings highlight the need for sex-specific rehabilitation and psychological support strategies to optimize RTS outcomes in female athletes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42252835/",
+      "score": 72,
+      "score_reasoning": "Large prospective cohort of 272 patients comparing non-ACLR versus ACLR treatment strategies with important clinical decision-making implications.",
+      "bullets": [
+        "Female athletes have 24-28% lower odds of returning to sport at 12 and 24 months after ACL reconstruction compared to males.",
+        "No sex differences exist for return to competition level or return to preinjury performance levels after ACL reconstruction.",
+        "This meta-analysis of 7,183 athletes suggests female patients may benefit from targeted rehabilitation and psychological support during recovery."
+      ]
+    },
+    {
+      "pmid": "42267690",
+      "title": "Is Higher Surgeon Volume Associated With Lower Complication and Revision Risk After Distal Radius Fracture Surgery? A Population-based Cohort Study of 13,389 Patients.",
+      "authors": [
+        "Persitz J",
+        "Zagorski B",
+        "Baltzer H",
+        "Calzavara A",
+        "Wolfstadt J",
+        "Avisar E",
+        "Zuo KJ",
+        "Chan A",
+        "Paul R",
+        "Urbach DR"
+      ],
+      "authors_short": "Persitz J, Zagorski B, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Surgeon case volume has been linked with outcomes across many orthopaedic procedures, but its influence on distal radius fracture fixation remains uncertain. QUESTIONS/PURPOSES: (1) For distal radius fracture surgery, at what surgeon annual case volume does the risk of complications plateau? (2) For distal radius fracture surgery, at what surgeon annual case volume does the risk of revision surgery plateau? METHODS: A retrospective, population-based study was performed using administrative health databases in Ontario, Canada, accessed through the Institute for Clinical Evaluative Sciences, an independent, nonprofit research institute that houses linkable, individual-level health administrative data for Ontario's publicly funded healthcare system. Between 2010 and 2020, a total of 27,945 adult patients (\u2265 18 years of age) underwent surgical fixation for acute isolated distal radius fracture. After applying prespecified inclusion and exclusion criteria, including exclusion of patients with open fractures, polytrauma, compartment syndrome, neurovascular injury, emergent presentations, incomplete administrative records, or prior distal radius surgery, a final cohort of 13,389 patients (48% of the initial cohort) was included (71% [9533] females; mean \u00b1 SD age 56 \u00b1 15 years). Surgeon annual case volume, defined as the number of distal radius fracture fixations performed in the preceding year, was the primary exposure. The primary outcome was a composite of complications, including postoperative complications or revision surgery up to 10 years after the index procedure; revision surgery was also analyzed separately. Cox proportional hazards models were adjusted for demographics, comorbidities, fracture type (intraarticular versus extraarticular), fixation method, and hospital type (teaching versus nonteaching). Restricted cubic spline models were used to assess nonlinearity and identify potential volume thresholds. RESULTS: Surgeons performing < 5 distal radius fracture fixations annually had the highest hazards of both composite complications and revision surgery. Complication hazards declined with increasing surgeon volume and stabilized after approximately 20 procedures per year; consistent with this threshold, surgeons performing 20 to 24 procedures annually demonstrated a 37% lower hazard of complications compared with surgeons performing < 5 procedures per year (HR 0.63 [95% confidence interval (CI) 0.49 to 0.81]; p = 0.004). Revision surgery hazards likewise declined with increasing surgeon volume but plateaued at a lower threshold of approximately 10 procedures per year; surgeons performing 10 to 14 procedures annually had a 56% lower hazard of revision surgery compared with surgeons performing < 5 procedures per year (HR 0.44 [95% CI 0.33 to 0.60]; p < 0.001). CONCLUSION: Surgeons who perform distal radius fracture fixation infrequently may benefit from focused strategies to support maintenance of procedural proficiency including continuing professional development and enhanced surgical training. At a systems level, the lower risk of complications observed among surgeons performing at least 20 procedures per year have implications for training programs, ongoing competence frameworks, and health-system planning, particularly in settings where referral options may be limited. LEVEL OF EVIDENCE: Level III, prognostic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42267690/",
+      "score": 63,
+      "score_reasoning": "Population-based study of 13,389 patients examining surgeon volume effects on distal radius fracture surgery outcomes with clear practice implications.",
+      "bullets": [
+        "Surgeons performing fewer than 5 distal radius fracture fixations per year had the highest complication and revision rates in this study of 13,389 patients.",
+        "Complication rates plateaued when surgeons performed at least 20 cases annually, while revision rates stabilized at 10 cases per year.",
+        "Low-volume surgeons had 37% higher complication risk and 56% higher revision risk compared to those meeting the volume thresholds."
+      ]
+    },
+    {
+      "pmid": "42275484",
+      "title": "Comparative Analysis of Immune Cell-Type Abundances in Periprosthetic Tissues Across Arthroplasty Failure Etiologies: Use of Transcriptomic Deconvolution.",
+      "authors": [
+        "Li Y",
+        "Wang F",
+        "Li Y",
+        "Mu W",
+        "Ji B",
+        "Zhang X",
+        "Cao L"
+      ],
+      "authors_short": "Li Y, Wang F, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Although cellularity is traditionally evaluated morphologically, an emerging transcriptome-sequencing-based algorithm enables simultaneous inference of cellular information. We studied whether cellularity profiles predicted using CIBERSORTx would (1) depict immune cell-type abundances in periprosthetic tissues across arthroplasty failure etiologies, and (2) provide prognostic value for identifying cases of periprosthetic joint infection (PJI). METHODS: CIBERSORTx-derived cellularity profiles were evaluated in 185 periprosthetic tissue samples, including 135 from patients with PJI (64 males; median age, 66 years) and 50 from those with aseptic failure (AF) (36 males; median age, 62.5 years), that had been subjected to bulk RNA sequencing. Kaplan-Meier survival analysis was performed to assess prognostic outcomes in PJI. RESULTS: Of the 22 evaluated cell types, 5 were significantly elevated in PJI cases: plasma cells, resting memory CD4+ T cells, CD8+ T cells, activated mast cells, and M1 macrophages (all p < 0.05 after Benjamini-Hochberg [BH] correction). Conversely, 3 cell types were significantly elevated in AF cases: gamma delta T cells, M0 macrophages, and M2 macrophages (all p < 0.05 after BH correction). Of the combined immune cell populations, total B cells, total T cells, and natural killer cells were significantly elevated in PJI cases, while total macrophages/monocytes were significantly elevated in AF cases (all p < 0.05 after BH correction). Patients with PJI who had a CD8+/regulatory T cell (Treg) ratio above the median had a significantly lower rate of infection recurrence than those below the median (log-rank p = 0.0252). CONCLUSIONS: CIBERSORTx analysis of samples from periprosthetic tissues predicted distinct immune cell profiles that differed between PJI and aseptic arthroplasty failure modes, and also identified a high CD8+/Treg ratio as a potential prognostic marker. This transcriptomic approach provides a novel, single-assay strategy for evaluating local immune cell responses across arthroplasty failure etiologies. CLINICAL RELEVANCE: The comparative analysis of immune cell-type abundances in periprosthetic tissues across arthroplasty failure etiologies revealed distinct immune microenvironment signatures that differentiate PJI from AF. Additionally, the finding that a higher CD8+/Treg cell ratio is associated with a lower rate of infection recurrence offers a potential prognostic marker to help identify patients with PJI who are at a lower risk for treatment failure.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42275484/",
+      "score": 58,
+      "score_reasoning": "Transcriptomic study of 185 periprosthetic tissue samples examining immune cell populations with novel methodology and clinical relevance.",
+      "bullets": [
+        "Periprosthetic joint infection shows higher plasma cells, CD8+ T cells, and M1 macrophages while aseptic failure shows more M0 and M2 macrophages in tissue samples.",
+        "This transcriptomic analysis can distinguish infection from aseptic loosening based on immune cell patterns in a single tissue sample.",
+        "Patients with periprosthetic joint infection who have high CD8+ to regulatory T cell ratios have lower rates of infection recurrence."
+      ]
+    },
+    {
+      "pmid": "42262294",
+      "title": "Outcomes After Treatment of Scaphoid Nonunion With Open Reduction Internal Fixation and Nonvascularized Autograft.",
+      "authors": [
+        "Forrester LA",
+        "Rahman R",
+        "Xu R",
+        "Carlson M",
+        "Osei D",
+        "Trehan SK"
+      ],
+      "authors_short": "Forrester LA, Rahman R, et al.",
+      "journal": "The Journal of hand surgery",
+      "journal_abbrev": "J Hand Surg Am",
+      "year": "2026",
+      "abstract": "PURPOSE: The purpose of this study was to assess outcomes after treatment of scaphoid nonunion with open reduction internal fixation and nonvascularized autograft (NVA). METHODS: This was a retrospective case series assessing all patients with scaphoid nonunions treated with open reduction internal fixation and NVA at a multispecialty orthopedic hospital from 2014 to 2024. Inclusion criteria were 12 weeks or greater from date of injury to date of surgery. Exclusion criteria were absence of postoperative CT scan or presence of additional local procedures. Radiographic healing was defined as 50% bridging bone on CT scan. RESULTS: Ninety-nine patients were included in this study: 45 patients were treated with cancellous only autograft (COA), 52 were treated with corticocancellous autograft (CCA), and 2 were treated with osteochondral autograft. Ninety-five percent of patients healed. Median time to healing was 81 days. On first postoperative CT, obtained at a median of 77 days after surgery, 75% of patients were healed. Eighty-nine percent of patients had bridging bone present on first CT; 99% of these patients went on to heal. Thirteen patients in this study had a prior attempt at surgical fixation at another institution; all healed after revision surgery. There were no significant differences in the odds of healing at any time point or the time to healing for patients treated with CCA versus COA. CONCLUSIONS: Surgical treatment of scaphoid nonunion with NVA had a union rate of 95%. There were no significant differences in outcomes between patients treated with CCA and COA. Of patients who exhibited bridging bone on CT obtained at a median of 76 days after surgery, 99% went on to union. These findings support use of NVA for scaphoid nonunion and discourage the use of multiple postoperative CT scans to confirm healing. TYPE OF STUDY/LEVEL OF EVIDENCE: Therapeutic IV.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42262294/",
+      "score": 58,
+      "score_reasoning": "Retrospective study of 99 scaphoid nonunion patients achieving 95% union rate with nonvascularized autograft and good clinical relevance.",
+      "bullets": [
+        "Scaphoid nonunion treated with open reduction, internal fixation, and nonvascularized autograft achieved 95% union rate in 99 patients with median healing time of 81 days.",
+        "Cancellous-only autograft and corticocancellous autograft showed no significant difference in healing rates or time to union for scaphoid nonunion repair.",
+        "If bridging bone appears on CT scan at 2-3 months postoperatively, 99% of scaphoid nonunions will heal without need for additional imaging surveillance."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-06-14T04:57:08.430745-07:00"
+}
