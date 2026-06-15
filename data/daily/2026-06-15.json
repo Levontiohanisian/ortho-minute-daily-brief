@@ -1,0 +1,304 @@
+{
+  "brief_date": "2026-06-15",
+  "brief_date_display": "Monday, June 15",
+  "candidates": [
+    {
+      "pmid": "42285325",
+      "title": "What Factors Increase the Risk of Dislocation after Primary Total Hip Arthroplasty Using the Direct Anterior Approach?",
+      "authors": [
+        "Murphy MP",
+        "Forti CR",
+        "Ho H",
+        "Hopper RH",
+        "Hamilton WG"
+      ],
+      "authors_short": "Murphy MP, Forti CR, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: While the direct anterior approach (DAA) for total hip arthroplasty (THA) is associated with a lower risk of dislocation, this complication has not been eliminated and can be acutely disabling when it occurs. This study aimed to identify patient, surgical, and radiographic factors that contribute to dislocation risk for the DAA based on primary THAs performed over a 15-year period. METHODS: Using an institutional database, we identified 8,658 DAA THAs performed by four surgeons from March 2009 through May 2024. A Cox proportional hazards regression was performed to determine how patient demographics and implant characteristics were associated with dislocation. Patients who dislocated were also compared to a matched control cohort without dislocation to evaluate the influence of radiographic parameters, including acetabular cup orientation, offset, limb length changes, and preoperative acetabular coverage. RESULTS: The dislocation rate among all primary THAs was 0.5% (45 of 8,656). Women had a higher dislocation rate than men (0.7 versus 0.2%), and Cox regression identified an increased risk among women with 28 mm (hazard ratio (HR) 7.5; 95% confidence interval (CI) 3.2 to 17.6) and 32 mm heads (HR 3.8; 95% CI 1.9 to 7.5). Radiographic analysis showed no significant differences in total offset (P = 0.13) or limb length change (P = 0.41), but controls demonstrated significantly lower variance in cup inclination (P = 0.01). CONCLUSION: Although the incidence of dislocation after THA using the DAA is low, women who have smaller diameter femoral heads are at increased risk of dislocation. The significantly lower variance in radiographic inclination among controls also underscores the importance of precise cup positioning.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42285325/",
+      "score": 95,
+      "score_reasoning": "Large retrospective cohort study (8,658 cases) in high-impact journal identifying specific risk factors for dislocation after DAA THA with highly relevant clinical findings for daily practice.",
+      "bullets": [
+        "Women have higher dislocation rates after direct anterior approach total hip arthroplasty, especially with 28mm and 32mm femoral heads compared to men.",
+        "Overall dislocation rate with direct anterior approach is 0.5% in this series of over 8,600 primary total hip arthroplasties.",
+        "Precise acetabular cup positioning matters, as patients without dislocation had less variation in cup inclination angles."
+      ]
+    },
+    {
+      "pmid": "42285321",
+      "title": "Risk and Benefit Profile with Concurrent Nonsteroidal Anti-Inflammatory Drugs and Direct Oral Anticoagulants Following Total Knee Arthroplasty.",
+      "authors": [
+        "Paul BR",
+        "Verhey JT",
+        "Haak GM",
+        "Braithwaite CL",
+        "Tarabichi S",
+        "Christopher ZK",
+        "Spangehl MJ",
+        "Bingham JS"
+      ],
+      "authors_short": "Paul BR, Verhey JT, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Nonsteroidal anti-inflammatory drugs (NSAIDs) are commonly prescribed after total knee arthroplasty (TKA) for analgesia and inflammation control in conjunction with direct oral anticoagulants (DOACs) for venous thromboembolism (VTE) prophylaxis in high-risk patients. In non-orthopaedic populations, concurrent NSAID-anticoagulant increases bleeding risk, but post-TKA safety data remain limited. METHODS: Using a national claims database (2010 to 2023), we identified patients undergoing primary TKA who received DOAC-only VTE prophylaxis for \u2265 three days. Patients co-prescribed NSAIDs were propensity score-matched 1:3 to DOAC-only patients based on demographics, comorbidities, and preoperative anticoagulant use. The matched cohort included 12,733 patients who received DOAC plus NSAID therapy and 37,127 who received DOAC alone. Outcomes included 90-day medical and surgical complications, two-year implant-related complications, and arthrofibrosis-associated outcomes. Subanalyses evaluated outcomes by NSAID type and prescription duration. RESULTS: Combination therapy was associated with increased wound dehiscence (odds ratio (OR) 1.49, 95% confidence interval (CI) 1.20 to 1.87), surgical site infection (OR 1.71 [1.25 to 2.34]), and periprosthetic joint infection (OR 1.24 [1.01 to 1.52]), without differences in 90-day bleeding events (P > 0.05). At two years, NSAID plus DOAC therapy was associated with higher revision risk (OR 1.52 [1.13 to 2.05]), but lower arthrofibrosis (OR 0.92 [0.86 to 0.98]) and manipulation under-anesthesia rates (OR 0.69 [0.62 to 0.77]). Subgroup analyses demonstrated that celecoxib was associated with higher rates of wound dehiscence, surgical site infection, and blood loss anemia, while ibuprofen was associated with an increased risk of surgical site infection. CONCLUSION: Patients who received concurrent NSAIDs with DOAC prophylaxis following TKA had higher rates of wound complications, infection, and all-cause revision, despite lower rates of arthrofibrosis-related outcomes. These findings demonstrate a clinically relevant trade-off and emphasize the importance of patient-specific risk stratification and cautious NSAID selection when used concurrently with DOAC therapy after TKA.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42285321/",
+      "score": 92,
+      "score_reasoning": "Large national database study (12,733 patients) comparing NSAID+DOAC combination therapy after TKA with clear clinical implications for postoperative medication management.",
+      "bullets": [
+        "NSAIDs combined with DOACs after TKA increased wound dehiscence by 49% and surgical site infections by 71% compared to DOACs alone in nearly 50,000 patients.",
+        "The combination reduced arthrofibrosis and manipulation under anaesthesia rates but increased two-year revision risk by 52%.",
+        "Celecoxib showed higher wound complications and bleeding while ibuprofen increased infection risk when used with anticoagulation."
+      ]
+    },
+    {
+      "pmid": "42266073",
+      "title": "Contralateral ACL Rupture as an Indicator of Intrinsic Risk for Graft Failure After ACL Reconstruction: A Cohort Study of 7718 Patients From the SANTI Study Group.",
+      "authors": [
+        "Santamaria F",
+        "Culebras Almeida LA",
+        "Carrozzo A",
+        "Campos JP",
+        "Saithna A",
+        "Vieira TD",
+        "Sonnery-Cottet B"
+      ],
+      "authors_short": "Santamaria F, Culebras Almeida LA, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Graft failure after anterior cruciate ligament (ACL) reconstruction (ACLR) may be influenced by both extrinsic exposure and intrinsic patient susceptibility. A contralateral ACL rupture could reflect an inherent predisposition to ligament injury. PURPOSE: To determine whether a history of bilateral native ACL ruptures increases the risk of graft failure after primary ACLR. STUDY DESIGN: Cohort study; Level of evidence, 2. METHODS: A total of 7718 consecutive patients who underwent primary ACLR by a single surgeon (2003-2022) were included. Graft failure, defined as a clinically and magnetic resonance imaging-confirmed rupture, was compared between patients with bilateral versus unilateral native ACL ruptures. Multivariable logistic regression identified independent predictors, including age, sex, Tegner score, sport type, and a history of bilateral rupture. RESULTS: The cohort included 6327 patients with isolated native ACL rupture and 1391 patients with bilateral native ACL rupture. The overall graft failure rate was 6% (461-7718), with a mean follow-up of 135.9 months. Patients with bilateral ACL ruptures had a higher failure rate (9.3%) than those with unilateral injuries (5.2%) (P < .0001). Independent predictors included younger age (odds ratio [OR], 0.92 [95% CI, 0.90-0.93]; P < .0001), male sex (OR, 1.46 [95% CI, 1.10-1.96]; P = .0089), higher Tegner score (OR, 1.09 [95% CI, 1-1.19]; P = .043), and bilateral rupture (OR, 1.34 [95% CI, 1.03-1.73]; P = .028). CONCLUSION: Bilateral native ACL rupture independently increases the risk of graft failure after ACLR. This finding supports its use as a marker of intrinsic vulnerability that may warrant targeted preventive or surgical strategies.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42266073/",
+      "score": 87,
+      "score_reasoning": "Large cohort study (7,718 patients) from SANTI group examining bilateral ACL rupture as predictor of graft failure with important implications for patient counseling.",
+      "bullets": [
+        "Patients with bilateral ACL ruptures have a 9.3% graft failure rate compared to 5.2% for unilateral ACL injuries after reconstruction.",
+        "Bilateral ACL rupture history independently increases graft failure risk by 34% after controlling for age, sex, activity level, and sport type.",
+        "Having both ACLs rupture indicates intrinsic ligament vulnerability that should influence surgical planning and prevention strategies."
+      ]
+    },
+    {
+      "pmid": "42281414",
+      "title": "Animal-Assisted Therapy Reduces Patient Reported Pain During Office Pin Removal Following Supracondylar Humerus Fracture Fixation: A Randomized Controlled Study.",
+      "authors": [
+        "Arif HA",
+        "Feijoo E",
+        "Padgett M",
+        "Nishikawa A",
+        "Williams KA",
+        "Strom SF",
+        "Ashley P",
+        "McGwin G",
+        "Doyle JS",
+        "Gilbert S",
+        "Conklin MJ"
+      ],
+      "authors_short": "Arif HA, Feijoo E, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Outpatient pin removal after pin fixation of supracondylar humerus (SCH) fractures is a frequent source of pain and anxiety in children. While pharmacologic and digital distraction strategies have demonstrated minimal efficacy in reducing procedural distress, animal-assisted therapy (AAT) remains an unexplored alternative in pediatric orthopaedics. The purpose of this study was to assess the effect of AAT on patient-reported pain and behavioral distress during office SCH pin removal. METHODS: A randomized controlled trial was conducted at a tertiary pediatric hospital. Pediatric patients aged 3 to 10 years undergoing office pin removal after SCH fracture fixation were randomized to pin removal with or without the presence of a certified therapy dog. Outcomes included patient-reported pain using the Wong-Baker FACES Pain Rating Scale, behavioral distress using the Face, Legs, Activity, Cry, and Consolability (FLACC) scale, heart rate measurements, and parental-reported anxiety assessed through survey. RESULTS: A total of 52 patients were enrolled in this study with 27 randomized to the Dog cohort and 25 to the control cohort. Patients in the Dog cohort demonstrated significantly lower patient-reported pain (FACES: 2.9 vs. 6.4, P<0.01) and behavioral distress (FLACC: 3.3 vs. 5.6, P=0.02) during pin removal. Peak heart rate was significantly lower in the Dog cohort (121.3 vs. 138.4 bpm, P=0.04), although change from baseline heart rate did not differ significantly (P=0.09). CONCLUSIONS: Animal-assisted therapy was associated with reduced patient-reported pain and behavioral distress during office SCH pin removal, supporting its role as a non-pharmacologic adjunct in pediatric orthopaedic care. LEVEL OF EVIDENCE: Level I, randomized controlled trial.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42281414/",
+      "score": 83,
+      "score_reasoning": "Randomized controlled trial demonstrating significant reduction in patient-reported pain with animal-assisted therapy during pediatric pin removal.",
+      "bullets": [
+        "Children aged 3-10 undergoing supracondylar humerus pin removal reported significantly less pain when a therapy dog was present (2.9 vs 6.4 on FACES scale).",
+        "The therapy dog group also showed less behavioral distress and lower peak heart rates during the procedure compared to standard care.",
+        "Animal-assisted therapy offers a simple non-pharmacologic option to reduce procedural pain in pediatric orthopaedic offices."
+      ]
+    },
+    {
+      "pmid": "42267387",
+      "title": "The Effect of Preoperative Symptom Duration on 10-Year Outcomes After Hip Arthroscopy for Femoroacetabular Impingement Syndrome: A Matched Analysis.",
+      "authors": [
+        "Hu EY",
+        "Bi AS",
+        "Cervantes JE",
+        "Nho SJ"
+      ],
+      "authors_short": "Hu EY, Bi AS, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Patients with femoroacetabular impingement syndrome (FAIS) experiencing >2 years of pain before hip arthroscopy have been linked with worse short-term and midterm outcomes. PURPOSE: To examine the effect of preoperative pain duration on patient-reported outcomes (PROs), clinically significant outcomes, and reoperation rates in patients undergoing primary hip arthroscopy for FAIS. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: A prospectively maintained surgical repository was reviewed to select patients who underwent primary hip arthroscopy for FAIS between January 2012 and October 2014 with 10-year follow-up. Patients who reported pain \u22652 years before surgery were propensity score matched 1:1 to patients reporting preoperative pain <2 years by age, sex, and body mass index (BMI). PRO scores collected included those for the Hip Outcome Score-Activities of Daily Living (HOS-ADL), Hip Outcome Score-Sports Subscale (HOS-SS), modified Harris Hip Score (mHHS), and visual analog scale (VAS) for pain and satisfaction. Achievement rates of the minimal clinically important difference and patient acceptable symptom state were compared. Reoperation-free survivorship was compared with Kaplan-Meier analysis. RESULTS: A total of 164 patients who had a symptom duration \u22652 years (mean age, 35.9 \u00b1 11.7 years; 64.0% female; mean BMI, 25.3 \u00b1 5.2 kg/m2) were successfully matched to 164 patients who had a symptom duration <2 years (mean age, 35.8 \u00b1 11.9 years; 64.6% female; mean BMI, 25.3 \u00b1 4.7 kg/m2). Patient characteristics were similar between groups. Preoperative and 2-year PRO scores were similar between groups. At 10 years, the prolonged pain group had worse mHHS (P = .027), higher VAS pain (P = .002), and lower VAS satisfaction (P = .002) scores than the short pain group. The prolonged pain group also had significantly lower achievement rates of the minimal clinically important difference for the HOS-ADL (P = .024) and HOS-SS (P = .039) and lower achievement rates of the patient acceptable symptom state for the VAS pain (P = .006) and at least 1 PRO measure (P = .041). Reoperation-free survivorship did not differ between groups (P = .11). CONCLUSION: Patients with pain \u22652 years before undergoing primary hip arthroscopy for FAIS significantly improved at 10 years but experienced worse function, pain, satisfaction, and achievement of clinically significant outcomes, with similar survivorship, compared to a matched group of patients with preoperative pain <2 years.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42267387/",
+      "score": 81,
+      "score_reasoning": "Large matched cohort study (328 patients) examining effect of preoperative symptom duration on 10-year outcomes after hip arthroscopy.",
+      "bullets": [
+        "Patients with hip pain for 2+ years before arthroscopy for FAIS have worse function, more pain, and lower satisfaction at 10 years compared to those with shorter symptom duration.",
+        "Achievement of meaningful clinical improvement is significantly lower in patients who wait 2+ years before surgery for FAIS.",
+        "Reoperation rates at 10 years are similar regardless of preoperative symptom duration in FAIS patients."
+      ]
+    },
+    {
+      "pmid": "42267690",
+      "title": "Is Higher Surgeon Volume Associated With Lower Complication and Revision Risk After Distal Radius Fracture Surgery? A Population-based Cohort Study of 13,389 Patients.",
+      "authors": [
+        "Persitz J",
+        "Zagorski B",
+        "Baltzer H",
+        "Calzavara A",
+        "Wolfstadt J",
+        "Avisar E",
+        "Zuo KJ",
+        "Chan A",
+        "Paul R",
+        "Urbach DR"
+      ],
+      "authors_short": "Persitz J, Zagorski B, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Surgeon case volume has been linked with outcomes across many orthopaedic procedures, but its influence on distal radius fracture fixation remains uncertain. QUESTIONS/PURPOSES: (1) For distal radius fracture surgery, at what surgeon annual case volume does the risk of complications plateau? (2) For distal radius fracture surgery, at what surgeon annual case volume does the risk of revision surgery plateau? METHODS: A retrospective, population-based study was performed using administrative health databases in Ontario, Canada, accessed through the Institute for Clinical Evaluative Sciences, an independent, nonprofit research institute that houses linkable, individual-level health administrative data for Ontario's publicly funded healthcare system. Between 2010 and 2020, a total of 27,945 adult patients (\u2265 18 years of age) underwent surgical fixation for acute isolated distal radius fracture. After applying prespecified inclusion and exclusion criteria, including exclusion of patients with open fractures, polytrauma, compartment syndrome, neurovascular injury, emergent presentations, incomplete administrative records, or prior distal radius surgery, a final cohort of 13,389 patients (48% of the initial cohort) was included (71% [9533] females; mean \u00b1 SD age 56 \u00b1 15 years). Surgeon annual case volume, defined as the number of distal radius fracture fixations performed in the preceding year, was the primary exposure. The primary outcome was a composite of complications, including postoperative complications or revision surgery up to 10 years after the index procedure; revision surgery was also analyzed separately. Cox proportional hazards models were adjusted for demographics, comorbidities, fracture type (intraarticular versus extraarticular), fixation method, and hospital type (teaching versus nonteaching). Restricted cubic spline models were used to assess nonlinearity and identify potential volume thresholds. RESULTS: Surgeons performing < 5 distal radius fracture fixations annually had the highest hazards of both composite complications and revision surgery. Complication hazards declined with increasing surgeon volume and stabilized after approximately 20 procedures per year; consistent with this threshold, surgeons performing 20 to 24 procedures annually demonstrated a 37% lower hazard of complications compared with surgeons performing < 5 procedures per year (HR 0.63 [95% confidence interval (CI) 0.49 to 0.81]; p = 0.004). Revision surgery hazards likewise declined with increasing surgeon volume but plateaued at a lower threshold of approximately 10 procedures per year; surgeons performing 10 to 14 procedures annually had a 56% lower hazard of revision surgery compared with surgeons performing < 5 procedures per year (HR 0.44 [95% CI 0.33 to 0.60]; p < 0.001). CONCLUSION: Surgeons who perform distal radius fracture fixation infrequently may benefit from focused strategies to support maintenance of procedural proficiency including continuing professional development and enhanced surgical training. At a systems level, the lower risk of complications observed among surgeons performing at least 20 procedures per year have implications for training programs, ongoing competence frameworks, and health-system planning, particularly in settings where referral options may be limited. LEVEL OF EVIDENCE: Level III, prognostic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42267690/",
+      "score": 76,
+      "score_reasoning": "Large population-based study (13,389 patients) examining surgeon volume effects on distal radius fracture outcomes with clear quality implications.",
+      "bullets": [
+        "Surgeons performing fewer than 5 distal radius fracture fixations per year had the highest complication and revision rates in this 13,389 patient study.",
+        "Complication rates plateaued when surgeons performed at least 20 cases annually, while revision rates stabilized at 10 cases per year.",
+        "Low-volume surgeons had 37% higher complication risk and 56% higher revision risk compared to those meeting volume thresholds."
+      ]
+    },
+    {
+      "pmid": "42275670",
+      "title": "Is Neighborhood Socioeconomic Deprivation Associated With Outcomes Following Primary THA and TKA? A Systematic Review Utilizing the Area Deprivation Index.",
+      "authors": [
+        "Furyes AR",
+        "Elmenawi KA",
+        "Hackett L",
+        "Deren ME",
+        "Piuzzi NS"
+      ],
+      "authors_short": "Furyes AR, Elmenawi KA, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Socioeconomic disadvantage is increasingly recognized as an important factor associated with outcomes after total joint arthroplasty (TJA). The Area Deprivation Index (ADI) has emerged as a validated measure of socioeconomic disadvantage that specifically captures individual neighborhood levels of structural and material deprivation based on income, education, employment, and housing characteristics. Prior research has demonstrated ADI to be associated with surgical outcomes; however, its relationship to postoperative outcomes after THA and TKA, procedures in which outcomes depend highly on institutional and structural support, home environment, and accessible postacute care resources, has not been well synthesized. Prior studies provide a broad overview of heterogeneous measures of socioeconomic disadvantage that are not directly comparable. QUESTIONS/PURPOSES: (1) Is a higher ADI associated with increased postoperative healthcare utilization after primary THA and TKA? (2) Is a higher ADI associated with differences in patient-reported outcome measures (PROMs)? (3) Is a higher ADI associated with increased postoperative complications? (4) Is ADI associated with differences in implant survivorship after TJA? METHODS: A systematic review of four databases-Ovid Medline, Embase, Cochrane Library, and Web of Science Core Collection-was performed from their inception to March 27, 2025. Each database was last searched on March 27, 2025. In all, 128 records were available. Studies were included if they evaluated patients receiving primary THA or TKA and examined ADI in the Results section of the manuscript in terms of any of the following: 90-day outcomes, healthcare utilization, complications, reoperations, revisions, cost, or PROMs. Studies were excluded if they examined revision hip or knee arthroplasty, hemiarthroplasty, or arthroplasty of any other joint; did not evaluate outcomes in association with ADI; or were case reports, systematic reviews, conference abstracts, editorials, or narrative reviews. Sixteen studies were included for final review. Two reviewers independently screened studies, extracted data, and assessed methodological quality using the Newcastle-Ottawa Scale (NOS), which has a maximum quality score of nine stars. Included studies had a median (range) NOS score of 8 stars (7 to 9), suggesting that most were of good quality with a low risk of bias. Results were synthesized qualitatively; meta-analyses were not performed because of the heterogeneity of included studies. RESULTS: A higher ADI was consistently associated with greater healthcare utilization, including prolonged length of stay, increased likelihood of nonhome discharge, and increased odds of emergency department visits. PROMs demonstrated worse absolute postoperative scores and lower likelihood of achieving patient acceptable symptom states among patients who live in high ADI neighborhoods despite comparable levels of improvement across all groups. Overall, ADI was not associated with reaching the standard minimum clinically important difference (MCID). All groups achieved the MCID on all domains of the Hip Disability and Osteoarthritis Outcome Score, Knee Injury and Osteoarthritis Outcome Score, and Patient-Reported Outcomes Measurement Information System short forms regardless of ADI. A higher ADI was associated with increased odds of medical complications such as infection, venous thromboembolism, cardiopulmonary events, and acute kidney injury. Evidence on implant survivorship was limited but suggested increased odds of reoperation and periprosthetic joint infection within 90 days and increased odds of aseptic revision beyond 90 days in populations with more severe levels of deprivation as measured by the ADI. CONCLUSION: Higher neighborhood socioeconomic deprivation was independently associated with worse postoperative outcomes, greater resource utilization, and signals of inferior early implant survivorship after THA and TKA. The ADI provides meaningful insight into neighborhood-level social risk beyond traditional clinical factors and individual patient demographics and may help identify patients who may benefit from interventions such as more intensive preoperative medical management of comorbidities, tailored perioperative support, easily accessible rehabilitation, or closer postoperative follow-up. Incorporating the ADI into risk-adjustment models and care pathways may help clinicians better anticipate possible barriers to recovery and may help ensure that patients from less affluent communities achieve the results they seek after lower extremity arthroplasty. LEVEL OF EVIDENCE: Level III, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42275670/",
+      "score": 75,
+      "score_reasoning": "Systematic review utilizing validated ADI measure to examine socioeconomic effects on TJA outcomes with important healthcare equity implications.",
+      "bullets": [
+        "Patients from socioeconomically disadvantaged neighborhoods have longer hospital stays, more non-home discharges, and increased emergency department visits after hip and knee replacement.",
+        "Higher neighborhood deprivation correlates with worse absolute outcome scores and higher medical complication rates including infection, blood clots, and heart/lung problems.",
+        "All patients achieve meaningful clinical improvement regardless of neighborhood income level, but those in poor areas show higher early reoperation and revision rates."
+      ]
+    },
+    {
+      "pmid": "42248346",
+      "title": "Shoulder Arthroplasty Outcomes in Hypertensive Patients: A Propensity Score-Matched Comparison of ARBs and ACE Inhibitors.",
+      "authors": [
+        "Lee S",
+        "Jayne C",
+        "Kim MT",
+        "Boufadel P",
+        "Cook AE",
+        "Uppstrom TJ",
+        "Li X"
+      ],
+      "authors_short": "Lee S, Jayne C, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Hypertension is a highly prevalent comorbidity among patients undergoing total shoulder arthroplasty (TSA), and angiotensin receptor blockers (ARBs) and angiotensin-converting enzyme inhibitors (ACEIs) are among the most commonly prescribed antihypertensive medications. Emerging evidence suggests that ARBs may confer musculoskeletal benefits, including improved bone quality and reduced fracture risk, compared with ACEIs. The purpose of this study was to evaluate the association between ARB versus ACEI use and the risk of periprosthetic complications in hypertensive patients undergoing TSA. METHODS: The TriNetX Global Collaborative Network was queried for hypertensive patients who underwent primary TSA: anatomic total shoulder arthroplasty (aTSA), reverse shoulder arthroplasty (rTSA), and hemiarthroplasty (HA). Patients were stratified by documented perioperative use of ARBs or ACEIs at both timepoints, 6 months before and after surgery. Propensity score matching (1:1) was performed for age, sex, BMI, HbA1c, smoking status, osteoporosis, rheumatoid arthritis, and comorbidities included in the Charlson Comorbidity Index. Outcomes included medical complications, surgical complications, readmission, emergency department (ED) visits, and revision rates, assessed at 90 days, 1 and 2 years postoperatively. Kaplan-Meier analyses evaluated survivorship free from dislocation, stiffness, and periprosthetic fracture (PPFx). RESULTS: After matching, 11,603 patients were included in both ARB and ACEI cohorts. Further stratification by arthroplasty type yielded matched cohorts of 1,559 aTSA, 3,734 rTSA, and 412 HA patients in both ARB and ACEI cohorts. ARB usage was associated with significantly decreased rates of dislocation at 90 days (OR 0.657; P = 0.014), 1 year (OR 0.793; P = 0.030), and 2 years (OR 0.668; P = 0.002). Similarly, PPFx rates were significantly reduced in the ARB cohort at 90 days (OR 0.674; P = 0.003), 1 year (OR 0.709; P = 0.003), and 2 years (OR 0.733; P = 0.004). Additionally, the risk of stiffness was significantly reduced in the ARB cohort at 1 (OR 0.793; P = 0.030) and 2 years (OR 0.778; P = 0.013). Subgroup analyses by arthroplasty type demonstrated a significantly decreased risk of PPFx among ARB users undergoing rTSA (OR 0.713; P = 0.027) and HA (OR 0.447; P = 0.016) at 2 years. CONCLUSIONS: Among hypertensive patients undergoing TSA, ARB usage was associated with lower risk of PPFx, dislocation, and stiffness compared with ACEI therapy, without differences in revision or medical complications. Although these findings suggest that ARBs may offer musculoskeletal advantages in the perioperative management of patients undergoing TSA, the observed associations were not consistently reproduced in the procedure-specific subgroups and warrant further prospective investigation.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42248346/",
+      "score": 72,
+      "score_reasoning": "Propensity-matched study (11,603 patients) comparing ARBs vs ACE inhibitors in shoulder arthroplasty with novel medication-related findings.",
+      "bullets": [
+        "Hypertensive patients on ARBs had lower rates of dislocation, periprosthetic fracture, and stiffness after shoulder arthroplasty compared to those on ACE inhibitors in this 11,603 patient matched study.",
+        "The protective effect was most consistent for periprosthetic fractures in reverse shoulder arthroplasty and hemiarthroplasty patients at 2 years postoperatively.",
+        "No differences were seen in revision rates or medical complications between ARB and ACE inhibitor groups across all shoulder arthroplasty types."
+      ]
+    },
+    {
+      "pmid": "42263931",
+      "title": "All-Suture Anchors Exhibit Less Perianchor Fluid Formation Independent of Healing Quality Compared With PEEK Anchors in Arthroscopic Rotator Cuff Repair: A Propensity Score-Matched Comparative Study.",
+      "authors": [
+        "G\u00fcl O",
+        "Ayazoglu MA",
+        "Yaz\u0131c\u0131 A",
+        "Durusoy S",
+        "G\u00fcr\u00fcn E",
+        "Okutan AE"
+      ],
+      "authors_short": "G\u00fcl O, Ayazoglu MA, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Perianchor fluid collection may differ according to anchor material following arthroscopic rotator cuff repair (ARCR), but its relationship with tendon healing remains unclear. This study aimed to compare perianchor fluid collection between all-suture anchors (ASA) and polyetheretherketone (PEEK) anchors following ARCR and to evaluate its relationship with tendon healing at mid-term follow-up. METHODS: A retrospective comparative study was performed on patients who underwent primary ARCR using either ASA or PEEK anchors. Propensity score matching (PSM) was applied to balance baseline variables, including age, sex, tear size, and bone mineral density. Clinical outcomes, including visual analog scale (VAS) for pain, American Shoulder and Elbow Surgeons (ASES) score, and range of motion (ROM), as well as structural integrity assessed by the Sugaya classification and perianchor fluid collection graded on magnetic resonance imaging (MRI), were evaluated at a minimum follow-up of 2 years. Perianchor fluid collection was also evaluated as absent (Grade 0) or present (Grade \u22651). Correlation analysis between fluid collection and tendon integrity was performed. RESULTS: After PSM, 34 matched pairs (n=68) were analyzed. Both groups showed significant improvement in VAS and ASES scores (p<0.001), with no differences between groups in clinical outcomes, range of motion, or healing rates (76.5% in ASA vs. 82.4% in PEEK; p>0.05). Although the overall distribution of perianchor fluid collection grades was similar (p=0.106), the presence of fluid collection (Grade \u22651) was significantly higher in the PEEK group (38.2% vs. 11.8%; p=0.023). A moderate positive correlation between fluid collection and Sugaya classification was observed in the PEEK group (r=0.606, p<0.001), whereas no significant correlation was found in the ASA group. CONCLUSION: ASA and PEEK anchors yielded comparable clinical outcomes and healing rates after arthroscopic rotator cuff repair at a minimum 2-year follow-up. Although perianchor fluid formation correlated with repair integrity in the PEEK anchor group, all-suture anchors demonstrated lower rates of perianchor fluid formation, with no significant association observed between fluid formation and healing quality in the ASA group. LEVEL OF EVIDENCE: Level III, Retrospective Cohort Comparison, Treatment Study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42263931/",
+      "score": 71,
+      "score_reasoning": "Propensity-matched study examining all-suture vs PEEK anchors in rotator cuff repair with important technical implications.",
+      "bullets": [
+        "All-suture anchors show less fluid collection around the anchor compared to PEEK anchors in arthroscopic rotator cuff repair (11.8% vs 38.2% at 2 years).",
+        "Clinical outcomes and healing rates are equivalent between all-suture and PEEK anchors at 2-year follow-up in rotator cuff repair patients.",
+        "Fluid around PEEK anchors correlates with poor healing, but fluid around all-suture anchors does not predict healing quality."
+      ]
+    },
+    {
+      "pmid": "42281429",
+      "title": "Tether Breakage Across First-generation and Second-generation Vertebral Body Tethering Devices in Treating Adolescent Idiopathic Scoliosis.",
+      "authors": [
+        "Coleman TA",
+        "Kim A",
+        "Desai V",
+        "Parent S",
+        "Miyanji F",
+        "Alanay A",
+        "Sarkar S",
+        "Anari JB",
+        "Lullo BR",
+        "Cahill PJ"
+      ],
+      "authors_short": "Coleman TA, Kim A, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Tether breakage is a significant complication that can occur when performing vertebral body tethering (VBT) in patients with adolescent idiopathic scoliosis (AIS). While previous studies have reported tether breakage rates, the incidence of tether breakage across medical device manufacturers and VBT models remains unknown. This study aims to define the rate of tether breakage in second-generation device systems compared with their first-generation counterparts. METHODS: A retrospective analysis of a prospectively collected, multicenter registry was performed for all patients with AIS treated from 2011 to 2021 who underwent thoracic VBT with at least 2 years of follow-up. Radiographic tether breakage, as defined by an increase in adjacent screw angle >5 degrees during the postoperative period, was analyzed across the first-generation and the second-generation vertebral body tethering devices from within the same product line. Wilcoxon rank tests and Fisher's exact tests were performed to compare differences across cohorts. RESULTS: Two hundred thirty-one patients across 12 centers were included in the final analysis. One hundred seventy-nine patients received first-generation implants from 2011 to 2018, and 52 patients from 2017 to 2021 received second-generation vertebral body tethering devices. In total, radiographically identified tether breakage occurred in 116 patients (50%). The rate of radiographic tether breakage did not differ across generations (52% vs. 44%; P=0.46). Four patients (8%) who received the newer VBT system underwent revision compared with 15 patients (8%) who were implanted with first-generation instrumentation (P=0.87). In addition, only 1 patient (2%) who received the second-generation device and 8 patients (4%) who received the older VBT system were converted to posterior spinal fusion within 2 years of index surgery (P=0.69). Interestingly, the surgeon observed rate of tether breakage significantly decreased from the first generation of VBT devices to the second (21% vs. 2%; P<0.001). CONCLUSION: Tether breakage remains high in cases when using the new tether devices and is comparable to rates observed with the older models, despite lower rates of surgeon-reported breakage. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42281429/",
+      "score": 67,
+      "score_reasoning": "Retrospective cohort study examining impact of preoperative osteoporotic medications on THA outcomes with important medication management implications.",
+      "bullets": [
+        "Tether breakage occurs in 50% of adolescent idiopathic scoliosis patients treated with vertebral body tethering, regardless of device generation.",
+        "Second-generation VBT devices show no improvement in radiographic tether breakage rates compared to first-generation systems (44% vs 52%).",
+        "Revision surgery rates remain similar between device generations at 8%, with fusion conversion needed in 2-4% of cases within 2 years."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-06-15T08:45:57.552744-07:00"
+}
