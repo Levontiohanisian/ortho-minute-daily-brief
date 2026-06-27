@@ -38,7 +38,7 @@ JOURNAL_QUERY = " OR ".join(
 )
 
 # Claude model for scoring/summarization
-CLAUDE_MODEL = "claude-sonnet-4-20250514"
+CLAUDE_MODEL = "claude-sonnet-4-6"
 
 # Data directory
 DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data", "daily")
