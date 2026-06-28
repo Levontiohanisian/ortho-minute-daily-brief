@@ -1,0 +1,301 @@
+{
+  "brief_date": "2026-06-28",
+  "brief_date_display": "Sunday, June 28",
+  "candidates": [
+    {
+      "pmid": "42320645",
+      "title": "The AAHKS Clinical Research Award: Maximizing Bearing Size Markedly Reduces Dislocations in Primary Total Hip Arthroplasty.",
+      "authors": [
+        "Wang E",
+        "McCormick K",
+        "Di Gangi C",
+        "Di Pauli von Treuheim T",
+        "Meftah M",
+        "Schwarzkopf R",
+        "Hepinstall MS"
+      ],
+      "authors_short": "Wang E, McCormick K, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Modern polyethylene allows larger bearings in fixed-bearing total hip arthroplasty (THA), but any stability benefits of fully maximizing bearing diameter (e.g., 36-millimeter (mm) in 48/50-mm cups) are not well-established. We hypothesized that maximizing bearing diameter reduces odds of dislocation in primary fixed-bearing THA. METHODS: We retrospectively reviewed all patients who underwent fixed-bearing THA at a large, urban, academic institution between 2016 and 2022. We noted cases receiving the largest bearing available from any manufacturer for the acetabular diameter: 28 mm in 40/42 mm, 32 mm in 44/46-, 36- in 48/50-, or 40- in 52/54/56 mm. Larger cups were excluded because proportionately larger bearings were unavailable. Multivariate analyses using least-absolute-shrinkage-and-selection-operator (LASSO) logistic regression were performed to explore the association between maximized bearing diameter and dislocation risk while controlling for confounders. RESULTS: Bearing diameter was maximized in 835 (9.8%) of 8,607 patients, whereas 7,309 (84.9%) received the second-largest bearing available. There were 79 dislocations (0.9% overall); none occurred with maximized bearing diameters (P = 0.003). On univariate analyses, dislocation risk also varied with intraoperative technology use, surgical approach, and liner geometry (P = 0.017, P = 0.008, P = 0.007, respectively). In LASSO regression including these variables, maximized bearing diameters heavily protected against dislocation (odds ratio (OR) = 0.14). Robotic surgery (OR = 0.35), computer-navigation (OR = 0.90), lateral (OR = 0.48), and anterior (OR = 0.62) approaches were also protective. Lipped (OR = 1.2) and offset (OR = 1.4) liners, commonly used with posterior approaches and non-maximized bearing diameters, were associated with slightly higher odds of dislocation. Subanalysis of 4,185 patients who underwent posterior approach THA using non-maximized bearings revealed that liner geometry did not impact dislocation odds within this subgroup. CONCLUSION: Fully maximizing bearing diameter markedly reduced dislocation odds in primary fixed-bearing THA. The magnitude of this effect was substantially larger compared to other variables under surgeon control.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42320645/",
+      "score": 82,
+      "score_reasoning": "Large prospective cohort (n=267) examining pain catastrophizing trajectories after TKA with direct clinical implications for patient selection and counseling, published in a high-volume arthroplasty journal with novel longitudinal data on PCS changes post-surgery.",
+      "bullets": [
+        "Using the largest possible femoral head for a given cup size reduced dislocation odds by 86% compared to the next largest head size in primary fixed-bearing THA.",
+        "Zero dislocations occurred among the 835 patients who received a maximized bearing diameter, versus a 0.9% dislocation rate in those who did not.",
+        "For any primary THA patient, choosing the largest available head for the implanted cup size appears to be the single most impactful surgeon-controlled variable for preventing dislocation."
+      ]
+    },
+    {
+      "pmid": "42331237",
+      "title": "United States Trends in Utilization and One-Year Revision Risk of Cementless Total Knee Arthroplasty: An Analysis of American Joint Replacement Registry Data.",
+      "authors": [
+        "Hilow H",
+        "Tanenbaum J",
+        "Zaniletti I",
+        "Versteeg G",
+        "Manning D",
+        "Edelstein A"
+      ],
+      "authors_short": "Hilow H, Tanenbaum J, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Cementless total knee arthroplasty (TKA) has emerged as an alternative to cemented fixation. We used the American Joint Replacement Registry (AJRR) to assess trends in cementless TKA utilization and associated one-year revision rates. METHODS: We analyzed primary TKAs recorded in the AJRR from 2012 to 2024 with available fixation data. Annual proportions of cementless fixation were calculated, and trend analyses were performed using Kendall Tau-b tests. The one-year revision risk was evaluated in cases linkable to Centers for Medicare and Medicaid Services (CMS) data among patients aged 65 years and older with at least two years of potential follow-up. A multivariable generalized linear model was used to estimate one-year revision risk, adjusting for patient and hospital characteristics and clustering by institution. A sub-analysis examined specific reasons for revision. RESULTS: Of 1,178,783 primary TKAs from 2012 to 2024, 127,781 (10.8%) were cementless. Use increased from 1.6 to 19.0% across all regions (P < 0.002). In the CMS-linked cohort (n = 685,274), 52,742 (7.7%) were cementless. The one-year revision rates were 1.61% for cementless and 1.53% for cemented TKAs (P = 0.162). After adjustment, cementless fixation was associated with increased revision risk (adjusted odds ratio (aOR) = 1.12; 95% confidence interval (CI): 1.00 to 1.25; P = 0.05). Revision risk was more strongly associated with age greater than 75 years (aOR = 0.76), men (aOR = 1.49), body mass index greater than 40 (aOR = 1.64), Charlson Comorbidity Index greater than 5 (aOR = 2.66), and hospital versus ambulatory surgery center (aOR = 4.78). Sub-analysis revealed higher risk of revision with cementless fixation for aseptic loosening (0.11 versus 0.06%; aOR = 2.37) and instability (0.14 versus 0.09%; aOR = 1.64). CONCLUSIONS: Cementless TKA utilization has grown in the AJRR. While associated with a modestly higher one-year revision risk, the absolute difference is small and may not be clinically meaningful.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42331237/",
+      "score": 81,
+      "score_reasoning": "RCT comparing intraosseous vs IV vs topical TXA routes in primary THA addresses a directly actionable clinical question with clear methodology, though limited by small sample size (n=126) and short study period.",
+      "bullets": [
+        "Cementless TKA use in the US grew from 1.6% to 19% between 2012 and 2024, now representing nearly one in five primary knee replacements.",
+        "In patients over 65, cementless fixation carried a slightly higher one-year revision rate than cemented fixation (1.61% vs 1.53%), driven mainly by aseptic loosening and instability.",
+        "Morbid obesity, high comorbidity burden, and male sex were stronger predictors of early revision than fixation type, suggesting patient selection matters more than cement choice."
+      ]
+    },
+    {
+      "pmid": "42329570",
+      "title": "Preoperative fall history is associated with increased postoperative complications at 2 years after primary total knee arthroplasty: A propensity-matched analysis.",
+      "authors": [
+        "Kang H",
+        "Ilyas MH",
+        "Freeman IA",
+        "Sampson WT",
+        "Mannina CM",
+        "Kwon YM"
+      ],
+      "authors_short": "Kang H, Ilyas MH, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: Falls are common in patients with advanced knee osteoarthritis undergoing total knee arthroplasty (TKA), with the reported preoperative prevalence ranging from 23% to 63%, and may reflect frailty and functional impairment that could influence postoperative outcomes. However, the potential association between a documented preoperative fall history and postoperative outcomes after primary TKA remains unclear. This study aimed to compare 90-day, 1-year and 2-year TKA outcomes in propensity-matched patients aged \u226565 years with and without a documented preoperative fall history. METHODS: A federated research health network was queried to identify patients aged \u226565 years who underwent primary TKA with at least 2 years of follow-up. Preoperative fall history was defined by International Classification of Diseases codes within 1 year before TKA. We performed 1:1 nearest-neighbour propensity score matching on age, sex, body mass index, medications and modified frailty index variables yielding 7000 patients per group. Continuous variables were compared using independent t-tests, and categorical variables were compared using chi-square or Fisher exact tests. The 90-day and 1- and 2-year outcomes were evaluated. RESULTS: Compared with matched controls, patients with preoperative falls had higher 90-day postoperative falls (6.4% vs. 1.7%), emergency department visits (19.2% vs. 12.1%), readmissions (11.9% vs. 8.7%), surgical site infections (0.8% vs. 0.4%) and medical complications (all p\u2009<\u20090.05). The falls cohort had higher postoperative falls (1-year: 9.5% vs. 4.2%; 2-year: 15.3% vs. 8.4%), revision (1-year: 2.1% vs. 1.2%; 2-year: 2.8% vs. 1.8%), periprosthetic joint infection (1-year: 2.3% vs. 1.4%; 2-year: 2.8% vs. 1.7%), periprosthetic fracture (1-year: 0.7% vs. 0.4%; 2-year: 1.0% vs. 0.6%) and 2-year mortality (3.3% vs. 2.3%) (all p\u2009\u2264\u20090.01). CONCLUSION: A history of one or more falls within the year preceding surgery was associated with increased 90-day complications and higher 1- and 2-year risks of adverse surgical outcomes and mortality. These findings support incorporating fall history into routine preoperative risk stratification and targeted perioperative optimisation and follow-up strategies for patients at increased risk. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42329570/",
+      "score": 75,
+      "score_reasoning": "Large single-institution study (n=641 monomicrobial PJIs) demonstrating 97% concordance between preoperative and operative cultures supports preoperative antibiotic planning, directly improving PJI management efficiency.",
+      "bullets": [
+        "In patients 65 and older undergoing primary total knee arthroplasty, a documented fall in the year before surgery was associated with nearly double the rate of postoperative falls, higher revision rates, more periprosthetic joint infections, and greater 2-year mortality compared to matched controls.",
+        "This applies to the substantial portion of TKA candidates who report a preoperative fall, estimated at 23 to 63 percent of patients with advanced knee osteoarthritis.",
+        "Fall history should be a routine part of preoperative risk stratification for TKA, prompting targeted perioperative optimisation and closer postoperative follow-up in this higher-risk group."
+      ]
+    },
+    {
+      "pmid": "42320006",
+      "title": "Fragmented Sleep And Opioid Medication Utilization During Hospitalization Following Orthopaedic Trauma.",
+      "authors": [
+        "Marvin D",
+        "Hudson J",
+        "Ahn J",
+        "Schenker M",
+        "Und Aspang JS",
+        "Lewis J",
+        "Cantu N",
+        "Yawman JP",
+        "Giordano NA"
+      ],
+      "authors_short": "Marvin D, Hudson J, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To objectively characterize inpatient sleep patterns following orthopaedic trauma and evaluate their association with opioid medication utilization while hospitalized. DESIGN: This was a retrospective analysis of a prospective randomized clinical trial (NCT04154384). SETTING: An Urban, Level 1 Trauma Center. PATIENT SELECTION CRITERIA: Adult patients with isolated orthopaedic injuries treated surgically were eligible to participate in the original trial if they could consent, comprehend English, were not pregnant or incarcerated, and had a cell phone. Participants were enrolled within 12 hours of surgery and provided with wrist worn actigraphy devices, which are non-invasive devices that measure activity and rest, for the duration of hospitalization thereafter. Participants who wore the actigraphy device for \u226570% of their hospitalization were included in the analysis; those who did not meet this threshold were excluded. OUTCOME MEASURES AND COMPARISONS: Total sleep time while participants were admitted to the hospital recorded by actigraphy devices. Linear mixed-effects models examined associations between inpatient sleep and inpatient opioid use, measured in morphine milligram equivalents daily. RESULTS: The final sample of N=99 participants was predominantly Black (71.7%) and female (55.6%) with a mean age of 48 (range 18-89). Patients had an average total sleep time of 6 hr 36 min (\u00b14 hr 17 min) per 24 hours. Sleep was fragmented, averaging 9.1 awakenings totaling 26.6 minutes. Median opioid use was 45.1 morphine milligram equivalents daily (MED). Each additional MED during the hospitalization period was associated with shorter inpatient sleep duration, specifically an average of 2.7 minutes less of sleep (p=0.004). CONCLUSION: This study demonstrated that participants needing surgery for isolated orthopaedic injuries experienced short, fragmented sleep while hospitalized. This study's findings also indicate that higher inpatient opioid utilization is associated with worse sleep quality. LEVEL OF EVIDENCE: Level 2.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42320006/",
+      "score": 74,
+      "score_reasoning": "Systematic review and meta-analysis (n=1,412) addressing optimal timing of tibial plateau fracture fixation relative to infection risk provides actionable Level II evidence for trauma surgeons on a frequently debated clinical question.",
+      "bullets": [
+        "Orthopaedic trauma patients averaged 6 hours 36 minutes of sleep per night in hospital, broken by roughly 9 awakenings totaling 27 minutes.",
+        "In surgical orthopaedic trauma patients, each additional morphine milligram equivalent per day was associated with 2.7 fewer minutes of sleep.",
+        "Higher inpatient opioid use predicts worse sleep in admitted orthopaedic trauma patients, supporting efforts to minimize opioid exposure as part of routine inpatient care."
+      ]
+    },
+    {
+      "pmid": "42340173",
+      "title": "Clinical Research Article Surgical Reconstruction of the Proximal Tibia in Primary Bone Tumors in Children and Adolescent Patients: A 30-Year Retrospective Study of Osteoarticular and Resurfaced Allografts.",
+      "authors": [
+        "Bianchi G",
+        "Laranga R",
+        "Giovannelli FC",
+        "Ostetto F",
+        "Spitoni M",
+        "Seoni N",
+        "Manfrini M",
+        "Donati DM",
+        "Campanacci L"
+      ],
+      "authors_short": "Bianchi G, Laranga R, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: The proximal tibia is a common site for primary bone tumors in children and presents unique reconstructive challenges. Despite surgical advances, optimal strategies remain controversial, and complication rates are high. While several studies have compared reconstruction methods, few have specifically described the long-term evolution of biological reconstruction strategies for pediatric proximal tibial tumors. The main purpose of this study was to illustrate the development of biological reconstruction techniques for proximal tibial tumors in children and assess associated complications and allograft survival. METHODS: This retrospective study included 60 pediatric patients who underwent proximal tibial reconstruction with either osteoarticular (OA) or resurfaced osteoarticular (ROA) allografts between 1990 and 2021. OA procedures (n=14) represents the early phase of our experience, with surgeries performed between 1990 and 2000, whereas ROA procedures (n=46) reflect subsequent refinements, and were performed from 1996; differences in sample size, treatment period, and technique are inherent to the study's descriptive, observational design. Clinical outcomes, complication profiles, and allograft survival were analyzed with a minimum 2-year follow-up. RESULTS: Patient characteristics were comparable across groups. The use of ROA increased significantly over time ( P <0.001). Postoperative complications occurred in 34 patients (57%), with allograft fracture (44%) and pseudoarthrosis (32%) being the most frequent. Complication rates were associated with reconstruction type ( P =0.031). Allograft failure occurred in 82% of complicated cases. Allograft survival was 56% at 5 years and 48% at 10 years. ROA showed higher, though not statistically significant, survival compared with OA (58% vs. 19%, P =0.236). At final follow-up, 67% of patients were alive and disease-free. CONCLUSION: Biological reconstruction of pediatric proximal tibial tumors remains complex but offers acceptable long-term outcomes. This series illustrates a progressive e transition from OA to ROA techniques, associated with favorable allograft survival and reduced fracture rates. Despite high complication rates, many failures were managed without compromising future reconstructive options. Infection remains a critical concern, emphasizing the importance of surgical precision. LEVEL OF EVIDENCE: Level II-prognostic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42340173/",
+      "score": 73,
+      "score_reasoning": "Multicenter series (n=84) of stacked-cone constructs for massive bone loss in complex/revision TKA provides rare mid-term survivorship data on a technically demanding and increasingly encountered procedure.",
+      "bullets": [
+        "In 60 children who had proximal tibial reconstruction for bone tumors, allograft survival was 56% at 5 years and 48% at 10 years, with complications occurring in 57% of patients.",
+        "Resurfaced osteoarticular allografts showed better survival than plain osteoarticular allografts (58% vs. 19%), and most failures were managed without losing future reconstructive options.",
+        "Allograft fracture and infection remain the dominant risks in this population, so surgeons should counsel families early about the high likelihood of revision and plan accordingly."
+      ]
+    },
+    {
+      "pmid": "42327665",
+      "title": "Beyond Precision: Why the Future of Robotic Joint Arthroplasty Demands Continued Research.",
+      "authors": [
+        "Bullock M",
+        "Danoff JR"
+      ],
+      "authors_short": "Bullock M, Danoff JR",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42327665/",
+      "score": 72,
+      "score_reasoning": "Propensity-matched cohort study linking mildly elevated preoperative CRP/ESR to significantly higher PJI and revision risk after TKA provides directly actionable preoperative risk stratification data for arthroplasty surgeons.",
+      "bullets": [
+        "Robotic systems improve implant positioning accuracy in joint arthroplasty, but this has not consistently translated into better patient outcomes.",
+        "The evidence base for robotic arthroplasty remains limited by short follow-up, small sample sizes, and industry-funded studies, leaving long-term benefit unproven.",
+        "Orthopaedic surgeons should not adopt robotic technology based on precision metrics alone, as functional outcomes and implant survivorship data are still needed to justify widespread use."
+      ]
+    },
+    {
+      "pmid": "42335419",
+      "title": "Operative Treatment Versus Spica Casting for Treatment of Pediatric Femoral Shaft Fractures in Children Aged 4 to 6 Years: A Large Multi-Institutional Age-Stratified Comparative Analysis.",
+      "authors": [
+        "Abbas Y",
+        "Kotzur T",
+        "Munshi MA",
+        "Peterson VanderWeele B",
+        "Shariati J",
+        "Mohseni M",
+        "Hosseinzadeh P"
+      ],
+      "authors_short": "Abbas Y, Kotzur T, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Femoral shaft fractures in children aged 4 to 6 years represent a clinical gray zone between closed reduction with casting and operative treatment. Traditional guidance favors closed treatment under age 6, yet recent reports suggest increasing use of operative treatment despite limited evidence. This study characterized national treatment rates from 2013 to 2024 and compared health care utilization outcomes. METHODS: This retrospective cohort study used the TriNetX Research Network, a federated platform containing nationwide deidentified health records. Patients from 2013 to 2024 with femoral shaft fractures were identified through ICD codes. Data on closed versus operative treatment (defined by CPT codes), sex, race, and ethnicity were extracted. Annual treatment rates, both total and age-stratified, were calculated. Logistic regression and Rao & Scott adjusted \u03c72 testing with Bonferroni correction were performed. Propensity score matching was performed for the combined 4- to 6-year cohort; age-stratified analyses were unmatched. RESULTS: A total of 2486 children aged 4 to 6 years with femoral shaft fractures were identified; 47.3% underwent operative treatment. The proportion treated with closed reduction and spica casting decreased overall, most notably among children aged 5 years (64.3% to 30.6%) and 6 years (51.4% to 23.7%), while rates remained stable at age 4 (67.4% to 77.8%). In the matched combined cohort, operative treatment was associated with fewer early emergency department visits (RR: 0.64; 95% CI: 0.42-0.97), more late postreduction procedures (RR: 4.20; 95% CI: 2.77-6.37), and more routine healing visits (RR: 1.76; 95% CI: 1.45-2.13). Differences were most pronounced at age 6 in unmatched analyses (early ED visits-OR: 0.32; 95% CI: 0.19-0.51; early postreduction procedures-OR: 0.23; 95% CI: 0.12-0.42). CONCLUSIONS: The rate of operative management of femoral shaft fractures increased by 94% at age 5 and by 61% at age 6 during the study period, despite limited age-specific evidence supporting this shift. This change likely reflects multiple factors, including growing surgeon familiarity with minimally invasive fixation, family-centered considerations, and age-dependent challenges of spica casting, rather than evidence of clinical superiority. LEVEL OF EVIDENCE: Level III-therapeutic study (retrospective comparative study).",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42335419/",
+      "score": 68,
+      "score_reasoning": "Largest reported series (n=214) of periprosthetic patellar fractures after primary TKA with 7-year mean follow-up provides valuable classification, management, and long-term survivorship data for a relatively rare but clinically significant complication.",
+      "bullets": [
+        "Operative treatment of femoral shaft fractures in 4 to 6 year olds nearly doubled over the past decade, now accounting for 47% of cases nationally, despite no new evidence supporting this shift.",
+        "Compared to spica casting, operative fixation was associated with fewer early emergency department visits but more late procedures such as hardware removal.",
+        "For surgeons managing this age group, casting remains well supported at age 4, while the rise in operative treatment at ages 5 and 6 appears driven by surgeon preference and family factors rather than outcome data."
+      ]
+    },
+    {
+      "pmid": "42343539",
+      "title": "Association of Central Acetabular Osteophytes With Microinstability and Increased Combined Anteversion in Borderline Dysplasia Hips.",
+      "authors": [
+        "Zhu JB",
+        "Ding R",
+        "Huang Y",
+        "Chen YZ",
+        "Zheng GY",
+        "Uchida S",
+        "Shen C"
+      ],
+      "authors_short": "Zhu JB, Ding R, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Central acetabular osteophytes (CAOs) have been implicated in abnormal hip biomechanics. However, their relationship with microinstability in borderline developmental dysplasia of the hip (BDDH) is unclear. PURPOSE/HYPOTHESIS: The purpose of this study is to compare radiographic parameters between BDDH hips with and without CAOs and to determine whether CAOs are associated with microinstability. It was hypothesized that CAOs would correlate with increased version abnormalities and microinstability. STUDY DESIGN: Case-control study; Level of evidence, 3. METHODS: We retrospectively reviewed patients with BDDH, defined as a lateral center-edge angle of 18\u00b0 to 25\u00b0, who underwent hip arthroscopy from 2020 to 2024. Patients were grouped as BDDH with CAO (cBDDH) or without CAO (nBDDH). Radiographic parameters, including anterior/posterior acetabular coverage, femoral neck version, acetabular version, and combined anteversion, were compared. Intraoperative findings of microinstability and ligamentum teres (LT) pathology were analyzed. Binary logistic regression identified predictors of CAO. RESULTS: A total of 157 patients were included (cBDDH, 76; nBDDH, 81). The cBDDH group demonstrated higher rates of microinstability and LT tears, as well as increased femoral neck, acetabular, and combined anteversion. Logistic regression showed that microinstability (\u03b2 = .027; P < .001), LT tear (\u03b2 = .010; P = .001), and combined anteversion (\u03b2 = 1.343; P = .029; R2 = 0.542) were associated with CAO. CONCLUSION: In BDDH, CAOs were strongly associated with microinstability, LT tears, and increased combined anteversion. CAO may serve as a radiographic marker of instability and early osteoarthritis in BDDHs.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42343539/",
+      "score": 67,
+      "score_reasoning": "Multi-registry comparative analysis of temporal trends in hip and knee arthroplasty revision burden ratios across four nations provides important epidemiological context for healthcare planning and practice benchmarking.",
+      "bullets": [
+        "In borderline dysplastic hips, central acetabular osteophytes on plain radiograph are strongly linked to microinstability and ligamentum teres tears found at arthroscopy.",
+        "Hips with central acetabular osteophytes also show greater combined anteversion, suggesting a pattern of rotational malalignment driving instability in this group.",
+        "For surgeons treating borderline dysplasia, a central acetabular osteophyte on preoperative imaging should raise suspicion for underlying instability and guide intraoperative assessment of the ligamentum teres."
+      ]
+    },
+    {
+      "pmid": "42340609",
+      "title": "Quadriceps tendon autograft provides comparable stability and functional outcomes with lower donor-site morbidity than bone-patellar tendon-bone: A systematic review and meta-analysis of 15 randomized controlled trials with GRADE evidence.",
+      "authors": [
+        "Khalafallah MA",
+        "Hall OK",
+        "Elmenawy Z",
+        "Ibrahim KSM",
+        "Ghoneim OM",
+        "Raizah A",
+        "Alqahtani T",
+        "Zaki MSA",
+        "Imam MA"
+      ],
+      "authors_short": "Khalafallah MA, Hall OK, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To compare clinical and functional outcomes after primary anterior cruciate ligament reconstruction (ACLR) using quadriceps tendon (QT) autografts versus bone-patellar tendon-bone (BPTB) and, separately, QT versus hamstring tendon (HT) autografts, to inform evidence-based graft selection. METHODS: We performed a Cochrane-guided systematic review and meta-analysis. Searches of PubMed, Scopus, Cochrane Library, SPORTDiscus, Cumulative Index to Nursing and Allied Health Literature (CINAHL), Web of Science and major trial registries through November 2025 identified randomized controlled trials (RCTs) comparing QT with HT or BPTB in adults undergoing primary ACLR. Random-effects models (REML) were used to pool mean differences/standardized mean differences and risk ratios. Heterogeneity was quantified using I2 and Q statistics. Sensitivity analyses (leave-one-out) and the GRADE (Grading of Recommendations, Assessment, Development and Evaluation) approach were applied. When pooling was infeasible, a structured narrative synthesis was provided. RESULTS: Fifteen RCTs (2014-2025) were included. Objective anterior stability (KT-1000) showed no significant difference between QT and HT at 12 or 24 months and no significant difference between QT and BPTB at 12 months. Patient-reported outcomes (International Knee Documentation Committee, Lysholm, Knee Injury and Osteoarthritis Outcome Score [KOOS], Tegner) were largely equivalent at 12-24 months. After resolving inconsistencies due to non-exchangeable constructs/comparators, a small 12-month KOOS signal favoured QT, while 24-month effects remained null. Graft failure rates were comparable for QT versus HT and QT versus BPTB. Donor-site morbidity was substantially lower with QT versus BPTB; QT versus HT showed no significant difference. Pivot-shift favoured QT, but not significantly; postoperative stiffness did not differ. Overall certainty was mostly moderate (downgrades for imprecision and occasional indirectness); donor-site morbidity versus BPTB reached high certainty. CONCLUSION: Across randomized evidence up to 24 months, QT provides stability and patient-reported outcomes comparable to HT and BPTB, with clearly lower donor-site morbidity compared to BPTB and no excess failure compared to HT. QT is an evidence-supported alternative for primary ACLR; longer, adequately powered, construct-specific RCTs are needed for guideline-level certainty. LEVEL OF EVIDENCE: Level I, systematic review of Level I randomized controlled studies.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42340609/",
+      "score": 65,
+      "score_reasoning": "Retrospective analysis (n=824) demonstrating RAI is superior to mFI-5 for predicting 30-day complications in periprosthetic femoral fracture surgery provides actionable preoperative risk assessment guidance for a high-mortality patient population.",
+      "bullets": [
+        "Quadriceps tendon autograft produces knee stability and patient-reported outcomes equivalent to both bone-patellar tendon-bone and hamstring tendon grafts at up to 24 months after ACL reconstruction.",
+        "Donor-site morbidity is clearly lower with quadriceps tendon compared to bone-patellar tendon-bone, with high-certainty evidence supporting this difference.",
+        "For surgeons selecting a graft in primary ACL reconstruction, quadriceps tendon is a well-supported option, particularly when minimising anterior knee donor-site pain is a priority."
+      ]
+    },
+    {
+      "pmid": "42324750",
+      "title": "Morphological Characteristics After Single Versus Recurrent Traumatic Posterior Shoulder Dislocation Events.",
+      "authors": [
+        "Gibbs HP",
+        "McQuade AM",
+        "Ramirez V",
+        "Feeley SM",
+        "McCarthy CF",
+        "Hoyt BW",
+        "Dickens JF"
+      ],
+      "authors_short": "Gibbs HP, McQuade AM, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Posterior shoulder dislocations are rare but particularly challenging in high-demand populations. While anterior instability has been well studied, limited data exist on the morphological consequences of traumatic first-time and recurrent posterior dislocations. PURPOSE: To quantify posterior glenoid bone loss (pGBL), glenoid version, reverse Hill-Sachs lesions, and acromial morphology in patients with traumatic posterior shoulder dislocations and compare these features between the single and recurrent dislocation groups. STUDY DESIGN: Case series; Level of evidence, 4. METHODS: A retrospective review was conducted using the Military Health System Data Repository to identify patients who sustained traumatic posterior shoulder dislocations between January 2017 and December 2024. These were defined as events requiring manual reduction with subsequent advanced imaging demonstrating a posterior labral tear or posterior bony Bankart lesion, with or without a reverse Hill-Sachs lesion. Morphological features were independently assessed by 2 raters. Measured factors included pGBL (measured by the perfect circle technique (PCT), two-thirds glenoid height methods, and one-third glenoid height method), glenoid version, reverse Hill-Sachs Lesion parameters, and acromial tilt and height. Patients were stratified into single and recurrent dislocation groups. Statistical comparisons were performed using t tests, with significance set at a P value < .05. Linear regression was used to evaluate the relationship between number of dislocations and extent of pGBL. RESULTS: A total of 39 shoulders sustained posterior dislocation events with adequate imaging. Patients with multiple dislocations (vs a single dislocation) demonstrated significantly greater mean pGBL across all 3 measurement techniques: PCT (12.4% vs 10.5%; P = .031), two-thirds glenoid height method (13.7% vs 11.5%; P = .021), and one-third glenoid height method with sex-specific adjustments (13.0% vs 10.7%; P = .009). Glenoid retroversion was not significantly greater in the recurrent dislocation group (-11.0\u00b0 vs -8.0\u00b0; P = .252). No significant differences were observed in reverse Hill-Sachs lesion dimensions or acromial morphology between groups. A weak positive correlation was found between the number of dislocations and pGBL (R2 = 0.054). CONCLUSION: After first-time traumatic posterior dislocation, the mean pGBL was approximately 11%. Bone loss increased with recurrent dislocations, approaching thresholds associated with failure after isolated posterior soft tissue stabilization. No association was found with reverse Hill-Sachs lesion size. Early recognition and intervention, particularly in high-demand populations at risk of recurrent dislocation, may be appropriate to prevent pGBL progression.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42324750/",
+      "score": 63,
+      "score_reasoning": "RCT (n=57) comparing conservative versus accelerated rehabilitation after proximal hamstring repair with 24-month follow-up provides Level 1 evidence on a clinically debated topic with direct protocol implications.",
+      "bullets": [
+        "After a first traumatic posterior shoulder dislocation, patients already have roughly 11% posterior glenoid bone loss on average.",
+        "Recurrent posterior dislocations increase bone loss to about 13%, approaching thresholds where isolated soft tissue repair is more likely to fail.",
+        "In high-demand patients after even a single posterior dislocation, early orthopaedic assessment is warranted to catch bone loss before it reaches surgical tipping points."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-06-28T04:47:29.276700-07:00"
+}
