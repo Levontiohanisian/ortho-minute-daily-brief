@@ -1,0 +1,299 @@
+{
+  "brief_date": "2026-06-29",
+  "brief_date_display": "Monday, June 29",
+  "candidates": [
+    {
+      "pmid": "42367014",
+      "title": "Risk of Revision and Patient-Reported Outcomes After ACL Reconstruction: Influence of Concomitant MCL Injury and Graft Choice: Analysis of 35,139 Reconstructions From the Norwegian Knee Ligament Register.",
+      "authors": [
+        "Birkenes T",
+        "Chahla J",
+        "Lygre SHL",
+        "Williams A",
+        "Inderhaug E"
+      ],
+      "authors_short": "Birkenes T, Chahla J, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Concomitant medial collateral ligament (MCL) injury is common in anterior cruciate ligament (ACL) tears, but optimal management of these injury components remains controversial. PURPOSE: To compare patient-reported outcome measures and the risk of ACL revision surgery in patients with concomitant MCL injuries (treated operatively and nonoperatively) versus isolated ACL injuries and to assess whether MCL treatment strategy or ACL graft choice influenced outcomes. STUDY DESIGN: Cohort study; Level of evidence 3. METHODS: Data were obtained from the Norwegian Knee Ligament Register. Patients undergoing primary ACL reconstruction (ACLR) between 2004 and 2024 were included for graft-survival analyses, and those operated by December 31, 2022, were eligible for 2-year Knee injury and Osteoarthritis Outcome Score (KOOS) outcomes. Patients with concomitant ligament injuries other than to the MCL, ACL repairs, or those with unknown ACL graft type were excluded. Patients were stratified into isolated ACL and ACL + MCL injury groups. Kaplan-Meier survival analyses (unadjusted), multivariable Cox regression, and linear/logistic regression models were used, adjusted for descriptive data, body mass index, meniscal/cartilage injury, time to surgery, smoking, pivoting sports, graft choice, and baseline KOOS. RESULTS: A total of 35,139 ACLRs were included (2410 ACL + MCL and 32,729 isolated ACL; mean age, 28.6 years). Concomitant MCL injury was not associated with an increased overall risk of ACL revision (P = .5). However, ACL + MCL patients had lower 2-year KOOS Sport/Recreation (Sport/Rec) scores (-2 points, P = .04) and lower odds of achieving patient acceptable symptom state (PASS) for Sport/Rec. Within the ACL + MCL subgroup, hamstring (Hazard ratio [HR], 2.3; P = .001) and quadriceps autografts (HR, 3; P = .009) were associated with a higher revision risk compared with bone-patellar tendon-bone (BPTB) autograft, particularly when hamstring grafts were combined with nonoperative MCL treatment (HR, 2.4; P = .001). Graft choice did not influence the likelihood of achieving a minimal clinically important difference in KOOS. CONCLUSION: Concomitant MCL injury did not increase the risk of ACL revision but was associated with inferior KOOS Sport/Rec outcomes and lower odds of achieving PASS at 2 years. In patients with concomitant nonoperatively treated MCL injuries, BPTB autograft was associated with a significantly lower revision risk compared with hamstring and quadriceps autografts.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42367014/",
+      "score": 88,
+      "score_reasoning": "Large registry study (n=35,139) from Norwegian Knee Ligament Register addressing a clinically common and controversial scenario\u2014concomitant MCL injury with ACL reconstruction\u2014with robust methodology, directly actionable findings on graft choice and MCL treatment strategy.",
+      "bullets": [
+        "In over 35,000 ACL reconstructions, a concomitant MCL injury did not increase the overall risk of revision surgery but did result in worse sport and recreation outcomes at two years.",
+        "For patients with ACL plus MCL injuries managed nonoperatively for the MCL, patellar tendon autograft carried a significantly lower revision risk than hamstring or quadriceps autografts.",
+        "Surgeons treating combined ACL and MCL injuries should consider patellar tendon autograft as the preferred graft, particularly when the MCL is being managed nonoperatively."
+      ]
+    },
+    {
+      "pmid": "42340609",
+      "title": "Quadriceps tendon autograft provides comparable stability and functional outcomes with lower donor-site morbidity than bone-patellar tendon-bone: A systematic review and meta-analysis of 15 randomized controlled trials with GRADE evidence.",
+      "authors": [
+        "Khalafallah MA",
+        "Hall OK",
+        "Elmenawy Z",
+        "Ibrahim KSM",
+        "Ghoneim OM",
+        "Raizah A",
+        "Alqahtani T",
+        "Zaki MSA",
+        "Imam MA"
+      ],
+      "authors_short": "Khalafallah MA, Hall OK, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To compare clinical and functional outcomes after primary anterior cruciate ligament reconstruction (ACLR) using quadriceps tendon (QT) autografts versus bone-patellar tendon-bone (BPTB) and, separately, QT versus hamstring tendon (HT) autografts, to inform evidence-based graft selection. METHODS: We performed a Cochrane-guided systematic review and meta-analysis. Searches of PubMed, Scopus, Cochrane Library, SPORTDiscus, Cumulative Index to Nursing and Allied Health Literature (CINAHL), Web of Science and major trial registries through November 2025 identified randomized controlled trials (RCTs) comparing QT with HT or BPTB in adults undergoing primary ACLR. Random-effects models (REML) were used to pool mean differences/standardized mean differences and risk ratios. Heterogeneity was quantified using I2 and Q statistics. Sensitivity analyses (leave-one-out) and the GRADE (Grading of Recommendations, Assessment, Development and Evaluation) approach were applied. When pooling was infeasible, a structured narrative synthesis was provided. RESULTS: Fifteen RCTs (2014-2025) were included. Objective anterior stability (KT-1000) showed no significant difference between QT and HT at 12 or 24 months and no significant difference between QT and BPTB at 12 months. Patient-reported outcomes (International Knee Documentation Committee, Lysholm, Knee Injury and Osteoarthritis Outcome Score [KOOS], Tegner) were largely equivalent at 12-24 months. After resolving inconsistencies due to non-exchangeable constructs/comparators, a small 12-month KOOS signal favoured QT, while 24-month effects remained null. Graft failure rates were comparable for QT versus HT and QT versus BPTB. Donor-site morbidity was substantially lower with QT versus BPTB; QT versus HT showed no significant difference. Pivot-shift favoured QT, but not significantly; postoperative stiffness did not differ. Overall certainty was mostly moderate (downgrades for imprecision and occasional indirectness); donor-site morbidity versus BPTB reached high certainty. CONCLUSION: Across randomized evidence up to 24 months, QT provides stability and patient-reported outcomes comparable to HT and BPTB, with clearly lower donor-site morbidity compared to BPTB and no excess failure compared to HT. QT is an evidence-supported alternative for primary ACLR; longer, adequately powered, construct-specific RCTs are needed for guideline-level certainty. LEVEL OF EVIDENCE: Level I, systematic review of Level I randomized controlled studies.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42340609/",
+      "score": 86,
+      "score_reasoning": "Highly relevant RCT from a prestigious journal evaluating TXA administration routes in primary THA with direct clinical applicability, though limited by small sample size (n=126) and short follow-up.",
+      "bullets": [
+        "Quadriceps tendon autograft produces knee stability and patient-reported outcomes equivalent to both bone-patellar tendon-bone and hamstring tendon grafts at up to 24 months after ACL reconstruction.",
+        "Donor-site morbidity is significantly lower with quadriceps tendon compared to bone-patellar tendon-bone, with high certainty evidence supporting this finding.",
+        "For surgeons selecting a graft in primary ACL reconstruction, quadriceps tendon is a well-supported option, particularly when minimizing anterior knee pain and patellar tendon harvest complications is a priority."
+      ]
+    },
+    {
+      "pmid": "42324766",
+      "title": "Two-Year Outcomes of the Proximal Hamstring Avulsion Rehabilitation Regimes: Longitudinal Versus Accelerated Protocol (PHARRLAP) Study: A Randomized Controlled Trial.",
+      "authors": [
+        "Ebert JR",
+        "Edwards PK",
+        "Cecchi S",
+        "Malik SS",
+        "Aujla RS",
+        "Ricciardo B",
+        "Annear P",
+        "D'Alessandro PA"
+      ],
+      "authors_short": "Ebert JR, Edwards PK, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Significant variation has been reported within published postoperative rehabilitation protocols after proximal hamstring tendon repair undertaken for acute tendon avulsion injuries, particularly with respect to bracing and the restriction and progression of weightbearing. PURPOSE: To investigate clinical outcomes, the recovery of strength and functional symmetry, and complications and reinjuries in patients undergoing proximal hamstring repair for acute tendon avulsions involving at least 2 tendons, following a conservative (CR) or accelerated (AR) rehabilitation pathway. STUDY DESIGN: Randomized controlled trial; Level of evidence, 1. METHODS: This prospective RCT allocated patients undergoing proximal hamstring tendon repair to the CR pathway (n = 30), which included 6 weeks of knee bracing and restricted weightbearing, or the AR pathway (n = 27), which did not require knee bracing and allowed full weightbearing as tolerated. All patients underwent repair due to an acute avulsion injury involving at least 2 tendons and due to a specific traumatic incident. Patients were assessed presurgery and at 3-, 6-, 12-, and 24-month postoperatively using patient-reported outcome measures (PROMs), peak isokinetic knee flexor (PKFT) and extensor (PKET) torque, and the single-leg horizontal hop test for distance (SLHD). Normalized outcomes and limb symmetry indices (LSIs) were presented for objective measures. Complications and reinjuries were reported. The primary study outcome was the 6-month postoperative LSI for PKFT. RESULTS: While the AR group reported a significantly better 12-item Short-Form Health Survey physical score at 3 months (P = .039) and lower severity of hamstring pain at 3 months (P = .034) and 12 months (P = .010), no other group-based differences were observed. The normalized PKFT (P < .001), PKET (P < .001), and SLHD (P < .001) improved over time, as did the PKFT (P < .001) and SLHD (P < .001) LSIs. No group differences (P > .05) were observed for hop or strength outcomes. Four patients were reinjured over the 24 months, including 2 CR patients (at 6 weeks and 3 months) and 2 AR patients (at 10 and 12 months), with an overall rerupture rate of 7%. CONCLUSION: After proximal hamstring repair undertaken due to an acute avulsion injury involving at least 2 tendons, patients demonstrated improved PROMs, a sound recovery of strength and function, and a low reinjury rate over a 2-year postoperative period. The AR pathway that did not employ bracing and permitted full weightbearing as tolerated demonstrated subjective, functional, and reinjury outcomes that were largely comparable over the 2 years. However, the study was not powered to investigate differences in reinjury risk. REGISTRATION: Australian New Zealand Clinical Trials Registry (ACTRN12621000913875).",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42324766/",
+      "score": 85,
+      "score_reasoning": "RCT with direct clinical relevance comparing conservative versus accelerated rehabilitation after proximal hamstring tendon repair, providing Level 1 evidence to guide a commonly debated postoperative management decision.",
+      "bullets": [
+        "After surgical repair of acute proximal hamstring avulsions involving at least 2 tendons, strength, function, and patient-reported outcomes all improved significantly by 2 years regardless of rehab protocol used.",
+        "Patients in the accelerated group, who skipped bracing and bore weight immediately, reported less pain and better physical scores at 3 months, with no difference in strength or hop test performance at any later time point.",
+        "The overall rerupture rate was 7% across both groups, meaning surgeons can consider dropping the 6-week brace and restricted weightbearing without a clear increase in reinjury risk for this patient population."
+      ]
+    },
+    {
+      "pmid": "42320653",
+      "title": "Cement Viscosity Is Associated With Aseptic Loosening After Primary Total Knee Arthroplasty: An Analysis of the American Joint Replacement Registry.",
+      "authors": [
+        "Harris A",
+        "Donnelly PC",
+        "Jennings JM",
+        "Martin JR",
+        "Khanuja HS",
+        "Hegde V"
+      ],
+      "authors_short": "Harris A, Donnelly PC, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: The mechanical properties of polymethylmethacrylate (PMMA) cement in total knee arthroplasty (TKA) can be influenced by both viscosity and the addition of antibiotics. Although smaller studies have reported high survivorship with commercially available formulations of PMMA in primary TKA, the independent and combined effects of viscosity and antibiotic additives on revision risk remain subject to debate. METHODS: A retrospective analysis was performed using data from the American Joint Replacement Registry (AJRR) for all patients undergoing primary cemented TKA between 2012 and 2022 in patients \u2265 65 years old. Patients were categorized by cement type (antibiotic versus non-antibiotic) and viscosity (low-, medium-, or high-viscosity cement (LVC/MVC/HVC)). Cox proportional hazards models were used to evaluate the risk of revision surgery, adjusting for multiple factors, including cement viscosity and antibiotic use. RESULTS: A total of 233,841 TKAs were included. Both HVC and MVC had significantly higher cumulative percent revision for aseptic loosening compared with LVC, while MVC had the highest rate of aseptic loosening (HR [hazard ratio] 2.32, 95% CI [confidence interval] 1.89 to 2.85). Antibiotic cement was used in 81,462 cases (35%). Compared with non-antibiotic cement, antibiotic cement was not associated with a difference in revision for aseptic loosening or periprosthetic joint infection (PJI). CONCLUSIONS: In a large national cohort of patients undergoing primary TKA, MVC demonstrated consistently higher risk of aseptic loosening compared with both LVC and HVC. Antibiotic cement use was not associated with an increased risk of revision for aseptic loosening or reduction in PJI.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42320653/",
+      "score": 84,
+      "score_reasoning": "Addresses cement viscosity and aseptic loosening in a large national registry cohort (n=233,841 TKAs), providing actionable guidance on cement selection that directly impacts revision rates in a high-volume procedure.",
+      "bullets": [
+        "In over 233,000 primary cemented TKAs, medium-viscosity cement carried the highest risk of revision for aseptic loosening, more than double the risk seen with low-viscosity cement.",
+        "High-viscosity cement also showed higher aseptic loosening rates than low-viscosity cement, making low-viscosity cement the best-performing option in this registry analysis of patients 65 and older.",
+        "Antibiotic-loaded cement did not reduce revision for periprosthetic joint infection or increase revision for aseptic loosening, offering no clear benefit or harm over plain cement in primary TKA."
+      ]
+    },
+    {
+      "pmid": "42340368",
+      "title": "Defining sagittal knee phenotypes via monopedal static anterior tibial translation. Part 1: Translating weight-bearing sagittal position into clinical risk profiles.",
+      "authors": [
+        "Kayaalp ME",
+        "Kahraman HC",
+        "Erden T",
+        "Lutter C",
+        "Scheffler S",
+        "Taser O",
+        "Becker R",
+        "Hirschmann MT",
+        "Dejour DH"
+      ],
+      "authors_short": "Kayaalp ME, Kahraman HC, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "Static anterior tibial translation (sATT) is a reproducible monopodal weight-bearing radiographic parameter that reflects the resting sagittal position of the tibiofemoral joint. Distinct from manual laxity tests that quantify passive displacement limits, sATT captures the functional equilibrium of the tibia under physiological load, representing the cumulative interplay of bony morphology, neuromuscular control, meniscal containment and time-dependent adaptations. Current literature frequently conflates passive laxity with weight-bearing sagittal position, leading to an incomplete understanding of why isolated soft-tissue reconstructions fail in biomechanically hostile environments. Elevated sATT manifests in three clinically distinct sagittal phenotypes with specific pathomechanisms: osseous anteriorization primarily related to increased posterior tibial slope and loss of the anterior cruciate ligament; acquired soft-tissue anteriorization resulting from sagittal decompensation due to chronic injury and secondary stabilizer, particularly meniscal deficiency; and inherent soft-tissue anteriorization characteristic of generalized hyperlaxity. This paper, Part 1 of a two-part series, establishes the biomechanical 'set-point' theory, highlights the necessity of strict monopedal imaging to unmask instability and defines how distinct sagittal phenotypes may converge, creating cumulative or synergistic risk patterns that increase the mechanical burden on the central pivot. LEVEL OF EVIDENCE: Level V.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42340368/",
+      "score": 83,
+      "score_reasoning": "Meta-analysis of 15 RCTs with GRADE evidence comparing quadriceps tendon versus BPTB and hamstring grafts in ACL reconstruction, providing high-quality synthesis directly informing graft selection decisions.",
+      "bullets": [
+        "Weight-bearing anterior tibial translation on single-leg X-ray reflects the true functional position of the knee, which passive laxity tests alone cannot capture.",
+        "Three distinct sagittal phenotypes drive elevated anterior tibial translation: bony anteriorization from increased posterior tibial slope or ACL loss, acquired soft-tissue anteriorization from meniscal deficiency, and inherent soft-tissue anteriorization from generalised hyperlaxity.",
+        "Surgeons planning ACL or meniscal reconstruction should identify which phenotype is present, as overlapping patterns create compounding mechanical risk that soft-tissue reconstruction alone may not address."
+      ]
+    },
+    {
+      "pmid": "42320645",
+      "title": "The AAHKS Clinical Research Award: Maximizing Bearing Size Markedly Reduces Dislocations in Primary Total Hip Arthroplasty.",
+      "authors": [
+        "Wang E",
+        "McCormick K",
+        "Di Gangi C",
+        "Di Pauli von Treuheim T",
+        "Meftah M",
+        "Schwarzkopf R",
+        "Hepinstall MS"
+      ],
+      "authors_short": "Wang E, McCormick K, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Modern polyethylene allows larger bearings in fixed-bearing total hip arthroplasty (THA), but any stability benefits of fully maximizing bearing diameter (e.g., 36-millimeter (mm) in 48/50-mm cups) are not well-established. We hypothesized that maximizing bearing diameter reduces odds of dislocation in primary fixed-bearing THA. METHODS: We retrospectively reviewed all patients who underwent fixed-bearing THA at a large, urban, academic institution between 2016 and 2022. We noted cases receiving the largest bearing available from any manufacturer for the acetabular diameter: 28 mm in 40/42 mm, 32 mm in 44/46-, 36- in 48/50-, or 40- in 52/54/56 mm. Larger cups were excluded because proportionately larger bearings were unavailable. Multivariate analyses using least-absolute-shrinkage-and-selection-operator (LASSO) logistic regression were performed to explore the association between maximized bearing diameter and dislocation risk while controlling for confounders. RESULTS: Bearing diameter was maximized in 835 (9.8%) of 8,607 patients, whereas 7,309 (84.9%) received the second-largest bearing available. There were 79 dislocations (0.9% overall); none occurred with maximized bearing diameters (P = 0.003). On univariate analyses, dislocation risk also varied with intraoperative technology use, surgical approach, and liner geometry (P = 0.017, P = 0.008, P = 0.007, respectively). In LASSO regression including these variables, maximized bearing diameters heavily protected against dislocation (odds ratio (OR) = 0.14). Robotic surgery (OR = 0.35), computer-navigation (OR = 0.90), lateral (OR = 0.48), and anterior (OR = 0.62) approaches were also protective. Lipped (OR = 1.2) and offset (OR = 1.4) liners, commonly used with posterior approaches and non-maximized bearing diameters, were associated with slightly higher odds of dislocation. Subanalysis of 4,185 patients who underwent posterior approach THA using non-maximized bearings revealed that liner geometry did not impact dislocation odds within this subgroup. CONCLUSION: Fully maximizing bearing diameter markedly reduced dislocation odds in primary fixed-bearing THA. The magnitude of this effect was substantially larger compared to other variables under surgeon control.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42320645/",
+      "score": 82,
+      "score_reasoning": "Large registry-based cohort (n=35,139) with strong methodology evaluating bearing size and dislocation in primary THA, providing immediately actionable implant selection guidance with compelling zero-dislocation finding in maximized bearing group.",
+      "bullets": [
+        "In over 8,600 primary fixed-bearing total hip arthroplasties, using the largest possible bearing head for each cup size reduced dislocation odds by 86% compared to using the second-largest available head.",
+        "Zero dislocations occurred in the 835 patients who received a maximized bearing diameter, compared to a 1% dislocation rate in those who did not.",
+        "For orthopaedic surgeons performing primary THA, choosing the largest available head for a given cup size provides greater dislocation protection than surgical approach, robotic assistance, or liner geometry."
+      ]
+    },
+    {
+      "pmid": "42335419",
+      "title": "Operative Treatment Versus Spica Casting for Treatment of Pediatric Femoral Shaft Fractures in Children Aged 4 to 6 Years: A Large Multi-Institutional Age-Stratified Comparative Analysis.",
+      "authors": [
+        "Abbas Y",
+        "Kotzur T",
+        "Munshi MA",
+        "Peterson VanderWeele B",
+        "Shariati J",
+        "Mohseni M",
+        "Hosseinzadeh P"
+      ],
+      "authors_short": "Abbas Y, Kotzur T, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Femoral shaft fractures in children aged 4 to 6 years represent a clinical gray zone between closed reduction with casting and operative treatment. Traditional guidance favors closed treatment under age 6, yet recent reports suggest increasing use of operative treatment despite limited evidence. This study characterized national treatment rates from 2013 to 2024 and compared health care utilization outcomes. METHODS: This retrospective cohort study used the TriNetX Research Network, a federated platform containing nationwide deidentified health records. Patients from 2013 to 2024 with femoral shaft fractures were identified through ICD codes. Data on closed versus operative treatment (defined by CPT codes), sex, race, and ethnicity were extracted. Annual treatment rates, both total and age-stratified, were calculated. Logistic regression and Rao & Scott adjusted \u03c72 testing with Bonferroni correction were performed. Propensity score matching was performed for the combined 4- to 6-year cohort; age-stratified analyses were unmatched. RESULTS: A total of 2486 children aged 4 to 6 years with femoral shaft fractures were identified; 47.3% underwent operative treatment. The proportion treated with closed reduction and spica casting decreased overall, most notably among children aged 5 years (64.3% to 30.6%) and 6 years (51.4% to 23.7%), while rates remained stable at age 4 (67.4% to 77.8%). In the matched combined cohort, operative treatment was associated with fewer early emergency department visits (RR: 0.64; 95% CI: 0.42-0.97), more late postreduction procedures (RR: 4.20; 95% CI: 2.77-6.37), and more routine healing visits (RR: 1.76; 95% CI: 1.45-2.13). Differences were most pronounced at age 6 in unmatched analyses (early ED visits-OR: 0.32; 95% CI: 0.19-0.51; early postreduction procedures-OR: 0.23; 95% CI: 0.12-0.42). CONCLUSIONS: The rate of operative management of femoral shaft fractures increased by 94% at age 5 and by 61% at age 6 during the study period, despite limited age-specific evidence supporting this shift. This change likely reflects multiple factors, including growing surgeon familiarity with minimally invasive fixation, family-centered considerations, and age-dependent challenges of spica casting, rather than evidence of clinical superiority. LEVEL OF EVIDENCE: Level III-therapeutic study (retrospective comparative study).",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42335419/",
+      "score": 77,
+      "score_reasoning": "KOOS SCB threshold study in a large TKA cohort (n=10,988) with direct regulatory relevance given CMS PROM reporting mandates and financial implications for hospital reimbursement.",
+      "bullets": [
+        "Operative treatment of femoral shaft fractures in children aged 4 to 6 years nearly doubled at age 5 and increased 61% at age 6 over the past decade, now accounting for nearly half of all cases in this age group.",
+        "Operative fixation was linked to fewer early emergency department visits but more late procedures and more routine follow-up visits compared to spica casting in matched 4 to 6 year olds.",
+        "This shift toward surgery in the 4 to 6 year age group is driven by surgeon familiarity and family preference, not by evidence of better clinical outcomes, so casting remains a valid first choice especially at age 4."
+      ]
+    },
+    {
+      "pmid": "42357876",
+      "title": "Fix or Replace: Evidence for Treatment Options in the Management of Femoral Neck Fractures.",
+      "authors": [
+        "Nauth A",
+        "Schemitsch G",
+        "Schmidt A",
+        "Schemitsch E"
+      ],
+      "authors_short": "Nauth A, Schemitsch G, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "Femoral neck fractures are highly morbid injuries in elderly populations and can be challenging to treat. Surgical management can consist of internal fixation or arthroplasty after careful consideration of injury and patient factors. There has been a trend toward increased usage of acute arthroplasty in the management of femoral neck fractures. The present review aims to evaluate treatment indications, technical considerations, and treatment outcomes in the management of hip trauma with both internal fixation and arthroplasty.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42357876/",
+      "score": 75,
+      "score_reasoning": "Large Swedish Knee Ligament Registry matched-cohort study comparing ACL reconstruction with and without LET, providing real-world outcome data complementing existing RCT evidence on a rapidly adopted procedure.",
+      "bullets": [
+        "For displaced femoral neck fractures in elderly patients, arthroplasty has become the preferred treatment over internal fixation due to lower rates of reoperation.",
+        "Internal fixation remains appropriate for younger patients and non-displaced or minimally displaced fractures where preserving the native hip is the priority.",
+        "Choosing between total hip arthroplasty and hemiarthroplasty depends on patient activity level, cognitive status, and acetabular health at the time of injury."
+      ]
+    },
+    {
+      "pmid": "42333595",
+      "title": "Virtue Ethics in a Value-driven World: Soliciting Donations From Grateful Patients.",
+      "authors": [
+        "Humbyrd CJ"
+      ],
+      "authors_short": "Humbyrd CJ",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42333595/",
+      "score": 74,
+      "score_reasoning": "Registry-linked cohort of 9,448 football players demonstrating graft diameter\u2013height mismatch as a modifiable risk factor for ACL revision, providing actionable intraoperative guidance particularly for taller athletes.",
+      "bullets": [
+        "This paper examines the ethics of orthopaedic surgeons soliciting charitable donations from their own patients.",
+        "Patients in active care relationships may feel implicit pressure to donate, creating a power imbalance that can compromise voluntary consent.",
+        "Surgeons should avoid directly soliciting donations from current patients and instead refer them to development offices to preserve the therapeutic relationship."
+      ]
+    },
+    {
+      "pmid": "42340321",
+      "title": "Stacked-Cone Constructs for Extensive Tibial and/or Femoral Bone Loss in Complex Primary and Revision TKA: A Multicenter Analysis of 84 Cases.",
+      "authors": [
+        "Kumaran P",
+        "Telang SS",
+        "Culler M",
+        "Palmer RC",
+        "Longjohn DB",
+        "Oakes DA",
+        "Anderson LA",
+        "Fillingham YA",
+        "Wolfstadt JI",
+        "Heckmann ND"
+      ],
+      "authors_short": "Kumaran P, Telang SS, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Stacked metaphyseal cone constructs can be used to address extensive metaphyseal and metadiaphyseal bone loss encountered during complex primary or revision total knee arthroplasty (TKA). Our study reports the 5-year outcomes of a multicenter cohort of stacked-cone constructs used to manage extensive bone loss encountered during primary or revision TKA. METHODS: A retrospective review was conducted to identify patients who underwent primary or revision TKA with tibial and/or femoral stacked-cone constructs between July 2016 and September 2025 at 4 tertiary academic institutions. Demographic, operative, clinical, and radiographic data were obtained and analyzed. Five-year implant survivorship free from all-cause reoperation, all-cause revision, and stacked-cone construct revision for aseptic loosening was analyzed using Kaplan-Meier estimation. RESULTS: Eighty-four cases with a mean patient age of 67.3 years and a mean follow-up of 20.85 months were identified. Five-year survivorship was 56.5% (95% confidence interval [CI], 22.7% to 78.3%) free from all-cause reoperation, 65.2% (95% CI, 25.8% to 87.1%) free from all-cause revision, and 91.7% (95% CI, 52.5% to 99.8%) free from stacked-cone construct revision for aseptic loosening. Stacked-cone revision due to aseptic loosening was performed on the tibial side in 1 case (1.2%) at 3.6 years following the index surgery. Five other stacked cones were revised for periprosthetic joint infection (4 all femoral stacked-cone cases) and tibial implant fracture (1 tibial stacked-cone case). CONCLUSIONS: Stacked-cone constructs demonstrated excellent 5-year survivorship free from aseptic loosening. However, all-cause reoperations and revisions were common in this cohort, reflecting the complex nature of this patient population. LEVEL OF EVIDENCE: Therapeutic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42340321/",
+      "score": 73,
+      "score_reasoning": "ESSKA-ESA formal consensus on anterior shoulder instability treatment and return-to-sport provides age- and time-stratified recommendations with broad clinical applicability, though largely based on Grade C/D evidence.",
+      "bullets": [
+        "In 84 complex primary and revision TKA cases with severe bone loss, stacked metaphyseal cone constructs survived free from aseptic loosening in 91.7% of cases at 5 years.",
+        "All-cause reoperation and revision rates were high at 5 years, driven mainly by periprosthetic joint infection and implant fracture rather than cone loosening.",
+        "For orthopaedic surgeons managing massive tibial or femoral bone loss, stacked cones provide reliable biological fixation, but patients carry substantial risk of reoperation from other causes."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-06-29T07:03:25.583503-07:00"
+}
