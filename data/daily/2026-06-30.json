@@ -1,0 +1,308 @@
+{
+  "brief_date": "2026-06-30",
+  "brief_date_display": "Tuesday, June 30",
+  "candidates": [
+    {
+      "pmid": "42370806",
+      "title": "What Is the Effect of Robot Reduction in Displaced Pelvic Fractures? A Multicenter Randomized Clinical Trial.",
+      "authors": [
+        "Zhao C",
+        "Ge Y",
+        "Cao Q",
+        "Yang M",
+        "Gao F",
+        "Xiao H",
+        "Liu G",
+        "Sun D",
+        "Yu B",
+        "Jia J",
+        "Wu Z",
+        "Wang Y",
+        "Wu X"
+      ],
+      "authors_short": "Zhao C, Ge Y, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Displaced pelvic fractures present real surgical challenges because of complex three-dimensional deformity patterns and proximity to vital structures, with conventional manual reduction techniques limited by accuracy constraints and radiation exposure. Although robotic assistance shows promise in preclinical studies, its clinical effectiveness remains unproven in randomized clinical trials (RCTs). QUESTIONS/PURPOSES: (1) Does robotic closed reduction improve reduction quality compared with manual closed reduction in displaced pelvic fractures? (2) Can robotic closed reduction reduce intraoperative radiation exposure while maintaining functional outcomes? METHODS: In this multicenter RCT conducted at six tertiary trauma centers in China involving 10 senior orthopaedic traumatologists, 92 adult patients with acute closed, displaced pelvic fractures (Tile Type B or C) were randomized 1:1 to robotic closed reduction (n = 46) or manual closed reduction (n = 46) groups. At 12 weeks, loss to follow-up for patient-reported outcomes was 9% (4 of 46) in the robotic group and 4% (2 of 46) in the manual group; the remainder were handled in a prespecified per-protocol analysis. In the robot group, reduction was planned using CT-based three-dimensional reconstruction with contralateral pelvic symmetry as the target and executed by a robotic arm with adjunct elastic traction and contralateral pelvic stabilization. In the manual group, reduction was performed using traction and manual manipulation under fluoroscopic guidance. Surgeons and patients were not blinded; radiographic outcome assessors and data analysts were blinded. Primary outcome was reduction quality assessed using Matta criteria (excellent \u2264 4 mm residual displacement, good 5 to 10 mm, acceptable 10 to 20 mm, poor > 20 mm), analyzed as the proportion of excellent to good reductions. Secondary outcomes included intraoperative surgeon fluoroscopic exposure and 12-week Majeed pelvic scores (0 to 100 points across seven domains; higher scores indicate better function). The primary analysis was intention to treat. RESULTS: In the intention-to-treat analysis, a higher proportion of patients who underwent robotic closed reduction achieved an excellent or good reduction than did those who received manual closed reduction (96% [44 of 46] versus 48% [22 of 46], relative risk 2.00 [95% confidence interval (CI) 1.47 to 2.72]; p < 0.001). Median (IQR) intraoperative surgeon fluoroscopic exposure was lower in the robotic closed reduction group (0 [0 to 0] versus 38 [14 to 78] fluoroscopic exposures; p < 0.001). No differences were found in 12-week Majeed functional scores between groups (mean \u00b1 SD 69 \u00b1 16 versus 71 \u00b1 17, mean difference -3 [95% CI -11 to 6]; p = 0.55). One superficial infection occurred in the manual closed reduction group, and there were no serious complications in either group. CONCLUSION: Surgeons treating acute displaced pelvic ring fractures should consider robotic closed reduction, when available, to improve reduction quality and reduce intraoperative fluoroscopic exposure, although it did not result in improved patient-reported outcome scores at short term in this randomized trial. Future studies should evaluate longer term functional benefits, define the fracture patterns most likely to benefit, and evaluate implementation factors including learning curve and cost-effectiveness across varied trauma settings. LEVEL OF EVIDENCE: Level I, therapeutic study.",
+      "pub_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42370806/",
+      "score": 88,
+      "score_reasoning": "Large registry-based cohort (35,139 ACLRs) from the Norwegian Knee Ligament Register examining MCL injury management and graft choice in ACL reconstruction with direct clinical applicability published in AJSM.",
+      "bullets": [
+        "Robotic closed reduction achieved excellent or good alignment in 96% of displaced pelvic fractures versus 48% with manual reduction in this randomized trial.",
+        "Surgeons in the robotic group received zero intraoperative fluoroscopic exposures compared to a median of 38 in the manual group.",
+        "Despite better reduction quality, 12-week functional scores were the same between groups, so the long-term patient benefit of robotic reduction remains unclear."
+      ]
+    },
+    {
+      "pmid": "42367014",
+      "title": "Risk of Revision and Patient-Reported Outcomes After ACL Reconstruction: Influence of Concomitant MCL Injury and Graft Choice: Analysis of 35,139 Reconstructions From the Norwegian Knee Ligament Register.",
+      "authors": [
+        "Birkenes T",
+        "Chahla J",
+        "Lygre SHL",
+        "Williams A",
+        "Inderhaug E"
+      ],
+      "authors_short": "Birkenes T, Chahla J, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Concomitant medial collateral ligament (MCL) injury is common in anterior cruciate ligament (ACL) tears, but optimal management of these injury components remains controversial. PURPOSE: To compare patient-reported outcome measures and the risk of ACL revision surgery in patients with concomitant MCL injuries (treated operatively and nonoperatively) versus isolated ACL injuries and to assess whether MCL treatment strategy or ACL graft choice influenced outcomes. STUDY DESIGN: Cohort study; Level of evidence 3. METHODS: Data were obtained from the Norwegian Knee Ligament Register. Patients undergoing primary ACL reconstruction (ACLR) between 2004 and 2024 were included for graft-survival analyses, and those operated by December 31, 2022, were eligible for 2-year Knee injury and Osteoarthritis Outcome Score (KOOS) outcomes. Patients with concomitant ligament injuries other than to the MCL, ACL repairs, or those with unknown ACL graft type were excluded. Patients were stratified into isolated ACL and ACL + MCL injury groups. Kaplan-Meier survival analyses (unadjusted), multivariable Cox regression, and linear/logistic regression models were used, adjusted for descriptive data, body mass index, meniscal/cartilage injury, time to surgery, smoking, pivoting sports, graft choice, and baseline KOOS. RESULTS: A total of 35,139 ACLRs were included (2410 ACL + MCL and 32,729 isolated ACL; mean age, 28.6 years). Concomitant MCL injury was not associated with an increased overall risk of ACL revision (P = .5). However, ACL + MCL patients had lower 2-year KOOS Sport/Recreation (Sport/Rec) scores (-2 points, P = .04) and lower odds of achieving patient acceptable symptom state (PASS) for Sport/Rec. Within the ACL + MCL subgroup, hamstring (Hazard ratio [HR], 2.3; P = .001) and quadriceps autografts (HR, 3; P = .009) were associated with a higher revision risk compared with bone-patellar tendon-bone (BPTB) autograft, particularly when hamstring grafts were combined with nonoperative MCL treatment (HR, 2.4; P = .001). Graft choice did not influence the likelihood of achieving a minimal clinically important difference in KOOS. CONCLUSION: Concomitant MCL injury did not increase the risk of ACL revision but was associated with inferior KOOS Sport/Rec outcomes and lower odds of achieving PASS at 2 years. In patients with concomitant nonoperatively treated MCL injuries, BPTB autograft was associated with a significantly lower revision risk compared with hamstring and quadriceps autografts.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42367014/",
+      "score": 87,
+      "score_reasoning": "Large national database study (198,263 TKAs) showing TA-TKA utilization increased 375% and was associated with lower periprosthetic fracture, deep infection, revision, and aseptic loosening rates with high clinical relevance.",
+      "bullets": [
+        "In over 35,000 ACL reconstructions, having a concomitant MCL injury did not increase the overall risk of ACL revision surgery.",
+        "Patients with combined ACL and MCL injuries reported meaningfully lower return-to-sport scores at two years compared to isolated ACL injuries.",
+        "When the MCL was treated nonoperatively, bone-patellar tendon-bone autograft carried a significantly lower revision risk than hamstring or quadriceps autografts, making graft selection an important decision in this combined injury pattern."
+      ]
+    },
+    {
+      "pmid": "42376631",
+      "title": "Trends and Outcomes in Technology-Assisted Total Knee Arthroplasty in the United States From 2020 to 2024.",
+      "authors": [
+        "Kim MS",
+        "Brunette M",
+        "Pham E",
+        "Soriano K",
+        "DiGiovanni R",
+        "Hsiue P"
+      ],
+      "authors_short": "Kim MS, Brunette M, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Technology-assisted total knee arthroplasty (TA-TKA), including computer navigation and robotic assistance, has been developed to improve implant alignment and soft tissue balance. While utilization has increased, evidence regarding clinical benefit remains mixed. This study evaluated national and regional utilization trends of TA-TKA and compared postoperative complication rates with manual TKA (M-TKA). METHODS: Patients undergoing primary TKA between January 1, 2020, and December 31, 2024, were identified in the TriNetX United States Collaborative Network. Patient demographics, hospital characteristics, and postoperative complications were obtained. Cohorts were 1:1 propensity score matched for sex, body mass index, and comorbidities. Surgical complications were compared at 0-30 days, 31-90 days, and 91 days-3 years between M-TKA and TA-TKA cohorts. In addition, subanalysis was conducted comparing 3-year surgical complication rates between TA-TKA and M-TKA, stratified by region. RESULTS: Of 198,263 TKA patients, 147,156 underwent M-TKA and 39,624 underwent TA-TKA. TA-TKA utilization increased by 375%, from 11.9% in 2020 to 27.0% in 2024 (P < .0001). After matching, TA-TKA was associated with lower risks of periprosthetic fracture, deep infection, revision surgery, and aseptic loosening (all P \u2264 .031). Across all regions, statistically significant findings demonstrated decreased risk of surgical complications at 3 years associated with TA-TKA when compared to M-TKA (P < .001). CONCLUSIONS: TA-TKA utilization has more than doubled in recent years, though adoption remains variable across regions and institutions. Compared with M-TKA, TA-TKA was associated with significantly lower surgical complication rates through 3 years of follow-up. These findings support continued adoption of TA-TKA and highlight the need for further research on long-term outcomes and cost-effectiveness.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42376631/",
+      "score": 86,
+      "score_reasoning": "Bayesian network meta-analysis of 40 RCTs on TXA administration routes in TKA with cost analysis provides high-quality evidence directly applicable to daily arthroplasty practice.",
+      "bullets": [
+        "Technology-assisted total knee arthroplasty use grew from 12% to 27% of all primary TKAs in the United States between 2020 and 2024.",
+        "Compared to manual TKA, technology-assisted TKA was associated with lower rates of periprosthetic fracture, deep infection, aseptic loosening, and revision surgery at 3 years across all regions studied.",
+        "For surgeons performing primary TKA, this large national dataset supports technology-assisted techniques as a way to reduce surgical complications in the medium term."
+      ]
+    },
+    {
+      "pmid": "42340609",
+      "title": "Quadriceps tendon autograft provides comparable stability and functional outcomes with lower donor-site morbidity than bone-patellar tendon-bone: A systematic review and meta-analysis of 15 randomized controlled trials with GRADE evidence.",
+      "authors": [
+        "Khalafallah MA",
+        "Hall OK",
+        "Elmenawy Z",
+        "Ibrahim KSM",
+        "Ghoneim OM",
+        "Raizah A",
+        "Alqahtani T",
+        "Zaki MSA",
+        "Imam MA"
+      ],
+      "authors_short": "Khalafallah MA, Hall OK, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To compare clinical and functional outcomes after primary anterior cruciate ligament reconstruction (ACLR) using quadriceps tendon (QT) autografts versus bone-patellar tendon-bone (BPTB) and, separately, QT versus hamstring tendon (HT) autografts, to inform evidence-based graft selection. METHODS: We performed a Cochrane-guided systematic review and meta-analysis. Searches of PubMed, Scopus, Cochrane Library, SPORTDiscus, Cumulative Index to Nursing and Allied Health Literature (CINAHL), Web of Science and major trial registries through November 2025 identified randomized controlled trials (RCTs) comparing QT with HT or BPTB in adults undergoing primary ACLR. Random-effects models (REML) were used to pool mean differences/standardized mean differences and risk ratios. Heterogeneity was quantified using I2 and Q statistics. Sensitivity analyses (leave-one-out) and the GRADE (Grading of Recommendations, Assessment, Development and Evaluation) approach were applied. When pooling was infeasible, a structured narrative synthesis was provided. RESULTS: Fifteen RCTs (2014-2025) were included. Objective anterior stability (KT-1000) showed no significant difference between QT and HT at 12 or 24 months and no significant difference between QT and BPTB at 12 months. Patient-reported outcomes (International Knee Documentation Committee, Lysholm, Knee Injury and Osteoarthritis Outcome Score [KOOS], Tegner) were largely equivalent at 12-24 months. After resolving inconsistencies due to non-exchangeable constructs/comparators, a small 12-month KOOS signal favoured QT, while 24-month effects remained null. Graft failure rates were comparable for QT versus HT and QT versus BPTB. Donor-site morbidity was substantially lower with QT versus BPTB; QT versus HT showed no significant difference. Pivot-shift favoured QT, but not significantly; postoperative stiffness did not differ. Overall certainty was mostly moderate (downgrades for imprecision and occasional indirectness); donor-site morbidity versus BPTB reached high certainty. CONCLUSION: Across randomized evidence up to 24 months, QT provides stability and patient-reported outcomes comparable to HT and BPTB, with clearly lower donor-site morbidity compared to BPTB and no excess failure compared to HT. QT is an evidence-supported alternative for primary ACLR; longer, adequately powered, construct-specific RCTs are needed for guideline-level certainty. LEVEL OF EVIDENCE: Level I, systematic review of Level I randomized controlled studies.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42340609/",
+      "score": 85,
+      "score_reasoning": "Meta-analysis of 15 RCTs with GRADE evidence comparing quadriceps tendon versus BPTB and hamstring autografts in ACLR addresses a highly debated clinical question with strong methodology published in KSSTA.",
+      "bullets": [
+        "Quadriceps tendon autograft produces knee stability and patient-reported outcomes equivalent to both bone-patellar tendon-bone and hamstring tendon grafts at up to 24 months after ACL reconstruction.",
+        "Compared to bone-patellar tendon-bone, quadriceps tendon causes significantly less donor-site morbidity, a finding supported by high-certainty evidence.",
+        "For surgeons selecting a graft in primary ACL reconstruction, quadriceps tendon is a well-supported option that avoids the anterior knee pain burden of bone-patellar tendon-bone without increasing failure risk."
+      ]
+    },
+    {
+      "pmid": "42373147",
+      "title": "The Impact of Anticoagulant Choice on Rates of Manipulation Under Anesthesia, Hematoma Formation, and Venous Thromboembolic Events.",
+      "authors": [
+        "Crowley B",
+        "Hollimon M",
+        "Joaquin T",
+        "Lawrence J",
+        "Levine BR"
+      ],
+      "authors_short": "Crowley B, Hollimon M, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Anticoagulation after total knee arthroplasty (TKA) remains a balance between clot prevention and postoperative bleeding. This study aimed to analyze anticoagulant choice for deep vein thrombosis prophylaxis on rates of stiffness requiring manipulation under anesthesia (MUA) and hematoma formation after TKA. METHODS: A large national database was queried for all primary TKAs. We included patients who filled a prescription for an anticoagulant within three days before or five days after surgery. We excluded those who filled prescriptions for multiple or no anticoagulants. Logistic regression was used to compare potent anticoagulants (warfarin, Xa inhibitors, and low molecular weight heparin (LMWH)) to our control group receiving aspirin. The primary outcomes of interest were MUA or hematoma formation within 90 days postoperatively. After applying the exclusion criteria, 462,869 patients were available to review. Of those, 148,159 (32.05%) received aspirin, followed by factor Xa inhibitors (123,909 [26.80%]), warfarin (96,338 [20.84%]), and LMWH (84,962 [18.38%]). RESULTS: Using logistic regression analyses, patients receiving factor Xa inhibitors (odds ratio [OR] 1.38 [95% confidence interval (CI) 1.32 to 1.43]), indirect factor Xa inhibitors (OR 1.33, [95% CI 1.19 to 1.48]), warfarin (OR 1.29 [95% CI 1.23 to 1.35]), and LMWH (OR 1.26, [95% CI 1.20 to 1.32]) had higher rates of MUA than the aspirin cohort. Additionally, when compared to aspirin, those receiving LMWH (OR 1.69 [95% CI 1.46 to 1.96]), indirect factor Xa inhibitors (OR 1.62 [95% CI 1.13 to 2.26]), direct factor Xa inhibitors (OR 1.55 [95% CI 1.35 to 1.78]), and warfarin (OR 1.33 [95% CI 1.14 to 1.55]) were at a significantly higher risk of hematoma formation. CONCLUSIONS: The use of aspirin for deep vein thrombosis prophylaxis after TKA is associated with a significantly lower risk of undergoing MUA and hematoma formation, without increasing the clotting risk profile, than more potent anticoagulants.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42373147/",
+      "score": 84,
+      "score_reasoning": "Large propensity-matched national database study (462,869 TKA patients) demonstrating aspirin is associated with lower rates of MUA and hematoma compared to potent anticoagulants, directly impacting postoperative management decisions.",
+      "bullets": [
+        "After total knee arthroplasty, patients on aspirin had lower rates of manipulation under anesthesia and hematoma formation than those on warfarin, factor Xa inhibitors, or low molecular weight heparin.",
+        "This finding applies to primary total knee arthroplasty patients across a broad national population, covering nearly 463,000 cases.",
+        "For eligible TKA patients, aspirin appears to reduce bleeding and stiffness complications without increasing clot risk, supporting its use as the preferred prophylaxis agent."
+      ]
+    },
+    {
+      "pmid": "42358075",
+      "title": "Short-term Patient-Reported Outcomes After Primary Anterior Cruciate Ligament Reconstruction With and Without Lateral Extra-articular Tenodesis: A Matched-Cohort Analysis From the Swedish Knee Ligament Registry.",
+      "authors": [
+        "Pruneski JA",
+        "Zsidai B",
+        "\u00d6ttl F",
+        "Heder Ternell K",
+        "Cristiani R",
+        "Musahl V",
+        "Senorski EH",
+        "Samuelsson K",
+        "Horvath A"
+      ],
+      "authors_short": "Pruneski JA, Zsidai B, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Despite reduced graft failure rates reported in randomized controlled trials comparing anterior cruciate ligament reconstruction (ACL-R) with and without lateral extra-articular tenodesis (LET), the impact of LET on postoperative patient-reported outcomes (PROs) remains poorly defined. PURPOSE: To compare short-term PROs, as well as anterior cruciate ligament (ACL) revision rates and clinical failure rates (defined as Knee injury and Osteoarthritis Outcome Score [KOOS] Quality of Life [QoL] value <44) between patients undergoing primary ACL-R with and without concomitant LET. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: Data were extracted from the Swedish Knee Ligament Registry for all patients undergoing primary ACL-R between January 1, 2005, and June 25, 2025. Patients who underwent ACL-R + LET were matched to patients who underwent ACL-R without LET using 1:4 matching based on age, sex, body mass index, graft type, time from injury to reconstruction, and concomitant meniscal and cartilage injury status. The primary outcomes were KOOS values at the 1- and 2-year follow-ups.Secondary outcomes included revision ACL-R and clinical failure within 1 and 2 years. Categorical variables were compared using Fisher exact or chi-square tests, continuous variables were compared using Fisher nonparametric permutation tests, and within-group KOOS changes were compared using Wilcoxon signed-rank tests. Adjusted 1- and 2-year KOOS Symptoms comparisons for baseline differences and outcomes were interpreted relative to published minimal clinically important difference thresholds. RESULTS: After matching, the final cohort consisted of 870 patients: 174 in the ACL-R + LET group and 696 in the ACL-R group. There were no significant between-group differences in KOOS4 (mean of the Symptoms, Pain, Sports and Recreation, and QoL subscales) scores at the 1-year (77.7 \u00b1 15.2 for ACL-R + LET vs 78.8 \u00b1 14.9 for ACL-R) or 2-year (79.9 \u00b1 16.7 for ACL-R + LET vs 80.7 \u00b1 13.4 for ACL-) follow-up (P > .5). Both groups demonstrated significant within-group improvements in KOOS4 scores from baseline through the 2-year follow-up (all P\u2264 .002). ACL revision rates at 2 years were 2.3% and 2.4% in the ACL-R + LET and ACL-R groups, respectively. Rates of clinical failure at 2 years were similar between groups (25.5% for ACL-R + LET vs 25.6% for ACL-R; P > .99). CONCLUSION: In this matched-cohort registry study, the addition of LET to primary ACL-R did not demonstrate superior short-term PROs at 1 or 2 years postsurgery.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42358075/",
+      "score": 83,
+      "score_reasoning": "Systematic review and meta-analysis (35 retrospective studies, 7,447 patients) examining PJI risk after TKA/THA in patients with prior septic arthritis, published in Journal of Arthroplasty with important preoperative counseling implications.",
+      "bullets": [
+        "Adding a lateral extra-articular tenodesis to primary ACL reconstruction did not improve patient-reported knee scores at one or two years compared to ACL reconstruction alone.",
+        "Revision rates and clinical failure rates at two years were nearly identical between the two groups, around 2.4% and 25.5% respectively, in a matched registry cohort of 870 patients.",
+        "For surgeons considering LET to improve patient outcomes after primary ACL reconstruction, this registry data suggests the procedure adds no measurable functional benefit in the short term."
+      ]
+    },
+    {
+      "pmid": "42334059",
+      "title": "Anterior cruciate ligament revision risk is associated with mismatch between hamstring graft size and body size in football players.",
+      "authors": [
+        "Sandon A",
+        "Eriksson K",
+        "Forssblad M",
+        "Barenius B"
+      ],
+      "authors_short": "Sandon A, Eriksson K, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To evaluate the association between hamstring autograft diameter and the risk of revision anterior cruciate ligament reconstruction (ACLR) in football players, and to determine whether this relationship differs according to sex and height. METHODS: A nationwide registry-linked cohort was assembled by combining the Swedish Knee Ligament Registry and the Swedish Football Association's competition database. Football players undergoing primary index ACLR with hamstring autograft between 2014 and 2023 were eligible. Graft diameter was categorised \u22647.5, 8.0, 8.5, \u22659.0\u2009mm with \u22659.0\u2009mm as the reference group. Estimated adjusted hazard ratios (HRs) for revision were calculated with Cox models, stratified by sex and predefined height groups, a secondary analysis restricted to players who returned to official match play (RTC) were also performed. RESULTS: A total of 9448 players were included, 6127 (65%) men. During follow-up, 771 revision ACLR occurred (8.2%). Crude revision risk decreased stepwise with increasing graft diameter: 10.4% for \u22647.5\u2009mm, 9.5% for 8.0\u2009mm, 8.5% for 8.5\u2009mm, and 6.2% for \u22659.0\u2009mm. Among men, diameter-related risk differences were concentrated in taller players. In those 176-184\u2009cm, grafts \u22647.5\u2009mm showed a 2.27-fold higher adjusted hazard of revision (95% confidence interval [CI], 1.30-3.94) compared with \u22659.0\u2009mm. In players \u2265185\u2009cm, hazards were elevated for both \u22647.5\u2009mm (HR 2.86, 95% CI 1.19-6.85) and 8.0\u2009mm grafts (HR 1.98, 95% CI 1.14-3.42). No significant graft-diameter effect was identified in men \u2264175\u2009cm, nor in any height stratum among women. Findings were consistent in the subgroup restricted to players who returned to official competition. CONCLUSION: Smaller hamstring autografts are associated with increased revision ACLR risk in tall male football players, whereas no clear graft-diameter effect is observed in women or shorter men. These findings suggest that graft diameter may be best interpreted in relation to patient height rather than applied as a universal threshold. LEVEL OF EVIDENCE: Level III, retrospective cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42334059/",
+      "score": 82,
+      "score_reasoning": "Large registry study (n=85,814 primary THA) from Ontario demonstrating prior hip arthroscopy is associated with 49% higher THA revision risk, with important implications for patient counseling and surgical planning.",
+      "bullets": [
+        "In male football players over 176 cm, hamstring grafts smaller than 8.5 mm carry up to a 2.9-fold higher revision risk compared to grafts 9.0 mm or larger.",
+        "The graft diameter effect was absent in shorter men and in women of any height, meaning a single minimum graft size threshold does not apply to all patients.",
+        "For tall male patients undergoing ACL reconstruction, surgeons should prioritize achieving a larger hamstring graft diameter rather than accepting a smaller graft as adequate."
+      ]
+    },
+    {
+      "pmid": "42373023",
+      "title": "Improving the Reliability of a Novel Baldini Classification for Revision Total Knee Arthroplasty: The Development and Validation of the Modified Grading System.",
+      "authors": [
+        "Herold JM",
+        "Ghirardelli S",
+        "Song YD",
+        "Nocon A",
+        "Sculco PK",
+        "Boettner F"
+      ],
+      "authors_short": "Herold JM, Ghirardelli S, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: The concept of zonal fixation has revolutionized our approach to bone loss in revision total knee arthroplasty (rTKA). Recently a quantitative grading system for each zone has been introduced, which allows for independent grading for the epiphysis, metaphysis, and diaphysis. The current study reports on the intra- and interobserver reliability of this scoring system in a non-selected patient cohort. METHODS: Pre- and postoperative radiographs of 250 rTKA cases with stemmed prostheses were evaluated using the grading system published by d\u00b4Amato et al. To potentially improve the reliability of diaphyseal scoring, the grading schema for the diaphysis was modified to include the Scuderi and Weinberg diaphysis bone defect classification. There were three independent reviewers who evaluated each case separately with both the original scoring method and the modified score in two grading sessions. Inter- and intraobserver reliability was calculated with the intraclass correlation coefficient (ICC). RESULTS: The ICC for the original grading system with respect to the diaphysis showed poor overall reliability for the femur (Epiphysis: 0.48; Metaphysis: 0.67; Diaphysis: 0.34, Total: 0.35) and tibia (Epiphysis: 0.51; Metaphysis: 0.68; Diaphysis: 0.28, Total: 0.28). The modified grading system showed improved results in the revised diaphyseal zonal grading in both the femur (epiphysis: 0.67; metaphysis: 0.81; diaphysis: 0.84; total: 0.84) and tibia (epiphysis: 0.87; metaphysis: 0.72; diaphysis: 0.78; total: 0.73). CONCLUSION: Incorporating the Scuderi and Weinberg diaphyseal bone defect classification increases the accuracy of the grading of implant fixation in the diaphysis. While some variability exists in the grading, the study confirms the overall feasibility of the grading system and supports using it for long-term studies evaluating implant fixation.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42373023/",
+      "score": 80,
+      "score_reasoning": "RCT (108 patients) evaluating mobile-based education and exercise program on anxiety, pain, kinesiophobia, and sleep quality in TKA patients, demonstrating significant benefits with a scalable intervention.",
+      "bullets": [
+        "A modified bone loss classification for revision total knee arthroplasty improved agreement among reviewers from poor to good, particularly for diaphyseal grading in both the femur and tibia.",
+        "The improvement came from adding a dedicated diaphyseal scoring component, which was the weakest part of the original system and the most relevant zone for stemmed implant fixation decisions.",
+        "Surgeons planning revision total knee arthroplasty now have a more reliable radiographic classification tool to guide implant selection and support consistent documentation across institutions."
+      ]
+    },
+    {
+      "pmid": "42340321",
+      "title": "Stacked-Cone Constructs for Extensive Tibial and/or Femoral Bone Loss in Complex Primary and Revision TKA: A Multicenter Analysis of 84 Cases.",
+      "authors": [
+        "Kumaran P",
+        "Telang SS",
+        "Culler M",
+        "Palmer RC",
+        "Longjohn DB",
+        "Oakes DA",
+        "Anderson LA",
+        "Fillingham YA",
+        "Wolfstadt JI",
+        "Heckmann ND"
+      ],
+      "authors_short": "Kumaran P, Telang SS, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Stacked metaphyseal cone constructs can be used to address extensive metaphyseal and metadiaphyseal bone loss encountered during complex primary or revision total knee arthroplasty (TKA). Our study reports the 5-year outcomes of a multicenter cohort of stacked-cone constructs used to manage extensive bone loss encountered during primary or revision TKA. METHODS: A retrospective review was conducted to identify patients who underwent primary or revision TKA with tibial and/or femoral stacked-cone constructs between July 2016 and September 2025 at 4 tertiary academic institutions. Demographic, operative, clinical, and radiographic data were obtained and analyzed. Five-year implant survivorship free from all-cause reoperation, all-cause revision, and stacked-cone construct revision for aseptic loosening was analyzed using Kaplan-Meier estimation. RESULTS: Eighty-four cases with a mean patient age of 67.3 years and a mean follow-up of 20.85 months were identified. Five-year survivorship was 56.5% (95% confidence interval [CI], 22.7% to 78.3%) free from all-cause reoperation, 65.2% (95% CI, 25.8% to 87.1%) free from all-cause revision, and 91.7% (95% CI, 52.5% to 99.8%) free from stacked-cone construct revision for aseptic loosening. Stacked-cone revision due to aseptic loosening was performed on the tibial side in 1 case (1.2%) at 3.6 years following the index surgery. Five other stacked cones were revised for periprosthetic joint infection (4 all femoral stacked-cone cases) and tibial implant fracture (1 tibial stacked-cone case). CONCLUSIONS: Stacked-cone constructs demonstrated excellent 5-year survivorship free from aseptic loosening. However, all-cause reoperations and revisions were common in this cohort, reflecting the complex nature of this patient population. LEVEL OF EVIDENCE: Therapeutic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42340321/",
+      "score": 79,
+      "score_reasoning": "Multicenter RCT (92 patients) examining robotic versus manual closed reduction for displaced pelvic fractures, representing a high-quality study design on an important trauma technique with direct clinical implications.",
+      "bullets": [
+        "In 84 knees with severe bone loss treated with stacked metaphyseal cone constructs, 5-year survivorship free from aseptic loosening was 92%, with only one tibial cone failing due to loosening.",
+        "Overall reoperation and revision rates were high at 5 years, driven primarily by infection and implant fracture rather than mechanical cone failure.",
+        "For orthopaedic surgeons managing massive tibial or femoral bone loss in complex primary or revision TKA, stacked cones provide reliable biological fixation but these patients carry substantial risk of non-mechanical complications."
+      ]
+    },
+    {
+      "pmid": "42365473",
+      "title": "The Incidence of Subtalar Facet Penetration and Its Impact on Clinical and Radiographic Outcome in Lateral Lengthening Calcaneal Osteotomies.",
+      "authors": [
+        "Scheurer FA",
+        "Suter D",
+        "Fritz B",
+        "Smolle MA",
+        "Beeler S",
+        "Vieh\u00f6fer A",
+        "Wirth S"
+      ],
+      "authors_short": "Scheurer FA, Suter D, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Lateral lengthening calcaneal osteotomy (LLOT, Evans and Hintermann) is widely used to treat progressive collapsing foot deformity (PCFD). In the Evans osteotomy, the cut is performed proximal to the calcaneocuboid joint, carrying a risk of violating the anterior or middle subtalar facet. Hintermann proposed a modified technique placing the osteotomy between the middle and posterior facets to reduce risks. Although anatomical studies have shown potential facet involvement, clinical data on the actual incidence and its impact on long-term outcomes remain scarce. This study aimed to determine the incidence of subtalar facet penetration after LLOT and to evaluate its effect on clinical and radiographic results. METHODS: All patients aged \u226518\u2009years who underwent LLOT (Evans or Hintermann osteotomy) at our institution between January 1, 2010, and December 31, 2020, were included. Postoperative computed tomography (CT) was performed 6\u2009weeks after surgery to assess possible subtalar facet violation. At a minimum follow-up of 5\u2009years, magnetic resonance imaging (MRI) was obtained to evaluate cartilage and ligament integrity. Clinical outcomes at the time of MRI were assessed using the Foot Function Index (FFI) and the American Orthopaedic Foot & Ankle Society (AOFAS) score. Demographic variables, including type of osteotomy and outcome measures, were compared between patients with and without facet penetration. RESULTS: Thirty-one patients met inclusion criteria. Subtalar facet penetration was detected in 11 patients (35%) on postoperative CT. No significant differences were observed between groups with respect to demographic variables. MRI analysis revealed no relevant differences in cartilage degeneration. FFI and AOFAS scores were comparable between groups. CONCLUSION: Subtalar facet penetration occurred in one-third of patients after LLOT (Evans and Hintermann). With the numbers available, no significant differences in clinical or radiographic outcomes were detected at a minimum 5-year follow-up, suggesting that minor facet violations may have limited clinical relevance. LEVEL OF EVIDENCE: Level III, retrospective cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42365473/",
+      "score": 76,
+      "score_reasoning": "Large registry cohort (35,139 ACLRs) from Norwegian Knee Ligament Register examining MCL injury management and its impact on ACL revision risk and PROMs with direct clinical decision-making applicability.",
+      "bullets": [
+        "Subtalar facet penetration occurred in one-third of patients after lateral lengthening calcaneal osteotomy, affecting both Evans and Hintermann techniques equally.",
+        "At five-year follow-up, patients with facet penetration had cartilage integrity, foot function scores, and AOFAS scores comparable to those without penetration.",
+        "For surgeons treating progressive collapsing foot deformity, minor subtalar facet violations during calcaneal lengthening osteotomy may not meaningfully affect medium-term outcomes."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-06-30T05:08:10.658131-07:00"
+}
