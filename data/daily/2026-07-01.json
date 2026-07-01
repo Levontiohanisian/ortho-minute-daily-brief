@@ -1,0 +1,302 @@
+{
+  "brief_date": "2026-07-01",
+  "brief_date_display": "Wednesday, July 01",
+  "candidates": [
+    {
+      "pmid": "42377395",
+      "title": "Patients with obesity have a higher risk of periprosthetic joint infection and more frequent polymicrobial infections after knee arthroplasty: A nationwide register-based study from Denmark.",
+      "authors": [
+        "Aljuboori SM",
+        "Jimenez-Solem E",
+        "Calum H",
+        "Christensen R",
+        "Overgaard S"
+      ],
+      "authors_short": "Aljuboori SM, Jimenez-Solem E, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To compare the 2-year incidence of (1) revision due to periprosthetic joint infection (PJI) and (2) all-cause revision after primary knee arthroplasty (KA) in patients with/without obesity and to compare the microbial profiles in early (\u2264\u200990 days) and late (91-730 days) PJI. METHODS: A nationwide, register-based cohort of patients undergoing primary total or unicompartmental KA for osteoarthritis in Denmark (2011-2023). Patients were stratified by body mass index (BMI), with obesity defined as BMI\u2009\u2265\u200930\u2009kg/m2. Cox proportional hazards models estimated hazard ratios (HRs) with corresponding two-sided 95% confidence intervals (95% CIs) for PJI and all-cause revision within 2 years. Analyses included crude and propensity score-adjusted models based on health and socioeconomic data. Microbial profiles were compared using absolute risk difference (ARD) with 95% CIs in the early and late post-operative periods. RESULTS: Among 111,117 eligible patients, 41,306 had obesity (mean BMI: 34.6) and 59,993 did not (mean BMI: 26.1). Patients with obesity were slightly younger and had higher use of glucose-lowering medication. Patients with obesity had a higher risk of PJI revision than those without obesity (482 [1.2%] vs. 559 [0.9%]; crude HR: 1.25 [1.11-1.42], and propensity-adjusted HR: 1.30, 95% CI: 1.14-1.48). The adjusted risk of all-cause revision was comparable (1494 [3.6%] vs. 1893 [3.2%]; HR: 1.05, 95% CI: 0.98-1.13). Within 90 days, patients with obesity had more polymicrobial infections (62 [18.5%] vs. 43 [11.3%]; ARD: 7.2%, 95% CI: 2.0%-12.5%) and more non-staphylococcal gram-positive organisms (69 [21%] vs. 54 [14%]; ARD: 6.3%, 95% CI: 0.8%-12%). Staphylococcus aureus was the most frequent pathogen in both groups (127 [38%] vs. 136 [36%]; ARD: 2.0%, 95% CI: -5.1% to 9.1%). CONCLUSIONS: Obesity was associated with an increased 2-year risk of PJI after KA; however, the risk of all-cause revision was comparable to that in patients without obesity. Within 90 days, patients with obesity exhibited a higher incidence of polymicrobial infections and non-staphylococcal gram-positive organisms. LEVEL OF EVIDENCE: Level II, prognostic studies-investigating natural history and evaluating the effect of a patient characteristic.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42377395/",
+      "score": 82,
+      "score_reasoning": "Large nationwide register-based study (111,117 patients) with robust methodology directly addressing the clinically important question of obesity's impact on PJI risk after knee arthroplasty, published in a high-impact ESSKA journal with actionable findings for patient counseling and risk stratification.",
+      "bullets": [
+        "Obese patients undergoing knee arthroplasty have a 30% higher risk of periprosthetic joint infection within 2 years compared to non-obese patients, with no significant difference in overall revision rates.",
+        "Within 90 days of surgery, obese patients are more likely to develop polymicrobial infections and non-staphylococcal gram-positive infections, making empiric antibiotic coverage more complex in this group.",
+        "Orthopaedic surgeons should counsel obese knee arthroplasty candidates that their infection risk is meaningfully elevated, even when overall implant survival appears comparable."
+      ]
+    },
+    {
+      "pmid": "42367014",
+      "title": "Risk of Revision and Patient-Reported Outcomes After ACL Reconstruction: Influence of Concomitant MCL Injury and Graft Choice: Analysis of 35,139 Reconstructions From the Norwegian Knee Ligament Register.",
+      "authors": [
+        "Birkenes T",
+        "Chahla J",
+        "Lygre SHL",
+        "Williams A",
+        "Inderhaug E"
+      ],
+      "authors_short": "Birkenes T, Chahla J, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Concomitant medial collateral ligament (MCL) injury is common in anterior cruciate ligament (ACL) tears, but optimal management of these injury components remains controversial. PURPOSE: To compare patient-reported outcome measures and the risk of ACL revision surgery in patients with concomitant MCL injuries (treated operatively and nonoperatively) versus isolated ACL injuries and to assess whether MCL treatment strategy or ACL graft choice influenced outcomes. STUDY DESIGN: Cohort study; Level of evidence 3. METHODS: Data were obtained from the Norwegian Knee Ligament Register. Patients undergoing primary ACL reconstruction (ACLR) between 2004 and 2024 were included for graft-survival analyses, and those operated by December 31, 2022, were eligible for 2-year Knee injury and Osteoarthritis Outcome Score (KOOS) outcomes. Patients with concomitant ligament injuries other than to the MCL, ACL repairs, or those with unknown ACL graft type were excluded. Patients were stratified into isolated ACL and ACL + MCL injury groups. Kaplan-Meier survival analyses (unadjusted), multivariable Cox regression, and linear/logistic regression models were used, adjusted for descriptive data, body mass index, meniscal/cartilage injury, time to surgery, smoking, pivoting sports, graft choice, and baseline KOOS. RESULTS: A total of 35,139 ACLRs were included (2410 ACL + MCL and 32,729 isolated ACL; mean age, 28.6 years). Concomitant MCL injury was not associated with an increased overall risk of ACL revision (P = .5). However, ACL + MCL patients had lower 2-year KOOS Sport/Recreation (Sport/Rec) scores (-2 points, P = .04) and lower odds of achieving patient acceptable symptom state (PASS) for Sport/Rec. Within the ACL + MCL subgroup, hamstring (Hazard ratio [HR], 2.3; P = .001) and quadriceps autografts (HR, 3; P = .009) were associated with a higher revision risk compared with bone-patellar tendon-bone (BPTB) autograft, particularly when hamstring grafts were combined with nonoperative MCL treatment (HR, 2.4; P = .001). Graft choice did not influence the likelihood of achieving a minimal clinically important difference in KOOS. CONCLUSION: Concomitant MCL injury did not increase the risk of ACL revision but was associated with inferior KOOS Sport/Rec outcomes and lower odds of achieving PASS at 2 years. In patients with concomitant nonoperatively treated MCL injuries, BPTB autograft was associated with a significantly lower revision risk compared with hamstring and quadriceps autografts.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42367014/",
+      "score": 80,
+      "score_reasoning": "Large registry-based RCT from CORR evaluating robotic assistance for displaced pelvic fracture reduction with radiation exposure outcomes, representing high-quality Level I evidence on an emerging surgical technology with direct trauma practice implications.",
+      "bullets": [
+        "In over 35,000 ACL reconstructions, a concomitant MCL injury did not increase the overall risk of ACL revision surgery.",
+        "Patients with combined ACL and MCL injuries reported worse knee sport and recreation scores at two years compared to isolated ACL injuries.",
+        "When the MCL was managed nonoperatively, BPTB autograft carried a significantly lower revision risk than hamstring or quadriceps autograft, a finding relevant to graft selection in this injury pattern."
+      ]
+    },
+    {
+      "pmid": "42370806",
+      "title": "What Is the Effect of Robot Reduction in Displaced Pelvic Fractures? A Multicenter Randomized Clinical Trial.",
+      "authors": [
+        "Zhao C",
+        "Ge Y",
+        "Cao Q",
+        "Yang M",
+        "Gao F",
+        "Xiao H",
+        "Liu G",
+        "Sun D",
+        "Yu B",
+        "Jia J",
+        "Wu Z",
+        "Wang Y",
+        "Wu X"
+      ],
+      "authors_short": "Zhao C, Ge Y, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Displaced pelvic fractures present real surgical challenges because of complex three-dimensional deformity patterns and proximity to vital structures, with conventional manual reduction techniques limited by accuracy constraints and radiation exposure. Although robotic assistance shows promise in preclinical studies, its clinical effectiveness remains unproven in randomized clinical trials (RCTs). QUESTIONS/PURPOSES: (1) Does robotic closed reduction improve reduction quality compared with manual closed reduction in displaced pelvic fractures? (2) Can robotic closed reduction reduce intraoperative radiation exposure while maintaining functional outcomes? METHODS: In this multicenter RCT conducted at six tertiary trauma centers in China involving 10 senior orthopaedic traumatologists, 92 adult patients with acute closed, displaced pelvic fractures (Tile Type B or C) were randomized 1:1 to robotic closed reduction (n = 46) or manual closed reduction (n = 46) groups. At 12 weeks, loss to follow-up for patient-reported outcomes was 9% (4 of 46) in the robotic group and 4% (2 of 46) in the manual group; the remainder were handled in a prespecified per-protocol analysis. In the robot group, reduction was planned using CT-based three-dimensional reconstruction with contralateral pelvic symmetry as the target and executed by a robotic arm with adjunct elastic traction and contralateral pelvic stabilization. In the manual group, reduction was performed using traction and manual manipulation under fluoroscopic guidance. Surgeons and patients were not blinded; radiographic outcome assessors and data analysts were blinded. Primary outcome was reduction quality assessed using Matta criteria (excellent \u2264 4 mm residual displacement, good 5 to 10 mm, acceptable 10 to 20 mm, poor > 20 mm), analyzed as the proportion of excellent to good reductions. Secondary outcomes included intraoperative surgeon fluoroscopic exposure and 12-week Majeed pelvic scores (0 to 100 points across seven domains; higher scores indicate better function). The primary analysis was intention to treat. RESULTS: In the intention-to-treat analysis, a higher proportion of patients who underwent robotic closed reduction achieved an excellent or good reduction than did those who received manual closed reduction (96% [44 of 46] versus 48% [22 of 46], relative risk 2.00 [95% confidence interval (CI) 1.47 to 2.72]; p < 0.001). Median (IQR) intraoperative surgeon fluoroscopic exposure was lower in the robotic closed reduction group (0 [0 to 0] versus 38 [14 to 78] fluoroscopic exposures; p < 0.001). No differences were found in 12-week Majeed functional scores between groups (mean \u00b1 SD 69 \u00b1 16 versus 71 \u00b1 17, mean difference -3 [95% CI -11 to 6]; p = 0.55). One superficial infection occurred in the manual closed reduction group, and there were no serious complications in either group. CONCLUSION: Surgeons treating acute displaced pelvic ring fractures should consider robotic closed reduction, when available, to improve reduction quality and reduce intraoperative fluoroscopic exposure, although it did not result in improved patient-reported outcome scores at short term in this randomized trial. Future studies should evaluate longer term functional benefits, define the fracture patterns most likely to benefit, and evaluate implementation factors including learning curve and cost-effectiveness across varied trauma settings. LEVEL OF EVIDENCE: Level I, therapeutic study.",
+      "pub_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42370806/",
+      "score": 79,
+      "score_reasoning": "Multicenter RCT from CORR (n=92) comparing robotic versus manual closed reduction for displaced pelvic fractures, providing Level I evidence on an emerging technology with direct clinical applicability for orthopaedic traumatologists.",
+      "bullets": [
+        "Robotic closed reduction achieved excellent or good alignment in 96% of displaced pelvic fractures versus 48% with manual reduction in this randomized trial of 92 patients.",
+        "Surgeons in the robotic group received zero intraoperative fluoroscopic exposures compared to a median of 38 in the manual group, a meaningful radiation reduction.",
+        "Despite better reduction quality, 12-week functional scores were similar between groups, so the long-term patient benefit of robotic reduction in pelvic fractures remains unclear."
+      ]
+    },
+    {
+      "pmid": "42382163",
+      "title": "The Efficacy and Safety of Tranexamic Acid in Revision Total Knee and Total Hip Arthroplasty: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Hoveidaei AH",
+        "Niakan R",
+        "Salmannezhad A",
+        "Pouramini A",
+        "Palmer R",
+        "Telang S",
+        "Heckmann ND"
+      ],
+      "authors_short": "Hoveidaei AH, Niakan R, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: This study evaluated 3 key aspects of tranexamic acid (TXA) use following revision total hip arthroplasty (rTHA) and revision total knee arthroplasty (rTKA): 1) its efficacy, including changes in hemoglobin, blood loss, blood transfusions, and red blood cell transfusions; 2) its safety, specifically venous thromboembolism including pulmonary embolism and deep vein thrombosis; and 3) the role of TXA administration, including the dose and route. METHODS: A comprehensive search was conducted across PubMed, Scopus, Cochrane Cochrane Central Register of Controlled Trials, Embase, and Web of Science through 2024. Studies comparing TXA treatment to non-TXA treatment in patients undergoing rTHA or rTKA were included. RESULTS: Our study included 27 studies with 10,248 patients (4700 in the TXA group and 5548 in the non-TXA group). A total of 25 studies were subjected to meta-analysis. Hemoglobin differences were significantly lower in TXA patients compared to non-TXA patients in both the rTHA (weighted mean difference [WMD] -0.79 g/dl, P = .016) and rTKA (WMD -0.64 g/dl, P = .048) groups. There was a significant reduction in red blood cell transfusion units in TXA patients compared to controls in both the rTHA (WMD 0.98, P = .006) and rTKA (WMD -0.49, P = .007) groups. Pooled analysis showed a significantly decreased blood transfusion rate in TXA patients in both rTHA (relative risk 0.56, P < .001) and rTKA (relative risk 0.40, P = .012) groups. Meta-analyses of venous thromboembolism complications showed no difference between the TXA and non-TXA groups (P > .05). CONCLUSIONS: TXA was found to be effective and safe in both rTHA and rTKA, regardless of administration dose or route.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42382163/",
+      "score": 78,
+      "score_reasoning": "Comprehensive meta-analysis of 27 studies with over 10,000 patients confirming TXA efficacy and safety in revision hip and knee arthroplasty, directly applicable to a common perioperative decision with clear magnitude-of-effect data.",
+      "bullets": [
+        "TXA significantly reduced blood transfusion rates in both revision hip and revision knee arthroplasty, cutting transfusion risk by roughly 44% and 60% respectively.",
+        "TXA did not increase rates of deep vein thrombosis or pulmonary embolism in revision arthroplasty patients across more than 10,000 cases.",
+        "These findings apply to revision hip and knee arthroplasty patients broadly, and the benefit held regardless of TXA dose or route of administration."
+      ]
+    },
+    {
+      "pmid": "42373027",
+      "title": "Optimal Route of Tranexamic Acid Administration in Total Knee Arthroplasty: A Bayesian Network Meta-Analysis With Decision-Analytic Cost Evaluation.",
+      "authors": [
+        "Hershfeld B",
+        "Le J",
+        "Xie K",
+        "Kelawy A",
+        "Klein B",
+        "Mont MA",
+        "Cohn RM",
+        "Bitterman AD"
+      ],
+      "authors_short": "Hershfeld B, Le J, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Tranexamic acid (TXA) is widely used in total knee arthroplasty (TKA) to reduce blood loss and transfusion; however, the optimal route of administration remains uncertain, particularly when considering both clinical outcomes and cost. METHODS: A Bayesian network meta-analysis of randomized controlled trials was performed comparing intravenous (IV), topical, oral, combined, and no TXA in TKA. The primary outcome was total blood loss. The secondary outcomes included hemoglobin (Hb) decrease, allogeneic transfusion, and venous thromboembolism (VTE). There were 40 randomized controlled trials included. A decision-analytic cost model was constructed using transfusion as the economic endpoint, incorporating drug acquisition costs and transfusion-related hospitalization costs. RESULTS: All TXA routes significantly reduced total blood loss, Hb decline, and transfusion risk compared with no TXA. Combined regimens ranked highest for efficacy, demonstrating the greatest reduction in blood loss (-400 mL; 95% credible intervals (CrI) -512 to -291) and transfusion risk (relative risk (RR) 0.251; 95% CrI 0.117 to 0.468). Differences among oral, IV, and topical strategies were modest. There was no increase in VTE risk observed across TXA routes. In cost analyses, oral TXA had the lowest expected per-patient cost ($129.43), followed by IV ($185.52), topical ($227.69), and combined ($256.17). Oral TXA remained the most cost-effective strategy across all sensitivity analyses. CONCLUSIONS: All TXA routes effectively reduce blood loss and transfusion in TKA without increased VTE risk. Although combined regimens demonstrate the greatest efficacy, oral TXA provides the most favorable balance of efficacy, safety, cost, and ease of administration, supporting its use as a pragmatic default strategy in routine primary TKA.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42373027/",
+      "score": 77,
+      "score_reasoning": "Bayesian network meta-analysis of 40 RCTs in JBJS-level journal identifying oral TXA as the most cost-effective route in TKA, providing actionable guidance for protocol optimization with strong study design and economic modeling.",
+      "bullets": [
+        "In TKA, all routes of tranexamic acid reduce blood loss and transfusion risk equally well, with no increased VTE risk across any route.",
+        "Combined regimens cut blood loss the most, but differences between oral, IV, and topical routes are clinically small.",
+        "Oral tranexamic acid costs roughly $129 per patient versus $256 for combined regimens, making it the most cost-effective default choice for routine primary TKA."
+      ]
+    },
+    {
+      "pmid": "42373147",
+      "title": "The Impact of Anticoagulant Choice on Rates of Manipulation Under Anesthesia, Hematoma Formation, and Venous Thromboembolic Events.",
+      "authors": [
+        "Crowley B",
+        "Hollimon M",
+        "Joaquin T",
+        "Lawrence J",
+        "Levine BR"
+      ],
+      "authors_short": "Crowley B, Hollimon M, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Anticoagulation after total knee arthroplasty (TKA) remains a balance between clot prevention and postoperative bleeding. This study aimed to analyze anticoagulant choice for deep vein thrombosis prophylaxis on rates of stiffness requiring manipulation under anesthesia (MUA) and hematoma formation after TKA. METHODS: A large national database was queried for all primary TKAs. We included patients who filled a prescription for an anticoagulant within three days before or five days after surgery. We excluded those who filled prescriptions for multiple or no anticoagulants. Logistic regression was used to compare potent anticoagulants (warfarin, Xa inhibitors, and low molecular weight heparin (LMWH)) to our control group receiving aspirin. The primary outcomes of interest were MUA or hematoma formation within 90 days postoperatively. After applying the exclusion criteria, 462,869 patients were available to review. Of those, 148,159 (32.05%) received aspirin, followed by factor Xa inhibitors (123,909 [26.80%]), warfarin (96,338 [20.84%]), and LMWH (84,962 [18.38%]). RESULTS: Using logistic regression analyses, patients receiving factor Xa inhibitors (odds ratio [OR] 1.38 [95% confidence interval (CI) 1.32 to 1.43]), indirect factor Xa inhibitors (OR 1.33, [95% CI 1.19 to 1.48]), warfarin (OR 1.29 [95% CI 1.23 to 1.35]), and LMWH (OR 1.26, [95% CI 1.20 to 1.32]) had higher rates of MUA than the aspirin cohort. Additionally, when compared to aspirin, those receiving LMWH (OR 1.69 [95% CI 1.46 to 1.96]), indirect factor Xa inhibitors (OR 1.62 [95% CI 1.13 to 2.26]), direct factor Xa inhibitors (OR 1.55 [95% CI 1.35 to 1.78]), and warfarin (OR 1.33 [95% CI 1.14 to 1.55]) were at a significantly higher risk of hematoma formation. CONCLUSIONS: The use of aspirin for deep vein thrombosis prophylaxis after TKA is associated with a significantly lower risk of undergoing MUA and hematoma formation, without increasing the clotting risk profile, than more potent anticoagulants.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42373147/",
+      "score": 76,
+      "score_reasoning": "Large database study (462,869 TKA patients) demonstrating that aspirin is associated with lower rates of MUA and hematoma compared to potent anticoagulants, directly informing one of the most common perioperative decisions after TKA.",
+      "bullets": [
+        "After total knee arthroplasty, patients on aspirin had lower rates of manipulation under anesthesia and hematoma formation than those on warfarin, factor Xa inhibitors, or LMWH.",
+        "This finding applies to primary TKA patients who are appropriate candidates for aspirin-based DVT prophylaxis, based on data from over 460,000 cases.",
+        "Surgeons can reassure patients and care teams that aspirin prophylaxis after TKA does not increase clotting risk while reducing the chance of stiffness requiring manipulation and postoperative hematoma."
+      ]
+    },
+    {
+      "pmid": "42376631",
+      "title": "Trends and Outcomes in Technology-Assisted Total Knee Arthroplasty in the United States From 2020 to 2024.",
+      "authors": [
+        "Kim MS",
+        "Brunette M",
+        "Pham E",
+        "Soriano K",
+        "DiGiovanni R",
+        "Hsiue P"
+      ],
+      "authors_short": "Kim MS, Brunette M, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Technology-assisted total knee arthroplasty (TA-TKA), including computer navigation and robotic assistance, has been developed to improve implant alignment and soft tissue balance. While utilization has increased, evidence regarding clinical benefit remains mixed. This study evaluated national and regional utilization trends of TA-TKA and compared postoperative complication rates with manual TKA (M-TKA). METHODS: Patients undergoing primary TKA between January 1, 2020, and December 31, 2024, were identified in the TriNetX United States Collaborative Network. Patient demographics, hospital characteristics, and postoperative complications were obtained. Cohorts were 1:1 propensity score matched for sex, body mass index, and comorbidities. Surgical complications were compared at 0-30 days, 31-90 days, and 91 days-3 years between M-TKA and TA-TKA cohorts. In addition, subanalysis was conducted comparing 3-year surgical complication rates between TA-TKA and M-TKA, stratified by region. RESULTS: Of 198,263 TKA patients, 147,156 underwent M-TKA and 39,624 underwent TA-TKA. TA-TKA utilization increased by 375%, from 11.9% in 2020 to 27.0% in 2024 (P < .0001). After matching, TA-TKA was associated with lower risks of periprosthetic fracture, deep infection, revision surgery, and aseptic loosening (all P \u2264 .031). Across all regions, statistically significant findings demonstrated decreased risk of surgical complications at 3 years associated with TA-TKA when compared to M-TKA (P < .001). CONCLUSIONS: TA-TKA utilization has more than doubled in recent years, though adoption remains variable across regions and institutions. Compared with M-TKA, TA-TKA was associated with significantly lower surgical complication rates through 3 years of follow-up. These findings support continued adoption of TA-TKA and highlight the need for further research on long-term outcomes and cost-effectiveness.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42376631/",
+      "score": 75,
+      "score_reasoning": "Large national database study (198,263 TKA patients) demonstrating a 375% increase in technology-assisted TKA utilization with improved outcomes including lower revision and infection rates, providing contemporary practice-level evidence on an increasingly prevalent surgical approach.",
+      "bullets": [
+        "Technology-assisted total knee arthroplasty use grew from 12% to 27% of all primary TKAs in the United States between 2020 and 2024.",
+        "Compared to manual TKA, technology-assisted TKA was associated with lower rates of periprosthetic fracture, deep infection, aseptic loosening, and revision surgery at three years across all regions.",
+        "For surgeons performing primary TKA, this large national dataset supports technology-assisted techniques as a way to reduce surgical complications, though long-term data and cost analysis are still needed."
+      ]
+    },
+    {
+      "pmid": "42377450",
+      "title": "Dementia as a Marker of Poor Outcome After Hip Hemiarthroplasty.",
+      "authors": [
+        "Vu NH",
+        "Olson D",
+        "Hammond B",
+        "Egol KA",
+        "Konda SR",
+        "Ganta A"
+      ],
+      "authors_short": "Vu NH, Olson D, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "PURPOSE: To evaluate the effect of baseline dementia on postoperative outcomes in hip fracture patients undergoing hemiarthroplasty. METHODS: A retrospective review was conducted of patients aged 55 years or older who underwent hemiarthroplasty for displaced femoral neck fracture (AO/OTA 31B) between 2012 and 2024 at a large urban academic institution. Dementia was identified by ICD-10 codes and confirmed by chart review. A 3:1 propensity score matched cohort was created using the Score for Trauma Triage in Geriatric and Middle-aged (STTGMA). Demographics and baseline characteristics were compared to ensure similarity. Outcomes included total complications, major and minor complications, periprosthetic dislocation, length of stay, ICU admission, discharge location, 30- and 90-day readmission, revision surgery, inpatient, and 30-day and 1-year mortality. RESULTS: A total of 1,030 patients were included, with 241 patients with dementia and 839 controls. After 3:1 STTGMA propensity matching, baseline characteristics were comparable (mean age 82.75 vs. 83.0 years, P = 0.065; Charlson Comorbidity Index 1.96 vs. 1.92, P = 0.42; STTGMA 0.022 vs. 0.020, P = 0.50). Patients with dementia had increased major complications (17.92% vs. 10.93%, P = 0.013), including sepsis (5.00% vs. 2.21%, P = 0.027), urinary tract infections (13.33% vs. 6.78%, P = 0.002), and hip hemiarthroplasty dislocations (6.25% vs. 2.21%, P = 0.002). Patients with dementia also had longer length of stay (7.84 \u00b1 5.83 vs. 6.80 \u00b1 2.24 days, P = 0.030), increased 30-day readmissions (15.83% vs. 8.85%, P < 0.001), increased 90-day readmission (20.00% vs. 11.76%, P < 0.001), and higher 1-year mortality (16.25% vs. 8.02%, P < 0.001). No differences were observed in pneumonia, stroke, myocardial infarction, cardiac arrest, venothromboembolism, acute kidney injury, anemia, and revision surgery. CONCLUSION: Dementia was associated with increased major complications, hip hemiarthroplasty dislocations, higher readmission, and mortality after hemiarthroplasty. These findings highlight the need for targeted perioperative planning and multidisciplinary care pathways in cognitively impaired patients.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42377450/",
+      "score": 73,
+      "score_reasoning": "Well-designed propensity-matched retrospective study of 1,030 patients from JAAOS demonstrating that dementia significantly increases major complications, dislocation, and mortality after hip hemiarthroplasty, providing directly actionable data for shared decision-making in a common geriatric fracture.",
+      "bullets": [
+        "Hip fracture patients with dementia had roughly twice the dislocation rate, twice the 30-day readmission rate, and twice the 1-year mortality compared to matched controls after hemiarthroplasty.",
+        "These risks apply to elderly patients aged 80 or older undergoing hemiarthroplasty for displaced femoral neck fracture, even after controlling for overall health status and comorbidity burden.",
+        "Surgeons should flag dementia preoperatively to trigger multidisciplinary perioperative planning, with particular attention to dislocation precautions, infection prevention, and post-discharge support."
+      ]
+    },
+    {
+      "pmid": "42357876",
+      "title": "Fix or Replace: Evidence for Treatment Options in the Management of Femoral Neck Fractures.",
+      "authors": [
+        "Nauth A",
+        "Schemitsch G",
+        "Schmidt A",
+        "Schemitsch E"
+      ],
+      "authors_short": "Nauth A, Schemitsch G, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "Femoral neck fractures are highly morbid injuries in elderly populations and can be challenging to treat. Surgical management can consist of internal fixation or arthroplasty after careful consideration of injury and patient factors. There has been a trend toward increased usage of acute arthroplasty in the management of femoral neck fractures. The present review aims to evaluate treatment indications, technical considerations, and treatment outcomes in the management of hip trauma with both internal fixation and arthroplasty.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42357876/",
+      "score": 72,
+      "score_reasoning": "Femoral neck fracture management review from JAAOS synthesizing internal fixation versus arthroplasty evidence with treatment algorithms, highly relevant to one of the most common and consequential orthopaedic injuries in an aging population.",
+      "bullets": [
+        "For displaced femoral neck fractures in elderly patients, arthroplasty has become the preferred treatment over internal fixation due to lower rates of revision surgery.",
+        "Internal fixation remains appropriate for younger patients and non-displaced fractures, where preserving the native hip joint is the priority.",
+        "Surgeon selection between total hip arthroplasty and hemiarthroplasty should account for patient activity level, acetabular cartilage quality, and functional demand."
+      ]
+    },
+    {
+      "pmid": "42340609",
+      "title": "Quadriceps tendon autograft provides comparable stability and functional outcomes with lower donor-site morbidity than bone-patellar tendon-bone: A systematic review and meta-analysis of 15 randomized controlled trials with GRADE evidence.",
+      "authors": [
+        "Khalafallah MA",
+        "Hall OK",
+        "Elmenawy Z",
+        "Ibrahim KSM",
+        "Ghoneim OM",
+        "Raizah A",
+        "Alqahtani T",
+        "Zaki MSA",
+        "Imam MA"
+      ],
+      "authors_short": "Khalafallah MA, Hall OK, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To compare clinical and functional outcomes after primary anterior cruciate ligament reconstruction (ACLR) using quadriceps tendon (QT) autografts versus bone-patellar tendon-bone (BPTB) and, separately, QT versus hamstring tendon (HT) autografts, to inform evidence-based graft selection. METHODS: We performed a Cochrane-guided systematic review and meta-analysis. Searches of PubMed, Scopus, Cochrane Library, SPORTDiscus, Cumulative Index to Nursing and Allied Health Literature (CINAHL), Web of Science and major trial registries through November 2025 identified randomized controlled trials (RCTs) comparing QT with HT or BPTB in adults undergoing primary ACLR. Random-effects models (REML) were used to pool mean differences/standardized mean differences and risk ratios. Heterogeneity was quantified using I2 and Q statistics. Sensitivity analyses (leave-one-out) and the GRADE (Grading of Recommendations, Assessment, Development and Evaluation) approach were applied. When pooling was infeasible, a structured narrative synthesis was provided. RESULTS: Fifteen RCTs (2014-2025) were included. Objective anterior stability (KT-1000) showed no significant difference between QT and HT at 12 or 24 months and no significant difference between QT and BPTB at 12 months. Patient-reported outcomes (International Knee Documentation Committee, Lysholm, Knee Injury and Osteoarthritis Outcome Score [KOOS], Tegner) were largely equivalent at 12-24 months. After resolving inconsistencies due to non-exchangeable constructs/comparators, a small 12-month KOOS signal favoured QT, while 24-month effects remained null. Graft failure rates were comparable for QT versus HT and QT versus BPTB. Donor-site morbidity was substantially lower with QT versus BPTB; QT versus HT showed no significant difference. Pivot-shift favoured QT, but not significantly; postoperative stiffness did not differ. Overall certainty was mostly moderate (downgrades for imprecision and occasional indirectness); donor-site morbidity versus BPTB reached high certainty. CONCLUSION: Across randomized evidence up to 24 months, QT provides stability and patient-reported outcomes comparable to HT and BPTB, with clearly lower donor-site morbidity compared to BPTB and no excess failure compared to HT. QT is an evidence-supported alternative for primary ACLR; longer, adequately powered, construct-specific RCTs are needed for guideline-level certainty. LEVEL OF EVIDENCE: Level I, systematic review of Level I randomized controlled studies.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42340609/",
+      "score": 71,
+      "score_reasoning": "Meta-analysis of 15 RCTs with GRADE evidence comparing quadriceps tendon versus BPTB and hamstring autografts for ACLR, providing the highest level of evidence on graft selection for one of the most commonly performed sports procedures.",
+      "bullets": [
+        "Quadriceps tendon autograft produces knee stability and patient-reported outcomes equivalent to both bone-patellar tendon-bone and hamstring tendon grafts at up to 24 months after ACL reconstruction.",
+        "Donor-site morbidity is significantly lower with quadriceps tendon compared to bone-patellar tendon-bone, with high-certainty evidence supporting this finding.",
+        "For surgeons selecting a graft in primary ACL reconstruction, quadriceps tendon is a well-supported option, particularly when minimising anterior knee pain and patellar tendon harvest complications is a priority."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-07-01T05:33:23.274465-07:00"
+}
