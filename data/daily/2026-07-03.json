@@ -1,0 +1,303 @@
+{
+  "brief_date": "2026-07-03",
+  "brief_date_display": "Friday, July 03",
+  "candidates": [
+    {
+      "pmid": "42391519",
+      "title": "Uncorrected Preoperative Malnutrition Is Associated with Worse Outcomes After Operative Fixation of Diaphyseal Tibial Fractures.",
+      "authors": [
+        "Pereira DE",
+        "McCoy L",
+        "Harrison NJ",
+        "Bushe K",
+        "Kotzur T",
+        "McAndrew C",
+        "Berkes M",
+        "Obey M",
+        "Wilson JL"
+      ],
+      "authors_short": "Pereira DE, McCoy L, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To evaluate whether serum markers of malnutrition were associated with postoperative complications after tibial shaft fracture fixation, and whether postoperative correction mitigates this risk. METHODS: Design: Retrospective cohort study. SETTING: Multicenter (50 healthcare centers; North American national database). PATIENT SELECTION CRITERIA: Adult patients \u226518 years of age undergoing fixation of tibial shaft fractures (OTA/AO 42) between January 1, 2013, and December 31, 2022, with a minimum of one year of follow-up were included. Patients with a history of malignancy or Gustilo-Anderson type III open fractures were excluded from the study. OUTCOMES MEASURES AND COMPARISONS: The primary outcome was the occurrence of postoperative complications. Patients with serum markers for malnutrition were compared to matched controls. Malnourished patients with subsequently normalized serum markers were compared to previously matched healthy cohorts and cohorts with persistent malnutrition. RESULTS: Following matching, a total of 10,722 patients were included for primary analysis: 5,361 malnourished patients with mean age 52 (range 18-90), 53.6% male and 5,361 control with mean age 53.2 (range 18-90) with 52.9% male. Preoperative malnutrition was associated with significantly higher rates of postoperative complications, including nonunion (RR=1.4), revision surgery (RR>1.4), infection (RR>2.0), failure of fixation (RR=1.3), thromboembolic events (RR>2.0), and sepsis (RR>2.0) (all p < 0.001). Among patients with preoperative malnutrition, those with uncorrected postoperative serum markers demonstrated higher risks of nonunion, revision, infection, and implant failure compared to those with serum markers that were corrected postoperatively (RR>2.0, all p<0.001). However, when compared to patients with normal preoperative nutrition values, individuals with postoperatively corrected malnutrition remained at increased risk for revision and infection (RR>1.4, all p=0.002) but not nonunion (6.5% vs. 5.6%, p>0.05) or failure of fixation (4.6% vs. 4.1%, p>0.05). CONCLUSIONS: Malnutrition was associated with adverse surgical outcomes following tibial shaft fracture fixation, with significantly higher rates of nonunion, revision procedures, infection, wound complications, thromboembolic events, and medical morbidity compared with patients with normal preoperative nutrition. Postoperative correction of nutritional deficiencies reduced complication risk; however, residual risk remained elevated relative to patients with normal preoperative nutritional markers. These findings highlight malnutrition as a partially modifiable risk factor in tibial shaft fracture repair and support nutritional optimization as a part of postoperative management to improve patient outcomes. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42391519/",
+      "score": 82,
+      "score_reasoning": "Large multicenter retrospective cohort (10,722 matched patients) from 50 centers examining actionable risk factors for complications after tibial shaft fracture fixation, with directly applicable finding that correcting malnutrition mitigates risk, published in a respected trauma journal.",
+      "bullets": [
+        "Malnourished adults undergoing tibial shaft fracture fixation had more than double the rates of infection, clot, and sepsis compared to well-nourished patients.",
+        "Correcting malnutrition after surgery reduced complication rates, but revision and infection risk remained elevated even after nutritional markers normalized.",
+        "Nutritional screening and optimisation should be standard in the perioperative management of tibial shaft fractures, ideally starting before the operating room."
+      ]
+    },
+    {
+      "pmid": "42377395",
+      "title": "Patients with obesity have a higher risk of periprosthetic joint infection and more frequent polymicrobial infections after knee arthroplasty: A nationwide register-based study from Denmark.",
+      "authors": [
+        "Aljuboori SM",
+        "Jimenez-Solem E",
+        "Calum H",
+        "Christensen R",
+        "Overgaard S"
+      ],
+      "authors_short": "Aljuboori SM, Jimenez-Solem E, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To compare the 2-year incidence of (1) revision due to periprosthetic joint infection (PJI) and (2) all-cause revision after primary knee arthroplasty (KA) in patients with/without obesity and to compare the microbial profiles in early (\u2264\u200990 days) and late (91-730 days) PJI. METHODS: A nationwide, register-based cohort of patients undergoing primary total or unicompartmental KA for osteoarthritis in Denmark (2011-2023). Patients were stratified by body mass index (BMI), with obesity defined as BMI\u2009\u2265\u200930\u2009kg/m2. Cox proportional hazards models estimated hazard ratios (HRs) with corresponding two-sided 95% confidence intervals (95% CIs) for PJI and all-cause revision within 2 years. Analyses included crude and propensity score-adjusted models based on health and socioeconomic data. Microbial profiles were compared using absolute risk difference (ARD) with 95% CIs in the early and late post-operative periods. RESULTS: Among 111,117 eligible patients, 41,306 had obesity (mean BMI: 34.6) and 59,993 did not (mean BMI: 26.1). Patients with obesity were slightly younger and had higher use of glucose-lowering medication. Patients with obesity had a higher risk of PJI revision than those without obesity (482 [1.2%] vs. 559 [0.9%]; crude HR: 1.25 [1.11-1.42], and propensity-adjusted HR: 1.30, 95% CI: 1.14-1.48). The adjusted risk of all-cause revision was comparable (1494 [3.6%] vs. 1893 [3.2%]; HR: 1.05, 95% CI: 0.98-1.13). Within 90 days, patients with obesity had more polymicrobial infections (62 [18.5%] vs. 43 [11.3%]; ARD: 7.2%, 95% CI: 2.0%-12.5%) and more non-staphylococcal gram-positive organisms (69 [21%] vs. 54 [14%]; ARD: 6.3%, 95% CI: 0.8%-12%). Staphylococcus aureus was the most frequent pathogen in both groups (127 [38%] vs. 136 [36%]; ARD: 2.0%, 95% CI: -5.1% to 9.1%). CONCLUSIONS: Obesity was associated with an increased 2-year risk of PJI after KA; however, the risk of all-cause revision was comparable to that in patients without obesity. Within 90 days, patients with obesity exhibited a higher incidence of polymicrobial infections and non-staphylococcal gram-positive organisms. LEVEL OF EVIDENCE: Level II, prognostic studies-investigating natural history and evaluating the effect of a patient characteristic.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42377395/",
+      "score": 80,
+      "score_reasoning": "Large propensity-matched cohort (1,030 patients) from JAAOS examining dementia's impact on hemiarthroplasty outcomes with highly clinically relevant findings on dislocation, sepsis, UTI, and mortality that directly affect perioperative decision-making and counseling.",
+      "bullets": [
+        "Obese patients undergoing knee arthroplasty have a 30% higher risk of revision for periprosthetic joint infection within 2 years compared to non-obese patients, with no significant difference in overall revision rates.",
+        "Within 90 days of surgery, obese patients are more likely to develop polymicrobial infections, making empiric antibiotic coverage more complex in this group.",
+        "Orthopaedic surgeons should counsel obese patients that their infection risk is meaningfully elevated, even though their overall implant survival is similar to non-obese patients."
+      ]
+    },
+    {
+      "pmid": "42391570",
+      "title": "An analysis of risk factors for failure after operative treatment of displaced femoral neck fractures in patients 18-60 years of age.",
+      "authors": [
+        "Roddy E",
+        "Rockov Z",
+        "Firoozabadi R"
+      ],
+      "authors_short": "Roddy E, Rockov Z, Firoozabadi R",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To identify risk factors for failure after operative treatment of displaced femoral neck fractures in patients 60 years of age and younger. METHODS: Design: Retrospective cohort study. SETTING: Single level 1 academic trauma center. PATIENT SELECTION CRITERIA: All patients ages 18-60 years who underwent operative fixation of a displaced femoral neck fracture (AO/OTA 31B) between 2005 and 2024 were eligible for inclusion. Patients who were lost to follow-up prior to 6 months, or who had clear indications for hemiarthroplasty but underwent fixation due to medical and or social circumstances, were excluded. OUTCOME MEASURES AND COMPARISONS: The primary outcome was treatment failure, defined as femoral neck nonunion/fixation failure, development of avascular necrosis (AVN), and/or malunion (shortening \u2265 15mm or varus angulation). Patient, injury, and treatment factors were examined as risk factors for failure. RESULTS: Two hundred and twenty-three patients were included. The average age was 39 years (SD 12, range 18-60) and 78% were male. The rates of nonunion/fixation failure, AVN, and malunion were 13%, 19%, and 5%, respectively. The overall failure rate was 30%. In multivariable analysis, increased initial fracture displacement (OR 7.1, 95% CI 1.5-33.5, p=0.013), treatment with cannulated screws versus a fixed angle implant (OR 3.7, 95% CI 1.4-10.0, p=0.009), and good (rather than excellent) reduction (OR 5.6, 95% CI 2.0-15.7, p=0.001) were independently associated with nonunion/fixation failure. In multivariable analysis, medial fracture exit <1cm from the cranial edge of the lesser trochanter was associated with a decreased risk of AVN (OR 0.13, 95% CI 0.03-0.64, p=0.011), while increasing age (OR 1.07, 95% CI 1.01-1.15, p=0.036) and low energy mechanism (OR 9.5, 95% CI 2.4-38.6, p=0.002) were associated with increased risk of malunion. In univariable analysis, treatment with a static vs dynamic implant was not associated with risk of AVN, nonunion/fixation failure, or malunion (p>0.05 for all). CONCLUSIONS: In patients aged 18-60 with displaced femoral neck fractures treated with operative fixation, the overall failure rate (including AVN, nonunion, and malunion) was 30%. Medial fracture exit < 1cm from the cranial edge of the lesser trochanter was protective against the development of AVN. Increased initial fracture displacement, treatment with non-fixed angle implants, and achieving only good (rather than excellent) reduction were independently associated with increased risk of nonunion. LEVEL OF EVIDENCE: III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42391570/",
+      "score": 79,
+      "score_reasoning": "Clinically important retrospective cohort of 223 patients identifying that cannulated screws vs fixed-angle implants (OR 3.7) and poor reduction (OR 5.6) independently predict failure in young femoral neck fracture patients, with direct surgical decision-making implications published in Journal of Orthopaedic Trauma.",
+      "bullets": [
+        "In adults under 60 with displaced femoral neck fractures treated with fixation, the overall failure rate was 30%, including 19% AVN and 13% nonunion.",
+        "Cannulated screws, greater initial displacement, and anything less than an excellent reduction each independently increased the risk of nonunion, supporting use of fixed-angle implants and prioritizing anatomic reduction.",
+        "A fracture exit point within 1 cm of the lesser trochanter on the medial side was protective against AVN, a useful intraoperative anatomic reference for younger patients undergoing femoral neck fixation."
+      ]
+    },
+    {
+      "pmid": "42370806",
+      "title": "What Is the Effect of Robot Reduction in Displaced Pelvic Fractures? A Multicenter Randomized Clinical Trial.",
+      "authors": [
+        "Zhao C",
+        "Ge Y",
+        "Cao Q",
+        "Yang M",
+        "Gao F",
+        "Xiao H",
+        "Liu G",
+        "Sun D",
+        "Yu B",
+        "Jia J",
+        "Wu Z",
+        "Wang Y",
+        "Wu X"
+      ],
+      "authors_short": "Zhao C, Ge Y, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Displaced pelvic fractures present real surgical challenges because of complex three-dimensional deformity patterns and proximity to vital structures, with conventional manual reduction techniques limited by accuracy constraints and radiation exposure. Although robotic assistance shows promise in preclinical studies, its clinical effectiveness remains unproven in randomized clinical trials (RCTs). QUESTIONS/PURPOSES: (1) Does robotic closed reduction improve reduction quality compared with manual closed reduction in displaced pelvic fractures? (2) Can robotic closed reduction reduce intraoperative radiation exposure while maintaining functional outcomes? METHODS: In this multicenter RCT conducted at six tertiary trauma centers in China involving 10 senior orthopaedic traumatologists, 92 adult patients with acute closed, displaced pelvic fractures (Tile Type B or C) were randomized 1:1 to robotic closed reduction (n = 46) or manual closed reduction (n = 46) groups. At 12 weeks, loss to follow-up for patient-reported outcomes was 9% (4 of 46) in the robotic group and 4% (2 of 46) in the manual group; the remainder were handled in a prespecified per-protocol analysis. In the robot group, reduction was planned using CT-based three-dimensional reconstruction with contralateral pelvic symmetry as the target and executed by a robotic arm with adjunct elastic traction and contralateral pelvic stabilization. In the manual group, reduction was performed using traction and manual manipulation under fluoroscopic guidance. Surgeons and patients were not blinded; radiographic outcome assessors and data analysts were blinded. Primary outcome was reduction quality assessed using Matta criteria (excellent \u2264 4 mm residual displacement, good 5 to 10 mm, acceptable 10 to 20 mm, poor > 20 mm), analyzed as the proportion of excellent to good reductions. Secondary outcomes included intraoperative surgeon fluoroscopic exposure and 12-week Majeed pelvic scores (0 to 100 points across seven domains; higher scores indicate better function). The primary analysis was intention to treat. RESULTS: In the intention-to-treat analysis, a higher proportion of patients who underwent robotic closed reduction achieved an excellent or good reduction than did those who received manual closed reduction (96% [44 of 46] versus 48% [22 of 46], relative risk 2.00 [95% confidence interval (CI) 1.47 to 2.72]; p < 0.001). Median (IQR) intraoperative surgeon fluoroscopic exposure was lower in the robotic closed reduction group (0 [0 to 0] versus 38 [14 to 78] fluoroscopic exposures; p < 0.001). No differences were found in 12-week Majeed functional scores between groups (mean \u00b1 SD 69 \u00b1 16 versus 71 \u00b1 17, mean difference -3 [95% CI -11 to 6]; p = 0.55). One superficial infection occurred in the manual closed reduction group, and there were no serious complications in either group. CONCLUSION: Surgeons treating acute displaced pelvic ring fractures should consider robotic closed reduction, when available, to improve reduction quality and reduce intraoperative fluoroscopic exposure, although it did not result in improved patient-reported outcome scores at short term in this randomized trial. Future studies should evaluate longer term functional benefits, define the fracture patterns most likely to benefit, and evaluate implementation factors including learning curve and cost-effectiveness across varied trauma settings. LEVEL OF EVIDENCE: Level I, therapeutic study.",
+      "pub_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42370806/",
+      "score": 78,
+      "score_reasoning": "Large multicenter RCT (92 patients across 6 centers) from CORR demonstrating robotic closed reduction improves reduction quality and reduces radiation exposure in displaced pelvic fractures, representing high-level evidence for an emerging technology in a challenging clinical scenario.",
+      "bullets": [
+        "In a randomized trial of 92 adults with displaced pelvic fractures, robotic closed reduction achieved excellent or good reduction in 96% of cases compared to 48% with manual reduction.",
+        "Surgeons in the robotic group received zero fluoroscopic exposures intraoperatively, versus a median of 38 in the manual group, a meaningful radiation reduction for the operating team.",
+        "Despite better reduction quality, 12-week functional scores were similar between groups, so longer follow-up is needed before robotic reduction can be recommended on functional outcomes alone."
+      ]
+    },
+    {
+      "pmid": "42357876",
+      "title": "Fix or Replace: Evidence for Treatment Options in the Management of Femoral Neck Fractures.",
+      "authors": [
+        "Nauth A",
+        "Schemitsch G",
+        "Schmidt A",
+        "Schemitsch E"
+      ],
+      "authors_short": "Nauth A, Schemitsch G, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "Femoral neck fractures are highly morbid injuries in elderly populations and can be challenging to treat. Surgical management can consist of internal fixation or arthroplasty after careful consideration of injury and patient factors. There has been a trend toward increased usage of acute arthroplasty in the management of femoral neck fractures. The present review aims to evaluate treatment indications, technical considerations, and treatment outcomes in the management of hip trauma with both internal fixation and arthroplasty.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42357876/",
+      "score": 77,
+      "score_reasoning": "Large registry-based cohort from JBJS of 35,139 ACL reconstructions examining the impact of concomitant MCL injury and graft choice on revision rates and PROMs, providing high-powered Level 3 evidence directly applicable to surgical planning.",
+      "bullets": [
+        "In elderly patients with displaced femoral neck fractures, arthroplasty is increasingly favoured over internal fixation due to lower rates of reoperation and failure.",
+        "Internal fixation remains appropriate for younger patients and those with non-displaced or minimally displaced fractures where preserving the femoral head is the priority.",
+        "The choice between hemiarthroplasty and total hip arthroplasty should account for patient activity level, acetabular health, and cognitive status."
+      ]
+    },
+    {
+      "pmid": "42382163",
+      "title": "The Efficacy and Safety of Tranexamic Acid in Revision Total Knee and Total Hip Arthroplasty: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Hoveidaei AH",
+        "Niakan R",
+        "Salmannezhad A",
+        "Pouramini A",
+        "Palmer R",
+        "Telang S",
+        "Heckmann ND"
+      ],
+      "authors_short": "Hoveidaei AH, Niakan R, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: This study evaluated 3 key aspects of tranexamic acid (TXA) use following revision total hip arthroplasty (rTHA) and revision total knee arthroplasty (rTKA): 1) its efficacy, including changes in hemoglobin, blood loss, blood transfusions, and red blood cell transfusions; 2) its safety, specifically venous thromboembolism including pulmonary embolism and deep vein thrombosis; and 3) the role of TXA administration, including the dose and route. METHODS: A comprehensive search was conducted across PubMed, Scopus, Cochrane Cochrane Central Register of Controlled Trials, Embase, and Web of Science through 2024. Studies comparing TXA treatment to non-TXA treatment in patients undergoing rTHA or rTKA were included. RESULTS: Our study included 27 studies with 10,248 patients (4700 in the TXA group and 5548 in the non-TXA group). A total of 25 studies were subjected to meta-analysis. Hemoglobin differences were significantly lower in TXA patients compared to non-TXA patients in both the rTHA (weighted mean difference [WMD] -0.79 g/dl, P = .016) and rTKA (WMD -0.64 g/dl, P = .048) groups. There was a significant reduction in red blood cell transfusion units in TXA patients compared to controls in both the rTHA (WMD 0.98, P = .006) and rTKA (WMD -0.49, P = .007) groups. Pooled analysis showed a significantly decreased blood transfusion rate in TXA patients in both rTHA (relative risk 0.56, P < .001) and rTKA (relative risk 0.40, P = .012) groups. Meta-analyses of venous thromboembolism complications showed no difference between the TXA and non-TXA groups (P > .05). CONCLUSIONS: TXA was found to be effective and safe in both rTHA and rTKA, regardless of administration dose or route.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42382163/",
+      "score": 76,
+      "score_reasoning": "Target trial emulation with 6,769 patients comparing surgical fixation vs cast for scaphoid fractures in a Chinese population replicating SWIFFT, finding statistically significant but clinically modest DASH improvements with surgery, adding important generalizability data to a highly debated topic.",
+      "bullets": [
+        "TXA significantly reduced transfusion rates in both revision hip and revision knee arthroplasty, cutting transfusion risk roughly in half compared to no TXA.",
+        "TXA did not increase rates of DVT or pulmonary embolism in revision arthroplasty patients across more than 10,000 cases.",
+        "These findings apply to all revision hip and knee patients regardless of TXA dose or route, supporting routine use in revision orthopaedic cases."
+      ]
+    },
+    {
+      "pmid": "42377380",
+      "title": "Defining sagittal knee phenotypes via monopedal static anterior tibial translation. Part 2: The assessment-led personalization (ALP) system for indication and correction target planning in slope-reducing osteotomy.",
+      "authors": [
+        "Kayaalp ME",
+        "Kahraman HC",
+        "Erden T",
+        "Lutter C",
+        "Scheffler S",
+        "Taser O",
+        "Becker R",
+        "Hirschmann MT",
+        "Dejour DH"
+      ],
+      "authors_short": "Kayaalp ME, Kahraman HC, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "Current decision-making for slope-reducing osteotomy (SRO) often relies on isolated posterior tibial slope (PTS) thresholds, potentially misidentifying patients with acquired soft-tissue decompensation or possibly overtreating those with an asymptomatic, inherently hyperlax baseline. Furthermore, rigid point-based scoring systems oversimplify the synergistic biomechanics of the anterior cruciate ligament-deficient knee. Building on the foundational 'Set-Point' theory established in Part 1, this paper introduces the assessment-led personalization (ALP) system. This unified clinical algorithm integrates the normalized percentage of absolute static anterior tibial translation (sATT%) and its side-to-side difference (\u0394sATT%) with PTS laterality, generalized hyperlaxity, and injury chronicity. By mathematically calibrating raw translation data to isolate true soft-tissue decompensation from underlying osseous asymmetry, the ALP system provides a proactive, joint-preserving framework to identify high-risk phenotypes likely to fail isolated soft-tissue reconstruction and precisely refines the indications for SRO. LEVEL OF EVIDENCE: Level V.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42377380/",
+      "score": 75,
+      "score_reasoning": "Nationwide register-based study from Denmark of 111,117 knee arthroplasty patients with rigorous propensity-adjusted analyses showing obesity significantly increases PJI revision risk (HR 1.30) and alters microbial profiles, with major preoperative counseling and risk stratification implications.",
+      "bullets": [
+        "This paper introduces a clinical algorithm that combines tibial slope, side-to-side anterior tibial translation, and patient laxity to guide who actually needs a slope-reducing osteotomy.",
+        "The system targets ACL-deficient patients where soft-tissue failure is driven by bone geometry, separating them from those with baseline hyperlaxity who may not benefit from osteotomy.",
+        "Clinically, this gives surgeons a structured way to avoid under-treating high-risk bony phenotypes and over-treating constitutionally lax knees with isolated ligament reconstruction."
+      ]
+    },
+    {
+      "pmid": "42365473",
+      "title": "The Incidence of Subtalar Facet Penetration and Its Impact on Clinical and Radiographic Outcome in Lateral Lengthening Calcaneal Osteotomies.",
+      "authors": [
+        "Scheurer FA",
+        "Suter D",
+        "Fritz B",
+        "Smolle MA",
+        "Beeler S",
+        "Vieh\u00f6fer A",
+        "Wirth S"
+      ],
+      "authors_short": "Scheurer FA, Suter D, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Lateral lengthening calcaneal osteotomy (LLOT, Evans and Hintermann) is widely used to treat progressive collapsing foot deformity (PCFD). In the Evans osteotomy, the cut is performed proximal to the calcaneocuboid joint, carrying a risk of violating the anterior or middle subtalar facet. Hintermann proposed a modified technique placing the osteotomy between the middle and posterior facets to reduce risks. Although anatomical studies have shown potential facet involvement, clinical data on the actual incidence and its impact on long-term outcomes remain scarce. This study aimed to determine the incidence of subtalar facet penetration after LLOT and to evaluate its effect on clinical and radiographic results. METHODS: All patients aged \u226518\u2009years who underwent LLOT (Evans or Hintermann osteotomy) at our institution between January 1, 2010, and December 31, 2020, were included. Postoperative computed tomography (CT) was performed 6\u2009weeks after surgery to assess possible subtalar facet violation. At a minimum follow-up of 5\u2009years, magnetic resonance imaging (MRI) was obtained to evaluate cartilage and ligament integrity. Clinical outcomes at the time of MRI were assessed using the Foot Function Index (FFI) and the American Orthopaedic Foot & Ankle Society (AOFAS) score. Demographic variables, including type of osteotomy and outcome measures, were compared between patients with and without facet penetration. RESULTS: Thirty-one patients met inclusion criteria. Subtalar facet penetration was detected in 11 patients (35%) on postoperative CT. No significant differences were observed between groups with respect to demographic variables. MRI analysis revealed no relevant differences in cartilage degeneration. FFI and AOFAS scores were comparable between groups. CONCLUSION: Subtalar facet penetration occurred in one-third of patients after LLOT (Evans and Hintermann). With the numbers available, no significant differences in clinical or radiographic outcomes were detected at a minimum 5-year follow-up, suggesting that minor facet violations may have limited clinical relevance. LEVEL OF EVIDENCE: Level III, retrospective cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42365473/",
+      "score": 74,
+      "score_reasoning": "Large registry cohort of 35,139 ACLRs from the Norwegian Knee Ligament Register published in AJSM, providing high-powered evidence that concomitant MCL injury does not increase revision risk, directly addressing a common surgical controversy with Level 3 evidence.",
+      "bullets": [
+        "Subtalar facet penetration occurred in 35% of patients after lateral lengthening calcaneal osteotomy, affecting both Evans and Hintermann techniques equally.",
+        "At minimum 5-year follow-up, patients with facet penetration had no measurable difference in pain, function, or cartilage health compared to those without.",
+        "For surgeons treating flat foot deformity with calcaneal lengthening, minor inadvertent facet violation does not appear to worsen medium-term outcomes."
+      ]
+    },
+    {
+      "pmid": "42373147",
+      "title": "The Impact of Anticoagulant Choice on Rates of Manipulation Under Anesthesia, Hematoma Formation, and Venous Thromboembolic Events.",
+      "authors": [
+        "Crowley B",
+        "Hollimon M",
+        "Joaquin T",
+        "Lawrence J",
+        "Levine BR"
+      ],
+      "authors_short": "Crowley B, Hollimon M, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Anticoagulation after total knee arthroplasty (TKA) remains a balance between clot prevention and postoperative bleeding. This study aimed to analyze anticoagulant choice for deep vein thrombosis prophylaxis on rates of stiffness requiring manipulation under anesthesia (MUA) and hematoma formation after TKA. METHODS: A large national database was queried for all primary TKAs. We included patients who filled a prescription for an anticoagulant within three days before or five days after surgery. We excluded those who filled prescriptions for multiple or no anticoagulants. Logistic regression was used to compare potent anticoagulants (warfarin, Xa inhibitors, and low molecular weight heparin (LMWH)) to our control group receiving aspirin. The primary outcomes of interest were MUA or hematoma formation within 90 days postoperatively. After applying the exclusion criteria, 462,869 patients were available to review. Of those, 148,159 (32.05%) received aspirin, followed by factor Xa inhibitors (123,909 [26.80%]), warfarin (96,338 [20.84%]), and LMWH (84,962 [18.38%]). RESULTS: Using logistic regression analyses, patients receiving factor Xa inhibitors (odds ratio [OR] 1.38 [95% confidence interval (CI) 1.32 to 1.43]), indirect factor Xa inhibitors (OR 1.33, [95% CI 1.19 to 1.48]), warfarin (OR 1.29 [95% CI 1.23 to 1.35]), and LMWH (OR 1.26, [95% CI 1.20 to 1.32]) had higher rates of MUA than the aspirin cohort. Additionally, when compared to aspirin, those receiving LMWH (OR 1.69 [95% CI 1.46 to 1.96]), indirect factor Xa inhibitors (OR 1.62 [95% CI 1.13 to 2.26]), direct factor Xa inhibitors (OR 1.55 [95% CI 1.35 to 1.78]), and warfarin (OR 1.33 [95% CI 1.14 to 1.55]) were at a significantly higher risk of hematoma formation. CONCLUSIONS: The use of aspirin for deep vein thrombosis prophylaxis after TKA is associated with a significantly lower risk of undergoing MUA and hematoma formation, without increasing the clotting risk profile, than more potent anticoagulants.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42373147/",
+      "score": 72,
+      "score_reasoning": "Large retrospective cohort of 242 revision THAs for instability with propensity-matched analysis identifying prior spinal fusion (OR 3.51) as independent risk for redislocation and demonstrating hip-spine workflow reduces redislocation risk, directly actionable for revision arthroplasty planning.",
+      "bullets": [
+        "After total knee arthroplasty, patients on aspirin had lower rates of manipulation under anesthesia and hematoma formation than those on warfarin, factor Xa inhibitors, or low molecular weight heparin.",
+        "This applies to primary total knee arthroplasty patients across a broad national population, covering nearly 463,000 cases.",
+        "For eligible total knee arthroplasty patients, aspirin provides adequate clot prevention with less bleeding and stiffness than potent anticoagulants, supporting its use as the default prophylaxis agent."
+      ]
+    },
+    {
+      "pmid": "42374824",
+      "title": "Two-Stage vs Single-Stage Ilizarov Application in High-Risk Patients: Impact on Early Complications and Resource Utilization.",
+      "authors": [
+        "Fischer L",
+        "Vieh\u00f6fer A",
+        "Castroviejo C",
+        "Tsolakidis A",
+        "Zendeli F",
+        "Flury A",
+        "Wirth S"
+      ],
+      "authors_short": "Fischer L, Vieh\u00f6fer A, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Patients treated with an Ilizarov external fixator often feature risk factors that impair wound healing such as diabetes, peripheral arterial disease, obesity, and renal insufficiency. A 2-staged approach, with initial bony correction (Kirschner wire or hybrid) followed by delayed Ilizarov application by 5\u2009days, is intended to support wound healing by allowing for reduction of soft tissue swelling and enhancing postoperative wound care. We hypothesized that this method is associated with fewer wound complications but increased use of resources. METHODS: A retrospective review of 98 cases treated with an Ilizarov fixator (2004-2024) was conducted. Surgical management included 2-stage (n\u2009=\u200953, 54%) and single-stage (n\u2009=\u200945, 46%) procedures. Baseline characteristics and risk factors for compromised wound healing were recorded. Patients were stratified into 3 subgroups to enable comparative analysis: infection-related reconstructions (IRR), Charcot arthropathy (CA) and other applications. Preoperative presence of infection and ulceration was recorded. Primary endpoints were rates of impaired wound healing and wound revisions within 3 months post removal. Secondary endpoints were hospital length of stay after bony fixation, and total hospitalization costs. RESULTS: Wound revision rates were significantly lower in the 2-stage group (9% vs 36%; OR 5.3, 95% CI 1.8-17.9; P\u2009=\u2009.0025) particularly in the CA subgroup (0% vs 38%; P\u2009=\u2009.010) or when an infection was present (14% vs 44%; OR 4.6, 95% CI 1.2-22.3, P\u2009=\u2009.0138). Impaired wound healing was significantly lower in patients with a 2-stage procedure (30% vs 55%; OR 2.9, 95% CI 1.3-6.6, P\u2009=\u2009.021). As an exploratory secondary outcome, no statistically significant difference in length of hospital stay or total hospitalization costs was observed. CONCLUSION: Two-stage Ilizarov ring fixator application in high-risk foot and ankle surgery was associated with lower rates of impaired wound healing and wound revisions, particularly in CA and infection cases, without increasing hospital stay or costs.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42374824/",
+      "score": 71,
+      "score_reasoning": "Large propensity-matched cohort (198,263 TKA patients) from TriNetX showing technology-assisted TKA utilization increased 375% with lower rates of periprosthetic fracture, infection, revision, and aseptic loosening, providing contemporary national data on an increasingly prevalent practice.",
+      "bullets": [
+        "In high-risk foot and ankle patients treated with Ilizarov fixation, staging the ring fixator application 5 days after initial bony correction reduced wound revision rates from 36% to 9%.",
+        "The benefit was greatest in Charcot arthropathy and active infection cases, where early wound problems are most likely to derail the reconstruction.",
+        "The two-stage approach did not increase length of stay or total hospital costs, making it a practical default for any patient with diabetes, peripheral arterial disease, obesity, or renal insufficiency undergoing Ilizarov fixation."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-07-03T05:09:21.964413-07:00"
+}
