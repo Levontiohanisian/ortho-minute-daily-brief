@@ -1,0 +1,300 @@
+{
+  "brief_date": "2026-07-05",
+  "brief_date_display": "Sunday, July 05",
+  "candidates": [
+    {
+      "pmid": "42391519",
+      "title": "Uncorrected Preoperative Malnutrition Is Associated with Worse Outcomes After Operative Fixation of Diaphyseal Tibial Fractures.",
+      "authors": [
+        "Pereira DE",
+        "McCoy L",
+        "Harrison NJ",
+        "Bushe K",
+        "Kotzur T",
+        "McAndrew C",
+        "Berkes M",
+        "Obey M",
+        "Wilson JL"
+      ],
+      "authors_short": "Pereira DE, McCoy L, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To evaluate whether serum markers of malnutrition were associated with postoperative complications after tibial shaft fracture fixation, and whether postoperative correction mitigates this risk. METHODS: Design: Retrospective cohort study. SETTING: Multicenter (50 healthcare centers; North American national database). PATIENT SELECTION CRITERIA: Adult patients \u226518 years of age undergoing fixation of tibial shaft fractures (OTA/AO 42) between January 1, 2013, and December 31, 2022, with a minimum of one year of follow-up were included. Patients with a history of malignancy or Gustilo-Anderson type III open fractures were excluded from the study. OUTCOMES MEASURES AND COMPARISONS: The primary outcome was the occurrence of postoperative complications. Patients with serum markers for malnutrition were compared to matched controls. Malnourished patients with subsequently normalized serum markers were compared to previously matched healthy cohorts and cohorts with persistent malnutrition. RESULTS: Following matching, a total of 10,722 patients were included for primary analysis: 5,361 malnourished patients with mean age 52 (range 18-90), 53.6% male and 5,361 control with mean age 53.2 (range 18-90) with 52.9% male. Preoperative malnutrition was associated with significantly higher rates of postoperative complications, including nonunion (RR=1.4), revision surgery (RR>1.4), infection (RR>2.0), failure of fixation (RR=1.3), thromboembolic events (RR>2.0), and sepsis (RR>2.0) (all p < 0.001). Among patients with preoperative malnutrition, those with uncorrected postoperative serum markers demonstrated higher risks of nonunion, revision, infection, and implant failure compared to those with serum markers that were corrected postoperatively (RR>2.0, all p<0.001). However, when compared to patients with normal preoperative nutrition values, individuals with postoperatively corrected malnutrition remained at increased risk for revision and infection (RR>1.4, all p=0.002) but not nonunion (6.5% vs. 5.6%, p>0.05) or failure of fixation (4.6% vs. 4.1%, p>0.05). CONCLUSIONS: Malnutrition was associated with adverse surgical outcomes following tibial shaft fracture fixation, with significantly higher rates of nonunion, revision procedures, infection, wound complications, thromboembolic events, and medical morbidity compared with patients with normal preoperative nutrition. Postoperative correction of nutritional deficiencies reduced complication risk; however, residual risk remained elevated relative to patients with normal preoperative nutritional markers. These findings highlight malnutrition as a partially modifiable risk factor in tibial shaft fracture repair and support nutritional optimization as a part of postoperative management to improve patient outcomes. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42391519/",
+      "score": 82,
+      "score_reasoning": "High clinical relevance for trauma surgeons treating displaced femoral neck fractures in young patients, published in a respected trauma journal, with a meaningful sample size of 223 patients and actionable findings on implant choice and reduction quality affecting a 30% failure rate.",
+      "bullets": [
+        "Malnourished adults undergoing tibial shaft fracture fixation had roughly double the rates of infection, clot, and sepsis compared to well-nourished controls.",
+        "Correcting nutritional deficits after surgery reduced complication risk, but patients still had higher rates of revision and infection than those who were well-nourished before the operation.",
+        "For any adult with a tibial shaft fracture, checking and actively treating malnutrition before and after fixation is a concrete step that lowers, but does not fully eliminate, complication risk."
+      ]
+    },
+    {
+      "pmid": "42377395",
+      "title": "Patients with obesity have a higher risk of periprosthetic joint infection and more frequent polymicrobial infections after knee arthroplasty: A nationwide register-based study from Denmark.",
+      "authors": [
+        "Aljuboori SM",
+        "Jimenez-Solem E",
+        "Calum H",
+        "Christensen R",
+        "Overgaard S"
+      ],
+      "authors_short": "Aljuboori SM, Jimenez-Solem E, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To compare the 2-year incidence of (1) revision due to periprosthetic joint infection (PJI) and (2) all-cause revision after primary knee arthroplasty (KA) in patients with/without obesity and to compare the microbial profiles in early (\u2264\u200990 days) and late (91-730 days) PJI. METHODS: A nationwide, register-based cohort of patients undergoing primary total or unicompartmental KA for osteoarthritis in Denmark (2011-2023). Patients were stratified by body mass index (BMI), with obesity defined as BMI\u2009\u2265\u200930\u2009kg/m2. Cox proportional hazards models estimated hazard ratios (HRs) with corresponding two-sided 95% confidence intervals (95% CIs) for PJI and all-cause revision within 2 years. Analyses included crude and propensity score-adjusted models based on health and socioeconomic data. Microbial profiles were compared using absolute risk difference (ARD) with 95% CIs in the early and late post-operative periods. RESULTS: Among 111,117 eligible patients, 41,306 had obesity (mean BMI: 34.6) and 59,993 did not (mean BMI: 26.1). Patients with obesity were slightly younger and had higher use of glucose-lowering medication. Patients with obesity had a higher risk of PJI revision than those without obesity (482 [1.2%] vs. 559 [0.9%]; crude HR: 1.25 [1.11-1.42], and propensity-adjusted HR: 1.30, 95% CI: 1.14-1.48). The adjusted risk of all-cause revision was comparable (1494 [3.6%] vs. 1893 [3.2%]; HR: 1.05, 95% CI: 0.98-1.13). Within 90 days, patients with obesity had more polymicrobial infections (62 [18.5%] vs. 43 [11.3%]; ARD: 7.2%, 95% CI: 2.0%-12.5%) and more non-staphylococcal gram-positive organisms (69 [21%] vs. 54 [14%]; ARD: 6.3%, 95% CI: 0.8%-12%). Staphylococcus aureus was the most frequent pathogen in both groups (127 [38%] vs. 136 [36%]; ARD: 2.0%, 95% CI: -5.1% to 9.1%). CONCLUSIONS: Obesity was associated with an increased 2-year risk of PJI after KA; however, the risk of all-cause revision was comparable to that in patients without obesity. Within 90 days, patients with obesity exhibited a higher incidence of polymicrobial infections and non-staphylococcal gram-positive organisms. LEVEL OF EVIDENCE: Level II, prognostic studies-investigating natural history and evaluating the effect of a patient characteristic.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42377395/",
+      "score": 80,
+      "score_reasoning": "Directly actionable for surgeons consenting and planning care for dementia patients undergoing hip hemiarthroplasty, published in JAAOS with a well-matched propensity cohort of 1,030 patients demonstrating significantly higher major complications and mortality.",
+      "bullets": [
+        "Obese patients undergoing knee arthroplasty face a 30% higher risk of revision for periprosthetic joint infection within two years compared to non-obese patients, despite similar overall revision rates.",
+        "Within 90 days of surgery, obese patients are significantly more likely to develop polymicrobial infections, meaning standard single-organism antibiotic protocols may be less effective in this group.",
+        "Orthopaedic surgeons should counsel obese patients specifically about elevated infection risk before knee arthroplasty, and have a lower threshold to broaden antibiotic coverage when early infection is suspected."
+      ]
+    },
+    {
+      "pmid": "42370806",
+      "title": "What Is the Effect of Robot Reduction in Displaced Pelvic Fractures? A Multicenter Randomized Clinical Trial.",
+      "authors": [
+        "Zhao C",
+        "Ge Y",
+        "Cao Q",
+        "Yang M",
+        "Gao F",
+        "Xiao H",
+        "Liu G",
+        "Sun D",
+        "Yu B",
+        "Jia J",
+        "Wu Z",
+        "Wang Y",
+        "Wu X"
+      ],
+      "authors_short": "Zhao C, Ge Y, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Displaced pelvic fractures present real surgical challenges because of complex three-dimensional deformity patterns and proximity to vital structures, with conventional manual reduction techniques limited by accuracy constraints and radiation exposure. Although robotic assistance shows promise in preclinical studies, its clinical effectiveness remains unproven in randomized clinical trials (RCTs). QUESTIONS/PURPOSES: (1) Does robotic closed reduction improve reduction quality compared with manual closed reduction in displaced pelvic fractures? (2) Can robotic closed reduction reduce intraoperative radiation exposure while maintaining functional outcomes? METHODS: In this multicenter RCT conducted at six tertiary trauma centers in China involving 10 senior orthopaedic traumatologists, 92 adult patients with acute closed, displaced pelvic fractures (Tile Type B or C) were randomized 1:1 to robotic closed reduction (n = 46) or manual closed reduction (n = 46) groups. At 12 weeks, loss to follow-up for patient-reported outcomes was 9% (4 of 46) in the robotic group and 4% (2 of 46) in the manual group; the remainder were handled in a prespecified per-protocol analysis. In the robot group, reduction was planned using CT-based three-dimensional reconstruction with contralateral pelvic symmetry as the target and executed by a robotic arm with adjunct elastic traction and contralateral pelvic stabilization. In the manual group, reduction was performed using traction and manual manipulation under fluoroscopic guidance. Surgeons and patients were not blinded; radiographic outcome assessors and data analysts were blinded. Primary outcome was reduction quality assessed using Matta criteria (excellent \u2264 4 mm residual displacement, good 5 to 10 mm, acceptable 10 to 20 mm, poor > 20 mm), analyzed as the proportion of excellent to good reductions. Secondary outcomes included intraoperative surgeon fluoroscopic exposure and 12-week Majeed pelvic scores (0 to 100 points across seven domains; higher scores indicate better function). The primary analysis was intention to treat. RESULTS: In the intention-to-treat analysis, a higher proportion of patients who underwent robotic closed reduction achieved an excellent or good reduction than did those who received manual closed reduction (96% [44 of 46] versus 48% [22 of 46], relative risk 2.00 [95% confidence interval (CI) 1.47 to 2.72]; p < 0.001). Median (IQR) intraoperative surgeon fluoroscopic exposure was lower in the robotic closed reduction group (0 [0 to 0] versus 38 [14 to 78] fluoroscopic exposures; p < 0.001). No differences were found in 12-week Majeed functional scores between groups (mean \u00b1 SD 69 \u00b1 16 versus 71 \u00b1 17, mean difference -3 [95% CI -11 to 6]; p = 0.55). One superficial infection occurred in the manual closed reduction group, and there were no serious complications in either group. CONCLUSION: Surgeons treating acute displaced pelvic ring fractures should consider robotic closed reduction, when available, to improve reduction quality and reduce intraoperative fluoroscopic exposure, although it did not result in improved patient-reported outcome scores at short term in this randomized trial. Future studies should evaluate longer term functional benefits, define the fracture patterns most likely to benefit, and evaluate implementation factors including learning curve and cost-effectiveness across varied trauma settings. LEVEL OF EVIDENCE: Level I, therapeutic study.",
+      "pub_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42370806/",
+      "score": 79,
+      "score_reasoning": "Multicenter RCT from CORR comparing robotic versus manual closed reduction for displaced pelvic fractures, representing high-level evidence on an emerging technology with direct intraoperative applicability for orthopaedic traumatologists.",
+      "bullets": [
+        "Robotic closed reduction achieved excellent or good alignment in 96% of displaced pelvic fractures versus 48% with manual reduction in this randomized trial.",
+        "Surgeons in the robotic group received zero intraoperative fluoroscopic exposures compared to a median of 38 in the manual group.",
+        "Despite better reduction quality, 12-week functional scores were similar between groups, so long-term patient benefit remains unproven."
+      ]
+    },
+    {
+      "pmid": "42398594",
+      "title": "Preoperative Pneumonia and Its Association With Periprosthetic Joint Infection and Postoperative Complications After Total Hip and Knee Arthroplasty.",
+      "authors": [
+        "Parmar RP",
+        "Alhankawi AR",
+        "Holle AM",
+        "Verhey JT",
+        "Van Schuyver P",
+        "Tarabichi S",
+        "Deckey DG",
+        "Bingham JS"
+      ],
+      "authors_short": "Parmar RP, Alhankawi AR, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Pneumonia (PNA) is a leading cause of hospitalization among older adults, yet its effect on complications following total joint arthroplasty (TJA) remains unknown. This study evaluated the association between PNA within two years prior to total hip arthroplasty (THA) or total knee arthroplasty (TKA) and periprosthetic joint infection (PJI) and other complications. METHODS: Patients undergoing primary THA or TKA were identified from a national administrative claims database. Patients who had prior PNA were matched to controls who did not have PNA based on demographics and baseline comorbidities. Outcomes included postoperative medical and surgical complications, including PJI. Subgroup analyses were performed by PNA etiology and timing relative to surgery. RESULTS: In the THA cohort, 14,607 patients who had prior PNA were matched to 14,607 controls. Overall PNA was not associated with increased PJI risk; however, prior Staphylococcal PNA was (odds ratio (OR) 2.4, 95% confidence interval (CI) 1.2 to 5.0), particularly when occurring within three months of surgery (OR 5.2, 95% CI 1.8 to 14.5). In the TKA cohort, 6,271 matched pairs were analyzed. Overall PNA was not associated with increased PJI risk (P = 0.218), while bacterial PNA was (OR 1.98, P = 0.002); viral PNA was not (P = 0.842). Klebsiella pneumoniae carried the highest PJI risk (OR 12.22, P < 0.001). Bacterial PNA occurring three to six months (OR 2.78, P = 0.022) and six to 12 months prior to TKA (OR 2.98, P = 0.001) was also associated with increased PJI odds. DISCUSSION: Pathogen-specific PNA demonstrated time-dependent associations with PJI following TJA. Staphylococcal PNA within three months of THA and bacterial PNA, particularly Klebsiella pneumoniae, occurring three to 12 months before TKA were associated with elevated PJI risk. These findings suggest that PNA etiology and timing may be relevant in preoperative risk assessment for TJA.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42398594/",
+      "score": 78,
+      "score_reasoning": "Large matched national database study (14,607+ pairs) with highly actionable findings linking preoperative Staphylococcal pneumonia within 3 months to >5x increased PJI risk after THA/TKA, providing practical perioperative risk stratification guidance.",
+      "bullets": [
+        "Bacterial pneumonia in the two years before total hip or knee arthroplasty raises periprosthetic joint infection risk, while viral pneumonia does not.",
+        "Staphylococcal pneumonia within three months of THA and Klebsiella pneumoniae pneumonia within three to twelve months of TKA carry the highest infection risk.",
+        "When a patient reports recent bacterial pneumonia, pathogen type and timing should factor into the preoperative risk conversation and scheduling decisions."
+      ]
+    },
+    {
+      "pmid": "42373147",
+      "title": "The Impact of Anticoagulant Choice on Rates of Manipulation Under Anesthesia, Hematoma Formation, and Venous Thromboembolic Events.",
+      "authors": [
+        "Crowley B",
+        "Hollimon M",
+        "Joaquin T",
+        "Lawrence J",
+        "Levine BR"
+      ],
+      "authors_short": "Crowley B, Hollimon M, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Anticoagulation after total knee arthroplasty (TKA) remains a balance between clot prevention and postoperative bleeding. This study aimed to analyze anticoagulant choice for deep vein thrombosis prophylaxis on rates of stiffness requiring manipulation under anesthesia (MUA) and hematoma formation after TKA. METHODS: A large national database was queried for all primary TKAs. We included patients who filled a prescription for an anticoagulant within three days before or five days after surgery. We excluded those who filled prescriptions for multiple or no anticoagulants. Logistic regression was used to compare potent anticoagulants (warfarin, Xa inhibitors, and low molecular weight heparin (LMWH)) to our control group receiving aspirin. The primary outcomes of interest were MUA or hematoma formation within 90 days postoperatively. After applying the exclusion criteria, 462,869 patients were available to review. Of those, 148,159 (32.05%) received aspirin, followed by factor Xa inhibitors (123,909 [26.80%]), warfarin (96,338 [20.84%]), and LMWH (84,962 [18.38%]). RESULTS: Using logistic regression analyses, patients receiving factor Xa inhibitors (odds ratio [OR] 1.38 [95% confidence interval (CI) 1.32 to 1.43]), indirect factor Xa inhibitors (OR 1.33, [95% CI 1.19 to 1.48]), warfarin (OR 1.29 [95% CI 1.23 to 1.35]), and LMWH (OR 1.26, [95% CI 1.20 to 1.32]) had higher rates of MUA than the aspirin cohort. Additionally, when compared to aspirin, those receiving LMWH (OR 1.69 [95% CI 1.46 to 1.96]), indirect factor Xa inhibitors (OR 1.62 [95% CI 1.13 to 2.26]), direct factor Xa inhibitors (OR 1.55 [95% CI 1.35 to 1.78]), and warfarin (OR 1.33 [95% CI 1.14 to 1.55]) were at a significantly higher risk of hematoma formation. CONCLUSIONS: The use of aspirin for deep vein thrombosis prophylaxis after TKA is associated with a significantly lower risk of undergoing MUA and hematoma formation, without increasing the clotting risk profile, than more potent anticoagulants.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42373147/",
+      "score": 77,
+      "score_reasoning": "Very large nationwide Danish registry study (111,117 patients) providing robust evidence that obesity increases PJI risk by 30% and is associated with more polymicrobial infections after knee arthroplasty, with direct implications for patient counseling and infection prevention.",
+      "bullets": [
+        "After total knee arthroplasty, patients on aspirin had lower rates of manipulation under anesthesia and hematoma formation than those on warfarin, factor Xa inhibitors, or low molecular weight heparin.",
+        "This applies to the broad primary TKA population, where aspirin provided equivalent clot protection without the bleeding and stiffness complications seen with stronger anticoagulants.",
+        "For eligible TKA patients, aspirin should be the default VTE prophylaxis choice, as potent anticoagulants carry a measurable increase in both hematoma risk and the need for manipulation under anesthesia."
+      ]
+    },
+    {
+      "pmid": "42367014",
+      "title": "Risk of Revision and Patient-Reported Outcomes After ACL Reconstruction: Influence of Concomitant MCL Injury and Graft Choice: Analysis of 35,139 Reconstructions From the Norwegian Knee Ligament Register.",
+      "authors": [
+        "Birkenes T",
+        "Chahla J",
+        "Lygre SHL",
+        "Williams A",
+        "Inderhaug E"
+      ],
+      "authors_short": "Birkenes T, Chahla J, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Concomitant medial collateral ligament (MCL) injury is common in anterior cruciate ligament (ACL) tears, but optimal management of these injury components remains controversial. PURPOSE: To compare patient-reported outcome measures and the risk of ACL revision surgery in patients with concomitant MCL injuries (treated operatively and nonoperatively) versus isolated ACL injuries and to assess whether MCL treatment strategy or ACL graft choice influenced outcomes. STUDY DESIGN: Cohort study; Level of evidence 3. METHODS: Data were obtained from the Norwegian Knee Ligament Register. Patients undergoing primary ACL reconstruction (ACLR) between 2004 and 2024 were included for graft-survival analyses, and those operated by December 31, 2022, were eligible for 2-year Knee injury and Osteoarthritis Outcome Score (KOOS) outcomes. Patients with concomitant ligament injuries other than to the MCL, ACL repairs, or those with unknown ACL graft type were excluded. Patients were stratified into isolated ACL and ACL + MCL injury groups. Kaplan-Meier survival analyses (unadjusted), multivariable Cox regression, and linear/logistic regression models were used, adjusted for descriptive data, body mass index, meniscal/cartilage injury, time to surgery, smoking, pivoting sports, graft choice, and baseline KOOS. RESULTS: A total of 35,139 ACLRs were included (2410 ACL + MCL and 32,729 isolated ACL; mean age, 28.6 years). Concomitant MCL injury was not associated with an increased overall risk of ACL revision (P = .5). However, ACL + MCL patients had lower 2-year KOOS Sport/Recreation (Sport/Rec) scores (-2 points, P = .04) and lower odds of achieving patient acceptable symptom state (PASS) for Sport/Rec. Within the ACL + MCL subgroup, hamstring (Hazard ratio [HR], 2.3; P = .001) and quadriceps autografts (HR, 3; P = .009) were associated with a higher revision risk compared with bone-patellar tendon-bone (BPTB) autograft, particularly when hamstring grafts were combined with nonoperative MCL treatment (HR, 2.4; P = .001). Graft choice did not influence the likelihood of achieving a minimal clinically important difference in KOOS. CONCLUSION: Concomitant MCL injury did not increase the risk of ACL revision but was associated with inferior KOOS Sport/Rec outcomes and lower odds of achieving PASS at 2 years. In patients with concomitant nonoperatively treated MCL injuries, BPTB autograft was associated with a significantly lower revision risk compared with hamstring and quadriceps autografts.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42367014/",
+      "score": 76,
+      "score_reasoning": "Large Norwegian registry study (35,139 ACLRs) with high-quality cohort design examining the impact of concomitant MCL injury and graft choice on revision rates and patient-reported outcomes, providing directly applicable guidance for ACL surgeons.",
+      "bullets": [
+        "In over 35,000 ACL reconstructions, a concomitant MCL injury did not increase the overall risk of revision surgery but did result in worse sport and recreation scores at two years.",
+        "When the MCL was treated nonoperatively alongside ACL reconstruction, patellar tendon autograft carried a significantly lower revision risk than hamstring or quadriceps autograft.",
+        "For orthopaedic surgeons managing combined ACL and MCL injuries, graft selection matters most when the MCL is treated conservatively, and patellar tendon should be the preferred option in those cases."
+      ]
+    },
+    {
+      "pmid": "42390361",
+      "title": "Functional Outcomes Following Bipolar Hip Hemiarthroplasty via the Direct Anterior Approach Versus Posterior and Direct Lateral Approaches: A Retrospective Cohort Study.",
+      "authors": [
+        "Yen Yu TS",
+        "Poh Hwee NJ",
+        "Xiaoe Z",
+        "Leng TT"
+      ],
+      "authors_short": "Yen Yu TS, Poh Hwee NJ, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To compare functional recovery and length of hospital stay in patients undergoing bipolar hip hemiarthroplasty (BHH) for displaced femoral neck fractures using the direct anterior approach (DAA) versus the posterior approach (PA) and direct lateral approach (DLA). METHODS: Design: Retrospective cohort study using a prospectively maintained hip fracture registry. SETTING: Single tertiary care institution in Singapore. PATIENT SELECTION CRITERIA: Patients aged 60 years and older who underwent BHH for displaced femoral neck fractures (OTA/AO 31-B) between 2020 and 2023 were identified from the institutional hip fracture registry. OUTCOME MEASURES AND COMPARISONS: Functional outcomes were assessed using the Modified Barthel Index (MBI; higher scores indicate better independence) and Parker Mobility Score (PMS; higher scores indicate better mobility) at discharge, 6 months and 12 months. Mobility status, length of stay, postoperative complications, reoperation and 1-year mortality were evaluated. Outcomes were compared between DAA and PA after propensity score matching, with an exploratory comparison to the DLA. RESULTS: A total of 504 patients were identified; 400 PA, 79 DAA and 25 DLA. After matching, 67 DAA cases and 134 PA cases were analysed. Age and sex distribution were similar between DAA and PA groups (80.7 \u00b1 6.3 vs 81.1 \u00b1 6.5 years, p = 0.655; female: 79.1% vs 75.4%, p = 0.556). The DAA group demonstrated a smaller decline in MBI from premorbid baseline to discharge as compared with the PA group (DAA: -49.85 \u00b1 17.88 vs PA: -55.47 \u00b1 18.90, 95% CI: 0.11 to 11.13, p=0.045). No significant differences were observed between the DAA and PA groups in changes from premorbid to 12-month MBI (DAA: -23.97 \u00b1 27.46 vs PA: -18.52 \u00b1 26.38, 95% CI: -13.67 to 2.78, p=0.193) or from premorbid to 12-month PMS (DAA: -2.72 \u00b1 2.90 vs PA: -2.18 \u00b1 2.46, 95% CI: -1.37 to 0.29, p=0.198). Length of stay (DAA: 9.88 \u00b1 5.08 vs PA: 10.20 \u00b1 5.20 days; p = 0.684) and 1-year mortality (DAA: 3.0% vs PA: 8.2%; p =0.156) were comparable between DAA and PA groups. CONCLUSIONS: DAA for BHH was associated with better early functional recovery at hospital discharge than PA. However, this advantage did not persist at 12 months, with no significant differences in functional outcomes, length of hospital stay, or 1-year mortality between DAA and PA groups. LEVEL OF EVIDENCE: III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42390361/",
+      "score": 75,
+      "score_reasoning": "Multicenter study of 10,722 patients demonstrating that uncorrected preoperative malnutrition significantly increases complications after tibial shaft fixation including doubling infection risk, with the novel finding that postoperative nutritional correction mitigates risk.",
+      "bullets": [
+        "In elderly patients undergoing bipolar hemiarthroplasty for femoral neck fracture, the direct anterior approach produced better functional independence at discharge compared to the posterior approach.",
+        "By 12 months, functional outcomes, mobility scores, length of stay, and mortality were equivalent between the direct anterior and posterior approaches.",
+        "Surgeons can expect a short-term recovery advantage with the direct anterior approach, but approach choice does not appear to affect one-year outcomes in this population."
+      ]
+    },
+    {
+      "pmid": "42384474",
+      "title": "Surgical Fixation Versus Cast Immobilization for Adults With Bicortical Scaphoid Fractures: A Target Trial Emulation of the SWIFFT Trial.",
+      "authors": [
+        "Zhang W",
+        "Yi C",
+        "Wu P",
+        "Hu G",
+        "Shen Y",
+        "Lu S"
+      ],
+      "authors_short": "Zhang W, Yi C, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "AIMS: The Scaphoid Waist Internal Fixation for Fractures Trial (SWIFFT) reported no notable difference in functional outcomes between surgical fixation and cast immobilization for minimally displaced scaphoid waist fractures in UK settings. We aimed to emulate SWIFFT using Chinese hospital electronic health record (EHR) data to evaluate whether similar treatment effects are observed in a population with different risk profiles and to identify subgroups that may benefit differentially from surgery. METHODS: This target trial emulation used a clone-censor-weight design with inverse probability of treatment and censoring weighting. Deidentified EHR data were extracted from three Tertiary A teaching hospitals in China (July 2018 to August 2024). Adults aged 16 years or older with a bicortical scaphoid waist fracture (displacement \u22642 mm) presenting within 14 days of injury were eligible. Patients received either headless compression screw fixation (n = 2,544) or below-elbow cast immobilization (n = 4,225). The primary outcome was the Disabilities of the Arm, Shoulder, and Hand (DASH) score at 52 weeks. RESULTS: Among 6,769 patients (mean age 32.1 years; 81.6% male; 42.4% current smokers), surgery produced statistically significant DASH improvements at all time points. At 52 weeks, the adjusted mean difference was -4.2 (95% CI, -4.9 to -3.5; P < 0.001), below commonly cited MCID estimates (10 to 15 points) but approaching lower proposed thresholds (7 to 10 points). Surgery halved nonunion risk (8.4% vs 17.5%; RR 0.48, 95% CI, 0.41 to 0.55) but increased complications sevenfold (14.1% vs 2.0%), predominantly screw-related. Subgroup analyses showed larger surgical benefits among patients with displaced fractures (-8.5) and current smokers (-6.7). Nearly one in five cast-treated patients (18.1%) ultimately required surgery for nonunion. CONCLUSION: Surgery was associated with statistically significant but modest DASH improvements, halved nonunion risk, and a sevenfold increase in complications. Cast immobilization remains a reasonable initial strategy for undisplaced fractures, while surgery offers measurable advantages for displaced fractures or smokers.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42384474/",
+      "score": 73,
+      "score_reasoning": "Scaphoid fracture target trial emulation in 6,769 patients from Chinese EHR data provides large-scale real-world evidence that surgery produces statistically significant but potentially clinically marginal DASH improvements, with important subgroup implications for practice.",
+      "bullets": [
+        "For minimally displaced scaphoid waist fractures, surgery improved function scores at one year but the difference was small and unlikely to be felt by most patients.",
+        "Surgery halved nonunion rates compared to casting (8% vs 18%), but one in five cast-treated patients eventually needed surgery anyway, and surgical complications were seven times more common.",
+        "Cast immobilization is reasonable first-line treatment for undisplaced fractures, but smokers and patients with any displacement gain more meaningful benefit from upfront surgical fixation."
+      ]
+    },
+    {
+      "pmid": "42390157",
+      "title": "Impact Microindentation Evaluates Bone Strength, Bone Quality, and Fracture Susceptibility Across Skeletal Sites: A Cadaver Study.",
+      "authors": [
+        "Vaidya RS",
+        "Jahani B",
+        "Jin JM",
+        "Gonzalez CC",
+        "Pujari B",
+        "Krothapalli S",
+        "Tang SY"
+      ],
+      "authors_short": "Vaidya RS, Jahani B, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Impact microindentation (IMI) is a minimally invasive technique for assessing bone material properties that can be performed clinically. In this study, we aimed to determine how measurements obtained by IMI (bone material strength index [BMSi]) relate to bone strength, fracture resistance, and susceptibility to fracture. QUESTIONS/PURPOSES: (1) Is BMSi associated with bone strength of the femur, radius, and vertebrae, and does incorporating BMSi alongside bone mineral density (BMD) improve the estimation of strength? (2) Does BMSi evaluate fracture toughness and mechanical properties of the bone tissue? (3) Can BMSi discriminate fracture susceptibility of the hip and wrist? METHODS: This single-site laboratory study included the tibiae, femurs, radii, and L4 vertebrae from fresh-frozen cadavers (n = 67; mean \u00b1 SD age 71 \u00b1 13 years). To answer the first question, IMI was performed on the tibia midshaft, dual-energy x-ray absorptiometry (DXA) was used to assess hip and spine BMD, and bone strength (ultimate fracture force) was mechanically determined for each site. To address the second question, stress intensity factor (KC) was quantified from notched cortical bone beam specimens from tibiae using the fracture toughness test. Bone mechanical behavior (ultimate stress, elastic modulus, work-to-fracture), microstructure (cortical porosity, tissue mineral density), and organic matrix quality (percentage of collagen denaturation, concentration of advanced glycation end products) were quantified from beam specimens from the femoral midshaft. To address the last question, hip and wrist fracture susceptibility was defined using the fall-load to fracture-load ratio, where values \u2265 1 indicate susceptibility. Receiver operating characteristic (ROC) curve analyses evaluated the ability of IMI and DXA to discriminate fracture susceptibility. Primary outcomes included evaluating the association between BMSi and BMD with bone strength and ROC analysis for discriminating fracture susceptibility. RESULTS: Higher BMSi values were positively associated with higher bone strength, showing moderate association at the femur (r = 0.62 [95% confidence interval (CI) 0.49 to 0.72]; p < 0.001) and radius (r = 0.52 [95% CI 0.34 to 0.72]; p < 0.001) and weaker association at the L4 vertebrae (r = 0.31 [95% CI 0.03 to 0.53]; p = 0.02). At the femur, BMSi was more strongly associated with strength than total hip BMD (TH-BMD) (r = 0.45 [95% CI 0.3 to 0.62]; p < 0.001), and the inclusion of BMSi in multivariate analyses improved the explained variance in femur strength from 28% to 52% (\u0394R2 = 0.24; p < 0.001). At the radius, both BMSi and TH-BMD (r = 0.50 [95% CI 0.31 to 0.71]; p < 0.01) showed moderate association with radius strength, with the combined model improving the explained variance in radius strength from 28% to 39% (\u0394R2 = 0.11; p < 0.001). At the vertebrae, strength was weakly associated with BMSi (r = 0.31 [95% CI 0.03 to 0.53]; p = 0.02) but not with BMD. For the hip and wrist of each donor, BMSi discriminated hip fracture susceptibility with moderate accuracy (area under the curve [AUC] 0.75 [95% CI 0.63 to 0.88]; p < 0.001), whereas TH-BMD could not discriminate hip fracture susceptibility. Both BMSi (AUC 0.77 [95% CI 0.63 to 0.90]; p = 0.003) and TH-BMD (AUC 0.78 [95% CI 0.64 to 0.90]; p = 0.002) classified wrist fracture susceptibility with modest discriminatory performance. CONCLUSION: Our study demonstrates that BMSi provides information related to bone strength and discriminates fracture susceptibility of the hip and wrist. CLINICAL RELEVANCE: IMI can be performed at the point of care using an FDA-cleared device and used to evaluate fragility in patients in whom fracture risk or bone strength is uncertain based on BMD alone. Prospective clinical studies are needed to determine whether IMI improves fracture risk prediction and informs patient treatment.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42390157/",
+      "score": 70,
+      "score_reasoning": "Retrospective cohort of 510 hip fracture patients showing significantly elevated in-hospital cardiac events and mortality with preoperative troponin >100 ng/L (35.7% vs 4.5%), with directly actionable perioperative risk stratification implications.",
+      "bullets": [
+        "Impact microindentation at the tibial midshaft predicted femoral strength better than hip bone mineral density alone, and combining both measures explained 52% of femoral strength variance compared to 28% for bone mineral density alone.",
+        "In older cadaver specimens, the bone material strength index discriminated hip fracture susceptibility with moderate accuracy while hip bone mineral density could not, suggesting the two measures capture different aspects of bone failure risk.",
+        "For orthopaedic surgeons managing patients with uncertain fracture risk despite normal or borderline bone mineral density, point-of-care impact microindentation may add clinically useful bone strength information at the hip and wrist."
+      ]
+    },
+    {
+      "pmid": "42377369",
+      "title": "High failure rate after all-inside revision meniscal repair: Female sex and absence of ACL reconstruction increase risk.",
+      "authors": [
+        "von Essen C",
+        "Kekki C",
+        "Rizvanovic D",
+        "Cristiani R",
+        "St\u00e5lman A"
+      ],
+      "authors_short": "von Essen C, Kekki C, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To determine the failure rate and identify factors associated with failure following all-inside revision meniscal repair in patients with persistent or recurrent symptoms after primary meniscal repair. METHODS: This was a retrospective cohort study including 108 consecutive patients who underwent arthroscopic all\u2011inside revision meniscal repair between 2015 and 2022 at Capio Artro Clinic, Stockholm, Sweden. Evaluated factors included demographic variables (age, sex), surgical variables (concomitant anterior cruciate ligament reconstruction [ACLR]) and tear-specific characteristics (tear morphology and meniscal laterality). Failure was defined as repeat surgery for the index tear. Patients were followed for up to 3 years. Survivorship was assessed using Kaplan-Meier analysis, and factors associated with failure were evaluated using multivariable Cox regression. RESULTS: Failure occurred in 54 of 108 repairs (50.0%) at a mean of 18.3\u2009\u00b1\u200916.0 months. In unadjusted analyses, tear morphology was associated with failure (p\u2009=\u20090.026), with radial and horizontal tears showing the highest failure proportions and longitudinal tears the lowest. In the adjusted Cox model, female sex (hazard ratio [HR] 2.60, 95% confidence interval [CI] 1.36-4.95; p\u2009=\u20090.004) and absence of concomitant ACLR (HR 3.63, 95% CI 1.67-7.90; p\u2009=\u20090.001) were independently associated with failure. Age, meniscal laterality and tear morphology were not associated with adjusted survivorship. CONCLUSION: All-inside revision meniscal repair demonstrated a high failure rate of 50% at mid-term follow-up. Female sex and absence of concomitant ACLR were independently associated with an increased risk of failure. These findings highlight the importance of patient- and procedure-specific factors when considering revision meniscal repair as a tissue-preserving option. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42377369/",
+      "score": 68,
+      "score_reasoning": "High-impact meta-analysis from AJSM with robust methodology comparing circumferential versus segmental labral reconstruction in 1,817 hips, finding comparable outcomes between techniques and informing surgical decision-making for irreparable labral pathology.",
+      "bullets": [
+        "Revision all-inside meniscal repair failed in 50% of patients by 3 years, with most failures requiring repeat surgery within 18 months.",
+        "Female patients and those without a concomitant ACL reconstruction faced significantly higher failure rates after revision meniscal repair.",
+        "When counselling patients on revision meniscal repair, surgeons should weigh female sex and ACL-deficient knees as meaningful risk factors for re-failure."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-07-05T04:29:47.101891-07:00"
+}
