@@ -1,0 +1,285 @@
+{
+  "brief_date": "2026-07-06",
+  "brief_date_display": "Monday, July 06",
+  "candidates": [
+    {
+      "pmid": "42405216",
+      "title": "Does Timing Matter? Postoperative Risk and the Optimal Timing for Total Joint Arthroplasty Following COVID-19 Infection.",
+      "authors": [
+        "McCoy L",
+        "Helm G",
+        "Calkins T",
+        "Bendich I",
+        "Schneider AM"
+      ],
+      "authors_short": "McCoy L, Helm G, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: The optimal timing of elective arthroplasty following COVID-19 infection remains unclear. While early postoperative risk is recognized, arthroplasty-specific data stratified by recovery interval are limited. We hypothesized that patients undergoing arthroplasty >12 weeks after COVID-19 would experience decreased complication risk. METHODS: A retrospective cohort study evaluated outcomes following primary total hip arthroplasty and total knee arthroplasty (THA/TKA). Patients with documented preoperative COVID-19 infection were stratified by timing relative to surgery (<4 weeks, 4-12 weeks, >12 weeks) and compared to controls without prior infection. Primary outcomes included 1-year prosthetic joint infection, sepsis, revision surgery, deep vein thrombosis, and pulmonary embolism (PE). RESULTS: A total of 37,272 THA and 57,158 TKA patients were included. Surgery within 4 weeks of infection was associated with increased risks of sepsis (THA relative risk [RR]: 2.36; TKA RR: 2.27) and PE (THA RR: 1.74; TKA RR: 2.39). In THA, deep vein thrombosis risk remained elevated at 4-12 weeks (RR: 1.49), and modest increases in sepsis and PE persisted beyond 12 weeks. In contrast, TKA demonstrated no increased systemic risk beyond 4 weeks. Prosthetic joint infection and revision rates were lower in patients undergoing surgery more than 12 weeks after infection. CONCLUSIONS: Elective THA and TKA performed within 4 weeks of COVID-19 infection are associated with increased systemic postoperative complications. While risk decreases with increasing time from infection, complications may persist beyond 12 weeks following THA. These findings support a timing-based approach to elective arthroplasty after COVID-19 infection. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42405216/",
+      "score": 82,
+      "score_reasoning": "Large retrospective cohort (94,430 patients) with direct clinical applicability for timing elective THA/TKA after COVID-19 infection, providing actionable risk stratification guidance for practicing surgeons.",
+      "bullets": [
+        "Patients undergoing THA or TKA within 4 weeks of COVID-19 infection face roughly double the risk of sepsis and significantly higher rates of pulmonary embolism compared to uninfected controls.",
+        "For TKA, systemic complication risk returns to baseline after 4 weeks, but THA carries persistently elevated clot and sepsis risk beyond 12 weeks post-infection.",
+        "For any patient with a recent COVID-19 infection, surgeons should delay elective THA by more than 12 weeks and elective TKA by at least 4 weeks to reduce postoperative complications."
+      ]
+    },
+    {
+      "pmid": "42370805",
+      "title": "CORR Insights\u00ae: Acute or Delayed TKA for Tibial Plateau Fracture? An Observational Study From the Swedish Arthroplasty Register.",
+      "authors": [
+        "Cornell CN"
+      ],
+      "authors_short": "Cornell CN",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42370805/",
+      "score": 81,
+      "score_reasoning": "High-quality multicenter RCT from CORR evaluating robotic versus manual closed reduction for displaced pelvic fractures with objective endpoints including reduction quality and radiation exposure.",
+      "bullets": [
+        "Patients who sustain a tibial plateau fracture and ultimately require TKA have poor outcomes regardless of whether arthroplasty is performed acutely or after a delay.",
+        "This applies to orthopaedic surgeons managing tibial plateau fractures in adults who may be candidates for primary or staged TKA.",
+        "Neither timing strategy has a clear advantage, so the choice between acute and delayed TKA should be driven by patient factors and surgeon experience rather than assumed outcome benefit."
+      ]
+    },
+    {
+      "pmid": "42377395",
+      "title": "Patients with obesity have a higher risk of periprosthetic joint infection and more frequent polymicrobial infections after knee arthroplasty: A nationwide register-based study from Denmark.",
+      "authors": [
+        "Aljuboori SM",
+        "Jimenez-Solem E",
+        "Calum H",
+        "Christensen R",
+        "Overgaard S"
+      ],
+      "authors_short": "Aljuboori SM, Jimenez-Solem E, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To compare the 2-year incidence of (1) revision due to periprosthetic joint infection (PJI) and (2) all-cause revision after primary knee arthroplasty (KA) in patients with/without obesity and to compare the microbial profiles in early (\u2264\u200990 days) and late (91-730 days) PJI. METHODS: A nationwide, register-based cohort of patients undergoing primary total or unicompartmental KA for osteoarthritis in Denmark (2011-2023). Patients were stratified by body mass index (BMI), with obesity defined as BMI\u2009\u2265\u200930\u2009kg/m2. Cox proportional hazards models estimated hazard ratios (HRs) with corresponding two-sided 95% confidence intervals (95% CIs) for PJI and all-cause revision within 2 years. Analyses included crude and propensity score-adjusted models based on health and socioeconomic data. Microbial profiles were compared using absolute risk difference (ARD) with 95% CIs in the early and late post-operative periods. RESULTS: Among 111,117 eligible patients, 41,306 had obesity (mean BMI: 34.6) and 59,993 did not (mean BMI: 26.1). Patients with obesity were slightly younger and had higher use of glucose-lowering medication. Patients with obesity had a higher risk of PJI revision than those without obesity (482 [1.2%] vs. 559 [0.9%]; crude HR: 1.25 [1.11-1.42], and propensity-adjusted HR: 1.30, 95% CI: 1.14-1.48). The adjusted risk of all-cause revision was comparable (1494 [3.6%] vs. 1893 [3.2%]; HR: 1.05, 95% CI: 0.98-1.13). Within 90 days, patients with obesity had more polymicrobial infections (62 [18.5%] vs. 43 [11.3%]; ARD: 7.2%, 95% CI: 2.0%-12.5%) and more non-staphylococcal gram-positive organisms (69 [21%] vs. 54 [14%]; ARD: 6.3%, 95% CI: 0.8%-12%). Staphylococcus aureus was the most frequent pathogen in both groups (127 [38%] vs. 136 [36%]; ARD: 2.0%, 95% CI: -5.1% to 9.1%). CONCLUSIONS: Obesity was associated with an increased 2-year risk of PJI after KA; however, the risk of all-cause revision was comparable to that in patients without obesity. Within 90 days, patients with obesity exhibited a higher incidence of polymicrobial infections and non-staphylococcal gram-positive organisms. LEVEL OF EVIDENCE: Level II, prognostic studies-investigating natural history and evaluating the effect of a patient characteristic.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42377395/",
+      "score": 78,
+      "score_reasoning": "Large registry-based nationwide Danish study (111,117 patients) from KSSTA with direct clinical relevance quantifying obesity's impact on PJI and polymicrobial infection risk after knee arthroplasty.",
+      "bullets": [
+        "Obese patients undergoing knee arthroplasty have a 30% higher risk of revision for periprosthetic joint infection within 2 years compared to non-obese patients, with no significant difference in overall revision rates.",
+        "Within 90 days of surgery, obese patients are nearly twice as likely to develop polymicrobial infections, a pattern that should inform empiric antibiotic coverage decisions in this population.",
+        "Staphylococcus aureus remains the most common pathogen in both groups, but surgeons treating early PJI in obese patients should anticipate a broader range of organisms including non-staphylococcal gram-positive bacteria."
+      ]
+    },
+    {
+      "pmid": "42398594",
+      "title": "Preoperative Pneumonia and Its Association With Periprosthetic Joint Infection and Postoperative Complications After Total Hip and Knee Arthroplasty.",
+      "authors": [
+        "Parmar RP",
+        "Alhankawi AR",
+        "Holle AM",
+        "Verhey JT",
+        "Van Schuyver P",
+        "Tarabichi S",
+        "Deckey DG",
+        "Bingham JS"
+      ],
+      "authors_short": "Parmar RP, Alhankawi AR, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Pneumonia (PNA) is a leading cause of hospitalization among older adults, yet its effect on complications following total joint arthroplasty (TJA) remains unknown. This study evaluated the association between PNA within two years prior to total hip arthroplasty (THA) or total knee arthroplasty (TKA) and periprosthetic joint infection (PJI) and other complications. METHODS: Patients undergoing primary THA or TKA were identified from a national administrative claims database. Patients who had prior PNA were matched to controls who did not have PNA based on demographics and baseline comorbidities. Outcomes included postoperative medical and surgical complications, including PJI. Subgroup analyses were performed by PNA etiology and timing relative to surgery. RESULTS: In the THA cohort, 14,607 patients who had prior PNA were matched to 14,607 controls. Overall PNA was not associated with increased PJI risk; however, prior Staphylococcal PNA was (odds ratio (OR) 2.4, 95% confidence interval (CI) 1.2 to 5.0), particularly when occurring within three months of surgery (OR 5.2, 95% CI 1.8 to 14.5). In the TKA cohort, 6,271 matched pairs were analyzed. Overall PNA was not associated with increased PJI risk (P = 0.218), while bacterial PNA was (OR 1.98, P = 0.002); viral PNA was not (P = 0.842). Klebsiella pneumoniae carried the highest PJI risk (OR 12.22, P < 0.001). Bacterial PNA occurring three to six months (OR 2.78, P = 0.022) and six to 12 months prior to TKA (OR 2.98, P = 0.001) was also associated with increased PJI odds. DISCUSSION: Pathogen-specific PNA demonstrated time-dependent associations with PJI following TJA. Staphylococcal PNA within three months of THA and bacterial PNA, particularly Klebsiella pneumoniae, occurring three to 12 months before TKA were associated with elevated PJI risk. These findings suggest that PNA etiology and timing may be relevant in preoperative risk assessment for TJA.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42398594/",
+      "score": 77,
+      "score_reasoning": "Large national database study identifying specific pneumonia etiologies (Staphylococcal, Klebsiella) as significant PJI risk factors before TJA, providing actionable preoperative screening guidance with large matched cohorts.",
+      "bullets": [
+        "Bacterial pneumonia before total hip or knee arthroplasty raises periprosthetic joint infection risk, but viral pneumonia does not.",
+        "Staphylococcal pneumonia within three months of total hip arthroplasty and Klebsiella pneumonia within three to twelve months of total knee arthroplasty carry the highest infection risk.",
+        "When timing surgery after pneumonia, pathogen type and time since infection should be factored into preoperative risk discussions for arthroplasty patients."
+      ]
+    },
+    {
+      "pmid": "42373147",
+      "title": "The Impact of Anticoagulant Choice on Rates of Manipulation Under Anesthesia, Hematoma Formation, and Venous Thromboembolic Events.",
+      "authors": [
+        "Crowley B",
+        "Hollimon M",
+        "Joaquin T",
+        "Lawrence J",
+        "Levine BR"
+      ],
+      "authors_short": "Crowley B, Hollimon M, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Anticoagulation after total knee arthroplasty (TKA) remains a balance between clot prevention and postoperative bleeding. This study aimed to analyze anticoagulant choice for deep vein thrombosis prophylaxis on rates of stiffness requiring manipulation under anesthesia (MUA) and hematoma formation after TKA. METHODS: A large national database was queried for all primary TKAs. We included patients who filled a prescription for an anticoagulant within three days before or five days after surgery. We excluded those who filled prescriptions for multiple or no anticoagulants. Logistic regression was used to compare potent anticoagulants (warfarin, Xa inhibitors, and low molecular weight heparin (LMWH)) to our control group receiving aspirin. The primary outcomes of interest were MUA or hematoma formation within 90 days postoperatively. After applying the exclusion criteria, 462,869 patients were available to review. Of those, 148,159 (32.05%) received aspirin, followed by factor Xa inhibitors (123,909 [26.80%]), warfarin (96,338 [20.84%]), and LMWH (84,962 [18.38%]). RESULTS: Using logistic regression analyses, patients receiving factor Xa inhibitors (odds ratio [OR] 1.38 [95% confidence interval (CI) 1.32 to 1.43]), indirect factor Xa inhibitors (OR 1.33, [95% CI 1.19 to 1.48]), warfarin (OR 1.29 [95% CI 1.23 to 1.35]), and LMWH (OR 1.26, [95% CI 1.20 to 1.32]) had higher rates of MUA than the aspirin cohort. Additionally, when compared to aspirin, those receiving LMWH (OR 1.69 [95% CI 1.46 to 1.96]), indirect factor Xa inhibitors (OR 1.62 [95% CI 1.13 to 2.26]), direct factor Xa inhibitors (OR 1.55 [95% CI 1.35 to 1.78]), and warfarin (OR 1.33 [95% CI 1.14 to 1.55]) were at a significantly higher risk of hematoma formation. CONCLUSIONS: The use of aspirin for deep vein thrombosis prophylaxis after TKA is associated with a significantly lower risk of undergoing MUA and hematoma formation, without increasing the clotting risk profile, than more potent anticoagulants.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42373147/",
+      "score": 76,
+      "score_reasoning": "Large anticoagulation database study (462,869 primary TKA patients) from JBJS-level journal providing clinically actionable data comparing aspirin versus potent anticoagulants on MUA and hematoma rates after TKA.",
+      "bullets": [
+        "After total knee arthroplasty, patients on aspirin had lower rates of manipulation under anesthesia and hematoma formation than those on warfarin, factor Xa inhibitors, or low molecular weight heparin.",
+        "This applies to primary TKA patients who are candidates for chemical DVT prophylaxis and do not have a specific indication requiring more potent anticoagulation.",
+        "For appropriate TKA patients, aspirin appears to be the safer prophylaxis choice, reducing postoperative bleeding complications without increasing clot risk."
+      ]
+    },
+    {
+      "pmid": "42391570",
+      "title": "An analysis of risk factors for failure after operative treatment of displaced femoral neck fractures in patients 18-60 years of age.",
+      "authors": [
+        "Roddy E",
+        "Rockov Z",
+        "Firoozabadi R"
+      ],
+      "authors_short": "Roddy E, Rockov Z, Firoozabadi R",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To identify risk factors for failure after operative treatment of displaced femoral neck fractures in patients 60 years of age and younger. METHODS: Design: Retrospective cohort study. SETTING: Single level 1 academic trauma center. PATIENT SELECTION CRITERIA: All patients ages 18-60 years who underwent operative fixation of a displaced femoral neck fracture (AO/OTA 31B) between 2005 and 2024 were eligible for inclusion. Patients who were lost to follow-up prior to 6 months, or who had clear indications for hemiarthroplasty but underwent fixation due to medical and or social circumstances, were excluded. OUTCOME MEASURES AND COMPARISONS: The primary outcome was treatment failure, defined as femoral neck nonunion/fixation failure, development of avascular necrosis (AVN), and/or malunion (shortening \u2265 15mm or varus angulation). Patient, injury, and treatment factors were examined as risk factors for failure. RESULTS: Two hundred and twenty-three patients were included. The average age was 39 years (SD 12, range 18-60) and 78% were male. The rates of nonunion/fixation failure, AVN, and malunion were 13%, 19%, and 5%, respectively. The overall failure rate was 30%. In multivariable analysis, increased initial fracture displacement (OR 7.1, 95% CI 1.5-33.5, p=0.013), treatment with cannulated screws versus a fixed angle implant (OR 3.7, 95% CI 1.4-10.0, p=0.009), and good (rather than excellent) reduction (OR 5.6, 95% CI 2.0-15.7, p=0.001) were independently associated with nonunion/fixation failure. In multivariable analysis, medial fracture exit <1cm from the cranial edge of the lesser trochanter was associated with a decreased risk of AVN (OR 0.13, 95% CI 0.03-0.64, p=0.011), while increasing age (OR 1.07, 95% CI 1.01-1.15, p=0.036) and low energy mechanism (OR 9.5, 95% CI 2.4-38.6, p=0.002) were associated with increased risk of malunion. In univariable analysis, treatment with a static vs dynamic implant was not associated with risk of AVN, nonunion/fixation failure, or malunion (p>0.05 for all). CONCLUSIONS: In patients aged 18-60 with displaced femoral neck fractures treated with operative fixation, the overall failure rate (including AVN, nonunion, and malunion) was 30%. Medial fracture exit < 1cm from the cranial edge of the lesser trochanter was protective against the development of AVN. Increased initial fracture displacement, treatment with non-fixed angle implants, and achieving only good (rather than excellent) reduction were independently associated with increased risk of nonunion. LEVEL OF EVIDENCE: III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42391570/",
+      "score": 75,
+      "score_reasoning": "Clinically important retrospective cohort study identifying risk factors for failure after displaced femoral neck fracture fixation in young patients (18-60), with multivariable analysis confirming implant choice and reduction quality as independent predictors.",
+      "bullets": [
+        "In patients aged 18 to 60 with displaced femoral neck fractures treated with fixation, the overall failure rate was 30%, including 19% AVN and 13% nonunion.",
+        "Cannulated screws, greater initial displacement, and less than excellent reduction each independently increased the risk of nonunion, supporting fixed-angle implants and anatomic reduction as priorities.",
+        "A medial fracture exit point within 1 cm of the cranial lesser trochanter was protective against AVN, offering a radiographic landmark to guide intraoperative assessment."
+      ]
+    },
+    {
+      "pmid": "42390346",
+      "title": "Preoperative High-Sensitivity Troponin and Risk of In-Hospital Mortality and Cardiac Events after Hip Fracture Surgery.",
+      "authors": [
+        "Toure AS",
+        "Okafor K",
+        "Medilien B",
+        "Mather R",
+        "Parry J",
+        "Hernandez-Irizarry RC",
+        "Bradley CA",
+        "Ahn J",
+        "Schenker M"
+      ],
+      "authors_short": "Toure AS, Okafor K, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To evaluate whether preoperative hs-cTn elevation predicted in-hospital cardiac events and mortality following hip fracture surgery, and whether surgical delay modified this relationship. DESIGN: Retrospective cohort study. SETTING: Single Level 1 trauma center in the United States. PATIENT SELECTION CRITERIA: Adult patients who underwent hip fracture surgery between January 1, 2020, and December 31, 2024, and had a preoperative high-sensitivity cardiac troponin measurement as part of routine perioperative assessment were included. OUTCOME MEASURES AND COMPARISONS: The primary outcome was a composite of in-hospital cardiac event or mortality. Secondary outcomes were in-hospital mortality and in-hospital cardiac events analyzed separately. Outcomes were compared across preoperative troponin categories defined as normal (<30 ng/L), elevated (30-100 ng/L), and significantly elevated (>100 ng/L), as well as across surgical delay categories defined as <24 hours, 24-48 hours, and >48 hours. RESULTS: A total of 510 patients were included. Mean age was 76.3 \u00b1 14.1 years, and 291 patients (57.1%) were female. Preoperative troponin was normal in 424 patients (83.1%), elevated in 58 patients (11.4%), and significantly elevated in 28 patients (5.5%). Thirty-five patients (6.9%) experienced the composite outcome. The composite outcome occurred in 19 of 424 patients (4.5%) with normal troponin, 6 of 58 patients (10.3%) with elevated troponin, and 10 of 28 patients (35.7%) with significantly elevated troponin (p < 0.001). Mortality occurred in 8 of 424 patients (1.9%), 2 of 58 patients (3.4%), and 3 of 28 patients (10.7%), respectively (p = 0.015). Cardiac events occurred in 13 of 424 patients (3.1%), 4 of 58 patients (6.9%), and 9 of 28 patients (32.1%), respectively (p < 0.001). In adjusted models, elevated high-sensitivity cardiac troponin was associated with increased odds of the composite outcome (odds ratio [OR] 4.4, 95% confidence interval [CI] 1.1-17.9, p = 0.038), and significantly elevated troponin was associated with higher odds of the composite outcome (OR 16.1, 95% CI 3.6-72.4, p < 0.001). Higher American Society of Anesthesiologists class independently predicted the composite outcome and mortality, and longer length of stay was associated with cardiac events. CONCLUSIONS: Preoperative high-sensitivity cardiac troponin elevation was independently associated with in-hospital cardiac events and mortality after hip fracture surgery. Troponin levels greater than 100 ng/L identified patients at highest risk, independent of surgical delay. LEVEL OF EVIDENCE: Prognostic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42390346/",
+      "score": 73,
+      "score_reasoning": "Clinically relevant study of 510 hip fracture patients demonstrating that preoperative high-sensitivity troponin elevation strongly predicts in-hospital cardiac events and mortality, with actionable implications for perioperative management.",
+      "bullets": [
+        "In hip fracture patients, a preoperative troponin above 100 ng/L was associated with a 35% rate of in-hospital cardiac events or death, compared to 4.5% in those with normal troponin.",
+        "This risk stratification applies to elderly hip fracture patients and holds regardless of whether surgery was delayed less than 24 hours or beyond 48 hours.",
+        "Routine preoperative high-sensitivity troponin testing can identify the highest-risk hip fracture patients before they reach the operating room, allowing for targeted perioperative monitoring."
+      ]
+    },
+    {
+      "pmid": "42377369",
+      "title": "High failure rate after all-inside revision meniscal repair: Female sex and absence of ACL reconstruction increase risk.",
+      "authors": [
+        "von Essen C",
+        "Kekki C",
+        "Rizvanovic D",
+        "Cristiani R",
+        "St\u00e5lman A"
+      ],
+      "authors_short": "von Essen C, Kekki C, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To determine the failure rate and identify factors associated with failure following all-inside revision meniscal repair in patients with persistent or recurrent symptoms after primary meniscal repair. METHODS: This was a retrospective cohort study including 108 consecutive patients who underwent arthroscopic all\u2011inside revision meniscal repair between 2015 and 2022 at Capio Artro Clinic, Stockholm, Sweden. Evaluated factors included demographic variables (age, sex), surgical variables (concomitant anterior cruciate ligament reconstruction [ACLR]) and tear-specific characteristics (tear morphology and meniscal laterality). Failure was defined as repeat surgery for the index tear. Patients were followed for up to 3 years. Survivorship was assessed using Kaplan-Meier analysis, and factors associated with failure were evaluated using multivariable Cox regression. RESULTS: Failure occurred in 54 of 108 repairs (50.0%) at a mean of 18.3\u2009\u00b1\u200916.0 months. In unadjusted analyses, tear morphology was associated with failure (p\u2009=\u20090.026), with radial and horizontal tears showing the highest failure proportions and longitudinal tears the lowest. In the adjusted Cox model, female sex (hazard ratio [HR] 2.60, 95% confidence interval [CI] 1.36-4.95; p\u2009=\u20090.004) and absence of concomitant ACLR (HR 3.63, 95% CI 1.67-7.90; p\u2009=\u20090.001) were independently associated with failure. Age, meniscal laterality and tear morphology were not associated with adjusted survivorship. CONCLUSION: All-inside revision meniscal repair demonstrated a high failure rate of 50% at mid-term follow-up. Female sex and absence of concomitant ACLR were independently associated with an increased risk of failure. These findings highlight the importance of patient- and procedure-specific factors when considering revision meniscal repair as a tissue-preserving option. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42377369/",
+      "score": 71,
+      "score_reasoning": "Large prospective cohort of 935 knees directly measuring rotational variability between APA and PCA intraoperatively, providing novel data to inform trochlear implant design for unrestricted kinematic alignment TKA.",
+      "bullets": [
+        "Revision all-inside meniscal repair failed in 50% of patients by 3 years, requiring repeat surgery at a mean of 18 months.",
+        "Female sex and the absence of a concomitant ACL reconstruction were the strongest independent predictors of failure after revision repair.",
+        "When counselling patients about revision meniscal repair, surgeons should weigh these risk factors carefully, particularly in women and in knees without ACL instability being addressed at the same time."
+      ]
+    },
+    {
+      "pmid": "42376631",
+      "title": "Trends and Outcomes in Technology-Assisted Total Knee Arthroplasty in the United States From 2020 to 2024.",
+      "authors": [
+        "Kim MS",
+        "Brunette M",
+        "Pham E",
+        "Soriano K",
+        "DiGiovanni R",
+        "Hsiue P"
+      ],
+      "authors_short": "Kim MS, Brunette M, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Technology-assisted total knee arthroplasty (TA-TKA), including computer navigation and robotic assistance, has been developed to improve implant alignment and soft tissue balance. While utilization has increased, evidence regarding clinical benefit remains mixed. This study evaluated national and regional utilization trends of TA-TKA and compared postoperative complication rates with manual TKA (M-TKA). METHODS: Patients undergoing primary TKA between January 1, 2020, and December 31, 2024, were identified in the TriNetX United States Collaborative Network. Patient demographics, hospital characteristics, and postoperative complications were obtained. Cohorts were 1:1 propensity score matched for sex, body mass index, and comorbidities. Surgical complications were compared at 0-30 days, 31-90 days, and 91 days-3 years between M-TKA and TA-TKA cohorts. In addition, subanalysis was conducted comparing 3-year surgical complication rates between TA-TKA and M-TKA, stratified by region. RESULTS: Of 198,263 TKA patients, 147,156 underwent M-TKA and 39,624 underwent TA-TKA. TA-TKA utilization increased by 375%, from 11.9% in 2020 to 27.0% in 2024 (P < .0001). After matching, TA-TKA was associated with lower risks of periprosthetic fracture, deep infection, revision surgery, and aseptic loosening (all P \u2264 .031). Across all regions, statistically significant findings demonstrated decreased risk of surgical complications at 3 years associated with TA-TKA when compared to M-TKA (P < .001). CONCLUSIONS: TA-TKA utilization has more than doubled in recent years, though adoption remains variable across regions and institutions. Compared with M-TKA, TA-TKA was associated with significantly lower surgical complication rates through 3 years of follow-up. These findings support continued adoption of TA-TKA and highlight the need for further research on long-term outcomes and cost-effectiveness.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42376631/",
+      "score": 70,
+      "score_reasoning": "Large matched cohort (45,788 patients) from Arthroplasty Today identifying sex-specific complication profiles in anemic THA patients, directly informing preoperative optimization strategies.",
+      "bullets": [
+        "Technology-assisted TKA (robotic and navigation combined) grew from 12% to 27% of all primary TKAs in the US between 2020 and 2024.",
+        "Compared to manual TKA, technology-assisted TKA was associated with lower rates of periprosthetic fracture, deep infection, aseptic loosening, and revision surgery out to 3 years.",
+        "These findings apply broadly across US regions and support offering technology-assisted TKA to primary TKA patients where available, though cost-effectiveness data are still needed."
+      ]
+    },
+    {
+      "pmid": "42365473",
+      "title": "The Incidence of Subtalar Facet Penetration and Its Impact on Clinical and Radiographic Outcome in Lateral Lengthening Calcaneal Osteotomies.",
+      "authors": [
+        "Scheurer FA",
+        "Suter D",
+        "Fritz B",
+        "Smolle MA",
+        "Beeler S",
+        "Vieh\u00f6fer A",
+        "Wirth S"
+      ],
+      "authors_short": "Scheurer FA, Suter D, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Lateral lengthening calcaneal osteotomy (LLOT, Evans and Hintermann) is widely used to treat progressive collapsing foot deformity (PCFD). In the Evans osteotomy, the cut is performed proximal to the calcaneocuboid joint, carrying a risk of violating the anterior or middle subtalar facet. Hintermann proposed a modified technique placing the osteotomy between the middle and posterior facets to reduce risks. Although anatomical studies have shown potential facet involvement, clinical data on the actual incidence and its impact on long-term outcomes remain scarce. This study aimed to determine the incidence of subtalar facet penetration after LLOT and to evaluate its effect on clinical and radiographic results. METHODS: All patients aged \u226518\u2009years who underwent LLOT (Evans or Hintermann osteotomy) at our institution between January 1, 2010, and December 31, 2020, were included. Postoperative computed tomography (CT) was performed 6\u2009weeks after surgery to assess possible subtalar facet violation. At a minimum follow-up of 5\u2009years, magnetic resonance imaging (MRI) was obtained to evaluate cartilage and ligament integrity. Clinical outcomes at the time of MRI were assessed using the Foot Function Index (FFI) and the American Orthopaedic Foot & Ankle Society (AOFAS) score. Demographic variables, including type of osteotomy and outcome measures, were compared between patients with and without facet penetration. RESULTS: Thirty-one patients met inclusion criteria. Subtalar facet penetration was detected in 11 patients (35%) on postoperative CT. No significant differences were observed between groups with respect to demographic variables. MRI analysis revealed no relevant differences in cartilage degeneration. FFI and AOFAS scores were comparable between groups. CONCLUSION: Subtalar facet penetration occurred in one-third of patients after LLOT (Evans and Hintermann). With the numbers available, no significant differences in clinical or radiographic outcomes were detected at a minimum 5-year follow-up, suggesting that minor facet violations may have limited clinical relevance. LEVEL OF EVIDENCE: Level III, retrospective cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42365473/",
+      "score": 68,
+      "score_reasoning": "Large national database registry study (35,139 ACLRs) from AJSM with high clinical relevance quantifying risk of revision and PROMs after ACL reconstruction with concomitant MCL injury and varying graft choices.",
+      "bullets": [
+        "Subtalar facet penetration occurred in one-third of patients after lateral lengthening calcaneal osteotomy, affecting both Evans and Hintermann techniques equally.",
+        "In adult patients with progressive collapsing foot deformity, facet penetration did not lead to measurable cartilage damage on MRI at five years.",
+        "Surgeons can be reassured that minor subtalar facet violations during calcaneal lengthening osteotomy do not appear to worsen functional or radiographic outcomes at mid-term follow-up."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-07-06T06:43:54.599670-07:00"
+}
