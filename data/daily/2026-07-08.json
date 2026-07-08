@@ -1,0 +1,297 @@
+{
+  "brief_date": "2026-07-08",
+  "brief_date_display": "Wednesday, July 08",
+  "candidates": [
+    {
+      "pmid": "42391570",
+      "title": "An analysis of risk factors for failure after operative treatment of displaced femoral neck fractures in patients 18-60 years of age.",
+      "authors": [
+        "Roddy E",
+        "Rockov Z",
+        "Firoozabadi R"
+      ],
+      "authors_short": "Roddy E, Rockov Z, Firoozabadi R",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To identify risk factors for failure after operative treatment of displaced femoral neck fractures in patients 60 years of age and younger. METHODS: Design: Retrospective cohort study. SETTING: Single level 1 academic trauma center. PATIENT SELECTION CRITERIA: All patients ages 18-60 years who underwent operative fixation of a displaced femoral neck fracture (AO/OTA 31B) between 2005 and 2024 were eligible for inclusion. Patients who were lost to follow-up prior to 6 months, or who had clear indications for hemiarthroplasty but underwent fixation due to medical and or social circumstances, were excluded. OUTCOME MEASURES AND COMPARISONS: The primary outcome was treatment failure, defined as femoral neck nonunion/fixation failure, development of avascular necrosis (AVN), and/or malunion (shortening \u2265 15mm or varus angulation). Patient, injury, and treatment factors were examined as risk factors for failure. RESULTS: Two hundred and twenty-three patients were included. The average age was 39 years (SD 12, range 18-60) and 78% were male. The rates of nonunion/fixation failure, AVN, and malunion were 13%, 19%, and 5%, respectively. The overall failure rate was 30%. In multivariable analysis, increased initial fracture displacement (OR 7.1, 95% CI 1.5-33.5, p=0.013), treatment with cannulated screws versus a fixed angle implant (OR 3.7, 95% CI 1.4-10.0, p=0.009), and good (rather than excellent) reduction (OR 5.6, 95% CI 2.0-15.7, p=0.001) were independently associated with nonunion/fixation failure. In multivariable analysis, medial fracture exit <1cm from the cranial edge of the lesser trochanter was associated with a decreased risk of AVN (OR 0.13, 95% CI 0.03-0.64, p=0.011), while increasing age (OR 1.07, 95% CI 1.01-1.15, p=0.036) and low energy mechanism (OR 9.5, 95% CI 2.4-38.6, p=0.002) were associated with increased risk of malunion. In univariable analysis, treatment with a static vs dynamic implant was not associated with risk of AVN, nonunion/fixation failure, or malunion (p>0.05 for all). CONCLUSIONS: In patients aged 18-60 with displaced femoral neck fractures treated with operative fixation, the overall failure rate (including AVN, nonunion, and malunion) was 30%. Medial fracture exit < 1cm from the cranial edge of the lesser trochanter was protective against the development of AVN. Increased initial fracture displacement, treatment with non-fixed angle implants, and achieving only good (rather than excellent) reduction were independently associated with increased risk of nonunion. LEVEL OF EVIDENCE: III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42391570/",
+      "score": 78,
+      "score_reasoning": "Large prospective multicenter study with 111,117 patients from a national registry directly addressing obesity and PJI risk after knee arthroplasty with important microbial profile data highly relevant to surgical decision-making.",
+      "bullets": [
+        "In patients aged 18 to 60 with displaced femoral neck fractures fixed operatively, the overall failure rate was 30%, including 19% AVN and 13% nonunion.",
+        "Cannulated screws, greater initial displacement, and anything less than excellent reduction each independently increased the risk of nonunion, supporting use of fixed-angle implants and anatomic reduction.",
+        "A medial fracture exit point within 1 cm of the cranial lesser trochanter was protective against AVN, suggesting fracture geometry should guide implant planning and patient counseling."
+      ]
+    },
+    {
+      "pmid": "42391519",
+      "title": "Uncorrected Preoperative Malnutrition Is Associated with Worse Outcomes After Operative Fixation of Diaphyseal Tibial Fractures.",
+      "authors": [
+        "Pereira DE",
+        "McCoy L",
+        "Harrison NJ",
+        "Bushe K",
+        "Kotzur T",
+        "McAndrew C",
+        "Berkes M",
+        "Obey M",
+        "Wilson JL"
+      ],
+      "authors_short": "Pereira DE, McCoy L, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To evaluate whether serum markers of malnutrition were associated with postoperative complications after tibial shaft fracture fixation, and whether postoperative correction mitigates this risk. METHODS: Design: Retrospective cohort study. SETTING: Multicenter (50 healthcare centers; North American national database). PATIENT SELECTION CRITERIA: Adult patients \u226518 years of age undergoing fixation of tibial shaft fractures (OTA/AO 42) between January 1, 2013, and December 31, 2022, with a minimum of one year of follow-up were included. Patients with a history of malignancy or Gustilo-Anderson type III open fractures were excluded from the study. OUTCOMES MEASURES AND COMPARISONS: The primary outcome was the occurrence of postoperative complications. Patients with serum markers for malnutrition were compared to matched controls. Malnourished patients with subsequently normalized serum markers were compared to previously matched healthy cohorts and cohorts with persistent malnutrition. RESULTS: Following matching, a total of 10,722 patients were included for primary analysis: 5,361 malnourished patients with mean age 52 (range 18-90), 53.6% male and 5,361 control with mean age 53.2 (range 18-90) with 52.9% male. Preoperative malnutrition was associated with significantly higher rates of postoperative complications, including nonunion (RR=1.4), revision surgery (RR>1.4), infection (RR>2.0), failure of fixation (RR=1.3), thromboembolic events (RR>2.0), and sepsis (RR>2.0) (all p < 0.001). Among patients with preoperative malnutrition, those with uncorrected postoperative serum markers demonstrated higher risks of nonunion, revision, infection, and implant failure compared to those with serum markers that were corrected postoperatively (RR>2.0, all p<0.001). However, when compared to patients with normal preoperative nutrition values, individuals with postoperatively corrected malnutrition remained at increased risk for revision and infection (RR>1.4, all p=0.002) but not nonunion (6.5% vs. 5.6%, p>0.05) or failure of fixation (4.6% vs. 4.1%, p>0.05). CONCLUSIONS: Malnutrition was associated with adverse surgical outcomes following tibial shaft fracture fixation, with significantly higher rates of nonunion, revision procedures, infection, wound complications, thromboembolic events, and medical morbidity compared with patients with normal preoperative nutrition. Postoperative correction of nutritional deficiencies reduced complication risk; however, residual risk remained elevated relative to patients with normal preoperative nutritional markers. These findings highlight malnutrition as a partially modifiable risk factor in tibial shaft fracture repair and support nutritional optimization as a part of postoperative management to improve patient outcomes. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42391519/",
+      "score": 76,
+      "score_reasoning": "Highly clinically relevant systematic review and meta-analysis of tourniquet use in cemented TKA with 54,561 knees from a prestigious journal, providing actionable data on fixation and revision outcomes for a near-universal intraoperative decision.",
+      "bullets": [
+        "Malnourished adults undergoing tibial shaft fracture fixation had significantly higher rates of nonunion, infection, revision surgery, implant failure, clot, and sepsis compared to well-nourished patients.",
+        "Correcting nutritional deficiencies after surgery reduced complication risk, but patients still had higher rates of revision and infection compared to those who were well-nourished preoperatively.",
+        "Screen and optimize nutrition in tibial shaft fracture patients before and after fixation, as malnutrition is a partially modifiable risk factor that raises complication rates even when corrected postoperatively."
+      ]
+    },
+    {
+      "pmid": "42409292",
+      "title": "Tourniquet Use in Cemented Total Knee Arthroplasty: Small Gains in Fixation, No Clear Benefit in Aseptic Loosening. A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Klincke V",
+        "Descamps T",
+        "Tampere T",
+        "Arnout N",
+        "Victor J",
+        "Vermue H"
+      ],
+      "authors_short": "Klincke V, Descamps T, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: The effect of tourniquet (TQ) use in primary total knee arthroplasty (TKA) on implant fixation and survival remains uncertain. This review evaluated fixation and revision outcomes after TKA performed with versus without TQ. METHODS: Following Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 guidelines, three databases were searched up to September 26, 2025. Comparative studies of primary cemented TKA were included if one group was operated on with and another without the use of a TQ. Outcomes were cement penetration, radiostereometric analysis (RSA)/maximum total point motion (MTPM), radiolucent lines (RLLs), aseptic loosening, and revision. Random-effects meta-analyses generated mean differences (MD) or risk ratios (RR) with 95% confidence intervals (CI). There were 26 studies comprising 54,561 knees (13,540 no TQ, 40,931 full TQ, and 90 partial TQ) included. RESULTS: The use of a TQ was associated with greater cumulative tibial baseplate cement penetration (six zones: MD: -0.92 mm (95% CI [-1.77 to -0.08]), P = 0.03; 10 zones: MD: -2.59 mm (95% CI [-4.67 to -0.52]), P = 0.01), while most femoral and isolated tibial zones did not differ. There were no between-group differences found in RSA/MTPM studies at 12 or 24 months as well as in RRL studies. All-cause revision at three to 12 years was modestly higher without a TQ (RR: 1.38 (95% CI [1.18 to 1.61]), P < 0.0001), whereas the rate of revision for and diagnosis of aseptic loosening did not differ. CONCLUSION: The use of a tourniquet in primary cemented TKA was associated with reduced all-cause revision, but not with consistently improved radiographic fixation and cement penetration or a reduced rate of aseptic loosening, which limits causal interpretation.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42409292/",
+      "score": 75,
+      "score_reasoning": "Large retrospective cohort (223 patients) addressing a high-stakes clinical question about failure risk factors in young displaced femoral neck fractures, with strong multivariate analysis showing fixed-angle implants superior to cannulated screws.",
+      "bullets": [
+        "Tourniquet use in cemented TKA produces slightly better tibial cement penetration overall, but most individual bone zones show no difference.",
+        "All-cause revision rates are modestly higher without a tourniquet, yet rates of aseptic loosening specifically are the same in both groups.",
+        "For surgeons doing cemented primary TKA, tourniquet use may reduce revision risk, but the mechanism is unclear and a switch in practice is not yet supported by the evidence."
+      ]
+    },
+    {
+      "pmid": "42398594",
+      "title": "Preoperative Pneumonia and Its Association With Periprosthetic Joint Infection and Postoperative Complications After Total Hip and Knee Arthroplasty.",
+      "authors": [
+        "Parmar RP",
+        "Alhankawi AR",
+        "Holle AM",
+        "Verhey JT",
+        "Van Schuyver P",
+        "Tarabichi S",
+        "Deckey DG",
+        "Bingham JS"
+      ],
+      "authors_short": "Parmar RP, Alhankawi AR, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Pneumonia (PNA) is a leading cause of hospitalization among older adults, yet its effect on complications following total joint arthroplasty (TJA) remains unknown. This study evaluated the association between PNA within two years prior to total hip arthroplasty (THA) or total knee arthroplasty (TKA) and periprosthetic joint infection (PJI) and other complications. METHODS: Patients undergoing primary THA or TKA were identified from a national administrative claims database. Patients who had prior PNA were matched to controls who did not have PNA based on demographics and baseline comorbidities. Outcomes included postoperative medical and surgical complications, including PJI. Subgroup analyses were performed by PNA etiology and timing relative to surgery. RESULTS: In the THA cohort, 14,607 patients who had prior PNA were matched to 14,607 controls. Overall PNA was not associated with increased PJI risk; however, prior Staphylococcal PNA was (odds ratio (OR) 2.4, 95% confidence interval (CI) 1.2 to 5.0), particularly when occurring within three months of surgery (OR 5.2, 95% CI 1.8 to 14.5). In the TKA cohort, 6,271 matched pairs were analyzed. Overall PNA was not associated with increased PJI risk (P = 0.218), while bacterial PNA was (OR 1.98, P = 0.002); viral PNA was not (P = 0.842). Klebsiella pneumoniae carried the highest PJI risk (OR 12.22, P < 0.001). Bacterial PNA occurring three to six months (OR 2.78, P = 0.022) and six to 12 months prior to TKA (OR 2.98, P = 0.001) was also associated with increased PJI odds. DISCUSSION: Pathogen-specific PNA demonstrated time-dependent associations with PJI following TJA. Staphylococcal PNA within three months of THA and bacterial PNA, particularly Klebsiella pneumoniae, occurring three to 12 months before TKA were associated with elevated PJI risk. These findings suggest that PNA etiology and timing may be relevant in preoperative risk assessment for TJA.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42398594/",
+      "score": 74,
+      "score_reasoning": "Large national registry study (111,117 patients) from a solid journal providing actionable guidance on PJI risk stratification by obesity status and microbial profiles after knee arthroplasty.",
+      "bullets": [
+        "Pneumonia before total joint arthroplasty raises PJI risk only when caused by specific bacteria, not viruses or pneumonia overall.",
+        "Staphylococcal pneumonia within 3 months of THA and Klebsiella pneumoniae within 3 to 12 months of TKA carry the highest PJI risk.",
+        "Surgeons should document pneumonia pathogen and timing when assessing arthroplasty candidates, as bacterial etiology and recent infection may warrant delaying surgery."
+      ]
+    },
+    {
+      "pmid": "42376631",
+      "title": "Trends and Outcomes in Technology-Assisted Total Knee Arthroplasty in the United States From 2020 to 2024.",
+      "authors": [
+        "Kim MS",
+        "Brunette M",
+        "Pham E",
+        "Soriano K",
+        "DiGiovanni R",
+        "Hsiue P"
+      ],
+      "authors_short": "Kim MS, Brunette M, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Technology-assisted total knee arthroplasty (TA-TKA), including computer navigation and robotic assistance, has been developed to improve implant alignment and soft tissue balance. While utilization has increased, evidence regarding clinical benefit remains mixed. This study evaluated national and regional utilization trends of TA-TKA and compared postoperative complication rates with manual TKA (M-TKA). METHODS: Patients undergoing primary TKA between January 1, 2020, and December 31, 2024, were identified in the TriNetX United States Collaborative Network. Patient demographics, hospital characteristics, and postoperative complications were obtained. Cohorts were 1:1 propensity score matched for sex, body mass index, and comorbidities. Surgical complications were compared at 0-30 days, 31-90 days, and 91 days-3 years between M-TKA and TA-TKA cohorts. In addition, subanalysis was conducted comparing 3-year surgical complication rates between TA-TKA and M-TKA, stratified by region. RESULTS: Of 198,263 TKA patients, 147,156 underwent M-TKA and 39,624 underwent TA-TKA. TA-TKA utilization increased by 375%, from 11.9% in 2020 to 27.0% in 2024 (P < .0001). After matching, TA-TKA was associated with lower risks of periprosthetic fracture, deep infection, revision surgery, and aseptic loosening (all P \u2264 .031). Across all regions, statistically significant findings demonstrated decreased risk of surgical complications at 3 years associated with TA-TKA when compared to M-TKA (P < .001). CONCLUSIONS: TA-TKA utilization has more than doubled in recent years, though adoption remains variable across regions and institutions. Compared with M-TKA, TA-TKA was associated with significantly lower surgical complication rates through 3 years of follow-up. These findings support continued adoption of TA-TKA and highlight the need for further research on long-term outcomes and cost-effectiveness.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42376631/",
+      "score": 73,
+      "score_reasoning": "Systematic review with meta-analysis of 10,248 patients confirming TXA efficacy and safety in revision THA/TKA, directly applicable to a common perioperative decision with meaningful blood loss reduction and no increased VTE risk.",
+      "bullets": [
+        "Technology-assisted total knee arthroplasty use in the US grew from 12% to 27% of all primary TKAs between 2020 and 2024.",
+        "Compared to manual TKA, technology-assisted TKA was associated with lower rates of periprosthetic fracture, deep infection, revision, and aseptic loosening through 3 years across all US regions.",
+        "For surgeons performing primary TKA, this large national dataset supports technology-assisted techniques as reducing measurable surgical complications, though regional adoption remains uneven."
+      ]
+    },
+    {
+      "pmid": "42406845",
+      "title": "Timing of Vascular Endothelial Growth Factor Inhibitor Reinitiation and Risk of Wound Complications in Spinal Metastasis Surgery.",
+      "authors": [
+        "Su CC",
+        "Pan YT",
+        "Lin YP",
+        "Chou CC",
+        "Yen HK",
+        "Tsai HC",
+        "Hsieh HC",
+        "Lin WH",
+        "Hu MH",
+        "Groot OQ"
+      ],
+      "authors_short": "Su CC, Pan YT, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Vascular endothelial growth factor inhibitors (VEGFi) are widely used for metastatic cancer management but are known to impair wound-healing. In spinal metastasis surgery, postoperative wound complications remain a clinical challenge, and the perioperative management of systemic antineoplastic therapies remains poorly defined. Current recommendations regarding postoperative VEGFi reinitiation are largely consensus-based and range from 28 to 40 days. The aims of this study were to evaluate the association between perioperative antineoplastic therapies and wound complications and to define the optimal timing of postoperative VEGFi reinitiation. METHODS: This retrospective cohort study included 1,164 Taiwanese patients (684 male and 480 female; median age, 60.7 years [interquartile range, 51.5 to 68.8 years]) who underwent spinal metastasis surgery at a single tertiary center between 2010 and 2022. The outcome was postoperative wound complications within 90 days. Multivariable logistic regression was used to identify independent risk factors. The association between the timing of postoperative VEGFi reinitiation and wound complications was assessed using receiver operating characteristic curve analysis and the Fisher exact test. RESULTS: Wound complications occurred in 301 patients (25.9%). Multivariable analysis identified diabetes mellitus (odds ratio [OR] = 4.58; p < 0.001), poor performance status (Eastern Cooperative Oncology Group score \u22652; OR = 3.07; p = 0.002), perioperative use of VEGFi (OR = 4.12; p < 0.001), and perioperative use of antimetabolites (OR = 2.24; p = 0.04) as independent risk factors. Patients reinitiating VEGFi within 40 days had higher complication rates than both nonusers and those reinitiating VEGFi after 40 days, with the former comparison reaching statistical significance. CONCLUSIONS: One-quarter of the patients undergoing spinal metastasis surgery experienced postoperative wound complications. Perioperative use of VEGFi was an independent predictor, and our results suggest that there should be a postoperative cessation interval of 40 days to reduce wound-related risk. Clinicians should balance the oncologic benefits of early VEGFi reinitiation against the heightened risk of complications. LEVEL OF EVIDENCE: Therapeutic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42406845/",
+      "score": 72,
+      "score_reasoning": "Comprehensive JBJS review article on osteochondral autograft transfer with clear clinical decision-making guidance on indications, technique, and outcomes including >85% return-to-sport rates, highly relevant to joint-preserving surgery in young patients.",
+      "bullets": [
+        "One in four patients undergoing spinal metastasis surgery developed a wound complication within 90 days, with diabetes, poor functional status, and perioperative VEGFi or antimetabolite use as independent risk factors.",
+        "Restarting VEGFi within 40 days of spinal metastasis surgery significantly increased wound complication rates compared to waiting longer or not using VEGFi at all.",
+        "For patients on VEGFi undergoing spinal metastasis surgery, delaying reinitiation to at least 40 days postoperatively reduces wound risk, though oncologic timing must be weighed with the treating medical oncologist."
+      ]
+    },
+    {
+      "pmid": "42398111",
+      "title": "Intraoperative variability between the anteroposterior and posterior condylar axes in primary TKA supports a 20\u00b0 proximal trochlear entrance design for unrestricted kinematic alignment.",
+      "authors": [
+        "McPherson EJ",
+        "Kallini JR",
+        "Pena DD",
+        "Dipane MV",
+        "Chowdhry M"
+      ],
+      "authors_short": "McPherson EJ, Kallini JR, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: Unrestricted kinematic alignment (uKA) in total knee arthroplasty (TKA) creates a challenge for trochlear design. Femoral implants designed for mechanical alignment (MA) use asymmetrical posterior bone cuts to adjust axial rotation and optimize patellofemoral tracking. In uKA, posterior bone cuts are calipered resections. There is no rotational adjustment. The prosthetic trochlea is therefore fixed relative to the posterior condylar axis (PCA). The rotational variability between the native anteroposterior axis (APA) and the PCA determines the proximal trochlear entrance width required to capture the patella. This study directly measured this rotational relationship intraoperatively and determined whether a dedicated trochlear design is required for the uKA technique. METHODS: A prospective cohort study was performed in consecutive patients undergoing primary TKA for osteoarthritis or inflammatory arthritis. A single implant system was used in all cases. All measurements were performed by a single senior surgeon. After distal femoral resection, the APA line was marked on the bone using a dedicated marking jig. A posterior condylar referencing jig with a 1\u00b0 haptic rotational dial was then used to record the rotational difference of the APA line relative to the PCA line (PCAL). RESULTS: A total of 935 knees in 739 patients were analysed. Three hundred fifty-seven knees (38%) were male. Mean age was 67 years (range: 27-96). Relative to the PCAL, the mean APA line rotation was 1.3\u00b0 of external rotation (ER; standard deviation 2.7\u00b0). The range was wide, from 8\u00b0 of internal rotation to 10\u00b0 of ER. The distribution was unimodal and broadly bell-shaped. CONCLUSION: The intraoperative rotation between the APA line and the PCAL, measured during primary TKA, spans an 18\u00b0 range, which may exceed the capture of MA-designed proximal trochlear entrances. A 20\u00b0 trochlear entrance design is proposed (a 1\u00b0 margin at each end) for implants used for uKA. Prospective biomechanical and clinical validation is needed. LEVEL OF EVIDENCE: Level III, prospective observational cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42398111/",
+      "score": 71,
+      "score_reasoning": "Large retrospective cohort (1,164 patients) in JBJS addressing the clinically important and poorly defined question of optimal VEGFi reinitiation timing after spinal metastasis surgery, with actionable ROC-derived thresholds.",
+      "bullets": [
+        "In 935 knees undergoing primary TKA, the rotational difference between the anteroposterior axis and the posterior condylar axis ranged 18 degrees, from 8 degrees internal rotation to 10 degrees external rotation.",
+        "This variability means that in unrestricted kinematic alignment TKA, where no rotational adjustment is made to the femoral cut, a standard mechanically aligned trochlear design may fail to capture the patella in a significant number of cases.",
+        "A trochlear entrance width of 20 degrees is proposed for implants used with unrestricted kinematic alignment to safely accommodate this rotational range, though clinical validation is still needed."
+      ]
+    },
+    {
+      "pmid": "42390157",
+      "title": "Impact Microindentation Evaluates Bone Strength, Bone Quality, and Fracture Susceptibility Across Skeletal Sites: A Cadaver Study.",
+      "authors": [
+        "Vaidya RS",
+        "Jahani B",
+        "Jin JM",
+        "Gonzalez CC",
+        "Pujari B",
+        "Krothapalli S",
+        "Tang SY"
+      ],
+      "authors_short": "Vaidya RS, Jahani B, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Impact microindentation (IMI) is a minimally invasive technique for assessing bone material properties that can be performed clinically. In this study, we aimed to determine how measurements obtained by IMI (bone material strength index [BMSi]) relate to bone strength, fracture resistance, and susceptibility to fracture. QUESTIONS/PURPOSES: (1) Is BMSi associated with bone strength of the femur, radius, and vertebrae, and does incorporating BMSi alongside bone mineral density (BMD) improve the estimation of strength? (2) Does BMSi evaluate fracture toughness and mechanical properties of the bone tissue? (3) Can BMSi discriminate fracture susceptibility of the hip and wrist? METHODS: This single-site laboratory study included the tibiae, femurs, radii, and L4 vertebrae from fresh-frozen cadavers (n = 67; mean \u00b1 SD age 71 \u00b1 13 years). To answer the first question, IMI was performed on the tibia midshaft, dual-energy x-ray absorptiometry (DXA) was used to assess hip and spine BMD, and bone strength (ultimate fracture force) was mechanically determined for each site. To address the second question, stress intensity factor (KC) was quantified from notched cortical bone beam specimens from tibiae using the fracture toughness test. Bone mechanical behavior (ultimate stress, elastic modulus, work-to-fracture), microstructure (cortical porosity, tissue mineral density), and organic matrix quality (percentage of collagen denaturation, concentration of advanced glycation end products) were quantified from beam specimens from the femoral midshaft. To address the last question, hip and wrist fracture susceptibility was defined using the fall-load to fracture-load ratio, where values \u2265 1 indicate susceptibility. Receiver operating characteristic (ROC) curve analyses evaluated the ability of IMI and DXA to discriminate fracture susceptibility. Primary outcomes included evaluating the association between BMSi and BMD with bone strength and ROC analysis for discriminating fracture susceptibility. RESULTS: Higher BMSi values were positively associated with higher bone strength, showing moderate association at the femur (r = 0.62 [95% confidence interval (CI) 0.49 to 0.72]; p < 0.001) and radius (r = 0.52 [95% CI 0.34 to 0.72]; p < 0.001) and weaker association at the L4 vertebrae (r = 0.31 [95% CI 0.03 to 0.53]; p = 0.02). At the femur, BMSi was more strongly associated with strength than total hip BMD (TH-BMD) (r = 0.45 [95% CI 0.3 to 0.62]; p < 0.001), and the inclusion of BMSi in multivariate analyses improved the explained variance in femur strength from 28% to 52% (\u0394R2 = 0.24; p < 0.001). At the radius, both BMSi and TH-BMD (r = 0.50 [95% CI 0.31 to 0.71]; p < 0.01) showed moderate association with radius strength, with the combined model improving the explained variance in radius strength from 28% to 39% (\u0394R2 = 0.11; p < 0.001). At the vertebrae, strength was weakly associated with BMSi (r = 0.31 [95% CI 0.03 to 0.53]; p = 0.02) but not with BMD. For the hip and wrist of each donor, BMSi discriminated hip fracture susceptibility with moderate accuracy (area under the curve [AUC] 0.75 [95% CI 0.63 to 0.88]; p < 0.001), whereas TH-BMD could not discriminate hip fracture susceptibility. Both BMSi (AUC 0.77 [95% CI 0.63 to 0.90]; p = 0.003) and TH-BMD (AUC 0.78 [95% CI 0.64 to 0.90]; p = 0.002) classified wrist fracture susceptibility with modest discriminatory performance. CONCLUSION: Our study demonstrates that BMSi provides information related to bone strength and discriminates fracture susceptibility of the hip and wrist. CLINICAL RELEVANCE: IMI can be performed at the point of care using an FDA-cleared device and used to evaluate fragility in patients in whom fracture risk or bone strength is uncertain based on BMD alone. Prospective clinical studies are needed to determine whether IMI improves fracture risk prediction and informs patient treatment.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42390157/",
+      "score": 69,
+      "score_reasoning": "Prospective cohort study addressing preoperative high-sensitivity troponin as a predictor of cardiac events and mortality after hip fracture surgery, with clear risk stratification thresholds directly applicable to perioperative management.",
+      "bullets": [
+        "Impact microindentation (BMSi) correlated with bone strength at the hip and wrist better than DXA alone, and adding BMSi to BMD nearly doubled the explained variance in femoral strength.",
+        "BMSi identified hip fracture susceptibility with moderate accuracy in older cadaver donors where standard DXA failed to discriminate risk.",
+        "For patients whose fracture risk remains unclear after DXA, bedside impact microindentation offers an additional bone quality assessment using an FDA-cleared device."
+      ]
+    },
+    {
+      "pmid": "42374824",
+      "title": "Two-Stage vs Single-Stage Ilizarov Application in High-Risk Patients: Impact on Early Complications and Resource Utilization.",
+      "authors": [
+        "Fischer L",
+        "Vieh\u00f6fer A",
+        "Castroviejo C",
+        "Tsolakidis A",
+        "Zendeli F",
+        "Flury A",
+        "Wirth S"
+      ],
+      "authors_short": "Fischer L, Vieh\u00f6fer A, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Patients treated with an Ilizarov external fixator often feature risk factors that impair wound healing such as diabetes, peripheral arterial disease, obesity, and renal insufficiency. A 2-staged approach, with initial bony correction (Kirschner wire or hybrid) followed by delayed Ilizarov application by 5\u2009days, is intended to support wound healing by allowing for reduction of soft tissue swelling and enhancing postoperative wound care. We hypothesized that this method is associated with fewer wound complications but increased use of resources. METHODS: A retrospective review of 98 cases treated with an Ilizarov fixator (2004-2024) was conducted. Surgical management included 2-stage (n\u2009=\u200953, 54%) and single-stage (n\u2009=\u200945, 46%) procedures. Baseline characteristics and risk factors for compromised wound healing were recorded. Patients were stratified into 3 subgroups to enable comparative analysis: infection-related reconstructions (IRR), Charcot arthropathy (CA) and other applications. Preoperative presence of infection and ulceration was recorded. Primary endpoints were rates of impaired wound healing and wound revisions within 3 months post removal. Secondary endpoints were hospital length of stay after bony fixation, and total hospitalization costs. RESULTS: Wound revision rates were significantly lower in the 2-stage group (9% vs 36%; OR 5.3, 95% CI 1.8-17.9; P\u2009=\u2009.0025) particularly in the CA subgroup (0% vs 38%; P\u2009=\u2009.010) or when an infection was present (14% vs 44%; OR 4.6, 95% CI 1.2-22.3, P\u2009=\u2009.0138). Impaired wound healing was significantly lower in patients with a 2-stage procedure (30% vs 55%; OR 2.9, 95% CI 1.3-6.6, P\u2009=\u2009.021). As an exploratory secondary outcome, no statistically significant difference in length of hospital stay or total hospitalization costs was observed. CONCLUSION: Two-stage Ilizarov ring fixator application in high-risk foot and ankle surgery was associated with lower rates of impaired wound healing and wound revisions, particularly in CA and infection cases, without increasing hospital stay or costs.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42374824/",
+      "score": 68,
+      "score_reasoning": "Large national database study (198,263 TKA patients) showing TA-TKA utilization increased 375% and is associated with lower periprosthetic fracture, deep infection, and revision rates, highly relevant given rapid adoption of robotic platforms.",
+      "bullets": [
+        "In high-risk foot and ankle patients treated with Ilizarov fixation, a two-stage approach reduced wound revision rates from 36% to 9% compared to single-stage application.",
+        "The benefit was greatest in Charcot arthropathy and active infection cases, where staged fixation nearly eliminated wound revisions.",
+        "The two-stage approach did not increase hospital length of stay or total costs, making it a practical option for high-risk patients with diabetes, peripheral arterial disease, or active infection."
+      ]
+    },
+    {
+      "pmid": "42400149",
+      "title": "Reliability and Clinical Validity of a Morphology-Based Classification System for Radial Meniscal Tears: A Multicenter Observer Study.",
+      "authors": [
+        "Rivarola H",
+        "Chahla J",
+        "Endara Urresta F",
+        "Ackermann J",
+        "Rivarola B"
+      ],
+      "authors_short": "Rivarola H, Chahla J, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Radial meniscal tears (RMTs) interrupt circumferential collagen fibers, disrupt hoop stress transmission, and accelerate compartmental cartilage wear. Despite their clinical and biomechanical importance, reporting remains inconsistent because widely used taxonomies are heterogeneous and often assessed with nominal agreement statistics that overlook the ordered nature of tear morphology. PURPOSE: To (1) quantify the interobserver and intraobserver reliability of a 5-type morphology-based classification system for RMTs using ordinal agreement metrics and (2) evaluate criterion validity against arthroscopy and construct validity against a prespecified morphology\u2192treatment matrix. STUDY DESIGN: Cross-sectional study; Level of evidence, 3. METHODS: A harmonized case bank of 400 unique RMTs (80 per type I-V; 55.0% medial and 45.0% lateral) was assembled across 5 centers. There were 7 expert knee surgeons (>10 years' experience) who performed test-retest classifications at T1 and T2 (mean washout time, 24.7 \u00b1 3.6 days); a broader panel of 40 knee surgeons (>10 years' experience) conducted classifications at T1 only. Raters were blinded; used a 1-page atlas with explicit criteria (depth/extent, gap thresholds of \u22643/>3 mm, vascular zone); and recorded type (I-V), confidence (Likert), and recommended treatment. The primary endpoint was the Light kappa (\u03ba) (mean of pairwise Cohen \u03ba; quadratic weighting) with bootstrap 95% confidence intervals (CIs) (5000 resamples, stratified by type). The coprimary endpoint was the Gwet AC2 (ordinal). Criterion validity was determined using an arthroscopy-referenced subcohort (n = 260). Construct validity examined concordance between assigned type and the prespecified treatment matrix. Secondary endpoints included exact agreement and \u00b11-category agreement, the Fleiss \u03ba (nominal), and subgroup analyses (compartment, gap magnitude). RESULTS: Interobserver ordinal agreement was high (Light \u03ba = 0.902 [95% CI, 0.889-0.914]) (AC2 = 0.918 [95% CI, 0.906-0.929]). Agreement was stable by compartment (medial: \u03ba = 0.897; lateral: \u03ba = 0.909) and gap magnitude (no/\u22643 mm: \u03ba = 0.907; >3 mm: \u03ba = 0.893). Exact agreement was 83.5%, and \u00b11-category agreement was 96.8%; nonadjacent misclassifications were 3.2%, with a predictable boundary at type III\u2194IV. Intraobserver reliability among experts was excellent (mean weighted Cohen \u03ba = 0.913 [range, 0.882-0.942]). Criterion validity versus an arthroscopic reference was strong (weighted \u03ba = 0.887 [95% CI, 0.871-0.902]). Construct validity showed 86.2% exact agreement (\u03ba = 0.842; AC1 = 0.861). Sensitivity analyses (category collapsing, alternative weights, leave-one-rater-out) confirmed robustness. CONCLUSION: This 5-type classification system demonstrated high reproducibility (ordinal \u03ba\u2248 0.90) and clinical validity, providing a practical framework for standardized reporting and treatment selection and a defensible stratification scheme for future trials and meta-analyses.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42400149/",
+      "score": 66,
+      "score_reasoning": "Prospective RCT of iodine-impregnated adhesive film in TKA showing zero additional dressing changes vs 0.8 in controls with higher patient satisfaction, directly applicable to routine postoperative wound management.",
+      "bullets": [
+        "A five-type morphology-based classification for radial meniscal tears showed strong agreement across 40 surgeons at multiple centers, with about 84% of tears classified identically and nearly all within one category.",
+        "The system performed consistently regardless of whether the tear was medial or lateral, and whether a gap was present or absent, making it broadly applicable across the range of radial tears seen in practice.",
+        "Surgeons using this one-page atlas can reliably assign a tear type that maps to a treatment recommendation, giving teams a shared language for decision-making and a practical framework for comparing outcomes across studies."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-07-08T04:46:39.458133-07:00"
+}
