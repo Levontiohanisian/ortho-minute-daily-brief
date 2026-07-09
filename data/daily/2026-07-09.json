@@ -1,0 +1,307 @@
+{
+  "brief_date": "2026-07-09",
+  "brief_date_display": "Thursday, July 09",
+  "candidates": [
+    {
+      "pmid": "42391519",
+      "title": "Uncorrected Preoperative Malnutrition Is Associated with Worse Outcomes After Operative Fixation of Diaphyseal Tibial Fractures.",
+      "authors": [
+        "Pereira DE",
+        "McCoy L",
+        "Harrison NJ",
+        "Bushe K",
+        "Kotzur T",
+        "McAndrew C",
+        "Berkes M",
+        "Obey M",
+        "Wilson JL"
+      ],
+      "authors_short": "Pereira DE, McCoy L, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To evaluate whether serum markers of malnutrition were associated with postoperative complications after tibial shaft fracture fixation, and whether postoperative correction mitigates this risk. METHODS: Design: Retrospective cohort study. SETTING: Multicenter (50 healthcare centers; North American national database). PATIENT SELECTION CRITERIA: Adult patients \u226518 years of age undergoing fixation of tibial shaft fractures (OTA/AO 42) between January 1, 2013, and December 31, 2022, with a minimum of one year of follow-up were included. Patients with a history of malignancy or Gustilo-Anderson type III open fractures were excluded from the study. OUTCOMES MEASURES AND COMPARISONS: The primary outcome was the occurrence of postoperative complications. Patients with serum markers for malnutrition were compared to matched controls. Malnourished patients with subsequently normalized serum markers were compared to previously matched healthy cohorts and cohorts with persistent malnutrition. RESULTS: Following matching, a total of 10,722 patients were included for primary analysis: 5,361 malnourished patients with mean age 52 (range 18-90), 53.6% male and 5,361 control with mean age 53.2 (range 18-90) with 52.9% male. Preoperative malnutrition was associated with significantly higher rates of postoperative complications, including nonunion (RR=1.4), revision surgery (RR>1.4), infection (RR>2.0), failure of fixation (RR=1.3), thromboembolic events (RR>2.0), and sepsis (RR>2.0) (all p < 0.001). Among patients with preoperative malnutrition, those with uncorrected postoperative serum markers demonstrated higher risks of nonunion, revision, infection, and implant failure compared to those with serum markers that were corrected postoperatively (RR>2.0, all p<0.001). However, when compared to patients with normal preoperative nutrition values, individuals with postoperatively corrected malnutrition remained at increased risk for revision and infection (RR>1.4, all p=0.002) but not nonunion (6.5% vs. 5.6%, p>0.05) or failure of fixation (4.6% vs. 4.1%, p>0.05). CONCLUSIONS: Malnutrition was associated with adverse surgical outcomes following tibial shaft fracture fixation, with significantly higher rates of nonunion, revision procedures, infection, wound complications, thromboembolic events, and medical morbidity compared with patients with normal preoperative nutrition. Postoperative correction of nutritional deficiencies reduced complication risk; however, residual risk remained elevated relative to patients with normal preoperative nutritional markers. These findings highlight malnutrition as a partially modifiable risk factor in tibial shaft fracture repair and support nutritional optimization as a part of postoperative management to improve patient outcomes. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42391519/",
+      "score": 82,
+      "score_reasoning": "Large retrospective cohort (223 patients) from a level 1 trauma center identifying modifiable risk factors (implant choice, reduction quality) for failure in young patients with displaced femoral neck fractures\u2014highly actionable findings with direct impact on surgical decision-making in a challenging population.",
+      "bullets": [
+        "Malnourished adults undergoing tibial shaft fracture fixation had roughly double the rates of infection, clot, and sepsis compared to well-nourished patients.",
+        "Correcting nutritional deficits after surgery reduced the risk of nonunion and implant failure, but revision and infection rates remained elevated versus patients who were well-nourished from the start.",
+        "For any adult presenting with a tibial shaft fracture, checking and actively correcting nutritional status before and after fixation is a concrete step that reduces, though does not eliminate, major complications."
+      ]
+    },
+    {
+      "pmid": "42417549",
+      "title": "Is Dose Reduction After Initial Treatment With Denosumab Associated With Subsequent Skeletal-related Events, Osteonecrosis of the Jaw, or Osteoporotic Fractures in Patients With Metastatic Carcinoma? A Nationwide Retrospective Comparative Study.",
+      "authors": [
+        "Heng XQ",
+        "Lin WH",
+        "Yeh CC",
+        "Liu LY",
+        "Chung CH",
+        "Yen HK",
+        "Chang FL",
+        "Chen HM",
+        "Hu MH",
+        "Fu SH",
+        "Wang CY",
+        "Groot OQ"
+      ],
+      "authors_short": "Heng XQ, Lin WH, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Denosumab is widely used for preventing skeletal-related events (SREs) in patients with bone metastases. As advances in systemic cancer therapies have improved survival, the long-term safety and efficacy of denosumab warrant reevaluation. Balancing efficacy in preventing SREs with the cumulative risks associated with prolonged denosumab therapy, particularly osteonecrosis of the jaw (ONJ), a rebound phenomenon of accelerated bone turnover after abrupt discontinuation, and subsequent fragility fractures, has become increasingly important. QUESTIONS/PURPOSES: (1) Is a lower cumulative number of denosumab doses associated with the risk of surgically treated SREs, ONJ, osteoporotic fractures, or all-cause mortality after dose reduction? (2) Is an extended maximum injection interval associated with the risk of surgically treated SREs, ONJ, osteoporotic fractures, or all-cause mortality after dose reduction? (3) Is a higher frequency of treatment gaps > 60 days associated with the risk of surgically treated SREs, ONJ, osteoporotic fractures, or all-cause mortality after dose reduction? METHODS: This nationwide retrospective comparative study utilized data from Taiwan's National Health Insurance Research Database, a population-level resource accounting for 99.9% of Taiwan's residents. By capturing comprehensive medical claims with continuous patient enrollment, this database functionally eliminates loss to follow-up, enabling the construction of highly reliable longitudinal patient histories to evaluate long-term treatment patterns and clinical outcomes. We identified 35,325 patients with breast, prostate, or lung cancer with radiologically confirmed skeletal metastases who initiated denosumab therapy between January 1, 2012, and December 31, 2020. We excluded 75.4% (26,635) of patients, primarily because they received < 3 initial injections (36%), died within 1 year (10%), had prior use of a bone-targeting agent (9%), or switched to another bone-targeting agent during follow-up (2%). Among the 24.6% (8690) of eligible patients (median [IQR] age 65 years [58 to 74]; 58% [5039] female), breast cancer was the most common diagnosis (41% [3577]), followed by lung (30% [2577]) and prostate cancer (29% [2536]). Given that all administered doses throughout the study were standard 120-mg injections, dose reduction strictly reflected decreased administration frequency. Three dose reduction strategies were evaluated based on treatment patterns within the first year after receiving a mandatory three-dose induction phase in the initial 4 months: (1) cumulative dosage (3, 4 to 7, 8 to 10, or \u2265 11 injections), (2) maximum injection interval (\u2264 60 days, 61 to 90 days, > 90 days, or no further treatment), and (3) frequency of gaps > 60 days (0, 1, \u2265 2, or no further treatment). Following the initial 1-year exposure window, patients were tracked up to a maximum of 3 years (median [IQR] time 19 months [10 to 33]) or until the occurrence of a study outcome or death. The primary outcome was surgically treated SREs. We excluded nonoperatively treated fractures because conservative management lacks pathologic confirmation in claims data, which introduces substantial ascertainment bias by confusing true metastatic events with osteoporotic or traumatic fractures using ICD codes alone. Therefore, to ensure diagnostic accuracy, an SRE was operationally defined as a fracture surgical procedure accompanied by a concurrent bone tumor excision surgical code, which under the national health insurance system requires a confirmatory pathologic report for reimbursement. Secondary outcomes included surgically treated ONJ, osteoporotic fractures, all-cause fractures, and all-cause mortality. To explicitly differentiate true osteoporotic fractures from SREs or high-energy trauma, we utilized a strict surgical code-based exclusionary definition: We isolated surgical procedures utilizing nontraumatic fracture codes while explicitly ruling out any concurrent tumor excision codes or traumatic fracture codes. To evaluate these outcomes, we estimated cause-specific HRs using Cox proportional hazards models. Additionally, to account for the competing risk of mortality, we calculated subdistribution HRs using Fine and Gray models. Without randomization, patients in this retrospective cohort inherently had unequal baseline risks of skeletal complications. To isolate the independent effect of the dosing strategy from inherent baseline imbalances, both models utilized multivariable analyses to calculate adjusted HRs (cause-specific adjusted HR [cs-aHR] for the Cox models and adjusted subdistribution HR [aSHR] for the Fine-Gray models), controlling for observable confounders that independently influence bone fragility, specifically age, sex, comorbidities, baseline medications, and prior fracture history. RESULTS: Compared with patients receiving \u2265 11 doses, patients receiving only three doses were associated with a higher risk of surgically treated SREs (cs-aHR 3.20 [95% confidence interval (CI) 1.22 to 8.37]; p = 0.03) and lower risk of surgically treated ONJ (cs-aHR 0.21 [95% CI 0.07 to 0.65]; p < 0.001), with no difference in surgically treated osteoporotic fractures. Compared with patients with intervals of \u2264 60 days, patients extending the maximum injection interval beyond 90 days were associated with a higher proportion of surgically treated SREs (cs-aHR 2.50 [95% CI 1.35 to 4.66]; p = 0.003) and less surgically treated ONJ (cs-aHR 0.54 [95% CI 0.35 to 0.81]; p = 0.002), with surgically treated osteoporotic fractures again being no different. Compared with patients with 0 gaps, patients experiencing \u2265 2 treatment gaps for > 60 days were associated with a lower risk of surgically treated ONJ (cs-aHR 0.36 [95% CI 0.18 to 0.73]; p = 0.001) but showed no association with surgically treated SREs and osteoporotic fractures. Lower treatment intensity across all strategies was associated with higher all-cause mortality. In subgroup analyses stratified by primary cancer site, dose reduction was associated with a higher risk of surgically treated SREs in patients with prostate cancer across all three strategies. Specifically, patients who cumulated only three doses (cs-aHR 17.42 [95% CI 1.87 to 162.50]; p < 0.001), patients extending their maximum injection interval to no further treatment (cs-aHR 11.15 [95% CI 1.58 to 78.90]; p = 0.02), and patients experiencing a frequency of gaps leading to no further treatment (cs-aHR 11.22 [95% CI 1.59 to 79.23]; p = 0.02) were associated with higher risk of surgically treated SREs. Conversely, dose reduction strategies showed no association with the risk of surgically treated SREs in patients in either the breast or lung cancer subgroups. A lower risk of surgically treated ONJ was consistently observed across all types of dose reduction strategies. Finally, the subgroup findings for surgically treated osteoporotic fractures and all-cause mortality mirrored the overall cohort, demonstrating no association with surgically treated osteoporotic fractures and a generally higher risk of mortality associated with lower treatment intensity across cancer types. CONCLUSION: In this nationwide retrospective comparative study, extending the denosumab dosing interval up to 90 days maintained efficacy against SREs and was associated with a low risk of ONJ. However, dosage intervals beyond 90 days or very low cumulative dosing were associated with a high risk of SREs. These findings support the potential feasibility of modest dose reduction in clinical practice, but they highlight the need for larger controlled trials to confirm the efficacy of extending dosing intervals and adjusting cumulative dosage. LEVEL OF EVIDENCE: Level III, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42417549/",
+      "score": 79,
+      "score_reasoning": "Large real-world dataset (13,277 claims) examining PRP utilization and reimbursement patterns in a major insurance system without prior authorization, providing directly applicable insights into off-label use, geographic variation, and cost implications relevant to practice and policy.",
+      "bullets": [
+        "In patients with bone metastases from breast, prostate, or lung cancer, extending denosumab dosing intervals up to 90 days did not increase the risk of surgically treated skeletal events, but intervals beyond 90 days or fewer than four total doses were associated with a three-fold higher risk.",
+        "Reducing denosumab dose intensity consistently lowered the risk of osteonecrosis of the jaw across all dosing strategies, offering a potential way to manage this complication in long-term survivors.",
+        "Patients with prostate cancer were most vulnerable to skeletal events with dose reduction, while breast and lung cancer patients showed no significant increase in risk, suggesting cancer type should guide decisions about spacing denosumab doses."
+      ]
+    },
+    {
+      "pmid": "42390361",
+      "title": "Functional Outcomes Following Bipolar Hip Hemiarthroplasty via the Direct Anterior Approach Versus Posterior and Direct Lateral Approaches: A Retrospective Cohort Study.",
+      "authors": [
+        "Yen Yu TS",
+        "Poh Hwee NJ",
+        "Xiaoe Z",
+        "Leng TT"
+      ],
+      "authors_short": "Yen Yu TS, Poh Hwee NJ, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To compare functional recovery and length of hospital stay in patients undergoing bipolar hip hemiarthroplasty (BHH) for displaced femoral neck fractures using the direct anterior approach (DAA) versus the posterior approach (PA) and direct lateral approach (DLA). METHODS: Design: Retrospective cohort study using a prospectively maintained hip fracture registry. SETTING: Single tertiary care institution in Singapore. PATIENT SELECTION CRITERIA: Patients aged 60 years and older who underwent BHH for displaced femoral neck fractures (OTA/AO 31-B) between 2020 and 2023 were identified from the institutional hip fracture registry. OUTCOME MEASURES AND COMPARISONS: Functional outcomes were assessed using the Modified Barthel Index (MBI; higher scores indicate better independence) and Parker Mobility Score (PMS; higher scores indicate better mobility) at discharge, 6 months and 12 months. Mobility status, length of stay, postoperative complications, reoperation and 1-year mortality were evaluated. Outcomes were compared between DAA and PA after propensity score matching, with an exploratory comparison to the DLA. RESULTS: A total of 504 patients were identified; 400 PA, 79 DAA and 25 DLA. After matching, 67 DAA cases and 134 PA cases were analysed. Age and sex distribution were similar between DAA and PA groups (80.7 \u00b1 6.3 vs 81.1 \u00b1 6.5 years, p = 0.655; female: 79.1% vs 75.4%, p = 0.556). The DAA group demonstrated a smaller decline in MBI from premorbid baseline to discharge as compared with the PA group (DAA: -49.85 \u00b1 17.88 vs PA: -55.47 \u00b1 18.90, 95% CI: 0.11 to 11.13, p=0.045). No significant differences were observed between the DAA and PA groups in changes from premorbid to 12-month MBI (DAA: -23.97 \u00b1 27.46 vs PA: -18.52 \u00b1 26.38, 95% CI: -13.67 to 2.78, p=0.193) or from premorbid to 12-month PMS (DAA: -2.72 \u00b1 2.90 vs PA: -2.18 \u00b1 2.46, 95% CI: -1.37 to 0.29, p=0.198). Length of stay (DAA: 9.88 \u00b1 5.08 vs PA: 10.20 \u00b1 5.20 days; p = 0.684) and 1-year mortality (DAA: 3.0% vs PA: 8.2%; p =0.156) were comparable between DAA and PA groups. CONCLUSIONS: DAA for BHH was associated with better early functional recovery at hospital discharge than PA. However, this advantage did not persist at 12 months, with no significant differences in functional outcomes, length of hospital stay, or 1-year mortality between DAA and PA groups. LEVEL OF EVIDENCE: III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42390361/",
+      "score": 78,
+      "score_reasoning": "Multicenter retrospective cohort of 10,722 patients demonstrating that uncorrected preoperative malnutrition significantly increases complications after tibial shaft fracture fixation, with practical implications for perioperative optimization across all trauma surgeons.",
+      "bullets": [
+        "In elderly patients with displaced femoral neck fractures treated with bipolar hemiarthroplasty, the direct anterior approach produced better functional independence scores at discharge compared to the posterior approach.",
+        "By 12 months, functional outcomes, mobility scores, length of stay, and mortality were equivalent between the direct anterior and posterior approaches.",
+        "Surgeons choosing approach for hip hemiarthroplasty can expect earlier functional recovery with the direct anterior approach, but no long-term advantage over the posterior approach."
+      ]
+    },
+    {
+      "pmid": "42390157",
+      "title": "Impact Microindentation Evaluates Bone Strength, Bone Quality, and Fracture Susceptibility Across Skeletal Sites: A Cadaver Study.",
+      "authors": [
+        "Vaidya RS",
+        "Jahani B",
+        "Jin JM",
+        "Gonzalez CC",
+        "Pujari B",
+        "Krothapalli S",
+        "Tang SY"
+      ],
+      "authors_short": "Vaidya RS, Jahani B, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Impact microindentation (IMI) is a minimally invasive technique for assessing bone material properties that can be performed clinically. In this study, we aimed to determine how measurements obtained by IMI (bone material strength index [BMSi]) relate to bone strength, fracture resistance, and susceptibility to fracture. QUESTIONS/PURPOSES: (1) Is BMSi associated with bone strength of the femur, radius, and vertebrae, and does incorporating BMSi alongside bone mineral density (BMD) improve the estimation of strength? (2) Does BMSi evaluate fracture toughness and mechanical properties of the bone tissue? (3) Can BMSi discriminate fracture susceptibility of the hip and wrist? METHODS: This single-site laboratory study included the tibiae, femurs, radii, and L4 vertebrae from fresh-frozen cadavers (n = 67; mean \u00b1 SD age 71 \u00b1 13 years). To answer the first question, IMI was performed on the tibia midshaft, dual-energy x-ray absorptiometry (DXA) was used to assess hip and spine BMD, and bone strength (ultimate fracture force) was mechanically determined for each site. To address the second question, stress intensity factor (KC) was quantified from notched cortical bone beam specimens from tibiae using the fracture toughness test. Bone mechanical behavior (ultimate stress, elastic modulus, work-to-fracture), microstructure (cortical porosity, tissue mineral density), and organic matrix quality (percentage of collagen denaturation, concentration of advanced glycation end products) were quantified from beam specimens from the femoral midshaft. To address the last question, hip and wrist fracture susceptibility was defined using the fall-load to fracture-load ratio, where values \u2265 1 indicate susceptibility. Receiver operating characteristic (ROC) curve analyses evaluated the ability of IMI and DXA to discriminate fracture susceptibility. Primary outcomes included evaluating the association between BMSi and BMD with bone strength and ROC analysis for discriminating fracture susceptibility. RESULTS: Higher BMSi values were positively associated with higher bone strength, showing moderate association at the femur (r = 0.62 [95% confidence interval (CI) 0.49 to 0.72]; p < 0.001) and radius (r = 0.52 [95% CI 0.34 to 0.72]; p < 0.001) and weaker association at the L4 vertebrae (r = 0.31 [95% CI 0.03 to 0.53]; p = 0.02). At the femur, BMSi was more strongly associated with strength than total hip BMD (TH-BMD) (r = 0.45 [95% CI 0.3 to 0.62]; p < 0.001), and the inclusion of BMSi in multivariate analyses improved the explained variance in femur strength from 28% to 52% (\u0394R2 = 0.24; p < 0.001). At the radius, both BMSi and TH-BMD (r = 0.50 [95% CI 0.31 to 0.71]; p < 0.01) showed moderate association with radius strength, with the combined model improving the explained variance in radius strength from 28% to 39% (\u0394R2 = 0.11; p < 0.001). At the vertebrae, strength was weakly associated with BMSi (r = 0.31 [95% CI 0.03 to 0.53]; p = 0.02) but not with BMD. For the hip and wrist of each donor, BMSi discriminated hip fracture susceptibility with moderate accuracy (area under the curve [AUC] 0.75 [95% CI 0.63 to 0.88]; p < 0.001), whereas TH-BMD could not discriminate hip fracture susceptibility. Both BMSi (AUC 0.77 [95% CI 0.63 to 0.90]; p = 0.003) and TH-BMD (AUC 0.78 [95% CI 0.64 to 0.90]; p = 0.002) classified wrist fracture susceptibility with modest discriminatory performance. CONCLUSION: Our study demonstrates that BMSi provides information related to bone strength and discriminates fracture susceptibility of the hip and wrist. CLINICAL RELEVANCE: IMI can be performed at the point of care using an FDA-cleared device and used to evaluate fragility in patients in whom fracture risk or bone strength is uncertain based on BMD alone. Prospective clinical studies are needed to determine whether IMI improves fracture risk prediction and informs patient treatment.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42390157/",
+      "score": 77,
+      "score_reasoning": "Single-center retrospective cohort (510 patients) showing preoperative high-sensitivity troponin strongly predicts in-hospital cardiac events and mortality after hip fracture surgery, offering a readily available perioperative risk stratification tool with clear clinical implications.",
+      "bullets": [
+        "Impact microindentation measured at the tibial midshaft predicted femoral and radial bone strength better than DXA alone, and added meaningful information beyond BMD for estimating fracture load.",
+        "The bone material strength index discriminated hip and wrist fracture susceptibility with moderate accuracy in cadavers aged around 70, while hip BMD alone failed to discriminate hip fracture susceptibility.",
+        "For patients whose fracture risk remains uncertain after standard DXA, this FDA-cleared point-of-care tool may offer additional bone quality data to guide clinical decision-making."
+      ]
+    },
+    {
+      "pmid": "42377380",
+      "title": "Defining sagittal knee phenotypes via monopedal static anterior tibial translation. Part 2: The assessment-led personalization (ALP) system for indication and correction target planning in slope-reducing osteotomy.",
+      "authors": [
+        "Kayaalp ME",
+        "Kahraman HC",
+        "Erden T",
+        "Lutter C",
+        "Scheffler S",
+        "Taser O",
+        "Becker R",
+        "Hirschmann MT",
+        "Dejour DH"
+      ],
+      "authors_short": "Kayaalp ME, Kahraman HC, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "Current decision-making for slope-reducing osteotomy (SRO) often relies on isolated posterior tibial slope (PTS) thresholds, potentially misidentifying patients with acquired soft-tissue decompensation or possibly overtreating those with an asymptomatic, inherently hyperlax baseline. Furthermore, rigid point-based scoring systems oversimplify the synergistic biomechanics of the anterior cruciate ligament-deficient knee. Building on the foundational 'Set-Point' theory established in Part 1, this paper introduces the assessment-led personalization (ALP) system. This unified clinical algorithm integrates the normalized percentage of absolute static anterior tibial translation (sATT%) and its side-to-side difference (\u0394sATT%) with PTS laterality, generalized hyperlaxity, and injury chronicity. By mathematically calibrating raw translation data to isolate true soft-tissue decompensation from underlying osseous asymmetry, the ALP system provides a proactive, joint-preserving framework to identify high-risk phenotypes likely to fail isolated soft-tissue reconstruction and precisely refines the indications for SRO. LEVEL OF EVIDENCE: Level V.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42377380/",
+      "score": 75,
+      "score_reasoning": "Nationwide register-based cohort (111,117 patients) demonstrating a 30% higher adjusted risk of PJI revision in obese knee arthroplasty patients with distinct polymicrobial infection profiles, providing robust evidence to guide preoperative risk counseling and infection prevention strategies.",
+      "bullets": [
+        "This paper introduces a clinical algorithm that combines tibial slope, side-to-side anterior tibial translation, and joint laxity to decide which ACL-deficient knees need a slope-reducing osteotomy.",
+        "The system aims to separate patients with true bony-driven instability from those with baseline hyperlaxity, reducing the risk of overtreating patients who may do well with soft-tissue reconstruction alone.",
+        "For orthopaedic surgeons managing ACL revision or high-risk primary cases, this framework offers a more individualised indication pathway for tibial slope correction beyond fixed slope-angle thresholds."
+      ]
+    },
+    {
+      "pmid": "42398111",
+      "title": "Intraoperative variability between the anteroposterior and posterior condylar axes in primary TKA supports a 20\u00b0 proximal trochlear entrance design for unrestricted kinematic alignment.",
+      "authors": [
+        "McPherson EJ",
+        "Kallini JR",
+        "Pena DD",
+        "Dipane MV",
+        "Chowdhry M"
+      ],
+      "authors_short": "McPherson EJ, Kallini JR, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: Unrestricted kinematic alignment (uKA) in total knee arthroplasty (TKA) creates a challenge for trochlear design. Femoral implants designed for mechanical alignment (MA) use asymmetrical posterior bone cuts to adjust axial rotation and optimize patellofemoral tracking. In uKA, posterior bone cuts are calipered resections. There is no rotational adjustment. The prosthetic trochlea is therefore fixed relative to the posterior condylar axis (PCA). The rotational variability between the native anteroposterior axis (APA) and the PCA determines the proximal trochlear entrance width required to capture the patella. This study directly measured this rotational relationship intraoperatively and determined whether a dedicated trochlear design is required for the uKA technique. METHODS: A prospective cohort study was performed in consecutive patients undergoing primary TKA for osteoarthritis or inflammatory arthritis. A single implant system was used in all cases. All measurements were performed by a single senior surgeon. After distal femoral resection, the APA line was marked on the bone using a dedicated marking jig. A posterior condylar referencing jig with a 1\u00b0 haptic rotational dial was then used to record the rotational difference of the APA line relative to the PCA line (PCAL). RESULTS: A total of 935 knees in 739 patients were analysed. Three hundred fifty-seven knees (38%) were male. Mean age was 67 years (range: 27-96). Relative to the PCAL, the mean APA line rotation was 1.3\u00b0 of external rotation (ER; standard deviation 2.7\u00b0). The range was wide, from 8\u00b0 of internal rotation to 10\u00b0 of ER. The distribution was unimodal and broadly bell-shaped. CONCLUSION: The intraoperative rotation between the APA line and the PCAL, measured during primary TKA, spans an 18\u00b0 range, which may exceed the capture of MA-designed proximal trochlear entrances. A 20\u00b0 trochlear entrance design is proposed (a 1\u00b0 margin at each end) for implants used for uKA. Prospective biomechanical and clinical validation is needed. LEVEL OF EVIDENCE: Level III, prospective observational cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42398111/",
+      "score": 74,
+      "score_reasoning": "Large matched cohort from national claims database identifying that prior Staphylococcal and bacterial pneumonia significantly increases PJI risk after TJA\u2014novel, actionable finding that could change preoperative screening and surgical timing decisions.",
+      "bullets": [
+        "In 935 knees undergoing primary TKA, the angle between the anteroposterior axis and the posterior condylar axis ranged 18 degrees, from 8 degrees internal rotation to 10 degrees external rotation.",
+        "This variability means that standard mechanically aligned trochlear designs may not reliably capture the patella when kinematic alignment is used without rotational adjustment.",
+        "Surgeons using unrestricted kinematic alignment should be aware that a dedicated trochlear entrance width of at least 20 degrees may be needed to ensure consistent patellofemoral tracking across the full range of patient anatomy."
+      ]
+    },
+    {
+      "pmid": "42401353",
+      "title": "Patient Satisfaction and Outcomes at a Mean 11-Year Follow-Up Following Total Hip Arthroplasty with Subtrochanteric Osteotomy for Dislocated Hips After Schanz Osteotomy.",
+      "authors": [
+        "Fujii M",
+        "Kawano S",
+        "Ueno M",
+        "Oba Y",
+        "Sonohata M",
+        "Morimoto T"
+      ],
+      "authors_short": "Fujii M, Kawano S, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Total hip arthroplasty (THA) for chronically dislocated hips after Schanz osteotomy is technically demanding, with limited data on outcomes and patient satisfaction. This study aimed to determine clinical outcomes, implant survivorship, and factors associated with poor functional outcome and dissatisfaction after THA with subtrochanteric osteotomy. METHODS: We retrospectively reviewed 73 patients (93 hips) who had Crowe IV dislocation treated with Schanz osteotomy and who underwent THA with subtrochanteric osteotomy. Implant survival (revision for any reason as the endpoint) and predictors of poor functional outcome (Japanese Orthopaedic Association [JOA] hip score less than 70) were analyzed. Factors associated with dissatisfaction (visual analog scale less than 50) were analyzed in patients who completed patient-reported outcome measure (PROM) questionnaires (55 patients, 71 hips; 75% response rate). Multivariate analyses used bias-reduced logistic regression models for limited events. RESULTS: The median JOA score improved from 49 (interquartile range [IQR], 41 to 62) to 86 (IQR, 76 to 93) at a mean follow-up of 11 years (range, 2.0 to 21) (P < 0.001). Kaplan-Meier implant survivorship was 88.9% (95% confidence interval [CI], 82.0 to 95.9) at both 10 and 20 years, with no revisions beyond 8.4 years postoperatively. Multivariate analyses showed that preoperative mobility aid use was associated with poor functional outcome (odds ratio [OR], 12.21; 95% CI, 1.35 to 1,615.31; P = 0.013). In the PROM cohort, 64 of 71 hips (90%) were satisfied, and preoperative mobility aid use was associated with dissatisfaction (OR, 13.08; 95% CI, 1.28 to 1,774.59; P = 0.016). CONCLUSIONS: A THA for Crowe IV dislocation after Schanz osteotomy improved function and patient satisfaction, with acceptable implant survivorship; however, complication and revision rates remained substantial. Preoperative mobility aid use was associated with poor outcomes, although estimates showed limited precision. The retrospective design and incomplete PROM follow-up warrant prospective multicenter validation.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42401353/",
+      "score": 73,
+      "score_reasoning": "Large retrospective cohort (94,430 patients) providing clear guidance on optimal timing of elective THA/TKA after COVID-19 infection, showing surgery within 4 weeks carries significantly elevated risk\u2014immediately applicable to surgical scheduling decisions.",
+      "bullets": [
+        "At mean 11-year follow-up, THA with subtrochanteric osteotomy for Crowe IV dislocated hips after Schanz osteotomy improved hip function scores and achieved 90% patient satisfaction.",
+        "Implant survival was 88.9% at both 10 and 20 years, with no revisions occurring after 8.4 years postoperatively.",
+        "Patients requiring a mobility aid before surgery were significantly more likely to have poor functional outcomes and dissatisfaction, making preoperative ambulatory status a key counseling point."
+      ]
+    },
+    {
+      "pmid": "42374824",
+      "title": "Two-Stage vs Single-Stage Ilizarov Application in High-Risk Patients: Impact on Early Complications and Resource Utilization.",
+      "authors": [
+        "Fischer L",
+        "Vieh\u00f6fer A",
+        "Castroviejo C",
+        "Tsolakidis A",
+        "Zendeli F",
+        "Flury A",
+        "Wirth S"
+      ],
+      "authors_short": "Fischer L, Vieh\u00f6fer A, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Patients treated with an Ilizarov external fixator often feature risk factors that impair wound healing such as diabetes, peripheral arterial disease, obesity, and renal insufficiency. A 2-staged approach, with initial bony correction (Kirschner wire or hybrid) followed by delayed Ilizarov application by 5\u2009days, is intended to support wound healing by allowing for reduction of soft tissue swelling and enhancing postoperative wound care. We hypothesized that this method is associated with fewer wound complications but increased use of resources. METHODS: A retrospective review of 98 cases treated with an Ilizarov fixator (2004-2024) was conducted. Surgical management included 2-stage (n\u2009=\u200953, 54%) and single-stage (n\u2009=\u200945, 46%) procedures. Baseline characteristics and risk factors for compromised wound healing were recorded. Patients were stratified into 3 subgroups to enable comparative analysis: infection-related reconstructions (IRR), Charcot arthropathy (CA) and other applications. Preoperative presence of infection and ulceration was recorded. Primary endpoints were rates of impaired wound healing and wound revisions within 3 months post removal. Secondary endpoints were hospital length of stay after bony fixation, and total hospitalization costs. RESULTS: Wound revision rates were significantly lower in the 2-stage group (9% vs 36%; OR 5.3, 95% CI 1.8-17.9; P\u2009=\u2009.0025) particularly in the CA subgroup (0% vs 38%; P\u2009=\u2009.010) or when an infection was present (14% vs 44%; OR 4.6, 95% CI 1.2-22.3, P\u2009=\u2009.0138). Impaired wound healing was significantly lower in patients with a 2-stage procedure (30% vs 55%; OR 2.9, 95% CI 1.3-6.6, P\u2009=\u2009.021). As an exploratory secondary outcome, no statistically significant difference in length of hospital stay or total hospitalization costs was observed. CONCLUSION: Two-stage Ilizarov ring fixator application in high-risk foot and ankle surgery was associated with lower rates of impaired wound healing and wound revisions, particularly in CA and infection cases, without increasing hospital stay or costs.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42374824/",
+      "score": 72,
+      "score_reasoning": "National database study (198,263 TKA patients) documenting a 375% increase in technology-assisted TKA utilization from 2020-2024 with associated lower rates of periprosthetic fracture, deep infection, and revision\u2014highly relevant to the rapidly evolving arthroplasty technology landscape.",
+      "bullets": [
+        "In high-risk foot and ankle patients treated with an Ilizarov fixator, staging the ring fixator application 5 days after initial bony correction reduced wound revision rates from 36% to 9%.",
+        "The benefit was greatest in Charcot arthropathy and active infection cases, where early wound breakdown was cut by more than half with the two-stage approach.",
+        "Two-stage application did not increase hospital length of stay or total costs, making it a practical default strategy for high-risk orthopaedic foot and ankle reconstruction."
+      ]
+    },
+    {
+      "pmid": "42373149",
+      "title": "Impact of Combined Immersive Virtual Reality and Spinal Anesthesia on Sedative Consumption in Total Knee Arthroplasty.",
+      "authors": [
+        "Druel J",
+        "Yovo A",
+        "Peuchot H",
+        "Riera V",
+        "Dizier S",
+        "Jacquet C",
+        "Argenson JN"
+      ],
+      "authors_short": "Druel J, Yovo A, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Perioperative anxiety plays a key role in patients, particularly for postoperative recovery. Immersive virtual reality (VR), which has been developed in recent years for use in regional anesthesia, may help reduce this anxiety and limit intraoperative sedative consumption. The aim of this study was to objectively assess the impact of VR distraction on perioperative anxiety by evaluating sedative use during total knee arthroplasty (TKA) under spinal anesthesia (SA). METHODS: A retrospective, single-center cohort study was conducted in patients receiving SA with a VR headset (group 1), compared to those receiving SA alone (group 2). The primary outcome measure was intraoperative sedative consumption. Secondary outcomes included perioperative complications (oxygen administration, hypotension) and analgesic consumption within five postoperative days (nefopam and oral morphine equivalent). Pearson's Chi-square and Wilcoxon-Mann-Whitney tests were used to assess categorical and continuous variables, respectively. RESULTS: There were 30 patients (group 1) who used a VR headset during the procedure, while 30 patients (group 2) received SA alone. The mean age was 71 years. There was a significant reduction in intraoperative sedative consumption in patients undergoing TKA under SA with VR (95% confidence interval [0.13 to 0.87], P = 0.018). A reduction in nefopam consumption within the five postoperative days was also observed (95% confidence interval [-0.1 to 33.7], P = 0.005). There were no significant differences found regarding oxygen administration, intraoperative hypotension, and length of hospital stay or oral morphine equivalent consumption within five postoperative days. CONCLUSION: The use of VR is an innovative approach that appears effective in reducing sedative consumption without increasing perioperative complications in patients undergoing TKA under SA. This promising study encourages further large-scale research to better assess the impact of VR in surgeries performed under SA. LEVEL OF EVIDENCE: IV.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42373149/",
+      "score": 71,
+      "score_reasoning": "Systematic review of registry studies comparing cementless vs. cemented TKA survivorship with rigorous quality scoring reveals poor methodological quality of existing evidence and revision rate differences less than 1%\u2014critical appraisal directly relevant to a major ongoing debate in arthroplasty.",
+      "bullets": [
+        "In TKA patients under spinal anesthesia, using a VR headset during the procedure significantly reduced intraoperative sedative consumption compared to spinal anesthesia alone.",
+        "Patients who used VR also required less nefopam in the first five postoperative days, with no difference in hypotension, oxygen needs, or hospital length of stay.",
+        "For orthopaedic teams doing awake TKA under spinal anesthesia, adding a VR headset is a low-risk option to reduce sedation use and early postoperative analgesic demand."
+      ]
+    },
+    {
+      "pmid": "42406854",
+      "title": "Intraoperative Surgical Smoke During Arthroplasty: Early Unhealthy-Level Exposure and Approach-Dependent Risk.",
+      "authors": [
+        "Tsuchiya R",
+        "Suzuki R",
+        "Yano S",
+        "Ikenoue S",
+        "Mimura M",
+        "Sameda H",
+        "Someya Y",
+        "Ohara T",
+        "Ohtori S"
+      ],
+      "authors_short": "Tsuchiya R, Suzuki R, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Surgical smoke is a gaseous intraoperative byproduct that contains numerous toxic compounds, including fine particles with a diameter of \u22642.5 \u00b5m (PM2.5). However, intraoperative exposure during joint arthroplasty has not been well characterized. In this study, we aimed to quantify PM2.5 exposure during arthroplasty and to determine, by procedure and approach, how often it reached potentially harmful levels. METHODS: We conducted a single-center prospective study of 83 primary arthroplasties (20 bipolar hemiarthroplasties [BHAs] via a direct lateral approach, 35 total hip arthroplasties [THAs] via a direct anterior approach, and 28 total knee arthroplasties [TKAs]). Intraoperative PM2.5 concentrations were measured using a portable monitor and were mapped to Air Quality Index (AQI) categories. Summary metrics, including maximum and cumulative PM2.5 exposure, were calculated by procedure. Logistic regression was used to estimate odds ratios (ORs) for exceeding AQI thresholds. RESULTS: In BHA and TKA, PM2.5 concentrations increased sharply during field development, whereas they remained low throughout THA. The median maximum PM2.5 concentrations were 129.50 \u00b5g/m3 (interquartile range [IQR], 85.44 to 275.28 \u00b5g/m3) for BHA, 6.14 \u00b5g/m3 (IQR, 2.54 to 23.94 \u00b5g/m3) for THA, and 118.80 \u00b5g/m3 (IQR, 56.23 to 208.04 \u00b5g/m3) for TKA. The concentrations were significantly higher in BHA and TKA (both adjusted p < 0.001) than in THA. At 25% of the normalized surgical time, 80% of BHA cases and 71% of TKA cases reached an AQI of Unhealthy or worse, whereas most THA cases remained within the Good or Moderate categories. The adjusted ORs for reaching an AQI of Unhealthy or worse were 34.280 (95% confidence interval [CI], 7.479 to 215.044; p < 0.001) for BHA and 21.971 (95% CI, 6.011 to 101.814; p < 0.001) for TKA compared with THA. CONCLUSIONS: BHA via a direct lateral approach and TKA generated substantially higher intraoperative PM2.5 concentrations than THA via a direct anterior approach, and many cases reached an AQI of Unhealthy or worse. Procedure and approach are not readily modifiable determinants of surgical smoke exposure, underscoring the need for comprehensive control strategies, including smoke evacuation and high-efficiency masks, in arthroplasty practice. CLINICAL RELEVANCE: Operating room teams may be exposed to potentially harmful levels of surgical smoke during arthroplasty. Understanding the characteristics of this exposure may help to guide strategies to optimize the operating room environment.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42406854/",
+      "score": 68,
+      "score_reasoning": "Retrospective cohort (395 patients, 398 fractures) at a level 1 trauma center characterizing substantially higher rates of nerve injury (48% vs 6%), complications, and nonunion in ballistic vs. blunt forearm fractures\u2014important for operative planning and counseling in an increasingly relevant injury pattern.",
+      "bullets": [
+        "Surgical smoke particles reached unhealthy air quality levels in 80% of hip hemiarthroplasty cases and 71% of total knee arthroplasty cases, with peak exposure occurring early in the procedure.",
+        "Total hip arthroplasty via the direct anterior approach generated far lower smoke particle concentrations than hemiarthroplasty via the direct lateral approach or total knee arthroplasty.",
+        "All orthopaedic teams performing hemiarthroplasty or total knee arthroplasty should use smoke evacuation systems and high-filtration masks, as harmful exposure begins before the case is well underway."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-07-09T05:45:58.289331-07:00"
+}
