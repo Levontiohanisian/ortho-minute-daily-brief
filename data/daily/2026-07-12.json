@@ -1,0 +1,302 @@
+{
+  "brief_date": "2026-07-12",
+  "brief_date_display": "Sunday, July 12",
+  "candidates": [
+    {
+      "pmid": "42424434",
+      "title": "A Randomized Controlled Trial of Primary Arthrodesis Versus Temporary Bridge Plating in Unstable Lisfranc Injuries: A Concise Follow-up, at 10 Years, of a Previous Report.",
+      "authors": [
+        "Gr\u00fcn W",
+        "Poulsen M",
+        "Riiser M\u00d8",
+        "Hvaal K",
+        "Husebye EE",
+        "St\u00f8dle AH"
+      ],
+      "authors_short": "Gr\u00fcn W, Poulsen M, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "Therapeutic Level I. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42424434/",
+      "score": 82,
+      "score_reasoning": "Level I RCT with 10-year follow-up comparing primary arthrodesis vs bridge plating for Lisfranc injuries in JBJS provides highly actionable long-term evidence for a clinically important decision.",
+      "bullets": [
+        "At 10 years, patients with unstable Lisfranc injuries treated with primary arthrodesis had better functional outcomes and less pain than those treated with temporary bridge plating.",
+        "The benefit of primary fusion applies to adults with unstable Lisfranc injuries, including purely ligamentous patterns.",
+        "Surgeons treating unstable Lisfranc injuries should favour primary arthrodesis over temporary bridge plating for durable long-term results."
+      ]
+    },
+    {
+      "pmid": "42391570",
+      "title": "An analysis of risk factors for failure after operative treatment of displaced femoral neck fractures in patients 18-60 years of age.",
+      "authors": [
+        "Roddy E",
+        "Rockov Z",
+        "Firoozabadi R"
+      ],
+      "authors_short": "Roddy E, Rockov Z, Firoozabadi R",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To identify risk factors for failure after operative treatment of displaced femoral neck fractures in patients 60 years of age and younger. METHODS: Design: Retrospective cohort study. SETTING: Single level 1 academic trauma center. PATIENT SELECTION CRITERIA: All patients ages 18-60 years who underwent operative fixation of a displaced femoral neck fracture (AO/OTA 31B) between 2005 and 2024 were eligible for inclusion. Patients who were lost to follow-up prior to 6 months, or who had clear indications for hemiarthroplasty but underwent fixation due to medical and or social circumstances, were excluded. OUTCOME MEASURES AND COMPARISONS: The primary outcome was treatment failure, defined as femoral neck nonunion/fixation failure, development of avascular necrosis (AVN), and/or malunion (shortening \u2265 15mm or varus angulation). Patient, injury, and treatment factors were examined as risk factors for failure. RESULTS: Two hundred and twenty-three patients were included. The average age was 39 years (SD 12, range 18-60) and 78% were male. The rates of nonunion/fixation failure, AVN, and malunion were 13%, 19%, and 5%, respectively. The overall failure rate was 30%. In multivariable analysis, increased initial fracture displacement (OR 7.1, 95% CI 1.5-33.5, p=0.013), treatment with cannulated screws versus a fixed angle implant (OR 3.7, 95% CI 1.4-10.0, p=0.009), and good (rather than excellent) reduction (OR 5.6, 95% CI 2.0-15.7, p=0.001) were independently associated with nonunion/fixation failure. In multivariable analysis, medial fracture exit <1cm from the cranial edge of the lesser trochanter was associated with a decreased risk of AVN (OR 0.13, 95% CI 0.03-0.64, p=0.011), while increasing age (OR 1.07, 95% CI 1.01-1.15, p=0.036) and low energy mechanism (OR 9.5, 95% CI 2.4-38.6, p=0.002) were associated with increased risk of malunion. In univariable analysis, treatment with a static vs dynamic implant was not associated with risk of AVN, nonunion/fixation failure, or malunion (p>0.05 for all). CONCLUSIONS: In patients aged 18-60 with displaced femoral neck fractures treated with operative fixation, the overall failure rate (including AVN, nonunion, and malunion) was 30%. Medial fracture exit < 1cm from the cranial edge of the lesser trochanter was protective against the development of AVN. Increased initial fracture displacement, treatment with non-fixed angle implants, and achieving only good (rather than excellent) reduction were independently associated with increased risk of nonunion. LEVEL OF EVIDENCE: III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42391570/",
+      "score": 78,
+      "score_reasoning": "Large retrospective study on femoral neck fracture fixation failure predictors in young patients (n=223) with strong multivariate analysis directly guiding implant selection and reduction quality standards.",
+      "bullets": [
+        "In adults under 60 with displaced femoral neck fractures treated operatively, the overall failure rate was 30%, with AVN occurring in 19% and nonunion in 13%.",
+        "Cannulated screws, greater initial fracture displacement, and anything less than an excellent reduction each independently increased the risk of nonunion, supporting use of fixed-angle implants and anatomic reduction.",
+        "Fractures exiting the medial cortex within 1 cm of the lesser trochanter were associated with lower AVN rates, a finding that may help guide fracture pattern assessment and implant planning in younger patients."
+      ]
+    },
+    {
+      "pmid": "42435868",
+      "title": "Preoperative Sepsis Is Associated with an Elevated Rate of Periprosthetic Joint Infection and Mortality Following Total Hip Arthroplasty in a Time-Dependent Manner.",
+      "authors": [
+        "Alhankawi AR",
+        "Holle AM",
+        "Renfree SP",
+        "Braithwaite CL",
+        "Verhey JT",
+        "Deckey DG",
+        "Bingham JS"
+      ],
+      "authors_short": "Alhankawi AR, Holle AM, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Patients who have sepsis often experience persistent immune system and physiological dysregulation. However, the impact of preoperative sepsis on outcomes following elective total hip arthroplasty (THA) remains poorly defined. Thus, the purpose of this study was to evaluate the impact of preoperative sepsis on medical and surgical complications following primary THA, with attention to timing and etiology of sepsis in relation to adverse outcomes at 90 days and two years postoperatively. METHODS: A retrospective cohort study was performed using a national insurance database. Patients diagnosed with sepsis within two years prior to THA were propensity score matched 1:3 to controls. Sepsis was stratified by timing (less than three months, three to six months, six to 12 months, 12 to 18 months, and 18 to 24 months preoperatively) and by etiology. Medical and surgical complications were assessed at 90 days and two years. Statistical significance was set at P < 0.05. RESULTS: Preoperative sepsis was associated with increased 90-day rates of periprosthetic joint infection (odds ratio (OR) 1.4), postoperative sepsis (OR 3.6), acute kidney injury (OR 1.4), urinary tract infection (OR 1.8), pneumonia (OR 2.1), readmission (OR 1.3), and wound dehiscence (OR 1.4). At two years, rates of periprosthetic joint infection (OR 1.4), dislocation (OR 1.3), and mortality (OR 1.5) were elevated. Acute kidney injury, deep vein thrombosis, and readmission were increased when sepsis occurred within six months of THA, whereas periprosthetic joint infection and mortality remained elevated when sepsis occurred within one year. Gram-positive sepsis was associated with prosthetic joint infection (OR 2.1) and periprosthetic fracture (OR 1.8), while Gram-negative sepsis was associated with urinary tract infection (OR 2.6) (all findings P < 0.05). CONCLUSION: Sepsis within two years prior to THA was associated with increased medical and surgical complications, with time-dependent risk patterns influencing postoperative outcomes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42435868/",
+      "score": 75,
+      "score_reasoning": "Clinically relevant retrospective cohort with propensity-matched national database (n=14,607) showing preoperative sepsis significantly elevates PJI and mortality after THA in a time-dependent manner, directly informing surgical timing decisions.",
+      "bullets": [
+        "Patients with sepsis in the two years before total hip arthroplasty face higher rates of periprosthetic joint infection, dislocation, and mortality out to two years postoperatively.",
+        "Risk is time-dependent: acute kidney injury and DVT spike when sepsis occurs within six months of surgery, while periprosthetic joint infection and mortality remain elevated up to one year out.",
+        "Gram-positive sepsis specifically raises the risk of periprosthetic joint infection and periprosthetic fracture, suggesting sepsis etiology should factor into surgical timing decisions for elective THA."
+      ]
+    },
+    {
+      "pmid": "42398594",
+      "title": "Preoperative Pneumonia and Its Association With Periprosthetic Joint Infection and Postoperative Complications After Total Hip and Knee Arthroplasty.",
+      "authors": [
+        "Parmar RP",
+        "Alhankawi AR",
+        "Holle AM",
+        "Verhey JT",
+        "Van Schuyver P",
+        "Tarabichi S",
+        "Deckey DG",
+        "Bingham JS"
+      ],
+      "authors_short": "Parmar RP, Alhankawi AR, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Pneumonia (PNA) is a leading cause of hospitalization among older adults, yet its effect on complications following total joint arthroplasty (TJA) remains unknown. This study evaluated the association between PNA within two years prior to total hip arthroplasty (THA) or total knee arthroplasty (TKA) and periprosthetic joint infection (PJI) and other complications. METHODS: Patients undergoing primary THA or TKA were identified from a national administrative claims database. Patients who had prior PNA were matched to controls who did not have PNA based on demographics and baseline comorbidities. Outcomes included postoperative medical and surgical complications, including PJI. Subgroup analyses were performed by PNA etiology and timing relative to surgery. RESULTS: In the THA cohort, 14,607 patients who had prior PNA were matched to 14,607 controls. Overall PNA was not associated with increased PJI risk; however, prior Staphylococcal PNA was (odds ratio (OR) 2.4, 95% confidence interval (CI) 1.2 to 5.0), particularly when occurring within three months of surgery (OR 5.2, 95% CI 1.8 to 14.5). In the TKA cohort, 6,271 matched pairs were analyzed. Overall PNA was not associated with increased PJI risk (P = 0.218), while bacterial PNA was (OR 1.98, P = 0.002); viral PNA was not (P = 0.842). Klebsiella pneumoniae carried the highest PJI risk (OR 12.22, P < 0.001). Bacterial PNA occurring three to six months (OR 2.78, P = 0.022) and six to 12 months prior to TKA (OR 2.98, P = 0.001) was also associated with increased PJI odds. DISCUSSION: Pathogen-specific PNA demonstrated time-dependent associations with PJI following TJA. Staphylococcal PNA within three months of THA and bacterial PNA, particularly Klebsiella pneumoniae, occurring three to 12 months before TKA were associated with elevated PJI risk. These findings suggest that PNA etiology and timing may be relevant in preoperative risk assessment for TJA.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42398594/",
+      "score": 74,
+      "score_reasoning": "Large multicenter retrospective cohort (n=10,722) from national database demonstrating preoperative malnutrition significantly worsens outcomes after tibial shaft fracture fixation with actionable implications for optimization.",
+      "bullets": [
+        "Bacterial pneumonia before total hip or knee arthroplasty raises periprosthetic joint infection risk, but viral pneumonia does not.",
+        "Staphylococcal pneumonia within three months of total hip arthroplasty and Klebsiella pneumonia within three to twelve months of total knee arthroplasty carry the highest periprosthetic joint infection risk.",
+        "When reviewing a patient for elective arthroplasty, document recent pneumonia pathogen and timing, as these factors should inform preoperative risk discussions and potentially delay surgery."
+      ]
+    },
+    {
+      "pmid": "42406845",
+      "title": "Timing of Vascular Endothelial Growth Factor Inhibitor Reinitiation and Risk of Wound Complications in Spinal Metastasis Surgery.",
+      "authors": [
+        "Su CC",
+        "Pan YT",
+        "Lin YP",
+        "Chou CC",
+        "Yen HK",
+        "Tsai HC",
+        "Hsieh HC",
+        "Lin WH",
+        "Hu MH",
+        "Groot OQ"
+      ],
+      "authors_short": "Su CC, Pan YT, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Vascular endothelial growth factor inhibitors (VEGFi) are widely used for metastatic cancer management but are known to impair wound-healing. In spinal metastasis surgery, postoperative wound complications remain a clinical challenge, and the perioperative management of systemic antineoplastic therapies remains poorly defined. Current recommendations regarding postoperative VEGFi reinitiation are largely consensus-based and range from 28 to 40 days. The aims of this study were to evaluate the association between perioperative antineoplastic therapies and wound complications and to define the optimal timing of postoperative VEGFi reinitiation. METHODS: This retrospective cohort study included 1,164 Taiwanese patients (684 male and 480 female; median age, 60.7 years [interquartile range, 51.5 to 68.8 years]) who underwent spinal metastasis surgery at a single tertiary center between 2010 and 2022. The outcome was postoperative wound complications within 90 days. Multivariable logistic regression was used to identify independent risk factors. The association between the timing of postoperative VEGFi reinitiation and wound complications was assessed using receiver operating characteristic curve analysis and the Fisher exact test. RESULTS: Wound complications occurred in 301 patients (25.9%). Multivariable analysis identified diabetes mellitus (odds ratio [OR] = 4.58; p < 0.001), poor performance status (Eastern Cooperative Oncology Group score \u22652; OR = 3.07; p = 0.002), perioperative use of VEGFi (OR = 4.12; p < 0.001), and perioperative use of antimetabolites (OR = 2.24; p = 0.04) as independent risk factors. Patients reinitiating VEGFi within 40 days had higher complication rates than both nonusers and those reinitiating VEGFi after 40 days, with the former comparison reaching statistical significance. CONCLUSIONS: One-quarter of the patients undergoing spinal metastasis surgery experienced postoperative wound complications. Perioperative use of VEGFi was an independent predictor, and our results suggest that there should be a postoperative cessation interval of 40 days to reduce wound-related risk. Clinicians should balance the oncologic benefits of early VEGFi reinitiation against the heightened risk of complications. LEVEL OF EVIDENCE: Therapeutic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42406845/",
+      "score": 72,
+      "score_reasoning": "Large retrospective cohort (n=14,607 THA; 6,271 TKA) demonstrating preoperative pneumonia etiology and timing specifically modulates PJI risk, providing nuanced preoperative risk stratification guidance.",
+      "bullets": [
+        "One in four patients undergoing spinal metastasis surgery developed a wound complication within 90 days, with diabetes, poor functional status, and perioperative VEGFi use being the strongest independent risk factors.",
+        "Patients who restarted VEGFi within 40 days after spinal metastasis surgery had significantly higher wound complication rates than those who waited beyond 40 days.",
+        "For patients on VEGFi therapy requiring spinal metastasis surgery, delaying VEGFi reinitiation until at least 40 days postoperatively reduces wound complication risk, though this must be weighed against oncologic urgency."
+      ]
+    },
+    {
+      "pmid": "42390346",
+      "title": "Preoperative High-Sensitivity Troponin and Risk of In-Hospital Mortality and Cardiac Events after Hip Fracture Surgery.",
+      "authors": [
+        "Toure AS",
+        "Okafor K",
+        "Medilien B",
+        "Mather R",
+        "Parry J",
+        "Hernandez-Irizarry RC",
+        "Bradley CA",
+        "Ahn J",
+        "Schenker M"
+      ],
+      "authors_short": "Toure AS, Okafor K, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To evaluate whether preoperative hs-cTn elevation predicted in-hospital cardiac events and mortality following hip fracture surgery, and whether surgical delay modified this relationship. DESIGN: Retrospective cohort study. SETTING: Single Level 1 trauma center in the United States. PATIENT SELECTION CRITERIA: Adult patients who underwent hip fracture surgery between January 1, 2020, and December 31, 2024, and had a preoperative high-sensitivity cardiac troponin measurement as part of routine perioperative assessment were included. OUTCOME MEASURES AND COMPARISONS: The primary outcome was a composite of in-hospital cardiac event or mortality. Secondary outcomes were in-hospital mortality and in-hospital cardiac events analyzed separately. Outcomes were compared across preoperative troponin categories defined as normal (<30 ng/L), elevated (30-100 ng/L), and significantly elevated (>100 ng/L), as well as across surgical delay categories defined as <24 hours, 24-48 hours, and >48 hours. RESULTS: A total of 510 patients were included. Mean age was 76.3 \u00b1 14.1 years, and 291 patients (57.1%) were female. Preoperative troponin was normal in 424 patients (83.1%), elevated in 58 patients (11.4%), and significantly elevated in 28 patients (5.5%). Thirty-five patients (6.9%) experienced the composite outcome. The composite outcome occurred in 19 of 424 patients (4.5%) with normal troponin, 6 of 58 patients (10.3%) with elevated troponin, and 10 of 28 patients (35.7%) with significantly elevated troponin (p < 0.001). Mortality occurred in 8 of 424 patients (1.9%), 2 of 58 patients (3.4%), and 3 of 28 patients (10.7%), respectively (p = 0.015). Cardiac events occurred in 13 of 424 patients (3.1%), 4 of 58 patients (6.9%), and 9 of 28 patients (32.1%), respectively (p < 0.001). In adjusted models, elevated high-sensitivity cardiac troponin was associated with increased odds of the composite outcome (odds ratio [OR] 4.4, 95% confidence interval [CI] 1.1-17.9, p = 0.038), and significantly elevated troponin was associated with higher odds of the composite outcome (OR 16.1, 95% CI 3.6-72.4, p < 0.001). Higher American Society of Anesthesiologists class independently predicted the composite outcome and mortality, and longer length of stay was associated with cardiac events. CONCLUSIONS: Preoperative high-sensitivity cardiac troponin elevation was independently associated with in-hospital cardiac events and mortality after hip fracture surgery. Troponin levels greater than 100 ng/L identified patients at highest risk, independent of surgical delay. LEVEL OF EVIDENCE: Prognostic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42390346/",
+      "score": 71,
+      "score_reasoning": "Well-designed JBJS target trial emulation of SWIFFT using 6,769 patients showing surgical fixation provides statistically significant but modest functional benefit for scaphoid fractures, directly relevant to surgical decision-making.",
+      "bullets": [
+        "In hip fracture patients, a preoperative troponin above 100 ng/L carried a 35.7% rate of in-hospital cardiac events or death, compared to 4.5% in those with normal levels.",
+        "This risk stratification applies to elderly hip fracture patients broadly, as elevated troponin predicted adverse outcomes independently of how long surgery was delayed.",
+        "Routine preoperative high-sensitivity troponin testing can identify the highest-risk hip fracture patients before they reach the operating room, allowing for targeted perioperative monitoring and cardiac support."
+      ]
+    },
+    {
+      "pmid": "42405216",
+      "title": "Does Timing Matter? Postoperative Risk and the Optimal Timing for Total Joint Arthroplasty Following COVID-19 Infection.",
+      "authors": [
+        "McCoy L",
+        "Helm G",
+        "Calkins T",
+        "Bendich I",
+        "Schneider AM"
+      ],
+      "authors_short": "McCoy L, Helm G, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: The optimal timing of elective arthroplasty following COVID-19 infection remains unclear. While early postoperative risk is recognized, arthroplasty-specific data stratified by recovery interval are limited. We hypothesized that patients undergoing arthroplasty >12 weeks after COVID-19 would experience decreased complication risk. METHODS: A retrospective cohort study evaluated outcomes following primary total hip arthroplasty and total knee arthroplasty (THA/TKA). Patients with documented preoperative COVID-19 infection were stratified by timing relative to surgery (<4 weeks, 4-12 weeks, >12 weeks) and compared to controls without prior infection. Primary outcomes included 1-year prosthetic joint infection, sepsis, revision surgery, deep vein thrombosis, and pulmonary embolism (PE). RESULTS: A total of 37,272 THA and 57,158 TKA patients were included. Surgery within 4 weeks of infection was associated with increased risks of sepsis (THA relative risk [RR]: 2.36; TKA RR: 2.27) and PE (THA RR: 1.74; TKA RR: 2.39). In THA, deep vein thrombosis risk remained elevated at 4-12 weeks (RR: 1.49), and modest increases in sepsis and PE persisted beyond 12 weeks. In contrast, TKA demonstrated no increased systemic risk beyond 4 weeks. Prosthetic joint infection and revision rates were lower in patients undergoing surgery more than 12 weeks after infection. CONCLUSIONS: Elective THA and TKA performed within 4 weeks of COVID-19 infection are associated with increased systemic postoperative complications. While risk decreases with increasing time from infection, complications may persist beyond 12 weeks following THA. These findings support a timing-based approach to elective arthroplasty after COVID-19 infection. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42405216/",
+      "score": 70,
+      "score_reasoning": "Retrospective cohort study with propensity matching comparing conversion THA to primary and revision THA (n=148/group) in JBJS providing practical risk and outcome benchmarks for a technically challenging procedure.",
+      "bullets": [
+        "Patients who underwent THA or TKA within 4 weeks of COVID-19 infection had roughly double the risk of sepsis and significantly higher pulmonary embolism rates compared to uninfected controls.",
+        "For TKA, complication rates returned to baseline after 4 weeks, but THA patients showed persistent DVT, sepsis, and PE risk beyond 12 weeks post-infection.",
+        "For any patient with a recent COVID-19 infection, wait at least 4 weeks before TKA and consider waiting beyond 12 weeks before THA to reduce systemic complications."
+      ]
+    },
+    {
+      "pmid": "42382163",
+      "title": "The Efficacy and Safety of Tranexamic Acid in Revision Total Knee and Total Hip Arthroplasty: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Hoveidaei AH",
+        "Niakan R",
+        "Salmannezhad A",
+        "Pouramini A",
+        "Palmer R",
+        "Telang S",
+        "Heckmann ND"
+      ],
+      "authors_short": "Hoveidaei AH, Niakan R, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: This study evaluated 3 key aspects of tranexamic acid (TXA) use following revision total hip arthroplasty (rTHA) and revision total knee arthroplasty (rTKA): 1) its efficacy, including changes in hemoglobin, blood loss, blood transfusions, and red blood cell transfusions; 2) its safety, specifically venous thromboembolism including pulmonary embolism and deep vein thrombosis; and 3) the role of TXA administration, including the dose and route. METHODS: A comprehensive search was conducted across PubMed, Scopus, Cochrane Cochrane Central Register of Controlled Trials, Embase, and Web of Science through 2024. Studies comparing TXA treatment to non-TXA treatment in patients undergoing rTHA or rTKA were included. RESULTS: Our study included 27 studies with 10,248 patients (4700 in the TXA group and 5548 in the non-TXA group). A total of 25 studies were subjected to meta-analysis. Hemoglobin differences were significantly lower in TXA patients compared to non-TXA patients in both the rTHA (weighted mean difference [WMD] -0.79 g/dl, P = .016) and rTKA (WMD -0.64 g/dl, P = .048) groups. There was a significant reduction in red blood cell transfusion units in TXA patients compared to controls in both the rTHA (WMD 0.98, P = .006) and rTKA (WMD -0.49, P = .007) groups. Pooled analysis showed a significantly decreased blood transfusion rate in TXA patients in both rTHA (relative risk 0.56, P < .001) and rTKA (relative risk 0.40, P = .012) groups. Meta-analyses of venous thromboembolism complications showed no difference between the TXA and non-TXA groups (P > .05). CONCLUSIONS: TXA was found to be effective and safe in both rTHA and rTKA, regardless of administration dose or route.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42382163/",
+      "score": 67,
+      "score_reasoning": "Systematic review and meta-analysis of TXA in revision THA/TKA (27 studies, 10,248 patients) confirming efficacy and safety, directly applicable to a high-bleeding-risk arthroplasty population.",
+      "bullets": [
+        "TXA significantly reduced transfusion rates in both revision hip and revision knee arthroplasty, cutting transfusion risk by roughly 44% and 60% respectively.",
+        "TXA did not increase rates of DVT or pulmonary embolism in revision arthroplasty patients compared to controls.",
+        "These findings apply across revision THA and TKA patients regardless of TXA dose or route, supporting routine use in the revision setting."
+      ]
+    },
+    {
+      "pmid": "42390157",
+      "title": "Impact Microindentation Evaluates Bone Strength, Bone Quality, and Fracture Susceptibility Across Skeletal Sites: A Cadaver Study.",
+      "authors": [
+        "Vaidya RS",
+        "Jahani B",
+        "Jin JM",
+        "Gonzalez CC",
+        "Pujari B",
+        "Krothapalli S",
+        "Tang SY"
+      ],
+      "authors_short": "Vaidya RS, Jahani B, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Impact microindentation (IMI) is a minimally invasive technique for assessing bone material properties that can be performed clinically. In this study, we aimed to determine how measurements obtained by IMI (bone material strength index [BMSi]) relate to bone strength, fracture resistance, and susceptibility to fracture. QUESTIONS/PURPOSES: (1) Is BMSi associated with bone strength of the femur, radius, and vertebrae, and does incorporating BMSi alongside bone mineral density (BMD) improve the estimation of strength? (2) Does BMSi evaluate fracture toughness and mechanical properties of the bone tissue? (3) Can BMSi discriminate fracture susceptibility of the hip and wrist? METHODS: This single-site laboratory study included the tibiae, femurs, radii, and L4 vertebrae from fresh-frozen cadavers (n = 67; mean \u00b1 SD age 71 \u00b1 13 years). To answer the first question, IMI was performed on the tibia midshaft, dual-energy x-ray absorptiometry (DXA) was used to assess hip and spine BMD, and bone strength (ultimate fracture force) was mechanically determined for each site. To address the second question, stress intensity factor (KC) was quantified from notched cortical bone beam specimens from tibiae using the fracture toughness test. Bone mechanical behavior (ultimate stress, elastic modulus, work-to-fracture), microstructure (cortical porosity, tissue mineral density), and organic matrix quality (percentage of collagen denaturation, concentration of advanced glycation end products) were quantified from beam specimens from the femoral midshaft. To address the last question, hip and wrist fracture susceptibility was defined using the fall-load to fracture-load ratio, where values \u2265 1 indicate susceptibility. Receiver operating characteristic (ROC) curve analyses evaluated the ability of IMI and DXA to discriminate fracture susceptibility. Primary outcomes included evaluating the association between BMSi and BMD with bone strength and ROC analysis for discriminating fracture susceptibility. RESULTS: Higher BMSi values were positively associated with higher bone strength, showing moderate association at the femur (r = 0.62 [95% confidence interval (CI) 0.49 to 0.72]; p < 0.001) and radius (r = 0.52 [95% CI 0.34 to 0.72]; p < 0.001) and weaker association at the L4 vertebrae (r = 0.31 [95% CI 0.03 to 0.53]; p = 0.02). At the femur, BMSi was more strongly associated with strength than total hip BMD (TH-BMD) (r = 0.45 [95% CI 0.3 to 0.62]; p < 0.001), and the inclusion of BMSi in multivariate analyses improved the explained variance in femur strength from 28% to 52% (\u0394R2 = 0.24; p < 0.001). At the radius, both BMSi and TH-BMD (r = 0.50 [95% CI 0.31 to 0.71]; p < 0.01) showed moderate association with radius strength, with the combined model improving the explained variance in radius strength from 28% to 39% (\u0394R2 = 0.11; p < 0.001). At the vertebrae, strength was weakly associated with BMSi (r = 0.31 [95% CI 0.03 to 0.53]; p = 0.02) but not with BMD. For the hip and wrist of each donor, BMSi discriminated hip fracture susceptibility with moderate accuracy (area under the curve [AUC] 0.75 [95% CI 0.63 to 0.88]; p < 0.001), whereas TH-BMD could not discriminate hip fracture susceptibility. Both BMSi (AUC 0.77 [95% CI 0.63 to 0.90]; p = 0.003) and TH-BMD (AUC 0.78 [95% CI 0.64 to 0.90]; p = 0.002) classified wrist fracture susceptibility with modest discriminatory performance. CONCLUSION: Our study demonstrates that BMSi provides information related to bone strength and discriminates fracture susceptibility of the hip and wrist. CLINICAL RELEVANCE: IMI can be performed at the point of care using an FDA-cleared device and used to evaluate fragility in patients in whom fracture risk or bone strength is uncertain based on BMD alone. Prospective clinical studies are needed to determine whether IMI improves fracture risk prediction and informs patient treatment.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42390157/",
+      "score": 65,
+      "score_reasoning": "Retrospective cohort (n=510) from JBJS showing preoperative high-sensitivity troponin predicts in-hospital mortality and cardiac events after hip fracture surgery, providing an immediately usable perioperative risk tool.",
+      "bullets": [
+        "Impact microindentation at the tibia predicted femoral strength better than hip DXA alone, and combining both measures explained roughly half of the variation in femoral strength.",
+        "In cadaver specimens with a mean age of 71 years, tibial impact microindentation discriminated hip fracture susceptibility with moderate accuracy, while hip DXA alone could not.",
+        "For older patients where DXA leaves fracture risk uncertain, this FDA-cleared point-of-care tool offers an additional bone strength measure that may guide clinical decision-making."
+      ]
+    },
+    {
+      "pmid": "42429020",
+      "title": "Quantitative Investigation of Tibiofemoral Cartilage Early Degeneration After ACL Reconstruction: An Integrated Biomechanical and Longitudinal MRI Analysis.",
+      "authors": [
+        "Lin J",
+        "Cheng R",
+        "Yan Y",
+        "Zeng X",
+        "Huang W",
+        "Tsai TY",
+        "Deng C",
+        "Wang S",
+        "Zhang Y"
+      ],
+      "authors_short": "Lin J, Cheng R, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Anterior cruciate ligament reconstruction (ACLR) restores stability but is often followed by early cartilage degeneration. The contribution of altered dynamic contact pressure during gait to this degeneration remains poorly understood. PURPOSE: To investigate the biomechanical mechanisms underlying early cartilage degeneration after ACLR, with a focus on dynamic contact pressure distribution during gait. STUDY DESIGN: Controlled laboratory study. METHODS: In a 3-year longitudinal magnetic resonance imaging (MRI) study of patients with ACLR (n = 30), cartilage thickness of the tibial plateau was quantitatively assessed using deep-learning-based 3-dimensional segmentation techniques. In parallel, cadaveric knees (n = 8) were tested under intact, ACL-deficient, and ACL-reconstructed conditions using a 6 degree-of-freedom robotic simulator replicating gait cycles. Tibiofemoral contact pressure and pressure center trajectories were recorded using pressure-sensitive film. RESULTS: Quantitative MRI analyses revealed significant cartilage thinning in the posterior tibial subregion 3 years after ACLR. On the medial plateau, the central medial tibia, internal medial tibia, and posterior medial tibia subregions exhibited mean reductions of 10% (P = .027), 21% (P = .019), and 13% (P = .041), respectively. On the lateral plateau, significant decreases were observed in central lateral tibia (9%; P = .031), posterior lateral tibia (14%; P = .029), and external lateral tibia (15%; P = .035). In robotic gait simulations, the reconstructed knees exhibited persistent posterior displacement of the whole-gait-cycle contact center of stress on both tibial plateaus (residual shifts: medial, 5.29 mm; lateral, 4.73 mm; both P < .05). Additionally, the contact area was significantly enlarged in early stance (2%-12% gait cycle) and terminal swing (75%-100%), especially in the medial compartment. CONCLUSION: ACLR-induced pressure center displacement coincides with focal posterior cartilage degeneration, forming a spatiotemporal mechanical-pathological chain. This work highlights the potential of dynamic loading biomarkers for early osteoarthritis risk stratification and targeted mechanical intervention. CLINICAL RELEVANCE: Persistent shifts in tibiofemoral pressure centers after ACLR coincide with focal cartilage thinning, suggesting a mechanical pathway to post-ACLR osteoarthritis. Identifying such dynamic loading biomarkers may guide early risk stratification and targeted interventions in sports medicine.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42429020/",
+      "score": 64,
+      "score_reasoning": "JBJS study on VEGFi reinitiation timing in spinal metastasis surgery (n=1,164) provides actionable, evidence-based perioperative oncologic management guidance for a commonly encountered spine oncology scenario.",
+      "bullets": [
+        "After ACL reconstruction, cartilage thinning of 9 to 21 percent occurs in the posterior and central tibial subregions on both plateaus within 3 years.",
+        "Reconstructed knees show a persistent posterior shift in tibiofemoral contact pressure during gait, directly overlapping the regions where cartilage loss develops.",
+        "This mechanical mismatch likely drives early post-operative osteoarthritis, making gait loading patterns a potential target for intervention after ACL reconstruction."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-07-12T04:09:33.458789-07:00"
+}
