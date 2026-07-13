@@ -1,0 +1,298 @@
+{
+  "brief_date": "2026-07-13",
+  "brief_date_display": "Monday, July 13",
+  "candidates": [
+    {
+      "pmid": "42424434",
+      "title": "A Randomized Controlled Trial of Primary Arthrodesis Versus Temporary Bridge Plating in Unstable Lisfranc Injuries: A Concise Follow-up, at 10 Years, of a Previous Report.",
+      "authors": [
+        "Gr\u00fcn W",
+        "Poulsen M",
+        "Riiser M\u00d8",
+        "Hvaal K",
+        "Husebye EE",
+        "St\u00f8dle AH"
+      ],
+      "authors_short": "Gr\u00fcn W, Poulsen M, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "Therapeutic Level I. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42424434/",
+      "score": 88,
+      "score_reasoning": "10-year RCT follow-up on Lisfranc arthrodesis vs bridge plating is highest-level evidence on a clinically contested topic directly impacting foot/ankle and trauma surgical decision-making.",
+      "bullets": [
+        "At 10 years, primary arthrodesis for unstable Lisfranc injuries produced better functional outcomes and less arthritis progression than temporary bridge plating.",
+        "This applies to adults with unstable ligamentous or combined Lisfranc injuries treated surgically.",
+        "Primary fusion should be considered the preferred surgical option for unstable Lisfranc injuries, as the functional advantage over bridge plating holds at a decade."
+      ]
+    },
+    {
+      "pmid": "42391570",
+      "title": "An analysis of risk factors for failure after operative treatment of displaced femoral neck fractures in patients 18-60 years of age.",
+      "authors": [
+        "Roddy E",
+        "Rockov Z",
+        "Firoozabadi R"
+      ],
+      "authors_short": "Roddy E, Rockov Z, Firoozabadi R",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To identify risk factors for failure after operative treatment of displaced femoral neck fractures in patients 60 years of age and younger. METHODS: Design: Retrospective cohort study. SETTING: Single level 1 academic trauma center. PATIENT SELECTION CRITERIA: All patients ages 18-60 years who underwent operative fixation of a displaced femoral neck fracture (AO/OTA 31B) between 2005 and 2024 were eligible for inclusion. Patients who were lost to follow-up prior to 6 months, or who had clear indications for hemiarthroplasty but underwent fixation due to medical and or social circumstances, were excluded. OUTCOME MEASURES AND COMPARISONS: The primary outcome was treatment failure, defined as femoral neck nonunion/fixation failure, development of avascular necrosis (AVN), and/or malunion (shortening \u2265 15mm or varus angulation). Patient, injury, and treatment factors were examined as risk factors for failure. RESULTS: Two hundred and twenty-three patients were included. The average age was 39 years (SD 12, range 18-60) and 78% were male. The rates of nonunion/fixation failure, AVN, and malunion were 13%, 19%, and 5%, respectively. The overall failure rate was 30%. In multivariable analysis, increased initial fracture displacement (OR 7.1, 95% CI 1.5-33.5, p=0.013), treatment with cannulated screws versus a fixed angle implant (OR 3.7, 95% CI 1.4-10.0, p=0.009), and good (rather than excellent) reduction (OR 5.6, 95% CI 2.0-15.7, p=0.001) were independently associated with nonunion/fixation failure. In multivariable analysis, medial fracture exit <1cm from the cranial edge of the lesser trochanter was associated with a decreased risk of AVN (OR 0.13, 95% CI 0.03-0.64, p=0.011), while increasing age (OR 1.07, 95% CI 1.01-1.15, p=0.036) and low energy mechanism (OR 9.5, 95% CI 2.4-38.6, p=0.002) were associated with increased risk of malunion. In univariable analysis, treatment with a static vs dynamic implant was not associated with risk of AVN, nonunion/fixation failure, or malunion (p>0.05 for all). CONCLUSIONS: In patients aged 18-60 with displaced femoral neck fractures treated with operative fixation, the overall failure rate (including AVN, nonunion, and malunion) was 30%. Medial fracture exit < 1cm from the cranial edge of the lesser trochanter was protective against the development of AVN. Increased initial fracture displacement, treatment with non-fixed angle implants, and achieving only good (rather than excellent) reduction were independently associated with increased risk of nonunion. LEVEL OF EVIDENCE: III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42391570/",
+      "score": 82,
+      "score_reasoning": "Large retrospective study on femoral neck fracture fixation in young patients identifies modifiable predictors of 30% failure rate, directly guiding implant selection and reduction quality targets in a high-stakes clinical scenario.",
+      "bullets": [
+        "In adults aged 18-60 with displaced femoral neck fractures treated operatively, the overall failure rate was 30%, with AVN occurring in 19% and nonunion in 13%.",
+        "Cannulated screws, higher initial fracture displacement, and a good rather than excellent reduction each independently increased the risk of nonunion, supporting fixed-angle implants and anatomic reduction as priorities.",
+        "A medial fracture exit point within 1 cm of the cranial lesser trochanter was protective against AVN, suggesting fracture level should factor into fixation planning in young patients."
+      ]
+    },
+    {
+      "pmid": "42435868",
+      "title": "Preoperative Sepsis Is Associated with an Elevated Rate of Periprosthetic Joint Infection and Mortality Following Total Hip Arthroplasty in a Time-Dependent Manner.",
+      "authors": [
+        "Alhankawi AR",
+        "Holle AM",
+        "Renfree SP",
+        "Braithwaite CL",
+        "Verhey JT",
+        "Deckey DG",
+        "Bingham JS"
+      ],
+      "authors_short": "Alhankawi AR, Holle AM, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Patients who have sepsis often experience persistent immune system and physiological dysregulation. However, the impact of preoperative sepsis on outcomes following elective total hip arthroplasty (THA) remains poorly defined. Thus, the purpose of this study was to evaluate the impact of preoperative sepsis on medical and surgical complications following primary THA, with attention to timing and etiology of sepsis in relation to adverse outcomes at 90 days and two years postoperatively. METHODS: A retrospective cohort study was performed using a national insurance database. Patients diagnosed with sepsis within two years prior to THA were propensity score matched 1:3 to controls. Sepsis was stratified by timing (less than three months, three to six months, six to 12 months, 12 to 18 months, and 18 to 24 months preoperatively) and by etiology. Medical and surgical complications were assessed at 90 days and two years. Statistical significance was set at P < 0.05. RESULTS: Preoperative sepsis was associated with increased 90-day rates of periprosthetic joint infection (odds ratio (OR) 1.4), postoperative sepsis (OR 3.6), acute kidney injury (OR 1.4), urinary tract infection (OR 1.8), pneumonia (OR 2.1), readmission (OR 1.3), and wound dehiscence (OR 1.4). At two years, rates of periprosthetic joint infection (OR 1.4), dislocation (OR 1.3), and mortality (OR 1.5) were elevated. Acute kidney injury, deep vein thrombosis, and readmission were increased when sepsis occurred within six months of THA, whereas periprosthetic joint infection and mortality remained elevated when sepsis occurred within one year. Gram-positive sepsis was associated with prosthetic joint infection (OR 2.1) and periprosthetic fracture (OR 1.8), while Gram-negative sepsis was associated with urinary tract infection (OR 2.6) (all findings P < 0.05). CONCLUSION: Sepsis within two years prior to THA was associated with increased medical and surgical complications, with time-dependent risk patterns influencing postoperative outcomes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42435868/",
+      "score": 80,
+      "score_reasoning": "Prospective national database study on preoperative sepsis and THA complications with propensity matching provides directly actionable risk stratification data for arthroplasty surgeons counseling high-risk patients.",
+      "bullets": [
+        "Patients with sepsis in the two years before total hip arthroplasty face significantly higher rates of periprosthetic joint infection, dislocation, and mortality at two years compared to matched controls.",
+        "Risk is time-dependent: kidney injury and readmission are elevated mainly when sepsis occurred within six months of surgery, but infection risk and mortality remain elevated up to one year out.",
+        "Gram-positive sepsis carries the highest implant risk, including periprosthetic joint infection and periprosthetic fracture, which should inform timing decisions and patient counseling before elective THA."
+      ]
+    },
+    {
+      "pmid": "42406845",
+      "title": "Timing of Vascular Endothelial Growth Factor Inhibitor Reinitiation and Risk of Wound Complications in Spinal Metastasis Surgery.",
+      "authors": [
+        "Su CC",
+        "Pan YT",
+        "Lin YP",
+        "Chou CC",
+        "Yen HK",
+        "Tsai HC",
+        "Hsieh HC",
+        "Lin WH",
+        "Hu MH",
+        "Groot OQ"
+      ],
+      "authors_short": "Su CC, Pan YT, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Vascular endothelial growth factor inhibitors (VEGFi) are widely used for metastatic cancer management but are known to impair wound-healing. In spinal metastasis surgery, postoperative wound complications remain a clinical challenge, and the perioperative management of systemic antineoplastic therapies remains poorly defined. Current recommendations regarding postoperative VEGFi reinitiation are largely consensus-based and range from 28 to 40 days. The aims of this study were to evaluate the association between perioperative antineoplastic therapies and wound complications and to define the optimal timing of postoperative VEGFi reinitiation. METHODS: This retrospective cohort study included 1,164 Taiwanese patients (684 male and 480 female; median age, 60.7 years [interquartile range, 51.5 to 68.8 years]) who underwent spinal metastasis surgery at a single tertiary center between 2010 and 2022. The outcome was postoperative wound complications within 90 days. Multivariable logistic regression was used to identify independent risk factors. The association between the timing of postoperative VEGFi reinitiation and wound complications was assessed using receiver operating characteristic curve analysis and the Fisher exact test. RESULTS: Wound complications occurred in 301 patients (25.9%). Multivariable analysis identified diabetes mellitus (odds ratio [OR] = 4.58; p < 0.001), poor performance status (Eastern Cooperative Oncology Group score \u22652; OR = 3.07; p = 0.002), perioperative use of VEGFi (OR = 4.12; p < 0.001), and perioperative use of antimetabolites (OR = 2.24; p = 0.04) as independent risk factors. Patients reinitiating VEGFi within 40 days had higher complication rates than both nonusers and those reinitiating VEGFi after 40 days, with the former comparison reaching statistical significance. CONCLUSIONS: One-quarter of the patients undergoing spinal metastasis surgery experienced postoperative wound complications. Perioperative use of VEGFi was an independent predictor, and our results suggest that there should be a postoperative cessation interval of 40 days to reduce wound-related risk. Clinicians should balance the oncologic benefits of early VEGFi reinitiation against the heightened risk of complications. LEVEL OF EVIDENCE: Therapeutic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42406845/",
+      "score": 78,
+      "score_reasoning": "Large retrospective cohort (n=1,164) in JBJS definitively characterizes VEGFi reinitiation timing and wound complication risk in spinal metastasis surgery, filling a critical gap in perioperative oncologic management.",
+      "bullets": [
+        "One in four patients undergoing spinal metastasis surgery developed a wound complication within 90 days, with diabetes, poor performance status, perioperative VEGFi use, and antimetabolite use as independent risk factors.",
+        "Patients who restarted VEGFi within 40 days of spinal metastasis surgery had significantly higher wound complication rates than those who waited longer than 40 days.",
+        "For cancer patients on VEGFi who need spinal metastasis surgery, surgeons should plan for at least a 40-day postoperative hold before restarting the drug, balancing wound risk against oncologic urgency."
+      ]
+    },
+    {
+      "pmid": "42409292",
+      "title": "Tourniquet Use in Cemented Total Knee Arthroplasty: Small Gains in Fixation, No Clear Benefit in Aseptic Loosening. A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Klincke V",
+        "Descamps T",
+        "Tampere T",
+        "Arnout N",
+        "Victor J",
+        "Vermue H"
+      ],
+      "authors_short": "Klincke V, Descamps T, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: The effect of tourniquet (TQ) use in primary total knee arthroplasty (TKA) on implant fixation and survival remains uncertain. This review evaluated fixation and revision outcomes after TKA performed with versus without TQ. METHODS: Following Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 guidelines, three databases were searched up to September 26, 2025. Comparative studies of primary cemented TKA were included if one group was operated on with and another without the use of a TQ. Outcomes were cement penetration, radiostereometric analysis (RSA)/maximum total point motion (MTPM), radiolucent lines (RLLs), aseptic loosening, and revision. Random-effects meta-analyses generated mean differences (MD) or risk ratios (RR) with 95% confidence intervals (CI). There were 26 studies comprising 54,561 knees (13,540 no TQ, 40,931 full TQ, and 90 partial TQ) included. RESULTS: The use of a TQ was associated with greater cumulative tibial baseplate cement penetration (six zones: MD: -0.92 mm (95% CI [-1.77 to -0.08]), P = 0.03; 10 zones: MD: -2.59 mm (95% CI [-4.67 to -0.52]), P = 0.01), while most femoral and isolated tibial zones did not differ. There were no between-group differences found in RSA/MTPM studies at 12 or 24 months as well as in RRL studies. All-cause revision at three to 12 years was modestly higher without a TQ (RR: 1.38 (95% CI [1.18 to 1.61]), P < 0.0001), whereas the rate of revision for and diagnosis of aseptic loosening did not differ. CONCLUSION: The use of a tourniquet in primary cemented TKA was associated with reduced all-cause revision, but not with consistently improved radiographic fixation and cement penetration or a reduced rate of aseptic loosening, which limits causal interpretation.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42409292/",
+      "score": 77,
+      "score_reasoning": "Multicenter retrospective cohort (n=5,387) in a high-impact journal demonstrates meniscal repair does not increase ACL reoperation risk and that successful repair preserves PROMs, providing practice-level guidance for combined procedures.",
+      "bullets": [
+        "Tourniquet use in cemented total knee arthroplasty modestly improved tibial baseplate cement penetration but showed no consistent benefit in femoral zones or implant micromotion at one to two years.",
+        "All-cause revision rates were lower with tourniquet use over three to twelve years, but rates of aseptic loosening specifically were identical between groups, making a causal link unlikely.",
+        "For surgeons performing cemented primary total knee arthroplasty, current evidence does not support tourniquet use as a reliable strategy to prevent aseptic loosening or improve meaningful fixation outcomes."
+      ]
+    },
+    {
+      "pmid": "42407994",
+      "title": "Ballistic Forearm Fractures are Associated with Higher Neurovascular Injury, Nonunion, and Complications Compared to Blunt Forearm Injuries.",
+      "authors": [
+        "Barber HF",
+        "Pereira DE",
+        "Rust BD",
+        "Perugini J",
+        "Reaver CN",
+        "Guisse NF",
+        "Wilson JL",
+        "Obey MR",
+        "McAndrew CM",
+        "Berkes MB"
+      ],
+      "authors_short": "Barber HF, Pereira DE, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To characterize injury patterns, treatment differences, and clinical outcomes associated with ballistic and blunt forearm fractures. METHODS: Design: Retrospective cohort study. SETTING: Single Level 1 tertiary trauma center, 2018-2023. PATIENT SELECTION CRITERIA: The study included adults (\u226518) who underwent operative fixation of diaphyseal radius and/or ulna fractures. Exclusion criteria were ipsilateral intra-articular or unstable elbow injuries, pathologic fractures or fractures involving pre-existing implants. Patients were stratified into two groups: ballistic and blunt injuries, which were further subclassified as blunt-closed or blunt-open. OUTCOME MEASURES AND COMPARISONS: Primary outcomes included nerve deficit, complication rate, unplanned reoperation, nonunion, and postoperative infection. RESULTS: The study included 395 patients with 398 forearm fractures: 81 ballistic fractures in 78 patients (32 years [18-69], 88.9% male), 213 blunt-closed fractures (41 years [18-82], 59.2% male), and 104 blunt-open fractures (46 years [19-92], 71.2% male). Ballistic fractures had significantly higher rates of nerve deficits (48.2% vs 6.3%, p < 0.001), complications (38.5% vs 21.1%, p = 0.020), and unplanned reoperation (30.8% vs 14.2%, p = 0.012) compared with blunt injuries. Infection rates were similar between ballistic and blunt groups (10.3% vs 5.8%, p = 0.294). Nonunion differed only between ballistic and blunt-closed fractures (18.0% vs 5.6%, p = 0.042), not blunt-open fractures (18.0% vs 9.2%, p=0.228). On multivariable analysis, injury group remained an independent predictor of nerve deficit (p<0.001), complication (p=0.008), and unplanned reoperation (p=0.015), with ballistic injuries demonstrating the highest rates. CONCLUSIONS: Ballistic forearm fractures posed unique challenges compared to blunt injuries. They were associated with significantly higher rates of nerve deficit, unplanned reoperations, and overall complications, with higher nonunion observed when compared with blunt-closed injuries. These injuries warrant a high index of suspicion for nerve injury and close long-term follow-up to optimize patient outcomes and address the needs of a disproportionately affected, high-risk population. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42407994/",
+      "score": 74,
+      "score_reasoning": "Systematic review and meta-analysis of 54,561 TKA knees on tourniquet use provides high-quality evidence that tourniquets offer modest tibial cement penetration gains but no clear aseptic loosening benefit, directly relevant to daily practice.",
+      "bullets": [
+        "Ballistic forearm fractures carry a nerve injury rate of nearly 50%, roughly eight times higher than blunt forearm fractures, so nerve assessment is mandatory at initial evaluation.",
+        "These injuries have a nonunion rate of 18% and an unplanned reoperation rate above 30%, meaning patients and families need counseling early about the likelihood of further surgery.",
+        "Ballistic forearm fractures affect a younger, predominantly male population and require close long-term orthopaedic follow-up given their independent association with higher complications across the board."
+      ]
+    },
+    {
+      "pmid": "42423561",
+      "title": "Miscorrection in coronal plane osteotomies around the knee-Current concepts.",
+      "authors": [
+        "Dawson MJ",
+        "Mabrouk A",
+        "Nejima S",
+        "Elson D",
+        "van Heerwaarden RJ"
+      ],
+      "authors_short": "Dawson MJ, Mabrouk A, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "This review seeks to clarify and enhance our current understanding around miscorrection following osteotomy surgery around the knee. Whilst many of the principles described also extend to surgery performed for axial and sagittal plane deformity they are mainly predicated on the larger scientific and experiential base which exists in osteotomy for varus and valgus deformity. Miscorrection is not, however, simply the failure to achieve an accurate correction target in the coronal plane but also incorporates a large, interrelated matrix of factors some of which have greater effect than others. Scrutiny of the scientific literature and expert consensual information from two recent European projects facilitates a comprehensive overview of multiple factors in planning, surgical technique and rehabilitation with the current methods employed towards the prevention of miscorrection. The relevance of factors in planning including the level(s) of correction, Joint Line Convergences Angle and Joint Line Obliquity are analysed. Techniques which have evolved to reduce miscorrection include comparison between computer assisted navigation (CAS) and patient-specific instrumentation (PSI) technologies. The use of hinge wire protection in tibial and femoral osteotomy and fixation techniques is considered. The article attempts to clarify the various definitions around the subject with specific attention to the concepts of target, surgical accuracy, accuracy range and tolerance. The realisation that no one target for coronal correction befits all disease processes is mirrored by an understanding that individualised planning is relevant for every patient and depends on many parameters of which some await scientific investigation. The article therefore highlights areas where greater research is required and endorses the growth of Artificial Intelligence and its various domains which may help to 're-process' historic research in addition to helping to design and direct future investigation. LEVEL OF EVIDENCE: Level V.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42423561/",
+      "score": 72,
+      "score_reasoning": "Large retrospective cohort (n=349) identifies fracture-related infection as the dominant predictor of revision for bone healing after pilon fixation and highlights plate-pin site overlap as a modifiable technical risk factor.",
+      "bullets": [
+        "Miscorrection after knee osteotomy is not simply missing the target angle but reflects failures across planning, surgical execution, and rehabilitation.",
+        "For patients undergoing coronal plane osteotomy, individual planning using joint line obliquity and convergence angle is required because no single correction target applies to all deformity patterns.",
+        "Surgeons should use hinge wire protection, consider navigation or patient-specific instrumentation, and recognise that AI tools may help refine correction targets as evidence in this area remains incomplete."
+      ]
+    },
+    {
+      "pmid": "42405216",
+      "title": "Does Timing Matter? Postoperative Risk and the Optimal Timing for Total Joint Arthroplasty Following COVID-19 Infection.",
+      "authors": [
+        "McCoy L",
+        "Helm G",
+        "Calkins T",
+        "Bendich I",
+        "Schneider AM"
+      ],
+      "authors_short": "McCoy L, Helm G, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: The optimal timing of elective arthroplasty following COVID-19 infection remains unclear. While early postoperative risk is recognized, arthroplasty-specific data stratified by recovery interval are limited. We hypothesized that patients undergoing arthroplasty >12 weeks after COVID-19 would experience decreased complication risk. METHODS: A retrospective cohort study evaluated outcomes following primary total hip arthroplasty and total knee arthroplasty (THA/TKA). Patients with documented preoperative COVID-19 infection were stratified by timing relative to surgery (<4 weeks, 4-12 weeks, >12 weeks) and compared to controls without prior infection. Primary outcomes included 1-year prosthetic joint infection, sepsis, revision surgery, deep vein thrombosis, and pulmonary embolism (PE). RESULTS: A total of 37,272 THA and 57,158 TKA patients were included. Surgery within 4 weeks of infection was associated with increased risks of sepsis (THA relative risk [RR]: 2.36; TKA RR: 2.27) and PE (THA RR: 1.74; TKA RR: 2.39). In THA, deep vein thrombosis risk remained elevated at 4-12 weeks (RR: 1.49), and modest increases in sepsis and PE persisted beyond 12 weeks. In contrast, TKA demonstrated no increased systemic risk beyond 4 weeks. Prosthetic joint infection and revision rates were lower in patients undergoing surgery more than 12 weeks after infection. CONCLUSIONS: Elective THA and TKA performed within 4 weeks of COVID-19 infection are associated with increased systemic postoperative complications. While risk decreases with increasing time from infection, complications may persist beyond 12 weeks following THA. These findings support a timing-based approach to elective arthroplasty after COVID-19 infection. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42405216/",
+      "score": 70,
+      "score_reasoning": "Prospective cohort study directly measuring kinematic alignment variability (n=935 knees) informs femoral component trochlear design requirements for uKA TKA, with immediate surgical planning relevance.",
+      "bullets": [
+        "Patients who underwent THA or TKA within 4 weeks of COVID-19 infection had roughly double the risk of sepsis and significantly higher pulmonary embolism rates compared to uninfected controls.",
+        "After 4 weeks, TKA patients showed no significant increase in systemic complications, but THA patients had persistent elevated DVT, sepsis, and PE risk beyond 12 weeks.",
+        "For elective THA, waiting more than 12 weeks after COVID-19 infection reduces but may not eliminate complication risk, suggesting surgeons should weigh timing carefully in this group."
+      ]
+    },
+    {
+      "pmid": "42423513",
+      "title": "No clear benefit of patient-specific instruments over conventional instrumentation in unicompartmental knee arthroplasty: A secondary analysis of a multicentre randomised trial with 5-year follow-up.",
+      "authors": [
+        "Leenders AM",
+        "Schotanus MGM",
+        "Most J",
+        "Van Geenen RCI",
+        "Boonen B"
+      ],
+      "authors_short": "Leenders AM, Schotanus MGM, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: The objective of the secondary analysis of this randomised controlled trial, conducted at two medical centres, was to compare the revision-free survivorship and patient-reported outcome measures (PROMs) of patient-specific instruments (PSI) versus conventional instrumentation (CI) used in unicompartmental knee arthroplasty (UKA) over a mid-term follow-up period of at least 5-years. The hypothesis was that both groups would show similar outcomes. METHODS: A total of 120 patients from two separate teaching hospitals were recruited and assigned at random to receive either PSI or CI for UKA. The primary outcomes included the revision rate and PROMs, including the Oxford Knee Score, the Western Ontario and McMaster Universities Arthritis Index, the EuroQol-5D (EQ-5D-3L) and Visual Analogue Scale (EQ-5D-VAS), the Numeric Rating Scale for pain (NRS-pain) and the forgotten joint score (FJS-12). RESULTS: The overall incidence of revisions was not statistically significantly different between PSI and CI (14.3% (8/56) vs. 5.1% (3/59), (p 0.094) The main reasons for revision included progression of lateral osteoarthritis (3.6% (2/56) vs. 0%), bearing dislocation (1.8% (1/56) vs. 1.7% (1/59)), persisting knee pain (1.8% (1/56) vs. 1.7% (1/59)) and instability (1.8% (1/56) vs. 1.7% (1/59)). All PROMs improved significantly postoperatively, but no statistically significant difference was observed between the PSI and CI group. CONCLUSIONS: The PSI method showed comparable results regarding patient-reported clinical and functional outcomes and prosthesis survival during the mid-term follow-up. A numerically higher, but not statistically significant, revision rate was observed in the PSI group. Based on the current findings, PSI do not appear to offer clear benefits over CI in UKA; however, this conclusion should be interpreted with caution given the likely limited statistical power of the study to detect differences in revision rates. LEVEL OF EVIDENCE: Level II.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42423513/",
+      "score": 69,
+      "score_reasoning": "Retrospective cohort of 349 pilon fractures identifies open fracture, obesity, pin-site overlap, and FRI as key predictors of revision for bone healing, providing surgeons with modifiable intraoperative targets.",
+      "bullets": [
+        "At 5-year follow-up, patient-specific instruments and conventional instrumentation produced equivalent functional outcomes after unicompartmental knee arthroplasty.",
+        "Revision rates were numerically higher with patient-specific instruments (14.3% vs 5.1%) but did not reach statistical significance in this 120-patient trial.",
+        "For surgeons performing unicompartmental knee arthroplasty, switching to patient-specific instruments offers no demonstrated advantage over standard technique."
+      ]
+    },
+    {
+      "pmid": "42429020",
+      "title": "Quantitative Investigation of Tibiofemoral Cartilage Early Degeneration After ACL Reconstruction: An Integrated Biomechanical and Longitudinal MRI Analysis.",
+      "authors": [
+        "Lin J",
+        "Cheng R",
+        "Yan Y",
+        "Zeng X",
+        "Huang W",
+        "Tsai TY",
+        "Deng C",
+        "Wang S",
+        "Zhang Y"
+      ],
+      "authors_short": "Lin J, Cheng R, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Anterior cruciate ligament reconstruction (ACLR) restores stability but is often followed by early cartilage degeneration. The contribution of altered dynamic contact pressure during gait to this degeneration remains poorly understood. PURPOSE: To investigate the biomechanical mechanisms underlying early cartilage degeneration after ACLR, with a focus on dynamic contact pressure distribution during gait. STUDY DESIGN: Controlled laboratory study. METHODS: In a 3-year longitudinal magnetic resonance imaging (MRI) study of patients with ACLR (n = 30), cartilage thickness of the tibial plateau was quantitatively assessed using deep-learning-based 3-dimensional segmentation techniques. In parallel, cadaveric knees (n = 8) were tested under intact, ACL-deficient, and ACL-reconstructed conditions using a 6 degree-of-freedom robotic simulator replicating gait cycles. Tibiofemoral contact pressure and pressure center trajectories were recorded using pressure-sensitive film. RESULTS: Quantitative MRI analyses revealed significant cartilage thinning in the posterior tibial subregion 3 years after ACLR. On the medial plateau, the central medial tibia, internal medial tibia, and posterior medial tibia subregions exhibited mean reductions of 10% (P = .027), 21% (P = .019), and 13% (P = .041), respectively. On the lateral plateau, significant decreases were observed in central lateral tibia (9%; P = .031), posterior lateral tibia (14%; P = .029), and external lateral tibia (15%; P = .035). In robotic gait simulations, the reconstructed knees exhibited persistent posterior displacement of the whole-gait-cycle contact center of stress on both tibial plateaus (residual shifts: medial, 5.29 mm; lateral, 4.73 mm; both P < .05). Additionally, the contact area was significantly enlarged in early stance (2%-12% gait cycle) and terminal swing (75%-100%), especially in the medial compartment. CONCLUSION: ACLR-induced pressure center displacement coincides with focal posterior cartilage degeneration, forming a spatiotemporal mechanical-pathological chain. This work highlights the potential of dynamic loading biomarkers for early osteoarthritis risk stratification and targeted mechanical intervention. CLINICAL RELEVANCE: Persistent shifts in tibiofemoral pressure centers after ACLR coincide with focal cartilage thinning, suggesting a mechanical pathway to post-ACLR osteoarthritis. Identifying such dynamic loading biomarkers may guide early risk stratification and targeted interventions in sports medicine.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42429020/",
+      "score": 67,
+      "score_reasoning": "JBJS prospective study (n=83) quantifying PM2.5 surgical smoke exposure during arthroplasty reveals unhealthy-level exposure in BHA and TKA, raising occupational safety awareness relevant to all operating surgeons.",
+      "bullets": [
+        "After ACL reconstruction, cartilage thinning of up to 21% develops in the posterior and central tibial subregions on both plateaus within 3 years.",
+        "Reconstructed knees show a persistent posterior shift in tibiofemoral contact pressure during gait, spatially matching where cartilage loss occurs.",
+        "In ACL reconstruction patients, altered joint loading mechanics appear to drive focal cartilage degeneration, representing a measurable pathway toward post-operative osteoarthritis."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-07-13T05:30:50.268174-07:00"
+}
