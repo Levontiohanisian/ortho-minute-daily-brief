@@ -1,0 +1,297 @@
+{
+  "brief_date": "2026-07-14",
+  "brief_date_display": "Tuesday, July 14",
+  "candidates": [
+    {
+      "pmid": "42442438",
+      "title": "The Effect of Dual Mobility Articulations on Re-Revision After Revision for Dislocation.",
+      "authors": [
+        "Zamzam M",
+        "Hodson N",
+        "Zhu Q",
+        "Zheng H",
+        "Hallstrom B",
+        "Charters M"
+      ],
+      "authors_short": "Zamzam M, Hodson N, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Recurrent instability remains a challenge after revision total hip arthroplasty (THA). This study evaluated whether dual mobility (DM) acetabular constructs used during revision for instability are associated with lower re-revision rates than fixed-bearing constructs. METHODS: A retrospective analysis of the Michigan Arthroplasty Registry Collaborative Quality Initiative identified 796 patients who underwent revision of elective primary THA for dislocation; resurfacing, conversion, and urgent cases were excluded. Cumulative percent revision (CPR) curves were compared using log-rank testing. A Cox proportional hazards frailty model analyzed time to re-revision across DM, non-DM, and constrained liner groups, adjusting for revision year/era and site-level clustering. Multivariable logistic regression served as a sensitivity analysis for odds of re-revision within two years. RESULTS: The two- and five-year CPRs were 12.6% (95% CI [confidence interval], 10.1 to 15.0) and 17.1% (95% CI, 14.0 to 20.0), respectively. DM constructs had significantly lower CPR than non-DM (P = 0.022). At one year, CPR was 5.1% (95% CI, 2.1 to 8.0) versus 11.3% (95% CI, 7.7 to 14.8); at two years, 7.3% (95% CI, 3.6 to 10.8) versus 14.2% (95% CI, 10.2 to 18.0). By five years, confidence intervals overlapped (12.7 versus 20.2%). On adjusted analysis, non-DM constructs had significantly higher odds of re-revision within two years (OR 2.04; 95% CI, 1.2 to 3.5; P = 0.009). CONCLUSIONS: The DM constructs are associated with significantly lower early all-cause re-revision risk following revision THA for dislocation, with absolute risk reductions of 6.2% at one year and 6.9% at two years. Later estimates are less precise due to declining at-risk counts, and definitive conclusions regarding longer-term equivalence cannot be drawn. These findings support selective DM use in high-risk patients and highlight the need for long-term surveillance.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42442438/",
+      "score": 78,
+      "score_reasoning": "Dual mobility vs fixed-bearing constructs for revision THA dislocation using a large registry (n=796) with robust Cox regression analysis directly informs one of the most common and challenging revision scenarios in hip arthroplasty practice.",
+      "bullets": [
+        "In 796 revision hip replacements done for dislocation, dual mobility cups cut re-revision rates roughly in half compared to standard fixed bearings at one and two years.",
+        "The benefit applies to patients undergoing revision total hip arthroplasty specifically for instability, with an absolute re-revision risk reduction of about 7 percentage points at two years.",
+        "Dual mobility should be the preferred construct when revising a dislocating hip, though longer-term data beyond two years are still needed to confirm durability of this advantage."
+      ]
+    },
+    {
+      "pmid": "42424434",
+      "title": "A Randomized Controlled Trial of Primary Arthrodesis Versus Temporary Bridge Plating in Unstable Lisfranc Injuries: A Concise Follow-up, at 10 Years, of a Previous Report.",
+      "authors": [
+        "Gr\u00fcn W",
+        "Poulsen M",
+        "Riiser M\u00d8",
+        "Hvaal K",
+        "Husebye EE",
+        "St\u00f8dle AH"
+      ],
+      "authors_short": "Gr\u00fcn W, Poulsen M, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "Therapeutic Level I. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42424434/",
+      "score": 76,
+      "score_reasoning": "Large registry-based retrospective cohort (n=64,856) demonstrating dramatically elevated complication risks with combined low BMI and hypoalbuminemia in THA provides immediately actionable preoperative risk stratification guidance with strong statistical power.",
+      "bullets": [
+        "At 10 years, primary arthrodesis and temporary bridge plating produced similar pain scores and functional outcomes in patients with unstable Lisfranc injuries.",
+        "Roughly one in three patients treated with bridge plating required conversion to arthrodesis within the follow-up period.",
+        "Primary arthrodesis remains a reliable option for unstable Lisfranc injuries and avoids the risk of needing a second major procedure."
+      ]
+    },
+    {
+      "pmid": "42442440",
+      "title": "Undernourished and Underweight: Independent Predictors of Worse Outcomes Following Total Hip Arthroplasty.",
+      "authors": [
+        "Choubey A",
+        "Abunnur N",
+        "Hussain J",
+        "Babul C",
+        "Farid YR",
+        "Gonzalez MH"
+      ],
+      "authors_short": "Choubey A, Abunnur N, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Total hip arthroplasty (THA) provides pain relief and restored mobility, yet recovery remains challenging for underweight patients whose nutritional deficits may compromise outcomes. This study examined the impact of low body mass index (BMI) and hypoalbuminemia on postoperative complications following THA. METHODS: Using a national surgical database (2012 to 2021), patients who underwent primary THA (Current Procedural Terminology 27130) with a BMI less than 25 were analyzed. Patients were categorized as Underweight (BMI less than 18.5) or Normal weight (BMI 18.5 to 24.99) and further stratified by albumin level (hypoalbuminemic less than 3.5 g/dL; normoalbuminemic 3.5 to 5.5 g/dL). Among 64,856 patients, 2,948 (4.5%) were Underweight and 61,908 (95.5%) were Normal weight. Multivariate logistic regression models adjusted for demographics and comorbidities evaluated 30-day postoperative complications. RESULTS: Underweight patients had higher risks of postoperative bleeding (odds ratio [OR] 1.54, P < 0.001), cardiac arrest (OR 2.47, P < 0.01), readmission (OR 1.21, P < 0.05), and death (OR 2.98, P < 0.001). In hypoalbuminemic patients (n = 337 Underweight), bleeding risk increased (OR 1.38, P < 0.05). Combined low BMI and hypoalbuminemia markedly elevated risks of bleeding (OR 3.01, P < 0.001), cardiac arrest (OR 4.74, P < 0.05), urinary tract infection (OR 2.36, P < 0.01), readmission (OR 1.94, P < 0.001), and death (OR 7.09, P < 0.001) versus Normal weight normoalbuminemic patients. CONCLUSION: Underweight status and malnutrition are associated with higher complication risks after THA, with hypoalbuminemia amplifying adverse outcomes. The increased rates of bleeding, cardiac arrest, and mortality highlight the physiological vulnerability of nutritionally depleted patients. Incorporating BMI and albumin assessment into preoperative optimization protocols may identify at-risk patients and guide nutritional interventions to improve outcomes after THA.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42442440/",
+      "score": 76,
+      "score_reasoning": "Large national database study (n=64,856) quantifying independent and combined effects of underweight status and hypoalbuminemia on THA outcomes offers directly actionable preoperative optimization targets with compelling odds ratios for death and cardiac arrest.",
+      "bullets": [
+        "Underweight THA patients (BMI under 18.5) face nearly three times the mortality risk and over twice the cardiac arrest risk compared to normal weight patients within 30 days of surgery.",
+        "When low BMI is combined with low albumin, the risks climb further, with mortality risk increasing sevenfold and bleeding risk tripling compared to well-nourished normal weight patients.",
+        "Checking BMI and albumin before THA identifies the highest-risk patients and creates an opportunity to optimize nutrition before proceeding to the operating room."
+      ]
+    },
+    {
+      "pmid": "42405216",
+      "title": "Does Timing Matter? Postoperative Risk and the Optimal Timing for Total Joint Arthroplasty Following COVID-19 Infection.",
+      "authors": [
+        "McCoy L",
+        "Helm G",
+        "Calkins T",
+        "Bendich I",
+        "Schneider AM"
+      ],
+      "authors_short": "McCoy L, Helm G, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: The optimal timing of elective arthroplasty following COVID-19 infection remains unclear. While early postoperative risk is recognized, arthroplasty-specific data stratified by recovery interval are limited. We hypothesized that patients undergoing arthroplasty >12 weeks after COVID-19 would experience decreased complication risk. METHODS: A retrospective cohort study evaluated outcomes following primary total hip arthroplasty and total knee arthroplasty (THA/TKA). Patients with documented preoperative COVID-19 infection were stratified by timing relative to surgery (<4 weeks, 4-12 weeks, >12 weeks) and compared to controls without prior infection. Primary outcomes included 1-year prosthetic joint infection, sepsis, revision surgery, deep vein thrombosis, and pulmonary embolism (PE). RESULTS: A total of 37,272 THA and 57,158 TKA patients were included. Surgery within 4 weeks of infection was associated with increased risks of sepsis (THA relative risk [RR]: 2.36; TKA RR: 2.27) and PE (THA RR: 1.74; TKA RR: 2.39). In THA, deep vein thrombosis risk remained elevated at 4-12 weeks (RR: 1.49), and modest increases in sepsis and PE persisted beyond 12 weeks. In contrast, TKA demonstrated no increased systemic risk beyond 4 weeks. Prosthetic joint infection and revision rates were lower in patients undergoing surgery more than 12 weeks after infection. CONCLUSIONS: Elective THA and TKA performed within 4 weeks of COVID-19 infection are associated with increased systemic postoperative complications. While risk decreases with increasing time from infection, complications may persist beyond 12 weeks following THA. These findings support a timing-based approach to elective arthroplasty after COVID-19 infection. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42405216/",
+      "score": 69,
+      "score_reasoning": "Large retrospective cohort (n=37,272 THA; n=57,158 TKA) from a national database evaluating COVID-19 infection timing on arthroplasty complications with stratified risk ratios gives surgeons clear evidence-based guidance on optimal surgery scheduling.",
+      "bullets": [
+        "Performing total hip or knee arthroplasty within 4 weeks of COVID-19 infection roughly doubles sepsis risk and significantly raises pulmonary embolism risk compared to uninfected controls.",
+        "After 4 weeks, TKA patients show no elevated systemic complication risk, but THA patients retain higher DVT risk at 4 to 12 weeks and modest sepsis and PE risk beyond 12 weeks.",
+        "For elective arthroplasty after COVID-19, waiting at least 4 weeks is the minimum threshold, and THA patients in particular may benefit from waiting beyond 12 weeks."
+      ]
+    },
+    {
+      "pmid": "42398111",
+      "title": "Intraoperative variability between the anteroposterior and posterior condylar axes in primary TKA supports a 20\u00b0 proximal trochlear entrance design for unrestricted kinematic alignment.",
+      "authors": [
+        "McPherson EJ",
+        "Kallini JR",
+        "Pena DD",
+        "Dipane MV",
+        "Chowdhry M"
+      ],
+      "authors_short": "McPherson EJ, Kallini JR, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: Unrestricted kinematic alignment (uKA) in total knee arthroplasty (TKA) creates a challenge for trochlear design. Femoral implants designed for mechanical alignment (MA) use asymmetrical posterior bone cuts to adjust axial rotation and optimize patellofemoral tracking. In uKA, posterior bone cuts are calipered resections. There is no rotational adjustment. The prosthetic trochlea is therefore fixed relative to the posterior condylar axis (PCA). The rotational variability between the native anteroposterior axis (APA) and the PCA determines the proximal trochlear entrance width required to capture the patella. This study directly measured this rotational relationship intraoperatively and determined whether a dedicated trochlear design is required for the uKA technique. METHODS: A prospective cohort study was performed in consecutive patients undergoing primary TKA for osteoarthritis or inflammatory arthritis. A single implant system was used in all cases. All measurements were performed by a single senior surgeon. After distal femoral resection, the APA line was marked on the bone using a dedicated marking jig. A posterior condylar referencing jig with a 1\u00b0 haptic rotational dial was then used to record the rotational difference of the APA line relative to the PCA line (PCAL). RESULTS: A total of 935 knees in 739 patients were analysed. Three hundred fifty-seven knees (38%) were male. Mean age was 67 years (range: 27-96). Relative to the PCAL, the mean APA line rotation was 1.3\u00b0 of external rotation (ER; standard deviation 2.7\u00b0). The range was wide, from 8\u00b0 of internal rotation to 10\u00b0 of ER. The distribution was unimodal and broadly bell-shaped. CONCLUSION: The intraoperative rotation between the APA line and the PCAL, measured during primary TKA, spans an 18\u00b0 range, which may exceed the capture of MA-designed proximal trochlear entrances. A 20\u00b0 trochlear entrance design is proposed (a 1\u00b0 margin at each end) for implants used for uKA. Prospective biomechanical and clinical validation is needed. LEVEL OF EVIDENCE: Level III, prospective observational cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42398111/",
+      "score": 67,
+      "score_reasoning": "Large matched cohort study examining preoperative pneumonia etiology and timing on PJI risk after THA/TKA identifies specific high-risk organisms (Staphylococcal, Klebsiella) with dramatic odds ratios that should influence preoperative evaluation protocols.",
+      "bullets": [
+        "In 935 knees undergoing primary TKA, the angle between the anteroposterior axis and the posterior condylar axis ranged 18 degrees, from 8 degrees internal rotation to 10 degrees external rotation.",
+        "In unrestricted kinematic alignment TKA, the femoral component rotation is fixed to the posterior condylar axis with no adjustment, meaning standard mechanical alignment trochlear designs may fail to capture the patella reliably.",
+        "A dedicated trochlear entrance width of 20 degrees is proposed for implants used in unrestricted kinematic alignment TKA to accommodate this rotational variability across the full patient population."
+      ]
+    },
+    {
+      "pmid": "42407994",
+      "title": "Ballistic Forearm Fractures are Associated with Higher Neurovascular Injury, Nonunion, and Complications Compared to Blunt Forearm Injuries.",
+      "authors": [
+        "Barber HF",
+        "Pereira DE",
+        "Rust BD",
+        "Perugini J",
+        "Reaver CN",
+        "Guisse NF",
+        "Wilson JL",
+        "Obey MR",
+        "McAndrew CM",
+        "Berkes MB"
+      ],
+      "authors_short": "Barber HF, Pereira DE, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To characterize injury patterns, treatment differences, and clinical outcomes associated with ballistic and blunt forearm fractures. METHODS: Design: Retrospective cohort study. SETTING: Single Level 1 tertiary trauma center, 2018-2023. PATIENT SELECTION CRITERIA: The study included adults (\u226518) who underwent operative fixation of diaphyseal radius and/or ulna fractures. Exclusion criteria were ipsilateral intra-articular or unstable elbow injuries, pathologic fractures or fractures involving pre-existing implants. Patients were stratified into two groups: ballistic and blunt injuries, which were further subclassified as blunt-closed or blunt-open. OUTCOME MEASURES AND COMPARISONS: Primary outcomes included nerve deficit, complication rate, unplanned reoperation, nonunion, and postoperative infection. RESULTS: The study included 395 patients with 398 forearm fractures: 81 ballistic fractures in 78 patients (32 years [18-69], 88.9% male), 213 blunt-closed fractures (41 years [18-82], 59.2% male), and 104 blunt-open fractures (46 years [19-92], 71.2% male). Ballistic fractures had significantly higher rates of nerve deficits (48.2% vs 6.3%, p < 0.001), complications (38.5% vs 21.1%, p = 0.020), and unplanned reoperation (30.8% vs 14.2%, p = 0.012) compared with blunt injuries. Infection rates were similar between ballistic and blunt groups (10.3% vs 5.8%, p = 0.294). Nonunion differed only between ballistic and blunt-closed fractures (18.0% vs 5.6%, p = 0.042), not blunt-open fractures (18.0% vs 9.2%, p=0.228). On multivariable analysis, injury group remained an independent predictor of nerve deficit (p<0.001), complication (p=0.008), and unplanned reoperation (p=0.015), with ballistic injuries demonstrating the highest rates. CONCLUSIONS: Ballistic forearm fractures posed unique challenges compared to blunt injuries. They were associated with significantly higher rates of nerve deficit, unplanned reoperations, and overall complications, with higher nonunion observed when compared with blunt-closed injuries. These injuries warrant a high index of suspicion for nerve injury and close long-term follow-up to optimize patient outcomes and address the needs of a disproportionately affected, high-risk population. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42407994/",
+      "score": 62,
+      "score_reasoning": "Prospective cohort study of 83 arthroplasties quantifying intraoperative PM2.5 surgical smoke exposure by procedure and approach reveals alarmingly high toxic levels during BHA and TKA versus THA, with direct occupational health implications for OR staff and surgeons.",
+      "bullets": [
+        "Ballistic forearm fractures carry a nerve deficit rate of nearly 50%, compared to 6% in blunt injuries, so every gunshot forearm fracture needs a thorough neurovascular exam at presentation.",
+        "Ballistic forearm fractures have a nonunion rate of 18% and an unplanned reoperation rate of 31%, meaning patients should be counselled early about the likelihood of further surgery.",
+        "Infection rates were similar between ballistic and blunt forearm fractures, so concern about wound contamination alone should not drive implant or fixation decisions in gunshot injuries."
+      ]
+    },
+    {
+      "pmid": "42423561",
+      "title": "Miscorrection in coronal plane osteotomies around the knee-Current concepts.",
+      "authors": [
+        "Dawson MJ",
+        "Mabrouk A",
+        "Nejima S",
+        "Elson D",
+        "van Heerwaarden RJ"
+      ],
+      "authors_short": "Dawson MJ, Mabrouk A, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "This review seeks to clarify and enhance our current understanding around miscorrection following osteotomy surgery around the knee. Whilst many of the principles described also extend to surgery performed for axial and sagittal plane deformity they are mainly predicated on the larger scientific and experiential base which exists in osteotomy for varus and valgus deformity. Miscorrection is not, however, simply the failure to achieve an accurate correction target in the coronal plane but also incorporates a large, interrelated matrix of factors some of which have greater effect than others. Scrutiny of the scientific literature and expert consensual information from two recent European projects facilitates a comprehensive overview of multiple factors in planning, surgical technique and rehabilitation with the current methods employed towards the prevention of miscorrection. The relevance of factors in planning including the level(s) of correction, Joint Line Convergences Angle and Joint Line Obliquity are analysed. Techniques which have evolved to reduce miscorrection include comparison between computer assisted navigation (CAS) and patient-specific instrumentation (PSI) technologies. The use of hinge wire protection in tibial and femoral osteotomy and fixation techniques is considered. The article attempts to clarify the various definitions around the subject with specific attention to the concepts of target, surgical accuracy, accuracy range and tolerance. The realisation that no one target for coronal correction befits all disease processes is mirrored by an understanding that individualised planning is relevant for every patient and depends on many parameters of which some await scientific investigation. The article therefore highlights areas where greater research is required and endorses the growth of Artificial Intelligence and its various domains which may help to 're-process' historic research in addition to helping to design and direct future investigation. LEVEL OF EVIDENCE: Level V.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42423561/",
+      "score": 61,
+      "score_reasoning": "Retrospective cohort (n=349) identifying fracture-related infection (OR=11.17), open fractures, high BMI, and overlapping plate-pin sites as predictors of revision surgery for bone healing after pilon fixation provides actionable surgical planning guidance.",
+      "bullets": [
+        "Miscorrection after knee osteotomy is not simply missing the correction target but reflects failures across planning, technique, and rehabilitation that interact to affect outcomes.",
+        "Key planning factors include the level of correction, joint line convergence angle, and joint line obliquity, and no single coronal correction target is appropriate for all patients.",
+        "For surgeons performing varus or valgus correction osteotomies, individualized preoperative planning and attention to hinge protection and fixation technique are the most actionable steps to reduce miscorrection."
+      ]
+    },
+    {
+      "pmid": "42429020",
+      "title": "Quantitative Investigation of Tibiofemoral Cartilage Early Degeneration After ACL Reconstruction: An Integrated Biomechanical and Longitudinal MRI Analysis.",
+      "authors": [
+        "Lin J",
+        "Cheng R",
+        "Yan Y",
+        "Zeng X",
+        "Huang W",
+        "Tsai TY",
+        "Deng C",
+        "Wang S",
+        "Zhang Y"
+      ],
+      "authors_short": "Lin J, Cheng R, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Anterior cruciate ligament reconstruction (ACLR) restores stability but is often followed by early cartilage degeneration. The contribution of altered dynamic contact pressure during gait to this degeneration remains poorly understood. PURPOSE: To investigate the biomechanical mechanisms underlying early cartilage degeneration after ACLR, with a focus on dynamic contact pressure distribution during gait. STUDY DESIGN: Controlled laboratory study. METHODS: In a 3-year longitudinal magnetic resonance imaging (MRI) study of patients with ACLR (n = 30), cartilage thickness of the tibial plateau was quantitatively assessed using deep-learning-based 3-dimensional segmentation techniques. In parallel, cadaveric knees (n = 8) were tested under intact, ACL-deficient, and ACL-reconstructed conditions using a 6 degree-of-freedom robotic simulator replicating gait cycles. Tibiofemoral contact pressure and pressure center trajectories were recorded using pressure-sensitive film. RESULTS: Quantitative MRI analyses revealed significant cartilage thinning in the posterior tibial subregion 3 years after ACLR. On the medial plateau, the central medial tibia, internal medial tibia, and posterior medial tibia subregions exhibited mean reductions of 10% (P = .027), 21% (P = .019), and 13% (P = .041), respectively. On the lateral plateau, significant decreases were observed in central lateral tibia (9%; P = .031), posterior lateral tibia (14%; P = .029), and external lateral tibia (15%; P = .035). In robotic gait simulations, the reconstructed knees exhibited persistent posterior displacement of the whole-gait-cycle contact center of stress on both tibial plateaus (residual shifts: medial, 5.29 mm; lateral, 4.73 mm; both P < .05). Additionally, the contact area was significantly enlarged in early stance (2%-12% gait cycle) and terminal swing (75%-100%), especially in the medial compartment. CONCLUSION: ACLR-induced pressure center displacement coincides with focal posterior cartilage degeneration, forming a spatiotemporal mechanical-pathological chain. This work highlights the potential of dynamic loading biomarkers for early osteoarthritis risk stratification and targeted mechanical intervention. CLINICAL RELEVANCE: Persistent shifts in tibiofemoral pressure centers after ACLR coincide with focal cartilage thinning, suggesting a mechanical pathway to post-ACLR osteoarthritis. Identifying such dynamic loading biomarkers may guide early risk stratification and targeted interventions in sports medicine.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42429020/",
+      "score": 60,
+      "score_reasoning": "Prospective MRI longitudinal study (n=30 ACLR patients) plus cadaveric robotic simulator demonstrating posterior tibial cartilage thinning and abnormal contact pressure patterns at 3 years links early biomechanical changes to post-ACLR osteoarthritis development.",
+      "bullets": [
+        "After ACL reconstruction, cartilage thinning of 9 to 21 percent develops in the posterior and central tibial subregions within 3 years, affecting both medial and lateral compartments.",
+        "Reconstructed knees show a persistent posterior shift in tibiofemoral contact pressure during gait, mechanically explaining why cartilage loss concentrates in the posterior tibial plateau.",
+        "For post-ACL reconstruction patients, this mechanical mismatch represents a modifiable pathway to early osteoarthritis and a potential target for gait retraining or orthopaedic intervention."
+      ]
+    },
+    {
+      "pmid": "42396831",
+      "title": "Comparison of Long-term Supraspinatus Tear Progression After Arthroscopic Isolated Subscapularis Repair With and Without Comma Tissue Preservation: A Minimum 10-Year MRI Follow-up Study.",
+      "authors": [
+        "Do WS",
+        "Chun YM",
+        "Kim SJ",
+        "Sim W",
+        "Yoon TH"
+      ],
+      "authors_short": "Do WS, Chun YM, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Long-term outcomes after arthroscopic isolated subscapularis repair are limited, and magnetic resonance imaging (MRI)-based assessments extending to 10 years are particularly scarce. Therefore, it remains unclear whether preserving the comma tissue (in-continuity technique) provides long-term advantages over disrupting the upper subscapularis margin (margin disruption technique). HYPOTHESIS: The in-continuity and margin disruption techniques would demonstrate comparable 10-year radiological and clinical outcomes in patients undergoing arthroscopic isolated subscapularis repair. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: Among patients who underwent arthroscopic isolated subscapularis repair between 2008 and 2015, those with an intact repair on 6-month postoperative MRI and at least 2 years of clinical follow-up were identified. From this cohort, 24 patients treated with the in-continuity technique and 24 treated with the margin disruption technique were included. Ten-year MRI findings (subscapularis Goutallier grade, tendon integrity, and supraspinatus tear progression) and clinical outcomes (active range of motion [ROM], visual analog scale [VAS] pain score, Subjective Shoulder Value [SSV], American Shoulder and Elbow Surgeons [ASES] score, and University of California, Los Angeles [UCLA] score) were compared. A subgroup analysis was performed to evaluate long-term structural outcomes according to early tendon healing quality assessed on 6-month MRI. RESULTS: A total of 48 patients were followed for a mean of 11.9 \u00b1 1.2 years. Radiologically, among patients confirmed to have an intact repair at 6 months, none progressed to a retear during long-term follow-up. However, during the 10-year follow-up period, supraspinatus tears developed in a higher proportion of patients in the margin disruption group (11/24 vs 2/24; P = .003). Clinically, at 2 years, the in-continuity group demonstrated higher UCLA scores (median [IQR], 34.0 [29.5-36.0] vs 28.5 [26.8-31.0]; P = .047). By 10 years, the in-continuity technique showed consistently superior functional outcomes, including VAS pain (median [IQR], 2.0 [1.0-3.0] vs 3.0 [2.0-3.2]), ASES (median [IQR], 78.5 [71.0-88.5] vs 63.0 [60.0-70.0]), and UCLA (median [IQR], 28.5 [21.5-30.5] vs 21.0 [18.0-24.0]) scores (all P < .05). In the subgroup analysis, worse early tendon healing quality on 6-month MRI was associated with greater preoperative tear severity, including higher Lafosse grade (P = .018) and greater tendon retraction (P < .001); however, early healing status did not predict long-term structural failure at follow-up. CONCLUSION: Disruption of the comma tissue was associated with a higher risk of long-term supraspinatus tear progression and worse clinical outcome scores compared with the in-continuity comma tissue technique. Although 6 months is an appropriate time point to assess subscapularis tendon integrity, continued clinical deterioration should prompt evaluation for secondary supraspinatus tear progression.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42396831/",
+      "score": 59,
+      "score_reasoning": "Retrospective cohort (n=148 per group, propensity-matched) comparing conversion THA to primary and revision THA demonstrates cTHA resembles rTHA in complexity and outcomes, providing important risk counseling data for a growing patient population.",
+      "bullets": [
+        "Preserving the comma tissue during isolated subscapularis repair reduces the rate of new supraspinatus tears at 10 years compared to disrupting it (2/24 vs 11/24 patients).",
+        "Patients who had comma tissue preserved reported less pain and better shoulder function scores at both 2 and 10 years after surgery.",
+        "In patients with a confirmed intact subscapularis repair at 6 months, late clinical decline should prompt MRI to look for a new supraspinatus tear rather than subscapularis failure."
+      ]
+    },
+    {
+      "pmid": "42401288",
+      "title": "Evaluation of Radiograph Parameters Used to Assess Prosthetic Overlengthening in Radial Head Arthroplasty.",
+      "authors": [
+        "Welsch J",
+        "Bollepalli H",
+        "Choudhury A",
+        "Van Boxtel M",
+        "Qawasmi F",
+        "Valiquette A",
+        "Wang M",
+        "Sullivan C"
+      ],
+      "authors_short": "Welsch J, Bollepalli H, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Radiographic landmarks, such as the lateral ulnohumeral joint space (LUHJ) and the proximal edge of the lesser sigmoid notch (SN), are intraoperative parameters utilized to evaluate for radial head prosthetic overlengthening. This study aims to evaluate the reliability of the LUHJ and SN as radiographic parameters to assess radial head prosthetic overlengthening. We hypothesize that the SN is a more reliable radiographic mark compared to the LUHJ for diagnosing prosthetic radial head overlengthening. METHODS: Radial head prosthetics were implanted into cadaver upper extremities at 0, +2, +4, and +6 mm. Radiographs were obtained with the cadaver positioned in full extension. The radiographs were then randomized and presented to 4 fellowship-trained upper extremity orthopaedic surgeons to evaluate for prosthetic overlengthening. Following data collection, inter-rater and intra-rater reliability of the two radiographic parameters at each position was calculated with a Fleiss and Cohen's Kappa calculation. RESULTS: The inter-rater reliability of the SN was greater than the LUHJ (K=0.55 vs 0.43), and the intra-rater reliability was higher for the SN than the LUHJ (0.54 vs 0.48). The SN had fair to moderate intra-rater reliability at full extension (K=0.54). The LUHJ had fair to moderate intra-rater reliability at full extension (K=0.48). CONCLUSION: Neither radiographic landmark is sufficiently reliable to adequately assess radial head prosthetic overlengthening, underscoring the need for the surgeon to consider multiple factors and to ensure proper elbow positioning during radiographic evaluation of radial head prosthetic length. LEVEL OF EVIDENCE: Level IV; Basic Science Study; Validation of Imaging Classifications; Cadaver Model.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42401288/",
+      "score": 55,
+      "score_reasoning": "Large single health system retrospective cohort (n=39,743) comparing PJI rates across facility types (tertiary hospital, community, specialty, ASC) for THA finding no significant facility-type differences provides reassuring data supporting outpatient arthroplasty expansion.",
+      "bullets": [
+        "Neither the lateral ulnohumeral joint space nor the sigmoid notch is reliably accurate for detecting radial head prosthetic overlengthening on plain radiographs.",
+        "The sigmoid notch landmark showed slightly better inter-rater and intra-rater agreement than the lateral ulnohumeral joint space, but both performed only fairly to moderately.",
+        "Surgeons assessing radial head implant length should not rely on a single radiographic landmark and must ensure consistent elbow positioning when interpreting postoperative films."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-07-14T04:25:31.685469-07:00"
+}
