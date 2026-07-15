@@ -1,0 +1,288 @@
+{
+  "brief_date": "2026-07-15",
+  "brief_date_display": "Wednesday, July 15",
+  "candidates": [
+    {
+      "pmid": "42448245",
+      "title": "Discordant Results by Study Design: A Systematic Review and Meta-Analyses of Mobile versus Fixed Bearing for Unicompartmental Knee Arthroplasty.",
+      "authors": [
+        "Rojas-Sayol R",
+        "Mart\u00ednez-Rosell\u00f3 A",
+        "Thabane A",
+        "Mazara A",
+        "Gil-Gonz\u00e1lez S",
+        "Pelfort X",
+        "Bhandari M"
+      ],
+      "authors_short": "Rojas-Sayol R, Mart\u00ednez-Rosell\u00f3 A, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Previous reviews comparing mobile-bearing and fixed-bearing implants in unicompartmental knee arthroplasty report mixed results. It has yet to be explored whether such differences are influenced by study design. This systematic review and meta-analysis aimed to compare adverse events, patient-reported outcomes, and range of motion between the two implant types, overall and by study design (randomized trial, observational study, and registry study). METHODS: We searched three databases up to February 4, 2025, for primary research studies comparing mobile- and fixed-bearing implants in unicompartmental knee arthroplasty patients. The outcomes of interest were adverse events, patient-reported outcomes, and range of motion. We performed Dersimonian-Laird random-effects meta-analyses, stratified by study design; assessed the risk of bias using the Cochrane and Risk Of Bias In Non-Randomized Studies - of Interventions tools; and assessed the certainty of the evidence using the Grading of Recommendations Assessment, Development, and Evaluation framework. A total of 30 observational studies (9,454 patients), six randomized trials (485 patients), and three registry studies (60,461 patients) were included. RESULTS: The meta-analyses found that fixed-bearing implants lowered the risk of revision (relative risk (RR) 0.65 [95% confidence interval (CI) 0.48 to 0.86]) and dislocation (RR 0.16 [95% CI 0.07 to 0.37]) and improved Western Ontario and McMaster University Osteoarthritis Index scores (mean difference 1.44 [95% CI 0.71 to 2.17]). Tests of subgroup differences revealed few differences in treatment estimates by study design, though observational studies had greater statistical power and thus demonstrated statistically significant findings more often. The certainty of the evidence for most outcomes was low-to-very low. CONCLUSION: Fixed-bearing implants may provide a significantly lower risk of revision and dislocation and improved function compared to mobile-bearing implants for unicompartmental knee arthroplasty patients. The lack of randomized trials limits the certainty of the evidence and remains a priority to confirm observational study findings.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42448245/",
+      "score": 79,
+      "score_reasoning": "Large propensity-matched insurance database study (n=3,876) comparing complication profiles across aseptic rTHA indications with 5-year follow-up, providing directly actionable risk stratification data for revision hip surgeons.",
+      "bullets": [
+        "In patients undergoing unicompartmental knee arthroplasty, fixed-bearing implants carry a lower risk of revision and bearing dislocation compared to mobile-bearing implants.",
+        "Fixed-bearing unicompartmental implants also produce modestly better functional scores on patient-reported outcome measures than mobile-bearing designs.",
+        "Evidence quality remains low due to limited randomised trial data, so surgeons should interpret these findings as directional rather than definitive when counselling patients on implant choice."
+      ]
+    },
+    {
+      "pmid": "42442438",
+      "title": "The Effect of Dual Mobility Articulations on Re-Revision After Revision for Dislocation.",
+      "authors": [
+        "Zamzam M",
+        "Hodson N",
+        "Zhu Q",
+        "Zheng H",
+        "Hallstrom B",
+        "Charters M"
+      ],
+      "authors_short": "Zamzam M, Hodson N, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Recurrent instability remains a challenge after revision total hip arthroplasty (THA). This study evaluated whether dual mobility (DM) acetabular constructs used during revision for instability are associated with lower re-revision rates than fixed-bearing constructs. METHODS: A retrospective analysis of the Michigan Arthroplasty Registry Collaborative Quality Initiative identified 796 patients who underwent revision of elective primary THA for dislocation; resurfacing, conversion, and urgent cases were excluded. Cumulative percent revision (CPR) curves were compared using log-rank testing. A Cox proportional hazards frailty model analyzed time to re-revision across DM, non-DM, and constrained liner groups, adjusting for revision year/era and site-level clustering. Multivariable logistic regression served as a sensitivity analysis for odds of re-revision within two years. RESULTS: The two- and five-year CPRs were 12.6% (95% CI [confidence interval], 10.1 to 15.0) and 17.1% (95% CI, 14.0 to 20.0), respectively. DM constructs had significantly lower CPR than non-DM (P = 0.022). At one year, CPR was 5.1% (95% CI, 2.1 to 8.0) versus 11.3% (95% CI, 7.7 to 14.8); at two years, 7.3% (95% CI, 3.6 to 10.8) versus 14.2% (95% CI, 10.2 to 18.0). By five years, confidence intervals overlapped (12.7 versus 20.2%). On adjusted analysis, non-DM constructs had significantly higher odds of re-revision within two years (OR 2.04; 95% CI, 1.2 to 3.5; P = 0.009). CONCLUSIONS: The DM constructs are associated with significantly lower early all-cause re-revision risk following revision THA for dislocation, with absolute risk reductions of 6.2% at one year and 6.9% at two years. Later estimates are less precise due to declining at-risk counts, and definitive conclusions regarding longer-term equivalence cannot be drawn. These findings support selective DM use in high-risk patients and highlight the need for long-term surveillance.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42442438/",
+      "score": 78,
+      "score_reasoning": "Large single-institution prospective cohort (n=3,307 THAs) defining timing and predictors of substantial clinical benefit after THA, offering directly applicable preoperative counseling benchmarks published in a high-impact arthroplasty journal.",
+      "bullets": [
+        "In patients revised for hip dislocation, dual mobility constructs cut re-revision rates roughly in half compared to fixed-bearing liners at one and two years.",
+        "The benefit applies to patients undergoing revision total hip arthroplasty for instability, with an absolute risk reduction of about 6 to 7 percentage points in the first two years.",
+        "Dual mobility should be the preferred bearing choice when revising for dislocation, though longer-term data are still needed to confirm durability beyond five years."
+      ]
+    },
+    {
+      "pmid": "42448143",
+      "title": "Computerized Branching Logic Systems Significantly Improve the Accuracy of ASES Scores for Patients with Bilateral Shoulder Pain Undergoing Shoulder Arthroplasty.",
+      "authors": [
+        "Bozoghlian M",
+        "Galvin J",
+        "Rojas E",
+        "Patterson BM"
+      ],
+      "authors_short": "Bozoghlian M, Galvin J, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: The American Shoulder and Elbow Surgeons (ASES) score is widely utilized to determine functional outcome following shoulder arthroplasty. There is, however, limited guidance on efficient and accurate collection methods of the ASES score for patients with bilateral shoulder pathology. We developed a branching logic system to improve ASES score collection accuracy. The purpose of this study was to analyze ASES scores for patients who had undergone shoulder arthroplasty and subsequently presented with contralateral shoulder pain within 1 year after surgery, before and after the implementation of a branching logic system. METHODS: A retrospective review was performed of patients undergoing primary shoulder arthroplasty with a minimum 1-year postoperative follow-up. The cohort was divided into pre- and post-branching logic groups. Group A: patients in the pre-branching logic group who underwent unilateral shoulder arthroplasty and subsequently presented with contralateral shoulder pain. Group B: patients in the post-branching logic group who underwent unilateral shoulder arthroplasty and subsequently presented with contralateral shoulder pain. Group C: patients in the pre-branching logic group who underwent unilateral shoulder arthroplasty and did not present with contralateral shoulder pain at any time postoperatively. ASES scores, VAS pain and range of motion (ROM) were collected at 6 weeks, 3 and 6 months, and 1-year postoperatively. RESULTS: A total of 188 patients were included. There were 27 patients in group A, 29 in group B, and 132 in group C. In group A, without any known complications, the mean reported ASES score decreased significantly from 64 at 6 months to 37.2 at one-year (p=0.0007). Mean VAS pain score at 6 months was 3 and increased to 7 at one-year postoperatively (p<0.0001). Conversely, in group B, the mean postoperative ASES score improved during the entire postoperative course, reaching a maximum of 84 by one-year. Mean VAS pain scores decreased at each postoperative time point. Group A showed significantly lower ASES scores at 6 months (p=0.01) and 1 year (p<0.01) when compared to group B. Patients in group C demonstrated a similar trend in ASES and pain scores as compared to group B, with improvements in both scores at each postoperative time-point. CONCLUSION: Branching logic significantly improved the ability to obtain accurate ASES scores for shoulder arthroplasty patients, both from their operated shoulder and the newly symptomatic contralateral shoulder. Implementation of a branching logic system decreases question burden while allowing for accurate collection of ASES and pain scores for patients undergoing shoulder arthroplasty. LEVEL OF EVIDENCE: Basic Science Study, Development/Validation of Outcome Measures.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42448143/",
+      "score": 77,
+      "score_reasoning": "Comprehensive systematic review and meta-analysis of 70,400 UKA patients across RCTs, observational, and registry studies demonstrating fixed-bearing superiority for revision and dislocation risk, with important study-design-dependent discordance findings.",
+      "bullets": [
+        "Without branching logic surveys, shoulder arthroplasty patients who develop contralateral pain show a spurious ASES score drop from 64 to 37 at one year, even without any surgical complications.",
+        "A computerized branching logic system that directs bilateral patients to answer questions per shoulder corrected this artifact, with operated-shoulder ASES scores reaching 84 at one year, consistent with uncomplicated unilateral cases.",
+        "Orthopaedic surgeons using ASES scores to track arthroplasty outcomes should be aware that standard single-form collection is unreliable in patients who develop contralateral shoulder pain, and branching logic tools are needed for accurate data."
+      ]
+    },
+    {
+      "pmid": "42439882",
+      "title": "Mechanisms and situational patterns of anterior cruciate ligament injuries in professional women's football (soccer): A systematic video analysis across 25 leagues (2022-2024).",
+      "authors": [
+        "Hampstead W",
+        "Lovell R",
+        "Whalan M",
+        "Chia L",
+        "Bonney J",
+        "Wakefield B",
+        "Crespin V",
+        "Pappas E"
+      ],
+      "authors_short": "Hampstead W, Lovell R, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSES: To identify and describe the biomechanical characteristics and football-specific contextual factors associated with anterior cruciate ligament (ACL) injuries in professional women's football. METHODS: A media-based prospective cross-sectional study identified 247 ACL injuries across international matches and 25 national women's leagues (tiers 3-5) between 2022 and 2024 using a validated media-based surveillance approach. Video footage was available for 127 injuries and analysed by three reviewers using Quality Appraisal for Sports Injury Video Analysis Study (QA-SIVA) informed protocols and frame-by-frame analysis. Situational variables included player action (e.g., pressing, tackling, landing, kicking), contact mechanism, match status, positional role, playing surface, competition, pitch location and time of injury. RESULTS: Most injuries (67%) occurred within the first 45\u2009min and during defensive play (65%). Mechanisms were non-contact (49%), indirect contact (41%) and direct contact (10%). Frequent scenarios included pressing/tackling (53%), being tackled (15%), regaining balance after kicking (7%) and landing from a jump (5%). Among the biomechanical subsample (57 frontal/transverse and 46 sagittal cases), commonly observed patterns during pressing or tackling included ~50\u00b0 hip flexion, ~25\u00b0 knee flexion, a neutral trunk position (~0\u00b0), hip abduction (66%) and knee valgus (54%). CONCLUSIONS: ACL injuries in professional women's football frequently occurred during defensive actions early in matches. Within the biomechanical subsample, these injuries commonly involved limited lower-limb flexion and valgus knee alignment, although findings should be interpreted cautiously due to the limited sample size. Together, these findings provide descriptive insight into common injury scenarios in professional women's football and may help inform future prevention strategies and targeted biomechanical research. LEVEL OF EVIDENCE: N/A.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42439882/",
+      "score": 76,
+      "score_reasoning": "Nationwide Danish register-based cohort (n=99,965 knee arthroplasties) with propensity matching demonstrating prior bariatric surgery does not increase reintervention risk, directly informing preoperative counseling for a growing patient population.",
+      "bullets": [
+        "In professional women's football, two-thirds of ACL injuries occurred in the first half and during defensive actions such as pressing or tackling.",
+        "Nearly half of injuries were non-contact, with the most common biomechanical pattern involving limited knee flexion around 25 degrees and valgus alignment at the time of injury.",
+        "For orthopaedic surgeons managing female footballers, these findings support targeting ACL prevention programs toward defensive movement patterns, particularly pressing and tackling mechanics."
+      ]
+    },
+    {
+      "pmid": "42407994",
+      "title": "Ballistic Forearm Fractures are Associated with Higher Neurovascular Injury, Nonunion, and Complications Compared to Blunt Forearm Injuries.",
+      "authors": [
+        "Barber HF",
+        "Pereira DE",
+        "Rust BD",
+        "Perugini J",
+        "Reaver CN",
+        "Guisse NF",
+        "Wilson JL",
+        "Obey MR",
+        "McAndrew CM",
+        "Berkes MB"
+      ],
+      "authors_short": "Barber HF, Pereira DE, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To characterize injury patterns, treatment differences, and clinical outcomes associated with ballistic and blunt forearm fractures. METHODS: Design: Retrospective cohort study. SETTING: Single Level 1 tertiary trauma center, 2018-2023. PATIENT SELECTION CRITERIA: The study included adults (\u226518) who underwent operative fixation of diaphyseal radius and/or ulna fractures. Exclusion criteria were ipsilateral intra-articular or unstable elbow injuries, pathologic fractures or fractures involving pre-existing implants. Patients were stratified into two groups: ballistic and blunt injuries, which were further subclassified as blunt-closed or blunt-open. OUTCOME MEASURES AND COMPARISONS: Primary outcomes included nerve deficit, complication rate, unplanned reoperation, nonunion, and postoperative infection. RESULTS: The study included 395 patients with 398 forearm fractures: 81 ballistic fractures in 78 patients (32 years [18-69], 88.9% male), 213 blunt-closed fractures (41 years [18-82], 59.2% male), and 104 blunt-open fractures (46 years [19-92], 71.2% male). Ballistic fractures had significantly higher rates of nerve deficits (48.2% vs 6.3%, p < 0.001), complications (38.5% vs 21.1%, p = 0.020), and unplanned reoperation (30.8% vs 14.2%, p = 0.012) compared with blunt injuries. Infection rates were similar between ballistic and blunt groups (10.3% vs 5.8%, p = 0.294). Nonunion differed only between ballistic and blunt-closed fractures (18.0% vs 5.6%, p = 0.042), not blunt-open fractures (18.0% vs 9.2%, p=0.228). On multivariable analysis, injury group remained an independent predictor of nerve deficit (p<0.001), complication (p=0.008), and unplanned reoperation (p=0.015), with ballistic injuries demonstrating the highest rates. CONCLUSIONS: Ballistic forearm fractures posed unique challenges compared to blunt injuries. They were associated with significantly higher rates of nerve deficit, unplanned reoperations, and overall complications, with higher nonunion observed when compared with blunt-closed injuries. These injuries warrant a high index of suspicion for nerve injury and close long-term follow-up to optimize patient outcomes and address the needs of a disproportionately affected, high-risk population. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42407994/",
+      "score": 73,
+      "score_reasoning": "Systematic review and meta-analysis of 54,561 TKA knees showing tourniquet use improves tibial cement penetration modestly but does not reduce aseptic loosening, directly addressing a widely debated intraoperative decision in arthroplasty practice.",
+      "bullets": [
+        "Ballistic forearm fractures have nearly 8 times the rate of nerve deficit compared to blunt injuries, affecting almost half of patients.",
+        "Surgeons should expect higher rates of unplanned reoperation and nonunion in gunshot forearm fractures, particularly when compared to closed blunt injuries.",
+        "Patients with ballistic forearm fractures require close long-term orthopaedic follow-up given their significantly higher overall complication burden."
+      ]
+    },
+    {
+      "pmid": "42424430",
+      "title": "A Century of Orthopaedic Excellence with Global Impact: Instituto de Ortopedia y Traumatolog\u00eda \"Carlos E. Ottolenghi\" at Hospital Italiano de Buenos Aires.",
+      "authors": [
+        "Buttaro M",
+        "Ranalletta M",
+        "Slullitel PA",
+        "Rossi LA",
+        "Aponte LA",
+        "Ayerza M\u00c1",
+        "Farfalli G",
+        "Piuzzi NS",
+        "Muscolo DL"
+      ],
+      "authors_short": "Buttaro M, Ranalletta M, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "\u27a2 Argentine orthopaedics was shaped by the influence of Dr. Vittorio Putti (Rizzoli Institute, Bologna, Italy). Dr. Carlos E. Ottolenghi, one of Dr. Putti's most distinguished disciples, together with Dr. Jos\u00e9 Valls, founded the Instituto de Ortopedia y Traumatolog\u00eda at Hospital Italiano de Buenos Aires in 1926. Prof. Ottolenghi transformed the Orthopaedic Service into a leading academic center and pioneer of subspecialization, serving as a foundational driver of orthopaedic development in Argentina and Latin America, while establishing strong international academic connections and collaborations.\u27a2 Major milestones include the establishment of one of the earliest institutional bone banks and the performance of one of the world's first reported massive bone allograft reconstructions (1948); the performance of the first Charnley total hip replacement in the Americas (1967) and the first total knee replacement in Argentina (1970); and the early adoption of intramedullary nailing (1972), knee arthroscopy (1976), and femoral bone impaction allografting (1987). These contributions helped to define modern orthopaedic practice across Latin America and influenced global reconstructive strategies.\u27a2 Advances such as surgical navigation (2010) and augmented reality (2025) have strengthened its role as a regional and globally connected center of excellence, particularly in musculoskeletal oncology.\u27a2 Over the past 25 years, 180 residents and 160 fellows have been trained in our institute, and more than 500 indexed publications have been produced in the last 10 years, with alumni holding leadership roles across major orthopaedic centers worldwide, amplifying our institute's global footprint.\u27a2 A merit-based, highly selective system based on excellence determines who becomes a staff surgeon. Currently, 85% of the actual staff surgeons completed residency training in our department, fostering a unique sense of institutional identity and perceived belonging. This experience reinforces the concept that excellence in orthopaedics transcends geographic boundaries and can emerge as a global reference from any setting committed to innovation, mentorship, and academic rigor.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42424430/",
+      "score": 68,
+      "score_reasoning": "10-year RCT follow-up comparing primary arthrodesis versus bridge plating for Lisfranc injuries in JBJS, representing the highest level of evidence for a debated foot and ankle surgical decision with long-term functional outcome data.",
+      "bullets": [
+        "The Instituto de Ortopedia y Traumatolog\u00eda at Hospital Italiano de Buenos Aires performed the first Charnley total hip replacement in the Americas in 1967 and conducted one of the world's first massive bone allograft reconstructions in 1948.",
+        "The institute trained 180 residents and 160 fellows over 25 years, producing over 500 indexed publications in the last decade, with alumni in leadership roles at major orthopaedic centers worldwide.",
+        "A merit-based recruitment model, where 85% of current staff completed training in-house, demonstrates that a single institution with strong mentorship can drive orthopaedic innovation at a global level."
+      ]
+    },
+    {
+      "pmid": "42441747",
+      "title": "Advance Practice Provider Performance Is Noninferior to That of Residents, but Likely not Superior: Commentary on an article by Ambika Nair, BS, et al.: \"Effectiveness of a Structured Training Program in Pediatric Distal Radial Fracture Reduction for Orthopaedic Advanced Practice Providers\".",
+      "authors": [
+        "Dirschl DR"
+      ],
+      "authors_short": "Dirschl DR",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42441747/",
+      "score": 67,
+      "score_reasoning": "20-year single-center retrospective cohort distinguishing trauma-related from elective PJI by timing, microbiology (higher Gram-negative and Enterococcus), and outcomes, providing clinically relevant infection management guidance for trauma arthroplasty.",
+      "bullets": [
+        "After structured training, advanced practice providers reduce pediatric distal radius fractures as successfully as orthopaedic residents.",
+        "This applies to emergency and urgent care settings where residents may not be available to perform closed reductions.",
+        "Trained advanced practice providers are a viable clinical alternative for fracture reduction, but there is no evidence they outperform residents."
+      ]
+    },
+    {
+      "pmid": "42446206",
+      "title": "Anteromedializing tibial tubercle osteotomy does not restore femorotibial and patellofemoral pressures to native values in a human biomechanical model with increased femoral anteversion.",
+      "authors": [
+        "Morales-Avalos R",
+        "Ceniceros-Cant\u00fa C",
+        "Guti\u00e9rrez-de la O J",
+        "Elizondo-Oma\u00f1a RE",
+        "Guzm\u00e1n-L\u00f3pez S",
+        "Theriot-Giron MDC",
+        "Chiappe C",
+        "Sanchis-Alfonso V",
+        "Monllau JC"
+      ],
+      "authors_short": "Morales-Avalos R, Ceniceros-Cant\u00fa C, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: The aim of this study was to evaluate the biomechanical consequences of performing an anteromedializing tibial tubercle osteotomy on a cadaveric knee model with increased femoral anteversion. METHODS: A controlled biomechanical study was performed on 16 human cadaveric knees. Intra-articular pressures were measured under four conditions. The first group was the native knee (n\u2009=\u200916). Subsequently, the sample was divided into two equal groups: a group in which 30 degrees of internal femoral rotation was experimentally induced (n\u2009=\u20098), and a group in which a Fulkerson osteotomy was performed (n\u2009=\u20098). Finally, the group in which an internal rotation of 30 degrees was experimentally induced underwent a Fulkerson osteotomy (n\u2009=\u20098). Measurements were obtained at 0\u00b0, 30\u00b0, 60\u00b0 and 90\u00b0 of knee flexion under a simulated weight-bearing squat condition using a 1000\u2009N ground reaction force combined with independent quadriceps (218\u2009N) and hamstring (80\u2009N) loading. Patellofemoral and tibiofemoral compartments were analysed using intra-articular pressure sensors. RESULTS: Compared with the native knee, internal femoral rotation significantly increased lateral patellofemoral pressure (1.220\u2009\u00b1\u20090.016 vs. 1.342\u2009\u00b1\u20090.032\u2009MPa at 30\u00b0 of flexion; p\u2009=\u20090.05) and lateral tibiofemoral pressure (1.110\u2009\u00b1\u20090.020 vs. 1.489\u2009\u00b1\u20090.054\u2009MPa at 90\u00b0 of flexion; p\u2009=\u20090.004). The anteromedialization of the tibial tubercle partially reversed those changes. However, the technique failed to restore the pressure distribution to native values (all p\u2009<\u20090.05). CONCLUSION: Our findings indicate that while anteromedialization of the tibial tubercle partially mitigates the biomechanical alterations induced by increased internal femoral torsion, it does not fully restore native joint pressure distribution. These findings suggest that isolated distal realignment may be insufficient in the presence of significant rotational deformity and that surgical strategies should also address proximal rotational abnormalities to optimise joint loading. LEVEL OF EVIDENCE: NA.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42446206/",
+      "score": 67,
+      "score_reasoning": "Large-scale analysis (n=9,071 ACL injuries) of elite soccer players demonstrating sustained match participation deficits after ACLR using objective normalized metrics, highly relevant to sports medicine surgeons counseling professional athletes.",
+      "bullets": [
+        "In cadaveric knees with 30 degrees of simulated femoral anteversion, increased femoral internal rotation raised lateral patellofemoral and lateral tibiofemoral pressures compared to native knees.",
+        "A Fulkerson tibial tubercle osteotomy partially reduced those elevated pressures but failed to restore joint loading to native values at any flexion angle tested.",
+        "In patients with significant femoral anteversion, isolated distal realignment may be insufficient, and surgeons should consider addressing proximal rotational deformity to normalize joint pressures."
+      ]
+    },
+    {
+      "pmid": "42417467",
+      "title": "Letter to the Editor: Most Contemporary TKA Implant Systems Meet International Benchmark Survivorship Standards: Evidence From a US Registry.",
+      "authors": [
+        "Wera GD"
+      ],
+      "authors_short": "Wera GD",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42417467/",
+      "score": 63,
+      "score_reasoning": "Nationwide retrospective study from Taiwan's NHI database evaluating denosumab dose reduction strategies in bone metastases patients, addressing a clinically urgent long-term management question with population-level data relevant to oncologic surgeons.",
+      "bullets": [
+        "Most contemporary total knee arthroplasty implant systems in the US meet the international survivorship benchmark of less than 5% revision at 10 years.",
+        "These findings apply to patients receiving modern TKA implants tracked through a large US registry.",
+        "Surgeons can reassure patients that current TKA implants perform at or above accepted global standards for longevity."
+      ]
+    },
+    {
+      "pmid": "42410729",
+      "title": "Weakening of the Active Muscle Restraint Against Valgus Loading During Repeated Baseball Pitching: Direct Evidence of Fatigue in Dynamic Valgus Stabilizers of the Elbow Joint in Collegiate Baseball Pitchers.",
+      "authors": [
+        "Yanai T",
+        "Onuma K"
+      ],
+      "authors_short": "Yanai T, Onuma K",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Although research has shown the effect of repeated pitching on throwing arm strength, no studies have examined the weakening in the overall ability of dynamic stabilizers to restrain the medial elbow against valgus loading. Fatigue in the dynamic stabilizers increases reliance on the ulnar collateral ligament (UCL) to withstand the valgus loads during pitching. HYPOTHESIS: It was hypothesized that (1) the muscular varus strength weakens as the pitch count accumulates and (2) the muscular varus strength becomes insufficient to overcome the valgus loads in later innings. STUDY DESIGN: Descriptive laboratory study. METHODS: A total of 28 collegiate baseball pitchers threw 7 innings of 15 pitches in a bullpen. Seven genlocked cameras were used to record pitching performances, and the elbow valgus load was determined. Muscular varus strength was measured before the first inning and after completing the fourth and seventh innings using an isokinetic dynamometer system and an ultrasound device. A mixed-effect model was used to examine changes over the innings in the valgus load and varus strength, and t tests were used to compare the varus strengths and the largest valgus load in corresponding innings. RESULTS: Neither the largest valgus load of the inning nor the mean valgus load of the inning significantly changed across the innings, whereas the varus strength was reduced significantly after completing the fourth and seventh innings (P < .001). The varus strength was significantly greater than the mean valgus load in the first inning (P < .008) but not in the later innings. CONCLUSION/CLINICAL RELEVANCE: Pitchers' medial elbow muscular varus strength decreased by a mean of 10% after 7 innings of 15 pitches, while motion-dependent valgus load remained fairly constant throughout the 7 innings, which could indicate increased reliance on the UCL to withstand the valgus loads in later innings.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42410729/",
+      "score": 63,
+      "score_reasoning": "Large prospective diagnostic study (n=475) using WBCT to establish radiographic threshold values for PCFD classification, providing objective cut-offs that standardize diagnosis and surgical planning for a complex foot deformity.",
+      "bullets": [
+        "In collegiate pitchers, medial elbow muscle strength against valgus stress dropped by about 10% after 7 innings, while the actual valgus load on the elbow stayed constant throughout.",
+        "Because muscular varus strength was no longer sufficient to match valgus loads by the later innings, the UCL must absorb increasing stress as pitch count rises.",
+        "This applies directly to pitch count and inning limits in young pitchers, supporting strict workload rules to protect the UCL from cumulative overload."
+      ]
+    }
+  ],
+  "picks": [
+    1
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-07-15T04:28:23.313079-07:00"
+}
