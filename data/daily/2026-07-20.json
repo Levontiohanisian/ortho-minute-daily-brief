@@ -1,0 +1,302 @@
+{
+  "brief_date": "2026-07-20",
+  "brief_date_display": "Monday, July 20",
+  "candidates": [
+    {
+      "pmid": "42460788",
+      "title": "Ulnar Epiphysiodesis for Distal Radius Physeal Arrest: Comparing Early Detection to Late Presentation Management.",
+      "authors": [
+        "O'Brien A",
+        "Campbell TR",
+        "Bomar JD",
+        "Edmonds EW"
+      ],
+      "authors_short": "O'Brien A, Campbell TR, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Premature physeal arrest of the distal radius (PPAR) is a rare but serious complication following pediatric fractures that may result in ulnar impaction syndrome. The purpose of this study was to compare outcomes following distal ulnar epiphysiodesis between those identified without deformity (early cohort) and those identified with deformity (late cohort). The hypothesis was that treating children before deformity development would improve patient-reported outcomes (PROs). METHODS: All patients younger than 18 years of age who underwent ulnar epiphysiodesis due to PPAR from 2011 to 2022 were identified through a query of the electronic medical record. Demographics were collected, final QuickDASH (Disabilities Arm, Shoulder, Hand) and SANE (Single Assessment Numerical Evaluation) scores, and final ulnar variance. Two cohorts were developed based on whether or not they required a concomitant corrective osteotomy: the early cohort, without meaningful deformity at surgery; and the late cohort, with meaningful deformity (angular deformities outside the normal range for articular position or abnormal ulnar variance). Patients with >1 year of radiographic follow-up were divided into \u22652.5 and <2.5\u00a0mm ulnar variance at final follow-up, and PROs were compared. RESULTS: A total of 63 wrists (60 patients), 39 males and 40% Hispanic, were followed for a mean of 6.4\u00b13.4 years (range: 2.0 to 12.3\u00a0y). The mean QuickDASH scores for the early (n=41 wrists) and late (n=22 wrists) cohorts were 6.7\u00b112.1 and 5.7\u00b19.0, and the mean SANE scores were 90.4\u00b114.5 and 87.9\u00b114.5, respectively. The \u22652.5\u00a0mm final ulnar variance cohort (n=7), and the <2.5\u00a0mm final ulnar variance cohort (n=12) were determined at a mean of 22.5\u00b18.8 months (range: 12.4 to 50.5\u00a0mo) follow-up, with no difference in QuickDASH or SANE scores between these radiographic outcome cohorts. CONCLUSIONS: Both early-presenting (requiring no osteotomy) and late-presenting (osteotomy required) wrists with premature physeal arrest of the distal radius experienced similar functional outcomes at short-term duration of follow-up, suggesting that correction of the deformity and restoration/maintenance of radiographic parameters to the wrist are more important than timing of the ulnar epiphysiodesis. LEVEL OF EVIDENCE: Therapeutic, level IV.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42460788/",
+      "score": 82,
+      "score_reasoning": "High-impact RCT in JBJS demonstrating significant reduction in pelvic fixation failure with TTI augmentation in multilevel spinal fusion, directly actionable for spine surgeons with strong study design and adequate sample size.",
+      "bullets": [
+        "In children with premature distal radius physeal arrest, ulnar epiphysiodesis produced good functional outcomes whether performed early (no deformity) or late (deformity requiring osteotomy), with no significant difference in wrist scores between groups.",
+        "Residual ulnar variance of 2.5 mm or more at follow-up did not worsen patient-reported outcomes, though the subgroup was small and follow-up was short.",
+        "For pediatric wrist physeal arrest, restoring acceptable alignment matters more than the timing of the epiphysiodesis, so late presenters should still be offered surgical correction."
+      ]
+    },
+    {
+      "pmid": "42462881",
+      "title": "Dexamethasone is Associated with a Dose-Dependent Reduction in Venous Thromboembolic Complications following Total Knee and Hip Arthroplasty.",
+      "authors": [
+        "Telang SS",
+        "Wier J",
+        "Jones IA",
+        "Lim MA",
+        "Hannon CP",
+        "Lieberman JR",
+        "Heckmann ND"
+      ],
+      "authors_short": "Telang SS, Wier J, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Venous thromboembolism (VTE) following total knee (TKA) and hip (THA) may be mediated by postoperative inflammatory dysregulation. Emerging literature has suggested that perioperative dexamethasone may reduce the risk of VTE by mitigating inflammation-driven thrombogenesis. The present study sought to compare postoperative VTE complications across patients receiving varying perioperative dexamethasone doses. METHODS: Using a national healthcare database that captures approximately 25% of inpatient procedures in the United States, we identified adult patients undergoing primary TKA and THA between 2016 and 2023. Patients who received dexamethasone on the day of surgery were identified and stratified into either a no dexamethasone, low-dose (less than eight milligrams [mg]), medium-dose (eight to 12 mg), or high-dose (greater than 16 mg) cohort. Outcomes were compared between the cohorts utilizing mixed-effects logistic regression. The primary outcome was the 90-day adjusted odds of VTE complications. RESULTS: Among TKA patients (n = 946,019), 393,971 (41.7%) did not receive dexamethasone, 161,287 (17.1%) received low-dose, 310,595 (32.8%) received medium-dose, and 80,166 (8.5%) received high-dose. Among THA patients (n = 537,684), 239,671 (44.6%) did not receive dexamethasone, 80,166 (14.9%) received low-dose, 151,875 (28.3%) received medium-dose, and 66,482 (12.4%) received high-dose. Within the TKA cohort, all dosing groups had significantly lower adjusted odds of VTE compared to the unexposed patients (low dose - adjusted odds ratio [aOR]: 0.93, 95% confidence interval [CI]: 0.87 to 0.99, P = 0.020; medium dose - aOR: 0.84, 95% CI: 0.80 to 0.89, P < 0.001; high dose - aOR: 0.79, 95% CI: 0.72 to 0.88, P < 0.001) when compared to those who did not receive dexamethasone. For THA patients, the adjusted odds of VTE were significantly lower in just the medium (aOR: 0.85, 95% CI: 0.77 to 0.94, P = 0.001) and high dose (aOR: 0.78, 95% CI: 0.64 to 0.94, P = 0.009) groups. DISCUSSION: Patients who received higher doses of dexamethasone experienced lower rates of VTE complications. Arthroplasty surgeons should consider higher doses of dexamethasone as a perioperative adjunct to standard VTE chemoprophylaxis regimens.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42462881/",
+      "score": 78,
+      "score_reasoning": "Clinically critical characterization of pseudotumor-related compression neuropathies after THA including seronegative cases, published in Journal of Arthroplasty with meaningful sample size and high novelty regarding non-MoM etiologies.",
+      "bullets": [
+        "In over 1.4 million TKA and THA patients, perioperative dexamethasone was associated with lower 90-day VTE rates compared to no dexamethasone, with higher doses showing greater reduction.",
+        "For TKA patients, any dexamethasone dose reduced VTE risk, while THA patients needed at least 8 mg to see a significant benefit.",
+        "Arthopaedic surgeons performing hip and knee arthroplasty should consider adding higher-dose perioperative dexamethasone alongside standard VTE chemoprophylaxis to reduce clot risk."
+      ]
+    },
+    {
+      "pmid": "42462880",
+      "title": "Magnetic Resonance Imaging Quantitative Indices Predict Collapse in Osteonecrosis for Lesions Occupying More Than the Medial Two-Thirds of the Weight-Bearing Portion of the Femoral Head.",
+      "authors": [
+        "Kawamata H",
+        "Tanaka H",
+        "Kuriyama Y",
+        "Fukuchi H",
+        "Kanabuchi R",
+        "Kurishima H",
+        "Baba K",
+        "Mori Y",
+        "Aizawa T"
+      ],
+      "authors_short": "Kawamata H, Tanaka H, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Accurate prediction of femoral head collapse remains challenging in osteonecrosis of the femoral head (ONFH), particularly in hips classified as Japanese Investigation Committee (JIC) Types C1 or C2. Conventional two-dimensional radiographic classifications provide insights into the three-dimensional morphology of necrotic lesions. This study evaluated the association between three-dimensional magnetic resonance imaging (MRI)-based quantitative indices and femoral head collapse. METHODS: This retrospective longitudinal study included 95 hips in 69 patients who had nontraumatic ONFH classified as JIC Stages 1 or 2 and Types C1 or C2. Quantitative MRI-based parameters, including the necrotic volume ratio, necrotic depth ratio, and central depth ratio, were measured using coronal and sagittal MRI images and three-dimensional reconstruction. Hips progressing to JIC Stages 3A or higher were classified as the collapse group, whereas those remaining at Stages 2 or lower for at least 36 months were classified as the non-collapse group. There were 46 hips that progressed to collapse, whereas 49 did not. Multivariate logistic regressions and receiver operating characteristic curve analyses were performed. RESULTS: Multivariate analyses identified three independent predictors of collapse: central depth ratio (odds ratio [OR], 1.08; P < 0.05); necrotic depth ratio (OR, 0.91; P < 0.05), reflecting an inverse association after multivariate adjustment; and necrotic volume ratio (OR, 1.08; P < 0.05). The JIC Stage remained significantly associated with collapse, whereas JIC Type was not significant. The areas under the curve (AUC) were 0.73 for the central depth ratio, 0.69 for the necrotic depth ratio, and 0.79 for the necrotic volume ratio. A combined model demonstrated discriminative performance (AUC, 0.84). CONCLUSIONS: The MRI-based quantitative indices, including volumetric and slice-based parameters, were independently associated with femoral head collapse in ONFH. Combined assessment of volumetric and depth-related parameters may improve risk stratification beyond conventional radiographic classification and support clinical decision-making.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42462880/",
+      "score": 76,
+      "score_reasoning": "Large database study (n>1.4 million) in Journal of Arthroplasty demonstrating dose-dependent VTE reduction with perioperative dexamethasone after TJA, highly clinically relevant with novel pharmacologic findings directly applicable to practice.",
+      "bullets": [
+        "In nontraumatic femoral head osteonecrosis extending beyond the medial two-thirds of the weight-bearing zone, three MRI-based measurements (necrotic volume ratio, central depth ratio, necrotic depth ratio) predicted collapse better than standard X-ray classification alone.",
+        "A combined MRI index model identified which hips would collapse within 36 months with an AUC of 0.84, outperforming any single measurement.",
+        "For surgeons managing early-stage osteonecrosis in high-risk lesion types, adding quantitative MRI analysis to standard workup may improve decisions about prophylactic intervention versus observation."
+      ]
+    },
+    {
+      "pmid": "42448143",
+      "title": "Computerized Branching Logic Systems Significantly Improve the Accuracy of ASES Scores for Patients with Bilateral Shoulder Pain Undergoing Shoulder Arthroplasty.",
+      "authors": [
+        "Bozoghlian M",
+        "Galvin J",
+        "Rojas E",
+        "Patterson BM"
+      ],
+      "authors_short": "Bozoghlian M, Galvin J, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: The American Shoulder and Elbow Surgeons (ASES) score is widely utilized to determine functional outcome following shoulder arthroplasty. There is, however, limited guidance on efficient and accurate collection methods of the ASES score for patients with bilateral shoulder pathology. We developed a branching logic system to improve ASES score collection accuracy. The purpose of this study was to analyze ASES scores for patients who had undergone shoulder arthroplasty and subsequently presented with contralateral shoulder pain within 1 year after surgery, before and after the implementation of a branching logic system. METHODS: A retrospective review was performed of patients undergoing primary shoulder arthroplasty with a minimum 1-year postoperative follow-up. The cohort was divided into pre- and post-branching logic groups. Group A: patients in the pre-branching logic group who underwent unilateral shoulder arthroplasty and subsequently presented with contralateral shoulder pain. Group B: patients in the post-branching logic group who underwent unilateral shoulder arthroplasty and subsequently presented with contralateral shoulder pain. Group C: patients in the pre-branching logic group who underwent unilateral shoulder arthroplasty and did not present with contralateral shoulder pain at any time postoperatively. ASES scores, VAS pain and range of motion (ROM) were collected at 6 weeks, 3 and 6 months, and 1-year postoperatively. RESULTS: A total of 188 patients were included. There were 27 patients in group A, 29 in group B, and 132 in group C. In group A, without any known complications, the mean reported ASES score decreased significantly from 64 at 6 months to 37.2 at one-year (p=0.0007). Mean VAS pain score at 6 months was 3 and increased to 7 at one-year postoperatively (p<0.0001). Conversely, in group B, the mean postoperative ASES score improved during the entire postoperative course, reaching a maximum of 84 by one-year. Mean VAS pain scores decreased at each postoperative time point. Group A showed significantly lower ASES scores at 6 months (p=0.01) and 1 year (p<0.01) when compared to group B. Patients in group C demonstrated a similar trend in ASES and pain scores as compared to group B, with improvements in both scores at each postoperative time-point. CONCLUSION: Branching logic significantly improved the ability to obtain accurate ASES scores for shoulder arthroplasty patients, both from their operated shoulder and the newly symptomatic contralateral shoulder. Implementation of a branching logic system decreases question burden while allowing for accurate collection of ASES and pain scores for patients undergoing shoulder arthroplasty. LEVEL OF EVIDENCE: Basic Science Study, Development/Validation of Outcome Measures.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42448143/",
+      "score": 75,
+      "score_reasoning": "Comprehensive systematic review and meta-analysis in Journal of Arthroplasty showing fixed-bearing UKA has lower revision and dislocation risk than mobile-bearing with large registry data, directly guiding implant selection.",
+      "bullets": [
+        "Without a branching logic system, shoulder arthroplasty patients who developed contralateral shoulder pain showed a spurious drop in ASES score from 64 to 37 at one year despite no surgical complications, reflecting pain from the untreated side rather than failure of the operated shoulder.",
+        "Adding a computerized branching logic tool that directs patients to answer ASES questions per shoulder corrected this distortion, with the post-implementation group reaching a mean ASES of 84 at one year and showing consistent pain improvement at every follow-up point.",
+        "Orthopaedic surgeons using ASES scores to monitor arthroplasty outcomes should implement branching logic collection systems for any patient with bilateral shoulder pathology, as standard single-form collection will misrepresent the operated shoulder result."
+      ]
+    },
+    {
+      "pmid": "42466723",
+      "title": "Complications After Minimally Invasive vs Open Calcaneal Osteotomy: A Retrospective Study.",
+      "authors": [
+        "Kiriluk SH",
+        "Crawford D",
+        "Harrison P",
+        "Encinas R",
+        "O'Keefe J",
+        "Davis HT",
+        "Mustafa M",
+        "Jackson JB",
+        "Gonzalez TA"
+      ],
+      "authors_short": "Kiriluk SH, Crawford D, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: A calcaneal osteotomy is a common component of surgical management for various foot and ankle deformities. Open and minimally invasive surgical (MIS) calcaneal osteotomies can be performed. The purpose of this study was to compare complication rates including infection, wound dehiscence, nerve damage, hardware failure, reoperation, and nonunion between these cohorts. METHODS: All patients who underwent an open or MIS calcaneal osteotomy between March 2021 and July 2024 at a single institution were identified and retrospectively reviewed. All procedures were performed by one of 2 fellowship-trained orthopaedic foot and ankle surgeons on patients\u2009>18\u2009years of age at the time of surgery. These procedures were performed in combination with other procedures to correct planus or cavus feet. Demographic information and postoperative complications were recorded for each patient with a minimum of 12\u2009months follow-up. RESULTS: Forty-four patients who underwent open calcaneal osteotomy and 26 patients who underwent MIS calcaneal osteotomy met the inclusion criteria for the current study. Patients were followed for a mean 25.3\u2009\u00b1\u200911.1\u2009months. There was no significant difference in the rate of nonunion (P\u2009=\u2009.703) or nerve complications (P\u2009=\u2009.410) between cohorts. There were fewer postoperative minor wound complications in the MIS cohort (1/26, 3.8%) compared with the open cohort (9/44, 20.5%) (P\u2009=\u2009.036) observed in the MIS cohort; however, the P\u2009=\u2009.036 difference in minor wound complications was found to be not significant after false discovery rate (FDR) adjustment. CONCLUSION: Data from the current study indicate that open and MIS calcaneal osteotomy are associated with no difference in major complication rates or amount of calcaneal correction. With the numbers available, no significant difference in total or minor complication rates could be detected after FDR adjustment, though fewer minor wound complications were observed in the MIS cohort (3.8% vs 20.5%). Both approaches were associated with significant improvements in patient-reported function and mobility; significant improvement in pain scores was observed in the MIS cohort only after FDR adjustment. LEVEL OF EVIDENCE: Level IV, retrospective cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42466723/",
+      "score": 74,
+      "score_reasoning": "Multicenter RCT in Journal of Orthopaedic Trauma comparing immediate vs delayed functional bracing for humeral shaft fractures, directly practice-relevant with strong study design despite modest sample size.",
+      "bullets": [
+        "Open and minimally invasive calcaneal osteotomy have equivalent rates of nonunion, nerve injury, and major complications in adult patients undergoing flatfoot or cavus reconstruction.",
+        "Minor wound complications were less common after minimally invasive osteotomy (3.8% vs 20.5%), but this difference did not hold up after statistical correction for multiple comparisons.",
+        "Either approach can be offered to patients needing calcaneal osteotomy, with no clear safety advantage for one technique over the other based on current evidence."
+      ]
+    },
+    {
+      "pmid": "42471949",
+      "title": "Early Results of Unrestricted Kinematic Alignment in Cementless Total Knee Arthroplasty.",
+      "authors": [
+        "Olson NR",
+        "Nwankwo TN",
+        "Crowley B",
+        "Jaicks C",
+        "Ho H",
+        "Sershon RA"
+      ],
+      "authors_short": "Olson NR, Nwankwo TN, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Kinematic alignment (KA) in total knee arthroplasty (TKA) is well researched, but is defined heterogeneously, as technique may vary. There is less research concerninfiveg unrestricted KA (uKA). Cementless fixation in TKA has been shown to have excellent long-term survivorship and functional outcomes, but its use in combination with KA remains controversial. This paper intends to evaluate the short-term rates of aseptic loosening in the setting of cementless uKA TKA. METHODS: Prospectively collected data were queried for all primary, cementless TKAs performed by 1 surgeon from September 2022 to August 2024. This surgeon performed all manual primary TKAs in this window using conventional caliper-measured uKA. A total of 335 primary cementless uKA TKA cases were included. The primary outcome was aseptic loosening. The secondary outcomes included all-cause revisions, complications, and patient-reported outcome measures. RESULTS: Of the 335 cases, 1 patient was revised for tibial component fixation failure within the first year postoperatively. 2 cases were revised for acute periprosthetic joint infections. There was 1 case of patellar subluxation and 1 case of a wound dehiscence secondary to traumatic fall. There were 10 medical complications unrelated to the implant. Short-term survivorship free of tibial or femoral revision was 99.4% at 1 year. CONCLUSIONS: This is the largest investigation reporting promising early results of cementless TKA utilizing a uKA technique. Our data suggest early outcomes of combining uKA with cementless fixation are promising. Longer-term follow-up and larger cohort studies will be required to further evaluate rates of revision for aseptic causes with cementless implants.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42471949/",
+      "score": 73,
+      "score_reasoning": "Large propensity-matched database study distinguishing Crohn's disease from ulcerative colitis as independent PJI risk factor after TJA, clinically actionable preoperative risk stratification data with large sample size.",
+      "bullets": [
+        "In 335 cementless total knee arthroplasties using unrestricted kinematic alignment, only one tibial component required revision for aseptic loosening, giving a one-year implant survivorship of 99.4%.",
+        "These results apply to primary TKA patients treated with manual, caliper-based unrestricted kinematic alignment combined with cementless fixation.",
+        "Combining cementless fixation with unrestricted kinematic alignment appears safe at one year, but longer follow-up is needed before drawing conclusions about aseptic loosening rates."
+      ]
+    },
+    {
+      "pmid": "42457074",
+      "title": "Higher body weight and current smoking are associated with lower concentrations of perioperative antibiotic prophylaxis in the synovial fluid of the shoulder joint.",
+      "authors": [
+        "Ubl ST",
+        "Arnold LM",
+        "Pfeiffer TR",
+        "Krombholz S",
+        "Imach S",
+        "Kappel P",
+        "Bouillon B",
+        "Thevis M",
+        "Wafaisade A"
+      ],
+      "authors_short": "Ubl ST, Arnold LM, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Surgical site infections are a clinically relevant complication in orthopedic surgery, and administration of perioperative antibiotic prophylaxis has been shown to reduce infection rates. This study aimed to identify influencing factors on the concentration of unbound cefazolin in shoulder synovial fluid following the perioperative antibiotic prophylaxis administration of 2 g of cefazolin during shoulder surgery. METHODS: Patients who underwent arthroscopic or open shoulder surgery within five months were prospectively included. The exclusion criteria were patient age under 18 years, shoulder joint infection, beta-lactam allergy and creatinine clearance below 30 ml/min. All patients received 2 g of cefazolin preoperatively via intravenous short infusion. The infusion duration, sampling time, patient age, body weight, body mass index, American Society of Anesthesiologists (ASA) score, smoking status and diabetes status were documented. Unbound cefazolin concentrations in the synovial fluid were determined using ultrafiltration and ultra-high-performance liquid chromatography coupled to tandem mass spectrometry. Multiple linear regression analysis with backward elimination (significance level p < .05) was used to analyze influencing factors on unbound cefazolin concentration. RESULT: A total of 62 patients (35 men (56.5%), age 57.1 \u00b1 15.4 years, body weight 88.2 \u00b1 18.5 kg) were included in the final evaluation. The unbound cefazolin concentration was 20.2 \u00b1 8.6 \u03bcg/mL. Increasing body weight and current smoking independently negatively influenced the unbound cefazolin concentration (B = -.217, p = < .001 and B = -6.631, p = .002, respectively). No significant correlation was found with age, sex, body mass index, ASA score, diabetic status, creatinine clearance and the time interval between perioperative antibiotic prophylaxis administration and sample collection. Sufficient drug concentrations were detected in all cases against Cutibacterium acnes (2 \u03bcg/mL). The fourfold epidemiological cut-off value for Staphylococcus aureus (8 \u03bcg/mL) was achieved in 58 patients (93.5%). In 55 patients (88.7%), the unbound drug concentrations were below four times the epidemiological cut-off value for coagulase-negative staphylococci (32 \u03bcg/mL). CONCLUSIONS: Higher body weight and current smoking are associated with lower unbound cefazolin concentrations in shoulder synovial fluid. Patient-specific adjustment of cefazolin dosing may be considered to optimize perioperative antibiotic prophylaxis.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42457074/",
+      "score": 67,
+      "score_reasoning": "RCT in Journal of Shoulder and Elbow Surgery demonstrating benefits of EMG-guided early rehabilitation after rotator cuff repair, directly actionable for postoperative management protocols despite small sample size.",
+      "bullets": [
+        "In shoulder surgery patients given standard 2g cefazolin prophylaxis, higher body weight and active smoking independently reduced cefazolin concentration in the synovial fluid.",
+        "All patients reached levels sufficient against Cutibacterium acnes, but roughly 6% of patients did not reach the target threshold for Staphylococcus aureus coverage.",
+        "Heavier and smoking patients undergoing shoulder surgery may benefit from weight-based or adjusted cefazolin dosing to ensure adequate joint-level antibiotic coverage."
+      ]
+    },
+    {
+      "pmid": "42446206",
+      "title": "Anteromedializing tibial tubercle osteotomy does not restore femorotibial and patellofemoral pressures to native values in a human biomechanical model with increased femoral anteversion.",
+      "authors": [
+        "Morales-Avalos R",
+        "Ceniceros-Cant\u00fa C",
+        "Guti\u00e9rrez-de la O J",
+        "Elizondo-Oma\u00f1a RE",
+        "Guzm\u00e1n-L\u00f3pez S",
+        "Theriot-Giron MDC",
+        "Chiappe C",
+        "Sanchis-Alfonso V",
+        "Monllau JC"
+      ],
+      "authors_short": "Morales-Avalos R, Ceniceros-Cant\u00fa C, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: The aim of this study was to evaluate the biomechanical consequences of performing an anteromedializing tibial tubercle osteotomy on a cadaveric knee model with increased femoral anteversion. METHODS: A controlled biomechanical study was performed on 16 human cadaveric knees. Intra-articular pressures were measured under four conditions. The first group was the native knee (n\u2009=\u200916). Subsequently, the sample was divided into two equal groups: a group in which 30 degrees of internal femoral rotation was experimentally induced (n\u2009=\u20098), and a group in which a Fulkerson osteotomy was performed (n\u2009=\u20098). Finally, the group in which an internal rotation of 30 degrees was experimentally induced underwent a Fulkerson osteotomy (n\u2009=\u20098). Measurements were obtained at 0\u00b0, 30\u00b0, 60\u00b0 and 90\u00b0 of knee flexion under a simulated weight-bearing squat condition using a 1000\u2009N ground reaction force combined with independent quadriceps (218\u2009N) and hamstring (80\u2009N) loading. Patellofemoral and tibiofemoral compartments were analysed using intra-articular pressure sensors. RESULTS: Compared with the native knee, internal femoral rotation significantly increased lateral patellofemoral pressure (1.220\u2009\u00b1\u20090.016 vs. 1.342\u2009\u00b1\u20090.032\u2009MPa at 30\u00b0 of flexion; p\u2009=\u20090.05) and lateral tibiofemoral pressure (1.110\u2009\u00b1\u20090.020 vs. 1.489\u2009\u00b1\u20090.054\u2009MPa at 90\u00b0 of flexion; p\u2009=\u20090.004). The anteromedialization of the tibial tubercle partially reversed those changes. However, the technique failed to restore the pressure distribution to native values (all p\u2009<\u20090.05). CONCLUSION: Our findings indicate that while anteromedialization of the tibial tubercle partially mitigates the biomechanical alterations induced by increased internal femoral torsion, it does not fully restore native joint pressure distribution. These findings suggest that isolated distal realignment may be insufficient in the presence of significant rotational deformity and that surgical strategies should also address proximal rotational abnormalities to optimise joint loading. LEVEL OF EVIDENCE: NA.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42446206/",
+      "score": 66,
+      "score_reasoning": "Large-scale study (9,071 ACL injuries) in KSSTA providing objective evidence of sustained participation deficits after ACLR in elite soccer, clinically relevant for return-to-sport counseling with novel normalized metrics.",
+      "bullets": [
+        "In cadaveric knees with simulated femoral anteversion, increased internal rotation raised both lateral patellofemoral and lateral tibiofemoral pressures compared to native knees.",
+        "A Fulkerson tibial tubercle osteotomy partially reduced those elevated pressures but did not restore joint loading to native values at any flexion angle.",
+        "In patients with significant femoral anteversion and patellar instability, isolated distal realignment may be insufficient, and proximal rotational correction should be considered."
+      ]
+    },
+    {
+      "pmid": "42470355",
+      "title": "Soleus subtendon elongation is reduced by individual suturing of Achilles subtendons after rupture.",
+      "authors": [
+        "Mikkelsen RK",
+        "Konradsen L",
+        "Hoeffner R",
+        "Krogsgaard MR",
+        "Agergaard AS",
+        "Kjaer M",
+        "Svensson RB",
+        "Magnusson SP"
+      ],
+      "authors_short": "Mikkelsen RK, Konradsen L, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: The primary aim was to evaluate if individual suturing of the gastrocnemius and soleus parts of the ruptured Achilles tendon could reestablish their length 1 week post-surgery compared to previously published results using a standard operative technique. We hypothesised that this new suturing technique would reduce the soleus subtendon length by 50% compared to the standard technique 1 week after surgery (primary endpoint). Secondary aims included soleus and gastrocnemius subtendon lengths at 26 weeks. METHODS: The ambi-directional design included a retrospective part using a standard Kessler repair of the tendon as a single structure (n\u2009=\u200924) and a prospective part using a novel surgery that sutured the soleus and gastrocnemius subtendons separately (n\u2009=\u200923). One and 26 weeks after surgery, both groups underwent 3D MRI to determine the length of the soleus and gastrocnemius subtendons. RESULTS: For the soleus subtendon, the individual suturing technique yielded a smaller side-to-side (injured-uninjured) difference (1.9\u2009\u00b1\u200914.7\u2009mm) compared to the standard surgery (17.0\u2009\u00b1\u200911.5\u2009mm, p\u2009<\u20090.0001) at week 1 and week 26 (individual 10.7\u2009\u00b1\u200914.9\u2009mm, standard 21.5\u2009\u00b1\u200912.7\u2009mm, p\u2009<\u20090.0001), although there was an increase in the individual suturing from week 1 to week 26, (p\u2009<\u20090.05). The side-to-side difference in gastrocnemius subtendon length was not significantly affected by suturing technique but increased with time for individual suturing from week 1 (-1.5\u2009\u00b1\u200910.6\u2009mm) to week 26 (9.2\u2009\u00b1\u20099.4\u2009mm, p\u2009<\u20090.0001), and for standard suturing from week 1 (1.8\u2009\u00b1\u200911.1\u2009mm) to week 26 (8.4\u2009\u00b1\u200910.9\u2009mm, p\u2009<\u20090.0001). CONCLUSION: Using an individual suturing approach, soleus and gastrocnemius subtendon lengths were nearly restored to normal values 1 week postoperatively. Subsequent elongation of the soleus subtendon over 6 months was also significantly less with individual suturing than standard surgical repair. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42470355/",
+      "score": 65,
+      "score_reasoning": "ESSKA consensus-backed current concepts review in KSSTA on ACL revision surgery covering graft selection, staging, and associated pathologies, highly practical for sports surgery subspecialists.",
+      "bullets": [
+        "Repairing the soleus and gastrocnemius subtendons separately at Achilles reconstruction restores soleus length far better than standard single-structure repair at one week and six months post-op.",
+        "This technique applies to operative Achilles tendon rupture patients where the two subtendons can be identified and sutured independently at the time of repair.",
+        "Surgeons treating Achilles ruptures should consider individual subtendon repair, as standard Kessler repair consistently leaves the soleus subtendon elongated, which may affect plantarflexion strength and functional recovery."
+      ]
+    },
+    {
+      "pmid": "42456768",
+      "title": "Trampoline Fractures in Children.",
+      "authors": [
+        "Parviainen R",
+        "Laaksonen T",
+        "Grahn P",
+        "Sinikumpu JJ",
+        "Helenius I",
+        "Ahonen M"
+      ],
+      "authors_short": "Parviainen R, Laaksonen T, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Trampoline use has become increasingly common among children and adolescents, paralleled by a rise in trampoline-related injuries. Nevertheless, current age-based recommendations for trampoline use are supported by limited evidence. This study aimed to determine whether the frequency and severity of trampoline-related fractures differ among specific pediatric age groups. METHODS: We identified all pediatric trampoline-related fractures treated in the Helsinki area, Finland, between 2014 and 2022. Cases were extracted from the institutional fracture registry, the KIDS Fracture Tool, which contained 18,279 fractures as of December 2022. The distribution, fracture severity, and frequency of surgical treatment were compared with the other sports-related fractures recorded in the registry. Trampoline-related fractures were analyzed across 3 age groups: 0 to 5 years, 6 to 10 years, and 11 to 15 years. RESULTS: A total of 1153 trampoline-related fractures were identified (592 in girls and 561 in boys), representing 6.3% of all pediatric fractures. The annual incidence of trampoline-related fractures was 9.3 per 10,000 children. In the youngest age group, the lower leg was the most commonly fractured site, whereas forearm fractures predominated in the older groups. Well-aligned fracture was the most frequent fracture pattern in younger children, while more severe fracture types increased in prevalence with age. The proportion of open fractures was higher in the trampoline cohort than in the overall sport-related fracture cohort (relative risk, 2.02; 95% CI: 1.22-3.34). CONCLUSIONS: Trampoline-related fractures show age-dependent variation, with younger children sustaining predominantly low-energy injuries and older children experiencing more severe fracture patterns. Trampoline injuries were associated with a higher risk of displaced fractures requiring internal fixation and open fractures. Due to the lack of exposure data, definitive conclusions cannot be made regarding age-specific injury risk or age-based restrictions. LEVEL OF EVIDENCE: Level IV-case series.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42456768/",
+      "score": 62,
+      "score_reasoning": "Retrospective analysis of 479 robotic TKAs identifying posterior condylar offset and joint-line restoration as associated with improved PROMs, novel and actionable for robotic surgery planning.",
+      "bullets": [
+        "Children under 6 sustain mostly low-energy lower leg fractures on trampolines, while children aged 6 to 15 more often break their forearms with higher-energy, displaced patterns.",
+        "Trampoline injuries carry twice the risk of open fractures compared to other paediatric sports fractures, meaning surgeons should have a lower threshold for operative planning at triage.",
+        "These findings apply to all paediatric age groups using trampolines and suggest that older children are not necessarily safer on trampolines, despite current age-based recommendations assuming otherwise."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-07-20T05:15:48.425923-07:00"
+}
