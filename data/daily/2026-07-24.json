@@ -1,0 +1,301 @@
+{
+  "brief_date": "2026-07-24",
+  "brief_date_display": "Friday, July 24",
+  "candidates": [
+    {
+      "pmid": "42475480",
+      "title": "Does THA Offer Clinically Important Benefits Over Hemiarthroplasty for Femoral Neck Fracture in Patients Age 65 Years or Older? A Systematic Review and Meta-analysis.",
+      "authors": [
+        "Cao Z",
+        "Niu C",
+        "Liu W",
+        "Huang W",
+        "Gong C",
+        "Sun Y",
+        "Zeng Y"
+      ],
+      "authors_short": "Cao Z, Niu C, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Multiple meta-analyses have compared THA with hemiarthroplasty for displaced femoral neck fractures in patients over 65 years of age; however, clinical equipoise persists. We posit that this persistent uncertainty does not reflect a paucity of evidence but rather stems from critical methodological limitations in prior syntheses-including incomplete evidence searches, inadvertent inclusion of duplicate outcome data from overlapping patient cohorts, and inappropriate pooling of RCTs with nonrandomized or retrospective studies. An updated, rigorously conducted meta-analysis of RCTs-designed to rectify these flaws-is therefore needed to inform evidence-based clinical decision-making. QUESTIONS/PURPOSES: (1) Is THA associated with a reduced risk of revision surgery and death compared with hemiarthroplasty? (2) Is THA associated with fewer hip-related complications-including dislocation, periprosthetic fracture, and infection? (3) Does THA result in clinically important improvements in functional outcomes as measured by validated hip scores (such as the Harris hip score [HHS])? (4) Does hemiarthroplasty result in reduced operative time and estimated blood loss? METHODS: Preferred Reporting Items for Systematic Reviews and Meta-analyses (PRISMA) guidelines were followed, and the study protocol was published online at PROSPERO under registration number CRD42022344531. We searched the Medline, Embase, Cochrane Library, and Web of Science databases for papers published between January 2000 and October 2025, and the searches were performed from August 2024 to October 2025. We included RCTs that directly compared the postoperative outcomes of the two prosthesis types. Two independent reviewers performed title and abstract screening, full-text assessment, and data extraction. To eliminate duplication and inflated precision, we identified and excluded all reports deriving from the same patient cohort-including secondary publications, subgroup analyses, and extended follow-up reports. A systematic search retrieved 4016 records. After assessment for eligibility against prespecified criteria, 18 RCTs involving 2908 participants (mean \u00b1 SD age 78 \u00b1 8 years; 69% female patients) were included in the meta-analysis. Baseline age and sex did not differ between THA and hemiarthroplasty groups. Risk of bias was evaluated using the Cochrane Risk of Bias tool for RCTs, revealing an overall moderate to low risk of bias. Pooled effect estimates were computed using inverse-variance random-effects models (p \u2264 0.1 or I2 \u2265 50%); otherwise, a fixed-effects model was used. Heterogeneity was quantified using the I2 statistic. Substantial heterogeneity was observed for the HHS (I2 = 76%), operative time (I2 = 98%), and blood loss (I2 = 98%), for which random-effects models were used. Heterogeneity was low for all other outcomes (I2 \u2264 41%), and fixed-effects models were applied. Publication bias was evaluated using funnel plots and the Egger test, which did not suggest publication bias. The certainty of evidence was assessed using the Grading of Recommendations Assessment, Development, and Evaluation (GRADE) framework, which suggested moderate certainty of evidence for revision risk, mortality, hip-related complications, and dislocation and low for functional outcomes (HHS). For the main outcomes score we used the HHS (range 0 to 100, with higher scores representing less pain and better function; the minimum clinically important difference was taken to be 10 points). The composite endpoint of hip-related complications included dislocation, periprosthetic fracture, implant failure (loosening or subsidence), and abductor mechanism failure-events directly related to the arthroplasty procedure and of comparable clinical importance. RESULTS: Compared with hemiarthroplasty, THA was not associated with an increased risk of revision surgery (risk ratio [RR] 1.10 [95% confidence interval (CI) 0.82 to 1.49]; p = 0.52) or all-cause mortality (RR 0.99 [95% CI 0.81 to 1.22]; p = 0.54). No difference was observed in the composite endpoint of hip-related complications (RR 0.89 [95% CI 0.74 to 1.08]; p = 0.25). However, THA was associated with a higher risk of dislocation (RR 0.57 [95% CI 0.37 to 0.89]; p = 0.01). We found no clinically important difference in HHS between patients undergoing THA and those undergoing hemiarthroplasty (mean difference 5 points [95% CI 3 to 7]; p < 0.001). Operative time was shorter with hemiarthroplasty (mean difference 31 minutes [95% CI -44.13 to -18.81]; p < 0.001) and blood loss was less (mean difference 115 mL [95% CI -165.87 to -64.15]; p < 0.001) than for those in the THA group. Sensitivity analyses-excluding high risk-of-bias trials, restricting to intention-to-treat analyses, and applying alternative effect models-confirmed the consistency and robustness of these results. CONCLUSION: For patients age 65 years or older with displaced femoral neck fractures, THA offers no clinically important functional benefit over hemiarthroplasty and increases the risk of dislocation. Hemiarthroplasty can be performed by most call-taking orthopaedic surgeons, whereas THA often requires a specialist; therefore, hemiarthroplasty is the better choice for most older patients. Future research should assess long-term outcomes (\u2265 10 years) and compare dual-mobility THA with bipolar hemiarthroplasty to determine whether modern techniques narrow the dislocation gap and how late complications alter the risk-benefit balance. LEVEL OF EVIDENCE: Level I, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42475480/",
+      "score": 82,
+      "score_reasoning": "Prospective study with strong clinical relevance addressing diagnostic accuracy of clinical exam and dynamic radiographs for vertebral compression fractures in elderly patients, published in a high-impact journal (CORR) with a well-defined methodology and direct practice implications.",
+      "bullets": [
+        "In patients 65 and older with displaced femoral neck fractures, THA provided no clinically meaningful functional improvement over hemiarthroplasty, with a Harris Hip Score difference of only 5 points, well below the 10-point threshold that matters to patients.",
+        "THA carried a higher dislocation risk than hemiarthroplasty, with no difference in revision rates, mortality, or overall hip-related complications between the two procedures.",
+        "For most older patients with femoral neck fractures, hemiarthroplasty is the better default choice, as it is shorter, causes less blood loss, and can be performed by any on-call orthopaedic surgeon without specialist-level arthroplasty training."
+      ]
+    },
+    {
+      "pmid": "42489592",
+      "title": "NSAID Use and Bone Healing: An Umbrella Review with a Reconstructed Meta-Analysis.",
+      "authors": [
+        "Komargodski R",
+        "Kittany S",
+        "Abu-Kishk I",
+        "Beeri Berkovitch R",
+        "Epstein D",
+        "Matok I"
+      ],
+      "authors_short": "Komargodski R, Kittany S, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "AIMS: Nonsteroidal anti-inflammatory drugs (NSAIDs) are widely used for perioperative analgesia, but effect on bone healing remains controversial. This umbrella review and reconstructed meta-analysis assessed whether NSAIDs impair bone healing and how risk varies by population, fracture type, dose, and duration. METHODS: We conducted an umbrella review of systematic reviews/meta-analyses and a reconstructed meta-analysis of primary studies (PRIOR/PRISMA-compliant; PubMed, EMBASE, Web of Science, and Scopus to 9 November 2025). Two reviewers independently screened, extracted, and assessed quality (AMSTAR-2) and risk of bias. Overlapping cohorts were removed, and random-effects models were applied. Prespecified subgroups included age, clinical context (traumatic vs elective procedures), bone type (long bones vs spine), dose, and exposure duration (\u226414 days). RESULTS: Sixteen reviews (10 meta-analyses, six systematic reviews) were included; most suggested that NSAIDs increase impaired bone healing risk, particularly with higher doses or prolonged use, with minimal signal for short, low-dose perioperative regimens, especially in spinal fusion. Quality was low/critically low. The meta-analysis pooled 38 primary studies. NSAID exposure was associated with higher nonunion risk (OR, 1.56, 95% CI, 1.18 to 2.11), but not clearly with delayed union (OR, 1.58, 95% CI, 0.65 to 3.67). Risk increased in adults (OR, 1.67, 95% CI, 1.25 to 2.47) but not in pediatric patients (OR 0.77, 95% CI 0.58 to 1.02), was higher in long-bone fractures than in spinal fusion, trended upward with higher doses, and was not elevated with short-term (\u226414 days) use. Risk also differed by clinical context, higher in traumatic versus elective procedures. CONCLUSIONS: NSAID-related impairment of bone healing seems dose and context-dependent, with clinically important risk particularly in adults, long-bone fractures, and higher dose regimens. Short-term use (\u226414 days) was not associated with increased nonunion risk. Risk seemed higher in traumatic fractures than in elective procedures. These findings support caution in higher risk scenarios, suggesting that short-duration NSAID use may be safe when avoiding higher dose exposure.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42489592/",
+      "score": 81,
+      "score_reasoning": "Large retrospective analysis of nearly 1 million TKAs identifying predictors for manipulation under anesthesia with actionable findings including protective effects of dexamethasone, published in JAAOS with high clinical relevance for preoperative risk stratification.",
+      "bullets": [
+        "NSAIDs are associated with higher nonunion risk in adults with long-bone fractures, particularly at higher doses and in traumatic rather than elective settings.",
+        "Short-term NSAID use of 14 days or less was not associated with increased nonunion risk, and paediatric patients showed no significant risk signal.",
+        "Clinicians can use short, low-dose perioperative NSAID regimens with more confidence, but should exercise caution in adults with traumatic long-bone fractures requiring prolonged or higher-dose treatment."
+      ]
+    },
+    {
+      "pmid": "42492793",
+      "title": "Finding the Sweet Spot: A Mixed-Effects Analysis of Four Tourniquet Strategies and Blood Conservation in 15,394 Primary Total Knee Arthroplasties.",
+      "authors": [
+        "Mallett KE",
+        "Weinblatt AI",
+        "Ondek NT",
+        "\u00d6ettl FC",
+        "Lan R",
+        "Lyman S",
+        "Chalmers BP",
+        "Della Valle AG"
+      ],
+      "authors_short": "Mallett KE, Weinblatt AI, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Tourniquet use in total knee arthroplasty (TKA) remains variable, and its effect on perioperative blood loss in the era of tranexamic acid (TXA) is debated. This study compared four contemporary tourniquet strategies and their associations with hemoglobin drop, calculated blood loss, and transfusion risk. METHODS: We retrospectively reviewed 15,394 primary TKAs performed from 2019 to 2023 at a high-volume academic center. Tourniquet use was categorized as: no-tourniquet, selective use during cementation only, incision-to-cementation (reference), or incision-to-closure. Outcomes included perioperative hemoglobin (Hgb) drop, calculated blood loss (CBL) using Nadler and Mercuriali's equations, and postoperative transfusion. Mixed-effects linear and logistic regression models quantified associations after adjustment for age, sex, body mass index, surgical time, Charlson Comorbidity Index, fixation method, preoperative hemoglobin, American Society of Anesthesiologists classification, and postoperative venous thromboembolism prophylaxis, with surgeon as a random intercept. RESULTS: Compared with incision-to-cementation, the no-tourniquet group experienced a greater Hgb drop (+0.46 g/dL; 95% confidence interval (CI) 0.38 to 0.54; P < 0.001) and the highest median CBL (785 mL), with an adjusted increase of +211.3 mL (95% CI 169.8 to 252.7; P < 0.001). Selective tourniquet use was associated with a smaller, but significant increase in Hgb drop (+0.13 g/dL; P < 0.001). Incision-to-closure did not significantly differ. Transfusion was uncommon, but more frequent in the no-tourniquet group, with three times the adjusted odds compared with incision-to-cementation (odds ratio (OR) 3.05; 95% CI 1.72 to 5.41; P < 0.001). CONCLUSIONS: Forgoing a tourniquet was associated with increased blood loss and higher odds of transfusion, though the absolute effect was modest in the contemporary TXA era (number needed to treat approximately 250 to prevent one transfusion). Tourniquet use from incision-to-cementation demonstrated the most favorable blood conservation profile; selective use performed similarly. These findings support a tailored approach to tourniquet use in TKA.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42492793/",
+      "score": 80,
+      "score_reasoning": "Massive retrospective cohort (15,394 TKAs) with mixed-effects modeling comparing four tourniquet strategies in the TXA era, offering direct and immediately applicable guidance for a common intraoperative decision, published in the Journal of Arthroplasty.",
+      "bullets": [
+        "In 15,394 primary TKAs, skipping the tourniquet entirely increased calculated blood loss by over 200 mL and tripled the odds of transfusion compared to using it from incision to cementation.",
+        "Tourniquet use from incision to cementation showed the best blood conservation profile, and using it only during cementation performed nearly as well, giving surgeons a reasonable middle-ground option.",
+        "Even with routine TXA use, forgoing a tourniquet in TKA carries a measurable transfusion penalty, though the absolute risk is low and surgeons can tailor tourniquet strategy to each patient."
+      ]
+    },
+    {
+      "pmid": "42474479",
+      "title": "An Assessment of the Preoperative Vitamin D Levels in Patients Undergoing Limb Lengthening Surgery.",
+      "authors": [
+        "Yalcinkaya A",
+        "Yong B",
+        "Hatfield D",
+        "Bafor A",
+        "Iobst C"
+      ],
+      "authors_short": "Yalcinkaya A, Yong B, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Vitamin D is important for skeletal health and may influence bone regeneration during distraction osteogenesis. Although vitamin D insufficiency and deficiency are common in patients undergoing limb reconstruction, the relationship between baseline vitamin D status and regenerate healing remains unclear, particularly within clinical pathways where vitamin D testing is performed perioperatively and supplementation is initiated after surgery for low levels. This study determined the prevalence of perioperative vitamin D deficiency in pediatric patients undergoing limb reconstruction for deformity correction or limb length discrepancy and evaluated the association between baseline vitamin D status, bone-healing outcomes, and postoperative complications within this real-world testing and supplementation pathway. METHODS: We performed a retrospective review of pediatric patients treated from January 2017 to December 2021 for lower-extremity limb-length discrepancy using an internal lengthening nail. Serum vitamin D levels were obtained perioperatively, typically on the day of surgery, and were not used to determine surgical eligibility or timing. Patients were categorized by preoperative serum vitamin D level as deficient, insufficient, or sufficient. Patients with vitamin D insufficiency or deficiency were routinely started on postoperative supplementation. Bone healing was assessed using the Bone Healing Index (BHI), and complication rates were compared across groups. RESULTS: Seventy-five patients were included. Twenty-two patients (29%) were vitamin D deficient, 30 (40.0%) were vitamin D insufficient, and 23 (31%) were vitamin D sufficient. Demographic characteristics were similar among groups. Complications occurred in 3 of 22 deficient patients (14%), 2 of 30 insufficient patients (7%), and 2 of 23 sufficient patients (9%), with no difference among groups (P=0.79). Baseline vitamin D level was not significantly correlated with BHI. Sensitivity analyses excluding tibial cases and grouping patients as sufficient versus insufficient/deficient produced findings consistent with the primary analysis. CONCLUSIONS: Vitamin D insufficiency and deficiency were common in this pediatric limb-lengthening cohort. Within a perioperative vitamin D testing and postoperative supplementation pathway for insufficiency or deficiency, low baseline vitamin D status was not associated with lower BHI or increased postoperative complications. LEVEL OF EVIDENCE: Level III-retrospective comparative study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42474479/",
+      "score": 79,
+      "score_reasoning": "Rigorous meta-analysis of RCTs comparing THA versus hemiarthroplasty for femoral neck fractures in patients over 65, addressing a highly prevalent clinical decision with PRISMA compliance and careful methodology to avoid prior synthesis errors, published in CORR.",
+      "bullets": [
+        "Nearly 70% of pediatric patients undergoing limb lengthening had vitamin D insufficiency or deficiency at the time of surgery.",
+        "When low vitamin D was identified perioperatively and supplementation started postoperatively, bone healing index and complication rates were similar across deficient, insufficient, and sufficient groups.",
+        "Preoperative vitamin D level alone should not delay limb lengthening, but routine perioperative testing with prompt postoperative supplementation appears to be a reasonable clinical pathway."
+      ]
+    },
+    {
+      "pmid": "42489589",
+      "title": "American Academy of Orthopaedic Surgeons Appropriate Use Criteria: Case Studies on Treatment of Mid-shaft Clavicle Fractures.",
+      "authors": [
+        "Baxi O",
+        "Lack WD",
+        "Ellis HB"
+      ],
+      "authors_short": "Baxi O, Lack WD, Ellis HB",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "Mid-shaft clavicle fractures in the adult and postpubescent adolescent population are a common injury treated by orthopaedic surgeons. This injury has a notable burden of disease due to its prevalence, effect on the patient, and effect on the society through cost of treatment and time lost from social activity. Determining surgical and nonsurgical care for a clavicle fracture can represent a clinical challenge. To assist clinicians with this treatment decision, the American Academy of Orthopaedic Surgeons has developed and adopted an appropriate use criteria to recommend nonsurgical and surgical treatment based on a variety of patient and injury characteristics. These criteria are available online and through phone-based applications. This article aims to illustrate how the criteria may be applied in clinical practice.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42489589/",
+      "score": 78,
+      "score_reasoning": "Umbrella review and reconstructed meta-analysis on NSAID use and bone healing addresses a universal perioperative question with nuanced findings on dose, duration, and population effects, published in the high-impact JAAOS.",
+      "bullets": [
+        "The AAOS has published appropriate use criteria to guide surgical versus nonsurgical treatment of mid-shaft clavicle fractures in adults and postpubescent adolescents.",
+        "Treatment decisions are based on patient and injury characteristics, and the criteria are accessible online and via mobile apps at the point of care.",
+        "Orthopaedic surgeons managing clavicle fractures can use these criteria to standardize treatment selection and reduce practice variation."
+      ]
+    },
+    {
+      "pmid": "42479809",
+      "title": "Impact of T4-L1-Hip Axis Normalization on Outcomes and Complications in Adult Spinal Deformity.",
+      "authors": [
+        "Mohanty S",
+        "Sardar ZM",
+        "Reyes JL",
+        "Hassan FM",
+        "Kelly MP",
+        "Coury JR",
+        "Geraghty E",
+        "Lee NJ",
+        "Scheer JK",
+        "Roth SG",
+        "Hung CW",
+        "Lehman RA",
+        "Lombardi JM",
+        "Lenke LG"
+      ],
+      "authors_short": "Mohanty S, Sardar ZM, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: In asymptomatic adults, a harmonious T4-L1-hip axis requires a T4-pelvic angle (T4PA) within 4\u00b0 of the L1-pelvic angle (L1PA). We evaluated whether T4PA-L1PA mismatch is associated with mechanical complications (MCs) and patient-reported outcomes (PROs) after long-segment surgery for adult spinal deformity (ASD). METHODS: This single-center retrospective study involved a cohort of patients with ASD undergoing >6-level posterior spinal fusion (PSF) for spinal deformity. T4PA - L1PA was assessed at 6 weeks and followed for \u22652 years. The primary outcome was MCs (implant-related reoperations, with a particular focus on proximal junctional failure [PJF]) events. Multivariable logistic regression included linear and quadratic terms for T4PA - L1PA, adjusted for the Charlson Comorbidity Index (CCI), preoperative alignment, upper instrumented vertebra (UIV), pelvic fixation, and correction magnitude. Predicted probability curves depicted MC risk across the T4PA - L1PA spectrum. Secondary outcomes were attainment of the minimal clinically important difference (MCID) for the Scoliosis Research Society (SRS)-22r and Oswestry Disability Index (ODI). RESULTS: The study included 427 patients (mean age, 61.16 \u00b1 14.82 years; 285 [66.7%] female; mean of 12.50 \u00b1 4.16 instrumented levels), with 78.7% undergoing pelvic fixation; 66 (15.5%) underwent MC-related reoperations. In multivariable analysis (area under the curve [AUC] = 0.72, p < 0.001), higher CCI (OR = 1.21, p = 0.029), pelvic fixation (OR = 2.78, p = 0.022), and greater (T4PA - L1PA)2 (OR = 1.01, p < 0.001) independently predicted MCs; the modeled risk suggested that both under- and overcorrection increased the risk of MCs. (T4PA - L1PA)2 was not associated with MCID attainment for the PROs. CONCLUSIONS: Construct- and patient-related factors-particularly pelvic fixation-were associated with MCs. T4PA-L1PA deviation conferred additional nonlinear (U-shaped) risk: normalization was associated with fewer MCs, undercorrection was associated with implant-related failure, and overcorrection was associated with proximal junctional complications. Normalization was not associated with PRO improvement or attainment of the MCIDs for the SRS-22r and ODI. LEVEL OF EVIDENCE: Prognostic Level IV. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42479809/",
+      "score": 75,
+      "score_reasoning": "Comprehensive review of peptide therapeutics in orthopaedics covering teriparatide, novel antimicrobial peptides, and AI-driven design published in JBJS American volume, offering high novelty and forward-looking clinical relevance for bone regeneration and infection management.",
+      "bullets": [
+        "In adult spinal deformity patients undergoing long-segment fusion, both undercorrection and overcorrection of the T4-L1-hip axis independently increased the risk of mechanical failure and reoperation.",
+        "The risk curve is U-shaped, meaning surgeons need to hit a narrow alignment target, as missing it in either direction raises implant failure and proximal junctional complication rates.",
+        "Correcting this spinal alignment parameter reduced hardware-related reoperations but did not improve patient-reported outcomes, so it is a construct durability target rather than a symptom relief target."
+      ]
+    },
+    {
+      "pmid": "42475618",
+      "title": "Traumatic Posterior Dislocation Is Associated with Posterior Acromial Morphology.",
+      "authors": [
+        "Werthel JD",
+        "Vervaecke A",
+        "Petit M",
+        "Jamei-Martel O",
+        "Gerber C"
+      ],
+      "authors_short": "Werthel JD, Vervaecke A, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Traumatic posterior shoulder dislocation is rare, and the role of posterior acromial morphology in acute traumatic posterior dislocation is unknown. We compared posterior acromial morphology in first-time traumatic posterior versus first-time traumatic anterior dislocations. METHODS: In this retrospective comparative cohort study, 34 consecutive patients with a first-time acute traumatic posterior shoulder dislocation were compared with 34 consecutive patients with a first-time acute traumatic anterior shoulder dislocation. The posterior dislocation cohort included 26 males and 8 females, with a mean age of 43.4 \u00b1 16.5 years, and the anterior dislocation cohort included 29 males and 5 females, with a mean age of 41.3 \u00b1 15.4 years. Posterior acromial tilt (PAT), posterior acromial coverage (PAC), posterior acromial height (PAH), and the critical shoulder angle (CSA) were measured on standardized radiographs. Comparisons between the groups were performed, and logistic regression analyses were used to assess associations between acromial morphology parameters and posterior dislocation. Interobserver and intraobserver reliability were assessed using intraclass correlation coefficients. RESULTS: Compared with the anterior dislocation group, patients with posterior dislocation demonstrated a significantly higher PAT (65.8\u00b0 \u00b1 6.7\u00b0 versus 58.9\u00b0 \u00b1 8.4\u00b0, p < 0.001), lower PAC (55.6\u00b0 \u00b1 6.6\u00b0 versus 59.5\u00b0 \u00b1 8.4\u00b0, p = 0.038), greater PAH (27.0 \u00b1 4.2 versus 22.0 \u00b1 6.7 mm, p < 0.001), and smaller CSA (32.9\u00b0 \u00b1 4.0\u00b0 versus 35.5\u00b0 \u00b1 4.1\u00b0, p = 0.009). Logistic regression showed that higher PAH and PAT were most strongly associated with posterior dislocation. Measurement reliability was good to excellent for all parameters. CONCLUSIONS: Acute traumatic posterior shoulder dislocation is associated with distinct posterior acromial morphology similar to that described in recurrent posterior instability. LEVEL OF EVIDENCE: Diagnostic Level IV. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42475618/",
+      "score": 74,
+      "score_reasoning": "Updated clinical review on nontraumatic osteonecrosis of the femoral head in JBJS with clear evidence-based bullet points covering diagnosis, staging, and treatment, highly relevant for practicing surgeons managing a challenging condition.",
+      "bullets": [
+        "Patients with traumatic posterior shoulder dislocation have a steeper, taller posterior acromion compared to those with anterior dislocation.",
+        "This acromial shape pattern applies to adults presenting with a first-time posterior shoulder dislocation after trauma.",
+        "Posterior acromial morphology may be a predisposing factor for posterior dislocation, similar to its known role in recurrent posterior instability."
+      ]
+    },
+    {
+      "pmid": "42466723",
+      "title": "Complications After Minimally Invasive vs Open Calcaneal Osteotomy: A Retrospective Study.",
+      "authors": [
+        "Kiriluk SH",
+        "Crawford D",
+        "Harrison P",
+        "Encinas R",
+        "O'Keefe J",
+        "Davis HT",
+        "Mustafa M",
+        "Jackson JB",
+        "Gonzalez TA"
+      ],
+      "authors_short": "Kiriluk SH, Crawford D, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: A calcaneal osteotomy is a common component of surgical management for various foot and ankle deformities. Open and minimally invasive surgical (MIS) calcaneal osteotomies can be performed. The purpose of this study was to compare complication rates including infection, wound dehiscence, nerve damage, hardware failure, reoperation, and nonunion between these cohorts. METHODS: All patients who underwent an open or MIS calcaneal osteotomy between March 2021 and July 2024 at a single institution were identified and retrospectively reviewed. All procedures were performed by one of 2 fellowship-trained orthopaedic foot and ankle surgeons on patients\u2009>18\u2009years of age at the time of surgery. These procedures were performed in combination with other procedures to correct planus or cavus feet. Demographic information and postoperative complications were recorded for each patient with a minimum of 12\u2009months follow-up. RESULTS: Forty-four patients who underwent open calcaneal osteotomy and 26 patients who underwent MIS calcaneal osteotomy met the inclusion criteria for the current study. Patients were followed for a mean 25.3\u2009\u00b1\u200911.1\u2009months. There was no significant difference in the rate of nonunion (P\u2009=\u2009.703) or nerve complications (P\u2009=\u2009.410) between cohorts. There were fewer postoperative minor wound complications in the MIS cohort (1/26, 3.8%) compared with the open cohort (9/44, 20.5%) (P\u2009=\u2009.036) observed in the MIS cohort; however, the P\u2009=\u2009.036 difference in minor wound complications was found to be not significant after false discovery rate (FDR) adjustment. CONCLUSION: Data from the current study indicate that open and MIS calcaneal osteotomy are associated with no difference in major complication rates or amount of calcaneal correction. With the numbers available, no significant difference in total or minor complication rates could be detected after FDR adjustment, though fewer minor wound complications were observed in the MIS cohort (3.8% vs 20.5%). Both approaches were associated with significant improvements in patient-reported function and mobility; significant improvement in pain scores was observed in the MIS cohort only after FDR adjustment. LEVEL OF EVIDENCE: Level IV, retrospective cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42466723/",
+      "score": 70,
+      "score_reasoning": "Multicenter RCT comparing early bracing versus splinting for humeral shaft fractures addresses a common clinical scenario with patient-centered outcomes, representing the highest study design level in this collection and published in Journal of Orthopaedic Trauma.",
+      "bullets": [
+        "Open and minimally invasive calcaneal osteotomy have equivalent rates of nonunion, nerve injury, and major complications in adults undergoing flatfoot or cavus correction.",
+        "Minor wound complications were lower with the minimally invasive approach (3.8% vs 20.5%), but this difference did not hold after statistical correction for multiple comparisons.",
+        "Either technique is a reasonable choice for calcaneal osteotomy, with no clear safety advantage to one approach based on current evidence."
+      ]
+    },
+    {
+      "pmid": "42470355",
+      "title": "Soleus subtendon elongation is reduced by individual suturing of Achilles subtendons after rupture.",
+      "authors": [
+        "Mikkelsen RK",
+        "Konradsen L",
+        "Hoeffner R",
+        "Krogsgaard MR",
+        "Agergaard AS",
+        "Kjaer M",
+        "Svensson RB",
+        "Magnusson SP"
+      ],
+      "authors_short": "Mikkelsen RK, Konradsen L, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: The primary aim was to evaluate if individual suturing of the gastrocnemius and soleus parts of the ruptured Achilles tendon could reestablish their length 1 week post-surgery compared to previously published results using a standard operative technique. We hypothesised that this new suturing technique would reduce the soleus subtendon length by 50% compared to the standard technique 1 week after surgery (primary endpoint). Secondary aims included soleus and gastrocnemius subtendon lengths at 26 weeks. METHODS: The ambi-directional design included a retrospective part using a standard Kessler repair of the tendon as a single structure (n\u2009=\u200924) and a prospective part using a novel surgery that sutured the soleus and gastrocnemius subtendons separately (n\u2009=\u200923). One and 26 weeks after surgery, both groups underwent 3D MRI to determine the length of the soleus and gastrocnemius subtendons. RESULTS: For the soleus subtendon, the individual suturing technique yielded a smaller side-to-side (injured-uninjured) difference (1.9\u2009\u00b1\u200914.7\u2009mm) compared to the standard surgery (17.0\u2009\u00b1\u200911.5\u2009mm, p\u2009<\u20090.0001) at week 1 and week 26 (individual 10.7\u2009\u00b1\u200914.9\u2009mm, standard 21.5\u2009\u00b1\u200912.7\u2009mm, p\u2009<\u20090.0001), although there was an increase in the individual suturing from week 1 to week 26, (p\u2009<\u20090.05). The side-to-side difference in gastrocnemius subtendon length was not significantly affected by suturing technique but increased with time for individual suturing from week 1 (-1.5\u2009\u00b1\u200910.6\u2009mm) to week 26 (9.2\u2009\u00b1\u20099.4\u2009mm, p\u2009<\u20090.0001), and for standard suturing from week 1 (1.8\u2009\u00b1\u200911.1\u2009mm) to week 26 (8.4\u2009\u00b1\u200910.9\u2009mm, p\u2009<\u20090.0001). CONCLUSION: Using an individual suturing approach, soleus and gastrocnemius subtendon lengths were nearly restored to normal values 1 week postoperatively. Subsequent elongation of the soleus subtendon over 6 months was also significantly less with individual suturing than standard surgical repair. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42470355/",
+      "score": 69,
+      "score_reasoning": "Comprehensive current concepts review on ACL revision surgery from ESSKA with consensus-based guidance on indications, graft selection, and associated pathology management, published in a high-impact sports medicine journal with broad clinical applicability.",
+      "bullets": [
+        "Surgeons who repaired ruptured Achilles tendons by suturing the soleus and gastrocnemius subtendons separately achieved near-normal soleus length at one week, compared to a 17 mm deficit seen with standard single-structure repair.",
+        "At six months, soleus elongation remained significantly less in the individually sutured group, meaning the tendon stayed closer to its correct length throughout early healing.",
+        "For patients undergoing operative Achilles repair, separately identifying and suturing each subtendon may reduce the soleus overlengthening that is thought to contribute to persistent weakness after repair."
+      ]
+    },
+    {
+      "pmid": "42487628",
+      "title": "Revision Hip Arthroscopy: Propensity Score-Matched Comparison of Labral Reconstruction Versus Repair With Minimum 5-Year Outcomes.",
+      "authors": [
+        "Quesada-Jimenez R",
+        "Cohen MF",
+        "Rana K",
+        "Kahana-Rojkind AH",
+        "Domb BG"
+      ],
+      "authors_short": "Quesada-Jimenez R, Cohen MF, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: There is a paucity of literature comparing the midterm outcomes of arthroscopic labral reconstruction and arthroscopic labral repair in the revision setting. PURPOSE: To evaluate the minimum 5-year patient-reported outcomes (PROs) of patients who underwent revision hip arthroscopy, comparing labral reconstruction with labral repair. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: A retrospective analysis was performed for patients who underwent revision hip arthroscopy, either labral repair or labral reconstruction, to treat femoroacetabular impingement and labral tears between 2008 and 2019. Patients who underwent reconstruction were matched 1:1 to patients who underwent repair. Included patients had complete preoperative and minimum 5-year follow-up scores for at least one of the following PRO measures: modified Harris Hip Score, Non-Arthritic Hip Score, Hip Outcome Score-Sports-Specific Subscale, patient satisfaction, and visual analog scale for pain. Rates of achieving the minimal clinically important difference and patient acceptable symptom state as well as secondary surgery rates were compared between groups. RESULTS: A total of 68 patients were included, with 34 patients who underwent labral reconstruction successfully matched to 34 patients who underwent labral repair, controlling for age, body mass index, sex, acetabular Outerbridge grade, and capsular treatment. The reconstruction group had a significantly higher incidence of Seldes type 1 and 2 labral tears (n = 21 [61.8%]) compared to the repair group, which had a higher proportion of Seldes type 1 tears (n = 11 [32.4%]) (both P < .05). Both groups demonstrated a significant improvement in scores from preoperatively to postoperatively (all P < .01) and achieved the minimal clinically important difference and patient acceptable symptom state at similar rates across all PRO measures. There were no significant differences between groups in the rates of revision arthroscopy or conversion to arthroplasty. CONCLUSION: Patients undergoing revision hip arthroscopy with adequate labral treatment, either labral reconstruction or labral repair, can expect favorable and comparable outcomes, reaching clinically relevant thresholds at similar rates, with a low complication rate, at midterm follow-up.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42487628/",
+      "score": 68,
+      "score_reasoning": "Propensity-matched study with minimum 5-year outcomes after arthroscopic subspine decompression in FAI published in AJSM, filling a gap in midterm evidence for a common coexisting pathology treated during hip arthroscopy.",
+      "bullets": [
+        "In revision hip arthroscopy, labral reconstruction and labral repair produce equivalent pain relief and function scores at five years.",
+        "Both techniques achieve clinically meaningful improvement at similar rates, with no difference in re-operation or conversion to arthroplasty.",
+        "When revision hip arthroscopy is needed, surgeons can choose repair or reconstruction based on tissue quality without sacrificing midterm outcomes."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-07-24T04:41:11.473977-07:00"
+}
