@@ -1,0 +1,291 @@
+{
+  "brief_date": "2026-07-28",
+  "brief_date_display": "Tuesday, July 28",
+  "candidates": [
+    {
+      "pmid": "42475480",
+      "title": "Does THA Offer Clinically Important Benefits Over Hemiarthroplasty for Femoral Neck Fracture in Patients Age 65 Years or Older? A Systematic Review and Meta-analysis.",
+      "authors": [
+        "Cao Z",
+        "Niu C",
+        "Liu W",
+        "Huang W",
+        "Gong C",
+        "Sun Y",
+        "Zeng Y"
+      ],
+      "authors_short": "Cao Z, Niu C, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Multiple meta-analyses have compared THA with hemiarthroplasty for displaced femoral neck fractures in patients over 65 years of age; however, clinical equipoise persists. We posit that this persistent uncertainty does not reflect a paucity of evidence but rather stems from critical methodological limitations in prior syntheses-including incomplete evidence searches, inadvertent inclusion of duplicate outcome data from overlapping patient cohorts, and inappropriate pooling of RCTs with nonrandomized or retrospective studies. An updated, rigorously conducted meta-analysis of RCTs-designed to rectify these flaws-is therefore needed to inform evidence-based clinical decision-making. QUESTIONS/PURPOSES: (1) Is THA associated with a reduced risk of revision surgery and death compared with hemiarthroplasty? (2) Is THA associated with fewer hip-related complications-including dislocation, periprosthetic fracture, and infection? (3) Does THA result in clinically important improvements in functional outcomes as measured by validated hip scores (such as the Harris hip score [HHS])? (4) Does hemiarthroplasty result in reduced operative time and estimated blood loss? METHODS: Preferred Reporting Items for Systematic Reviews and Meta-analyses (PRISMA) guidelines were followed, and the study protocol was published online at PROSPERO under registration number CRD42022344531. We searched the Medline, Embase, Cochrane Library, and Web of Science databases for papers published between January 2000 and October 2025, and the searches were performed from August 2024 to October 2025. We included RCTs that directly compared the postoperative outcomes of the two prosthesis types. Two independent reviewers performed title and abstract screening, full-text assessment, and data extraction. To eliminate duplication and inflated precision, we identified and excluded all reports deriving from the same patient cohort-including secondary publications, subgroup analyses, and extended follow-up reports. A systematic search retrieved 4016 records. After assessment for eligibility against prespecified criteria, 18 RCTs involving 2908 participants (mean \u00b1 SD age 78 \u00b1 8 years; 69% female patients) were included in the meta-analysis. Baseline age and sex did not differ between THA and hemiarthroplasty groups. Risk of bias was evaluated using the Cochrane Risk of Bias tool for RCTs, revealing an overall moderate to low risk of bias. Pooled effect estimates were computed using inverse-variance random-effects models (p \u2264 0.1 or I2 \u2265 50%); otherwise, a fixed-effects model was used. Heterogeneity was quantified using the I2 statistic. Substantial heterogeneity was observed for the HHS (I2 = 76%), operative time (I2 = 98%), and blood loss (I2 = 98%), for which random-effects models were used. Heterogeneity was low for all other outcomes (I2 \u2264 41%), and fixed-effects models were applied. Publication bias was evaluated using funnel plots and the Egger test, which did not suggest publication bias. The certainty of evidence was assessed using the Grading of Recommendations Assessment, Development, and Evaluation (GRADE) framework, which suggested moderate certainty of evidence for revision risk, mortality, hip-related complications, and dislocation and low for functional outcomes (HHS). For the main outcomes score we used the HHS (range 0 to 100, with higher scores representing less pain and better function; the minimum clinically important difference was taken to be 10 points). The composite endpoint of hip-related complications included dislocation, periprosthetic fracture, implant failure (loosening or subsidence), and abductor mechanism failure-events directly related to the arthroplasty procedure and of comparable clinical importance. RESULTS: Compared with hemiarthroplasty, THA was not associated with an increased risk of revision surgery (risk ratio [RR] 1.10 [95% confidence interval (CI) 0.82 to 1.49]; p = 0.52) or all-cause mortality (RR 0.99 [95% CI 0.81 to 1.22]; p = 0.54). No difference was observed in the composite endpoint of hip-related complications (RR 0.89 [95% CI 0.74 to 1.08]; p = 0.25). However, THA was associated with a higher risk of dislocation (RR 0.57 [95% CI 0.37 to 0.89]; p = 0.01). We found no clinically important difference in HHS between patients undergoing THA and those undergoing hemiarthroplasty (mean difference 5 points [95% CI 3 to 7]; p < 0.001). Operative time was shorter with hemiarthroplasty (mean difference 31 minutes [95% CI -44.13 to -18.81]; p < 0.001) and blood loss was less (mean difference 115 mL [95% CI -165.87 to -64.15]; p < 0.001) than for those in the THA group. Sensitivity analyses-excluding high risk-of-bias trials, restricting to intention-to-treat analyses, and applying alternative effect models-confirmed the consistency and robustness of these results. CONCLUSION: For patients age 65 years or older with displaced femoral neck fractures, THA offers no clinically important functional benefit over hemiarthroplasty and increases the risk of dislocation. Hemiarthroplasty can be performed by most call-taking orthopaedic surgeons, whereas THA often requires a specialist; therefore, hemiarthroplasty is the better choice for most older patients. Future research should assess long-term outcomes (\u2265 10 years) and compare dual-mobility THA with bipolar hemiarthroplasty to determine whether modern techniques narrow the dislocation gap and how late complications alter the risk-benefit balance. LEVEL OF EVIDENCE: Level I, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42475480/",
+      "score": 82,
+      "score_reasoning": "Prospective study with strong clinical relevance addressing diagnostic accuracy of clinical exam and dynamic radiographs for acute vertebral compression fractures in older adults, published in CORR with a well-designed methodology and actionable findings for everyday practice.",
+      "bullets": [
+        "In patients 65 and older with displaced femoral neck fractures, THA provides no clinically meaningful functional gain over hemiarthroplasty, with Harris Hip Score differences well below the threshold that matters to patients.",
+        "THA carries a significantly higher dislocation risk than hemiarthroplasty, with no offsetting benefit in revision rates, overall complications, or mortality.",
+        "For most older patients with femoral neck fractures, hemiarthroplasty is the better choice, offering shorter operative time, less blood loss, and broader surgeon availability without sacrificing functional outcomes."
+      ]
+    },
+    {
+      "pmid": "42499167",
+      "title": "Nerve Blocks for Shoulder Arthroscopy: A Systematic Review of Randomized Controlled Trials With a Network Meta-analysis.",
+      "authors": [
+        "Hurley ET",
+        "Goltz DE",
+        "Frank RM",
+        "Sethi P",
+        "Garrigues GE"
+      ],
+      "authors_short": "Hurley ET, Goltz DE, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Despite the minimally invasive nature of shoulder arthroscopy, postoperative pain can be substantial, often peaking within the first 24 hours and significantly influencing early rehabilitation, patient satisfaction, and overall outcomes. PURPOSE: To compare the analgesic efficacy of interscalene block (ISB), suprascapular block (SSB), supraclavicular block (SCB), combined block techniques, and general anesthesia (GA) alone for shoulder arthroscopy using a network meta-analysis (NMA) of randomized controlled trials (RCTs). STUDY DESIGN: Systematic review and meta-analysis; Level of evidence, 1. METHODS: A systematic review of the literature was performed based on the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines. Studies were included if they were an RCT evaluating ISB, SSB, SCB, combined block techniques, and GA. Outcomes included postoperative pain scores in the postanesthesia care unit and at 2, 6, 12, and 24 hours, as well as 24-hour opioid consumption. Mean differences with 95% confidence intervals were synthesized using a random-effects model with a common between-study variance. Treatments were ranked using P-scores and expressed as surface under the cumulative ranking curve (SUCRA) values. RESULTS: A total of 63 RCTs (4235 patients) were included. ISB consistently reduced 24-hour opioid consumption compared with other techniques (P-score = 0.775; SUCRA = 77.5%). Combined strategies demonstrated superior pain control at specific postoperative time points: SCB plus axillary nerve block (Ax) ranked highest at 2 hours (P-score = 0.735), SSB plus costoclavicular block (CCB) at 6 hours (P-score = 0.728), and SSB alone at 12 hours (P-score = 0.851). At 24 hours, SCB+Ax again ranked highest (P-score = 0.638), although differences from ISB were modest. Between-study variance (\u03c42) was moderate for pain outcomes (range, 0.85-7.93) and substantial for opioid consumption (\u03c42 = 28.16). CONCLUSION: ISB remains the most consistent technique for reducing postoperative opioid requirements after shoulder arthroscopy. Alternative strategies, including SSB alone as well as combined block approaches (eg, SCB+Ax, SSB+CCB), demonstrated incremental benefits in pain control during the early and intermediate postoperative periods.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42499167/",
+      "score": 80,
+      "score_reasoning": "Large consecutive series of 545 ankle arthroscopies with detailed incidence, risk factors, and natural history of neurologic complications\u2014highly actionable for surgeons performing ankle arthroscopy with direct counseling and technique implications.",
+      "bullets": [
+        "ISB reduces 24-hour opioid consumption more consistently than any other nerve block technique after shoulder arthroscopy.",
+        "Combined blocks such as SCB plus axillary nerve block or SSB plus costoclavicular block offer modest pain control advantages at specific early time points, but do not clearly outperform ISB overall.",
+        "For surgeons managing post-operative pain after shoulder arthroscopy, ISB remains the first-line regional technique, with combined blocks a reasonable alternative when ISB is contraindicated."
+      ]
+    },
+    {
+      "pmid": "42517190",
+      "title": "Author Response: Considerations and Challenges in Open Reduction With Ligamentum Teres Reconstruction for Pediatric Developmental Dysplasia of the Hip.",
+      "authors": [
+        "Klingele K",
+        "Strub D"
+      ],
+      "authors_short": "Klingele K, Strub D",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42517190/",
+      "score": 79,
+      "score_reasoning": "Large National Joint Registry study (n=12,950) with long follow-up directly comparing constraint levels in revision TKA, providing high-level evidence that CCK prostheses offer superior survivorship\u2014immediately applicable to revision TKA decision-making.",
+      "bullets": [
+        "Ligamentum teres reconstruction combined with open reduction is an emerging option for pediatric developmental dysplasia of the hip when standard soft tissue restraints are insufficient.",
+        "This technique is most relevant for children with persistent instability after traditional open reduction, particularly where ligamentous laxity contributes to failure.",
+        "Surgeons considering this approach should be aware that evidence remains early-stage and patient selection, surgical experience, and long-term follow-up data are still needed before wide adoption."
+      ]
+    },
+    {
+      "pmid": "42517203",
+      "title": "Increased tibial and meniscal slopes are risk factors for meniscal tears: A systematic review.",
+      "authors": [
+        "Zeng C",
+        "Borim FM",
+        "Thorne D",
+        "Lording T"
+      ],
+      "authors_short": "Zeng C, Borim FM, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: The influence of posterior tibial slope (PTS), meniscal slope (MS) and meniscal bone angle (MBA) on meniscal injury risk is poorly understood. This systematic review and meta-analysis aims to evaluate whether PTS, MS and MBA are significant risk factors for meniscal tears. METHODS: A systematic search of PubMed, Embase and Scopus was conducted according to PRISMA guidelines. Eligible studies compared PTS, MS or MBA measurements between patients with meniscal injuries and controls with intact menisci. Study quality was assessed using the methodological index for non-randomised studies (MINORS). Data were synthesised using a random-effects model to calculate mean differences with 95% confidence intervals. Subgroup analyses were performed based on tear type, and meta-regression explored potential sources of heterogeneity, including concomitant ACL injury and measurement technique. RESULTS: A total of 35 studies comprising 7122 knees were included. Increased medial PTS was significantly associated with medial meniscus tears (MD\u2009=\u20091.02\u00b0, 95% confidence interval [CI] [0.49; 1.55], p\u2009<\u20090.001), while increased lateral PTS was associated with lateral meniscus tears (MD\u2009=\u20091.11\u00b0, 95% CI [0.30; 1.91], p\u2009=\u20090.007). Increased medial MS was also significantly associated with ramp lesions (MD\u2009=\u20090.98\u00b0, 95% CI [0.24; 1.73], p\u2009<\u20090.001). Subgroup analyses demonstrated the strongest association between medial MS and medial meniscus posterior root tears. Substantial heterogeneity was present across analyses (I2 range\u2009=\u200968.9%-91.7%). Meta-regression analysis did not identify concomitant ACL injury as a significant moderator of the association between PTS and meniscal tears. CONCLUSION: Increased medial PTS and lateral PTS are associated with higher risks of medial and lateral meniscus tears, respectively, with the strongest effects observed for medial posterior root tears. Elevated medial MS is also associated with ramp lesions. While these findings highlight anatomical risk factors that may contribute to meniscal injury risk, future prospective studies are needed to establish clinically meaningful thresholds and clarify the role of slope parameters within multifactorial risk models. LEVEL OF EVIDENCE: Level IV, systematic review of level III-IV studies.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42517203/",
+      "score": 78,
+      "score_reasoning": "Well-conducted systematic review and meta-analysis of 35 studies/7122 knees establishing tibial and meniscal slope as significant risk factors for meniscal tears, with practical implications for preoperative planning and patient counseling.",
+      "bullets": [
+        "A steeper medial or lateral tibial slope is independently associated with tears on the corresponding side of the meniscus, with the strongest link seen at the medial posterior root.",
+        "A steeper medial meniscal slope is associated with ramp lesions, and this relationship holds even when ACL injury is present.",
+        "Surgeons planning meniscal repair or ACL reconstruction should measure tibial and meniscal slopes, as elevated values identify patients at higher anatomical risk for meniscal injury."
+      ]
+    },
+    {
+      "pmid": "42489592",
+      "title": "NSAID Use and Bone Healing: An Umbrella Review with a Reconstructed Meta-Analysis.",
+      "authors": [
+        "Komargodski R",
+        "Kittany S",
+        "Abu-Kishk I",
+        "Beeri Berkovitch R",
+        "Epstein D",
+        "Matok I"
+      ],
+      "authors_short": "Komargodski R, Kittany S, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "AIMS: Nonsteroidal anti-inflammatory drugs (NSAIDs) are widely used for perioperative analgesia, but effect on bone healing remains controversial. This umbrella review and reconstructed meta-analysis assessed whether NSAIDs impair bone healing and how risk varies by population, fracture type, dose, and duration. METHODS: We conducted an umbrella review of systematic reviews/meta-analyses and a reconstructed meta-analysis of primary studies (PRIOR/PRISMA-compliant; PubMed, EMBASE, Web of Science, and Scopus to 9 November 2025). Two reviewers independently screened, extracted, and assessed quality (AMSTAR-2) and risk of bias. Overlapping cohorts were removed, and random-effects models were applied. Prespecified subgroups included age, clinical context (traumatic vs elective procedures), bone type (long bones vs spine), dose, and exposure duration (\u226414 days). RESULTS: Sixteen reviews (10 meta-analyses, six systematic reviews) were included; most suggested that NSAIDs increase impaired bone healing risk, particularly with higher doses or prolonged use, with minimal signal for short, low-dose perioperative regimens, especially in spinal fusion. Quality was low/critically low. The meta-analysis pooled 38 primary studies. NSAID exposure was associated with higher nonunion risk (OR, 1.56, 95% CI, 1.18 to 2.11), but not clearly with delayed union (OR, 1.58, 95% CI, 0.65 to 3.67). Risk increased in adults (OR, 1.67, 95% CI, 1.25 to 2.47) but not in pediatric patients (OR 0.77, 95% CI 0.58 to 1.02), was higher in long-bone fractures than in spinal fusion, trended upward with higher doses, and was not elevated with short-term (\u226414 days) use. Risk also differed by clinical context, higher in traumatic versus elective procedures. CONCLUSIONS: NSAID-related impairment of bone healing seems dose and context-dependent, with clinically important risk particularly in adults, long-bone fractures, and higher dose regimens. Short-term use (\u226414 days) was not associated with increased nonunion risk. Risk seemed higher in traumatic fractures than in elective procedures. These findings support caution in higher risk scenarios, suggesting that short-duration NSAID use may be safe when avoiding higher dose exposure.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42489592/",
+      "score": 77,
+      "score_reasoning": "Very large database study (n=975,235 TKAs) identifying modifiable predictors of manipulation under anesthesia including perioperative corticosteroids, offering directly actionable risk stratification and management strategies for TKA surgeons.",
+      "bullets": [
+        "NSAIDs increase nonunion risk in adults with long-bone fractures, particularly at higher doses, but do not appear to raise risk in children.",
+        "Short-term NSAID use of 14 days or fewer was not associated with increased nonunion risk, supporting brief perioperative courses as reasonably safe.",
+        "Risk is higher after traumatic fractures than elective procedures, so surgeon caution around NSAID use should be guided by patient age, fracture type, dose, and duration."
+      ]
+    },
+    {
+      "pmid": "42474479",
+      "title": "An Assessment of the Preoperative Vitamin D Levels in Patients Undergoing Limb Lengthening Surgery.",
+      "authors": [
+        "Yalcinkaya A",
+        "Yong B",
+        "Hatfield D",
+        "Bafor A",
+        "Iobst C"
+      ],
+      "authors_short": "Yalcinkaya A, Yong B, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Vitamin D is important for skeletal health and may influence bone regeneration during distraction osteogenesis. Although vitamin D insufficiency and deficiency are common in patients undergoing limb reconstruction, the relationship between baseline vitamin D status and regenerate healing remains unclear, particularly within clinical pathways where vitamin D testing is performed perioperatively and supplementation is initiated after surgery for low levels. This study determined the prevalence of perioperative vitamin D deficiency in pediatric patients undergoing limb reconstruction for deformity correction or limb length discrepancy and evaluated the association between baseline vitamin D status, bone-healing outcomes, and postoperative complications within this real-world testing and supplementation pathway. METHODS: We performed a retrospective review of pediatric patients treated from January 2017 to December 2021 for lower-extremity limb-length discrepancy using an internal lengthening nail. Serum vitamin D levels were obtained perioperatively, typically on the day of surgery, and were not used to determine surgical eligibility or timing. Patients were categorized by preoperative serum vitamin D level as deficient, insufficient, or sufficient. Patients with vitamin D insufficiency or deficiency were routinely started on postoperative supplementation. Bone healing was assessed using the Bone Healing Index (BHI), and complication rates were compared across groups. RESULTS: Seventy-five patients were included. Twenty-two patients (29%) were vitamin D deficient, 30 (40.0%) were vitamin D insufficient, and 23 (31%) were vitamin D sufficient. Demographic characteristics were similar among groups. Complications occurred in 3 of 22 deficient patients (14%), 2 of 30 insufficient patients (7%), and 2 of 23 sufficient patients (9%), with no difference among groups (P=0.79). Baseline vitamin D level was not significantly correlated with BHI. Sensitivity analyses excluding tibial cases and grouping patients as sufficient versus insufficient/deficient produced findings consistent with the primary analysis. CONCLUSIONS: Vitamin D insufficiency and deficiency were common in this pediatric limb-lengthening cohort. Within a perioperative vitamin D testing and postoperative supplementation pathway for insufficiency or deficiency, low baseline vitamin D status was not associated with lower BHI or increased postoperative complications. LEVEL OF EVIDENCE: Level III-retrospective comparative study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42474479/",
+      "score": 77,
+      "score_reasoning": "Rigorously conducted systematic review and meta-analysis of RCTs comparing THA versus hemiarthroplasty for femoral neck fractures in elderly patients, published in CORR, addressing one of the most clinically debated topics in hip surgery.",
+      "bullets": [
+        "Nearly 70% of pediatric patients undergoing limb lengthening had low vitamin D levels preoperatively, making deficiency the norm rather than the exception in this population.",
+        "When low vitamin D was identified and supplementation was started postoperatively, bone healing index and complication rates were similar across deficient, insufficient, and sufficient groups.",
+        "For surgeons using a perioperative vitamin D testing and supplementation protocol, low preoperative levels alone should not delay or alter limb lengthening surgery planning."
+      ]
+    },
+    {
+      "pmid": "42489594",
+      "title": "Predictive Factors for Manipulations Under Anesthesia After Total Knee Arthroplasty: An Analysis of 15,139 Cases.",
+      "authors": [
+        "Iyer A",
+        "Culler M",
+        "Telang S",
+        "Palmer RC",
+        "Jones IA",
+        "Lieberman JR",
+        "Heckmann ND"
+      ],
+      "authors_short": "Iyer A, Culler M, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Limited range of motion (ROM) and arthrofibrosis are complications that affect approximately 1 to 13% of patients after primary total knee arthroplasty (TKA). Manipulation under anesthesia (MUA) is the preferred treatment when failure to achieve adequate ROM in the early postoperative period occurs. This study aims to identify predictors for MUA that may guide surgeons in preoperative risk stratification. METHODS: The Premier Healthcare Database was queried to identify patients aged 18 years or older who underwent elective total knee arthroplasty. Patients who underwent manipulation under anesthesia within 90 days of index surgery were compared with patients who did not. Demographics, comorbidities, and medication usage were compared between cohorts using chi-squared and t-tests. Akaike information criterion and Bayesian information criterion minimization was done to create an optimal mixed-effects model to identify risk factors. RESULTS: In total, 975,235 TKAs performed between 2015 and 2021 were identified. Of these, 1.55% (15,139) of patients required MUA. Patients in the MUA group were younger (62.47 \u00b1 9.19 vs. 67.03 \u00b1 9.24, P < 0.001) and more likely to be Black (15.91% vs. 8.29%, P < 0.001). Mixed-effects analysis revealed a decreased risk of MUA associated with perioperative dexamethasone (adjusted odds ratio [aOR] 0.925, 95% CI, 0.889-0.962, P < 0.001), daily prednisone usage (aOR 0.433, 95% CI, 0.347-0.542, P < 0.001), and angiotensin II receptor blockers (ARBs) (aOR 0.882, 95% CI, 0.840-0.927, P < 0.001). DISCUSSION: Younger age, female sex, and Black race were associated with an increased risk of MUA after TKA, while perioperative dexamethasone, daily steroids, and ARB use were protective. These findings may serve to aid surgeons in preoperative risk stratification.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42489594/",
+      "score": 76,
+      "score_reasoning": "Large matched database study (n=71,084) comparing complications of kyphoplasty by setting with direct implications for where surgeons should perform this increasingly common procedure, published in JAAOS.",
+      "bullets": [
+        "In a review of over 975,000 TKAs, 1.55% required manipulation under anesthesia within 90 days, with younger patients, women, and Black patients at highest risk.",
+        "Perioperative dexamethasone, chronic daily prednisone, and angiotensin II receptor blocker use were each independently associated with a lower rate of manipulation under anesthesia.",
+        "Surgeons can use age, sex, race, and current medications to flag higher-risk TKA patients before surgery and counsel them about stiffness and the possible need for manipulation."
+      ]
+    },
+    {
+      "pmid": "42498277",
+      "title": "For Love, Money, or Country: What Is the Return on Investment of Orthopaedic Fellowship, Academic, and Military Pathways?",
+      "authors": [
+        "Jhand AS",
+        "Elnaggar A",
+        "Almaat A",
+        "Brown M",
+        "Mehaidli A",
+        "Nicholson T",
+        "Andrews E"
+      ],
+      "authors_short": "Jhand AS, Elnaggar A, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: More than 90% of graduating orthopaedic residents pursue fellowship, although prior return-on-investment analyses show limited financial advantage. Contemporary compensation, evolving loan policies, and military-funded education may alter these outcomes, yet no prior analysis of which we are aware has integrated contemporary subspecialty compensation, academic versus nonacademic practice, and military-funded education into a single career-long financial model, leaving trainees and advisors without an up-to-date estimate of what each pathway costs or returns. QUESTIONS/PURPOSES: (1) What is the lifetime net present value (NPV) and internal rate of return (IRR) of orthopaedic subspecialty fellowship training relative to nonacademic general orthopaedic practice, both with and without adjustment for work hours? (2) What is the lifetime financial impact of military-funded medical education pathways (Health Professions Scholarship Program [HPSP] and Uniformed Services University of the Health Sciences [USUHS]) relative to civilian general orthopaedic practice? (3) What is the lifetime financial impact of academic practice relative to nonacademic practice across orthopaedic subspecialties? METHODS: A cross-sectional economic model was developed using 2025 compensation data from the American Medical Group Association, Association of American Medical Colleges, and Defense Finance and Accounting Service. We calculated the NPV (the difference in lifetime earnings between a pathway and nonacademic general orthopaedic practice in today's dollars) and the IRR (the effective annual return a pathway earns on the income given up to pursue it) over a 34-year career. Because a dollar today is worth more than a dollar in the future, future earnings were discounted at 5% annually; to confirm that our conclusions did not depend on this assumption, we repeated all calculations at 7.5% and 10% (sensitivity analyses). Fellowship opportunity cost was defined as the general orthopaedic income given up during the additional training year minus the fellowship stipend. Military pathways incorporated in-training compensation and each program's active-duty service obligation, with the model assuming a 4-year (HPSP) or 7-year (USUHS) military career followed by separation to civilian practice. Matched retirement contributions under the Blended Retirement System were evaluated but not included in the primary model because analogous civilian retirement benefits were also excluded; nonmonetary aspects of military service, such as time away from family and risk to life and limb, cannot be credibly expressed in dollars and were not modeled. As subspecialists report longer workweeks than generalists, subspecialty earnings were also normalized to generalist-equivalent work hours (approximately 48 hours per week for generalists versus 54 for subspecialists, according to the American Academy of Orthopaedic Surgeons census), allowing comparison on a per hour basis. RESULTS: At a 5% discount rate, spine surgery was the only subspecialty with a positive lifetime NPV, achieving break-even 6 years after fellowship. Joint replacement and trauma demonstrated IRRs of 2.6% and 1.2%, respectively; because these fall below the 5% discount rate, the income given up during fellowship would have grown more if simply invested, making them financially unfavorable despite higher eventual earnings. All other subspecialties yielded negative NPVs, that is, less lifetime earning, in today's dollars than general orthopaedic practice. After work-hours adjustment, all subspecialties (including spine surgery) demonstrated negative NPVs, so on a per hour basis no fellowship pathway out-earned general orthopaedic practice. Relative to civilian general orthopaedic practice, and regardless of subsequent subspecialty choice, military-funded education was associated with lifetime NPV reductions of approximately USD 1.7 million for HPSP and USD 3.0 million for USUHS. Academic practice demonstrated a lower lifetime NPV than nonacademic practice across all subspecialties, with the largest reduction (approximately USD 2.4 million) in trauma. As all model inputs were national mean (or fixed military) figures rather than individual-level data, confidence intervals could not be calculated; sensitivity analyses at higher discount rates served as the robustness test and left these findings unchanged. CONCLUSION: Under contemporary compensation conditions, spine surgery remains the only subspecialty with a positive financial return relative to general orthopaedic practice; most fellowship, academic, and military-funded pathways carry measurable long-term financial trade-offs. Medical schools and residency programs should present career-long earnings comparisons alongside the nonfinancial rewards of each pathway, and trainees may be best served by choosing fellowships based on clinical interest, lifestyle, and job-market realities rather than expected financial gain. LEVEL OF EVIDENCE: Level III, economic and decision analysis.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42498277/",
+      "score": 76,
+      "score_reasoning": "High-quality network meta-analysis of 63 RCTs (4235 patients) comparing nerve block techniques for shoulder arthroscopy, providing level 1 evidence with direct implications for anesthesia planning and postoperative pain management.",
+      "bullets": [
+        "Spine surgery is the only orthopaedic fellowship with a positive lifetime financial return over general orthopaedic practice, breaking even 6 years after training; all other subspecialties earn less over a career in today's dollars.",
+        "When earnings are adjusted for the longer hours subspecialists work, even spine surgery loses its financial edge, meaning no fellowship pathway outearns general orthopaedic practice on a per-hour basis.",
+        "Military-funded medical education and academic practice both carry substantial long-term financial costs for orthopaedic surgeons, so trainees should choose these paths based on personal values and clinical interest, not expected income."
+      ]
+    },
+    {
+      "pmid": "42517202",
+      "title": "Increased posterior tibial slope is associated with failure after anterior cruciate ligament primary repair.",
+      "authors": [
+        "Arras C",
+        "Mueller MM",
+        "Conner-Rilk S",
+        "Krishnan KR",
+        "Nash G",
+        "Monteleone TC",
+        "Goodhart GC",
+        "DiFelice GS"
+      ],
+      "authors_short": "Arras C, Mueller MM, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To determine whether preoperative posterior tibial slope (PTS) and intercondylar notch morphology are associated with arthroscopic anterior cruciate ligament primary repair (ACLPR) failure 2-5 years postoperatively, and to explore the association of the difference between medial and lateral PTS (MPTS and LPTS), and magnetic resonance imaging (MRI) versus radiograph slope agreement. METHODS: This retrospective secondary analysis included a prospectively collected, single-surgeon cohort of patients aged \u226518 years who underwent ACLPR for selected proximal anterior cruciate ligament (ACL) tears between 2008 and 2021 with 2-5 years of follow-up. MPTS, LPTS and anterior/posterior notch width (aNW and pNW) were quantified on preoperative MRI; PTS was additionally measured in a radiograph subset. Failure was defined as objective knee laxity (side-to-side difference\u2009\u2265\u20093\u2009mm, Lachman\u2009\u2265\u20092 or pivot-shift\u2009\u2265\u20092) and/or patient-reported symptomatic instability, including telemedicine follow-up. Associations with failure were assessed using univariable and multivariable logistic regression and exploratory analyses included receiver operating characteristic/area under the curve and time-to-failure analyses. RESULTS: Among 249 patients (51.4% female; mean age 39.4\u2009\u00b1\u200910.8 years) with median follow-up of 3.2 years (interquartile range 2.4-5.0), 24 (9.6%) met failure definition. After adjustment for age and suture augmentation, increased PTS was associated with failure per 1\u00b0 increase (MPTS: odds ratio [OR] 1.62; 95% confidence interval [CI] 1.35-1.96; LPTS: OR 1.35; 95% CI 1.17-1.55; both p\u2009<\u20090.001), while older age was associated with lower odds of failure. In exploratory analysis, directed \u0394PTS (MPTS-LPTS) was associated with failure (adjusted OR 1.27; 95% CI 1.07-1.51; p\u2009=\u20090.008). Intercondylar notch width was not associated with failure. MRI and radiographic-based slope measurements correlated (MPTS r\u2009=\u20090.706; LPTS r\u2009=\u20090.590; both p\u2009<\u20090.001). CONCLUSION: In this selected cohort of patients undergoing arthroscopic ACLPR, greater MPTS and LPTS and younger age were associated with higher odds of failure at 2-5 years, while notch width was not. These findings suggest that PTS may help contextualise risk when counselling patients considered for ACLPR. LEVEL OF EVIDENCE: Level IV, case series.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42517202/",
+      "score": 75,
+      "score_reasoning": "Clinically relevant retrospective cohort study identifying increased posterior tibial slope as a risk factor for ACL primary repair failure, with direct implications for patient selection and surgical planning in an evolving technique.",
+      "bullets": [
+        "Each additional degree of posterior tibial slope significantly increased the odds of ACL primary repair failure, with medial slope carrying a higher risk than lateral slope.",
+        "Younger patients were more likely to fail ACL primary repair, while notch width had no association with failure in this cohort.",
+        "Surgeons should measure posterior tibial slope before offering ACL primary repair, as steeper slopes may favour reconstruction over repair in appropriate candidates."
+      ]
+    },
+    {
+      "pmid": "42475625",
+      "title": "Full and Half Cup-Cage Reconstruction of Major Acetabular Defects: A Concise Follow-up, at 10 Years, of a Previous Report.",
+      "authors": [
+        "Berdis GE",
+        "Carstens MF",
+        "Larson DR",
+        "Perry KI",
+        "Taunton MJ",
+        "Bedard NA",
+        "Lewallen DG",
+        "Abdel MP"
+      ],
+      "authors_short": "Berdis GE, Carstens MF, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "Therapeutic Level IV. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42475625/",
+      "score": 73,
+      "score_reasoning": "Large single-institution cohort (40,315 primary THAs, 285 dislocators) demonstrating that revision risk rises sharply after two dislocations, updating the historical 'three dislocation' threshold with contemporary data immediately applicable to clinical practice.",
+      "bullets": [
+        "At 10-year follow-up, cup-cage constructs for major acetabular defects maintained fixation with low rates of mechanical failure in revision total hip patients.",
+        "The findings apply to patients with Paprosky III or equivalent severe acetabular bone loss requiring revision hip arthroplasty.",
+        "Cup-cage reconstruction remains a reliable option for surgeons managing large acetabular defects, with durability extending to at least a decade."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-07-28T04:56:58.452485-07:00"
+}
