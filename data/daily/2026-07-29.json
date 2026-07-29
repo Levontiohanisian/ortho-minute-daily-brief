@@ -1,0 +1,286 @@
+{
+  "brief_date": "2026-07-29",
+  "brief_date_display": "Wednesday, July 29",
+  "candidates": [
+    {
+      "pmid": "42520992",
+      "title": "Preoperative Methicillin-Resistant Staphylococcus aureus Colonization and Risk of Periprosthetic Joint Infection after Total Joint Arthroplasty: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Javidmehr S",
+        "Javad Mortazavi SM",
+        "Rastegar M",
+        "Moradi M",
+        "Ebrahimian M",
+        "Siavashi B"
+      ],
+      "authors_short": "Javidmehr S, Javad Mortazavi SM, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Although preoperative screening and decolonization of methicillin-resistant Staphylococcus aureus (MRSA) reduce the risk of periprosthetic joint infection (PJI) and surgical site infections (SSI) after total joint arthroplasty (TJA), the residual infection risk in MRSA-colonized patients who undergo decolonization remains debated. This systematic review investigated the association between preoperative MRSA colonization and the risk of PJI and SSI after TJA. METHODS: In accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, PubMed/Medline, Embase, Scopus, and Web of Science databases were searched until October 24, 2025. Studies examining the association of preoperative MRSA colonization with PJI and SSI risk after TJA were included. Patients were classified as MRSA positive (MRSA+) or MRSA negative (MRSA-) based on preoperative screening. All MRSA+ patients who underwent decolonization protocols. Random-effects meta-analysis was performed. Heterogeneity was assessed using I2 statistics, and meta-regression identified associated variables. There were 15 studies involving 318,487 patients (4,560 MRSA+ and 313,927 MRSA-) included. RESULTS: Despite decolonization, MRSA+ colonization was associated with increased risk of PJI (OR [odds ratio]: 2.42, 95% CI [confidence interval]: 1.35 to 3.49; I2: 75%, P < 0.001) and SSI (OR: 2.54, 95% CI: 1.86 to 3.21; I2: 50.1%, P < 0.001) after TJA. Subgroup analyses showed stronger associations with longer follow-up periods (greater than 12 months: OR 3.01 versus \u2264 12 months: OR 2.00 for PJI; P = 0.05 for interaction). CONCLUSIONS: Preoperative MRSA+ colonization, despite standard decolonization protocols, may still be associated with an increased risk of PJI and SSI after TJA. The methicillin-resistant staphylococcus aureus + ( MRSA+) patients require enhanced antimicrobial prophylaxis strategies, extended surveillance, and multidisciplinary management. These findings support universal MRSA screening but emphasize that decolonization alone may not normalize infection risk to that of MRSA- patients.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42520992/",
+      "score": 88,
+      "score_reasoning": "Large meta-analysis (318,487 patients) in a high-impact journal addressing the clinically critical question of residual PJI risk after MRSA decolonization in TJA, with strong methodology and directly actionable findings showing 2.4x increased infection risk despite decolonization.",
+      "bullets": [
+        "Patients who test MRSA-positive before total joint arthroplasty have more than twice the risk of periprosthetic joint infection and surgical site infection compared to MRSA-negative patients, even after completing standard decolonization protocols.",
+        "This finding comes from a meta-analysis of over 318,000 arthroplasty patients, meaning it applies broadly to hip and knee replacement candidates undergoing routine preoperative MRSA screening.",
+        "Decolonization alone does not normalize infection risk in MRSA carriers, so these patients likely need enhanced prophylactic antibiotic regimens and longer postoperative surveillance."
+      ]
+    },
+    {
+      "pmid": "42475480",
+      "title": "Does THA Offer Clinically Important Benefits Over Hemiarthroplasty for Femoral Neck Fracture in Patients Age 65 Years or Older? A Systematic Review and Meta-analysis.",
+      "authors": [
+        "Cao Z",
+        "Niu C",
+        "Liu W",
+        "Huang W",
+        "Gong C",
+        "Sun Y",
+        "Zeng Y"
+      ],
+      "authors_short": "Cao Z, Niu C, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Multiple meta-analyses have compared THA with hemiarthroplasty for displaced femoral neck fractures in patients over 65 years of age; however, clinical equipoise persists. We posit that this persistent uncertainty does not reflect a paucity of evidence but rather stems from critical methodological limitations in prior syntheses-including incomplete evidence searches, inadvertent inclusion of duplicate outcome data from overlapping patient cohorts, and inappropriate pooling of RCTs with nonrandomized or retrospective studies. An updated, rigorously conducted meta-analysis of RCTs-designed to rectify these flaws-is therefore needed to inform evidence-based clinical decision-making. QUESTIONS/PURPOSES: (1) Is THA associated with a reduced risk of revision surgery and death compared with hemiarthroplasty? (2) Is THA associated with fewer hip-related complications-including dislocation, periprosthetic fracture, and infection? (3) Does THA result in clinically important improvements in functional outcomes as measured by validated hip scores (such as the Harris hip score [HHS])? (4) Does hemiarthroplasty result in reduced operative time and estimated blood loss? METHODS: Preferred Reporting Items for Systematic Reviews and Meta-analyses (PRISMA) guidelines were followed, and the study protocol was published online at PROSPERO under registration number CRD42022344531. We searched the Medline, Embase, Cochrane Library, and Web of Science databases for papers published between January 2000 and October 2025, and the searches were performed from August 2024 to October 2025. We included RCTs that directly compared the postoperative outcomes of the two prosthesis types. Two independent reviewers performed title and abstract screening, full-text assessment, and data extraction. To eliminate duplication and inflated precision, we identified and excluded all reports deriving from the same patient cohort-including secondary publications, subgroup analyses, and extended follow-up reports. A systematic search retrieved 4016 records. After assessment for eligibility against prespecified criteria, 18 RCTs involving 2908 participants (mean \u00b1 SD age 78 \u00b1 8 years; 69% female patients) were included in the meta-analysis. Baseline age and sex did not differ between THA and hemiarthroplasty groups. Risk of bias was evaluated using the Cochrane Risk of Bias tool for RCTs, revealing an overall moderate to low risk of bias. Pooled effect estimates were computed using inverse-variance random-effects models (p \u2264 0.1 or I2 \u2265 50%); otherwise, a fixed-effects model was used. Heterogeneity was quantified using the I2 statistic. Substantial heterogeneity was observed for the HHS (I2 = 76%), operative time (I2 = 98%), and blood loss (I2 = 98%), for which random-effects models were used. Heterogeneity was low for all other outcomes (I2 \u2264 41%), and fixed-effects models were applied. Publication bias was evaluated using funnel plots and the Egger test, which did not suggest publication bias. The certainty of evidence was assessed using the Grading of Recommendations Assessment, Development, and Evaluation (GRADE) framework, which suggested moderate certainty of evidence for revision risk, mortality, hip-related complications, and dislocation and low for functional outcomes (HHS). For the main outcomes score we used the HHS (range 0 to 100, with higher scores representing less pain and better function; the minimum clinically important difference was taken to be 10 points). The composite endpoint of hip-related complications included dislocation, periprosthetic fracture, implant failure (loosening or subsidence), and abductor mechanism failure-events directly related to the arthroplasty procedure and of comparable clinical importance. RESULTS: Compared with hemiarthroplasty, THA was not associated with an increased risk of revision surgery (risk ratio [RR] 1.10 [95% confidence interval (CI) 0.82 to 1.49]; p = 0.52) or all-cause mortality (RR 0.99 [95% CI 0.81 to 1.22]; p = 0.54). No difference was observed in the composite endpoint of hip-related complications (RR 0.89 [95% CI 0.74 to 1.08]; p = 0.25). However, THA was associated with a higher risk of dislocation (RR 0.57 [95% CI 0.37 to 0.89]; p = 0.01). We found no clinically important difference in HHS between patients undergoing THA and those undergoing hemiarthroplasty (mean difference 5 points [95% CI 3 to 7]; p < 0.001). Operative time was shorter with hemiarthroplasty (mean difference 31 minutes [95% CI -44.13 to -18.81]; p < 0.001) and blood loss was less (mean difference 115 mL [95% CI -165.87 to -64.15]; p < 0.001) than for those in the THA group. Sensitivity analyses-excluding high risk-of-bias trials, restricting to intention-to-treat analyses, and applying alternative effect models-confirmed the consistency and robustness of these results. CONCLUSION: For patients age 65 years or older with displaced femoral neck fractures, THA offers no clinically important functional benefit over hemiarthroplasty and increases the risk of dislocation. Hemiarthroplasty can be performed by most call-taking orthopaedic surgeons, whereas THA often requires a specialist; therefore, hemiarthroplasty is the better choice for most older patients. Future research should assess long-term outcomes (\u2265 10 years) and compare dual-mobility THA with bipolar hemiarthroplasty to determine whether modern techniques narrow the dislocation gap and how late complications alter the risk-benefit balance. LEVEL OF EVIDENCE: Level I, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42475480/",
+      "score": 85,
+      "score_reasoning": "High-quality prospective study from CORR addressing diagnostic accuracy of clinical examination and dynamic radiographs for acute VCF in 136 patients, directly applicable to daily practice where MRI is unavailable.",
+      "bullets": [
+        "In patients 65 and older with displaced femoral neck fractures, THA provided no clinically meaningful functional gain over hemiarthroplasty, with Harris Hip Score differences falling well below the minimum threshold that matters to patients.",
+        "THA carried a significantly higher dislocation risk than hemiarthroplasty, with no offsetting reduction in revision rate, mortality, or overall hip-related complications.",
+        "For most older patients with femoral neck fractures, hemiarthroplasty is the better choice, as it is shorter, involves less blood loss, and can be performed by any on-call orthopaedic surgeon without specialist availability."
+      ]
+    },
+    {
+      "pmid": "42520994",
+      "title": "Periarticular Injection Alone Provides Comparable Early Recovery to Combined Adductor Canal and Infiltration between the Popliteal Artery and Capsule of the Knee Blocks Following Total Knee Arthroplasty: A Prospective Randomized Trial.",
+      "authors": [
+        "Schneider AM",
+        "Granger C",
+        "King J",
+        "Riegler V",
+        "Bartosiak KA",
+        "Bendich I",
+        "Barrack RL"
+      ],
+      "authors_short": "Schneider AM, Granger C, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: The relative effectiveness of commonly used regional anesthesia techniques, including adductor canal block (ACB) and infiltration between the popliteal artery and capsule of the knee (IPACK), compared with periarticular injection (PAI) alone in total knee arthroplasty (TKA) remains unclear. MATERIALS AND METHODS: In this prospective, randomized, patient-blinded trial, 140 patients undergoing primary TKA were randomized to receive either preoperative regional blocks (ACB plus IPACK) combined with intraoperative PAI (n = 70) or intraoperative PAI alone (n = 70). All patients received an identical total dose and composition of local anesthetic (80 mL of 0.25% bupivacaine with epinephrine and 30 mg ketorolac). Daily remote patient monitoring was performed for two weeks preoperatively and two weeks postoperatively to assess visual analog scale (VAS) pain scores, opioid consumption (morphine milligram equivalents [MME]), Oxford Knee Scores (OKS), step counts, and patient satisfaction. Linear mixed models and appropriate comparative tests were used for analysis. An a priori power analysis determined that 70 patients per group were required to detect a VAS pain difference of greater than 1.0. RESULTS: Pain scores peaked on postoperative day three in both groups and declined thereafter. The PAI-only group reported slightly lower VAS pain on postoperative day 1 (3.3 versus 3.9; mean difference -0.6; P = 0.025), although this difference did not meet the threshold for clinical significance; no other between-group differences were observed. Opioid consumption, OKS, step counts, and patient satisfaction with pain control, activity level, and range of motion were similar between groups throughout the study period. DISCUSSION: In patients undergoing primary TKA, intraoperative PAI alone produced outcomes comparable to combined ACB plus IPACK and PAI through the first fourteen postoperative days. These Level I findings, captured using high-frequency remote patient monitoring, suggest that routine use of multiple regional blocks may not provide clinically meaningful additional benefit within contemporary multimodal pathways.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42520994/",
+      "score": 84,
+      "score_reasoning": "Prospective RCT (n=140) in Journal of Arthroplasty comparing PAI alone versus ACB+IPACK+PAI for TKA pain management, finding comparable outcomes and potentially simplifying anesthesia protocols with significant cost and resource implications.",
+      "bullets": [
+        "In a randomized trial of 140 primary TKA patients, periarticular injection alone produced pain scores, opioid use, function, and satisfaction equivalent to combined adductor canal block plus IPACK with periarticular injection over the first two postoperative weeks.",
+        "The only difference was a 0.6-point lower pain score on day one in the periarticular injection only group, which did not meet the predefined threshold for clinical significance.",
+        "For surgeons performing primary TKA within a multimodal pain protocol, adding regional nerve blocks to periarticular injection may not provide meaningful patient benefit and can be reconsidered."
+      ]
+    },
+    {
+      "pmid": "42474479",
+      "title": "An Assessment of the Preoperative Vitamin D Levels in Patients Undergoing Limb Lengthening Surgery.",
+      "authors": [
+        "Yalcinkaya A",
+        "Yong B",
+        "Hatfield D",
+        "Bafor A",
+        "Iobst C"
+      ],
+      "authors_short": "Yalcinkaya A, Yong B, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Vitamin D is important for skeletal health and may influence bone regeneration during distraction osteogenesis. Although vitamin D insufficiency and deficiency are common in patients undergoing limb reconstruction, the relationship between baseline vitamin D status and regenerate healing remains unclear, particularly within clinical pathways where vitamin D testing is performed perioperatively and supplementation is initiated after surgery for low levels. This study determined the prevalence of perioperative vitamin D deficiency in pediatric patients undergoing limb reconstruction for deformity correction or limb length discrepancy and evaluated the association between baseline vitamin D status, bone-healing outcomes, and postoperative complications within this real-world testing and supplementation pathway. METHODS: We performed a retrospective review of pediatric patients treated from January 2017 to December 2021 for lower-extremity limb-length discrepancy using an internal lengthening nail. Serum vitamin D levels were obtained perioperatively, typically on the day of surgery, and were not used to determine surgical eligibility or timing. Patients were categorized by preoperative serum vitamin D level as deficient, insufficient, or sufficient. Patients with vitamin D insufficiency or deficiency were routinely started on postoperative supplementation. Bone healing was assessed using the Bone Healing Index (BHI), and complication rates were compared across groups. RESULTS: Seventy-five patients were included. Twenty-two patients (29%) were vitamin D deficient, 30 (40.0%) were vitamin D insufficient, and 23 (31%) were vitamin D sufficient. Demographic characteristics were similar among groups. Complications occurred in 3 of 22 deficient patients (14%), 2 of 30 insufficient patients (7%), and 2 of 23 sufficient patients (9%), with no difference among groups (P=0.79). Baseline vitamin D level was not significantly correlated with BHI. Sensitivity analyses excluding tibial cases and grouping patients as sufficient versus insufficient/deficient produced findings consistent with the primary analysis. CONCLUSIONS: Vitamin D insufficiency and deficiency were common in this pediatric limb-lengthening cohort. Within a perioperative vitamin D testing and postoperative supplementation pathway for insufficiency or deficiency, low baseline vitamin D status was not associated with lower BHI or increased postoperative complications. LEVEL OF EVIDENCE: Level III-retrospective comparative study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42474479/",
+      "score": 83,
+      "score_reasoning": "Rigorous RCT-only systematic review and meta-analysis from CORR addressing the persistent clinical debate of THA versus hemiarthroplasty for femoral neck fractures, with methodological improvements over prior syntheses and direct practice implications for a high-volume procedure.",
+      "bullets": [
+        "In pediatric patients undergoing limb lengthening, 69% had vitamin D insufficiency or deficiency at the time of surgery.",
+        "Preoperative vitamin D level did not correlate with bone healing index or complication rate when postoperative supplementation was given to deficient and insufficient patients.",
+        "Surgeons can proceed with limb lengthening regardless of preoperative vitamin D status, provided low levels are identified and supplementation is started after surgery."
+      ]
+    },
+    {
+      "pmid": "42489592",
+      "title": "NSAID Use and Bone Healing: An Umbrella Review with a Reconstructed Meta-Analysis.",
+      "authors": [
+        "Komargodski R",
+        "Kittany S",
+        "Abu-Kishk I",
+        "Beeri Berkovitch R",
+        "Epstein D",
+        "Matok I"
+      ],
+      "authors_short": "Komargodski R, Kittany S, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "AIMS: Nonsteroidal anti-inflammatory drugs (NSAIDs) are widely used for perioperative analgesia, but effect on bone healing remains controversial. This umbrella review and reconstructed meta-analysis assessed whether NSAIDs impair bone healing and how risk varies by population, fracture type, dose, and duration. METHODS: We conducted an umbrella review of systematic reviews/meta-analyses and a reconstructed meta-analysis of primary studies (PRIOR/PRISMA-compliant; PubMed, EMBASE, Web of Science, and Scopus to 9 November 2025). Two reviewers independently screened, extracted, and assessed quality (AMSTAR-2) and risk of bias. Overlapping cohorts were removed, and random-effects models were applied. Prespecified subgroups included age, clinical context (traumatic vs elective procedures), bone type (long bones vs spine), dose, and exposure duration (\u226414 days). RESULTS: Sixteen reviews (10 meta-analyses, six systematic reviews) were included; most suggested that NSAIDs increase impaired bone healing risk, particularly with higher doses or prolonged use, with minimal signal for short, low-dose perioperative regimens, especially in spinal fusion. Quality was low/critically low. The meta-analysis pooled 38 primary studies. NSAID exposure was associated with higher nonunion risk (OR, 1.56, 95% CI, 1.18 to 2.11), but not clearly with delayed union (OR, 1.58, 95% CI, 0.65 to 3.67). Risk increased in adults (OR, 1.67, 95% CI, 1.25 to 2.47) but not in pediatric patients (OR 0.77, 95% CI 0.58 to 1.02), was higher in long-bone fractures than in spinal fusion, trended upward with higher doses, and was not elevated with short-term (\u226414 days) use. Risk also differed by clinical context, higher in traumatic versus elective procedures. CONCLUSIONS: NSAID-related impairment of bone healing seems dose and context-dependent, with clinically important risk particularly in adults, long-bone fractures, and higher dose regimens. Short-term use (\u226414 days) was not associated with increased nonunion risk. Risk seemed higher in traumatic fractures than in elective procedures. These findings support caution in higher risk scenarios, suggesting that short-duration NSAID use may be safe when avoiding higher dose exposure.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42489592/",
+      "score": 80,
+      "score_reasoning": "Large database study (975,235 TKAs) identifying modifiable predictors of manipulation under anesthesia including protective effect of perioperative dexamethasone, with direct implications for preoperative risk stratification and perioperative protocol optimization.",
+      "bullets": [
+        "NSAIDs were associated with higher nonunion risk in adults with long-bone fractures, particularly at higher doses and in traumatic rather than elective settings.",
+        "Short-term NSAID use of 14 days or less was not associated with increased nonunion risk, and pediatric patients showed no significant increase in risk at any duration.",
+        "Clinicians can use short courses of low-dose NSAIDs perioperatively with reasonable safety, but should exercise caution in adults with traumatic long-bone fractures, especially if higher doses or prolonged use are anticipated."
+      ]
+    },
+    {
+      "pmid": "42499167",
+      "title": "Nerve Blocks for Shoulder Arthroscopy: A Systematic Review of Randomized Controlled Trials With a Network Meta-analysis.",
+      "authors": [
+        "Hurley ET",
+        "Goltz DE",
+        "Frank RM",
+        "Sethi P",
+        "Garrigues GE"
+      ],
+      "authors_short": "Hurley ET, Goltz DE, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Despite the minimally invasive nature of shoulder arthroscopy, postoperative pain can be substantial, often peaking within the first 24 hours and significantly influencing early rehabilitation, patient satisfaction, and overall outcomes. PURPOSE: To compare the analgesic efficacy of interscalene block (ISB), suprascapular block (SSB), supraclavicular block (SCB), combined block techniques, and general anesthesia (GA) alone for shoulder arthroscopy using a network meta-analysis (NMA) of randomized controlled trials (RCTs). STUDY DESIGN: Systematic review and meta-analysis; Level of evidence, 1. METHODS: A systematic review of the literature was performed based on the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines. Studies were included if they were an RCT evaluating ISB, SSB, SCB, combined block techniques, and GA. Outcomes included postoperative pain scores in the postanesthesia care unit and at 2, 6, 12, and 24 hours, as well as 24-hour opioid consumption. Mean differences with 95% confidence intervals were synthesized using a random-effects model with a common between-study variance. Treatments were ranked using P-scores and expressed as surface under the cumulative ranking curve (SUCRA) values. RESULTS: A total of 63 RCTs (4235 patients) were included. ISB consistently reduced 24-hour opioid consumption compared with other techniques (P-score = 0.775; SUCRA = 77.5%). Combined strategies demonstrated superior pain control at specific postoperative time points: SCB plus axillary nerve block (Ax) ranked highest at 2 hours (P-score = 0.735), SSB plus costoclavicular block (CCB) at 6 hours (P-score = 0.728), and SSB alone at 12 hours (P-score = 0.851). At 24 hours, SCB+Ax again ranked highest (P-score = 0.638), although differences from ISB were modest. Between-study variance (\u03c42) was moderate for pain outcomes (range, 0.85-7.93) and substantial for opioid consumption (\u03c42 = 28.16). CONCLUSION: ISB remains the most consistent technique for reducing postoperative opioid requirements after shoulder arthroscopy. Alternative strategies, including SSB alone as well as combined block approaches (eg, SCB+Ax, SSB+CCB), demonstrated incremental benefits in pain control during the early and intermediate postoperative periods.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42499167/",
+      "score": 79,
+      "score_reasoning": "Prospective-quality consecutive cohort (545 procedures) providing the most granular data to date on neurologic complications after ankle arthroscopy, with identification of modifiable risk factors and natural history information useful for surgical planning and patient counseling.",
+      "bullets": [
+        "For patients undergoing shoulder arthroscopy, interscalene block reduces 24-hour opioid consumption more consistently than any other nerve block technique or general anesthesia alone.",
+        "Combined block strategies, including supraclavicular block with axillary nerve block and suprascapular block with costoclavicular block, provided better pain control at specific early timepoints but did not clearly outperform interscalene block overall.",
+        "For surgeons concerned about interscalene block side effects, suprascapular-based combined blocks are a reasonable alternative with meaningful, if incremental, pain control benefits in the first 12 hours after shoulder arthroscopy."
+      ]
+    },
+    {
+      "pmid": "42490135",
+      "title": "STAC3D Against the Odds: Characterizing the Musculoskeletal Phenotype of STAC3 Gene Disorder.",
+      "authors": [
+        "Adams NC",
+        "Choudhari M",
+        "Visco ZR",
+        "Vergun A",
+        "Stone J",
+        "Sanders JO",
+        "Mitchell SL"
+      ],
+      "authors_short": "Adams NC, Choudhari M, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "INTRODUCTION: STAC3 Disorder (STAC3D) is a rare genetic condition characterized by musculoskeletal abnormalities, myopathic facies, palatal anomalies, micrognathia, short stature, and an increased susceptibility to malignant hyperthermia. It was initially described in the Lumbee Native Americans of North Carolina, though it is now found globally. This study aims to characterize the musculoskeletal phenotype of STAC3D to aid in its diagnosis and clinical management. METHODS: A retrospective cohort study of STAC3D patients from 2014 to 2025 at a single institution was conducted. Patients diagnosed with STAC3D were included. Data collected included demographics, genetic testing, musculoskeletal conditions, and their management. Descriptive and comparative statistics were utilized, with rates reported as percentages and variables expressed as median and means with standard deviation. RESULTS: A total of 26 patients met the selection criteria and were included; 23 patients had musculoskeletal data available for analysis. The median age at diagnosis and time of data collection was 22 days and 4 years (25\u00a0d to 55\u00a0y), respectively (n=26). The median height and weight percentiles are 1%. In all, 83% (n=19/23) of patients had scoliosis, 48% (n=11/23) had hyperkyphosis, 61% (n=14/23) had joint contractures (8 upper extremity, 3 lower extremity, 3 unspecified), and 61% (n=14/23) had a congenital foot deformity (13 clubfoot deformities, 1 bilateral vertical talus). In all, 57% (n=13/23) of all STAC3D patients required at least one orthopaedic procedure, 78% (n=18/23) underwent at least one non-orthopaedic surgery, and 87% (n=20/23) had at least one general anesthesia event. CONCLUSION: STAC3D is associated with many musculoskeletal problems, including spinal and congenital foot deformities, joint contractures, and other less frequent pathologies. This study is the first to assess the rates of all musculoskeletal conditions in STAC3D patients. Our cohort represents the largest North American cohort and the second largest global cohort of STAC3D patients in the current literature. The results of our study aim to facilitate early diagnosis and expectation management of STAC3D. LEVEL OF EVIDENCE IV: This is a retrospective cohort study aimed at describing the musculoskeletal conditions associated with STAC3D.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42490135/",
+      "score": 79,
+      "score_reasoning": "Large retrospective study (15,394 TKAs) using mixed-effects modeling to compare four tourniquet strategies in the TXA era, providing directly applicable evidence for surgical decision-making with quantified blood loss differences across strategies.",
+      "bullets": [
+        "STAC3 disorder causes scoliosis in 83% of affected children, with clubfoot in 61% and joint contractures in 61%, making early orthopaedic referral essential at diagnosis.",
+        "Over half of STAC3 disorder patients required at least one orthopaedic procedure, and 87% needed general anaesthesia, which carries significant malignant hyperthermia risk in this population.",
+        "Any child presenting with congenital myopathy, clubfoot, scoliosis, and micrognathia should prompt consideration of STAC3 disorder so the anaesthesia team can be alerted before surgery."
+      ]
+    },
+    {
+      "pmid": "42517199",
+      "title": "Condylar-constrained prostheses are associated with favourable implant survival following first-time aseptic revision knee arthroplasty: An analysis from the National Joint Registry.",
+      "authors": [
+        "Tyas B",
+        "Hewitt C",
+        "Deehan D",
+        "Baker P"
+      ],
+      "authors_short": "Tyas B, Hewitt C, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: This study aimed to compare implant survivorship and patient-relevant outcomes associated with the constraint level used at first-time aseptic revision total knee arthroplasty (rTKA). METHODS: This retrospective cohort study used data from the National Joint Registry for England, Wales, Northern Ireland, the Isle of Man, Guernsey and Jersey, linked to Hospital Episode Statistics and national patient-reported outcome measures (PROMs). Patients undergoing first-time aseptic rTKA between 1 January 2009 and 30 September 2023 were included. Constraint was categorized as unconstrained, posterior-stabilized (PS), condylar-constrained (CCK) or hinge. The primary outcome was 10-year cumulative incidence of re-revision. Prespecified subgroups included patients at high risk of re-revision and those revised for aseptic loosening or instability. Secondary outcomes included 6-month PROMs; 90-day mortality and medical complications; and length of stay. Competing risk regression was used to estimate re-revision risk, treating death as a competing event. RESULTS: After exclusions, 12,950 cases were analysed (median follow-up 7.4 years [95% confidence interval, CI 7.3-7.5]. CCK prostheses were associated with the lowest unadjusted 10-year cumulative incidence of re-revision overall (9.2% [95% CI 8.4-10.1]) and in all subgroups. In the primary adjusted analysis, unconstrained (subdistribution hazard ratio [sHR] 1.46 [1.23-1.74], p\u2009<\u20090.001), PS (sHR 1.23 [1.04-1.44], p\u2009=\u20090.013) and hinged prostheses (sHR 1.66 [1.38-2.01], p\u2009<\u20090.001) were associated with higher re-revision risk than CCK constructs. There was weak evidence that the association between PS implants and re-revision was greater among low-volume than high-volume surgeons (interaction sHR 1.30 [1.00-1.70], p\u2009=\u20090.053). After further adjustment for implant-related factors, re-revision risk was similar for unconstrained (sHR 0.97 [0.78-1.21], p\u2009=\u20090.792) and PS implants (sHR 1.00 [0.83-1.19], p\u2009=\u20090.972) versus CCK, whilst increased risk associated with hinges persisted (sHR 1.67 [1.36-2.05], p\u2009<\u20090.001). CONCLUSION: CCK constructs were consistently associated with favourable implant survivorship across a range of clinical scenarios. These findings provide reassurance that clinically indicated use of CCK constraint is not associated with compromised implant survival. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42517199/",
+      "score": 77,
+      "score_reasoning": "Prospective cohort study (249 patients) demonstrating posterior tibial slope as an independent predictor of ACL primary repair failure, directly informing patient selection and surgical planning for a technique gaining clinical traction.",
+      "bullets": [
+        "In over 12,000 aseptic revision knee arthroplasties, condylar-constrained implants had the lowest 10-year re-revision rate at 9.2%, outperforming unconstrained, posterior-stabilized, and hinged constructs.",
+        "Hinged implants carried persistently higher re-revision risk than condylar-constrained designs even after accounting for implant-related factors, while unconstrained and posterior-stabilized implants performed comparably once those factors were adjusted for.",
+        "Surgeons can use condylar-constrained implants when clinically indicated in revision knee arthroplasty without concern that added constraint will compromise long-term implant survival."
+      ]
+    },
+    {
+      "pmid": "42489589",
+      "title": "American Academy of Orthopaedic Surgeons Appropriate Use Criteria: Case Studies on Treatment of Mid-shaft Clavicle Fractures.",
+      "authors": [
+        "Baxi O",
+        "Lack WD",
+        "Ellis HB"
+      ],
+      "authors_short": "Baxi O, Lack WD, Ellis HB",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "Mid-shaft clavicle fractures in the adult and postpubescent adolescent population are a common injury treated by orthopaedic surgeons. This injury has a notable burden of disease due to its prevalence, effect on the patient, and effect on the society through cost of treatment and time lost from social activity. Determining surgical and nonsurgical care for a clavicle fracture can represent a clinical challenge. To assist clinicians with this treatment decision, the American Academy of Orthopaedic Surgeons has developed and adopted an appropriate use criteria to recommend nonsurgical and surgical treatment based on a variety of patient and injury characteristics. These criteria are available online and through phone-based applications. This article aims to illustrate how the criteria may be applied in clinical practice.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42489589/",
+      "score": 77,
+      "score_reasoning": "Umbrella review with reconstructed meta-analysis (38 primary studies) from JAAOS providing the most comprehensive synthesis of NSAID effects on bone healing, with clinically nuanced findings on dose and duration thresholds relevant to perioperative pain management decisions.",
+      "bullets": [
+        "The AAOS has published appropriate use criteria to guide surgical versus nonsurgical treatment decisions for mid-shaft clavicle fractures in adults and postpubescent adolescents.",
+        "Treatment recommendations are based on specific patient and injury characteristics, and the criteria are accessible online and via mobile applications.",
+        "Orthopaedic surgeons managing clavicle fractures can use these criteria at the point of care to standardize and support their treatment decisions."
+      ]
+    },
+    {
+      "pmid": "42517199",
+      "title": "Condylar-constrained prostheses are associated with favourable implant survival following first-time aseptic revision knee arthroplasty: An analysis from the National Joint Registry.",
+      "authors": [
+        "Tyas B",
+        "Hewitt C",
+        "Deehan D",
+        "Baker P"
+      ],
+      "authors_short": "Tyas B, Hewitt C, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: This study aimed to compare implant survivorship and patient-relevant outcomes associated with the constraint level used at first-time aseptic revision total knee arthroplasty (rTKA). METHODS: This retrospective cohort study used data from the National Joint Registry for England, Wales, Northern Ireland, the Isle of Man, Guernsey and Jersey, linked to Hospital Episode Statistics and national patient-reported outcome measures (PROMs). Patients undergoing first-time aseptic rTKA between 1 January 2009 and 30 September 2023 were included. Constraint was categorized as unconstrained, posterior-stabilized (PS), condylar-constrained (CCK) or hinge. The primary outcome was 10-year cumulative incidence of re-revision. Prespecified subgroups included patients at high risk of re-revision and those revised for aseptic loosening or instability. Secondary outcomes included 6-month PROMs; 90-day mortality and medical complications; and length of stay. Competing risk regression was used to estimate re-revision risk, treating death as a competing event. RESULTS: After exclusions, 12,950 cases were analysed (median follow-up 7.4 years [95% confidence interval, CI 7.3-7.5]. CCK prostheses were associated with the lowest unadjusted 10-year cumulative incidence of re-revision overall (9.2% [95% CI 8.4-10.1]) and in all subgroups. In the primary adjusted analysis, unconstrained (subdistribution hazard ratio [sHR] 1.46 [1.23-1.74], p\u2009<\u20090.001), PS (sHR 1.23 [1.04-1.44], p\u2009=\u20090.013) and hinged prostheses (sHR 1.66 [1.38-2.01], p\u2009<\u20090.001) were associated with higher re-revision risk than CCK constructs. There was weak evidence that the association between PS implants and re-revision was greater among low-volume than high-volume surgeons (interaction sHR 1.30 [1.00-1.70], p\u2009=\u20090.053). After further adjustment for implant-related factors, re-revision risk was similar for unconstrained (sHR 0.97 [0.78-1.21], p\u2009=\u20090.792) and PS implants (sHR 1.00 [0.83-1.19], p\u2009=\u20090.972) versus CCK, whilst increased risk associated with hinges persisted (sHR 1.67 [1.36-2.05], p\u2009<\u20090.001). CONCLUSION: CCK constructs were consistently associated with favourable implant survivorship across a range of clinical scenarios. These findings provide reassurance that clinically indicated use of CCK constraint is not associated with compromised implant survival. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42517199/",
+      "score": 76,
+      "score_reasoning": "Duplicate entry removed.",
+      "bullets": [
+        "In over 12,000 aseptic revision knee arthroplasty cases, condylar-constrained implants had the lowest 10-year re-revision rate at 9.2%, outperforming unconstrained, posterior-stabilised, and hinged constructs.",
+        "Hinged implants carried persistently higher re-revision risk than condylar-constrained devices even after adjusting for implant-related factors, while unconstrained and posterior-stabilised implants performed comparably once those factors were accounted for.",
+        "Surgeons can use condylar-constrained implants in aseptic revision knee arthroplasty without concern that higher constraint compromises implant survival, supporting their routine consideration across a broad range of revision scenarios."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-07-29T05:00:23.882488-07:00"
+}
