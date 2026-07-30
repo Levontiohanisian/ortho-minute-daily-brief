@@ -1,0 +1,289 @@
+{
+  "brief_date": "2026-07-30",
+  "brief_date_display": "Thursday, July 30",
+  "candidates": [
+    {
+      "pmid": "42520994",
+      "title": "Periarticular Injection Alone Provides Comparable Early Recovery to Combined Adductor Canal and Infiltration between the Popliteal Artery and Capsule of the Knee Blocks Following Total Knee Arthroplasty: A Prospective Randomized Trial.",
+      "authors": [
+        "Schneider AM",
+        "Granger C",
+        "King J",
+        "Riegler V",
+        "Bartosiak KA",
+        "Bendich I",
+        "Barrack RL"
+      ],
+      "authors_short": "Schneider AM, Granger C, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: The relative effectiveness of commonly used regional anesthesia techniques, including adductor canal block (ACB) and infiltration between the popliteal artery and capsule of the knee (IPACK), compared with periarticular injection (PAI) alone in total knee arthroplasty (TKA) remains unclear. MATERIALS AND METHODS: In this prospective, randomized, patient-blinded trial, 140 patients undergoing primary TKA were randomized to receive either preoperative regional blocks (ACB plus IPACK) combined with intraoperative PAI (n = 70) or intraoperative PAI alone (n = 70). All patients received an identical total dose and composition of local anesthetic (80 mL of 0.25% bupivacaine with epinephrine and 30 mg ketorolac). Daily remote patient monitoring was performed for two weeks preoperatively and two weeks postoperatively to assess visual analog scale (VAS) pain scores, opioid consumption (morphine milligram equivalents [MME]), Oxford Knee Scores (OKS), step counts, and patient satisfaction. Linear mixed models and appropriate comparative tests were used for analysis. An a priori power analysis determined that 70 patients per group were required to detect a VAS pain difference of greater than 1.0. RESULTS: Pain scores peaked on postoperative day three in both groups and declined thereafter. The PAI-only group reported slightly lower VAS pain on postoperative day 1 (3.3 versus 3.9; mean difference -0.6; P = 0.025), although this difference did not meet the threshold for clinical significance; no other between-group differences were observed. Opioid consumption, OKS, step counts, and patient satisfaction with pain control, activity level, and range of motion were similar between groups throughout the study period. DISCUSSION: In patients undergoing primary TKA, intraoperative PAI alone produced outcomes comparable to combined ACB plus IPACK and PAI through the first fourteen postoperative days. These Level I findings, captured using high-frequency remote patient monitoring, suggest that routine use of multiple regional blocks may not provide clinically meaningful additional benefit within contemporary multimodal pathways.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42520994/",
+      "score": 82,
+      "score_reasoning": "High-quality RCT (n=140) comparing PAI alone vs ACB+IPACK in TKA with direct perioperative analgesia implications, published in a high-impact arthroplasty journal with robust methodology and remote patient monitoring outcomes.",
+      "bullets": [
+        "In a randomized trial of 140 primary TKA patients, periarticular injection alone produced pain scores, opioid use, step counts, and functional outcomes equivalent to combined adductor canal block plus IPACK over the first two postoperative weeks.",
+        "A small pain score difference favoring PAI alone on day one was statistically present but fell below the threshold for clinical significance, and no other between-group differences were detected at any time point.",
+        "For primary TKA patients on a multimodal pain pathway, adding adductor canal and IPACK blocks to periarticular injection does not appear to provide meaningful additional benefit and may be safely omitted."
+      ]
+    },
+    {
+      "pmid": "42520992",
+      "title": "Preoperative Methicillin-Resistant Staphylococcus aureus Colonization and Risk of Periprosthetic Joint Infection after Total Joint Arthroplasty: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Javidmehr S",
+        "Javad Mortazavi SM",
+        "Rastegar M",
+        "Moradi M",
+        "Ebrahimian M",
+        "Siavashi B"
+      ],
+      "authors_short": "Javidmehr S, Javad Mortazavi SM, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Although preoperative screening and decolonization of methicillin-resistant Staphylococcus aureus (MRSA) reduce the risk of periprosthetic joint infection (PJI) and surgical site infections (SSI) after total joint arthroplasty (TJA), the residual infection risk in MRSA-colonized patients who undergo decolonization remains debated. This systematic review investigated the association between preoperative MRSA colonization and the risk of PJI and SSI after TJA. METHODS: In accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, PubMed/Medline, Embase, Scopus, and Web of Science databases were searched until October 24, 2025. Studies examining the association of preoperative MRSA colonization with PJI and SSI risk after TJA were included. Patients were classified as MRSA positive (MRSA+) or MRSA negative (MRSA-) based on preoperative screening. All MRSA+ patients who underwent decolonization protocols. Random-effects meta-analysis was performed. Heterogeneity was assessed using I2 statistics, and meta-regression identified associated variables. There were 15 studies involving 318,487 patients (4,560 MRSA+ and 313,927 MRSA-) included. RESULTS: Despite decolonization, MRSA+ colonization was associated with increased risk of PJI (OR [odds ratio]: 2.42, 95% CI [confidence interval]: 1.35 to 3.49; I2: 75%, P < 0.001) and SSI (OR: 2.54, 95% CI: 1.86 to 3.21; I2: 50.1%, P < 0.001) after TJA. Subgroup analyses showed stronger associations with longer follow-up periods (greater than 12 months: OR 3.01 versus \u2264 12 months: OR 2.00 for PJI; P = 0.05 for interaction). CONCLUSIONS: Preoperative MRSA+ colonization, despite standard decolonization protocols, may still be associated with an increased risk of PJI and SSI after TJA. The methicillin-resistant staphylococcus aureus + ( MRSA+) patients require enhanced antimicrobial prophylaxis strategies, extended surveillance, and multidisciplinary management. These findings support universal MRSA screening but emphasize that decolonization alone may not normalize infection risk to that of MRSA- patients.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42520992/",
+      "score": 81,
+      "score_reasoning": "Large retrospective cohort (n=318,487) meta-analysis directly addressing a common clinical concern about MRSA colonization and PJI risk after TJA despite decolonization, with high clinical impact and strong study design.",
+      "bullets": [
+        "In over 318,000 total joint arthroplasty patients, preoperative MRSA colonization doubled the risk of periprosthetic joint infection and surgical site infection even after standard decolonization.",
+        "This applies to any patient undergoing total hip or knee arthroplasty who screens MRSA positive preoperatively, regardless of decolonization compliance.",
+        "Decolonization alone does not normalize infection risk, so MRSA-positive arthroplasty patients warrant enhanced prophylaxis, closer postoperative surveillance, and multidisciplinary infectious disease involvement."
+      ]
+    },
+    {
+      "pmid": "42517199",
+      "title": "Condylar-constrained prostheses are associated with favourable implant survival following first-time aseptic revision knee arthroplasty: An analysis from the National Joint Registry.",
+      "authors": [
+        "Tyas B",
+        "Hewitt C",
+        "Deehan D",
+        "Baker P"
+      ],
+      "authors_short": "Tyas B, Hewitt C, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: This study aimed to compare implant survivorship and patient-relevant outcomes associated with the constraint level used at first-time aseptic revision total knee arthroplasty (rTKA). METHODS: This retrospective cohort study used data from the National Joint Registry for England, Wales, Northern Ireland, the Isle of Man, Guernsey and Jersey, linked to Hospital Episode Statistics and national patient-reported outcome measures (PROMs). Patients undergoing first-time aseptic rTKA between 1 January 2009 and 30 September 2023 were included. Constraint was categorized as unconstrained, posterior-stabilized (PS), condylar-constrained (CCK) or hinge. The primary outcome was 10-year cumulative incidence of re-revision. Prespecified subgroups included patients at high risk of re-revision and those revised for aseptic loosening or instability. Secondary outcomes included 6-month PROMs; 90-day mortality and medical complications; and length of stay. Competing risk regression was used to estimate re-revision risk, treating death as a competing event. RESULTS: After exclusions, 12,950 cases were analysed (median follow-up 7.4 years [95% confidence interval, CI 7.3-7.5]. CCK prostheses were associated with the lowest unadjusted 10-year cumulative incidence of re-revision overall (9.2% [95% CI 8.4-10.1]) and in all subgroups. In the primary adjusted analysis, unconstrained (subdistribution hazard ratio [sHR] 1.46 [1.23-1.74], p\u2009<\u20090.001), PS (sHR 1.23 [1.04-1.44], p\u2009=\u20090.013) and hinged prostheses (sHR 1.66 [1.38-2.01], p\u2009<\u20090.001) were associated with higher re-revision risk than CCK constructs. There was weak evidence that the association between PS implants and re-revision was greater among low-volume than high-volume surgeons (interaction sHR 1.30 [1.00-1.70], p\u2009=\u20090.053). After further adjustment for implant-related factors, re-revision risk was similar for unconstrained (sHR 0.97 [0.78-1.21], p\u2009=\u20090.792) and PS implants (sHR 1.00 [0.83-1.19], p\u2009=\u20090.972) versus CCK, whilst increased risk associated with hinges persisted (sHR 1.67 [1.36-2.05], p\u2009<\u20090.001). CONCLUSION: CCK constructs were consistently associated with favourable implant survivorship across a range of clinical scenarios. These findings provide reassurance that clinically indicated use of CCK constraint is not associated with compromised implant survival. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42517199/",
+      "score": 79,
+      "score_reasoning": "Directly actionable findings on posterior tibial slope as a predictor of ACL primary repair failure in a prospective cohort, informing patient selection for a rapidly evolving surgical technique.",
+      "bullets": [
+        "In over 12,000 aseptic revision knee arthroplasty cases, condylar-constrained implants had the lowest 10-year re-revision rate at 9.2%, outperforming unconstrained, posterior-stabilized, and hinged designs.",
+        "Hinged implants carried persistently higher re-revision risk than condylar-constrained devices even after adjusting for implant-related factors, while unconstrained and posterior-stabilized implants performed comparably once those factors were accounted for.",
+        "Surgeons can use condylar-constrained implants when clinically indicated in revision knee arthroplasty without concern that higher constraint will compromise implant survival."
+      ]
+    },
+    {
+      "pmid": "42489592",
+      "title": "NSAID Use and Bone Healing: An Umbrella Review with a Reconstructed Meta-Analysis.",
+      "authors": [
+        "Komargodski R",
+        "Kittany S",
+        "Abu-Kishk I",
+        "Beeri Berkovitch R",
+        "Epstein D",
+        "Matok I"
+      ],
+      "authors_short": "Komargodski R, Kittany S, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "AIMS: Nonsteroidal anti-inflammatory drugs (NSAIDs) are widely used for perioperative analgesia, but effect on bone healing remains controversial. This umbrella review and reconstructed meta-analysis assessed whether NSAIDs impair bone healing and how risk varies by population, fracture type, dose, and duration. METHODS: We conducted an umbrella review of systematic reviews/meta-analyses and a reconstructed meta-analysis of primary studies (PRIOR/PRISMA-compliant; PubMed, EMBASE, Web of Science, and Scopus to 9 November 2025). Two reviewers independently screened, extracted, and assessed quality (AMSTAR-2) and risk of bias. Overlapping cohorts were removed, and random-effects models were applied. Prespecified subgroups included age, clinical context (traumatic vs elective procedures), bone type (long bones vs spine), dose, and exposure duration (\u226414 days). RESULTS: Sixteen reviews (10 meta-analyses, six systematic reviews) were included; most suggested that NSAIDs increase impaired bone healing risk, particularly with higher doses or prolonged use, with minimal signal for short, low-dose perioperative regimens, especially in spinal fusion. Quality was low/critically low. The meta-analysis pooled 38 primary studies. NSAID exposure was associated with higher nonunion risk (OR, 1.56, 95% CI, 1.18 to 2.11), but not clearly with delayed union (OR, 1.58, 95% CI, 0.65 to 3.67). Risk increased in adults (OR, 1.67, 95% CI, 1.25 to 2.47) but not in pediatric patients (OR 0.77, 95% CI 0.58 to 1.02), was higher in long-bone fractures than in spinal fusion, trended upward with higher doses, and was not elevated with short-term (\u226414 days) use. Risk also differed by clinical context, higher in traumatic versus elective procedures. CONCLUSIONS: NSAID-related impairment of bone healing seems dose and context-dependent, with clinically important risk particularly in adults, long-bone fractures, and higher dose regimens. Short-term use (\u226414 days) was not associated with increased nonunion risk. Risk seemed higher in traumatic fractures than in elective procedures. These findings support caution in higher risk scenarios, suggesting that short-duration NSAID use may be safe when avoiding higher dose exposure.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42489592/",
+      "score": 78,
+      "score_reasoning": "Large database study (n=975,235 TKAs) identifying modifiable preoperative risk factors for MUA including perioperative dexamethasone, with highly practical implications for TKA perioperative protocols.",
+      "bullets": [
+        "NSAIDs are associated with higher nonunion risk in adults with long-bone fractures, particularly at higher doses or with prolonged use, but this risk was not seen in children.",
+        "Short-term NSAID use of 14 days or less was not associated with increased nonunion risk, and the signal was weaker in elective procedures compared to traumatic fractures.",
+        "Clinicians can likely use short, low-dose perioperative NSAID regimens with greater confidence, but should exercise caution in adults with long-bone fractures requiring higher doses."
+      ]
+    },
+    {
+      "pmid": "42520131",
+      "title": "An International Expert Consensus Statement Defining the Best Practices and Areas of Uncertainty Concerning the Use of Orthobiologics.",
+      "authors": [
+        "Kunze KN",
+        "Morgan JT",
+        "Gerhold C",
+        "Nishioka T",
+        "Piuzzi NS",
+        "Chahla J"
+      ],
+      "authors_short": "Kunze KN, Morgan JT, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: The use of orthobiologics has received increasing interest given the potential positive treatment effects on symptoms and tissue regeneration. However, there remains substantial variability surrounding the uses of orthobiologics in clinical practice. The purpose of this study was to create an international Delphi expert consensus statement on the use of orthobiologics in musculoskeletal medicine. METHODS: A working group consisting of 6 members developed 77 initial statements for review by a 24-member panel of international experts. Surveys were conducted in 3 rounds and administered electronically to participants. Participants were asked to respond to each statement using a Likert scale of \"strongly disagree,\" \"disagree,\" \"neither disagree nor agree,\" \"agree,\" and \"strongly agree.\" The final consensus statement included those statements that achieved \u226570% agreement and <20% disagreement. Statements that did not initially achieve consensus were iteratively revised between rounds, which included the incorporation of qualifying language to reflect areas of clinical uncertainty. RESULTS: Sixty-two final statements were utilized in round 3. Each round had 100% participation. Consensus increased sequentially from 48.1% (37 of 77 statements) in round 1 to 96.8% (60 of 62 statements) in round 3. Complete consensus (\u226570% agreement and <20% disagreement) was achieved in the following categories: general orthobiologics and PRP (platelet-rich plasma) topics; PRP for knee, hip, and glenohumeral osteoarthritis; PRP for Achilles tendinopathy; PRP for lateral epicondylitis and rotator cuff tendinitis; PRP for meniscus repair augmentation; bone marrow aspirate concentrate; autologous conditioned serum; amniotic derivatives; gene therapy; exosomes; and biologic delivery methods. Some of the topics concerning PRP for rotator cuff repair augmentation and autologous cell-based therapies did not achieve consensus. CONCLUSIONS: A high degree of consensus was achieved across statements concerning appropriate use cases for various orthobiologic therapies. However, many of the adopted statements retained qualifying language, reflecting persistent areas of uncertainty in orthobiologic preparation, dosing, and indication-specific efficacy. Despite high levels of agreement across most categories, experts contended that dosing, preparation methods, and quality control remain areas of uncertainty and inconsistency that require standardization in order to allow for reproducible and meaningful treatment effects.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42520131/",
+      "score": 77,
+      "score_reasoning": "Well-designed propensity-matched prospective comparison of stemless TSA versus pyrocarbon hemiarthroplasty using IDE study data, directly informing implant selection decisions for glenohumeral OA.",
+      "bullets": [
+        "An international expert panel reached consensus that PRP has supported use cases for knee, hip, and glenohumeral osteoarthritis, Achilles tendinopathy, lateral epicondylitis, rotator cuff tendinitis, and meniscus repair augmentation.",
+        "Experts could not reach consensus on PRP for rotator cuff repair augmentation or autologous cell-based therapies, meaning these remain unsupported for routine clinical use.",
+        "Even where consensus was reached, dosing, preparation methods, and quality control are still unstandardised, so reproducible outcomes with orthopaedic biologics cannot be assured."
+      ]
+    },
+    {
+      "pmid": "42517190",
+      "title": "Author Response: Considerations and Challenges in Open Reduction With Ligamentum Teres Reconstruction for Pediatric Developmental Dysplasia of the Hip.",
+      "authors": [
+        "Klingele K",
+        "Strub D"
+      ],
+      "authors_short": "Klingele K, Strub D",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42517190/",
+      "score": 75,
+      "score_reasoning": "Large National Joint Registry study (n=12,950) with robust competing risk analysis showing CCK prostheses have superior survivorship in revision TKA, directly guiding implant constraint selection.",
+      "bullets": [
+        "Ligamentum teres reconstruction combined with open reduction is a described technique for pediatric developmental dysplasia of the hip when standard soft tissue repair is insufficient.",
+        "The approach applies to children with hip dysplasia where ligamentous deficiency contributes to instability after reduction.",
+        "Surgeons should be aware of technical challenges in ligamentum teres reconstruction and plan accordingly when stability cannot be achieved by conventional means."
+      ]
+    },
+    {
+      "pmid": "42499167",
+      "title": "Nerve Blocks for Shoulder Arthroscopy: A Systematic Review of Randomized Controlled Trials With a Network Meta-analysis.",
+      "authors": [
+        "Hurley ET",
+        "Goltz DE",
+        "Frank RM",
+        "Sethi P",
+        "Garrigues GE"
+      ],
+      "authors_short": "Hurley ET, Goltz DE, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Despite the minimally invasive nature of shoulder arthroscopy, postoperative pain can be substantial, often peaking within the first 24 hours and significantly influencing early rehabilitation, patient satisfaction, and overall outcomes. PURPOSE: To compare the analgesic efficacy of interscalene block (ISB), suprascapular block (SSB), supraclavicular block (SCB), combined block techniques, and general anesthesia (GA) alone for shoulder arthroscopy using a network meta-analysis (NMA) of randomized controlled trials (RCTs). STUDY DESIGN: Systematic review and meta-analysis; Level of evidence, 1. METHODS: A systematic review of the literature was performed based on the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines. Studies were included if they were an RCT evaluating ISB, SSB, SCB, combined block techniques, and GA. Outcomes included postoperative pain scores in the postanesthesia care unit and at 2, 6, 12, and 24 hours, as well as 24-hour opioid consumption. Mean differences with 95% confidence intervals were synthesized using a random-effects model with a common between-study variance. Treatments were ranked using P-scores and expressed as surface under the cumulative ranking curve (SUCRA) values. RESULTS: A total of 63 RCTs (4235 patients) were included. ISB consistently reduced 24-hour opioid consumption compared with other techniques (P-score = 0.775; SUCRA = 77.5%). Combined strategies demonstrated superior pain control at specific postoperative time points: SCB plus axillary nerve block (Ax) ranked highest at 2 hours (P-score = 0.735), SSB plus costoclavicular block (CCB) at 6 hours (P-score = 0.728), and SSB alone at 12 hours (P-score = 0.851). At 24 hours, SCB+Ax again ranked highest (P-score = 0.638), although differences from ISB were modest. Between-study variance (\u03c42) was moderate for pain outcomes (range, 0.85-7.93) and substantial for opioid consumption (\u03c42 = 28.16). CONCLUSION: ISB remains the most consistent technique for reducing postoperative opioid requirements after shoulder arthroscopy. Alternative strategies, including SSB alone as well as combined block approaches (eg, SCB+Ax, SSB+CCB), demonstrated incremental benefits in pain control during the early and intermediate postoperative periods.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42499167/",
+      "score": 74,
+      "score_reasoning": "Prospective consecutive series (n=545) providing the most granular data to date on neurologic complication incidence, risk factors, and natural history after ankle arthroscopy with direct surgical relevance.",
+      "bullets": [
+        "For shoulder arthroscopy, interscalene block reduces 24-hour opioid consumption more consistently than any other nerve block technique or general anesthesia alone.",
+        "Combined blocks such as supraclavicular plus axillary nerve block or suprascapular plus costoclavicular block offer modest pain advantages at specific early time points but do not clearly outperform interscalene block overall.",
+        "For patients undergoing shoulder arthroscopy where interscalene block is contraindicated, suprascapular block alone or combined block strategies are reasonable alternatives with clinically meaningful but incremental pain control benefits."
+      ]
+    },
+    {
+      "pmid": "42490135",
+      "title": "STAC3D Against the Odds: Characterizing the Musculoskeletal Phenotype of STAC3 Gene Disorder.",
+      "authors": [
+        "Adams NC",
+        "Choudhari M",
+        "Visco ZR",
+        "Vergun A",
+        "Stone J",
+        "Sanders JO",
+        "Mitchell SL"
+      ],
+      "authors_short": "Adams NC, Choudhari M, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "INTRODUCTION: STAC3 Disorder (STAC3D) is a rare genetic condition characterized by musculoskeletal abnormalities, myopathic facies, palatal anomalies, micrognathia, short stature, and an increased susceptibility to malignant hyperthermia. It was initially described in the Lumbee Native Americans of North Carolina, though it is now found globally. This study aims to characterize the musculoskeletal phenotype of STAC3D to aid in its diagnosis and clinical management. METHODS: A retrospective cohort study of STAC3D patients from 2014 to 2025 at a single institution was conducted. Patients diagnosed with STAC3D were included. Data collected included demographics, genetic testing, musculoskeletal conditions, and their management. Descriptive and comparative statistics were utilized, with rates reported as percentages and variables expressed as median and means with standard deviation. RESULTS: A total of 26 patients met the selection criteria and were included; 23 patients had musculoskeletal data available for analysis. The median age at diagnosis and time of data collection was 22 days and 4 years (25\u00a0d to 55\u00a0y), respectively (n=26). The median height and weight percentiles are 1%. In all, 83% (n=19/23) of patients had scoliosis, 48% (n=11/23) had hyperkyphosis, 61% (n=14/23) had joint contractures (8 upper extremity, 3 lower extremity, 3 unspecified), and 61% (n=14/23) had a congenital foot deformity (13 clubfoot deformities, 1 bilateral vertical talus). In all, 57% (n=13/23) of all STAC3D patients required at least one orthopaedic procedure, 78% (n=18/23) underwent at least one non-orthopaedic surgery, and 87% (n=20/23) had at least one general anesthesia event. CONCLUSION: STAC3D is associated with many musculoskeletal problems, including spinal and congenital foot deformities, joint contractures, and other less frequent pathologies. This study is the first to assess the rates of all musculoskeletal conditions in STAC3D patients. Our cohort represents the largest North American cohort and the second largest global cohort of STAC3D patients in the current literature. The results of our study aim to facilitate early diagnosis and expectation management of STAC3D. LEVEL OF EVIDENCE IV: This is a retrospective cohort study aimed at describing the musculoskeletal conditions associated with STAC3D.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42490135/",
+      "score": 74,
+      "score_reasoning": "Large retrospective cohort (n=15,394) using mixed-effects models to compare tourniquet strategies in TKA in the TXA era, providing directly applicable blood management guidance.",
+      "bullets": [
+        "STAC3 disorder causes scoliosis in 83% of patients, clubfoot in the majority of those with foot deformities, and joint contractures in 61%, making orthopaedic involvement nearly universal.",
+        "Over half of STAC3D patients required at least one orthopaedic procedure, and 87% underwent general anesthesia, which carries significant malignant hyperthermia risk in this population.",
+        "Orthopaedic surgeons encountering a child with congenital myopathy, clubfoot, scoliosis, and micrognathia should consider STAC3D and flag the anesthesia team for malignant hyperthermia precautions."
+      ]
+    },
+    {
+      "pmid": "42529847",
+      "title": "Preoperative medial-compartment osteophytes do not adversely affect the outcome of lateral unicompartmental knee arthroplasty.",
+      "authors": [
+        "Schweizer C",
+        "Krug T",
+        "Abdulai S",
+        "Herre J",
+        "Aldinger PR",
+        "Merle C",
+        "Waldstein W"
+      ],
+      "authors_short": "Schweizer C, Krug T, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: Lateral unicompartmental knee arthroplasty (UKA) is an effective treatment for isolated lateral-compartment osteoarthritis, yet detailed evidence-based indication criteria remain poorly defined. Therefore, this study evaluated the association between preoperative medial-compartment osteophytes and reoperation-free survival, implant survivorship, medial-compartment disease progression requiring reoperation, and postoperative functional outcomes following lateral UKA. METHODS: A total of 900 lateral UKAs (830 patients) performed between 2016 and 2021 with a minimum follow-up of 2 years (mean 5.1\u2009\u00b1\u20091.8 years) were retrospectively analysed. Using the OARSI (Osteoarthritis Research Society International) atlas, knee radiographs were stratified into no medial osteophytes (n\u2009=\u2009601), small osteophytes (n\u2009=\u2009180) and moderate/severe osteophytes (n\u2009=\u2009119). Kaplan-Meier survival analysis estimated 9-year survival for the endpoints reoperation, implant revision and disease progression requiring reoperation. Functional outcomes were assessed using the Oxford Knee Score (OKS) and University of California, Los Angeles (UCLA) Activity Score. RESULTS: Reoperation-free survival at 9 years was 94.2% (95% confidence interval [CI]: 91.6-96.8) for knees without osteophytes, 93.0% (95% CI: 88.5-97.5) for small osteophytes, and 91.8% (95% CI: 86.5-97.1) for moderate/severe osteophytes (p\u2009=\u20090.489). Implant survivorship was comparably high across groups (98.3%, 98.1% and 98.0%), respectively (p\u2009=\u20090.972). Medial-compartment disease progression was not associated with radiographic medial osteophyte status (97.6% [95% CI: 96.1-98.5], 98.7% [95% CI: 95.0-99.7] and 96.9% [95% CI: 93.4-98.5]; p\u2009=\u20090.616). Functional outcomes improved significantly across groups without differences between groups (OKS: p\u2009=\u20090.389; UCLA: p\u2009=\u20090.353). CONCLUSIONS: Clinically relevant medial-compartment disease progression requiring reoperation after lateral UKA is uncommon at mid-term follow-up and appears to be independent of the presence or severity of medial-compartment osteophytes. These findings suggest that medial-compartment osteophytes alone should not preclude appropriately selected patients from undergoing lateral UKA when indications are based on stress radiographs. LEVEL OF EVIDENCE: Level IV.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42529847/",
+      "score": 72,
+      "score_reasoning": "Large retrospective cohort (n=900) with Kaplan-Meier survival analysis clarifying that medial osteophytes do not contraindicate lateral UKA, directly expanding indication criteria for an underutilized procedure.",
+      "bullets": [
+        "Medial compartment osteophytes, even moderate or severe, did not reduce implant survival or increase reoperation rates after lateral unicompartmental knee arthroplasty at five years.",
+        "Medial compartment disease progression requiring reoperation was rare and occurred at the same rate regardless of preoperative osteophyte severity.",
+        "In patients with isolated lateral compartment arthritis, medial osteophytes alone should not exclude a patient from lateral unicompartmental knee arthroplasty when stress radiographs confirm appropriate indication."
+      ]
+    },
+    {
+      "pmid": "42489594",
+      "title": "Predictive Factors for Manipulations Under Anesthesia After Total Knee Arthroplasty: An Analysis of 15,139 Cases.",
+      "authors": [
+        "Iyer A",
+        "Culler M",
+        "Telang S",
+        "Palmer RC",
+        "Jones IA",
+        "Lieberman JR",
+        "Heckmann ND"
+      ],
+      "authors_short": "Iyer A, Culler M, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Limited range of motion (ROM) and arthrofibrosis are complications that affect approximately 1 to 13% of patients after primary total knee arthroplasty (TKA). Manipulation under anesthesia (MUA) is the preferred treatment when failure to achieve adequate ROM in the early postoperative period occurs. This study aims to identify predictors for MUA that may guide surgeons in preoperative risk stratification. METHODS: The Premier Healthcare Database was queried to identify patients aged 18 years or older who underwent elective total knee arthroplasty. Patients who underwent manipulation under anesthesia within 90 days of index surgery were compared with patients who did not. Demographics, comorbidities, and medication usage were compared between cohorts using chi-squared and t-tests. Akaike information criterion and Bayesian information criterion minimization was done to create an optimal mixed-effects model to identify risk factors. RESULTS: In total, 975,235 TKAs performed between 2015 and 2021 were identified. Of these, 1.55% (15,139) of patients required MUA. Patients in the MUA group were younger (62.47 \u00b1 9.19 vs. 67.03 \u00b1 9.24, P < 0.001) and more likely to be Black (15.91% vs. 8.29%, P < 0.001). Mixed-effects analysis revealed a decreased risk of MUA associated with perioperative dexamethasone (adjusted odds ratio [aOR] 0.925, 95% CI, 0.889-0.962, P < 0.001), daily prednisone usage (aOR 0.433, 95% CI, 0.347-0.542, P < 0.001), and angiotensin II receptor blockers (ARBs) (aOR 0.882, 95% CI, 0.840-0.927, P < 0.001). DISCUSSION: Younger age, female sex, and Black race were associated with an increased risk of MUA after TKA, while perioperative dexamethasone, daily steroids, and ARB use were protective. These findings may serve to aid surgeons in preoperative risk stratification.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42489594/",
+      "score": 72,
+      "score_reasoning": "Large database study (n=71,084) comparing complication profiles of kyphoplasty across care settings, highly relevant as office-based procedures increase and directly informing site-of-service decisions.",
+      "bullets": [
+        "In a review of over 975,000 TKAs, 1.55% required manipulation under anesthesia within 90 days, with younger patients, female sex, and Black race carrying higher risk.",
+        "Perioperative dexamethasone, chronic daily prednisone, and angiotensin II receptor blocker use were each independently associated with a lower rate of manipulation under anesthesia.",
+        "Surgeons can use these factors preoperatively to identify high-risk TKA patients who may benefit from closer early postoperative range of motion monitoring."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-07-30T04:51:34.365472-07:00"
+}
