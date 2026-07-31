@@ -1,0 +1,283 @@
+{
+  "brief_date": "2026-07-31",
+  "brief_date_display": "Friday, July 31",
+  "candidates": [
+    {
+      "pmid": "42520993",
+      "title": "Safety of Ketorolac in Primary Total Hip Arthroplasties: An Analysis of over 7,000 Cases.",
+      "authors": [
+        "Meissner N",
+        "Bonakdarhashemi M",
+        "Leung N",
+        "Duncan CM",
+        "Mabry TM",
+        "Taunton MJ",
+        "Hannon CP",
+        "Abdel MP"
+      ],
+      "authors_short": "Meissner N, Bonakdarhashemi M, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Ketorolac is commonly utilized perioperatively in primary total hip arthroplasty (THA), either intravenously (IV) or via periarticular infiltration analgesia (PAI). While effective for pain control, concerns remain regarding its potential to cause acute kidney injury (AKI), particularly in patients who have chronic kidney disease (CKD). This study evaluated the association between perioperative ketorolac administration and postoperative AKI, stratified by baseline renal function and administration route. METHODS: We retrospectively analyzed 7,211 inpatient THAs performed between 2011 and 2021. An AKI was defined according to Kidney Disease: Improving Global Outcomes (KDIGO) criteria. Multivariable logistic regressions evaluated the association between perioperative ketorolac administration and in-hospital AKI, adjusting for demographic and clinical covariates. Subgroup analyses were conducted for patients who had (15%) and did not have (85%) preexisting CKD. Ketorolac was administered perioperatively in 35% of cases (25% periarticular infiltration analgesia, 7% intravenously, and 3% both) with a median cumulative dose of 30 mg (range, 15 to 90 mg). The mean age was 66 years, mean body mass index (BMI) 31 and 51% were women. RESULTS: An AKI occurred in 3.4% of cases. Ketorolac use was not associated with increased AKI risk (odds ratio (OR) 0.8; P = 0.08), regardless of administration route (all OR less than 1; all P > 0.05). Chronic kidney disease was an independent risk factor for the development of AKI (OR 4.1; P < 0.001). In patients who did not have CKD, ketorolac use was associated with a decreased risk of AKI (OR 0.6; P = 0.03) and not associated with an increased or decreased risk in those who have CKD (OR 1.1; P = 0.80). Additional independent risk factors for AKI included intraoperative transfusion (OR 4.4; P < 0.001), new-onset atrial fibrillation (OR 3; P < 0.001), history of hypertension (OR 2.2; P < 0.001), men (OR 1.4; P = 0.047), and elevated BMI (OR 1.04 per unit increase, P < 0.001). CONCLUSIONS: Perioperative ketorolac use does not elevate the postoperative AKI risk, regardless of administration route. Risk factors for AKI include preexisting CKD, men, elevated BMI, need for intraoperative transfusion, and history of hypertension.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42520993/",
+      "score": 82,
+      "score_reasoning": "High-quality RCT (n=140) directly addressing a common clinical question about regional anesthesia in TKA with practical implications for perioperative pain management protocols.",
+      "bullets": [
+        "In over 7,000 primary total hip arthroplasty cases, perioperative ketorolac did not increase the risk of acute kidney injury regardless of whether it was given intravenously or via periarticular injection.",
+        "Patients without chronic kidney disease who received ketorolac actually had a lower rate of acute kidney injury, while those with chronic kidney disease showed no increased risk from ketorolac.",
+        "The strongest predictors of postoperative acute kidney injury were preexisting chronic kidney disease, intraoperative transfusion, new-onset atrial fibrillation, hypertension, male sex, and elevated BMI, not ketorolac use."
+      ]
+    },
+    {
+      "pmid": "42499167",
+      "title": "Nerve Blocks for Shoulder Arthroscopy: A Systematic Review of Randomized Controlled Trials With a Network Meta-analysis.",
+      "authors": [
+        "Hurley ET",
+        "Goltz DE",
+        "Frank RM",
+        "Sethi P",
+        "Garrigues GE"
+      ],
+      "authors_short": "Hurley ET, Goltz DE, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Despite the minimally invasive nature of shoulder arthroscopy, postoperative pain can be substantial, often peaking within the first 24 hours and significantly influencing early rehabilitation, patient satisfaction, and overall outcomes. PURPOSE: To compare the analgesic efficacy of interscalene block (ISB), suprascapular block (SSB), supraclavicular block (SCB), combined block techniques, and general anesthesia (GA) alone for shoulder arthroscopy using a network meta-analysis (NMA) of randomized controlled trials (RCTs). STUDY DESIGN: Systematic review and meta-analysis; Level of evidence, 1. METHODS: A systematic review of the literature was performed based on the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines. Studies were included if they were an RCT evaluating ISB, SSB, SCB, combined block techniques, and GA. Outcomes included postoperative pain scores in the postanesthesia care unit and at 2, 6, 12, and 24 hours, as well as 24-hour opioid consumption. Mean differences with 95% confidence intervals were synthesized using a random-effects model with a common between-study variance. Treatments were ranked using P-scores and expressed as surface under the cumulative ranking curve (SUCRA) values. RESULTS: A total of 63 RCTs (4235 patients) were included. ISB consistently reduced 24-hour opioid consumption compared with other techniques (P-score = 0.775; SUCRA = 77.5%). Combined strategies demonstrated superior pain control at specific postoperative time points: SCB plus axillary nerve block (Ax) ranked highest at 2 hours (P-score = 0.735), SSB plus costoclavicular block (CCB) at 6 hours (P-score = 0.728), and SSB alone at 12 hours (P-score = 0.851). At 24 hours, SCB+Ax again ranked highest (P-score = 0.638), although differences from ISB were modest. Between-study variance (\u03c42) was moderate for pain outcomes (range, 0.85-7.93) and substantial for opioid consumption (\u03c42 = 28.16). CONCLUSION: ISB remains the most consistent technique for reducing postoperative opioid requirements after shoulder arthroscopy. Alternative strategies, including SSB alone as well as combined block approaches (eg, SCB+Ax, SSB+CCB), demonstrated incremental benefits in pain control during the early and intermediate postoperative periods.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42499167/",
+      "score": 78,
+      "score_reasoning": "Large consecutive series (n=545) providing clinically actionable data on neurologic complication incidence, risk factors, and natural history after ankle arthroscopy with direct patient counseling relevance.",
+      "bullets": [
+        "Interscalene block reduces 24-hour opioid consumption more consistently than any other nerve block technique after shoulder arthroscopy.",
+        "Combined blocks such as supraclavicular plus axillary nerve block or suprascapular plus costoclavicular block offer modest pain control advantages at specific early postoperative time points.",
+        "For surgeons managing post-arthroscopy analgesia, interscalene block remains the standard, but combined regional techniques are reasonable alternatives when phrenic nerve palsy is a concern."
+      ]
+    },
+    {
+      "pmid": "42520992",
+      "title": "Preoperative Methicillin-Resistant Staphylococcus aureus Colonization and Risk of Periprosthetic Joint Infection after Total Joint Arthroplasty: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Javidmehr S",
+        "Javad Mortazavi SM",
+        "Rastegar M",
+        "Moradi M",
+        "Ebrahimian M",
+        "Siavashi B"
+      ],
+      "authors_short": "Javidmehr S, Javad Mortazavi SM, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Although preoperative screening and decolonization of methicillin-resistant Staphylococcus aureus (MRSA) reduce the risk of periprosthetic joint infection (PJI) and surgical site infections (SSI) after total joint arthroplasty (TJA), the residual infection risk in MRSA-colonized patients who undergo decolonization remains debated. This systematic review investigated the association between preoperative MRSA colonization and the risk of PJI and SSI after TJA. METHODS: In accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, PubMed/Medline, Embase, Scopus, and Web of Science databases were searched until October 24, 2025. Studies examining the association of preoperative MRSA colonization with PJI and SSI risk after TJA were included. Patients were classified as MRSA positive (MRSA+) or MRSA negative (MRSA-) based on preoperative screening. All MRSA+ patients who underwent decolonization protocols. Random-effects meta-analysis was performed. Heterogeneity was assessed using I2 statistics, and meta-regression identified associated variables. There were 15 studies involving 318,487 patients (4,560 MRSA+ and 313,927 MRSA-) included. RESULTS: Despite decolonization, MRSA+ colonization was associated with increased risk of PJI (OR [odds ratio]: 2.42, 95% CI [confidence interval]: 1.35 to 3.49; I2: 75%, P < 0.001) and SSI (OR: 2.54, 95% CI: 1.86 to 3.21; I2: 50.1%, P < 0.001) after TJA. Subgroup analyses showed stronger associations with longer follow-up periods (greater than 12 months: OR 3.01 versus \u2264 12 months: OR 2.00 for PJI; P = 0.05 for interaction). CONCLUSIONS: Preoperative MRSA+ colonization, despite standard decolonization protocols, may still be associated with an increased risk of PJI and SSI after TJA. The methicillin-resistant staphylococcus aureus + ( MRSA+) patients require enhanced antimicrobial prophylaxis strategies, extended surveillance, and multidisciplinary management. These findings support universal MRSA screening but emphasize that decolonization alone may not normalize infection risk to that of MRSA- patients.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42520992/",
+      "score": 77,
+      "score_reasoning": "Large retrospective cohort (n=7,211) addressing a high-stakes perioperative safety question about ketorolac and AKI in THA patients with CKD, with immediately applicable findings.",
+      "bullets": [
+        "In over 318,000 total joint arthroplasty patients, preoperative MRSA colonization more than doubled the risk of periprosthetic joint infection and surgical site infection even after standard decolonization.",
+        "This applies to any patient undergoing total hip or knee arthroplasty who screens MRSA positive before surgery.",
+        "Decolonization alone does not normalize infection risk, so MRSA-positive arthroplasty patients warrant enhanced prophylaxis, closer postoperative surveillance, and multidisciplinary infectious disease involvement."
+      ]
+    },
+    {
+      "pmid": "42489589",
+      "title": "American Academy of Orthopaedic Surgeons Appropriate Use Criteria: Case Studies on Treatment of Mid-shaft Clavicle Fractures.",
+      "authors": [
+        "Baxi O",
+        "Lack WD",
+        "Ellis HB"
+      ],
+      "authors_short": "Baxi O, Lack WD, Ellis HB",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "Mid-shaft clavicle fractures in the adult and postpubescent adolescent population are a common injury treated by orthopaedic surgeons. This injury has a notable burden of disease due to its prevalence, effect on the patient, and effect on the society through cost of treatment and time lost from social activity. Determining surgical and nonsurgical care for a clavicle fracture can represent a clinical challenge. To assist clinicians with this treatment decision, the American Academy of Orthopaedic Surgeons has developed and adopted an appropriate use criteria to recommend nonsurgical and surgical treatment based on a variety of patient and injury characteristics. These criteria are available online and through phone-based applications. This article aims to illustrate how the criteria may be applied in clinical practice.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42489589/",
+      "score": 75,
+      "score_reasoning": "Umbrella review with reconstructed meta-analysis addressing the widely debated NSAID-bone healing question with clinically actionable subgroup data on dose, duration, and fracture type.",
+      "bullets": [
+        "The AAOS has published appropriate use criteria to guide surgical versus nonsurgical treatment decisions for mid-shaft clavicle fractures in adults and postpubescent adolescents.",
+        "Treatment decisions are based on specific patient and injury characteristics, and the criteria are accessible online and via mobile apps.",
+        "Orthopaedic surgeons managing clavicle fractures now have a standardized, evidence-backed reference tool to support individualized treatment planning."
+      ]
+    },
+    {
+      "pmid": "42490135",
+      "title": "STAC3D Against the Odds: Characterizing the Musculoskeletal Phenotype of STAC3 Gene Disorder.",
+      "authors": [
+        "Adams NC",
+        "Choudhari M",
+        "Visco ZR",
+        "Vergun A",
+        "Stone J",
+        "Sanders JO",
+        "Mitchell SL"
+      ],
+      "authors_short": "Adams NC, Choudhari M, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "INTRODUCTION: STAC3 Disorder (STAC3D) is a rare genetic condition characterized by musculoskeletal abnormalities, myopathic facies, palatal anomalies, micrognathia, short stature, and an increased susceptibility to malignant hyperthermia. It was initially described in the Lumbee Native Americans of North Carolina, though it is now found globally. This study aims to characterize the musculoskeletal phenotype of STAC3D to aid in its diagnosis and clinical management. METHODS: A retrospective cohort study of STAC3D patients from 2014 to 2025 at a single institution was conducted. Patients diagnosed with STAC3D were included. Data collected included demographics, genetic testing, musculoskeletal conditions, and their management. Descriptive and comparative statistics were utilized, with rates reported as percentages and variables expressed as median and means with standard deviation. RESULTS: A total of 26 patients met the selection criteria and were included; 23 patients had musculoskeletal data available for analysis. The median age at diagnosis and time of data collection was 22 days and 4 years (25\u00a0d to 55\u00a0y), respectively (n=26). The median height and weight percentiles are 1%. In all, 83% (n=19/23) of patients had scoliosis, 48% (n=11/23) had hyperkyphosis, 61% (n=14/23) had joint contractures (8 upper extremity, 3 lower extremity, 3 unspecified), and 61% (n=14/23) had a congenital foot deformity (13 clubfoot deformities, 1 bilateral vertical talus). In all, 57% (n=13/23) of all STAC3D patients required at least one orthopaedic procedure, 78% (n=18/23) underwent at least one non-orthopaedic surgery, and 87% (n=20/23) had at least one general anesthesia event. CONCLUSION: STAC3D is associated with many musculoskeletal problems, including spinal and congenital foot deformities, joint contractures, and other less frequent pathologies. This study is the first to assess the rates of all musculoskeletal conditions in STAC3D patients. Our cohort represents the largest North American cohort and the second largest global cohort of STAC3D patients in the current literature. The results of our study aim to facilitate early diagnosis and expectation management of STAC3D. LEVEL OF EVIDENCE IV: This is a retrospective cohort study aimed at describing the musculoskeletal conditions associated with STAC3D.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42490135/",
+      "score": 74,
+      "score_reasoning": "Very large retrospective cohort (n=15,394) comparing four tourniquet strategies in TKA in the TXA era, providing high-powered evidence for a commonly debated intraoperative decision.",
+      "bullets": [
+        "STAC3 disorder causes scoliosis in 83% of patients, clubfoot in over half, and joint contractures in 61%, making orthopaedic involvement nearly universal in this condition.",
+        "Over half of affected patients required at least one orthopaedic procedure, and 87% needed general anaesthesia, which carries serious malignant hyperthermia risk in this population.",
+        "Any child with congenital myopathy features, clubfoot, and early spinal deformity should prompt consideration of STAC3 disorder so the anaesthesia team can be alerted before the first procedure."
+      ]
+    },
+    {
+      "pmid": "42489592",
+      "title": "NSAID Use and Bone Healing: An Umbrella Review with a Reconstructed Meta-Analysis.",
+      "authors": [
+        "Komargodski R",
+        "Kittany S",
+        "Abu-Kishk I",
+        "Beeri Berkovitch R",
+        "Epstein D",
+        "Matok I"
+      ],
+      "authors_short": "Komargodski R, Kittany S, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "AIMS: Nonsteroidal anti-inflammatory drugs (NSAIDs) are widely used for perioperative analgesia, but effect on bone healing remains controversial. This umbrella review and reconstructed meta-analysis assessed whether NSAIDs impair bone healing and how risk varies by population, fracture type, dose, and duration. METHODS: We conducted an umbrella review of systematic reviews/meta-analyses and a reconstructed meta-analysis of primary studies (PRIOR/PRISMA-compliant; PubMed, EMBASE, Web of Science, and Scopus to 9 November 2025). Two reviewers independently screened, extracted, and assessed quality (AMSTAR-2) and risk of bias. Overlapping cohorts were removed, and random-effects models were applied. Prespecified subgroups included age, clinical context (traumatic vs elective procedures), bone type (long bones vs spine), dose, and exposure duration (\u226414 days). RESULTS: Sixteen reviews (10 meta-analyses, six systematic reviews) were included; most suggested that NSAIDs increase impaired bone healing risk, particularly with higher doses or prolonged use, with minimal signal for short, low-dose perioperative regimens, especially in spinal fusion. Quality was low/critically low. The meta-analysis pooled 38 primary studies. NSAID exposure was associated with higher nonunion risk (OR, 1.56, 95% CI, 1.18 to 2.11), but not clearly with delayed union (OR, 1.58, 95% CI, 0.65 to 3.67). Risk increased in adults (OR, 1.67, 95% CI, 1.25 to 2.47) but not in pediatric patients (OR 0.77, 95% CI 0.58 to 1.02), was higher in long-bone fractures than in spinal fusion, trended upward with higher doses, and was not elevated with short-term (\u226414 days) use. Risk also differed by clinical context, higher in traumatic versus elective procedures. CONCLUSIONS: NSAID-related impairment of bone healing seems dose and context-dependent, with clinically important risk particularly in adults, long-bone fractures, and higher dose regimens. Short-term use (\u226414 days) was not associated with increased nonunion risk. Risk seemed higher in traumatic fractures than in elective procedures. These findings support caution in higher risk scenarios, suggesting that short-duration NSAID use may be safe when avoiding higher dose exposure.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42489592/",
+      "score": 73,
+      "score_reasoning": "Large database study (n=975,235 TKAs) identifying preoperative predictors of MUA including dexamethasone as protective, offering immediately actionable risk stratification and prevention strategies.",
+      "bullets": [
+        "NSAIDs given for 14 days or less at low doses were not associated with increased nonunion risk in this pooled analysis of 38 studies.",
+        "Nonunion risk was elevated in adults with long-bone fractures and traumatic injuries, but not in paediatric patients or those undergoing elective spinal procedures.",
+        "Higher doses and longer NSAID courses carry the clearest bone healing risk, so short perioperative courses appear safe but caution is warranted in adult trauma patients."
+      ]
+    },
+    {
+      "pmid": "42517190",
+      "title": "Author Response: Considerations and Challenges in Open Reduction With Ligamentum Teres Reconstruction for Pediatric Developmental Dysplasia of the Hip.",
+      "authors": [
+        "Klingele K",
+        "Strub D"
+      ],
+      "authors_short": "Klingele K, Strub D",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42517190/",
+      "score": 73,
+      "score_reasoning": "Large National Joint Registry study (n=12,950) providing robust evidence that CCK prostheses have the lowest re-revision rates in aseptic revision TKA, directly informing implant selection.",
+      "bullets": [
+        "Ligamentum teres reconstruction combined with open reduction is a described technique for pediatric developmental dysplasia of the hip when standard soft tissue stabilizers are insufficient.",
+        "This approach targets children with hip dysplasia where traditional open reduction alone may not provide adequate joint stability.",
+        "Surgeons considering this technique should weigh the added complexity of ligamentum teres reconstruction against the potential benefit of improved hip stability in select cases."
+      ]
+    },
+    {
+      "pmid": "42498277",
+      "title": "For Love, Money, or Country: What Is the Return on Investment of Orthopaedic Fellowship, Academic, and Military Pathways?",
+      "authors": [
+        "Jhand AS",
+        "Elnaggar A",
+        "Almaat A",
+        "Brown M",
+        "Mehaidli A",
+        "Nicholson T",
+        "Andrews E"
+      ],
+      "authors_short": "Jhand AS, Elnaggar A, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: More than 90% of graduating orthopaedic residents pursue fellowship, although prior return-on-investment analyses show limited financial advantage. Contemporary compensation, evolving loan policies, and military-funded education may alter these outcomes, yet no prior analysis of which we are aware has integrated contemporary subspecialty compensation, academic versus nonacademic practice, and military-funded education into a single career-long financial model, leaving trainees and advisors without an up-to-date estimate of what each pathway costs or returns. QUESTIONS/PURPOSES: (1) What is the lifetime net present value (NPV) and internal rate of return (IRR) of orthopaedic subspecialty fellowship training relative to nonacademic general orthopaedic practice, both with and without adjustment for work hours? (2) What is the lifetime financial impact of military-funded medical education pathways (Health Professions Scholarship Program [HPSP] and Uniformed Services University of the Health Sciences [USUHS]) relative to civilian general orthopaedic practice? (3) What is the lifetime financial impact of academic practice relative to nonacademic practice across orthopaedic subspecialties? METHODS: A cross-sectional economic model was developed using 2025 compensation data from the American Medical Group Association, Association of American Medical Colleges, and Defense Finance and Accounting Service. We calculated the NPV (the difference in lifetime earnings between a pathway and nonacademic general orthopaedic practice in today's dollars) and the IRR (the effective annual return a pathway earns on the income given up to pursue it) over a 34-year career. Because a dollar today is worth more than a dollar in the future, future earnings were discounted at 5% annually; to confirm that our conclusions did not depend on this assumption, we repeated all calculations at 7.5% and 10% (sensitivity analyses). Fellowship opportunity cost was defined as the general orthopaedic income given up during the additional training year minus the fellowship stipend. Military pathways incorporated in-training compensation and each program's active-duty service obligation, with the model assuming a 4-year (HPSP) or 7-year (USUHS) military career followed by separation to civilian practice. Matched retirement contributions under the Blended Retirement System were evaluated but not included in the primary model because analogous civilian retirement benefits were also excluded; nonmonetary aspects of military service, such as time away from family and risk to life and limb, cannot be credibly expressed in dollars and were not modeled. As subspecialists report longer workweeks than generalists, subspecialty earnings were also normalized to generalist-equivalent work hours (approximately 48 hours per week for generalists versus 54 for subspecialists, according to the American Academy of Orthopaedic Surgeons census), allowing comparison on a per hour basis. RESULTS: At a 5% discount rate, spine surgery was the only subspecialty with a positive lifetime NPV, achieving break-even 6 years after fellowship. Joint replacement and trauma demonstrated IRRs of 2.6% and 1.2%, respectively; because these fall below the 5% discount rate, the income given up during fellowship would have grown more if simply invested, making them financially unfavorable despite higher eventual earnings. All other subspecialties yielded negative NPVs, that is, less lifetime earning, in today's dollars than general orthopaedic practice. After work-hours adjustment, all subspecialties (including spine surgery) demonstrated negative NPVs, so on a per hour basis no fellowship pathway out-earned general orthopaedic practice. Relative to civilian general orthopaedic practice, and regardless of subsequent subspecialty choice, military-funded education was associated with lifetime NPV reductions of approximately USD 1.7 million for HPSP and USD 3.0 million for USUHS. Academic practice demonstrated a lower lifetime NPV than nonacademic practice across all subspecialties, with the largest reduction (approximately USD 2.4 million) in trauma. As all model inputs were national mean (or fixed military) figures rather than individual-level data, confidence intervals could not be calculated; sensitivity analyses at higher discount rates served as the robustness test and left these findings unchanged. CONCLUSION: Under contemporary compensation conditions, spine surgery remains the only subspecialty with a positive financial return relative to general orthopaedic practice; most fellowship, academic, and military-funded pathways carry measurable long-term financial trade-offs. Medical schools and residency programs should present career-long earnings comparisons alongside the nonfinancial rewards of each pathway, and trainees may be best served by choosing fellowships based on clinical interest, lifestyle, and job-market realities rather than expected financial gain. LEVEL OF EVIDENCE: Level III, economic and decision analysis.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42498277/",
+      "score": 72,
+      "score_reasoning": "Network meta-analysis of 63 RCTs (n=4,235) providing highest-level evidence comparing nerve block techniques for shoulder arthroscopy with direct anesthesia protocol implications.",
+      "bullets": [
+        "Spine surgery is the only orthopaedic fellowship that returns more lifetime earnings than general orthopaedic practice, breaking even 6 years after training, and even spine loses its advantage when earnings are adjusted for longer work hours.",
+        "Military-funded medical education through HPSP or USUHS is associated with lifetime earnings reductions of approximately 1.7 million and 3.0 million dollars respectively compared to civilian general orthopaedic practice.",
+        "Trainees choosing between fellowship, academic, and military pathways should base that decision on clinical interest and lifestyle rather than financial return, as most pathways carry a measurable long-term earnings trade-off."
+      ]
+    },
+    {
+      "pmid": "42520130",
+      "title": "Who Owns Arthroplasty Data?: Governance in the Era of Robotics, Registries, and Industry Partnerships.",
+      "authors": [
+        "Siddiqi A",
+        "Jacob PB",
+        "Yousuf KM"
+      ],
+      "authors_short": "Siddiqi A, Jacob PB, Yousuf KM",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "Robotic platforms, proprietary registries, and advanced analytics have transformed total joint arthroplasty into a data-intensive subspecialty. Contemporary procedures generate granular operative metrics that are increasingly linked to longitudinal outcomes, benchmarking systems, predictive analytics, and artificial intelligence algorithm development. Yet governance structures defining analytic access, publication rights, secondary data use, and transparency to patients remain incompletely articulated. Surgeons generate operative data, but vendors frequently warehouse and structure these data sets within proprietary ecosystems, while registry governance and contractual agreements may influence analytic access and dissemination. These challenges extend beyond privacy concerns. Arthroplasty data sets increasingly inform quality measurement, reimbursement models, public reporting, and future algorithm development. Without clear governance standards, control over data stewardship, analytic framing, and scientific dissemination may progressively shift away from practicing surgeons and patients. This Viewpoint article examines emerging governance-related challenges within arthroplasty data ecosystems and proposes a framework centered on transparency to patients, data portability, publication protections, and independent oversight. The goal is not to impede innovation, but to ensure that the expanding digital architecture of arthroplasty evolves within transparent, ethically grounded, and academically independent governance structures.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42520130/",
+      "score": 71,
+      "score_reasoning": "International Delphi consensus on orthobiologics from JBJS with broad subspecialty relevance, providing practical guidance for a rapidly growing and variable area of clinical practice.",
+      "bullets": [
+        "Robotic platforms and industry registries routinely capture detailed operative data from total joint arthroplasty, but surgeons and patients have limited defined rights over how that data is used or published.",
+        "Vendor-controlled data ecosystems can influence quality benchmarking, reimbursement decisions, and AI algorithm development, shifting data stewardship away from the surgeons and patients who generate it.",
+        "Arthroplasty surgeons should push for contracts and registry agreements that include explicit data portability rights, independent oversight, and protected publication access before adopting new platforms."
+      ]
+    },
+    {
+      "pmid": "42529843",
+      "title": "Equivalent accuracy of image-based and imageless robotic platforms in achieving planned femoral rotation in primary total knee arthroplasty: A CT-based study.",
+      "authors": [
+        "Mancino F",
+        "Fernandez I",
+        "Parker DA",
+        "Fritsch BA"
+      ],
+      "authors_short": "Mancino F, Fernandez I, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: Robotic-assisted total knee arthroplasty (TKA) is increasingly adopted worldwide, yet comparative data on the rotational accuracy of image-based and imageless platforms remain limited. The aim of this study was to compare the accuracy of image-based and imageless robotic platforms in achieving planned femoral rotation in primary TKA. We hypothesized that the two platforms would be equivalent, with any difference within \u00b11\u00b0. METHODS: This single-surgeon retrospective cohort study included patients undergoing image-based and imageless robotic-assisted TKA for primary osteoarthritis. All patients underwent pre- and postoperative computed tomography (CT) scans. Native femoral rotation was defined using the transepicondylar axis (TEA)-posterior condylar axis (PCA) angle. Femoral rotation was planned intraoperatively relative to the PCA, and postoperative TEA-PCA was measured on CT. Accuracy was defined as the absolute difference between achieved and intended rotation. Measurements were independently performed by two blinded fellowship-trained knee surgeons. Statistical analysis included two one-sided tests (TOST) equivalence testing and analysis of covariance (ANCOVA). Significance was set at p\u2009<\u20090.05. RESULTS: A total of 150 TKAs were included (imageless 79, image-based 71). Patients in the image-based group were younger (67.7 vs. 71.3 years, p\u2009=\u20090.007), with no other baseline differences. The mean rotational error was 1.3\u2009\u00b1\u20091.0\u00b0 for imageless and 1.2\u2009\u00b1\u20091.2\u00b0 for image-based TKA (p\u2009=\u20090.346; effect size -0.09). Equivalence testing confirmed statistical equivalence, with the 90% confidence interval (-0.23 to 0.31) lying within the predefined \u00b11\u00b0 margin (p\u2009<\u20090.01). ANCOVA demonstrated a small adjusted difference of 0.51\u00b0 (p\u2009=\u20090.045), with minimal explained variance (adjusted R2\u2009=\u20090.01). Intra-observer reliability was excellent (intraclass correlation coefficient [ICC] 0.91), while inter-observer reliability was good (ICC 0.82). No differences were observed in patient-reported outcomes, except lower pain scores in the image-based group at 12 months. CONCLUSION: Image-based and imageless robotic platforms demonstrated equivalent accuracy in achieving planned femoral rotation in primary TKA. Any observed differences were not clinically meaningful. LEVEL OF EVIDENCE: Level III, retrospective comparative cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42529843/",
+      "score": 70,
+      "score_reasoning": "Large cohort (n=900) with 5-year follow-up clarifying that medial osteophytes do not adversely affect lateral UKA survival, directly expanding appropriate use criteria for this procedure.",
+      "bullets": [
+        "Both image-based and imageless robotic platforms achieved planned femoral rotation to within roughly 1.2 to 1.3 degrees in primary TKA, with no clinically meaningful difference between systems.",
+        "This applies to patients undergoing robotic-assisted TKA for primary osteoarthritis, regardless of whether the surgeon uses a CT-based or imageless workflow.",
+        "Surgeons can choose either robotic platform without sacrificing femoral rotational accuracy, so platform selection can reasonably be guided by cost, workflow preference, or institutional factors."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-07-31T04:58:07.240877-07:00"
+}
