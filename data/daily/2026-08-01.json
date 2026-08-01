@@ -1,0 +1,290 @@
+{
+  "brief_date": "2026-08-01",
+  "brief_date_display": "Saturday, August 01",
+  "candidates": [
+    {
+      "pmid": "42520994",
+      "title": "Periarticular Injection Alone Provides Comparable Early Recovery to Combined Adductor Canal and Infiltration between the Popliteal Artery and Capsule of the Knee Blocks Following Total Knee Arthroplasty: A Prospective Randomized Trial.",
+      "authors": [
+        "Schneider AM",
+        "Granger C",
+        "King J",
+        "Riegler V",
+        "Bartosiak KA",
+        "Bendich I",
+        "Barrack RL"
+      ],
+      "authors_short": "Schneider AM, Granger C, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: The relative effectiveness of commonly used regional anesthesia techniques, including adductor canal block (ACB) and infiltration between the popliteal artery and capsule of the knee (IPACK), compared with periarticular injection (PAI) alone in total knee arthroplasty (TKA) remains unclear. MATERIALS AND METHODS: In this prospective, randomized, patient-blinded trial, 140 patients undergoing primary TKA were randomized to receive either preoperative regional blocks (ACB plus IPACK) combined with intraoperative PAI (n = 70) or intraoperative PAI alone (n = 70). All patients received an identical total dose and composition of local anesthetic (80 mL of 0.25% bupivacaine with epinephrine and 30 mg ketorolac). Daily remote patient monitoring was performed for two weeks preoperatively and two weeks postoperatively to assess visual analog scale (VAS) pain scores, opioid consumption (morphine milligram equivalents [MME]), Oxford Knee Scores (OKS), step counts, and patient satisfaction. Linear mixed models and appropriate comparative tests were used for analysis. An a priori power analysis determined that 70 patients per group were required to detect a VAS pain difference of greater than 1.0. RESULTS: Pain scores peaked on postoperative day three in both groups and declined thereafter. The PAI-only group reported slightly lower VAS pain on postoperative day 1 (3.3 versus 3.9; mean difference -0.6; P = 0.025), although this difference did not meet the threshold for clinical significance; no other between-group differences were observed. Opioid consumption, OKS, step counts, and patient satisfaction with pain control, activity level, and range of motion were similar between groups throughout the study period. DISCUSSION: In patients undergoing primary TKA, intraoperative PAI alone produced outcomes comparable to combined ACB plus IPACK and PAI through the first fourteen postoperative days. These Level I findings, captured using high-frequency remote patient monitoring, suggest that routine use of multiple regional blocks may not provide clinically meaningful additional benefit within contemporary multimodal pathways.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42520994/",
+      "score": 78,
+      "score_reasoning": "Prospective RCT in Journal of Arthroplasty comparing PAI alone versus ACB+IPACK for TKA with 140 patients provides directly actionable pain management guidance for arthroplasty surgeons.",
+      "bullets": [
+        "In a randomized trial of 140 primary TKA patients, periarticular injection alone produced pain scores, opioid use, step counts, and function equivalent to combined adductor canal block plus IPACK over the first two postoperative weeks.",
+        "The only between-group difference was a 0.6-point lower pain score on day one in the PAI-only group, which did not reach the predefined threshold for clinical significance.",
+        "For surgeons performing primary TKA within a multimodal pain protocol, adding routine nerve blocks to periarticular injection may not provide meaningful benefit and could be reconsidered."
+      ]
+    },
+    {
+      "pmid": "42520992",
+      "title": "Preoperative Methicillin-Resistant Staphylococcus aureus Colonization and Risk of Periprosthetic Joint Infection after Total Joint Arthroplasty: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Javidmehr S",
+        "Javad Mortazavi SM",
+        "Rastegar M",
+        "Moradi M",
+        "Ebrahimian M",
+        "Siavashi B"
+      ],
+      "authors_short": "Javidmehr S, Javad Mortazavi SM, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Although preoperative screening and decolonization of methicillin-resistant Staphylococcus aureus (MRSA) reduce the risk of periprosthetic joint infection (PJI) and surgical site infections (SSI) after total joint arthroplasty (TJA), the residual infection risk in MRSA-colonized patients who undergo decolonization remains debated. This systematic review investigated the association between preoperative MRSA colonization and the risk of PJI and SSI after TJA. METHODS: In accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, PubMed/Medline, Embase, Scopus, and Web of Science databases were searched until October 24, 2025. Studies examining the association of preoperative MRSA colonization with PJI and SSI risk after TJA were included. Patients were classified as MRSA positive (MRSA+) or MRSA negative (MRSA-) based on preoperative screening. All MRSA+ patients who underwent decolonization protocols. Random-effects meta-analysis was performed. Heterogeneity was assessed using I2 statistics, and meta-regression identified associated variables. There were 15 studies involving 318,487 patients (4,560 MRSA+ and 313,927 MRSA-) included. RESULTS: Despite decolonization, MRSA+ colonization was associated with increased risk of PJI (OR [odds ratio]: 2.42, 95% CI [confidence interval]: 1.35 to 3.49; I2: 75%, P < 0.001) and SSI (OR: 2.54, 95% CI: 1.86 to 3.21; I2: 50.1%, P < 0.001) after TJA. Subgroup analyses showed stronger associations with longer follow-up periods (greater than 12 months: OR 3.01 versus \u2264 12 months: OR 2.00 for PJI; P = 0.05 for interaction). CONCLUSIONS: Preoperative MRSA+ colonization, despite standard decolonization protocols, may still be associated with an increased risk of PJI and SSI after TJA. The methicillin-resistant staphylococcus aureus + ( MRSA+) patients require enhanced antimicrobial prophylaxis strategies, extended surveillance, and multidisciplinary management. These findings support universal MRSA screening but emphasize that decolonization alone may not normalize infection risk to that of MRSA- patients.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42520992/",
+      "score": 76,
+      "score_reasoning": "Large retrospective study of 15,394 TKAs examining tourniquet strategies and blood conservation offers high-volume, directly applicable perioperative data for knee arthroplasty surgeons.",
+      "bullets": [
+        "In over 318,000 total joint arthroplasty patients, preoperative MRSA colonization doubled the risk of periprosthetic joint infection and surgical site infection even after completed decolonization protocols.",
+        "The elevated infection risk applies to any total hip or knee arthroplasty patient who screens MRSA positive preoperatively, and the risk grows larger beyond 12 months of follow-up.",
+        "Decolonization alone does not normalize infection risk in MRSA-positive patients, so these patients warrant enhanced prophylaxis, closer postoperative surveillance, and multidisciplinary infectious disease involvement."
+      ]
+    },
+    {
+      "pmid": "42499167",
+      "title": "Nerve Blocks for Shoulder Arthroscopy: A Systematic Review of Randomized Controlled Trials With a Network Meta-analysis.",
+      "authors": [
+        "Hurley ET",
+        "Goltz DE",
+        "Frank RM",
+        "Sethi P",
+        "Garrigues GE"
+      ],
+      "authors_short": "Hurley ET, Goltz DE, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Despite the minimally invasive nature of shoulder arthroscopy, postoperative pain can be substantial, often peaking within the first 24 hours and significantly influencing early rehabilitation, patient satisfaction, and overall outcomes. PURPOSE: To compare the analgesic efficacy of interscalene block (ISB), suprascapular block (SSB), supraclavicular block (SCB), combined block techniques, and general anesthesia (GA) alone for shoulder arthroscopy using a network meta-analysis (NMA) of randomized controlled trials (RCTs). STUDY DESIGN: Systematic review and meta-analysis; Level of evidence, 1. METHODS: A systematic review of the literature was performed based on the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines. Studies were included if they were an RCT evaluating ISB, SSB, SCB, combined block techniques, and GA. Outcomes included postoperative pain scores in the postanesthesia care unit and at 2, 6, 12, and 24 hours, as well as 24-hour opioid consumption. Mean differences with 95% confidence intervals were synthesized using a random-effects model with a common between-study variance. Treatments were ranked using P-scores and expressed as surface under the cumulative ranking curve (SUCRA) values. RESULTS: A total of 63 RCTs (4235 patients) were included. ISB consistently reduced 24-hour opioid consumption compared with other techniques (P-score = 0.775; SUCRA = 77.5%). Combined strategies demonstrated superior pain control at specific postoperative time points: SCB plus axillary nerve block (Ax) ranked highest at 2 hours (P-score = 0.735), SSB plus costoclavicular block (CCB) at 6 hours (P-score = 0.728), and SSB alone at 12 hours (P-score = 0.851). At 24 hours, SCB+Ax again ranked highest (P-score = 0.638), although differences from ISB were modest. Between-study variance (\u03c42) was moderate for pain outcomes (range, 0.85-7.93) and substantial for opioid consumption (\u03c42 = 28.16). CONCLUSION: ISB remains the most consistent technique for reducing postoperative opioid requirements after shoulder arthroscopy. Alternative strategies, including SSB alone as well as combined block approaches (eg, SCB+Ax, SSB+CCB), demonstrated incremental benefits in pain control during the early and intermediate postoperative periods.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42499167/",
+      "score": 75,
+      "score_reasoning": "Network meta-analysis of 63 RCTs with 4235 patients in AJSM comparing nerve block techniques for shoulder arthroscopy provides Level 1 evidence directly applicable to perioperative analgesia decisions.",
+      "bullets": [
+        "ISB reduces 24-hour opioid consumption more reliably than any other single block or general anesthesia alone after shoulder arthroscopy.",
+        "Combined blocks such as SCB plus axillary nerve block or SSB plus costoclavicular block offer modest additional pain control at specific early time points but do not clearly outperform ISB overall.",
+        "For surgeons choosing a regional technique for shoulder arthroscopy, ISB remains the most consistent first-line option, with combined alternatives reasonable when ISB is contraindicated."
+      ]
+    },
+    {
+      "pmid": "42520131",
+      "title": "An International Expert Consensus Statement Defining the Best Practices and Areas of Uncertainty Concerning the Use of Orthobiologics.",
+      "authors": [
+        "Kunze KN",
+        "Morgan JT",
+        "Gerhold C",
+        "Nishioka T",
+        "Piuzzi NS",
+        "Chahla J"
+      ],
+      "authors_short": "Kunze KN, Morgan JT, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: The use of orthobiologics has received increasing interest given the potential positive treatment effects on symptoms and tissue regeneration. However, there remains substantial variability surrounding the uses of orthobiologics in clinical practice. The purpose of this study was to create an international Delphi expert consensus statement on the use of orthobiologics in musculoskeletal medicine. METHODS: A working group consisting of 6 members developed 77 initial statements for review by a 24-member panel of international experts. Surveys were conducted in 3 rounds and administered electronically to participants. Participants were asked to respond to each statement using a Likert scale of \"strongly disagree,\" \"disagree,\" \"neither disagree nor agree,\" \"agree,\" and \"strongly agree.\" The final consensus statement included those statements that achieved \u226570% agreement and <20% disagreement. Statements that did not initially achieve consensus were iteratively revised between rounds, which included the incorporation of qualifying language to reflect areas of clinical uncertainty. RESULTS: Sixty-two final statements were utilized in round 3. Each round had 100% participation. Consensus increased sequentially from 48.1% (37 of 77 statements) in round 1 to 96.8% (60 of 62 statements) in round 3. Complete consensus (\u226570% agreement and <20% disagreement) was achieved in the following categories: general orthobiologics and PRP (platelet-rich plasma) topics; PRP for knee, hip, and glenohumeral osteoarthritis; PRP for Achilles tendinopathy; PRP for lateral epicondylitis and rotator cuff tendinitis; PRP for meniscus repair augmentation; bone marrow aspirate concentrate; autologous conditioned serum; amniotic derivatives; gene therapy; exosomes; and biologic delivery methods. Some of the topics concerning PRP for rotator cuff repair augmentation and autologous cell-based therapies did not achieve consensus. CONCLUSIONS: A high degree of consensus was achieved across statements concerning appropriate use cases for various orthobiologic therapies. However, many of the adopted statements retained qualifying language, reflecting persistent areas of uncertainty in orthobiologic preparation, dosing, and indication-specific efficacy. Despite high levels of agreement across most categories, experts contended that dosing, preparation methods, and quality control remain areas of uncertainty and inconsistency that require standardization in order to allow for reproducible and meaningful treatment effects.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42520131/",
+      "score": 72,
+      "score_reasoning": "Large CORR umbrella review and meta-analysis of 38 primary studies clarifying NSAID effects on bone healing addresses a ubiquitous perioperative dilemma with pooled evidence across fracture and elective populations.",
+      "bullets": [
+        "An international expert panel reached consensus that PRP has supported use cases for knee, hip, and glenohumeral osteoarthritis, Achilles tendinopathy, lateral epicondylitis, rotator cuff tendinitis, and meniscus repair augmentation.",
+        "Experts could not reach consensus on PRP for rotator cuff repair augmentation or autologous cell-based therapies, meaning these indications lack sufficient agreement to guide routine clinical use.",
+        "Even where consensus was achieved, experts agreed that dosing, preparation methods, and quality control remain unstandardized, so reproducible outcomes with orthopaedic biologics cannot yet be guaranteed."
+      ]
+    },
+    {
+      "pmid": "42517199",
+      "title": "Condylar-constrained prostheses are associated with favourable implant survival following first-time aseptic revision knee arthroplasty: An analysis from the National Joint Registry.",
+      "authors": [
+        "Tyas B",
+        "Hewitt C",
+        "Deehan D",
+        "Baker P"
+      ],
+      "authors_short": "Tyas B, Hewitt C, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: This study aimed to compare implant survivorship and patient-relevant outcomes associated with the constraint level used at first-time aseptic revision total knee arthroplasty (rTKA). METHODS: This retrospective cohort study used data from the National Joint Registry for England, Wales, Northern Ireland, the Isle of Man, Guernsey and Jersey, linked to Hospital Episode Statistics and national patient-reported outcome measures (PROMs). Patients undergoing first-time aseptic rTKA between 1 January 2009 and 30 September 2023 were included. Constraint was categorized as unconstrained, posterior-stabilized (PS), condylar-constrained (CCK) or hinge. The primary outcome was 10-year cumulative incidence of re-revision. Prespecified subgroups included patients at high risk of re-revision and those revised for aseptic loosening or instability. Secondary outcomes included 6-month PROMs; 90-day mortality and medical complications; and length of stay. Competing risk regression was used to estimate re-revision risk, treating death as a competing event. RESULTS: After exclusions, 12,950 cases were analysed (median follow-up 7.4 years [95% confidence interval, CI 7.3-7.5]. CCK prostheses were associated with the lowest unadjusted 10-year cumulative incidence of re-revision overall (9.2% [95% CI 8.4-10.1]) and in all subgroups. In the primary adjusted analysis, unconstrained (subdistribution hazard ratio [sHR] 1.46 [1.23-1.74], p\u2009<\u20090.001), PS (sHR 1.23 [1.04-1.44], p\u2009=\u20090.013) and hinged prostheses (sHR 1.66 [1.38-2.01], p\u2009<\u20090.001) were associated with higher re-revision risk than CCK constructs. There was weak evidence that the association between PS implants and re-revision was greater among low-volume than high-volume surgeons (interaction sHR 1.30 [1.00-1.70], p\u2009=\u20090.053). After further adjustment for implant-related factors, re-revision risk was similar for unconstrained (sHR 0.97 [0.78-1.21], p\u2009=\u20090.792) and PS implants (sHR 1.00 [0.83-1.19], p\u2009=\u20090.972) versus CCK, whilst increased risk associated with hinges persisted (sHR 1.67 [1.36-2.05], p\u2009<\u20090.001). CONCLUSION: CCK constructs were consistently associated with favourable implant survivorship across a range of clinical scenarios. These findings provide reassurance that clinically indicated use of CCK constraint is not associated with compromised implant survival. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42517199/",
+      "score": 71,
+      "score_reasoning": "Large retrospective cohort using National Joint Registry (n=12,950) in KSSTA showing condylar-constrained prostheses have lowest re-revision rates at 10 years provides important implant selection guidance for revision TKA.",
+      "bullets": [
+        "In over 12,000 aseptic revision knee replacements, condylar-constrained implants had the lowest 10-year re-revision rate at 9.2%, outperforming unconstrained, posterior-stabilised, and hinged designs.",
+        "Hinged implants carried persistently higher re-revision risk than condylar-constrained devices even after accounting for implant-related factors, while unconstrained and posterior-stabilised implants performed similarly once those factors were adjusted for.",
+        "Surgeons can use condylar-constrained implants when clinically indicated in revision knee arthroplasty without concern that higher constraint will compromise long-term implant survival."
+      ]
+    },
+    {
+      "pmid": "42489594",
+      "title": "Predictive Factors for Manipulations Under Anesthesia After Total Knee Arthroplasty: An Analysis of 15,139 Cases.",
+      "authors": [
+        "Iyer A",
+        "Culler M",
+        "Telang S",
+        "Palmer RC",
+        "Jones IA",
+        "Lieberman JR",
+        "Heckmann ND"
+      ],
+      "authors_short": "Iyer A, Culler M, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Limited range of motion (ROM) and arthrofibrosis are complications that affect approximately 1 to 13% of patients after primary total knee arthroplasty (TKA). Manipulation under anesthesia (MUA) is the preferred treatment when failure to achieve adequate ROM in the early postoperative period occurs. This study aims to identify predictors for MUA that may guide surgeons in preoperative risk stratification. METHODS: The Premier Healthcare Database was queried to identify patients aged 18 years or older who underwent elective total knee arthroplasty. Patients who underwent manipulation under anesthesia within 90 days of index surgery were compared with patients who did not. Demographics, comorbidities, and medication usage were compared between cohorts using chi-squared and t-tests. Akaike information criterion and Bayesian information criterion minimization was done to create an optimal mixed-effects model to identify risk factors. RESULTS: In total, 975,235 TKAs performed between 2015 and 2021 were identified. Of these, 1.55% (15,139) of patients required MUA. Patients in the MUA group were younger (62.47 \u00b1 9.19 vs. 67.03 \u00b1 9.24, P < 0.001) and more likely to be Black (15.91% vs. 8.29%, P < 0.001). Mixed-effects analysis revealed a decreased risk of MUA associated with perioperative dexamethasone (adjusted odds ratio [aOR] 0.925, 95% CI, 0.889-0.962, P < 0.001), daily prednisone usage (aOR 0.433, 95% CI, 0.347-0.542, P < 0.001), and angiotensin II receptor blockers (ARBs) (aOR 0.882, 95% CI, 0.840-0.927, P < 0.001). DISCUSSION: Younger age, female sex, and Black race were associated with an increased risk of MUA after TKA, while perioperative dexamethasone, daily steroids, and ARB use were protective. These findings may serve to aid surgeons in preoperative risk stratification.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42489594/",
+      "score": 69,
+      "score_reasoning": "Prospective cohort analysis of 184 THA patients in Journal of Arthroplasty demonstrating preoperative hip abductor strength independently predicts 12-month PROMs provides a novel, modifiable preoperative target.",
+      "bullets": [
+        "In a review of over 975,000 TKAs, 1.55% required manipulation under anesthesia within 90 days, with younger patients, women, and Black patients at highest risk.",
+        "Perioperative dexamethasone, chronic daily prednisone, and angiotensin II receptor blocker use were each independently associated with lower rates of manipulation under anesthesia.",
+        "Surgeons can use age, sex, race, and current medications to flag higher-risk TKA patients for closer postoperative range of motion monitoring before stiffness becomes established."
+      ]
+    },
+    {
+      "pmid": "42535835",
+      "title": "Risk and Timing of Total Knee Arthroplasty After High Tibial Osteotomy: A Cohort Study With 10-Year Follow-Up.",
+      "authors": [
+        "Randall ZD",
+        "Mologne MS",
+        "Pereira DE",
+        "Brophy RH"
+      ],
+      "authors_short": "Randall ZD, Mologne MS, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: High tibial osteotomy (HTO) is a joint-preserving procedure used to relieve pain and delay, or even eliminate, the need for total knee arthroplasty (TKA). The aim of this study was to quantify the incidence of TKA after HTO and identify risk factors associated with conversion. METHODS: Patients undergoing HTO at a single academic center from 1996 to 2015 were identified using a validated deidentified synthetic data platform from real patient data, ensuring a minimum of 10 years of follow-up. Patients aged 18 years with procedural codes for HTO were included. The primary outcome was TKA incidence; the secondary outcome was time to TKA. A modified Poisson regression evaluated associations between TKA, age, and BMI among individuals with complete BMI data. RESULTS: A total of 207 patients (mean age, 41.3 \u00b1 11.2 years; 62.8% male) were identified. Mean follow-up was 17.8 \u00b1 4.8 years. Overall, 20 patients (9.9%) underwent TKA. Those converting to TKA were significantly older at HTO (45.3 \u00b1 6.1 vs. 40.9 \u00b1 11.6 years; P = 0.009) and had higher BMI (35.7 \u00b1 6.4 vs. 29.4 \u00b1 5.2; P = 0.01). TKA incidence increased over time: 5.9% at 10 years, 10.8% at 15 years, and 22.0% at 20 years. Higher BMI was independently associated with increased TKA risk (RR = 1.13; 95% CI, 1.04 to 1.23; P = 0.004). CONCLUSION: In this cohort with minimum 10-year follow-up, HTO demonstrated approximately a 90% knee survivorship at a mean of 17.8 years. Age and BMI at the time of HTO were associated with increased risk of TKA conversion and should be considered during patient counseling and selection.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42535835/",
+      "score": 65,
+      "score_reasoning": "Prospective cohort study (n=353) in Arthroplasty Today examining central sensitization and pain catastrophizing effects on UKA vs TKA outcomes offers clinically meaningful preoperative patient counseling data.",
+      "bullets": [
+        "After high tibial osteotomy, roughly 1 in 10 patients converted to total knee arthroplasty by 10 years, rising to about 1 in 5 by 20 years.",
+        "Patients who converted to total knee arthroplasty were older and had higher BMI at the time of their osteotomy, and higher BMI independently predicted conversion.",
+        "When counseling patients before high tibial osteotomy, older age and elevated BMI should be discussed as factors associated with earlier conversion to total knee arthroplasty."
+      ]
+    },
+    {
+      "pmid": "42529838",
+      "title": "Responsiveness and ceiling effects of Knee Injury and Osteoarthritis Outcome Score following anterior cruciate ligament reconstruction: Evidence from the UK National Ligament Registry.",
+      "authors": [
+        "Searle HKC",
+        "Khatri C",
+        "Robinson J",
+        "O'Leary S",
+        "Hage W",
+        "Spalding T",
+        "Haddad F",
+        "Harrison C",
+        "Metcalfe A",
+        "Rodrigues JN"
+      ],
+      "authors_short": "Searle HKC, Khatri C, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: Multiple versions of the Knee Injury and Osteoarthritis Outcome Score (KOOS) are used in anterior cruciate ligament (ACL) populations, but their responsiveness and ceiling effects remain uncertain. This study aimed to evaluate the floor and ceiling effects, responsiveness and minimal important difference (MID) using the United Kingdom's National Ligament Registry (NLR). It was hypothesised that ceiling effects would increase over time, but would vary by KOOS version. METHODS: A secondary analysis of the NLR (2012-2024) was performed including patients undergoing ACL reconstruction. We quantified floor and ceiling effects for KOOS5, KOOS4, KOOS-ACL, KOOSglobal. Responsiveness was assessed using Cohen's d and standardised response mean comparing pre-operative scores and follow-up scores (6 months, 1 year, 2 years and 5 years). MIDs were estimated using a distribution-based method (half of the baseline standard deviation). RESULTS: 14,660 participants completed baseline scores and were followed up. Large improvements were observed from baseline to 12 months (KOOS5 1.44 [95% confidence interval, CI, 1.40-1.48], KOOS4 1.54 [95% CI 1.50-1.59], KOOS-ACL 1.45 [95% CI 1.42-1.49] and KOOSglobal 1.81 [95% CI 1.74-1.87], followed by increased ceiling effects). At 12 months, ceiling effects (90-100 definition) were present for KOOS5 (30.46%), KOOS4 (24.60%) and KOOS-ACL composite (44.01%), and increased at 24 and 60 months. KOOSglobal demonstrated lower ceiling effects: 5.37% at 12 months and 13.38% at 60 months. Pre-operative floor effects were highest for sport/recreation (20.32%) and KOOS-ACL sport (19.68%). Estimated MIDs were 9.0 for KOOS5, 9.0 for KOOS4, 9.6 for pain, 9.7 for symptoms, 10.3 for activities, 13.6 for sport/recreation, 9.5 for quality of life, 10.1 for KOOS-ACL composite, 10.0 for KOOS-ACL function, 12.5 for KOOS-ACL sport, and 5.1 for KOOSglobal. CONCLUSIONS: Ceiling effects were observed for KOOS5, KOOS4 and KOOS-ACL from 12 months, suggesting a limited ability to distinguish between higher-functioning patients. KOOSglobal appears less susceptible to ceiling effects. LEVEL OF EVIDENCE: Level III, cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42529838/",
+      "score": 63,
+      "score_reasoning": "Systematic review and meta-analysis of 35 studies (7,122 knees) in KSSTA establishing posterior tibial slope as a risk factor for meniscal tears provides biomechanically relevant, clinically applicable injury prevention data.",
+      "bullets": [
+        "In over 14,000 ACL reconstruction patients, KOOS5, KOOS4, and KOOS-ACL all showed significant ceiling effects by 12 months, meaning they cannot distinguish between higher-functioning patients after that point.",
+        "KOOSglobal had far lower ceiling effects at both 12 months (5%) and 60 months (13%), making it more useful for tracking outcomes in patients who recover well after ACL reconstruction.",
+        "Clinicians using KOOS to monitor ACL patients beyond one year should consider switching to KOOSglobal, as the standard versions will miss meaningful differences in high-performing patients."
+      ]
+    },
+    {
+      "pmid": "42520130",
+      "title": "Who Owns Arthroplasty Data?: Governance in the Era of Robotics, Registries, and Industry Partnerships.",
+      "authors": [
+        "Siddiqi A",
+        "Jacob PB",
+        "Yousuf KM"
+      ],
+      "authors_short": "Siddiqi A, Jacob PB, Yousuf KM",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "Robotic platforms, proprietary registries, and advanced analytics have transformed total joint arthroplasty into a data-intensive subspecialty. Contemporary procedures generate granular operative metrics that are increasingly linked to longitudinal outcomes, benchmarking systems, predictive analytics, and artificial intelligence algorithm development. Yet governance structures defining analytic access, publication rights, secondary data use, and transparency to patients remain incompletely articulated. Surgeons generate operative data, but vendors frequently warehouse and structure these data sets within proprietary ecosystems, while registry governance and contractual agreements may influence analytic access and dissemination. These challenges extend beyond privacy concerns. Arthroplasty data sets increasingly inform quality measurement, reimbursement models, public reporting, and future algorithm development. Without clear governance standards, control over data stewardship, analytic framing, and scientific dissemination may progressively shift away from practicing surgeons and patients. This Viewpoint article examines emerging governance-related challenges within arthroplasty data ecosystems and proposes a framework centered on transparency to patients, data portability, publication protections, and independent oversight. The goal is not to impede innovation, but to ensure that the expanding digital architecture of arthroplasty evolves within transparent, ethically grounded, and academically independent governance structures.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42520130/",
+      "score": 59,
+      "score_reasoning": "International Delphi consensus on orthobiologics (PRP, etc.) in JBJS with 24-expert panel achieving high consensus provides standardized practice guidance for a rapidly evolving and variable clinical area.",
+      "bullets": [
+        "Robotic platforms and proprietary registries now control most arthroplasty operative data, and current contracts often limit surgeon access to their own patient data for research or publication.",
+        "This applies to any arthroplasty surgeon using vendor platforms, as data generated intraoperatively is increasingly warehoused by industry and used to train algorithms, set benchmarks, and influence reimbursement models.",
+        "Surgeons should review vendor contracts for data portability and publication rights before adopting new platforms, as governance standards protecting independent academic access do not yet exist."
+      ]
+    },
+    {
+      "pmid": "42487628",
+      "title": "Revision Hip Arthroscopy: Propensity Score-Matched Comparison of Labral Reconstruction Versus Repair With Minimum 5-Year Outcomes.",
+      "authors": [
+        "Quesada-Jimenez R",
+        "Cohen MF",
+        "Rana K",
+        "Kahana-Rojkind AH",
+        "Domb BG"
+      ],
+      "authors_short": "Quesada-Jimenez R, Cohen MF, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: There is a paucity of literature comparing the midterm outcomes of arthroscopic labral reconstruction and arthroscopic labral repair in the revision setting. PURPOSE: To evaluate the minimum 5-year patient-reported outcomes (PROs) of patients who underwent revision hip arthroscopy, comparing labral reconstruction with labral repair. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: A retrospective analysis was performed for patients who underwent revision hip arthroscopy, either labral repair or labral reconstruction, to treat femoroacetabular impingement and labral tears between 2008 and 2019. Patients who underwent reconstruction were matched 1:1 to patients who underwent repair. Included patients had complete preoperative and minimum 5-year follow-up scores for at least one of the following PRO measures: modified Harris Hip Score, Non-Arthritic Hip Score, Hip Outcome Score-Sports-Specific Subscale, patient satisfaction, and visual analog scale for pain. Rates of achieving the minimal clinically important difference and patient acceptable symptom state as well as secondary surgery rates were compared between groups. RESULTS: A total of 68 patients were included, with 34 patients who underwent labral reconstruction successfully matched to 34 patients who underwent labral repair, controlling for age, body mass index, sex, acetabular Outerbridge grade, and capsular treatment. The reconstruction group had a significantly higher incidence of Seldes type 1 and 2 labral tears (n = 21 [61.8%]) compared to the repair group, which had a higher proportion of Seldes type 1 tears (n = 11 [32.4%]) (both P < .05). Both groups demonstrated a significant improvement in scores from preoperatively to postoperatively (all P < .01) and achieved the minimal clinically important difference and patient acceptable symptom state at similar rates across all PRO measures. There were no significant differences between groups in the rates of revision arthroscopy or conversion to arthroplasty. CONCLUSION: Patients undergoing revision hip arthroscopy with adequate labral treatment, either labral reconstruction or labral repair, can expect favorable and comparable outcomes, reaching clinically relevant thresholds at similar rates, with a low complication rate, at midterm follow-up.",
+      "pub_types": [
+        "Journal Article",
+        "Comparative Study"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42487628/",
+      "score": 58,
+      "score_reasoning": "Propensity-matched retrospective cohort study (n=68) in AJSM comparing labral reconstruction vs repair in revision hip arthroscopy at minimum 5-year follow-up addresses a clinically important decision point with meaningful midterm data.",
+      "bullets": [
+        "At minimum 5-year follow-up, revision hip arthroscopy patients who had labral reconstruction and those who had labral repair showed similar improvements in hip pain and function scores.",
+        "Rates of reaching clinically meaningful improvement thresholds, repeat arthroscopy, and conversion to hip replacement were not significantly different between the two revision techniques.",
+        "For surgeons performing revision hip arthroscopy, either labral repair or reconstruction is a reasonable option when the remaining tissue guides the choice, without sacrificing midterm outcomes."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-08-01T04:15:49.745410-07:00"
+}
