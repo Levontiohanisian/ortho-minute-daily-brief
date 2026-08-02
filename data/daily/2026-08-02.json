@@ -1,0 +1,295 @@
+{
+  "brief_date": "2026-08-02",
+  "brief_date_display": "Sunday, August 02",
+  "candidates": [
+    {
+      "pmid": "42520992",
+      "title": "Preoperative Methicillin-Resistant Staphylococcus aureus Colonization and Risk of Periprosthetic Joint Infection after Total Joint Arthroplasty: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Javidmehr S",
+        "Javad Mortazavi SM",
+        "Rastegar M",
+        "Moradi M",
+        "Ebrahimian M",
+        "Siavashi B"
+      ],
+      "authors_short": "Javidmehr S, Javad Mortazavi SM, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Although preoperative screening and decolonization of methicillin-resistant Staphylococcus aureus (MRSA) reduce the risk of periprosthetic joint infection (PJI) and surgical site infections (SSI) after total joint arthroplasty (TJA), the residual infection risk in MRSA-colonized patients who undergo decolonization remains debated. This systematic review investigated the association between preoperative MRSA colonization and the risk of PJI and SSI after TJA. METHODS: In accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, PubMed/Medline, Embase, Scopus, and Web of Science databases were searched until October 24, 2025. Studies examining the association of preoperative MRSA colonization with PJI and SSI risk after TJA were included. Patients were classified as MRSA positive (MRSA+) or MRSA negative (MRSA-) based on preoperative screening. All MRSA+ patients who underwent decolonization protocols. Random-effects meta-analysis was performed. Heterogeneity was assessed using I2 statistics, and meta-regression identified associated variables. There were 15 studies involving 318,487 patients (4,560 MRSA+ and 313,927 MRSA-) included. RESULTS: Despite decolonization, MRSA+ colonization was associated with increased risk of PJI (OR [odds ratio]: 2.42, 95% CI [confidence interval]: 1.35 to 3.49; I2: 75%, P < 0.001) and SSI (OR: 2.54, 95% CI: 1.86 to 3.21; I2: 50.1%, P < 0.001) after TJA. Subgroup analyses showed stronger associations with longer follow-up periods (greater than 12 months: OR 3.01 versus \u2264 12 months: OR 2.00 for PJI; P = 0.05 for interaction). CONCLUSIONS: Preoperative MRSA+ colonization, despite standard decolonization protocols, may still be associated with an increased risk of PJI and SSI after TJA. The methicillin-resistant staphylococcus aureus + ( MRSA+) patients require enhanced antimicrobial prophylaxis strategies, extended surveillance, and multidisciplinary management. These findings support universal MRSA screening but emphasize that decolonization alone may not normalize infection risk to that of MRSA- patients.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42520992/",
+      "score": 82,
+      "score_reasoning": "High-quality systematic review and meta-analysis of 318,487 patients from JBJS demonstrating that MRSA colonization doubles PJI risk even after decolonization, with direct and actionable implications for preoperative screening protocols in TJA.",
+      "bullets": [
+        "In over 318,000 total joint arthroplasty patients, preoperative MRSA colonization more than doubled the risk of periprosthetic joint infection and surgical site infection even after completed decolonization protocols.",
+        "The elevated infection risk applies to any total joint arthroplasty patient who screens MRSA positive preoperatively, and the risk grows larger beyond 12 months of follow-up.",
+        "Decolonization alone does not normalize infection risk in MRSA-positive patients, so these patients warrant enhanced antibiotic prophylaxis, extended postoperative surveillance, and multidisciplinary planning before surgery."
+      ]
+    },
+    {
+      "pmid": "42520994",
+      "title": "Periarticular Injection Alone Provides Comparable Early Recovery to Combined Adductor Canal and Infiltration between the Popliteal Artery and Capsule of the Knee Blocks Following Total Knee Arthroplasty: A Prospective Randomized Trial.",
+      "authors": [
+        "Schneider AM",
+        "Granger C",
+        "King J",
+        "Riegler V",
+        "Bartosiak KA",
+        "Bendich I",
+        "Barrack RL"
+      ],
+      "authors_short": "Schneider AM, Granger C, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: The relative effectiveness of commonly used regional anesthesia techniques, including adductor canal block (ACB) and infiltration between the popliteal artery and capsule of the knee (IPACK), compared with periarticular injection (PAI) alone in total knee arthroplasty (TKA) remains unclear. MATERIALS AND METHODS: In this prospective, randomized, patient-blinded trial, 140 patients undergoing primary TKA were randomized to receive either preoperative regional blocks (ACB plus IPACK) combined with intraoperative PAI (n = 70) or intraoperative PAI alone (n = 70). All patients received an identical total dose and composition of local anesthetic (80 mL of 0.25% bupivacaine with epinephrine and 30 mg ketorolac). Daily remote patient monitoring was performed for two weeks preoperatively and two weeks postoperatively to assess visual analog scale (VAS) pain scores, opioid consumption (morphine milligram equivalents [MME]), Oxford Knee Scores (OKS), step counts, and patient satisfaction. Linear mixed models and appropriate comparative tests were used for analysis. An a priori power analysis determined that 70 patients per group were required to detect a VAS pain difference of greater than 1.0. RESULTS: Pain scores peaked on postoperative day three in both groups and declined thereafter. The PAI-only group reported slightly lower VAS pain on postoperative day 1 (3.3 versus 3.9; mean difference -0.6; P = 0.025), although this difference did not meet the threshold for clinical significance; no other between-group differences were observed. Opioid consumption, OKS, step counts, and patient satisfaction with pain control, activity level, and range of motion were similar between groups throughout the study period. DISCUSSION: In patients undergoing primary TKA, intraoperative PAI alone produced outcomes comparable to combined ACB plus IPACK and PAI through the first fourteen postoperative days. These Level I findings, captured using high-frequency remote patient monitoring, suggest that routine use of multiple regional blocks may not provide clinically meaningful additional benefit within contemporary multimodal pathways.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42520994/",
+      "score": 80,
+      "score_reasoning": "Large RCT (n=140) from a high-impact journal directly comparing PAI alone versus ACB+IPACK in TKA with robust remote monitoring outcomes, finding comparable efficacy, which has immediate protocol-changing implications for anesthesia management.",
+      "bullets": [
+        "In a randomized trial of 140 primary TKA patients, periarticular injection alone produced pain scores, opioid use, function, and satisfaction equivalent to combined adductor canal block plus IPACK over the first two postoperative weeks.",
+        "The only statistically significant difference was a 0.6-point lower pain score on day one in the periarticular injection only group, which did not meet the pre-defined threshold for clinical significance.",
+        "For surgeons performing primary TKA within a multimodal pain protocol, adding adductor canal and IPACK blocks to periarticular injection may not provide meaningful patient benefit and adds procedural complexity."
+      ]
+    },
+    {
+      "pmid": "42517199",
+      "title": "Condylar-constrained prostheses are associated with favourable implant survival following first-time aseptic revision knee arthroplasty: An analysis from the National Joint Registry.",
+      "authors": [
+        "Tyas B",
+        "Hewitt C",
+        "Deehan D",
+        "Baker P"
+      ],
+      "authors_short": "Tyas B, Hewitt C, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: This study aimed to compare implant survivorship and patient-relevant outcomes associated with the constraint level used at first-time aseptic revision total knee arthroplasty (rTKA). METHODS: This retrospective cohort study used data from the National Joint Registry for England, Wales, Northern Ireland, the Isle of Man, Guernsey and Jersey, linked to Hospital Episode Statistics and national patient-reported outcome measures (PROMs). Patients undergoing first-time aseptic rTKA between 1 January 2009 and 30 September 2023 were included. Constraint was categorized as unconstrained, posterior-stabilized (PS), condylar-constrained (CCK) or hinge. The primary outcome was 10-year cumulative incidence of re-revision. Prespecified subgroups included patients at high risk of re-revision and those revised for aseptic loosening or instability. Secondary outcomes included 6-month PROMs; 90-day mortality and medical complications; and length of stay. Competing risk regression was used to estimate re-revision risk, treating death as a competing event. RESULTS: After exclusions, 12,950 cases were analysed (median follow-up 7.4 years [95% confidence interval, CI 7.3-7.5]. CCK prostheses were associated with the lowest unadjusted 10-year cumulative incidence of re-revision overall (9.2% [95% CI 8.4-10.1]) and in all subgroups. In the primary adjusted analysis, unconstrained (subdistribution hazard ratio [sHR] 1.46 [1.23-1.74], p\u2009<\u20090.001), PS (sHR 1.23 [1.04-1.44], p\u2009=\u20090.013) and hinged prostheses (sHR 1.66 [1.38-2.01], p\u2009<\u20090.001) were associated with higher re-revision risk than CCK constructs. There was weak evidence that the association between PS implants and re-revision was greater among low-volume than high-volume surgeons (interaction sHR 1.30 [1.00-1.70], p\u2009=\u20090.053). After further adjustment for implant-related factors, re-revision risk was similar for unconstrained (sHR 0.97 [0.78-1.21], p\u2009=\u20090.792) and PS implants (sHR 1.00 [0.83-1.19], p\u2009=\u20090.972) versus CCK, whilst increased risk associated with hinges persisted (sHR 1.67 [1.36-2.05], p\u2009<\u20090.001). CONCLUSION: CCK constructs were consistently associated with favourable implant survivorship across a range of clinical scenarios. These findings provide reassurance that clinically indicated use of CCK constraint is not associated with compromised implant survival. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42517199/",
+      "score": 74,
+      "score_reasoning": "Large registry-based study (n=12,950, median follow-up 7.4 years) from KSTA demonstrating CCK prostheses have the lowest re-revision rates in aseptic revision TKA, with direct implications for implant selection at the time of revision.",
+      "bullets": [
+        "In over 12,000 aseptic revision knee arthroplasties, condylar-constrained implants had the lowest 10-year re-revision rate at 9.2%, outperforming unconstrained, posterior-stabilised, and hinged constructs.",
+        "Hinged implants carried persistently higher re-revision risk than condylar-constrained devices even after adjusting for implant-related factors, while unconstrained and posterior-stabilised implants performed comparably once those factors were accounted for.",
+        "Surgeons can use condylar-constrained implants when clinically indicated in revision knee arthroplasty without concern that higher constraint will compromise implant survival."
+      ]
+    },
+    {
+      "pmid": "42535829",
+      "title": "Implant-Related Complications After Robotic-Assisted Versus Manual Revision Knee Arthroplasty: A Propensity-Matched Cohort Study.",
+      "authors": [
+        "Mzeihem M",
+        "Rteil A",
+        "Farid Y",
+        "Martini O",
+        "Piponov H",
+        "Puri L",
+        "Amirouche F"
+      ],
+      "authors_short": "Mzeihem M, Rteil A, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: As robotic-assisted total knee arthroplasty (TKA) gains traction in revision procedures, the urgent need to investigate its effectiveness compared with manual methods becomes apparent. METHODS: Data were retrospectively obtained from the TriNetX Collaborative Network. Revision TKA (rKA) cases were identified using CPT codes and categorized as manual or robotic assisted using ICD-10 procedure codes. Cohorts were balanced with 1:1 propensity score matching for demographics, comorbidities, and revision history. Complication rates were compared across follow-up using chi-square analysis. RESULTS: An initial query identified 19,088 manual and 2,709 robotic-assisted rKA cases. After 1:1 propensity matching, 2,010 patients remained in each group. Robotic rKA had significantly lower mechanical implant\u2011related complications at 3 and 6 months (OR 1.67 and 1.66; P < 0.001) and lower early VTE, while PJI, readmission, and revision rates were not significantly different. Manual rKA showed higher opioid use at 0 to 3 months (OR 1.40, 95% CI, 1.14 to 1.71, P < 0.001) and 3 to 6 months (OR 1.28, 95% CI, 1.12 to 1.47, P < 0.001) and throughout the 3 years of follow-up.Throughout the follow-up period, patellar dislocation, wound infection, non\u2011implant-related complications, and transfusion did not differ. At 1 year, manual rKA had higher instability (OR 1.59; P = 0.001) and higher hazard of mechanical implant\u2011related complications (HR 1.52, 95% CI, 1.32 to 1.75; P = 0.049). Instability, loosening, and periprosthetic fracture remained higher at 2 to 3 years, and revision was significantly more frequent at 3 years (13.5% vs. 11.4%; OR 1.22, 95% CI, 1.02 to 1.46; P = 0.03). DISCUSSION: Robotic-assisted rKA was associated with markedly lower mechanical implant\u2011related complications across early and midterm follow-up, including reduced rates of instability, aseptic loosening, periprosthetic fracture, VTE, and lower opioid requirements. Rates of PJI, readmission, and revision were largely comparable, although manual rKA demonstrated a markedly higher revision rate by 3 years. These findings suggest that robotic assistance may improve implant reliability and postoperative recovery, but prospective studies and cost-effectiveness analyses remain necessary.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42535829/",
+      "score": 73,
+      "score_reasoning": "Novel meta-analysis of 35 studies (7,122 knees) from KSTA demonstrating that increased tibial and meniscal slopes are significant risk factors for meniscal tears, with implications for preoperative planning and patient counseling.",
+      "bullets": [
+        "In a propensity-matched cohort of revision knee arthroplasty patients, robotic-assisted cases had fewer mechanical implant complications, less instability, and lower rates of aseptic loosening and periprosthetic fracture out to three years.",
+        "By three years, manual revision TKA had a higher re-revision rate than robotic-assisted cases (13.5% versus 11.4%), with persistently higher opioid use throughout follow-up.",
+        "For orthopaedic surgeons performing revision TKA, robotic assistance appears to reduce mechanical failure and may lower reoperation risk, though prospective data and cost-effectiveness analysis are still needed before broad adoption."
+      ]
+    },
+    {
+      "pmid": "42520131",
+      "title": "An International Expert Consensus Statement Defining the Best Practices and Areas of Uncertainty Concerning the Use of Orthobiologics.",
+      "authors": [
+        "Kunze KN",
+        "Morgan JT",
+        "Gerhold C",
+        "Nishioka T",
+        "Piuzzi NS",
+        "Chahla J"
+      ],
+      "authors_short": "Kunze KN, Morgan JT, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: The use of orthobiologics has received increasing interest given the potential positive treatment effects on symptoms and tissue regeneration. However, there remains substantial variability surrounding the uses of orthobiologics in clinical practice. The purpose of this study was to create an international Delphi expert consensus statement on the use of orthobiologics in musculoskeletal medicine. METHODS: A working group consisting of 6 members developed 77 initial statements for review by a 24-member panel of international experts. Surveys were conducted in 3 rounds and administered electronically to participants. Participants were asked to respond to each statement using a Likert scale of \"strongly disagree,\" \"disagree,\" \"neither disagree nor agree,\" \"agree,\" and \"strongly agree.\" The final consensus statement included those statements that achieved \u226570% agreement and <20% disagreement. Statements that did not initially achieve consensus were iteratively revised between rounds, which included the incorporation of qualifying language to reflect areas of clinical uncertainty. RESULTS: Sixty-two final statements were utilized in round 3. Each round had 100% participation. Consensus increased sequentially from 48.1% (37 of 77 statements) in round 1 to 96.8% (60 of 62 statements) in round 3. Complete consensus (\u226570% agreement and <20% disagreement) was achieved in the following categories: general orthobiologics and PRP (platelet-rich plasma) topics; PRP for knee, hip, and glenohumeral osteoarthritis; PRP for Achilles tendinopathy; PRP for lateral epicondylitis and rotator cuff tendinitis; PRP for meniscus repair augmentation; bone marrow aspirate concentrate; autologous conditioned serum; amniotic derivatives; gene therapy; exosomes; and biologic delivery methods. Some of the topics concerning PRP for rotator cuff repair augmentation and autologous cell-based therapies did not achieve consensus. CONCLUSIONS: A high degree of consensus was achieved across statements concerning appropriate use cases for various orthobiologic therapies. However, many of the adopted statements retained qualifying language, reflecting persistent areas of uncertainty in orthobiologic preparation, dosing, and indication-specific efficacy. Despite high levels of agreement across most categories, experts contended that dosing, preparation methods, and quality control remain areas of uncertainty and inconsistency that require standardization in order to allow for reproducible and meaningful treatment effects.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42520131/",
+      "score": 72,
+      "score_reasoning": "International expert Delphi consensus from JBJS on orthobiologics use across musculoskeletal medicine provides a practical, evidence-anchored framework for a rapidly evolving and currently inconsistent area of clinical practice.",
+      "bullets": [
+        "An international expert panel reached consensus that PRP has supported use cases for knee, hip, and glenohumeral osteoarthritis, Achilles tendinopathy, lateral epicondylitis, rotator cuff tendinitis, and meniscus repair augmentation.",
+        "Experts could not reach consensus on PRP for rotator cuff repair augmentation or autologous cell-based therapies, meaning these remain unsupported for routine clinical use.",
+        "Even where consensus was reached, dosing, preparation, and quality control for orthopaedic biologics remain unstandardised, so reproducible treatment effects cannot yet be guaranteed."
+      ]
+    },
+    {
+      "pmid": "42489592",
+      "title": "NSAID Use and Bone Healing: An Umbrella Review with a Reconstructed Meta-Analysis.",
+      "authors": [
+        "Komargodski R",
+        "Kittany S",
+        "Abu-Kishk I",
+        "Beeri Berkovitch R",
+        "Epstein D",
+        "Matok I"
+      ],
+      "authors_short": "Komargodski R, Kittany S, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "AIMS: Nonsteroidal anti-inflammatory drugs (NSAIDs) are widely used for perioperative analgesia, but effect on bone healing remains controversial. This umbrella review and reconstructed meta-analysis assessed whether NSAIDs impair bone healing and how risk varies by population, fracture type, dose, and duration. METHODS: We conducted an umbrella review of systematic reviews/meta-analyses and a reconstructed meta-analysis of primary studies (PRIOR/PRISMA-compliant; PubMed, EMBASE, Web of Science, and Scopus to 9 November 2025). Two reviewers independently screened, extracted, and assessed quality (AMSTAR-2) and risk of bias. Overlapping cohorts were removed, and random-effects models were applied. Prespecified subgroups included age, clinical context (traumatic vs elective procedures), bone type (long bones vs spine), dose, and exposure duration (\u226414 days). RESULTS: Sixteen reviews (10 meta-analyses, six systematic reviews) were included; most suggested that NSAIDs increase impaired bone healing risk, particularly with higher doses or prolonged use, with minimal signal for short, low-dose perioperative regimens, especially in spinal fusion. Quality was low/critically low. The meta-analysis pooled 38 primary studies. NSAID exposure was associated with higher nonunion risk (OR, 1.56, 95% CI, 1.18 to 2.11), but not clearly with delayed union (OR, 1.58, 95% CI, 0.65 to 3.67). Risk increased in adults (OR, 1.67, 95% CI, 1.25 to 2.47) but not in pediatric patients (OR 0.77, 95% CI 0.58 to 1.02), was higher in long-bone fractures than in spinal fusion, trended upward with higher doses, and was not elevated with short-term (\u226414 days) use. Risk also differed by clinical context, higher in traumatic versus elective procedures. CONCLUSIONS: NSAID-related impairment of bone healing seems dose and context-dependent, with clinically important risk particularly in adults, long-bone fractures, and higher dose regimens. Short-term use (\u226414 days) was not associated with increased nonunion risk. Risk seemed higher in traumatic fractures than in elective procedures. These findings support caution in higher risk scenarios, suggesting that short-duration NSAID use may be safe when avoiding higher dose exposure.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42489592/",
+      "score": 71,
+      "score_reasoning": "Large umbrella review and reconstructed meta-analysis from JAAOS pooling 38 primary studies demonstrating NSAIDs increase nonunion risk especially with prolonged/high-dose use, directly informing perioperative analgesic decision-making in fracture and elective surgery.",
+      "bullets": [
+        "NSAIDs are associated with higher nonunion risk in adults with long-bone fractures, particularly at higher doses and in traumatic rather than elective cases.",
+        "Short-term NSAID use of 14 days or fewer was not associated with increased nonunion risk, and pediatric patients showed no significant increase in risk at any duration.",
+        "Orthopaedic surgeons can use short courses of low-dose NSAIDs perioperatively with reasonable safety, but should exercise caution in adults with traumatic long-bone fractures requiring prolonged or high-dose treatment."
+      ]
+    },
+    {
+      "pmid": "42499167",
+      "title": "Nerve Blocks for Shoulder Arthroscopy: A Systematic Review of Randomized Controlled Trials With a Network Meta-analysis.",
+      "authors": [
+        "Hurley ET",
+        "Goltz DE",
+        "Frank RM",
+        "Sethi P",
+        "Garrigues GE"
+      ],
+      "authors_short": "Hurley ET, Goltz DE, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Despite the minimally invasive nature of shoulder arthroscopy, postoperative pain can be substantial, often peaking within the first 24 hours and significantly influencing early rehabilitation, patient satisfaction, and overall outcomes. PURPOSE: To compare the analgesic efficacy of interscalene block (ISB), suprascapular block (SSB), supraclavicular block (SCB), combined block techniques, and general anesthesia (GA) alone for shoulder arthroscopy using a network meta-analysis (NMA) of randomized controlled trials (RCTs). STUDY DESIGN: Systematic review and meta-analysis; Level of evidence, 1. METHODS: A systematic review of the literature was performed based on the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines. Studies were included if they were an RCT evaluating ISB, SSB, SCB, combined block techniques, and GA. Outcomes included postoperative pain scores in the postanesthesia care unit and at 2, 6, 12, and 24 hours, as well as 24-hour opioid consumption. Mean differences with 95% confidence intervals were synthesized using a random-effects model with a common between-study variance. Treatments were ranked using P-scores and expressed as surface under the cumulative ranking curve (SUCRA) values. RESULTS: A total of 63 RCTs (4235 patients) were included. ISB consistently reduced 24-hour opioid consumption compared with other techniques (P-score = 0.775; SUCRA = 77.5%). Combined strategies demonstrated superior pain control at specific postoperative time points: SCB plus axillary nerve block (Ax) ranked highest at 2 hours (P-score = 0.735), SSB plus costoclavicular block (CCB) at 6 hours (P-score = 0.728), and SSB alone at 12 hours (P-score = 0.851). At 24 hours, SCB+Ax again ranked highest (P-score = 0.638), although differences from ISB were modest. Between-study variance (\u03c42) was moderate for pain outcomes (range, 0.85-7.93) and substantial for opioid consumption (\u03c42 = 28.16). CONCLUSION: ISB remains the most consistent technique for reducing postoperative opioid requirements after shoulder arthroscopy. Alternative strategies, including SSB alone as well as combined block approaches (eg, SCB+Ax, SSB+CCB), demonstrated incremental benefits in pain control during the early and intermediate postoperative periods.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42499167/",
+      "score": 65,
+      "score_reasoning": "Prospective cohort (n=184) examining preoperative hip abductor strength as a predictor of 12-month HOOS-JR and MCID after THA, providing a simple, clinically applicable preoperative screening tool for identifying patients who may benefit from targeted prehabilitation.",
+      "bullets": [
+        "For patients undergoing shoulder arthroscopy, interscalene block reduces 24-hour opioid consumption more reliably than any other nerve block technique or general anesthesia alone.",
+        "Combined blocks such as supraclavicular plus axillary nerve block and suprascapular plus costoclavicular block offer modest pain score improvements at specific early time points but do not clearly outperform interscalene block overall.",
+        "For surgeons seeking to minimize postoperative opioids after shoulder arthroscopy, interscalene block remains the first-choice regional technique, with combined block strategies as reasonable alternatives when phrenic nerve palsy must be avoided."
+      ]
+    },
+    {
+      "pmid": "42487628",
+      "title": "Revision Hip Arthroscopy: Propensity Score-Matched Comparison of Labral Reconstruction Versus Repair With Minimum 5-Year Outcomes.",
+      "authors": [
+        "Quesada-Jimenez R",
+        "Cohen MF",
+        "Rana K",
+        "Kahana-Rojkind AH",
+        "Domb BG"
+      ],
+      "authors_short": "Quesada-Jimenez R, Cohen MF, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: There is a paucity of literature comparing the midterm outcomes of arthroscopic labral reconstruction and arthroscopic labral repair in the revision setting. PURPOSE: To evaluate the minimum 5-year patient-reported outcomes (PROs) of patients who underwent revision hip arthroscopy, comparing labral reconstruction with labral repair. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: A retrospective analysis was performed for patients who underwent revision hip arthroscopy, either labral repair or labral reconstruction, to treat femoroacetabular impingement and labral tears between 2008 and 2019. Patients who underwent reconstruction were matched 1:1 to patients who underwent repair. Included patients had complete preoperative and minimum 5-year follow-up scores for at least one of the following PRO measures: modified Harris Hip Score, Non-Arthritic Hip Score, Hip Outcome Score-Sports-Specific Subscale, patient satisfaction, and visual analog scale for pain. Rates of achieving the minimal clinically important difference and patient acceptable symptom state as well as secondary surgery rates were compared between groups. RESULTS: A total of 68 patients were included, with 34 patients who underwent labral reconstruction successfully matched to 34 patients who underwent labral repair, controlling for age, body mass index, sex, acetabular Outerbridge grade, and capsular treatment. The reconstruction group had a significantly higher incidence of Seldes type 1 and 2 labral tears (n = 21 [61.8%]) compared to the repair group, which had a higher proportion of Seldes type 1 tears (n = 11 [32.4%]) (both P < .05). Both groups demonstrated a significant improvement in scores from preoperatively to postoperatively (all P < .01) and achieved the minimal clinically important difference and patient acceptable symptom state at similar rates across all PRO measures. There were no significant differences between groups in the rates of revision arthroscopy or conversion to arthroplasty. CONCLUSION: Patients undergoing revision hip arthroscopy with adequate labral treatment, either labral reconstruction or labral repair, can expect favorable and comparable outcomes, reaching clinically relevant thresholds at similar rates, with a low complication rate, at midterm follow-up.",
+      "pub_types": [
+        "Journal Article",
+        "Comparative Study"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42487628/",
+      "score": 62,
+      "score_reasoning": "Propensity-matched cohort study (n=68 matched pairs) with minimum 5-year outcomes comparing labral reconstruction versus repair in revision hip arthroscopy from AJSM, providing midterm comparative data in an area with limited evidence.",
+      "bullets": [
+        "In revision hip arthroscopy, both labral reconstruction and repair produced similar pain relief and functional improvement at five years.",
+        "Patients with more complex labral tears (Seldes type 1 and 2) were more likely to receive reconstruction, yet outcomes matched those who underwent repair.",
+        "Surgeons can choose reconstruction or repair based on tissue quality in revision cases, without expecting a difference in reoperation rates or patient satisfaction."
+      ]
+    },
+    {
+      "pmid": "42498277",
+      "title": "For Love, Money, or Country: What Is the Return on Investment of Orthopaedic Fellowship, Academic, and Military Pathways?",
+      "authors": [
+        "Jhand AS",
+        "Elnaggar A",
+        "Almaat A",
+        "Brown M",
+        "Mehaidli A",
+        "Nicholson T",
+        "Andrews E"
+      ],
+      "authors_short": "Jhand AS, Elnaggar A, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: More than 90% of graduating orthopaedic residents pursue fellowship, although prior return-on-investment analyses show limited financial advantage. Contemporary compensation, evolving loan policies, and military-funded education may alter these outcomes, yet no prior analysis of which we are aware has integrated contemporary subspecialty compensation, academic versus nonacademic practice, and military-funded education into a single career-long financial model, leaving trainees and advisors without an up-to-date estimate of what each pathway costs or returns. QUESTIONS/PURPOSES: (1) What is the lifetime net present value (NPV) and internal rate of return (IRR) of orthopaedic subspecialty fellowship training relative to nonacademic general orthopaedic practice, both with and without adjustment for work hours? (2) What is the lifetime financial impact of military-funded medical education pathways (Health Professions Scholarship Program [HPSP] and Uniformed Services University of the Health Sciences [USUHS]) relative to civilian general orthopaedic practice? (3) What is the lifetime financial impact of academic practice relative to nonacademic practice across orthopaedic subspecialties? METHODS: A cross-sectional economic model was developed using 2025 compensation data from the American Medical Group Association, Association of American Medical Colleges, and Defense Finance and Accounting Service. We calculated the NPV (the difference in lifetime earnings between a pathway and nonacademic general orthopaedic practice in today's dollars) and the IRR (the effective annual return a pathway earns on the income given up to pursue it) over a 34-year career. Because a dollar today is worth more than a dollar in the future, future earnings were discounted at 5% annually; to confirm that our conclusions did not depend on this assumption, we repeated all calculations at 7.5% and 10% (sensitivity analyses). Fellowship opportunity cost was defined as the general orthopaedic income given up during the additional training year minus the fellowship stipend. Military pathways incorporated in-training compensation and each program's active-duty service obligation, with the model assuming a 4-year (HPSP) or 7-year (USUHS) military career followed by separation to civilian practice. Matched retirement contributions under the Blended Retirement System were evaluated but not included in the primary model because analogous civilian retirement benefits were also excluded; nonmonetary aspects of military service, such as time away from family and risk to life and limb, cannot be credibly expressed in dollars and were not modeled. As subspecialists report longer workweeks than generalists, subspecialty earnings were also normalized to generalist-equivalent work hours (approximately 48 hours per week for generalists versus 54 for subspecialists, according to the American Academy of Orthopaedic Surgeons census), allowing comparison on a per hour basis. RESULTS: At a 5% discount rate, spine surgery was the only subspecialty with a positive lifetime NPV, achieving break-even 6 years after fellowship. Joint replacement and trauma demonstrated IRRs of 2.6% and 1.2%, respectively; because these fall below the 5% discount rate, the income given up during fellowship would have grown more if simply invested, making them financially unfavorable despite higher eventual earnings. All other subspecialties yielded negative NPVs, that is, less lifetime earning, in today's dollars than general orthopaedic practice. After work-hours adjustment, all subspecialties (including spine surgery) demonstrated negative NPVs, so on a per hour basis no fellowship pathway out-earned general orthopaedic practice. Relative to civilian general orthopaedic practice, and regardless of subsequent subspecialty choice, military-funded education was associated with lifetime NPV reductions of approximately USD 1.7 million for HPSP and USD 3.0 million for USUHS. Academic practice demonstrated a lower lifetime NPV than nonacademic practice across all subspecialties, with the largest reduction (approximately USD 2.4 million) in trauma. As all model inputs were national mean (or fixed military) figures rather than individual-level data, confidence intervals could not be calculated; sensitivity analyses at higher discount rates served as the robustness test and left these findings unchanged. CONCLUSION: Under contemporary compensation conditions, spine surgery remains the only subspecialty with a positive financial return relative to general orthopaedic practice; most fellowship, academic, and military-funded pathways carry measurable long-term financial trade-offs. Medical schools and residency programs should present career-long earnings comparisons alongside the nonfinancial rewards of each pathway, and trainees may be best served by choosing fellowships based on clinical interest, lifestyle, and job-market realities rather than expected financial gain. LEVEL OF EVIDENCE: Level III, economic and decision analysis.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42498277/",
+      "score": 59,
+      "score_reasoning": "Systematic review and network meta-analysis of 63 RCTs (4,235 patients) from AJSM comparing nerve block techniques for shoulder arthroscopy, providing high-level evidence to guide anesthesia selection for one of the most common upper extremity procedures.",
+      "bullets": [
+        "Spine surgery is the only orthopaedic fellowship that generates higher lifetime earnings than general orthopaedic practice, breaking even 6 years after training, while all other subspecialties yield less total income in today's dollars.",
+        "When earnings are adjusted for longer subspecialty work hours, even spine surgery falls behind general orthopaedic practice on a per-hour basis, meaning no fellowship pathway out-earns general practice hour for hour.",
+        "Military-funded medical education and academic practice both carry substantial long-term financial costs for orthopaedic surgeons, with lifetime earning reductions ranging from roughly 1.7 million dollars for HPSP to 3.0 million dollars for USUHS compared to civilian general practice."
+      ]
+    },
+    {
+      "pmid": "42537744",
+      "title": "Superior Internal Rotation after Anatomic vs. Reverse Shoulder Arthroplasty Performed with Lesser Tuberosity Osteotomy.",
+      "authors": [
+        "Shi BY",
+        "Fiandeiro M",
+        "Satalich JR",
+        "Saha I",
+        "Uvarov E",
+        "Chhabra V",
+        "Lencer A",
+        "Williams GR",
+        "Namdari S"
+      ],
+      "authors_short": "Shi BY, Fiandeiro M, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Recent studies report superior internal rotation (IR) and lower anterior shoulder pain after anatomic total shoulder arthroplasty (aTSA) compared to reverse total shoulder arthroplasty (rTSA) for cuff-intact osteoarthritis. However, these differences may reflect variations in subscapularis management rather than implant design, as lesser tuberosity osteotomy (LTO) is routinely performed during aTSA but less commonly during rTSA. This is an important distinction given the higher healing rates after LTO and impact of subscapularis healing on IR after rTSA. We compared outcomes between aTSA and rTSA in cuff-intact osteoarthritis patients when subscapularis management was standardized using LTO. METHODS: We conducted a retrospective review of consecutive primary rTSA or aTSA cases performed with an LTO (2019-2023). Inclusion criteria included glenohumeral arthritis, intact rotator cuff, and minimum two-year follow-up. Demographics, range of motion (ROM), and patient-reported outcomes including Single Assessment Numeric Evaluation (SANE), American Shoulder and Elbow Surgeons (ASES) score, Anterior Shoulder Pain and Dysfunction Score (ASPDS), and Visual Analog Scale (VAS) for pain were compared. IR was assessed with the vertebral level method and converted to ordinal scores based on the Constant score. Preoperative glenoid morphology and retroversion were determined from advanced imaging. LTO healing was evaluated radiographically at minimum 3 months. Multivariable analysis was performed with age, sex, Walch classification, retroversion, and LTO healing included as covariates (\u03b1=0.05). RESULTS: Forty-six LTO-rTSA and 160 LTO-aTSA patients were included at a mean follow-up 3.9 +/- 1.6 years (range, 2.0-6.9 years). Anatomic TSA patients were younger (66.4 vs 71.5 years, p<0.001) but groups were otherwise similar with respect to sex, glenoid morphology, retroversion, and preoperative ROM and function. LTO healing/non-displacement occurred in 95% of patients, with no difference between cohorts (p=0.184). Healed LTO was associated with superior final ROM across all planes. Anatomic TSA patients achieved higher final ROM, greater improvements in ER (22\u00b0 vs 16\u00b0, p=0.010) and IR (2.4 vs 0.8 points, p<0.001), and higher final SANE and ASES scores. On multivariable analysis, aTSA was associated with increased odds of IR improvement (OR 4.0, 95% CI 1.4-11.3, p=0.005). DISCUSSION: When subscapularis management was standardized using LTO, aTSA achieved superior internal rotation compared to rTSA, independent of age, glenoid morphology, and LTO healing. These findings demonstrate that the reported range of motion advantages of aTSA are intrinsic to implant biomechanics rather than subscapularis management, supporting its continued role for cuff-intact glenohumeral osteoarthritis. LEVEL OF EVIDENCE: Level III (Retrospective Cohort Comparison, Treatment Study).",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42537744/",
+      "score": 58,
+      "score_reasoning": "Retrospective matched cohort (n=18 failures vs surviving sleeves) identifying medial baseplate unsupport and undersized stems as radiographic risk factors for aseptic tibial sleeve failure in revision TKA, addressing a specific high-stakes surgical decision.",
+      "bullets": [
+        "When the same subscapularis repair technique was used for both implant types, anatomic shoulder replacement still produced better internal rotation than reverse replacement in patients with an intact rotator cuff.",
+        "This applies to cuff-intact patients with glenohumeral osteoarthritis who are candidates for either implant, and the internal rotation advantage of anatomic replacement is tied to implant biomechanics, not how the subscapularis was handled.",
+        "For cuff-intact shoulders, anatomic total shoulder replacement remains the preferred choice when internal rotation and overall function are priorities."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-08-02T04:15:52.175318-07:00"
+}
