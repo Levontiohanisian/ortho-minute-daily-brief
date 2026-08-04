@@ -1,0 +1,291 @@
+{
+  "brief_date": "2026-08-04",
+  "brief_date_display": "Tuesday, August 04",
+  "candidates": [
+    {
+      "pmid": "42547948",
+      "title": "Quadriceps Tendon Autografts Are Associated With Increased Short-term Reoperation Rates for Extension Deficit or Pain and Inferior Patient-Reported Outcomes Compared With Hamstring Tendon Autografts: An Analysis of 5653 Cases of Primary Anterior Cruciate Ligament Reconstruction.",
+      "authors": [
+        "Kekki C",
+        "Cristiani R",
+        "St\u00e5lman A",
+        "von Essen C"
+      ],
+      "authors_short": "Kekki C, Cristiani R, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Anterior cruciate ligament reconstruction (ACLR) rates are rising, and quadriceps tendon (QT) autografts have gained popularity in recent years. Although QT autografts show objective and subjective outcomes comparable to hamstring tendon (HT) and bone-patellar tendon-bone (BPTB) autografts, nonrevision reoperations across graft types and their impact on patient-reported outcome measure (PROM) scores remain poorly studied. PURPOSE: To compare nonrevision reoperation rates and PROM scores between primary ACLR using HT, BPTB, and QT autografts at 2 years' follow-up. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: In this retrospective cohort study, 5653 primary ACLR procedures (2015-2022) were categorized by autograft type. Reoperations for extension deficit or pain, meniscal injuries, or cartilage injuries within 2 years were identified through medical records. Revision ACLR and graft failure were not included. Patient-reported outcomes were assessed preoperatively and at 2 years postoperatively using the Knee Injury and Osteoarthritis Outcome Score (KOOS). The minimal important change, patient acceptable symptom state, and treatment failure were evaluated using the KOOS4. Subgroup analysis examined associations between graft diameter, sex, and reoperations for extension deficit or pain. RESULTS: The QT group had a higher overall reoperation rate (19.2%) than the HT (8.9%) and BPTB (6.9%) groups (P < .001), driven by extension deficit or pain (11.9% vs 5.5% and 4.7%, respectively; P < .001). QT grafts remained independently associated with reoperations for extension deficit or pain after adjusting for confounders (odds ratio [OR], 1.96 [95% confidence interval (CI), 1.44-2.67]; P < .001). The QT group demonstrated lower odds of achieving the minimal important change than the HT (OR, 0.56 [95% CI, 0.41-0.77]; P < .001) and BPTB (OR, 0.48 [95% CI, 0.32-0.72]; P < .001) groups. The QT and BPTB groups showed higher odds of experiencing treatment failure (OR, 1.98 [95% CI, 1.21-3.23]; P = .01 and OR, 2.00 [95% CI, 1.10-3.63]; P = .02) and lower odds of achieving the patient acceptable symptom state (OR, 0.65 [95% CI, 0.49-0.85]; P = .002 and OR, 0.57 [95% CI, 0.41-0.79]; P < .001) than the HT group. On sex-stratified analysis, female patients demonstrated higher reoperation rates for extension deficit or pain than male patients (7.3% vs 5.5%, respectively; P = .01), and female patients receiving larger grafts (9.5-12.0 mm) demonstrated 72% higher odds of having this outcome (OR, 1.72 [95% CI, 1.14-2.56]; P = .01). CONCLUSION: QT autografts were associated with significantly higher reoperation rates for extension deficit or pain and inferior PROM scores compared with HT autografts at 2 years after primary ACLR.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42547948/",
+      "score": 82,
+      "score_reasoning": "Large retrospective cohort (n=5653) in a high-impact journal directly comparing graft types for ACLR with clinically actionable findings on reoperation rates and PROMs that affect surgical decision-making.",
+      "bullets": [
+        "Quadriceps tendon autografts had nearly double the reoperation rate of hamstring grafts at 2 years (19.2% vs 8.9%), driven largely by extension deficit and pain.",
+        "Patients receiving quadriceps tendon grafts were less likely to reach a meaningful improvement in knee symptoms and more likely to report treatment failure compared to hamstring graft recipients.",
+        "Female patients receiving larger quadriceps tendon grafts (9.5 to 12.0 mm) had 72% higher odds of reoperation for extension deficit or pain, suggesting graft sizing warrants extra attention in women."
+      ]
+    },
+    {
+      "pmid": "42520992",
+      "title": "Preoperative Methicillin-Resistant Staphylococcus aureus Colonization and Risk of Periprosthetic Joint Infection after Total Joint Arthroplasty: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Javidmehr S",
+        "Javad Mortazavi SM",
+        "Rastegar M",
+        "Moradi M",
+        "Ebrahimian M",
+        "Siavashi B"
+      ],
+      "authors_short": "Javidmehr S, Javad Mortazavi SM, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Although preoperative screening and decolonization of methicillin-resistant Staphylococcus aureus (MRSA) reduce the risk of periprosthetic joint infection (PJI) and surgical site infections (SSI) after total joint arthroplasty (TJA), the residual infection risk in MRSA-colonized patients who undergo decolonization remains debated. This systematic review investigated the association between preoperative MRSA colonization and the risk of PJI and SSI after TJA. METHODS: In accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, PubMed/Medline, Embase, Scopus, and Web of Science databases were searched until October 24, 2025. Studies examining the association of preoperative MRSA colonization with PJI and SSI risk after TJA were included. Patients were classified as MRSA positive (MRSA+) or MRSA negative (MRSA-) based on preoperative screening. All MRSA+ patients who underwent decolonization protocols. Random-effects meta-analysis was performed. Heterogeneity was assessed using I2 statistics, and meta-regression identified associated variables. There were 15 studies involving 318,487 patients (4,560 MRSA+ and 313,927 MRSA-) included. RESULTS: Despite decolonization, MRSA+ colonization was associated with increased risk of PJI (OR [odds ratio]: 2.42, 95% CI [confidence interval]: 1.35 to 3.49; I2: 75%, P < 0.001) and SSI (OR: 2.54, 95% CI: 1.86 to 3.21; I2: 50.1%, P < 0.001) after TJA. Subgroup analyses showed stronger associations with longer follow-up periods (greater than 12 months: OR 3.01 versus \u2264 12 months: OR 2.00 for PJI; P = 0.05 for interaction). CONCLUSIONS: Preoperative MRSA+ colonization, despite standard decolonization protocols, may still be associated with an increased risk of PJI and SSI after TJA. The methicillin-resistant staphylococcus aureus + ( MRSA+) patients require enhanced antimicrobial prophylaxis strategies, extended surveillance, and multidisciplinary management. These findings support universal MRSA screening but emphasize that decolonization alone may not normalize infection risk to that of MRSA- patients.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42520992/",
+      "score": 78,
+      "score_reasoning": "Large systematic review and meta-analysis (n=318,487) with direct clinical relevance showing MRSA colonization doubles PJI risk even after decolonization, with immediate implications for preoperative screening protocols in arthroplasty.",
+      "bullets": [
+        "In over 318,000 total joint arthroplasty patients, preoperative MRSA colonization doubled the risk of periprosthetic joint infection and surgical site infection even after standard decolonization.",
+        "This applies to any patient undergoing total hip or knee arthroplasty who screens MRSA positive before surgery.",
+        "Decolonization alone does not normalize infection risk, so MRSA-positive patients need enhanced prophylaxis, closer follow-up beyond 12 months, and multidisciplinary planning before arthroplasty."
+      ]
+    },
+    {
+      "pmid": "42520131",
+      "title": "An International Expert Consensus Statement Defining the Best Practices and Areas of Uncertainty Concerning the Use of Orthobiologics.",
+      "authors": [
+        "Kunze KN",
+        "Morgan JT",
+        "Gerhold C",
+        "Nishioka T",
+        "Piuzzi NS",
+        "Chahla J"
+      ],
+      "authors_short": "Kunze KN, Morgan JT, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: The use of orthobiologics has received increasing interest given the potential positive treatment effects on symptoms and tissue regeneration. However, there remains substantial variability surrounding the uses of orthobiologics in clinical practice. The purpose of this study was to create an international Delphi expert consensus statement on the use of orthobiologics in musculoskeletal medicine. METHODS: A working group consisting of 6 members developed 77 initial statements for review by a 24-member panel of international experts. Surveys were conducted in 3 rounds and administered electronically to participants. Participants were asked to respond to each statement using a Likert scale of \"strongly disagree,\" \"disagree,\" \"neither disagree nor agree,\" \"agree,\" and \"strongly agree.\" The final consensus statement included those statements that achieved \u226570% agreement and <20% disagreement. Statements that did not initially achieve consensus were iteratively revised between rounds, which included the incorporation of qualifying language to reflect areas of clinical uncertainty. RESULTS: Sixty-two final statements were utilized in round 3. Each round had 100% participation. Consensus increased sequentially from 48.1% (37 of 77 statements) in round 1 to 96.8% (60 of 62 statements) in round 3. Complete consensus (\u226570% agreement and <20% disagreement) was achieved in the following categories: general orthobiologics and PRP (platelet-rich plasma) topics; PRP for knee, hip, and glenohumeral osteoarthritis; PRP for Achilles tendinopathy; PRP for lateral epicondylitis and rotator cuff tendinitis; PRP for meniscus repair augmentation; bone marrow aspirate concentrate; autologous conditioned serum; amniotic derivatives; gene therapy; exosomes; and biologic delivery methods. Some of the topics concerning PRP for rotator cuff repair augmentation and autologous cell-based therapies did not achieve consensus. CONCLUSIONS: A high degree of consensus was achieved across statements concerning appropriate use cases for various orthobiologic therapies. However, many of the adopted statements retained qualifying language, reflecting persistent areas of uncertainty in orthobiologic preparation, dosing, and indication-specific efficacy. Despite high levels of agreement across most categories, experts contended that dosing, preparation methods, and quality control remain areas of uncertainty and inconsistency that require standardization in order to allow for reproducible and meaningful treatment effects.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42520131/",
+      "score": 76,
+      "score_reasoning": "International Delphi consensus on orthobiologics from JBJS provides practical, expert-derived guidance on a rapidly evolving area affecting multiple subspecialties, with high clinical applicability across orthopaedic practice.",
+      "bullets": [
+        "An international expert panel reached consensus that PRP has supported use cases for knee, hip, and glenohumeral osteoarthritis, Achilles tendinopathy, lateral epicondylitis, rotator cuff tendinitis, and meniscus repair augmentation.",
+        "Experts could not reach consensus on PRP for rotator cuff repair augmentation or autologous cell-based therapies, meaning these indications lack sufficient agreement to guide routine clinical use.",
+        "Even where consensus was reached, dosing, preparation methods, and quality control remain unstandardised, so surgeons should interpret orthopaedic biologic treatments with caution until standardisation is established."
+      ]
+    },
+    {
+      "pmid": "42542307",
+      "title": "Liposomal Bupivacaine in Periarticular Injection Cocktails for Pain Management After Total Knee Arthroplasty: A Systematic Review of Randomized Controlled Trials.",
+      "authors": [
+        "Ng MK",
+        "Mastrokostas LE",
+        "Mastrokostas PG",
+        "Mont MA"
+      ],
+      "authors_short": "Ng MK, Mastrokostas LE, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Postoperative pain remains a major barrier to recovery after total knee arthroplasty (TKA), contributing to delayed mobilization, prolonged opioid use, and extended hospitalization. Liposomal bupivacaine (LB), an extended-release local anesthetic, has gained interest as a component of periarticular injection (PAI) protocols to improve analgesia and reduce opioid use. However, its utility remains debated due to inconsistent findings. This systematic review aimed to assess (1) the effectiveness of LB in improving postoperative pain control; (2) its impact on short-term opioid consumption; and (3) its influence on functional recovery, patient satisfaction, and adverse events. METHODS: This systematic review adhered to the Preferred Reporting Items for Systematic reviews and Meta-Analyses guidelines and searched PubMed and Embase through July 28, 2025, for randomized controlled trials (RCTs) evaluating LB delivered via PAI in patients undergoing TKA. Inclusion criteria required comparison with non-liposomal bupivacaine or multimodal cocktails and reporting of clinical or economic outcomes. Studies using nerve blocks or lacking randomization were excluded. Methodologic quality was assessed using the modified Coleman Methodology Score (mCMS), and only high-quality studies (mCMS \u2265 85) were included. RESULTS: There were eight RCTs encompassing 1,334 patients that met inclusion criteria. Use of LB was associated with improved early postoperative pain control in five of eight studies, particularly within the first 24 hours postoperatively. Several trials also reported reductions in opioid consumption and higher patient satisfaction without increased adverse events. Functional recovery metrics, such as ambulation and discharge readiness, showed variable benefit. No study reported inferior outcomes with LB. Across trials, LB demonstrated a consistent safety profile and favorable early analgesic effects. CONCLUSION: Liposomal bupivacaine administered via PAI provides improvements in postoperative pain and short-term opioid reduction after TKA, with potential benefits on functional recovery. These findings support its role in multimodal pain pathways, particularly in fast-track or outpatient protocols.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42542307/",
+      "score": 74,
+      "score_reasoning": "Systematic review of TKA outcomes in patients on chronic antithrombotic therapy covering 104,182 patients is highly relevant to perioperative management given the aging surgical population with cardiovascular comorbidities.",
+      "bullets": [
+        "Adding liposomal bupivacaine to periarticular injection cocktails reduced pain and opioid use in the first 24 hours after total knee arthroplasty across most high-quality randomized trials reviewed.",
+        "No trial reported worse outcomes with liposomal bupivacaine compared to standard cocktails, and the safety profile was consistent across all 1,334 patients studied.",
+        "Liposomal bupivacaine is a reasonable addition to multimodal pain protocols for total knee arthroplasty patients, particularly those in fast-track or outpatient settings where early mobilization is a priority."
+      ]
+    },
+    {
+      "pmid": "42544937",
+      "title": "Adductor Canal Block and Local Anesthetic Versus Local Anesthetic Alone in ACL Reconstruction: A Double-Blind Randomized Controlled Trial.",
+      "authors": [
+        "Ojaghi R",
+        "Locke E",
+        "Elmi P",
+        "Pickell M"
+      ],
+      "authors_short": "Ojaghi R, Locke E, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Effective postoperative analgesia is crucial for early recovery after anterior cruciate ligament reconstruction (ACLR). Local infiltration analgesia (LIA) and adductor canal block (ACB) are common regional techniques, but their combined efficacy remains unclear. PURPOSE: To compare the effectiveness of LIA alone versus LIA combined with ACB in patients undergoing ACLR, with primary outcomes including postoperative opioid consumption and quadriceps function. STUDY DESIGN: Randomized controlled trial; Level of evidence, 1. METHODS: A double-blind randomized controlled trial enrolled 100 patients undergoing ACLR under general anesthesia. Patients were randomized into 2 groups: LIA + sham (saline injection) (n = 50) and LIA + ACB (n = 50). The primary outcome was postoperative opioid consumption in the first 24 hours. Secondary outcomes included visual analog scale (VAS) pain score, quadriceps function assessed by straight leg raise (SLR) at 3 hours, Quality of Recovery-15 (QoR-15) score, and Knee Injury and Osteoarthritis Outcome Score (KOOS) at 1 week. Statistical analysis was performed using t tests and chi-square tests with a P value <.05 considered significant. RESULTS: There was no significant difference in 24-hour opioid consumption between the LIA + ACB and LIA-only groups (P = .109). Similarly, VAS pain scores at 24 hours postoperatively showed no significant differences between the groups (P = .0804). Early functional recovery, assessed by SLR performance at 3 hours, was equivalent between groups (P = .6711). Additionally, QoR-15 scores on postoperative day 1 and KOOS values at 1 week demonstrated no significant differences (P = .6486 and P = .9054, respectively). Intraoperative opioid consumption was not different between the groups (P = .127). CONCLUSION: These findings indicate that the addition of ACB to LIA does not yield postoperative analgesic in ACLR. Consequently, LIA alone suffices for routine ACLR, potentially enabling clinicians to optimize perioperative workflows without incurring the additional time, financial burden, and resources associated with routine ACB administration. TRIAL REGISTRATION: ClinicalTrials.gov; NCT04721119.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42544937/",
+      "score": 72,
+      "score_reasoning": "Large registry-based cohort study (n=14,660) from the UK National Ligament Registry evaluating KOOS responsiveness and ceiling effects after ACLR provides essential psychometric data for outcome measurement in clinical practice.",
+      "bullets": [
+        "Adding an adductor canal block to local infiltration analgesia after ACL reconstruction did not reduce opioid use, pain scores, or improve quadriceps function compared to local infiltration alone.",
+        "This applies to adult patients undergoing ACL reconstruction under general anesthesia who receive a standard local infiltration analgesia protocol.",
+        "Local infiltration analgesia alone is sufficient for routine ACL reconstruction analgesia, making the additional time and cost of an adductor canal block unnecessary."
+      ]
+    },
+    {
+      "pmid": "42535835",
+      "title": "Risk and Timing of Total Knee Arthroplasty After High Tibial Osteotomy: A Cohort Study With 10-Year Follow-Up.",
+      "authors": [
+        "Randall ZD",
+        "Mologne MS",
+        "Pereira DE",
+        "Brophy RH"
+      ],
+      "authors_short": "Randall ZD, Mologne MS, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: High tibial osteotomy (HTO) is a joint-preserving procedure used to relieve pain and delay, or even eliminate, the need for total knee arthroplasty (TKA). The aim of this study was to quantify the incidence of TKA after HTO and identify risk factors associated with conversion. METHODS: Patients undergoing HTO at a single academic center from 1996 to 2015 were identified using a validated deidentified synthetic data platform from real patient data, ensuring a minimum of 10 years of follow-up. Patients aged 18 years with procedural codes for HTO were included. The primary outcome was TKA incidence; the secondary outcome was time to TKA. A modified Poisson regression evaluated associations between TKA, age, and BMI among individuals with complete BMI data. RESULTS: A total of 207 patients (mean age, 41.3 \u00b1 11.2 years; 62.8% male) were identified. Mean follow-up was 17.8 \u00b1 4.8 years. Overall, 20 patients (9.9%) underwent TKA. Those converting to TKA were significantly older at HTO (45.3 \u00b1 6.1 vs. 40.9 \u00b1 11.6 years; P = 0.009) and had higher BMI (35.7 \u00b1 6.4 vs. 29.4 \u00b1 5.2; P = 0.01). TKA incidence increased over time: 5.9% at 10 years, 10.8% at 15 years, and 22.0% at 20 years. Higher BMI was independently associated with increased TKA risk (RR = 1.13; 95% CI, 1.04 to 1.23; P = 0.004). CONCLUSION: In this cohort with minimum 10-year follow-up, HTO demonstrated approximately a 90% knee survivorship at a mean of 17.8 years. Age and BMI at the time of HTO were associated with increased risk of TKA conversion and should be considered during patient counseling and selection.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42535835/",
+      "score": 71,
+      "score_reasoning": "10-year cohort study (n=207) from JAAOS quantifying TKA conversion risk and identifying age and BMI as independent risk factors after HTO provides long-term data directly relevant to joint-preservation counseling.",
+      "bullets": [
+        "About 1 in 10 patients converted to TKA after high tibial osteotomy at mean follow-up of nearly 18 years, with conversion rates rising to 22% by 20 years.",
+        "Patients who were older and had higher BMI at the time of osteotomy were significantly more likely to eventually require TKA.",
+        "When counseling patients before high tibial osteotomy, older age and obesity should be flagged as risk factors for earlier conversion to TKA."
+      ]
+    },
+    {
+      "pmid": "42517199",
+      "title": "Condylar-constrained prostheses are associated with favourable implant survival following first-time aseptic revision knee arthroplasty: An analysis from the National Joint Registry.",
+      "authors": [
+        "Tyas B",
+        "Hewitt C",
+        "Deehan D",
+        "Baker P"
+      ],
+      "authors_short": "Tyas B, Hewitt C, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: This study aimed to compare implant survivorship and patient-relevant outcomes associated with the constraint level used at first-time aseptic revision total knee arthroplasty (rTKA). METHODS: This retrospective cohort study used data from the National Joint Registry for England, Wales, Northern Ireland, the Isle of Man, Guernsey and Jersey, linked to Hospital Episode Statistics and national patient-reported outcome measures (PROMs). Patients undergoing first-time aseptic rTKA between 1 January 2009 and 30 September 2023 were included. Constraint was categorized as unconstrained, posterior-stabilized (PS), condylar-constrained (CCK) or hinge. The primary outcome was 10-year cumulative incidence of re-revision. Prespecified subgroups included patients at high risk of re-revision and those revised for aseptic loosening or instability. Secondary outcomes included 6-month PROMs; 90-day mortality and medical complications; and length of stay. Competing risk regression was used to estimate re-revision risk, treating death as a competing event. RESULTS: After exclusions, 12,950 cases were analysed (median follow-up 7.4 years [95% confidence interval, CI 7.3-7.5]. CCK prostheses were associated with the lowest unadjusted 10-year cumulative incidence of re-revision overall (9.2% [95% CI 8.4-10.1]) and in all subgroups. In the primary adjusted analysis, unconstrained (subdistribution hazard ratio [sHR] 1.46 [1.23-1.74], p\u2009<\u20090.001), PS (sHR 1.23 [1.04-1.44], p\u2009=\u20090.013) and hinged prostheses (sHR 1.66 [1.38-2.01], p\u2009<\u20090.001) were associated with higher re-revision risk than CCK constructs. There was weak evidence that the association between PS implants and re-revision was greater among low-volume than high-volume surgeons (interaction sHR 1.30 [1.00-1.70], p\u2009=\u20090.053). After further adjustment for implant-related factors, re-revision risk was similar for unconstrained (sHR 0.97 [0.78-1.21], p\u2009=\u20090.792) and PS implants (sHR 1.00 [0.83-1.19], p\u2009=\u20090.972) versus CCK, whilst increased risk associated with hinges persisted (sHR 1.67 [1.36-2.05], p\u2009<\u20090.001). CONCLUSION: CCK constructs were consistently associated with favourable implant survivorship across a range of clinical scenarios. These findings provide reassurance that clinically indicated use of CCK constraint is not associated with compromised implant survival. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42517199/",
+      "score": 70,
+      "score_reasoning": "Systematic review and meta-analysis of 35 studies (7,122 knees) demonstrating tibial and meniscal slopes as risk factors for meniscal tears provides clinically actionable biomechanical insight applicable to ACL and osteotomy planning.",
+      "bullets": [
+        "In over 12,000 aseptic revision knee arthroplasties, condylar-constrained implants had the lowest 10-year re-revision rate at 9.2%, outperforming unconstrained, posterior-stabilised, and hinged constructs.",
+        "Hinged implants carried persistently higher re-revision risk than condylar-constrained devices even after accounting for implant-related factors, while unconstrained and posterior-stabilised implants performed comparably once those factors were adjusted for.",
+        "Surgeons can use condylar-constrained implants when clinically indicated in first-time aseptic revision knee arthroplasty without concern that higher constraint will compromise implant survival."
+      ]
+    },
+    {
+      "pmid": "42545819",
+      "title": "Management of increased posterior tibial slope in ACL deficiency: A narrative review and recommendation of the Osteotomy Committee of the German Knee Society.",
+      "authors": [
+        "Mayer P",
+        "F\u00fcrmetz J",
+        "Bode G",
+        "Angele P",
+        "Ahrend MD",
+        "Leutheuser S",
+        "Lutter C",
+        "Faber S",
+        "Mueller MM",
+        "Harrer J",
+        "Ferner F",
+        "Vogt B",
+        "Imhoff FB",
+        "Schuster P"
+      ],
+      "authors_short": "Mayer P, F\u00fcrmetz J, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "Increased posterior tibial slope (PTS) is a known risk factor for anterior cruciate ligament (ACL) deficiency and graft failure after ACL reconstruction (ACLR). Although many studies investigated different aspects related to the PTS, there is still a lack of comprehensive recommendations and practical guidelines, especially with regard to radiographic analysis, surgical indication and surgical technique. The aim of this narrative review is to present such recommendations, based on the existing literature (evidence Level 3-4), supplemented by the expert opinions of the Osteotomy Committee of the German Knee Society. A review of the literature was conducted to summarize the current evidence concerning biomechanical background, radiological measurement, indication for surgical correction and surgical techniques. Results were presented to a panel of surgeons with recognized expertise in the treatment of ACL injuries and wide experience in surgical correction of the PTS, and consensus was formed by informal discussion. These recommendations were developed and included: (1) measuring the PTS should be performed on long lateral radiographs using the mechanical axis, with attention to a correct rotational alignment (exact superimposition of the posterior tibial condyles). (2) Indication for surgical correction does not depend on a single fixed cut-off value of the PTS. It should be based on an individual risk assessment (e.g., degree of anterior tibial translation and instability, meniscal integrity, number and quality of previous ACLR, trauma mechanism: contact vs. non-contact, contralateral injury). (3) For correction of pathologic PTS, different surgical techniques of anterior tibial closing wedge osteotomies have been reported without clear superiority of one technique. However, an infratuberositary approach is recommended, because it has been shown to be technically easier and safer. LEVEL OF EVIDENCE: Level V, narrative review and expert opinion.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42545819/",
+      "score": 69,
+      "score_reasoning": "Expert consensus narrative review from the German Knee Society Osteotomy Committee on managing increased posterior tibial slope in ACL deficiency provides practical surgical guidance for a clinically challenging scenario.",
+      "bullets": [
+        "Posterior tibial slope should be measured on long lateral radiographs using the mechanical axis, with exact superimposition of the posterior tibial condyles.",
+        "Surgical correction is not triggered by a single slope cutoff value, but by individual risk factors including anterior tibial translation, meniscal status, prior graft failures, and contralateral injury.",
+        "When osteotomy is indicated, an infratuberositary anterior closing wedge approach is recommended over supratuberositary techniques due to greater technical ease and a safer profile."
+      ]
+    },
+    {
+      "pmid": "42531342",
+      "title": "What's New in Shoulder and Elbow Surgery.",
+      "authors": [
+        "Rao AJ",
+        "Saltzman BM",
+        "Harrison AK"
+      ],
+      "authors_short": "Rao AJ, Saltzman BM, Harrison AK",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42531342/",
+      "score": 67,
+      "score_reasoning": "Large retrospective cohort study (n=193,483 after matching) in Journal of Arthroplasty demonstrating that diabetic neuropathy significantly increases PJI, implant failure, and medical complications after THA compared to diabetes alone.",
+      "bullets": [
+        "Shoulder arthroplasty volumes continue to rise, with reverse total shoulder replacement now the most commonly performed shoulder arthroplasty in the United States.",
+        "Biologics and orthobiologics for rotator cuff repair show inconsistent evidence, and routine clinical use is not yet supported by current data.",
+        "Elbow arthroplasty and instability management are evolving, with improved implant designs and repair techniques showing better outcomes for complex elbow injuries."
+      ]
+    },
+    {
+      "pmid": "42537744",
+      "title": "Superior Internal Rotation after Anatomic vs. Reverse Shoulder Arthroplasty Performed with Lesser Tuberosity Osteotomy.",
+      "authors": [
+        "Shi BY",
+        "Fiandeiro M",
+        "Satalich JR",
+        "Saha I",
+        "Uvarov E",
+        "Chhabra V",
+        "Lencer A",
+        "Williams GR",
+        "Namdari S"
+      ],
+      "authors_short": "Shi BY, Fiandeiro M, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Recent studies report superior internal rotation (IR) and lower anterior shoulder pain after anatomic total shoulder arthroplasty (aTSA) compared to reverse total shoulder arthroplasty (rTSA) for cuff-intact osteoarthritis. However, these differences may reflect variations in subscapularis management rather than implant design, as lesser tuberosity osteotomy (LTO) is routinely performed during aTSA but less commonly during rTSA. This is an important distinction given the higher healing rates after LTO and impact of subscapularis healing on IR after rTSA. We compared outcomes between aTSA and rTSA in cuff-intact osteoarthritis patients when subscapularis management was standardized using LTO. METHODS: We conducted a retrospective review of consecutive primary rTSA or aTSA cases performed with an LTO (2019-2023). Inclusion criteria included glenohumeral arthritis, intact rotator cuff, and minimum two-year follow-up. Demographics, range of motion (ROM), and patient-reported outcomes including Single Assessment Numeric Evaluation (SANE), American Shoulder and Elbow Surgeons (ASES) score, Anterior Shoulder Pain and Dysfunction Score (ASPDS), and Visual Analog Scale (VAS) for pain were compared. IR was assessed with the vertebral level method and converted to ordinal scores based on the Constant score. Preoperative glenoid morphology and retroversion were determined from advanced imaging. LTO healing was evaluated radiographically at minimum 3 months. Multivariable analysis was performed with age, sex, Walch classification, retroversion, and LTO healing included as covariates (\u03b1=0.05). RESULTS: Forty-six LTO-rTSA and 160 LTO-aTSA patients were included at a mean follow-up 3.9 +/- 1.6 years (range, 2.0-6.9 years). Anatomic TSA patients were younger (66.4 vs 71.5 years, p<0.001) but groups were otherwise similar with respect to sex, glenoid morphology, retroversion, and preoperative ROM and function. LTO healing/non-displacement occurred in 95% of patients, with no difference between cohorts (p=0.184). Healed LTO was associated with superior final ROM across all planes. Anatomic TSA patients achieved higher final ROM, greater improvements in ER (22\u00b0 vs 16\u00b0, p=0.010) and IR (2.4 vs 0.8 points, p<0.001), and higher final SANE and ASES scores. On multivariable analysis, aTSA was associated with increased odds of IR improvement (OR 4.0, 95% CI 1.4-11.3, p=0.005). DISCUSSION: When subscapularis management was standardized using LTO, aTSA achieved superior internal rotation compared to rTSA, independent of age, glenoid morphology, and LTO healing. These findings demonstrate that the reported range of motion advantages of aTSA are intrinsic to implant biomechanics rather than subscapularis management, supporting its continued role for cuff-intact glenohumeral osteoarthritis. LEVEL OF EVIDENCE: Level III (Retrospective Cohort Comparison, Treatment Study).",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42537744/",
+      "score": 63,
+      "score_reasoning": "Prospective analysis (n=163) demonstrating preoperative hip abductor strength independently predicts 12-month HOOS-JR outcomes after THA, offering a simple, actionable prehabilitation target for surgeons and care teams.",
+      "bullets": [
+        "When the same subscapularis repair technique was used for both implants, anatomic total shoulder arthroplasty produced better internal rotation than reverse total shoulder arthroplasty in patients with cuff-intact glenohumeral arthritis.",
+        "The internal rotation advantage of anatomic arthroplasty held up after controlling for age, glenoid shape, and subscapularis healing, pointing to implant biomechanics as the driver rather than surgical technique.",
+        "For surgeons choosing between implants in cuff-intact arthritis, this supports anatomic arthroplasty as the preferred option when internal rotation and functional outcome are the priority."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-08-04T05:02:20.396969-07:00"
+}
