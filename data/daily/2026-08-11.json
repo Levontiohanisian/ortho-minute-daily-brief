@@ -1,0 +1,298 @@
+{
+  "brief_date": "2026-08-11",
+  "brief_date_display": "Tuesday, August 11",
+  "candidates": [
+    {
+      "pmid": "42550892",
+      "title": "The Impact of Lesser Tuberosity Osteotomy Repair After Reverse Total Shoulder Arthroplasty: A Randomized Controlled Trial.",
+      "authors": [
+        "Aleem AW",
+        "Zmistowski BM",
+        "Sefko J",
+        "Chen L",
+        "Keener JD"
+      ],
+      "authors_short": "Aleem AW, Zmistowski BM, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Although reverse total shoulder arthroplasty (rTSA) is widely used to treat a variety of complex shoulder pathologies, the management of the subscapularis tendon during rTSA remains controversial. The aim of this study was to prospectively compare outcomes following rTSA with and without lesser tuberosity repair for subscapularis management. METHODS: This patient-blinded randomized controlled trial, conducted at a single institution, enrolled patients with a sufficiently intact subscapularis suitable for reattachment. Patients were randomized to either repair or no repair of the lesser tuberosity osteotomy (LTO) fragment to which the subscapularis was attached. Pre- and postoperative assessments involved radiographs, clinical examinations, and patient-reported outcomes, including a validated internal rotation functional score. The primary outcome was the American Shoulder and Elbow Surgeons (ASES) score. RESULTS: Eighty-five shoulders in 81 patients met the inclusion criteria and had at least 2 years of follow-up. Forty-three of these shoulders had been randomized to LTO repair. At 2 years of follow-up, the repair group demonstrated significantly better ASES scores compared with the no-repair group (90.4 versus 82.3, p = 0.01). Repair provided 7 times better odds of achieving improved internal rotation range of motion. There were no significant differences in other active shoulder motions or outcome scores. CONCLUSIONS: In primary rTSA, subscapularis reattachment (by repair of the LTO) yielded better functional outcomes and internal rotation range of motion, as well as a trend toward a better internal rotation functional score. These benefits were seen without sacrificing shoulder motion in other planes. LEVEL OF EVIDENCE: Therapeutic Level I. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42550892/",
+      "score": 88,
+      "score_reasoning": "High-impact RCT in JBJS on a directly actionable question (subscapularis repair in rTSA) with clear clinical findings showing significant outcome benefit, making it immediately practice-changing for shoulder arthroplasty surgeons.",
+      "bullets": [
+        "In a randomized controlled trial of primary reverse total shoulder arthroplasty, repairing the lesser tuberosity osteotomy produced significantly better shoulder function scores at two years compared to leaving it unrepaired.",
+        "Patients who had the subscapularis reattached were seven times more likely to gain internal rotation range of motion, with no loss of motion in other planes.",
+        "When the subscapularis is intact and reattachable during reverse total shoulder arthroplasty, surgeons should repair the lesser tuberosity osteotomy to optimize functional outcomes."
+      ]
+    },
+    {
+      "pmid": "42547948",
+      "title": "Quadriceps Tendon Autografts Are Associated With Increased Short-term Reoperation Rates for Extension Deficit or Pain and Inferior Patient-Reported Outcomes Compared With Hamstring Tendon Autografts: An Analysis of 5653 Cases of Primary Anterior Cruciate Ligament Reconstruction.",
+      "authors": [
+        "Kekki C",
+        "Cristiani R",
+        "St\u00e5lman A",
+        "von Essen C"
+      ],
+      "authors_short": "Kekki C, Cristiani R, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Anterior cruciate ligament reconstruction (ACLR) rates are rising, and quadriceps tendon (QT) autografts have gained popularity in recent years. Although QT autografts show objective and subjective outcomes comparable to hamstring tendon (HT) and bone-patellar tendon-bone (BPTB) autografts, nonrevision reoperations across graft types and their impact on patient-reported outcome measure (PROM) scores remain poorly studied. PURPOSE: To compare nonrevision reoperation rates and PROM scores between primary ACLR using HT, BPTB, and QT autografts at 2 years' follow-up. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: In this retrospective cohort study, 5653 primary ACLR procedures (2015-2022) were categorized by autograft type. Reoperations for extension deficit or pain, meniscal injuries, or cartilage injuries within 2 years were identified through medical records. Revision ACLR and graft failure were not included. Patient-reported outcomes were assessed preoperatively and at 2 years postoperatively using the Knee Injury and Osteoarthritis Outcome Score (KOOS). The minimal important change, patient acceptable symptom state, and treatment failure were evaluated using the KOOS4. Subgroup analysis examined associations between graft diameter, sex, and reoperations for extension deficit or pain. RESULTS: The QT group had a higher overall reoperation rate (19.2%) than the HT (8.9%) and BPTB (6.9%) groups (P < .001), driven by extension deficit or pain (11.9% vs 5.5% and 4.7%, respectively; P < .001). QT grafts remained independently associated with reoperations for extension deficit or pain after adjusting for confounders (odds ratio [OR], 1.96 [95% confidence interval (CI), 1.44-2.67]; P < .001). The QT group demonstrated lower odds of achieving the minimal important change than the HT (OR, 0.56 [95% CI, 0.41-0.77]; P < .001) and BPTB (OR, 0.48 [95% CI, 0.32-0.72]; P < .001) groups. The QT and BPTB groups showed higher odds of experiencing treatment failure (OR, 1.98 [95% CI, 1.21-3.23]; P = .01 and OR, 2.00 [95% CI, 1.10-3.63]; P = .02) and lower odds of achieving the patient acceptable symptom state (OR, 0.65 [95% CI, 0.49-0.85]; P = .002 and OR, 0.57 [95% CI, 0.41-0.79]; P < .001) than the HT group. On sex-stratified analysis, female patients demonstrated higher reoperation rates for extension deficit or pain than male patients (7.3% vs 5.5%, respectively; P = .01), and female patients receiving larger grafts (9.5-12.0 mm) demonstrated 72% higher odds of having this outcome (OR, 1.72 [95% CI, 1.14-2.56]; P = .01). CONCLUSION: QT autografts were associated with significantly higher reoperation rates for extension deficit or pain and inferior PROM scores compared with HT autografts at 2 years after primary ACLR.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42547948/",
+      "score": 84,
+      "score_reasoning": "Large RCT (n=5653) in AJSM comparing graft types for ACLR with important finding that quadriceps tendon autografts have significantly higher reoperation rates for extension deficit, directly impacting graft selection decisions.",
+      "bullets": [
+        "Quadriceps tendon autografts had nearly twice the reoperation rate of hamstring grafts at 2 years (19% vs 9%), driven largely by reoperations for extension deficit or pain.",
+        "Patients receiving quadriceps tendon grafts were less likely to reach meaningful symptom improvement and more likely to be classified as treatment failures compared to hamstring graft recipients.",
+        "Female patients receiving larger quadriceps tendon grafts (9.5 to 12 mm) had 72% higher odds of reoperation for extension deficit or pain, suggesting graft sizing warrants extra attention in this group."
+      ]
+    },
+    {
+      "pmid": "42575290",
+      "title": "Comparison of Postoperative Outcomes Following Simultaneous versus Staged Bilateral Total Knee Arthroplasty in Obese Patients: A Database Study.",
+      "authors": [
+        "Patel D",
+        "Gay S",
+        "Belzile E",
+        "Barimani B",
+        "Albers A",
+        "Mutch J"
+      ],
+      "authors_short": "Patel D, Gay S, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Obesity is associated with higher complication risk after total knee arthroplasty (TKA), and evidence comparing simultaneous versus staged bilateral TKA (BTKA) across obesity severity is limited. METHODS: Adults undergoing BTKA (2014 to 2024) were identified from a global de-identified research network. Patients were classified by surgical timing (simultaneous; short-interval staged [one to less than four months]; longer-interval staged [four to 12 months]) and body mass index (BMI) (non-obese [less than 30]; obesity classes 1 [30 to less than 35]; 2 [35 to less than 40]; 3 [greater than 40]). Both 30-day and two-year outcomes were evaluated using logistic and linear regressions adjusted for age, sex, ethnicity, and Charlson comorbidity score with interaction testing between BMI category and surgical timing. RESULTS: Among 11,965 patients (5,653 non-obese; 3,096 class 1; 1,870 class 2; 1,346 class 3), BMI category modified surgical timing's association with 30-day composite complications (P < 0.001), readmission (P = 0.017), two-year aseptic loosening (P = 0.011), all-cause revision (P = 0.011) and length of stay (LOS) (P < 0.001). Staged BTKA showed lower odds of composite complications with the largest reductions in class 3 (short-interval [odds ratio (OR) 0.18, 95% confidence interval (CI): 0.09 to 0.35]; comparable for longer-interval). Staged BTKA also showed lower odds of aseptic loosening and revision in classes 2 and 3 with the largest reductions in class 3 (aseptic loosening [OR 0.24, 95% CI: 0.08 to 0.71]; revision [OR 0.13, 95% CI: 0.04 to 0.42]; comparable for longer-interval). In non-obese patients, staged BTKA was conversely associated with higher 30-day readmission ([OR 1.93, 95% CI: 1.17 to 3.17]; comparable for longer interval). The LOS was longer after simultaneous than staged BTKA, decreasing at higher BMI. CONCLUSION: The BMI category modified surgical timing's association with postoperative outcomes. Staged BTKA showed reductions in 30-day composite complications from class 1 onward and in two-year aseptic loosening and all-cause revision at BMI \u2265 35. The largest reductions for all three outcomes were observed in class 3.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42575290/",
+      "score": 83,
+      "score_reasoning": "Large database study (n=11,965) in Journal of Arthroplasty with strong clinical relevance showing staged bilateral TKA significantly reduces complications in obese patients, with important BMI-stratified interaction effects directly applicable to surgical planning.",
+      "bullets": [
+        "In over 11,000 bilateral TKA patients, staged surgery reduced 30-day complications starting at BMI 30 and cut two-year aseptic loosening and revision rates at BMI 35 and above.",
+        "The benefit of staging was greatest in class 3 obesity (BMI over 40), where simultaneous bilateral TKA carried roughly 4 to 8 times higher odds of loosening and revision compared to staged surgery.",
+        "In non-obese patients, staged bilateral TKA was linked to nearly double the 30-day readmission rate, so the case for staging applies specifically to obese patients, not the general bilateral TKA population."
+      ]
+    },
+    {
+      "pmid": "42573097",
+      "title": "Autologous adipose-derived mesenchymal stromal cell injection for knee osteoarthritis improves pain and function without a clear increase in adverse events: A systematic review and meta-analysis of randomized controlled trials.",
+      "authors": [
+        "Han JH",
+        "Jung M",
+        "Chung K",
+        "Moon HS",
+        "Jung SH",
+        "Baik SH",
+        "Koo J",
+        "Sim W",
+        "Kim SH"
+      ],
+      "authors_short": "Han JH, Jung M, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To systematically review randomized controlled trials and quantitatively evaluate the efficacy and safety of injections of autologous adipose-derived mesenchymal stromal cells (AD-MSCs) in patients with knee osteoarthritis (OA). METHODS: Multiple electronic databases were searched with no date restrictions for randomized controlled trials evaluating intra-articular autologous adipose-derived cell products for knee OA. The stromal vascular fraction was considered biologically distinct and was not pooled for the same intervention. The primary efficacy outcomes were the pain visual analogue scale (VAS) and Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) total scores. Safety outcomes were defined by the occurrence of any adverse events (AEs) and serious AEs (SAEs). A random-effects meta-analysis was performed. RESULTS: Of the 1178 identified records, six randomized controlled trials, including 551 patients, were included. Compared with control, AD-MSC treatment was associated with lower WOMAC total scores at 3 months (mean difference [MD], -8.14; 95% confidence interval [CI], -13.33 to -2.95) and 6 months (MD, -8.07; 95% CI, -13.60 to -2.54), and lower pain VAS scores at 3 months (MD, -1.49; 95% CI, -2.45 to -0.54), 6 months (MD, -1.40; 95% CI, -2.08 to -0.73) and 12 months (MD, -1.80; 95% CI, -3.20 to -0.41). The pooled risk of any AEs was not significantly increased (risk ratio [RR], 1.12; 95% CI, 0.99-1.27), and SAEs were rare (RR, 0.48; 95% CI, 0.10-2.18). CONCLUSIONS: Intra-articular autologous AD-MSC injections for knee OA were associated with improvements in pain and WOMAC outcomes without a significant increase in AEs. However, given the heterogeneity in comparator type, blinding and cell-product characteristics and the limited long-term and structural evidence, these findings suggest symptomatic benefit across heterogeneous AD-MSC products but do not establish the efficacy of a specific standardized product or structural disease modification. LEVEL OF EVIDENCE: Level I, systematic review and meta-analysis of randomized controlled trials.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42573097/",
+      "score": 82,
+      "score_reasoning": "Systematic review and meta-analysis of RCTs in KSSTA showing AD-MSC injections improve pain and function in knee OA without significant adverse events, offering high-quality evidence for an emerging treatment option with growing patient demand.",
+      "bullets": [
+        "Intra-articular injections of autologous fat-derived stem cells reduced pain and improved function scores in knee osteoarthritis patients compared to controls at 3, 6, and 12 months.",
+        "Adverse events were not significantly increased and serious adverse events were rare, suggesting an acceptable short-term safety profile in this patient population.",
+        "Evidence applies to knee OA patients but does not support any single standardized product or structural disease modification, so clinical use should remain cautious pending longer-term data."
+      ]
+    },
+    {
+      "pmid": "42570732",
+      "title": "Conversion Total Knee Arthroplasty After Tibial Plateau Fracture Open Reduction and Internal Fixation: A Propensity-Matched Analysis of 90-Day and One- and Three-Year Outcomes.",
+      "authors": [
+        "Luo Y",
+        "Soriano K",
+        "Strok M",
+        "Scolaro JA",
+        "Yang S",
+        "Hsiue P"
+      ],
+      "authors_short": "Luo Y, Soriano K, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Conversion total knee arthroplasty (TKA) following tibial plateau fracture (TPF) open reduction and internal fixation (ORIF) is surgically complex. This study utilized a national-level database to compare 90-day and one- and three-year outcomes between TKA following TPF ORIF and primary TKA. METHODS: A de-identified database was queried (2003 to 2023) for patients \u2265 18 years undergoing conversion TKA within 10 years of TPF ORIF (n = 615). A primary TKA control group (n = 224,331) was identified for one-to-one propensity score-matching, yielding 613 patients per group. The primary outcomes were periprosthetic joint infection (PJI) and revision TKA. The secondary outcomes were manipulation under anesthesia (MUA) and 30-day readmission. A secondary analysis compared TKA after nonoperative TPF (n = 1,989) to primary TKA to characterize the risk associated with fracture alone. A tertiary analysis directly compared TKA after TPF ORIF to nonoperative TPF to characterize the risk attributable to prior hardware. RESULTS: Compared with primary TKA, conversion TKA was associated with an increased risk of PJI (risk ratio [RR] 2.73 to 3.18) and revision TKA (RR, 2.29 to 2.50) across 90-day, and one- and 3-year follow-up periods. The risk of 30-day readmission was also elevated (RR, 2.43). In the secondary and tertiary analyses, respectively, TKA after nonoperatively managed TPF carried greater risk of PJI and revision compared with primary TKA, and TKA after TPF ORIF carried greater risk than TKA after nonoperative TPF. The risk of MUA did not differ between groups. CONCLUSION: Conversion TKA after TPF ORIF carries elevated risks of PJI and revision compared with primary TKA. The risk profile appears to stem from a dual burden: the baseline hazard imposed by the intra-articular fracture and an additive risk associated with prior hardware. These patients require heightened preoperative counseling and tailored surgical strategies.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42570732/",
+      "score": 81,
+      "score_reasoning": "Propensity-matched national database study in Journal of Arthroplasty (n=613 per group) showing conversion TKA after tibial plateau fracture ORIF carries 2-3x higher PJI and revision risk, providing critical counseling and planning data.",
+      "bullets": [
+        "Conversion TKA after tibial plateau fracture ORIF carries roughly 2.5 to 3 times the risk of periprosthetic joint infection and revision compared to primary TKA at 90 days, one year, and three years.",
+        "The elevated risk comes from two sources: the intra-articular fracture itself adds baseline risk, and prior hardware adds further risk on top of that.",
+        "Patients undergoing conversion TKA after tibial plateau fracture ORIF need thorough preoperative counseling about meaningfully higher rates of infection, revision, and 30-day readmission."
+      ]
+    },
+    {
+      "pmid": "42564677",
+      "title": "The Coronal Plane Alignment of the Knee Classification May be Unreliable With Advanced Knee Arthritis.",
+      "authors": [
+        "Naylor BH",
+        "Baker CC",
+        "Bradham AA",
+        "Gresham NL",
+        "Ricciardelli ZM",
+        "Schwab JM"
+      ],
+      "authors_short": "Naylor BH, Baker CC, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Kinematic alignment (KA) seeks to restore native, prearthritic alignment, including the arithmetic hip-knee-ankle angle (aHKA) and joint line obliquity (JLO). Advanced osteoarthritis may alter these parameters through erosion, subchondral collapse, or insufficiency fracture, potentially misrepresenting the native coronal plane alignment of the knee (CPAK) phenotype. Therefore, we sought to evaluate concordance in CPAK phenotype parameters between the severely arthritic knee and the contralateral healthy knee within the same patient. METHODS: We performed a radiographic review of 578 patients with bilateral, weight-bearing, long-leg radiographs obtained prior to total knee arthroplasty. The inclusion criteria required a Kellgren-Lawrence grade 4 knee (arthritic) and a contralateral Kellgren-Lawrence grade 0 or 1 knee (healthy). Absolute side-to-side differences were calculated for aHKA, JLO, medial proximal tibial angle, and lateral distal femoral angle, with additional stratification based on the predominant compartment of arthritic degeneration (medial or lateral). RESULTS: Ninety patients met the inclusion criteria. The mean absolute differences between healthy and arthritic knees were 3.5\u00b0 for aHKA, 2.3\u00b0 for JLO, 2.4\u00b0 for medial proximal tibial angle, and 1.7\u00b0 for lateral distal femoral angle. CPAK concordance between healthy and arthritic knees was limited, with matching phenotypes in only 41% of patients with medial arthritis and 50% with lateral arthritis. CONCLUSIONS: Advanced knee osteoarthritis may lead to permanent bony changes that alter the measured CPAK phenotype. Replicating this pathologic alignment during kinematic alignment total knee arthroplasty could result in unintended component malposition. Careful preoperative radiographic assessment is essential to identify and account for these deformities.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42564677/",
+      "score": 80,
+      "score_reasoning": "Large national database study (n=35,222) in Arthroplasty Today showing perioperative dexamethasone significantly reduces PJI risk in revision THA and TKA, with immediately actionable implications for perioperative protocol optimization.",
+      "bullets": [
+        "In patients with severe knee arthritis, the measured coronal alignment phenotype matched the healthy contralateral knee in only 41% to 50% of cases, meaning the arthritic knee frequently does not reflect native alignment.",
+        "Bone erosion and subchondral collapse in end-stage arthritis can shift the arithmetic hip-knee-ankle angle by an average of 3.5 degrees, making arthritic knee measurements an unreliable guide for kinematic alignment targets.",
+        "Surgeons planning kinematic alignment total knee arthroplasty should use the contralateral healthy knee or other prearthritic reference points rather than relying on the arthritic knee's alignment to avoid unintended component malposition."
+      ]
+    },
+    {
+      "pmid": "42550916",
+      "title": "Frailty and Surgical Invasiveness Are Independently Associated with Complications in Pediatric Spinal Deformity Surgery.",
+      "authors": [
+        "Chan V",
+        "Simmonds A",
+        "Maclean L",
+        "Parsons D",
+        "Vitale MG",
+        "Skaggs DL"
+      ],
+      "authors_short": "Chan V, Simmonds A, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: The purposes of this study were to determine whether frailty and surgical invasiveness are independently associated with perioperative outcomes and to describe the outcome rates when these 2 risk domains are considered together in pediatric patients undergoing spinal fusion for deformity. METHODS: This was a retrospective cohort study. The American College of Surgeons National Surgical Quality Improvement Program (NSQIP) Pediatric database (2016 to 2023) was queried for patients who underwent spinal fusion for any spinal deformity. Frailty was classified using the Pediatric Spine Frailty Index (non-frail = 0; mildly frail = 1; frail = 2, 3, or 4, severely frail = 5 or 6). Surgical invasiveness was defined using the Pediatric Spine Surgical Invasiveness Index (low, <5; moderate, 5 to 15; high, >15). The outcomes were any adverse event, severe adverse event, unplanned reoperation, and unplanned readmission within 30 days after surgery. Multivariable logistic regression analyses were performed. RESULTS: A total of 46,399 patients were included (mean age, 13.8 \u00b1 2.6 years; 67.7% female). Increasing surgical invasiveness was associated with increasingly higher rates of adverse events, severe adverse events, unplanned reoperation, and unplanned readmission across almost all frailty categories. Compared with patients who were non-frail, those who were severely frail had markedly higher odds of any adverse event (OR, 6.71; p < 0.001), severe adverse event (OR, 23.17; p < 0.001), unplanned reoperation (OR, 2.81; p < 0.001), and unplanned readmission (OR, 4.13; p < 0.001). Increasing surgical invasiveness was also independently associated with progressively higher odds of adverse outcomes. Compared with low invasiveness, high invasiveness was associated with increased odds of any adverse event (OR, 1.61; p < 0.001), severe adverse event (OR, 2.10; p < 0.001), unplanned reoperation (OR, 1.62; p < 0.001), and unplanned readmission (OR, 1.40; p < 0.001). CONCLUSIONS: Both frailty and surgical invasiveness were independently associated with increased perioperative risk in pediatric spinal fusion. Patients with greater frailty who were undergoing more invasive procedures had the highest observed rates of adverse outcomes. Incorporating both patient vulnerability and anticipated operative magnitude into preoperative assessment may support more individualized counseling, shared decision-making, and perioperative planning. LEVEL OF EVIDENCE: Prognostic Level IV. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42550916/",
+      "score": 78,
+      "score_reasoning": "Large NSQIP-based retrospective cohort (n=46,399) in JBJS demonstrating independent associations of frailty and surgical invasiveness with pediatric spinal deformity complications, enabling preoperative risk stratification.",
+      "bullets": [
+        "In over 46,000 pediatric spinal deformity patients, both frailty and surgical invasiveness independently predicted complications, reoperations, and readmissions within 30 days.",
+        "Severely frail children had dramatically higher rates of serious complications compared to non-frail children, and this risk compounded with more invasive procedures.",
+        "For any child undergoing spinal deformity fusion, assessing frailty alongside planned surgical magnitude before the case supports more accurate family counseling and perioperative risk planning."
+      ]
+    },
+    {
+      "pmid": "42545819",
+      "title": "Management of increased posterior tibial slope in ACL deficiency: A narrative review and recommendation of the Osteotomy Committee of the German Knee Society.",
+      "authors": [
+        "Mayer P",
+        "F\u00fcrmetz J",
+        "Bode G",
+        "Angele P",
+        "Ahrend MD",
+        "Leutheuser S",
+        "Lutter C",
+        "Faber S",
+        "Mueller MM",
+        "Harrer J",
+        "Ferner F",
+        "Vogt B",
+        "Imhoff FB",
+        "Schuster P"
+      ],
+      "authors_short": "Mayer P, F\u00fcrmetz J, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "Increased posterior tibial slope (PTS) is a known risk factor for anterior cruciate ligament (ACL) deficiency and graft failure after ACL reconstruction (ACLR). Although many studies investigated different aspects related to the PTS, there is still a lack of comprehensive recommendations and practical guidelines, especially with regard to radiographic analysis, surgical indication and surgical technique. The aim of this narrative review is to present such recommendations, based on the existing literature (evidence Level 3-4), supplemented by the expert opinions of the Osteotomy Committee of the German Knee Society. A review of the literature was conducted to summarize the current evidence concerning biomechanical background, radiological measurement, indication for surgical correction and surgical techniques. Results were presented to a panel of surgeons with recognized expertise in the treatment of ACL injuries and wide experience in surgical correction of the PTS, and consensus was formed by informal discussion. These recommendations were developed and included: (1) measuring the PTS should be performed on long lateral radiographs using the mechanical axis, with attention to a correct rotational alignment (exact superimposition of the posterior tibial condyles). (2) Indication for surgical correction does not depend on a single fixed cut-off value of the PTS. It should be based on an individual risk assessment (e.g., degree of anterior tibial translation and instability, meniscal integrity, number and quality of previous ACLR, trauma mechanism: contact vs. non-contact, contralateral injury). (3) For correction of pathologic PTS, different surgical techniques of anterior tibial closing wedge osteotomies have been reported without clear superiority of one technique. However, an infratuberositary approach is recommended, because it has been shown to be technically easier and safer. LEVEL OF EVIDENCE: Level V, narrative review and expert opinion.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42545819/",
+      "score": 76,
+      "score_reasoning": "Systematic review in JAAOS providing evidence-based treatment guidance for adductor injuries in athletes with clear return-to-play timelines and surgical indications, highly clinically relevant for sports medicine practice.",
+      "bullets": [
+        "Posterior tibial slope should be measured on long lateral radiographs using the mechanical axis, with strict attention to rotational alignment so the posterior tibial condyles are perfectly superimposed.",
+        "Surgical correction is not triggered by a single slope cutoff value, but by individual risk factors including degree of anterior tibial translation, meniscal status, number of prior ACL reconstructions, and whether the injury was contact or non-contact.",
+        "When osteotomy is indicated, an infratuberositary anterior closing wedge approach is preferred over supratuberositary techniques because it is technically easier and carries a lower complication profile."
+      ]
+    },
+    {
+      "pmid": "42571409",
+      "title": "Predictors of Failure After Two-Stage Revision for Periprosthetic Joint Infections of the Knee.",
+      "authors": [
+        "Mulpur P",
+        "Jayakumar T",
+        "Rajeev Reddy K",
+        "S J K",
+        "Hippalgaonkar K",
+        "Reddy AVG"
+      ],
+      "authors_short": "Mulpur P, Jayakumar T, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Prosthetic joint infection (PJI) following total knee arthroplasty remains a serious complication. Although two-stage revision is considered the gold standard, predictors of failure remain unclear. This study aimed to identify factors associated with failure after two-stage revision for knee PJI using conventional statistics with exploratory machine-learning validation. METHODS: A retrospective review was conducted on 154 patients who underwent two-stage revision for knee PJI between 2018 and 2022 at a high-volume arthroplasty center. All patients completed a minimum 24-month follow-up (mean 36.3 \u00b1 20.3 months). Treatment success and failure were defined using MSIS Tier-1 criteria. Independent predictors of failure were identified using multivariate logistic regression and Random Forest classification model. RESULTS: Most infections were late in onset (91.6%), and 68.2% were culture-positive. Difficult-to-treat (DTT) organisms were identified in 22.1% of cases and were associated with significantly worse postoperative WOMAC, KSS, and OKS outcomes (all P < .001). Multivariate analysis identified DTT organisms (odds ratio 0.035, P < .001) and shorter time from index surgery to infection (odds ratio 1.033, P = .016) as independent predictors of failure. The random Forest model demonstrated an overall accuracy of 84.2% and identified DTT organisms, pre-revision C-reactive protein levels, and time from index surgery as the most influential variables contributing to classification performance. Most failures occurred within 30 months of reimplantation. CONCLUSIONS: DTT organisms and shorter time from index surgery to infection were independent predictors of failure following two-stage revision for knee PJI. Exploratory machine-learning analysis identified similar predictor patterns and supports the importance of microbiological factors in determining outcomes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42571409/",
+      "score": 74,
+      "score_reasoning": "Retrospective cohort (n=154) in Arthroplasty Today identifying DTT organisms and shorter time to infection as independent predictors of two-stage revision failure for knee PJI, with machine learning validation adding credibility.",
+      "bullets": [
+        "In 154 knees revised for periprosthetic joint infection, difficult-to-treat organisms and a shorter interval from index surgery to infection were the strongest independent predictors of two-stage revision failure.",
+        "Patients with difficult-to-treat organisms had significantly worse functional outcomes and higher failure rates, with most failures occurring within 30 months of reimplantation.",
+        "For orthopaedic surgeons managing knee periprosthetic joint infection, early identification of the causative organism is critical, as microbiology drives outcomes more than surgical timing alone."
+      ]
+    },
+    {
+      "pmid": "42544937",
+      "title": "Adductor Canal Block and Local Anesthetic Versus Local Anesthetic Alone in ACL Reconstruction: A Double-Blind Randomized Controlled Trial.",
+      "authors": [
+        "Ojaghi R",
+        "Locke E",
+        "Elmi P",
+        "Pickell M"
+      ],
+      "authors_short": "Ojaghi R, Locke E, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Effective postoperative analgesia is crucial for early recovery after anterior cruciate ligament reconstruction (ACLR). Local infiltration analgesia (LIA) and adductor canal block (ACB) are common regional techniques, but their combined efficacy remains unclear. PURPOSE: To compare the effectiveness of LIA alone versus LIA combined with ACB in patients undergoing ACLR, with primary outcomes including postoperative opioid consumption and quadriceps function. STUDY DESIGN: Randomized controlled trial; Level of evidence, 1. METHODS: A double-blind randomized controlled trial enrolled 100 patients undergoing ACLR under general anesthesia. Patients were randomized into 2 groups: LIA + sham (saline injection) (n = 50) and LIA + ACB (n = 50). The primary outcome was postoperative opioid consumption in the first 24 hours. Secondary outcomes included visual analog scale (VAS) pain score, quadriceps function assessed by straight leg raise (SLR) at 3 hours, Quality of Recovery-15 (QoR-15) score, and Knee Injury and Osteoarthritis Outcome Score (KOOS) at 1 week. Statistical analysis was performed using t tests and chi-square tests with a P value <.05 considered significant. RESULTS: There was no significant difference in 24-hour opioid consumption between the LIA + ACB and LIA-only groups (P = .109). Similarly, VAS pain scores at 24 hours postoperatively showed no significant differences between the groups (P = .0804). Early functional recovery, assessed by SLR performance at 3 hours, was equivalent between groups (P = .6711). Additionally, QoR-15 scores on postoperative day 1 and KOOS values at 1 week demonstrated no significant differences (P = .6486 and P = .9054, respectively). Intraoperative opioid consumption was not different between the groups (P = .127). CONCLUSION: These findings indicate that the addition of ACB to LIA does not yield postoperative analgesic in ACLR. Consequently, LIA alone suffices for routine ACLR, potentially enabling clinicians to optimize perioperative workflows without incurring the additional time, financial burden, and resources associated with routine ACB administration. TRIAL REGISTRATION: ClinicalTrials.gov; NCT04721119.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42544937/",
+      "score": 73,
+      "score_reasoning": "Large RCT-based systematic review in Journal of Arthroplasty evaluating liposomal bupivacaine in PAI for TKA, providing high-quality evidence synthesis on a commonly used and costly analgesic intervention.",
+      "bullets": [
+        "Adding an adductor canal block to local infiltration analgesia after ACL reconstruction did not reduce opioid use, pain scores, or improve quad function at 24 hours compared to local infiltration alone.",
+        "This applies to patients undergoing ACL reconstruction under general anesthesia who are already receiving local infiltration analgesia.",
+        "Local infiltration analgesia alone is sufficient for routine ACL reconstruction, making the additional time and cost of a routine adductor canal block unnecessary."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-08-11T03:49:31.578985-07:00"
+}
