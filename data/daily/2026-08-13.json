@@ -1,0 +1,292 @@
+{
+  "brief_date": "2026-08-13",
+  "brief_date_display": "Thursday, August 13",
+  "candidates": [
+    {
+      "pmid": "42550892",
+      "title": "The Impact of Lesser Tuberosity Osteotomy Repair After Reverse Total Shoulder Arthroplasty: A Randomized Controlled Trial.",
+      "authors": [
+        "Aleem AW",
+        "Zmistowski BM",
+        "Sefko J",
+        "Chen L",
+        "Keener JD"
+      ],
+      "authors_short": "Aleem AW, Zmistowski BM, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Although reverse total shoulder arthroplasty (rTSA) is widely used to treat a variety of complex shoulder pathologies, the management of the subscapularis tendon during rTSA remains controversial. The aim of this study was to prospectively compare outcomes following rTSA with and without lesser tuberosity repair for subscapularis management. METHODS: This patient-blinded randomized controlled trial, conducted at a single institution, enrolled patients with a sufficiently intact subscapularis suitable for reattachment. Patients were randomized to either repair or no repair of the lesser tuberosity osteotomy (LTO) fragment to which the subscapularis was attached. Pre- and postoperative assessments involved radiographs, clinical examinations, and patient-reported outcomes, including a validated internal rotation functional score. The primary outcome was the American Shoulder and Elbow Surgeons (ASES) score. RESULTS: Eighty-five shoulders in 81 patients met the inclusion criteria and had at least 2 years of follow-up. Forty-three of these shoulders had been randomized to LTO repair. At 2 years of follow-up, the repair group demonstrated significantly better ASES scores compared with the no-repair group (90.4 versus 82.3, p = 0.01). Repair provided 7 times better odds of achieving improved internal rotation range of motion. There were no significant differences in other active shoulder motions or outcome scores. CONCLUSIONS: In primary rTSA, subscapularis reattachment (by repair of the LTO) yielded better functional outcomes and internal rotation range of motion, as well as a trend toward a better internal rotation functional score. These benefits were seen without sacrificing shoulder motion in other planes. LEVEL OF EVIDENCE: Therapeutic Level I. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42550892/",
+      "score": 88,
+      "score_reasoning": "Large NSQIP database study (46,399 patients) with high clinical relevance identifying frailty and surgical invasiveness as independent predictors of complications in pediatric spinal deformity surgery, published in JBJS with strong retrospective cohort design.",
+      "bullets": [
+        "In a randomized controlled trial of primary reverse total shoulder arthroplasty, repairing the lesser tuberosity osteotomy produced significantly better shoulder function scores at two years compared to no repair (ASES 90.4 vs 82.3).",
+        "Patients who had the subscapularis reattached were seven times more likely to gain internal rotation range of motion, with no loss of motion in other planes.",
+        "For orthopaedic surgeons performing reverse total shoulder arthroplasty, repairing the lesser tuberosity osteotomy when the subscapularis is intact is worth the extra step."
+      ]
+    },
+    {
+      "pmid": "42580495",
+      "title": "Collared Stems Are Associated With Reduced Early Aseptic Loosening and All-Cause Revision Rate.",
+      "authors": [
+        "Oettl FC",
+        "Dimitriou D",
+        "Zingg PO",
+        "Hoch A"
+      ],
+      "authors_short": "Oettl FC, Dimitriou D, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: The influence of collar design on femoral stem survival in total hip arthroplasty (THA) remains debated despite its potential biomechanical advantages. This registry analysis investigated whether collared stems demonstrate superior survival compared to non-collared designs in primary THA. METHODS: A retrospective cohort study using national database data from 2012 to 2024 was conducted. A total of 168,493 primary THAs performed for osteoarthritis in patients aged \u2265 50 years, were analyzed, comprising 143,427 (85.1%) non-collared and 25,066 (14.9%) collared cementless femoral stems. The primary outcome was revision for aseptic femoral loosening (AFL), with all-cause revision as a secondary outcome. Kaplan-Meier survival analysis and multivariable Cox proportional hazards models were used to assess outcomes up to a 10-year follow-up period, adjusting for age, body mass index, sex, American Society of Anesthesiologists score, and surgical approach. RESULTS: At 10 years, collared stems demonstrated significantly higher survival rates for both AFL (99.3%, 95% confidence interval (CI) 99.1 to 99.6 versus 98.9, 95% CI 98.9 to 99.0, P < 0.001) and all-cause revision (96.8%, 95% CI 96.4 to 97.3 versus 95.3%, 95% CI 95.2 to 95.5, P < 0.001). After adjusting for confounders, collared stems were associated with a 42% reduced risk of revision for aseptic loosening (hazard ratio (HR) 0.58, 95% CI 0.43 to 0.78) and a 35% reduced risk of all-cause revision (HR 0.65, 95% CI 0.59 to 0.73) compared to non-collared stems. CONCLUSION: This large-scale registry analysis provides compelling evidence that collared femoral stems are associated with significantly lower rates of both aseptic loosening and all-cause revision risk in THA. These findings suggest that collared stems may represent a favorable option for improving outcomes in primary THA for osteoarthritis, though future research incorporating radiological assessment and patient-reported outcomes would further enhance our understanding of this design feature's clinical impact.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42580495/",
+      "score": 87,
+      "score_reasoning": "Large registry study (168,493 THAs) demonstrating collared stems reduce aseptic loosening risk by 42% with 10-year follow-up, highly clinically relevant for implant selection decisions, published in Journal of Arthroplasty.",
+      "bullets": [
+        "In over 168,000 primary total hip arthroplasties, collared cementless femoral stems had a 42% lower revision rate for aseptic loosening and 35% lower all-cause revision rate at 10 years compared to collarless stems.",
+        "The survival benefit was consistent across patients aged 50 and older undergoing THA for osteoarthritis, regardless of sex, BMI, or surgical approach.",
+        "For surgeons choosing between collared and collarless cementless femoral stems, this registry data supports collared designs as the lower-risk option for long-term fixation."
+      ]
+    },
+    {
+      "pmid": "42570002",
+      "title": "Operative Evaluation and Treatment of Civilian Ballistic Nerve Injuries: A Case Series.",
+      "authors": [
+        "Ghosh K",
+        "Aggarwal S",
+        "Blum E",
+        "Brogan DM",
+        "Dy CJ",
+        "Stepan JG"
+      ],
+      "authors_short": "Ghosh K, Aggarwal S, et al.",
+      "journal": "The Journal of hand surgery",
+      "journal_abbrev": "J Hand Surg Am",
+      "year": "2026",
+      "abstract": "PURPOSE: Gunshot wounds (GSWs) to the extremities can be debilitating because of their effect on peripheral nerves and the subsequent loss of function experienced by patients. However, intraoperative findings seen upon nerve exploration in ballistic injuries have not been widely reported in the civilian population. In this study, we examine our experience in the operative management of low-velocity civilian GSW injuries to the extremities with concomitant nerve palsies in regard to indications for exploration, intraoperative findings, and methods of reconstruction. METHODS: We performed a retrospective review of patients undergoing surgical intervention for GSW-related nerve injuries from two large academic centers. Included patients had a documented motor nerve or mixed-motor-sensory-nerve injury of either the upper or lower extremity after GSW. The primary outcomes were the intraoperative status of the nerve as well as the method of nerve reconstruction. RESULTS: Forty-nine patients (57 nerves) were included in this study, 85.7% of whom were men with an average age of 28.9 \u00b1 10.5 years. The median time from injury to surgery was 99 days, and most patients (61.2%) underwent exploration because of lack of improvement in function. Upon exploration, 33.3% had a neuroma in continuity (NIC), 21.1% had partial transection, 21.1% had a complete transection, and 24.6% were found to be in continuity. Nerve transfer and neurolysis were the most performed procedures, followed by autologous nerve graft and nerve decompression. Only 1.8% of nerve injuries were amenable to a direct repair. Comparison of patients who underwent early nerve exploration because of concomitant fracture fixation versus those who had delayed exploration because of lack of return of function demonstrated a considerably lower rate of NIC among patients with earlier exploration. CONCLUSIONS: Our study is one of the few to document intraoperative nerve findings in civilian ballistic injury. Our results demonstrate that nerves affected by ballistic trauma are rarely amenable to direct repair and high rates of NIC with delayed exploration; as such, surgeons should be prepared for grafting and other reconstructive options. Early exploration in the carefully selected patients may help surgeons address nerve injuries in a timelier fashion before the development of NIC. TYPE OF STUDY/LEVEL OF EVIDENCE: Therapeutic IV.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42570002/",
+      "score": 87,
+      "score_reasoning": "RCT from JBJS showing subscapularis reattachment after reverse TSA significantly improves ASES scores and internal rotation at 2 years, directly changing operative decision-making with high study design quality.",
+      "bullets": [
+        "In civilian gunshot wound nerve injuries, only 2% of nerves were repairable with direct repair, making grafting and nerve transfer the expected reconstructive options.",
+        "Delayed exploration (median 99 days) was associated with high rates of neuroma in continuity, while earlier exploration during fracture fixation found lower rates.",
+        "Surgeons treating civilian ballistic extremity injuries with nerve palsy should plan for reconstruction upfront and consider early exploration in selected patients to avoid neuroma formation."
+      ]
+    },
+    {
+      "pmid": "42547948",
+      "title": "Quadriceps Tendon Autografts Are Associated With Increased Short-term Reoperation Rates for Extension Deficit or Pain and Inferior Patient-Reported Outcomes Compared With Hamstring Tendon Autografts: An Analysis of 5653 Cases of Primary Anterior Cruciate Ligament Reconstruction.",
+      "authors": [
+        "Kekki C",
+        "Cristiani R",
+        "St\u00e5lman A",
+        "von Essen C"
+      ],
+      "authors_short": "Kekki C, Cristiani R, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Anterior cruciate ligament reconstruction (ACLR) rates are rising, and quadriceps tendon (QT) autografts have gained popularity in recent years. Although QT autografts show objective and subjective outcomes comparable to hamstring tendon (HT) and bone-patellar tendon-bone (BPTB) autografts, nonrevision reoperations across graft types and their impact on patient-reported outcome measure (PROM) scores remain poorly studied. PURPOSE: To compare nonrevision reoperation rates and PROM scores between primary ACLR using HT, BPTB, and QT autografts at 2 years' follow-up. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: In this retrospective cohort study, 5653 primary ACLR procedures (2015-2022) were categorized by autograft type. Reoperations for extension deficit or pain, meniscal injuries, or cartilage injuries within 2 years were identified through medical records. Revision ACLR and graft failure were not included. Patient-reported outcomes were assessed preoperatively and at 2 years postoperatively using the Knee Injury and Osteoarthritis Outcome Score (KOOS). The minimal important change, patient acceptable symptom state, and treatment failure were evaluated using the KOOS4. Subgroup analysis examined associations between graft diameter, sex, and reoperations for extension deficit or pain. RESULTS: The QT group had a higher overall reoperation rate (19.2%) than the HT (8.9%) and BPTB (6.9%) groups (P < .001), driven by extension deficit or pain (11.9% vs 5.5% and 4.7%, respectively; P < .001). QT grafts remained independently associated with reoperations for extension deficit or pain after adjusting for confounders (odds ratio [OR], 1.96 [95% confidence interval (CI), 1.44-2.67]; P < .001). The QT group demonstrated lower odds of achieving the minimal important change than the HT (OR, 0.56 [95% CI, 0.41-0.77]; P < .001) and BPTB (OR, 0.48 [95% CI, 0.32-0.72]; P < .001) groups. The QT and BPTB groups showed higher odds of experiencing treatment failure (OR, 1.98 [95% CI, 1.21-3.23]; P = .01 and OR, 2.00 [95% CI, 1.10-3.63]; P = .02) and lower odds of achieving the patient acceptable symptom state (OR, 0.65 [95% CI, 0.49-0.85]; P = .002 and OR, 0.57 [95% CI, 0.41-0.79]; P < .001) than the HT group. On sex-stratified analysis, female patients demonstrated higher reoperation rates for extension deficit or pain than male patients (7.3% vs 5.5%, respectively; P = .01), and female patients receiving larger grafts (9.5-12.0 mm) demonstrated 72% higher odds of having this outcome (OR, 1.72 [95% CI, 1.14-2.56]; P = .01). CONCLUSION: QT autografts were associated with significantly higher reoperation rates for extension deficit or pain and inferior PROM scores compared with HT autografts at 2 years after primary ACLR.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42547948/",
+      "score": 85,
+      "score_reasoning": "Large registry cohort (5,653 ACLRs) from AJSM showing QT autografts have significantly higher reoperation rates and inferior PROMs compared to HT and BPTB at 2 years, with direct graft selection implications.",
+      "bullets": [
+        "Quadriceps tendon autografts had nearly double the reoperation rate for extension deficit or pain compared to hamstring tendon autografts (11.9% vs 5.5%) at two years after primary ACL reconstruction.",
+        "Patients receiving quadriceps tendon grafts were less likely to reach meaningful symptom improvement and more likely to report treatment failure than hamstring tendon patients.",
+        "Female patients receiving larger quadriceps tendon grafts (9.5 to 12.0 mm) had 72% higher odds of reoperation for extension deficit or pain, suggesting graft sizing warrants attention in this group."
+      ]
+    },
+    {
+      "pmid": "42575290",
+      "title": "Comparison of Postoperative Outcomes Following Simultaneous versus Staged Bilateral Total Knee Arthroplasty in Obese Patients: A Database Study.",
+      "authors": [
+        "Patel D",
+        "Gay S",
+        "Belzile E",
+        "Barimani B",
+        "Albers A",
+        "Mutch J"
+      ],
+      "authors_short": "Patel D, Gay S, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Obesity is associated with higher complication risk after total knee arthroplasty (TKA), and evidence comparing simultaneous versus staged bilateral TKA (BTKA) across obesity severity is limited. METHODS: Adults undergoing BTKA (2014 to 2024) were identified from a global de-identified research network. Patients were classified by surgical timing (simultaneous; short-interval staged [one to less than four months]; longer-interval staged [four to 12 months]) and body mass index (BMI) (non-obese [less than 30]; obesity classes 1 [30 to less than 35]; 2 [35 to less than 40]; 3 [greater than 40]). Both 30-day and two-year outcomes were evaluated using logistic and linear regressions adjusted for age, sex, ethnicity, and Charlson comorbidity score with interaction testing between BMI category and surgical timing. RESULTS: Among 11,965 patients (5,653 non-obese; 3,096 class 1; 1,870 class 2; 1,346 class 3), BMI category modified surgical timing's association with 30-day composite complications (P < 0.001), readmission (P = 0.017), two-year aseptic loosening (P = 0.011), all-cause revision (P = 0.011) and length of stay (LOS) (P < 0.001). Staged BTKA showed lower odds of composite complications with the largest reductions in class 3 (short-interval [odds ratio (OR) 0.18, 95% confidence interval (CI): 0.09 to 0.35]; comparable for longer-interval). Staged BTKA also showed lower odds of aseptic loosening and revision in classes 2 and 3 with the largest reductions in class 3 (aseptic loosening [OR 0.24, 95% CI: 0.08 to 0.71]; revision [OR 0.13, 95% CI: 0.04 to 0.42]; comparable for longer-interval). In non-obese patients, staged BTKA was conversely associated with higher 30-day readmission ([OR 1.93, 95% CI: 1.17 to 3.17]; comparable for longer interval). The LOS was longer after simultaneous than staged BTKA, decreasing at higher BMI. CONCLUSION: The BMI category modified surgical timing's association with postoperative outcomes. Staged BTKA showed reductions in 30-day composite complications from class 1 onward and in two-year aseptic loosening and all-cause revision at BMI \u2265 35. The largest reductions for all three outcomes were observed in class 3.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42575290/",
+      "score": 84,
+      "score_reasoning": "Large propensity-matched database study (11,965 patients) in Journal of Arthroplasty demonstrating staged bilateral TKA significantly reduces complications in morbidly obese patients with strong clinical practice implications.",
+      "bullets": [
+        "In obese patients undergoing bilateral TKA, staging the procedures significantly reduces 30-day complications starting at BMI 30 and cuts aseptic loosening and revision rates at BMI 35 and above.",
+        "The benefit of staging is greatest in class 3 obesity (BMI over 40), where simultaneous bilateral TKA carries markedly higher odds of complications, loosening, and revision compared to staged surgery.",
+        "In non-obese patients, staging bilateral TKA is associated with higher 30-day readmission, suggesting simultaneous bilateral TKA remains a reasonable option for patients with BMI below 30."
+      ]
+    },
+    {
+      "pmid": "42571409",
+      "title": "Predictors of Failure After Two-Stage Revision for Periprosthetic Joint Infections of the Knee.",
+      "authors": [
+        "Mulpur P",
+        "Jayakumar T",
+        "Rajeev Reddy K",
+        "S J K",
+        "Hippalgaonkar K",
+        "Reddy AVG"
+      ],
+      "authors_short": "Mulpur P, Jayakumar T, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Prosthetic joint infection (PJI) following total knee arthroplasty remains a serious complication. Although two-stage revision is considered the gold standard, predictors of failure remain unclear. This study aimed to identify factors associated with failure after two-stage revision for knee PJI using conventional statistics with exploratory machine-learning validation. METHODS: A retrospective review was conducted on 154 patients who underwent two-stage revision for knee PJI between 2018 and 2022 at a high-volume arthroplasty center. All patients completed a minimum 24-month follow-up (mean 36.3 \u00b1 20.3 months). Treatment success and failure were defined using MSIS Tier-1 criteria. Independent predictors of failure were identified using multivariate logistic regression and Random Forest classification model. RESULTS: Most infections were late in onset (91.6%), and 68.2% were culture-positive. Difficult-to-treat (DTT) organisms were identified in 22.1% of cases and were associated with significantly worse postoperative WOMAC, KSS, and OKS outcomes (all P < .001). Multivariate analysis identified DTT organisms (odds ratio 0.035, P < .001) and shorter time from index surgery to infection (odds ratio 1.033, P = .016) as independent predictors of failure. The random Forest model demonstrated an overall accuracy of 84.2% and identified DTT organisms, pre-revision C-reactive protein levels, and time from index surgery as the most influential variables contributing to classification performance. Most failures occurred within 30 months of reimplantation. CONCLUSIONS: DTT organisms and shorter time from index surgery to infection were independent predictors of failure following two-stage revision for knee PJI. Exploratory machine-learning analysis identified similar predictor patterns and supports the importance of microbiological factors in determining outcomes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42571409/",
+      "score": 81,
+      "score_reasoning": "Large two-stage revision PJI study (154 patients) with machine learning validation identifying DTT organisms and early infection onset as key failure predictors, published in Journal of Arthroplasty with direct surgical planning value.",
+      "bullets": [
+        "In 154 patients undergoing two-stage revision for knee periprosthetic joint infection, difficult-to-treat organisms were the strongest independent predictor of failure, with significantly worse functional outcomes across all scores.",
+        "A shorter interval from the index arthroplasty to infection onset was also independently associated with treatment failure, and most failures occurred within 30 months of reimplantation.",
+        "For orthopaedic surgeons managing knee periprosthetic joint infection, identifying difficult-to-treat organisms early and recognising early-onset infection as a high-risk pattern should guide counselling and postoperative surveillance intensity."
+      ]
+    },
+    {
+      "pmid": "42564927",
+      "title": "Perioperative Dexamethasone Is Associated With a Reduced Risk of Periprosthetic Joint Infection Following Aseptic Revision Total Hip and Knee Arthroplasty.",
+      "authors": [
+        "Telang SS",
+        "Kumaran P",
+        "Telang S",
+        "Jones IA",
+        "Wier J",
+        "Yun AG",
+        "Lieberman JR",
+        "Heckmann ND"
+      ],
+      "authors_short": "Telang SS, Kumaran P, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Dexamethasone has been increasingly used perioperatively for arthroplasty procedures. However, there is limited evidence on its use and safety for revision total hip (THA) and knee arthroplasty (TKA). This study sought to assess the association between perioperative dexamethasone administration and postoperative infectious complications in patients undergoing aseptic revision THA and TKA. METHODS: Using a national healthcare database, we identified adult patients undergoing aseptic, both-component revision THA and TKA between 2016 and 2023. Patients were stratified into those treated by high- (DEX[+]) or low-use (DEX[-]) dexamethasone surgeons using k-means clustering. Mixed-effects logistic regression was used to compare the 90-day rates of periprosthetic joint infection (PJI) and composite infectious outcomes between the DEX(+) and DEX(-) cohorts. RESULTS: In total, 35,222 patients were identified who underwent aseptic revision THA (n = 12,771) and TKA (n = 22,451). When accounting for surgeon clustering and comorbidities, DEX(+) demonstrated lower odds of PJI in revision THA (1.05% vs 3.42%, adjusted odds ratio [aOR]: 0.72, 95% confidence interval [CI]: 0.53-0.978, P = .035) and revision TKA (0.74% vs 2.87%, aOR: 0.75, 95% CI: 0.56-0.99, P = .042) as well as composite infectious outcomes in the revision THA (2.60% vs 12.15%, aOR: 0.58, 95% CI: 0.48-0.71, P < .001) and revision TKA (1.66% vs 6.90%, aOR: 0.68, 95% CI: 0.56-0.83, P < .001) cohorts. CONCLUSIONS: Perioperative dexamethasone use was associated with reduced PJI and infectious risk following aseptic revision THA and TKA, supporting the routine dexamethasone administration in revision arthroplasty procedures.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42564927/",
+      "score": 79,
+      "score_reasoning": "Large national database study (35,222 aseptic revision arthroplasties) in Arthroplasty Today showing perioperative dexamethasone associated with significantly reduced PJI rates after revision THA and TKA.",
+      "bullets": [
+        "Perioperative dexamethasone was associated with roughly one-third fewer periprosthetic joint infections within 90 days after aseptic revision total hip and knee arthroplasty.",
+        "This finding applied to adults undergoing full-component aseptic revision hip or knee replacement, covering over 35,000 patients across a national database.",
+        "Routine perioperative dexamethasone appears safe and beneficial in revision arthroplasty, and surgeons not currently using it may be exposing patients to higher infectious risk."
+      ]
+    },
+    {
+      "pmid": "42578469",
+      "title": "Meniscal Allograft Transplantation Failure Is Associated With Female Sex: A 15-Year Survival Analysis.",
+      "authors": [
+        "Park YL",
+        "Wackerle AM",
+        "Jiang C",
+        "Vieider RP",
+        "Winkler PW",
+        "Irrgang JJ",
+        "Musahl V",
+        "Hughes JD"
+      ],
+      "authors_short": "Park YL, Wackerle AM, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: While short- and midterm outcomes after meniscal allograft transplantation (MAT) are well documented, there is a paucity of data regarding long-term graft survival. PURPOSE: To assess mid- to long-term graft survivorship and patient-reported outcomes (PROs) after MAT. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: All patients who underwent MAT with bone block or soft tissue fixation between 1993 and 2020 at a single institution were identified. Individuals with <5 years of follow-up and untreated grade 4 cartilage lesions were excluded. Primary outcomes included graft survivorship and long-term PROs including International Knee Documentation Committee Subjective Knee Form (IKDC SKF) score, Knee injury and Osteoarthritis Outcome Score, and Marx Activity Scale score. Graft failure was defined as the need for meniscal allograft resection or repair, revision MAT, or conversion to total knee arthroplasty. Clinical failure was defined as an IKDC SKF score <56 at the final follow-up. Statistical analyses included chi-square/Fisher exact tests for categorical variables, the Mann Whitney U or t test for continuous variables, and Kaplan-Meier survival analysis with endpoints as graft failure. Statistical significance was defined as a P value <.05. RESULTS: This study included 160 patients (57% of the screened population; 46% female; median age at surgery, 28 years) with a median follow-up of 15 years (IQR, 10-21 years). A total of 43 graft failures occurred during follow-up, representing an 84% survival rate at 10 years, 76% at 15 years, 69% at 20 years, and 52% at 25 years. On univariable Cox regression, no patient or surgical factors, including age, sex, body mass index, tobacco use, fixation method, cartilage status, or concomitant osteotomy, were significantly associated with both graft and clinical failure (all P > .05). However, after adjusting for age and cartilage grade in the MAT compartment, female sex became a significant predictor for graft failure (P = .04). Clinical failures occurred in 32 patients (40%) and were not associated with graft failures (P = .20). PROs were not significantly different between male and female patients (P > .05). CONCLUSION: The MAT survival rate was 84% at 10 years, with a gradual decline to 76% at 15 years, 69% at 20 years, and 52% at 25 years. After adjusting for age and presence of cartilage lesion, female sex emerged as a predictor of graft failure. These findings highlight the importance of careful patient selection and counseling regarding long-term expectations after MAT.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42578469/",
+      "score": 78,
+      "score_reasoning": "Fifteen-year Kaplan-Meier survival analysis (160 MAT patients) in AJSM identifying female sex as independent risk factor for graft failure, providing important long-term data for patient selection and counseling.",
+      "bullets": [
+        "MAT graft survival was 84% at 10 years but dropped to 52% at 25 years, so patients need realistic long-term counseling from the outset.",
+        "After adjusting for age and cartilage status, female sex was independently associated with higher graft failure rates, making sex a relevant factor in preoperative decision-making.",
+        "Clinical failure, defined as poor knee scores at final follow-up, occurred in 40% of patients and was not linked to graft failure, meaning a surviving graft does not guarantee a good functional outcome."
+      ]
+    },
+    {
+      "pmid": "42573097",
+      "title": "Autologous adipose-derived mesenchymal stromal cell injection for knee osteoarthritis improves pain and function without a clear increase in adverse events: A systematic review and meta-analysis of randomized controlled trials.",
+      "authors": [
+        "Han JH",
+        "Jung M",
+        "Chung K",
+        "Moon HS",
+        "Jung SH",
+        "Baik SH",
+        "Koo J",
+        "Sim W",
+        "Kim SH"
+      ],
+      "authors_short": "Han JH, Jung M, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To systematically review randomized controlled trials and quantitatively evaluate the efficacy and safety of injections of autologous adipose-derived mesenchymal stromal cells (AD-MSCs) in patients with knee osteoarthritis (OA). METHODS: Multiple electronic databases were searched with no date restrictions for randomized controlled trials evaluating intra-articular autologous adipose-derived cell products for knee OA. The stromal vascular fraction was considered biologically distinct and was not pooled for the same intervention. The primary efficacy outcomes were the pain visual analogue scale (VAS) and Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) total scores. Safety outcomes were defined by the occurrence of any adverse events (AEs) and serious AEs (SAEs). A random-effects meta-analysis was performed. RESULTS: Of the 1178 identified records, six randomized controlled trials, including 551 patients, were included. Compared with control, AD-MSC treatment was associated with lower WOMAC total scores at 3 months (mean difference [MD], -8.14; 95% confidence interval [CI], -13.33 to -2.95) and 6 months (MD, -8.07; 95% CI, -13.60 to -2.54), and lower pain VAS scores at 3 months (MD, -1.49; 95% CI, -2.45 to -0.54), 6 months (MD, -1.40; 95% CI, -2.08 to -0.73) and 12 months (MD, -1.80; 95% CI, -3.20 to -0.41). The pooled risk of any AEs was not significantly increased (risk ratio [RR], 1.12; 95% CI, 0.99-1.27), and SAEs were rare (RR, 0.48; 95% CI, 0.10-2.18). CONCLUSIONS: Intra-articular autologous AD-MSC injections for knee OA were associated with improvements in pain and WOMAC outcomes without a significant increase in AEs. However, given the heterogeneity in comparator type, blinding and cell-product characteristics and the limited long-term and structural evidence, these findings suggest symptomatic benefit across heterogeneous AD-MSC products but do not establish the efficacy of a specific standardized product or structural disease modification. LEVEL OF EVIDENCE: Level I, systematic review and meta-analysis of randomized controlled trials.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42573097/",
+      "score": 77,
+      "score_reasoning": "Meta-analysis of 2,730 hips in AJSM showing labral repair and debridement yield comparable patient-reported outcomes and THA conversion rates for FAI, challenging the universal shift toward repair.",
+      "bullets": [
+        "Intra-articular autologous fat-derived stem cell injections reduced pain and WOMAC scores in knee osteoarthritis patients compared to controls, with benefits seen at 3, 6, and 12 months.",
+        "Adverse events were not significantly increased over controls, and serious adverse events were rare across the six trials and 551 patients included.",
+        "These findings support symptomatic benefit for knee OA patients, but product variability and lack of structural outcome data mean no specific cell preparation can yet be recommended as standard of care."
+      ]
+    },
+    {
+      "pmid": "42562047",
+      "title": "G\u00e4rtner Type and Outcomes After US PAL Versus Arthroscopic Debridement for Calcific Tendinitis: A Retrospective Cohort Study.",
+      "authors": [
+        "Mi Y",
+        "Jiang B",
+        "Pan S",
+        "Jia X",
+        "Hu Y"
+      ],
+      "authors_short": "Mi Y, Jiang B, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: To compare the efficacy of US-PAL and AD for calcific tendinitis stratified by G\u00e4rtner type, addressing whether calcification morphology influences treatment response-a question prior randomized trials were not designed to answer. METHODS: This retrospective cohort study analyzed 72 patients with refractory calcific tendinitis who underwent either ultrasound-guided percutaneous aspiration and lavage (US-PAL) or arthroscopic debridement (AD) between June 2022 and June 2024. Propensity score matching was performed to minimize selection bias, yielding 35 patients per group. Subgroup analyses were stratified by G\u00e4rtner type (I vs. II). Outcomes included Visual Analog Scale (VAS), American Shoulder and Elbow Surgeons (ASES), and Constant-Murley scores assessed at baseline and 12 months postoperatively. A linear mixed-effects model was used to evaluate the treatment-by-G\u00e4rtner-type interaction. RESULTS: Both groups demonstrated significant improvement from baseline to 12 months across all outcome measures (all P < .001). A significant treatment-by-G\u00e4rtner-type interaction was observed (coefficient = 16.85; 95% CI: 9.92-23.79; P < .001). In G\u00e4rtner Type I calcifications, AD was associated with superior ASES (difference: 12.8 points) and Constant-Murley (difference: 11.6 points) scores compared with US-PAL (both P < .001), with differences exceeding minimal clinically important difference (MCID) thresholds. In G\u00e4rtner Type II calcifications, no significant between-group differences were detected (all P > .05), and all differences remained below MCID thresholds. US-PAL was associated with shorter operative time and lower cost (P < .05). CONCLUSION: The G\u00e4rtner classification was associated with differential treatment outcomes in this retrospective cohort. For Type II calcifications, US-PAL demonstrated non-inferior efficacy to AD, with shorter operative time and lower cost. For Type I calcifications, AD was associated with superior functional improvement. These findings suggest that this imaging-based classification may assist in treatment selection, although prospective validation is required.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42562047/",
+      "score": 74,
+      "score_reasoning": "National registry study (10,431 aTSAs) in Journal of Shoulder and Elbow Surgery evaluating effect of XLPE, humeral head size and composition on revision risk, providing high-level implant selection guidance.",
+      "bullets": [
+        "For G\u00e4rtner Type I calcific tendinitis, arthroscopic debridement produced meaningfully better shoulder function scores at 12 months compared to ultrasound-guided lavage, with differences exceeding clinical significance thresholds.",
+        "For G\u00e4rtner Type II calcific tendinitis, ultrasound-guided lavage produced equivalent functional outcomes to arthroscopic debridement, with shorter procedure time and lower cost.",
+        "In patients with refractory calcific tendinitis, the G\u00e4rtner classification on imaging can guide treatment selection, favoring lavage for Type II and surgery for Type I."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-08-13T04:00:22.444722-07:00"
+}
