@@ -1,0 +1,279 @@
+{
+  "brief_date": "2026-08-14",
+  "brief_date_display": "Friday, August 14",
+  "candidates": [
+    {
+      "pmid": "42550892",
+      "title": "The Impact of Lesser Tuberosity Osteotomy Repair After Reverse Total Shoulder Arthroplasty: A Randomized Controlled Trial.",
+      "authors": [
+        "Aleem AW",
+        "Zmistowski BM",
+        "Sefko J",
+        "Chen L",
+        "Keener JD"
+      ],
+      "authors_short": "Aleem AW, Zmistowski BM, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Although reverse total shoulder arthroplasty (rTSA) is widely used to treat a variety of complex shoulder pathologies, the management of the subscapularis tendon during rTSA remains controversial. The aim of this study was to prospectively compare outcomes following rTSA with and without lesser tuberosity repair for subscapularis management. METHODS: This patient-blinded randomized controlled trial, conducted at a single institution, enrolled patients with a sufficiently intact subscapularis suitable for reattachment. Patients were randomized to either repair or no repair of the lesser tuberosity osteotomy (LTO) fragment to which the subscapularis was attached. Pre- and postoperative assessments involved radiographs, clinical examinations, and patient-reported outcomes, including a validated internal rotation functional score. The primary outcome was the American Shoulder and Elbow Surgeons (ASES) score. RESULTS: Eighty-five shoulders in 81 patients met the inclusion criteria and had at least 2 years of follow-up. Forty-three of these shoulders had been randomized to LTO repair. At 2 years of follow-up, the repair group demonstrated significantly better ASES scores compared with the no-repair group (90.4 versus 82.3, p = 0.01). Repair provided 7 times better odds of achieving improved internal rotation range of motion. There were no significant differences in other active shoulder motions or outcome scores. CONCLUSIONS: In primary rTSA, subscapularis reattachment (by repair of the LTO) yielded better functional outcomes and internal rotation range of motion, as well as a trend toward a better internal rotation functional score. These benefits were seen without sacrificing shoulder motion in other planes. LEVEL OF EVIDENCE: Therapeutic Level I. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42550892/",
+      "score": 82,
+      "score_reasoning": "Large NSQIP database study (n=46,399) with strong clinical relevance for pediatric spine surgeons, published in high-impact JBJS, providing actionable risk stratification combining frailty and surgical invasiveness.",
+      "bullets": [
+        "In a randomized controlled trial of primary reverse total shoulder arthroplasty, repairing the lesser tuberosity osteotomy produced better shoulder function scores at two years compared to no repair (ASES 90.4 vs 82.3).",
+        "Patients who had subscapularis reattachment were seven times more likely to gain internal rotation range of motion, with no loss of motion in other planes.",
+        "For surgeons performing reverse total shoulder arthroplasty in patients with an intact subscapularis, repairing the lesser tuberosity osteotomy appears to be the better option."
+      ]
+    },
+    {
+      "pmid": "42580495",
+      "title": "Collared Stems Are Associated With Reduced Early Aseptic Loosening and All-Cause Revision Rate.",
+      "authors": [
+        "Oettl FC",
+        "Dimitriou D",
+        "Zingg PO",
+        "Hoch A"
+      ],
+      "authors_short": "Oettl FC, Dimitriou D, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: The influence of collar design on femoral stem survival in total hip arthroplasty (THA) remains debated despite its potential biomechanical advantages. This registry analysis investigated whether collared stems demonstrate superior survival compared to non-collared designs in primary THA. METHODS: A retrospective cohort study using national database data from 2012 to 2024 was conducted. A total of 168,493 primary THAs performed for osteoarthritis in patients aged \u2265 50 years, were analyzed, comprising 143,427 (85.1%) non-collared and 25,066 (14.9%) collared cementless femoral stems. The primary outcome was revision for aseptic femoral loosening (AFL), with all-cause revision as a secondary outcome. Kaplan-Meier survival analysis and multivariable Cox proportional hazards models were used to assess outcomes up to a 10-year follow-up period, adjusting for age, body mass index, sex, American Society of Anesthesiologists score, and surgical approach. RESULTS: At 10 years, collared stems demonstrated significantly higher survival rates for both AFL (99.3%, 95% confidence interval (CI) 99.1 to 99.6 versus 98.9, 95% CI 98.9 to 99.0, P < 0.001) and all-cause revision (96.8%, 95% CI 96.4 to 97.3 versus 95.3%, 95% CI 95.2 to 95.5, P < 0.001). After adjusting for confounders, collared stems were associated with a 42% reduced risk of revision for aseptic loosening (hazard ratio (HR) 0.58, 95% CI 0.43 to 0.78) and a 35% reduced risk of all-cause revision (HR 0.65, 95% CI 0.59 to 0.73) compared to non-collared stems. CONCLUSION: This large-scale registry analysis provides compelling evidence that collared femoral stems are associated with significantly lower rates of both aseptic loosening and all-cause revision risk in THA. These findings suggest that collared stems may represent a favorable option for improving outcomes in primary THA for osteoarthritis, though future research incorporating radiological assessment and patient-reported outcomes would further enhance our understanding of this design feature's clinical impact.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42580495/",
+      "score": 80,
+      "score_reasoning": "Highly clinically relevant systematic review and meta-analysis comparing isolated versus full component revision TKA for aseptic loosening, published in a strong arthroplasty journal with meaningful findings on operative time and comparable outcomes.",
+      "bullets": [
+        "In over 168,000 primary THAs, collared cementless femoral stems had significantly lower 10-year revision rates for aseptic loosening and all-cause revision compared to collarless stems.",
+        "Collared stems were associated with a 42% lower risk of aseptic femoral loosening and a 35% lower risk of all-cause revision after adjusting for patient factors.",
+        "For orthopaedic surgeons performing cementless THA in patients over 50 with osteoarthritis, choosing a collared stem design may meaningfully reduce the chance of needing revision surgery."
+      ]
+    },
+    {
+      "pmid": "42550892",
+      "title": "The Impact of Lesser Tuberosity Osteotomy Repair After Reverse Total Shoulder Arthroplasty: A Randomized Controlled Trial.",
+      "authors": [
+        "Aleem AW",
+        "Zmistowski BM",
+        "Sefko J",
+        "Chen L",
+        "Keener JD"
+      ],
+      "authors_short": "Aleem AW, Zmistowski BM, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Although reverse total shoulder arthroplasty (rTSA) is widely used to treat a variety of complex shoulder pathologies, the management of the subscapularis tendon during rTSA remains controversial. The aim of this study was to prospectively compare outcomes following rTSA with and without lesser tuberosity repair for subscapularis management. METHODS: This patient-blinded randomized controlled trial, conducted at a single institution, enrolled patients with a sufficiently intact subscapularis suitable for reattachment. Patients were randomized to either repair or no repair of the lesser tuberosity osteotomy (LTO) fragment to which the subscapularis was attached. Pre- and postoperative assessments involved radiographs, clinical examinations, and patient-reported outcomes, including a validated internal rotation functional score. The primary outcome was the American Shoulder and Elbow Surgeons (ASES) score. RESULTS: Eighty-five shoulders in 81 patients met the inclusion criteria and had at least 2 years of follow-up. Forty-three of these shoulders had been randomized to LTO repair. At 2 years of follow-up, the repair group demonstrated significantly better ASES scores compared with the no-repair group (90.4 versus 82.3, p = 0.01). Repair provided 7 times better odds of achieving improved internal rotation range of motion. There were no significant differences in other active shoulder motions or outcome scores. CONCLUSIONS: In primary rTSA, subscapularis reattachment (by repair of the LTO) yielded better functional outcomes and internal rotation range of motion, as well as a trend toward a better internal rotation functional score. These benefits were seen without sacrificing shoulder motion in other planes. LEVEL OF EVIDENCE: Therapeutic Level I. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42550892/",
+      "score": 80,
+      "score_reasoning": "Duplicate entry handled above.",
+      "bullets": [
+        "In a randomized controlled trial of primary reverse total shoulder arthroplasty, repairing the lesser tuberosity osteotomy produced significantly better shoulder function scores at two years compared to leaving it unrepaired (ASES 90.4 vs 82.3).",
+        "Patients who had the subscapularis reattached were seven times more likely to regain internal rotation range of motion, with no loss of motion in other planes.",
+        "For patients undergoing reverse total shoulder arthroplasty with an intact subscapularis, repairing the lesser tuberosity osteotomy is worth the effort and should be the standard approach."
+      ]
+    },
+    {
+      "pmid": "42570002",
+      "title": "Operative Evaluation and Treatment of Civilian Ballistic Nerve Injuries: A Case Series.",
+      "authors": [
+        "Ghosh K",
+        "Aggarwal S",
+        "Blum E",
+        "Brogan DM",
+        "Dy CJ",
+        "Stepan JG"
+      ],
+      "authors_short": "Ghosh K, Aggarwal S, et al.",
+      "journal": "The Journal of hand surgery",
+      "journal_abbrev": "J Hand Surg Am",
+      "year": "2026",
+      "abstract": "PURPOSE: Gunshot wounds (GSWs) to the extremities can be debilitating because of their effect on peripheral nerves and the subsequent loss of function experienced by patients. However, intraoperative findings seen upon nerve exploration in ballistic injuries have not been widely reported in the civilian population. In this study, we examine our experience in the operative management of low-velocity civilian GSW injuries to the extremities with concomitant nerve palsies in regard to indications for exploration, intraoperative findings, and methods of reconstruction. METHODS: We performed a retrospective review of patients undergoing surgical intervention for GSW-related nerve injuries from two large academic centers. Included patients had a documented motor nerve or mixed-motor-sensory-nerve injury of either the upper or lower extremity after GSW. The primary outcomes were the intraoperative status of the nerve as well as the method of nerve reconstruction. RESULTS: Forty-nine patients (57 nerves) were included in this study, 85.7% of whom were men with an average age of 28.9 \u00b1 10.5 years. The median time from injury to surgery was 99 days, and most patients (61.2%) underwent exploration because of lack of improvement in function. Upon exploration, 33.3% had a neuroma in continuity (NIC), 21.1% had partial transection, 21.1% had a complete transection, and 24.6% were found to be in continuity. Nerve transfer and neurolysis were the most performed procedures, followed by autologous nerve graft and nerve decompression. Only 1.8% of nerve injuries were amenable to a direct repair. Comparison of patients who underwent early nerve exploration because of concomitant fracture fixation versus those who had delayed exploration because of lack of return of function demonstrated a considerably lower rate of NIC among patients with earlier exploration. CONCLUSIONS: Our study is one of the few to document intraoperative nerve findings in civilian ballistic injury. Our results demonstrate that nerves affected by ballistic trauma are rarely amenable to direct repair and high rates of NIC with delayed exploration; as such, surgeons should be prepared for grafting and other reconstructive options. Early exploration in the carefully selected patients may help surgeons address nerve injuries in a timelier fashion before the development of NIC. TYPE OF STUDY/LEVEL OF EVIDENCE: Therapeutic IV.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42570002/",
+      "score": 79,
+      "score_reasoning": "RCT published in JBJS comparing lesser tuberosity osteotomy repair versus no repair in rTSA, directly actionable finding showing significantly better ASES scores and internal rotation with repair.",
+      "bullets": [
+        "In civilians with gunshot-related nerve injuries, only 2% of nerves were repairable end-to-end, with most requiring nerve transfer, neurolysis, or grafting.",
+        "Delayed exploration (median 99 days) was associated with higher rates of neuroma in continuity, meaning surgeons should anticipate complex reconstruction rather than simple repair.",
+        "Early nerve exploration at the time of fracture fixation reduced neuroma in continuity formation, suggesting a role for selective early exploration in ballistic nerve injuries."
+      ]
+    },
+    {
+      "pmid": "42579612",
+      "title": "CORR Insights\u00ae: Impact Microindentation Evaluates Bone Strength, Bone Quality, and Fracture Susceptibility Across Skeletal Sites: A Cadaver Study.",
+      "authors": [
+        "Wright TM"
+      ],
+      "authors_short": "Wright TM",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42579612/",
+      "score": 78,
+      "score_reasoning": "Large registry analysis (n=168,493) in Journal of Arthroplasty demonstrating collared stems have significantly reduced aseptic loosening and all-cause revision risk, highly relevant to everyday THA practice.",
+      "bullets": [
+        "Impact microindentation measures bone resistance to indentation at the cortical surface and correlates with bone strength across different skeletal sites in cadaver specimens.",
+        "The technique may help identify patients with bone that is weaker than standard density measurements suggest, particularly where fracture risk is underestimated by DXA alone.",
+        "For orthopaedic surgeons, this tool could eventually guide implant selection or fixation strategy in patients with poor bone quality before surgery."
+      ]
+    },
+    {
+      "pmid": "42593113",
+      "title": "CORR Insights\u00ae: Is Dose Reduction After Initial Treatment With Denosumab Associated With Subsequent Skeletal-related Events, Osteonecrosis of the Jaw, or Osteoporotic Fractures in Patients With Metastatic Carcinoma? A Nationwide Retrospective Comparative Study.",
+      "authors": [
+        "Levin AS"
+      ],
+      "authors_short": "Levin AS",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42593113/",
+      "score": 76,
+      "score_reasoning": "Large propensity-matched study (n=4,294) from TriNetX showing robotic THA reduces prosthetic complications and dislocation in high-risk spinopelvic patients, directly applicable to a growing clinical challenge.",
+      "bullets": [
+        "Reducing denosumab dosing frequency after initial treatment in patients with bone metastases does not clearly increase the risk of skeletal-related events compared to maintaining the standard schedule.",
+        "This applies to patients with metastatic carcinoma who have been stabilised on denosumab and are being considered for a less intensive dosing regimen.",
+        "Orthopaedic surgeons can discuss dose reduction with oncology teams as a reasonable option in stable patients, potentially lowering the risk of osteonecrosis of the jaw without sacrificing skeletal protection."
+      ]
+    },
+    {
+      "pmid": "42578445",
+      "title": "Peptide Supplements and Their Therapeutic Applications in Sports Medicine.",
+      "authors": [
+        "Tewari K",
+        "Liu TP",
+        "Im C",
+        "Hamad C",
+        "Petrigliano F",
+        "Cheung EC",
+        "Kremen TJ"
+      ],
+      "authors_short": "Tewari K, Liu TP, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: The peptide supplement market has experienced rapid growth due to marketing claims of enhanced performance and accelerated recovery from musculoskeletal injury. These peptides are increasingly popular with patients and athletes and are often perceived as low risk, despite the absence of efficacy or safety data for many emerging peptides. PURPOSE: To summarize existing peer-reviewed data on 6 emerging peptides (BPC-157, thymosin beta-4 or TB-500, CJC-1295, MK-677, ipamorelin, and GHK-Cu [copper peptide]) for musculoskeletal recovery and enhancement in animal and human models. STUDY DESIGN: Scoping review. METHODS: Three independent reviewers searched the PubMed database using permutations of peptide search terms (BPC-157, TB-500, CJC-1295, MK-677 [ibutamoren], ipamorelin, and GHK-Cu) combined with musculoskeletal tissue search terms (bone, fracture, muscle, tendon, ligament, meniscus, and cartilage) following PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines. Papers were independently screened by 2 reviewers, with a third serving as a tiebreaker. Papers examining these peptides for musculoskeletal treatment, tissue recovery, or performance in animal or human models were included. RESULTS: Overall, 67% of identified publications utilized preclinical animal models. In animal models, most commonly rats, each compound demonstrated unique mechanisms with promising but variable effects on tendon, muscle, bone, and ligament healing. Human clinical studies were limited to a handful of investigations, most lacking robust controls or rigorous study designs. Human data were heterogeneous and revealed modest improvements at best for metabolic bone health and degenerative knee pain. Some peptides such as MK-677 were associated with significant risks including congestive heart failure, and significant heterogeneity existed in dosing and route of administration. CONCLUSION: Despite promising findings in animal studies, the claimed benefits of emerging peptide supplements for musculoskeletal recovery and performance remain unsubstantiated by current human trials. Documented risks include cardiovascular complications and metabolic dysfunction such as insulin resistance. Because of the lack of robust efficacy and safety data, peptide supplements should not currently be recommended as a replacement or adjunct for existing orthopaedic standard of care.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42578445/",
+      "score": 75,
+      "score_reasoning": "Comprehensive meta-analysis of 2730 hips in AJSM comparing labral repair versus debridement for FAI, addressing a highly common clinical decision with large sample and multi-outcome analysis.",
+      "bullets": [
+        "Six popular peptide supplements (BPC-157, TB-500, CJC-1295, MK-677, ipamorelin, GHK-Cu) show promising tendon, muscle, bone, and ligament healing in animal studies, but human trial data are scarce and poorly controlled.",
+        "The limited human data show only modest benefits at best, while some peptides carry real risks including heart failure and insulin resistance.",
+        "None of these peptides have enough evidence to recommend as a treatment or adjunct to standard orthopaedic care."
+      ]
+    },
+    {
+      "pmid": "42575289",
+      "title": "Racial and Ethnic Disparities in the Utilization of Robotic-Assisted Total Hip Arthroplasty: A Propensity Score-Matched Analysis.",
+      "authors": [
+        "Ogu E",
+        "Valencia A",
+        "Sambandam S"
+      ],
+      "authors_short": "Ogu E, Valencia A, Sambandam S",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Robotic-assisted total hip arthroplasty (RA-THA) has seen rapid adoption across the United States, yet whether racial and ethnic disparities in conventional total hip arthroplasty (THA) utilization extend to this emerging technology remains unknown. This study evaluated differences in RA-THA utilization across racial and ethnic groups. METHODS: A retrospective propensity score-matched cohort study was conducted using a national database. Patients aged 18 years or older who underwent THA between January 1, 2014, and February 12, 2026, were identified. A minority cohort (Hispanic/Latino, Black/African American, Asian, and other non-White patients) was compared with a non-Hispanic White cohort. A total of 224,954 patients were included (37,992 minority; 186,962 White). The primary outcome was the odds of undergoing RA-THA, expressed as odds ratios (OR) with 95% confidence intervals (CI). Propensity score matching was performed using a 1:1 nearest-neighbor algorithm, balancing covariates including age, sex, body mass index (BMI), and relevant comorbidities. RESULTS: In the unmatched analysis, minority patients had significantly lower odds of receiving RA-THA compared with White patients (OR 0.53, 95% CI 0.50 to 0.57, P < 0.001). Disparities were most pronounced among Black/African American patients (OR 0.41, 95% CI 0.38 to 0.45), followed by Asian (OR 0.67, 95% CI 0.56 to 0.80) and Hispanic/Latino patients (OR 0.68, 95% CI 0.59 to 0.78). After propensity score matching, these disparities persisted with nearly identical effect estimates across all groups (overall minority OR 0.53, 95% CI 0.50 to 0.59; P < 0.001). CONCLUSION: Major racial and ethnic disparities exist in RA-THA utilization in the United States. The persistence of these disparities after adjustment for clinical and demographic factors implicates structural and systemic barriers as primary drivers. As RA-THA adoption expands, targeted efforts are needed to ensure equitable access to this emerging surgical technology across all patient populations.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42575289/",
+      "score": 74,
+      "score_reasoning": "Large database study (n=11,965) with important findings that staged bilateral TKA significantly reduces complications in obese patients, particularly class 3 obesity, highly relevant to pre-operative planning.",
+      "bullets": [
+        "Minority patients undergoing total hip arthroplasty were about half as likely as White patients to receive robotic-assisted surgery, with Black patients facing the steepest disparity.",
+        "The gap persisted after accounting for age, sex, BMI, and comorbidities, pointing to structural and systemic barriers rather than clinical differences as the cause.",
+        "As robotic-assisted hip replacement expands, orthopaedic practices should actively examine whether access to this technology is reaching all patient populations equally."
+      ]
+    },
+    {
+      "pmid": "42551013",
+      "title": "Aligning Success: Insights From 85,000 CT Scans on Trochlear Groove Positioning With Kinematic Alignment.",
+      "authors": [
+        "Vesperman RI",
+        "Fox JA",
+        "Baker CE",
+        "Wong B",
+        "Atkins L",
+        "Faschingbauer M",
+        "Martin JR"
+      ],
+      "authors_short": "Vesperman RI, Fox JA, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Patellar maltracking remains a notable cause of postoperative pain and dissatisfaction after total knee arthroplasty (TKA), often from femoral component internal rotation and trochlear groove (TG) malpositioning. Although the Coronal Plane Alignment of the Knee (CPAK) classification evaluates coronal alignment, it does not account for three-dimensional anatomy. As newer alignment philosophies like kinematic alignment (KA) gain traction, risk of patellar maltracking may increase, especially when using implants designed for mechanical alignment. This study evaluates TG orientation in axial and coronal planes after virtual KA-based placement of a standard femoral component in 85,604 patients undergoing primary TKA. METHODS: We analyzed 85,604 CT scans of patients with arthritis. For each, we calculated CPAK classification, lateral distal femoral angle (LDFA), medial proximal tibial angle (MPTA), hip-knee-ankle (HKA) angle, and posterior condylar to transepicondylar axis (PCA to TEA). Using kinematic alignment principles, we virtually implanted a femoral component with a 6\u00b0 lateral trochlear groove. The average quadriceps line of force (QLF), defined as 3.2\u00b0 lateral to the femoral mechanical axis (FMA), was considered ideal for tracking. TG orientation was then measured relative to the QLF and the standard 6\u00b0 reference point. RESULTS: Mean values were as follows: LDFA 87.1\u00b0, MPTA 85.7\u00b0, HKA 176.7\u00b0, and PCA to TEA 3.2\u00b0. In the coronal plane, 41% had a TG medial to the QLF, and 9% of cases had a TG medial to the native MA. CPAK types 2 (74%), 3 (100%), and 6 (58%) showed the highest internal rotation and medial TG orientation. To achieve KA, approximately 30% of patients required >3\u00b0 of internal rotation and valgus tilt and approximately 2% required >5\u00b0. CONCLUSION: A large proportion of patients demonstrated TG malpositioning and excessive internal rotation when placing MA-designed implants in KA. This highlights the need for three-dimensional classification systems and alignment-specific designs or alignment guardrails to prevent implant malpositioning.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42551013/",
+      "score": 73,
+      "score_reasoning": "Well-designed propensity-matched national database study showing conversion TKA after tibial plateau fracture ORIF carries substantially elevated PJI and revision risks, critical for surgical counseling.",
+      "bullets": [
+        "In a virtual study of over 85,000 CT scans, kinematic alignment using a standard mechanically aligned femoral component placed the trochlear groove medial to the ideal quadriceps force vector in 41% of patients.",
+        "Roughly 30% of patients required more than 3 degrees of femoral internal rotation to achieve kinematic alignment, raising the risk of patellar maltracking with implants not designed for this technique.",
+        "Surgeons using kinematic alignment should be aware that standard mechanically aligned femoral components may not reliably position the trochlear groove correctly, particularly in patients with CPAK types 2, 3, and 6."
+      ]
+    },
+    {
+      "pmid": "42573097",
+      "title": "Autologous adipose-derived mesenchymal stromal cell injection for knee osteoarthritis improves pain and function without a clear increase in adverse events: A systematic review and meta-analysis of randomized controlled trials.",
+      "authors": [
+        "Han JH",
+        "Jung M",
+        "Chung K",
+        "Moon HS",
+        "Jung SH",
+        "Baik SH",
+        "Koo J",
+        "Sim W",
+        "Kim SH"
+      ],
+      "authors_short": "Han JH, Jung M, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To systematically review randomized controlled trials and quantitatively evaluate the efficacy and safety of injections of autologous adipose-derived mesenchymal stromal cells (AD-MSCs) in patients with knee osteoarthritis (OA). METHODS: Multiple electronic databases were searched with no date restrictions for randomized controlled trials evaluating intra-articular autologous adipose-derived cell products for knee OA. The stromal vascular fraction was considered biologically distinct and was not pooled for the same intervention. The primary efficacy outcomes were the pain visual analogue scale (VAS) and Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) total scores. Safety outcomes were defined by the occurrence of any adverse events (AEs) and serious AEs (SAEs). A random-effects meta-analysis was performed. RESULTS: Of the 1178 identified records, six randomized controlled trials, including 551 patients, were included. Compared with control, AD-MSC treatment was associated with lower WOMAC total scores at 3 months (mean difference [MD], -8.14; 95% confidence interval [CI], -13.33 to -2.95) and 6 months (MD, -8.07; 95% CI, -13.60 to -2.54), and lower pain VAS scores at 3 months (MD, -1.49; 95% CI, -2.45 to -0.54), 6 months (MD, -1.40; 95% CI, -2.08 to -0.73) and 12 months (MD, -1.80; 95% CI, -3.20 to -0.41). The pooled risk of any AEs was not significantly increased (risk ratio [RR], 1.12; 95% CI, 0.99-1.27), and SAEs were rare (RR, 0.48; 95% CI, 0.10-2.18). CONCLUSIONS: Intra-articular autologous AD-MSC injections for knee OA were associated with improvements in pain and WOMAC outcomes without a significant increase in AEs. However, given the heterogeneity in comparator type, blinding and cell-product characteristics and the limited long-term and structural evidence, these findings suggest symptomatic benefit across heterogeneous AD-MSC products but do not establish the efficacy of a specific standardized product or structural disease modification. LEVEL OF EVIDENCE: Level I, systematic review and meta-analysis of randomized controlled trials.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42573097/",
+      "score": 72,
+      "score_reasoning": "Prospective longitudinal study of nonoperative MMPRT management showing clinical improvement despite structural degeneration, addressing a common and clinically challenging decision point.",
+      "bullets": [
+        "Intra-articular fat-derived stem cell injections reduced pain and improved function scores in knee osteoarthritis patients compared to controls at 3, 6, and 12 months.",
+        "Adverse events were not significantly increased and serious adverse events were rare across the six trials covering 551 patients.",
+        "The benefit applies to symptomatic knee osteoarthritis broadly, but evidence does not yet support a specific standardized product or any slowing of structural disease progression."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-08-14T03:57:01.593387-07:00"
+}
