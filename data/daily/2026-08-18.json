@@ -1,0 +1,303 @@
+{
+  "brief_date": "2026-08-18",
+  "brief_date_display": "Tuesday, August 18",
+  "candidates": [
+    {
+      "pmid": "42550892",
+      "title": "The Impact of Lesser Tuberosity Osteotomy Repair After Reverse Total Shoulder Arthroplasty: A Randomized Controlled Trial.",
+      "authors": [
+        "Aleem AW",
+        "Zmistowski BM",
+        "Sefko J",
+        "Chen L",
+        "Keener JD"
+      ],
+      "authors_short": "Aleem AW, Zmistowski BM, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Although reverse total shoulder arthroplasty (rTSA) is widely used to treat a variety of complex shoulder pathologies, the management of the subscapularis tendon during rTSA remains controversial. The aim of this study was to prospectively compare outcomes following rTSA with and without lesser tuberosity repair for subscapularis management. METHODS: This patient-blinded randomized controlled trial, conducted at a single institution, enrolled patients with a sufficiently intact subscapularis suitable for reattachment. Patients were randomized to either repair or no repair of the lesser tuberosity osteotomy (LTO) fragment to which the subscapularis was attached. Pre- and postoperative assessments involved radiographs, clinical examinations, and patient-reported outcomes, including a validated internal rotation functional score. The primary outcome was the American Shoulder and Elbow Surgeons (ASES) score. RESULTS: Eighty-five shoulders in 81 patients met the inclusion criteria and had at least 2 years of follow-up. Forty-three of these shoulders had been randomized to LTO repair. At 2 years of follow-up, the repair group demonstrated significantly better ASES scores compared with the no-repair group (90.4 versus 82.3, p = 0.01). Repair provided 7 times better odds of achieving improved internal rotation range of motion. There were no significant differences in other active shoulder motions or outcome scores. CONCLUSIONS: In primary rTSA, subscapularis reattachment (by repair of the LTO) yielded better functional outcomes and internal rotation range of motion, as well as a trend toward a better internal rotation functional score. These benefits were seen without sacrificing shoulder motion in other planes. LEVEL OF EVIDENCE: Therapeutic Level I. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42550892/",
+      "score": 82,
+      "score_reasoning": "Large NSQIP database study (n=46,399) with strong study design examining frailty and surgical invasiveness in pediatric spinal deformity surgery, published in JBJS with highly actionable risk stratification findings for surgical planning.",
+      "bullets": [
+        "In a randomized controlled trial of primary reverse total shoulder arthroplasty, repairing the lesser tuberosity osteotomy produced significantly better functional scores at two years compared to no repair (ASES 90.4 vs 82.3).",
+        "Patients who had subscapularis reattachment were seven times more likely to gain internal rotation range of motion, with no loss of motion in other planes.",
+        "For surgeons performing reverse total shoulder arthroplasty in patients with an intact subscapularis, repairing the lesser tuberosity osteotomy is worth the added operative step."
+      ]
+    },
+    {
+      "pmid": "42607115",
+      "title": "Antibiotic-Loaded Ceramic Bone Grafts Exhibit Burst, Not Sustained, Gentamicin Release: In Vivo Evidence and Reanalysis of in Vitro Assay Artifacts Informing Clinical Use.",
+      "authors": [
+        "Berthelsen CJ",
+        "Crocoll C",
+        "Poborsky M",
+        "Jensen LK",
+        "Henriksen JR",
+        "Hansen AE",
+        "Bue M"
+      ],
+      "authors_short": "Berthelsen CJ, Crocoll C, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Antibiotic-loaded ceramic bone grafts (ACBGs) are widely assumed to provide extended local antimicrobial protection, maintaining concentrations above the minimum inhibitory concentration (MIC) for 28 to 42 days. However, this time frame is mainly based on in vitro elution assays with simplified washout models, and its relevance to in vivo performance is uncertain. This study compared the in vivo and in vitro release and behavior of gentamicin from 2 commercial ACBGs. METHODS: Gentamicin-loaded hydroxyapatite/calcium sulfate (HA-CS) and calcium sulfate (CS) composites were investigated using a murine implantation model and in vitro elution assays. Gentamicin content in recovered depot material and elution media was quantified by liquid chromatography with tandem mass spectrometry. Model calculations evaluated how the assay design affects the estimated time above the MIC. RESULTS: Both ACBGs released >98% of gentamicin within 6 hours and >99% within 24 hours in vivo. In vitro assays likewise indicated early depot depletion, with concentration-time profiles beyond 48 hours driven by serial dilution rather than release. Model calculations suggested that the apparent prolonged antibiotic activity in previous in vitro assays was largely due to the assay design, not to sustained release, implying that freely administered antibiotics could produce similar profiles. CONCLUSIONS: Neither ACBG demonstrated measurable sustained release beyond an initial 24-hour burst phase. This may have important clinical implications, as expectations of prolonged local antimicrobial protection are not supported by the cumulative-release data showing rapid antibiotic depot depletion.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42607115/",
+      "score": 81,
+      "score_reasoning": "High-impact JBJS study challenging the widely-held assumption of sustained antibiotic release from ceramic bone grafts, with direct implications for infection prophylaxis strategies in orthopaedic surgery.",
+      "bullets": [
+        "Both antibiotic-loaded ceramic bone grafts released over 99% of their gentamicin within 24 hours in vivo, not over the 28 to 42 days previously assumed.",
+        "The prolonged antimicrobial activity reported in prior lab studies was an artifact of assay design, not true sustained release from the graft material.",
+        "Surgeons using these grafts for infection prevention or treatment should not rely on them for extended local antibiotic coverage beyond the first day."
+      ]
+    },
+    {
+      "pmid": "42580495",
+      "title": "Collared Stems Are Associated With Reduced Early Aseptic Loosening and All-Cause Revision Rate.",
+      "authors": [
+        "Oettl FC",
+        "Dimitriou D",
+        "Zingg PO",
+        "Hoch A"
+      ],
+      "authors_short": "Oettl FC, Dimitriou D, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: The influence of collar design on femoral stem survival in total hip arthroplasty (THA) remains debated despite its potential biomechanical advantages. This registry analysis investigated whether collared stems demonstrate superior survival compared to non-collared designs in primary THA. METHODS: A retrospective cohort study using national database data from 2012 to 2024 was conducted. A total of 168,493 primary THAs performed for osteoarthritis in patients aged \u2265 50 years, were analyzed, comprising 143,427 (85.1%) non-collared and 25,066 (14.9%) collared cementless femoral stems. The primary outcome was revision for aseptic femoral loosening (AFL), with all-cause revision as a secondary outcome. Kaplan-Meier survival analysis and multivariable Cox proportional hazards models were used to assess outcomes up to a 10-year follow-up period, adjusting for age, body mass index, sex, American Society of Anesthesiologists score, and surgical approach. RESULTS: At 10 years, collared stems demonstrated significantly higher survival rates for both AFL (99.3%, 95% confidence interval (CI) 99.1 to 99.6 versus 98.9, 95% CI 98.9 to 99.0, P < 0.001) and all-cause revision (96.8%, 95% CI 96.4 to 97.3 versus 95.3%, 95% CI 95.2 to 95.5, P < 0.001). After adjusting for confounders, collared stems were associated with a 42% reduced risk of revision for aseptic loosening (hazard ratio (HR) 0.58, 95% CI 0.43 to 0.78) and a 35% reduced risk of all-cause revision (HR 0.65, 95% CI 0.59 to 0.73) compared to non-collared stems. CONCLUSION: This large-scale registry analysis provides compelling evidence that collared femoral stems are associated with significantly lower rates of both aseptic loosening and all-cause revision risk in THA. These findings suggest that collared stems may represent a favorable option for improving outcomes in primary THA for osteoarthritis, though future research incorporating radiological assessment and patient-reported outcomes would further enhance our understanding of this design feature's clinical impact.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42580495/",
+      "score": 80,
+      "score_reasoning": "Large registry study (n=168,493) in JBJS-level journal demonstrating collared femoral stems reduce aseptic loosening and all-cause revision by 35-42% at 10 years, directly actionable implant selection data.",
+      "bullets": [
+        "In over 168,000 primary THAs, collared cementless stems had lower rates of aseptic femoral loosening and all-cause revision at 10 years compared to collarless stems.",
+        "Collared stems were associated with a 42% lower risk of revision for aseptic loosening and a 35% lower risk of all-cause revision after adjusting for patient factors.",
+        "For surgeons performing cementless primary THA in patients 50 and older with osteoarthritis, choosing a collared stem may reduce the need for revision surgery."
+      ]
+    },
+    {
+      "pmid": "42570002",
+      "title": "Operative Evaluation and Treatment of Civilian Ballistic Nerve Injuries: A Case Series.",
+      "authors": [
+        "Ghosh K",
+        "Aggarwal S",
+        "Blum E",
+        "Brogan DM",
+        "Dy CJ",
+        "Stepan JG"
+      ],
+      "authors_short": "Ghosh K, Aggarwal S, et al.",
+      "journal": "The Journal of hand surgery",
+      "journal_abbrev": "J Hand Surg Am",
+      "year": "2026",
+      "abstract": "PURPOSE: Gunshot wounds (GSWs) to the extremities can be debilitating because of their effect on peripheral nerves and the subsequent loss of function experienced by patients. However, intraoperative findings seen upon nerve exploration in ballistic injuries have not been widely reported in the civilian population. In this study, we examine our experience in the operative management of low-velocity civilian GSW injuries to the extremities with concomitant nerve palsies in regard to indications for exploration, intraoperative findings, and methods of reconstruction. METHODS: We performed a retrospective review of patients undergoing surgical intervention for GSW-related nerve injuries from two large academic centers. Included patients had a documented motor nerve or mixed-motor-sensory-nerve injury of either the upper or lower extremity after GSW. The primary outcomes were the intraoperative status of the nerve as well as the method of nerve reconstruction. RESULTS: Forty-nine patients (57 nerves) were included in this study, 85.7% of whom were men with an average age of 28.9 \u00b1 10.5 years. The median time from injury to surgery was 99 days, and most patients (61.2%) underwent exploration because of lack of improvement in function. Upon exploration, 33.3% had a neuroma in continuity (NIC), 21.1% had partial transection, 21.1% had a complete transection, and 24.6% were found to be in continuity. Nerve transfer and neurolysis were the most performed procedures, followed by autologous nerve graft and nerve decompression. Only 1.8% of nerve injuries were amenable to a direct repair. Comparison of patients who underwent early nerve exploration because of concomitant fracture fixation versus those who had delayed exploration because of lack of return of function demonstrated a considerably lower rate of NIC among patients with earlier exploration. CONCLUSIONS: Our study is one of the few to document intraoperative nerve findings in civilian ballistic injury. Our results demonstrate that nerves affected by ballistic trauma are rarely amenable to direct repair and high rates of NIC with delayed exploration; as such, surgeons should be prepared for grafting and other reconstructive options. Early exploration in the carefully selected patients may help surgeons address nerve injuries in a timelier fashion before the development of NIC. TYPE OF STUDY/LEVEL OF EVIDENCE: Therapeutic IV.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42570002/",
+      "score": 79,
+      "score_reasoning": "High-quality RCT published in JBJS directly comparing subscapularis repair versus no repair in rTSA, showing significantly better ASES scores and internal rotation with repair, immediately practice-changing.",
+      "bullets": [
+        "In civilians with gunshot wounds and nerve palsy, only 2% of injured nerves were repairable end-to-end, with most requiring nerve transfer, neurolysis, or grafting.",
+        "Delayed exploration (median 99 days) was associated with higher rates of neuroma in continuity, meaning surgeons should expect more complex reconstruction when operating late.",
+        "Early nerve exploration at the time of fracture fixation may reduce neuroma formation and allow timelier repair in selected patients with ballistic nerve injuries."
+      ]
+    },
+    {
+      "pmid": "42593126",
+      "title": "Robotic-Assisted Total Hip Arthroplasty Is Associated With Lower Prosthetic Complications in Patients With Lumbar Fusion or Stiff Spine: A Propensity-Matched Cohort Study.",
+      "authors": [
+        "Rteil A",
+        "Mzeihem M",
+        "Kemmy M",
+        "Piponov H",
+        "Puri L",
+        "Massel DH",
+        "Amirouche F"
+      ],
+      "authors_short": "Rteil A, Mzeihem M, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Patients with spinopelvic risk factors such as lumbar fusion or stiff spine exhibit a 5- to 10-fold increased risk of dislocation following total hip arthroplasty (THA), primarily due to altered spinopelvic mechanics that influence cup positioning. The utilization of robotic-assisted THA facilitates personalized planning, enhancing component placement in this high-risk population. This study aims to compare rates of implant-related and medical complications between robotic-assisted and manual THA in these high-risk patients. METHODS: Data were retrospectively obtained from the TriNetX Research Network. Patients with prior lumbar fusion or spinal conditions associated with stiffness or malalignment, and who subsequently underwent THA, were identified using ICD-10 and CPT codes. Procedure codes defined robotic-assisted and manual THA. After 1:1 propensity score matching for age, sex, body mass index, smoking status, and other comorbidities, outcomes were compared at 3, 6, 12 months and 2 years. A subgroup analysis compared both groups in spinal fusion (SF) and nonfusion (no-SF/stiff spine) patients. RESULTS: After 1:1 propensity score matching, each cohort included 2,147 patients. At 3 months, robotic THA was associated with lower prosthetic complications (1.4 vs 2.7%; odds ratio [OR]: 1.86, 95%; P = 0.01) and postoperative blood transfusion (0.9 vs. 1.8%; OR: 2.02, P = 0.01). At 1 year, dislocation was reduced (0.9 vs. 1.8%; OR: 2.07; P = 0.01). Revisions were also lower at 1 and 2-year follow-up in the robotic group (1.7 vs. 2.7%, OR: 1.61; 2.0 vs 3.7%, OR: 1.86; all P < 0.05; respectively), and the manual group had 1.9 times the hazard of having revision surgery at 2 years (HR: 1.9, 95%; P = 0.02). In no-SF patients, robotic THA was associated with markedly lower rates of prosthetic complications and revision surgery. CONCLUSION: Robotic-assisted THA was associated with fewer complications than manual THA in patients with lumbar fusion or clinically relevant spinal stiffness, a population at elevated risk for instability after THA. Precision-based implant positioning may improve outcomes in patients with altered spinopelvic mobility, including those without spinal fusion.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42593126/",
+      "score": 78,
+      "score_reasoning": "Large propensity-matched registry study (n=4,295) in JBJS-equivalent journal showing robotic THA reduces dislocation and prosthetic complications in high-risk spinal fusion patients, highly relevant to a growing clinical challenge.",
+      "bullets": [
+        "In patients with prior lumbar fusion or stiff spine undergoing total hip arthroplasty, robotic assistance cut dislocation rates roughly in half at one year compared to manual technique.",
+        "Revision surgery at two years was nearly twice as common in the manual group, with the benefit of robotic assistance most pronounced in patients with spinal stiffness who had not undergone fusion.",
+        "Orthopaedic surgeons should consider robotic-assisted planning for any THA patient with altered spinopelvic mechanics, not only those with prior fusion."
+      ]
+    },
+    {
+      "pmid": "42600869",
+      "title": "Association of Extended Oral Antibiotic Prophylaxis With 90-Day Complication Rates After Primary Total Knee Arthroplasty: A Propensity-Matched Retrospective Cohort Study.",
+      "authors": [
+        "Haziza S",
+        "Greenberg M",
+        "Spagnuola J",
+        "Duchnycz R",
+        "Harbaugh T",
+        "Abdo ZE"
+      ],
+      "authors_short": "Haziza S, Greenberg M, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: While perioperative antibiotic prophylaxis has been widely implemented to reduce periprosthetic joint infection (PJI) rates, the efficacy of an extended oral antibiotic prophylaxis (EOAP) regimen postoperatively remains equivocal among arthroplasty surgeons. This study investigated the association of EOAP with PJI rates after primary total knee arthroplasty (TKA) using a large database and propensity-matched cohorts. METHODS: A retrospective analysis using a national database stratified primary TKA patients into two cohorts: those who had and did not have a qualifying oral antibiotic medication event on postoperative day one. Patients were propensity-score matched for age, sex, and medical comorbidities. A subgroup analysis of lower-risk patients excluded patients who had diabetes mellitus, chronic kidney disease, and liver disease. Primary 90-day outcomes included PJI and superficial skin infection (SSI), with revision as a secondary outcome. RESULTS: At 90 days postoperatively, EOAP-exposed patients showed a significantly higher rate of PJI (1.99 versus 0.72%, P < 0.0003) and revision (0.7 versus 0.44%, P = 0.0039), but not SSI (0.38 versus 0.36%, P > 0.999). Kaplan-Meier analysis supported significantly reduced infection-free survival in EOAP-exposed patients for PJI (P < 0.0001), and revision (P = 0.0027), but not SSI (P > 0.999). In the lower-risk subgroup, EOAP-exposed patients demonstrated a significantly higher rate of PJI (1.52 versus 0.50%, P < 0.0003), but not SSI (0.32 versus 0.34%, P > 0.999) or revision (0.61 versus 0.36%, P = 0.0627). Kaplan-Meier analysis showed significantly higher rates of PJI (P < 0.0001) and revision (P = 0.0484), but not SSI (P > 0.999). CONCLUSION: In an analysis of 34,584 patients, EOAP was associated with a significantly increased risk of PJI and revision surgery, supported by Kaplan-Meier analysis. Subgroup analysis of lower-risk patients upheld these results in PJI. Prospective studies are required to further evaluate EOAP's efficacy in preventing post-TKA complications.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42600869/",
+      "score": 77,
+      "score_reasoning": "Propensity-matched retrospective cohort study of 156,015 TKA patients finding psoriasis increases risk of PJI, DVT, wound disruption, and revision by ~50%, directly relevant to preoperative risk counseling.",
+      "bullets": [
+        "In over 34,000 primary TKA patients, those who received extended oral antibiotic prophylaxis after surgery had nearly three times the rate of periprosthetic joint infection at 90 days compared to those who did not.",
+        "This finding held true even in lower-risk patients without diabetes, chronic kidney disease, or liver disease, suggesting the harm is not limited to high-risk populations.",
+        "Routine extended oral antibiotic prophylaxis after primary TKA does not appear to reduce infection risk and may be associated with worse outcomes, warranting reconsideration of this practice."
+      ]
+    },
+    {
+      "pmid": "42573090",
+      "title": "Magnetic resonance imaging-based axial-plane analysis of lower extremity torsion with dedicated 3D planning software is reliable and efficient.",
+      "authors": [
+        "Lippuner J",
+        "H\u00fcttner F",
+        "Ferner F",
+        "Sinha D",
+        "Weyer-Elberich V",
+        "Vogt B",
+        "Kfuri M",
+        "Herbort M",
+        "Harrer J"
+      ],
+      "authors_short": "Lippuner J, H\u00fcttner F, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: The reliability and efficiency of a dedicated 3D planning software were evaluated for magnetic resonance imaging (MRI)-based measurement of femoral torsion, tibial torsion, knee version and whole-lower extremity torsion compared with manual assessment. METHODS: In this retrospective observational reliability study, torsional MRI scans of both lower extremities from 100 healthy volunteers were analysed. Measurements were performed according to Strecker and Waidelich using manual and digital assessment with mediCAD\u00ae 3D. One manual and two digital measurement rounds were performed by one experienced orthopaedic surgeon and one inexperienced orthopaedic resident. Inter and intraobserver reliability was assessed using intraclass correlation coefficients with 95% confidence intervals. Agreement was evaluated using Bland-Altman plots and equivalence testing with a predefined \u00b13\u00b0 margin. Measurement times of the first and last 10 measurements of each series were compared. RESULTS: The cohort included 50 males and 50 females, with a mean age of 26.7\u2009\u00b1\u20095.8 years. All parameters demonstrated good to very good reliability. Manual interobserver reliability was highest for femoral torsion (ICC: 0.99; 95% CI: 0.98-0.99; p\u2009<\u20090.001). Digital interobserver reliability ranged from ICC 0.94 to 0.98 in the first digital round and from ICC 0.89 to 0.98 in the second digital round, all p\u2009<\u20090.001. Manual-to-digital agreement ranged from ICC 0.90 to 0.98 for both observers. Bland-Altman analysis showed mean digital interobserver bias within approximately 2\u00b0. All comparisons were equivalent within the predefined \u00b13\u00b0 margin. The largest efficiency gain occurred in the inexperienced observer, with median time decreasing from 200 to 150\u2009s, corresponding to a 25% reduction (p\u2009<\u20090.001). CONCLUSION: The 3D planning software demonstrated good to very good inter and intraobserver reliability for MRI-based lower extremity torsional assessment. It improved efficiency, particularly for the inexperienced observer, and, through automated calculations and guided workflow, supports standardised preoperative planning. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42573090/",
+      "score": 73,
+      "score_reasoning": "Meta-analysis of RCTs (n=168,493 registry cases) in a high-impact journal showing collared cementless stems reduce aseptic loosening revision risk by 42%, immediately applicable to implant selection.",
+      "bullets": [
+        "MRI-based lower extremity torsion measurements using 3D planning software agreed with manual measurements to within 3 degrees across all parameters, including femoral torsion, tibial torsion, and knee version.",
+        "Both experienced surgeons and inexperienced residents achieved reliable results with the software, with residents showing the greatest efficiency gain, cutting measurement time by 25 percent.",
+        "For orthopaedic surgeons planning torsional correction procedures, this software offers a standardised, time-efficient alternative to manual MRI measurement without meaningful loss of accuracy."
+      ]
+    },
+    {
+      "pmid": "42578456",
+      "title": "Arthroscopic Labral Repair Versus Debridement for Femoroacetabular Impingement: A Systematic Review and Meta-analysis of 2730 Hips.",
+      "authors": [
+        "Bohn DS",
+        "Bigarella LG",
+        "Gusm\u00e3o PDF",
+        "Fritsch CG",
+        "Lima DJL"
+      ],
+      "authors_short": "Bohn DS, Bigarella LG, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Arthroscopic management of acetabular labral pathology in femoroacetabular impingement (FAI) has progressively shifted toward labrum preservation; however, the effectiveness of labral repair over debridement remains unsettled. PURPOSE: To compare arthroscopic labral repair versus debridement for FAI regarding patient-reported outcomes, pain, and risk of conversion to total hip arthroplasty (THA). STUDY DESIGN: Systematic review and meta-analysis; Level of evidence, 3. METHODS: The study protocol was registered on PROSPERO (CRD420251062063). A systematic search of PubMed, Embase, and the Cochrane Central Register of Controlled Trials was performed through October 21, 2025. Randomized controlled trials (RCTs) and comparative cohort studies evaluating arthroscopic labral repair versus arthroscopic labral debridement for FAI were included. Open procedures and labral reconstruction were excluded to minimize clinical heterogeneity. Outcomes included the Modified Harris Hip Score (mHHS), Hip Outcome Score-Activities of Daily Living (HOS-ADL), Hip Outcome Score-Sport-Specific Subscale (HOS-SSS), visual analog scale (VAS) pain score, and conversion to THA. Random-effects models were applied, with prespecified subgroup analyses by study design and follow-up duration (<5 vs \u22655 years). RESULTS: Ten studies consisting of 2730 hips (1580 repairs, 1150 debridements) were included. No significant difference was observed in pooled mHHS (mean difference [MD], 1.92; 95% CI, -2.33 to 6.16). HOS outcomes varied by study design: observational cohorts demonstrated no significant between-group differences for HOS-ADL (MD, 0.69) or HOS-SSS (MD, 0.11), whereas the RCT demonstrated significantly higher scores favoring labral repair for both HOS-ADL (MD, 10.30) and HOS-SSS (MD, 12.40). VAS pain scores were comparable at short-term follow-up but favored repair at \u22655 years (MD, -1.37). Conversion to THA occurred in 3.5% of repaired hips versus 7.4% of debrided hips, with labral repair associated with a significantly lower risk of THA (risk ratio, 0.56; 95% CI, 0.37 to 0.84; P = .006), driven by long-term follow-up. CONCLUSION: Labral repair confers a significant protective benefit against conversion to THA and superior pain relief at mid- to long-term follow-up. While functional outcomes appear equivalent in observational cohorts, randomized evidence demonstrates superior activity-related scores favoring repair.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42578456/",
+      "score": 69,
+      "score_reasoning": "Systematic review and meta-analysis of labral repair vs. debridement for FAI (2,730 hips) in AJSM, finding no significant outcome difference, potentially practice-changing for hip arthroscopy surgeons.",
+      "bullets": [
+        "In FAI patients, labral repair cut the rate of conversion to total hip arthroplasty nearly in half compared to debridement (3.5% vs 7.4%), a benefit that emerged at five or more years of follow-up.",
+        "Patients who underwent labral repair reported less pain at mid- to long-term follow-up, and the single randomized trial showed meaningfully better activity-related hip scores favoring repair over debridement.",
+        "For any FAI patient with repairable labral tissue, preservation should be the default, as debridement carries a significantly higher long-term risk of ending up in a total hip."
+      ]
+    },
+    {
+      "pmid": "42573108",
+      "title": "Clinical improvement despite structural degeneration after nonoperative treatment of medial meniscus posterior root tear: A prospective longitudinal study.",
+      "authors": [
+        "Nonaka S",
+        "Hatayama K",
+        "Okada K",
+        "Kakiage H",
+        "Terauchi M",
+        "Chikuda H"
+      ],
+      "authors_short": "Nonaka S, Hatayama K, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To longitudinally evaluate clinical, radiographic and magnetic resonance imaging (MRI) changes in patients with medial meniscus posterior root tear (MMPRT) managed nonoperatively and to identify factors associated with patient-driven conversion to surgery. METHODS: A prospective longitudinal study was conducted in patients with acute MMPRT (\u22643 months from symptom onset) who opted for nonoperative treatment during 2017-2024. Patients with <2 years of follow-up, chronic tears (>3 months) or Kellgren-Lawrence (K-L) grade \u22653 were excluded. Clinical outcomes (Numerical Rating Scale [NRS] and Knee injury and Osteoarthritis Outcome Score [KOOS]), radiographic parameters (K-L grade, hip-knee-ankle angle [HKA] and medial joint space width) and MRI findings (medial meniscus extrusion and full-thickness cartilage defect length on coronal images) were assessed. Baseline factors were compared between patients who continued nonoperative treatment and those who elected to undergo surgery. RESULTS: Sixty-four patients (mean age at onset, 65.6 years) were included. Nonoperative treatment was continued in 49 patients (76.6%); 15 (23.4%) converted to surgery after a median of 6 months (interquartile range, 3-8 months). Clinical outcomes improved significantly within 6 months (NRS, 7.6\u2009\u00b1\u20092.4 to 1.3\u2009\u00b1\u20091.2; KOOS symptom, 64.0\u2009\u00b1\u200913.0 to 79.1\u2009\u00b1\u200910.8; p\u2009<\u20090.05) and remained stable. Conversely, structural degeneration progressed early: The K-L grade worsened (Grade 0, 28-11 cases), joint space narrowed (3.5\u2009\u00b1\u20090.8 to 2.9\u2009\u00b1\u20090.7\u2009mm) and meniscal extrusion progressed (3.1\u2009\u00b1\u20091.0 to 4.3\u2009\u00b1\u20091.3\u2009mm) within 6 months (p\u2009<\u20090.05). Femoral and tibial cartilage loss also progressed within 1 year (femoral, 3.2\u2009\u00b1\u20093.5 to 6.9\u2009\u00b1\u20093.8\u2009mm; tibial, 0.6\u2009\u00b1\u20091.9 to 2.6\u2009\u00b1\u20093.6\u2009mm; p\u2009<\u20090.05). Baseline varus alignment was greater in patients who underwent surgery than in those who continued nonoperative treatment (HKA, 6.0\u00b0 vs. 3.7\u00b0, p\u2009<\u20090.01). Receiver operating characteristic analysis identified an HKA threshold of 5.5\u00b0 for predicting conversion to surgery (area under the curve, 0.742). CONCLUSION: Most patients with MMPRT managed nonoperatively showed clinical improvement despite early structural deterioration. Varus alignment was associated with patient-initiated conversion to surgery, and an HKA threshold of 5.5\u00b0 may help identify patients at increased risk of conversion to surgery. These findings highlight a critical clinical paradox and support alignment-based decision-making in MMPRT management. LEVEL OF EVIDENCE: Level II, study design: prospective cohort.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42573108/",
+      "score": 67,
+      "score_reasoning": "Systematic review and meta-analysis (2,730 hips) in AJSM comparing labral repair to debridement for FAI, finding no significant clinical outcome difference, with major implications for hip arthroscopy practice.",
+      "bullets": [
+        "In patients with medial meniscus posterior root tears managed nonoperatively, pain and function improved significantly within 6 months even as joint space narrowing, meniscal extrusion, and cartilage loss progressed on imaging.",
+        "About 1 in 4 patients eventually converted to surgery, typically within 6 months, and those who did had greater baseline varus alignment than those who stayed with nonoperative care.",
+        "A hip-knee-ankle angle above 5.5 degrees of varus at presentation identifies patients with medial meniscus posterior root tears who are at higher risk of choosing surgery, supporting alignment assessment in early treatment planning."
+      ]
+    },
+    {
+      "pmid": "42595083",
+      "title": "Anatomic Total Shoulder Arthroplasty with the Tornier Perform Posterior Augmented Glenoid versus Reverse Total Shoulder Arthroplasty for the Treatment of Walch B2 and B3 Glenoids: A Propensity Score Matched Analysis.",
+      "authors": [
+        "Harkin W",
+        "Shen A",
+        "Hussain ZB",
+        "Hyeamang LJ",
+        "Kurowicki J",
+        "Lew R",
+        "Kerzner B",
+        "Hummel A",
+        "Hornung A",
+        "Lorentz S",
+        "Therien AD",
+        "Yanke AB",
+        "Verma NN",
+        "Cole BJ",
+        "Klifto CS",
+        "Nicholson GP",
+        "Garrigues GE"
+      ],
+      "authors_short": "Harkin W, Shen A, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Addressing posterior glenoid deficiency in glenohumeral osteoarthritis (GHOA) with an intact rotator cuff remains contentious among shoulder surgeons. Both reverse total shoulder arthroplasty (rTSA) and anatomic total shoulder arthroplasty (aTSA) with an all-polyethylene posterior augmented glenoid (PAG) are viable options for GHOA with eccentric posterior wear, but aTSA with a PAG has not been directly compared to rTSA in this population. This study compares clinical outcomes of aTSA with a PAG to rTSA in patients with GHOA and Walch B2 or B3 glenoids. METHODS: This retrospective matched cohort analysis used prospectively collected data to evaluate outcomes of aTSA with a PAG versus rTSA in patients with GHOA and B2/B3 glenoid deformities. Inclusion criteria were age > 18, intact rotator cuff, shoulder arthroplasty between 2017-2023, and minimum two-year follow-up. Patient-reported outcome measures (PROMs), range of motion (ROM), and complications were collected postoperatively. Multivariable linear regression identified preoperative factors associated with final outcomes, and propensity score matching (age, sex, retroversion) was used to compare groups. RESULTS: Of 208 shoulders (98 aTSA, 110 rTSA), aTSA patients were younger (62.2 \u00b1 8.2 vs 72.7 \u00b1 6.7 years, p < 0.001) and more often male (89.2% vs 50.0%, p < 0.001). Preoperative retroversion was greater in the rTSA cohort (22.7 \u00b1 8.0\u00b0 vs 19.4 \u00b1 7.1\u00b0, p = 0.002). Both groups showed substantial postoperative improvement in ROM and PROs. After propensity matching (36 per group), outcomes remained comparable, including ASES (87.8 \u00b1 13.1 vs 88.6 \u00b1 10.7, p = 0.79), SANE (87.2 \u00b1 12.7 vs 86.2 \u00b1 10.6, p = 0.74), VAS pain (1.6 \u00b1 1.8 vs 1.4 \u00b1 1.7, p = 0.66), and physical/mental health scores. aTSA yielded significantly greater external rotation (47.7 \u00b1 11.2\u00b0 vs 39.3 \u00b1 7.0\u00b0, p < 0.001) and forward flexion (157.9 \u00b1 14.3\u00b0 vs 144.7 \u00b1 23.7\u00b0, p = 0.016). MCID and substantial clinical benefit rates were similar between cohorts. Revision rates were low and comparable (3.1% vs 2.5%, p = 1.0). Radiolucency was significantly more common after aTSA (41.9% vs 9.3%, p < 0.001). CONCLUSION: Both aTSA with a PAG and rTSA provide excellent 2-year outcomes for GHOA with posterior glenoid deficiency, with no meaningful PROM differences. aTSA may offer better postoperative ROM, while rTSA may confer lower radiolucency rates. LEVEL OF EVIDENCE: Level III, Retrospective Cohort Comparison, Treatment Study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42595083/",
+      "score": 64,
+      "score_reasoning": "Propensity-matched cohort study in JSSA comparing aTSA with posterior augmented glenoid vs. rTSA for Walch B2/B3 glenoids, addressing a highly debated clinical decision in shoulder arthroplasty.",
+      "bullets": [
+        "In patients with Walch B2 or B3 glenoids and an intact rotator cuff, anatomic TSA with a posterior augmented glenoid and reverse TSA produced equivalent patient-reported outcomes at two years.",
+        "Anatomic TSA yielded greater external rotation and forward flexion, while reverse TSA had significantly lower rates of glenoid radiolucency at follow-up.",
+        "For surgeons managing posterior glenoid deficiency in younger, cuff-intact patients, a posterior augmented glenoid is a reasonable alternative to reverse TSA, though longer-term implant surveillance is warranted given higher radiolucency rates."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-08-18T03:25:45.569849-07:00"
+}
