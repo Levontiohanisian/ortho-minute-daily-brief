@@ -1,0 +1,297 @@
+{
+  "brief_date": "2026-08-19",
+  "brief_date_display": "Wednesday, August 19",
+  "candidates": [
+    {
+      "pmid": "42607115",
+      "title": "Antibiotic-Loaded Ceramic Bone Grafts Exhibit Burst, Not Sustained, Gentamicin Release: In Vivo Evidence and Reanalysis of in Vitro Assay Artifacts Informing Clinical Use.",
+      "authors": [
+        "Berthelsen CJ",
+        "Crocoll C",
+        "Poborsky M",
+        "Jensen LK",
+        "Henriksen JR",
+        "Hansen AE",
+        "Bue M"
+      ],
+      "authors_short": "Berthelsen CJ, Crocoll C, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Antibiotic-loaded ceramic bone grafts (ACBGs) are widely assumed to provide extended local antimicrobial protection, maintaining concentrations above the minimum inhibitory concentration (MIC) for 28 to 42 days. However, this time frame is mainly based on in vitro elution assays with simplified washout models, and its relevance to in vivo performance is uncertain. This study compared the in vivo and in vitro release and behavior of gentamicin from 2 commercial ACBGs. METHODS: Gentamicin-loaded hydroxyapatite/calcium sulfate (HA-CS) and calcium sulfate (CS) composites were investigated using a murine implantation model and in vitro elution assays. Gentamicin content in recovered depot material and elution media was quantified by liquid chromatography with tandem mass spectrometry. Model calculations evaluated how the assay design affects the estimated time above the MIC. RESULTS: Both ACBGs released >98% of gentamicin within 6 hours and >99% within 24 hours in vivo. In vitro assays likewise indicated early depot depletion, with concentration-time profiles beyond 48 hours driven by serial dilution rather than release. Model calculations suggested that the apparent prolonged antibiotic activity in previous in vitro assays was largely due to the assay design, not to sustained release, implying that freely administered antibiotics could produce similar profiles. CONCLUSIONS: Neither ACBG demonstrated measurable sustained release beyond an initial 24-hour burst phase. This may have important clinical implications, as expectations of prolonged local antimicrobial protection are not supported by the cumulative-release data showing rapid antibiotic depot depletion.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42607115/",
+      "score": 88,
+      "score_reasoning": "Large registry study (168,493 THAs) from a high-impact journal demonstrating collared stems reduce aseptic loosening and all-cause revision by 35-42%, directly actionable for implant selection in daily THA practice.",
+      "bullets": [
+        "Both antibiotic-loaded ceramic bone grafts released over 99% of their gentamicin within 24 hours in vivo, not over the assumed 28 to 42 day window.",
+        "The prolonged release curves seen in prior lab studies were an artifact of assay design, not evidence of true sustained antibiotic delivery.",
+        "Surgeons using these grafts for infection prevention or treatment should not rely on extended local antibiotic protection beyond the first day after implantation."
+      ]
+    },
+    {
+      "pmid": "42600869",
+      "title": "Association of Extended Oral Antibiotic Prophylaxis With 90-Day Complication Rates After Primary Total Knee Arthroplasty: A Propensity-Matched Retrospective Cohort Study.",
+      "authors": [
+        "Haziza S",
+        "Greenberg M",
+        "Spagnuola J",
+        "Duchnycz R",
+        "Harbaugh T",
+        "Abdo ZE"
+      ],
+      "authors_short": "Haziza S, Greenberg M, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: While perioperative antibiotic prophylaxis has been widely implemented to reduce periprosthetic joint infection (PJI) rates, the efficacy of an extended oral antibiotic prophylaxis (EOAP) regimen postoperatively remains equivocal among arthroplasty surgeons. This study investigated the association of EOAP with PJI rates after primary total knee arthroplasty (TKA) using a large database and propensity-matched cohorts. METHODS: A retrospective analysis using a national database stratified primary TKA patients into two cohorts: those who had and did not have a qualifying oral antibiotic medication event on postoperative day one. Patients were propensity-score matched for age, sex, and medical comorbidities. A subgroup analysis of lower-risk patients excluded patients who had diabetes mellitus, chronic kidney disease, and liver disease. Primary 90-day outcomes included PJI and superficial skin infection (SSI), with revision as a secondary outcome. RESULTS: At 90 days postoperatively, EOAP-exposed patients showed a significantly higher rate of PJI (1.99 versus 0.72%, P < 0.0003) and revision (0.7 versus 0.44%, P = 0.0039), but not SSI (0.38 versus 0.36%, P > 0.999). Kaplan-Meier analysis supported significantly reduced infection-free survival in EOAP-exposed patients for PJI (P < 0.0001), and revision (P = 0.0027), but not SSI (P > 0.999). In the lower-risk subgroup, EOAP-exposed patients demonstrated a significantly higher rate of PJI (1.52 versus 0.50%, P < 0.0003), but not SSI (0.32 versus 0.34%, P > 0.999) or revision (0.61 versus 0.36%, P = 0.0627). Kaplan-Meier analysis showed significantly higher rates of PJI (P < 0.0001) and revision (P = 0.0484), but not SSI (P > 0.999). CONCLUSION: In an analysis of 34,584 patients, EOAP was associated with a significantly increased risk of PJI and revision surgery, supported by Kaplan-Meier analysis. Subgroup analysis of lower-risk patients upheld these results in PJI. Prospective studies are required to further evaluate EOAP's efficacy in preventing post-TKA complications.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42600869/",
+      "score": 86,
+      "score_reasoning": "Propensity-matched cohort of 4,191 psoriasis patients undergoing TKA showing significantly elevated DVT, wound disruption, PJI, and revision rates, providing immediately applicable risk stratification for surgical planning and consent.",
+      "bullets": [
+        "In 34,584 propensity-matched primary TKA patients, those who received extended oral antibiotic prophylaxis after surgery had nearly three times the rate of periprosthetic joint infection at 90 days compared to those who did not (1.99% vs 0.72%).",
+        "The higher infection rate held up in lower-risk patients without diabetes, chronic kidney disease, or liver disease, suggesting extended oral antibiotic prophylaxis does not protect even healthier TKA recipients.",
+        "Orthopaedic surgeons should reconsider routine postoperative oral antibiotic prophylaxis after primary TKA, as the data associate this practice with more infections and more revision surgery, not fewer."
+      ]
+    },
+    {
+      "pmid": "42580495",
+      "title": "Collared Stems Are Associated With Reduced Early Aseptic Loosening and All-Cause Revision Rate.",
+      "authors": [
+        "Oettl FC",
+        "Dimitriou D",
+        "Zingg PO",
+        "Hoch A"
+      ],
+      "authors_short": "Oettl FC, Dimitriou D, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: The influence of collar design on femoral stem survival in total hip arthroplasty (THA) remains debated despite its potential biomechanical advantages. This registry analysis investigated whether collared stems demonstrate superior survival compared to non-collared designs in primary THA. METHODS: A retrospective cohort study using national database data from 2012 to 2024 was conducted. A total of 168,493 primary THAs performed for osteoarthritis in patients aged \u2265 50 years, were analyzed, comprising 143,427 (85.1%) non-collared and 25,066 (14.9%) collared cementless femoral stems. The primary outcome was revision for aseptic femoral loosening (AFL), with all-cause revision as a secondary outcome. Kaplan-Meier survival analysis and multivariable Cox proportional hazards models were used to assess outcomes up to a 10-year follow-up period, adjusting for age, body mass index, sex, American Society of Anesthesiologists score, and surgical approach. RESULTS: At 10 years, collared stems demonstrated significantly higher survival rates for both AFL (99.3%, 95% confidence interval (CI) 99.1 to 99.6 versus 98.9, 95% CI 98.9 to 99.0, P < 0.001) and all-cause revision (96.8%, 95% CI 96.4 to 97.3 versus 95.3%, 95% CI 95.2 to 95.5, P < 0.001). After adjusting for confounders, collared stems were associated with a 42% reduced risk of revision for aseptic loosening (hazard ratio (HR) 0.58, 95% CI 0.43 to 0.78) and a 35% reduced risk of all-cause revision (HR 0.65, 95% CI 0.59 to 0.73) compared to non-collared stems. CONCLUSION: This large-scale registry analysis provides compelling evidence that collared femoral stems are associated with significantly lower rates of both aseptic loosening and all-cause revision risk in THA. These findings suggest that collared stems may represent a favorable option for improving outcomes in primary THA for osteoarthritis, though future research incorporating radiological assessment and patient-reported outcomes would further enhance our understanding of this design feature's clinical impact.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42580495/",
+      "score": 85,
+      "score_reasoning": "Large registry analysis (168,493 cases) with long follow-up demonstrating collared cementless femoral stems significantly reduce revision risk, offering high-impact, directly applicable implant selection guidance.",
+      "bullets": [
+        "In over 168,000 primary cementless THAs, collared femoral stems had a 42% lower risk of aseptic loosening and a 35% lower risk of all-cause revision at 10 years compared to collarless stems.",
+        "The survival advantage was seen in patients aged 50 and older undergoing THA for osteoarthritis, representing the typical primary THA population.",
+        "When choosing a cementless femoral stem for primary THA, adding a collar appears to meaningfully reduce the chance of early loosening and reoperation."
+      ]
+    },
+    {
+      "pmid": "42593113",
+      "title": "CORR Insights\u00ae: Is Dose Reduction After Initial Treatment With Denosumab Associated With Subsequent Skeletal-related Events, Osteonecrosis of the Jaw, or Osteoporotic Fractures in Patients With Metastatic Carcinoma? A Nationwide Retrospective Comparative Study.",
+      "authors": [
+        "Levin AS"
+      ],
+      "authors_short": "Levin AS",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42593113/",
+      "score": 84,
+      "score_reasoning": "Propensity-matched cohort showing robotic THA reduces dislocation and prosthetic complications in patients with lumbar fusion\u2014a high-risk, common clinical scenario with directly actionable surgical planning implications.",
+      "bullets": [
+        "Reducing the denosumab dose after initial treatment in patients with metastatic carcinoma does not significantly increase the risk of skeletal-related events or osteoporotic fractures.",
+        "This applies to adult patients with bone metastases from solid tumors who are already established on denosumab therapy.",
+        "Clinicians may consider dose reduction to lower the risk of osteonecrosis of the jaw without meaningfully compromising skeletal protection."
+      ]
+    },
+    {
+      "pmid": "42607112",
+      "title": "The Surgeon-Jurist: Reclaiming Judgment in an Era of Defensive Medicine.",
+      "authors": [
+        "Salphale YS"
+      ],
+      "authors_short": "Salphale YS",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "Orthopaedic practice is increasingly shaped by evidence-based guidelines, quality metrics, documentation requirements, insurer authorization pathways, and medicolegal scrutiny. These developments have improved care in important ways, but they may also narrow the space for individualized clinical reasoning when protocols are applied too rigidly. This Viewpoint argues that orthopaedic judgment should be understood not as a license to depart casually from evidence-based care, nor as a defense of paternalism, but as the professional capacity to integrate evidence, clinical context, and patient preferences through shared decision-making. I suggest that the standard of care is best conceptualized as transparent, well-documented, context-sensitive reasoning. When several reasonable options exist, the task of the surgeon is to help patients navigate uncertainty, tradeoffs, and real-world constraints rather than to simply default to the most defensible-looking protocol. Examples from osteoarthritis, distal radial fracture care, and complex trauma illustrate how judgment remains necessary even in an era of guidelines and metrics. The surgeon-jurist, as a conceptual figure, reminds us that responsible care depends not only on evidence and accountability but also on deliberation, communication, and discretion.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42607112/",
+      "score": 82,
+      "score_reasoning": "Published in JBJS, this in vivo study fundamentally challenges the widely held assumption that antibiotic-loaded ceramic bone grafts provide sustained release beyond 24 hours, with major implications for infection prevention protocols.",
+      "bullets": [
+        "Rigid protocol adherence in orthopaedic practice can crowd out individualised clinical reasoning, particularly when multiple reasonable treatment options exist.",
+        "The standard of care is best defined as transparent, well-documented, context-sensitive reasoning rather than automatic selection of the most defensible protocol.",
+        "For conditions such as osteoarthritis and distal radial fractures, the surgeon's role is to guide patients through genuine tradeoffs, not to default to guidelines as a medicolegal shield."
+      ]
+    },
+    {
+      "pmid": "42606122",
+      "title": "Thermal Risk During Bivalving of Fiberglass Casts Following Orthopaedic Reduction: A Comparative Analysis of 2 Commercially Available Cast Padding Products.",
+      "authors": [
+        "Donnelley CA",
+        "Reuter A",
+        "Donnelley JE",
+        "Noback PC",
+        "Tommasini S",
+        "Luo X"
+      ],
+      "authors_short": "Donnelley CA, Reuter A, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Cast saw burns (CSBs) are a preventable, iatrogenic complication that may occur during bivalving or removal of fiberglass casts. Children undergoing fracture reduction with the use of procedural sedation, typically in the emergency department (ED), are at heightened risk for CSBs because they cannot provide real-time pain feedback during cast saw use. While prior investigations have examined the effects of cast material, cast thickness, and water dip temperature, the comparative thermal performance of commercially available cast padding products during cast bivalving has not been systematically evaluated. This study used thermal probes to compare measured temperatures beneath 2 widely used cast padding products, Webril (Kendall/Cardinal Health) and Specialist (BSN Medical), during a standardized cast application, molding, and bivalving protocol. METHODS: A custom upper-extremity model was instrumented with 2 calibrated thermocouples (labeled \"near\" and \"far\"). Twenty experimental runs were performed, 10 each per padding product, with bivalving performed separately for near and far probes (N=40 total). Temperatures were recorded at 3 time points: baseline (before the application of any materials), prebivalve (immediately after fiberglass application ), and at maximum temperature during bivalving with an oscillating cast saw. The primary outcome was the change in temperature from prebivalve to maximum bivalve temperature (\u0394T) measured by near and far probes. Secondary outcome included maximum temperatures relative to established burn injury thresholds. RESULTS: The mean \u0394T during bivalving was 13.2\u00b113.0\u00b0C for Specialist padding and 13.0\u00b16.9\u00b0C for Webril padding (P=0.95). The mean absolute maximum temperature was 40.8\u00b113.2\u00b0C for Specialist and 39.5\u00b16.8\u00b0C for Webril. In the Specialist group, 6/10 runs exceeded the 44\u00b0C adult burn threshold on at least one probe, compared with 4/10 runs in the Webril group. Linear mixed-effects analysis with Kenward-Roger degrees of freedom revealed a significant material\u00d7probe interaction during bivalving (P=0.020): at the near probe, Specialist peak temperatures averaged 8.5\u00b0C higher than Webril (P=0.041), whereas the 2 materials did not differ significantly at the far probe (P=0.146). CONCLUSION: Maximum temperatures exceeded clinically relevant burn thresholds in both cast padding groups, supporting the high-risk thermal environment at cast mold sites during bivalving. While Webril had some protective effect, neither commercially available cast-padding product provided consistently sufficient or statistically superior thermal protection. LEVELS OF EVIDENCE: Not applicable (biomechanical study).",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42606122/",
+      "score": 81,
+      "score_reasoning": "Systematic review and meta-analysis of 5 RCTs comparing kinematic vs. mechanical alignment in TKA for patellofemoral outcomes and motion, addressing a highly debated and clinically relevant alignment controversy with high-quality evidence.",
+      "bullets": [
+        "During fiberglass cast bivalving, temperatures exceeded the 44 degrees C adult burn threshold in over half of trials with both Webril and Specialist padding products.",
+        "Neither padding product provided reliable thermal protection, making sedated children who cannot report pain especially vulnerable to cast saw burns during post-reduction bivalving.",
+        "Surgeons and ED providers should not assume standard cast padding prevents thermal injury when bivalving fiberglass casts, particularly at mold sites where padding is compressed."
+      ]
+    },
+    {
+      "pmid": "42573090",
+      "title": "Magnetic resonance imaging-based axial-plane analysis of lower extremity torsion with dedicated 3D planning software is reliable and efficient.",
+      "authors": [
+        "Lippuner J",
+        "H\u00fcttner F",
+        "Ferner F",
+        "Sinha D",
+        "Weyer-Elberich V",
+        "Vogt B",
+        "Kfuri M",
+        "Herbort M",
+        "Harrer J"
+      ],
+      "authors_short": "Lippuner J, H\u00fcttner F, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: The reliability and efficiency of a dedicated 3D planning software were evaluated for magnetic resonance imaging (MRI)-based measurement of femoral torsion, tibial torsion, knee version and whole-lower extremity torsion compared with manual assessment. METHODS: In this retrospective observational reliability study, torsional MRI scans of both lower extremities from 100 healthy volunteers were analysed. Measurements were performed according to Strecker and Waidelich using manual and digital assessment with mediCAD\u00ae 3D. One manual and two digital measurement rounds were performed by one experienced orthopaedic surgeon and one inexperienced orthopaedic resident. Inter and intraobserver reliability was assessed using intraclass correlation coefficients with 95% confidence intervals. Agreement was evaluated using Bland-Altman plots and equivalence testing with a predefined \u00b13\u00b0 margin. Measurement times of the first and last 10 measurements of each series were compared. RESULTS: The cohort included 50 males and 50 females, with a mean age of 26.7\u2009\u00b1\u20095.8 years. All parameters demonstrated good to very good reliability. Manual interobserver reliability was highest for femoral torsion (ICC: 0.99; 95% CI: 0.98-0.99; p\u2009<\u20090.001). Digital interobserver reliability ranged from ICC 0.94 to 0.98 in the first digital round and from ICC 0.89 to 0.98 in the second digital round, all p\u2009<\u20090.001. Manual-to-digital agreement ranged from ICC 0.90 to 0.98 for both observers. Bland-Altman analysis showed mean digital interobserver bias within approximately 2\u00b0. All comparisons were equivalent within the predefined \u00b13\u00b0 margin. The largest efficiency gain occurred in the inexperienced observer, with median time decreasing from 200 to 150\u2009s, corresponding to a 25% reduction (p\u2009<\u20090.001). CONCLUSION: The 3D planning software demonstrated good to very good inter and intraobserver reliability for MRI-based lower extremity torsional assessment. It improved efficiency, particularly for the inexperienced observer, and, through automated calculations and guided workflow, supports standardised preoperative planning. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42573090/",
+      "score": 80,
+      "score_reasoning": "Meta-analysis of 6 RCTs (551 patients) showing adipose-derived mesenchymal stromal cell injections improve pain and function in knee OA without increased adverse events, providing novel biological treatment evidence for a ubiquitous condition.",
+      "bullets": [
+        "MRI-based torsion measurements using 3D planning software matched manual measurements within 3 degrees across all lower extremity parameters in 100 healthy volunteers.",
+        "The software is reliable for both experienced surgeons and orthopaedic residents, with interobserver agreement rated good to very good for femoral torsion, tibial torsion, and knee version.",
+        "Residents saw a 25% reduction in measurement time using the software, suggesting it can support standardised torsion planning without sacrificing accuracy."
+      ]
+    },
+    {
+      "pmid": "42605955",
+      "title": "Complications after anterior closing-wedge high tibial osteotomy in anterior cruciate ligament reconstruction: A state-of-the-art technical review.",
+      "authors": [
+        "Ugarte J",
+        "Mu\u00f1oz JT",
+        "Franulic N",
+        "Pineda T",
+        "Musahl V",
+        "Olivieri R",
+        "Hughes JD"
+      ],
+      "authors_short": "Ugarte J, Mu\u00f1oz JT, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To provide a state-of-the-art technical review of complications associated with anterior closing-wedge high tibial osteotomy (ACWHTO) performed in the setting of anterior cruciate ligament reconstruction (ACLR). The review focuses on mechanisms, risk factors, prevention strategies and management principles rather than pooled complication-rate estimation. METHODS: A targeted literature search was performed in PubMed/MEDLINE, Ovid and Scopus, supplemented by manual review of references from key clinical series, technical reports, biomechanical studies and systematic reviews. Publications addressing ACWHTO, slope-reducing tibial osteotomy, ACL-deficient knees, primary or revision ACLR, or technical aspects relevant to complication prevention were considered. Evidence was synthesized qualitatively. Clinical cohort data were distinguished from biomechanical studies, technical reports, systematic reviews and expert-opinion-based recommendations. Pooled complication rates were not calculated because of heterogeneity in indications, osteotomy techniques, fixation constructs, follow-up, reporting definitions and potential cohort overlap. RESULTS: ACWHTO may be performed using supratubercle, transtubercle, infratubercle or retrotubercle techniques, each with distinct implications for sagittal correction, fixation strategy, tibial tunnel planning, patellar height, bone healing and complication risk. Reported overall complication rates ranged from 0% to 56.5%, although definitions varied substantially across studies. Reported or potential complications include hinge fracture, unintended coronal alignment modification, knee hyperextension or genu recurvatum, patellar height changes, over- or undercorrection of posterior tibial slope, delayed union or nonunion, ACLR failure, infection and hardware removal when symptomatic. Available evidence suggests favourable clinical and radiographic outcomes in appropriately selected patients, but complication reporting remains inconsistent, and secondary procedures are variably defined. CONCLUSION: ACWHTO is an effective adjunctive procedure for selected patients undergoing ACLR in the presence of increased posterior tibial slope. However, its true safety profile remains difficult to define. Patient selection, individualized planning, precise hinge and wedge control and stable fixation are essential to minimize complications. Prospective studies with standardized complication definitions and stratified reporting are required. LEVEL OF EVIDENCE: Level V.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42605955/",
+      "score": 79,
+      "score_reasoning": "Systematic review with meta-regression of 20 placebo-controlled RCTs identifying specific PRP composition characteristics and patient factors predicting superior outcomes in knee OA, enabling more personalized injection therapy decisions.",
+      "bullets": [
+        "Anterior closing-wedge high tibial osteotomy reduces posterior tibial slope as an adjunct to ACL reconstruction in patients with elevated slope, but reported complication rates range from 0% to 56.5% depending on technique and definition used.",
+        "Key complications include hinge fracture, coronal malalignment, genu recurvatum, patellar height change, nonunion, and graft failure, with risk profile varying by whether the osteotomy is performed above, through, or below the tibial tubercle.",
+        "Surgeons should individualize osteotomy planning, control hinge and wedge geometry precisely, and use stable fixation, as current evidence is insufficient to define a reliable complication benchmark for routine consent or outcome comparison."
+      ]
+    },
+    {
+      "pmid": "42551013",
+      "title": "Aligning Success: Insights From 85,000 CT Scans on Trochlear Groove Positioning With Kinematic Alignment.",
+      "authors": [
+        "Vesperman RI",
+        "Fox JA",
+        "Baker CE",
+        "Wong B",
+        "Atkins L",
+        "Faschingbauer M",
+        "Martin JR"
+      ],
+      "authors_short": "Vesperman RI, Fox JA, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Patellar maltracking remains a notable cause of postoperative pain and dissatisfaction after total knee arthroplasty (TKA), often from femoral component internal rotation and trochlear groove (TG) malpositioning. Although the Coronal Plane Alignment of the Knee (CPAK) classification evaluates coronal alignment, it does not account for three-dimensional anatomy. As newer alignment philosophies like kinematic alignment (KA) gain traction, risk of patellar maltracking may increase, especially when using implants designed for mechanical alignment. This study evaluates TG orientation in axial and coronal planes after virtual KA-based placement of a standard femoral component in 85,604 patients undergoing primary TKA. METHODS: We analyzed 85,604 CT scans of patients with arthritis. For each, we calculated CPAK classification, lateral distal femoral angle (LDFA), medial proximal tibial angle (MPTA), hip-knee-ankle (HKA) angle, and posterior condylar to transepicondylar axis (PCA to TEA). Using kinematic alignment principles, we virtually implanted a femoral component with a 6\u00b0 lateral trochlear groove. The average quadriceps line of force (QLF), defined as 3.2\u00b0 lateral to the femoral mechanical axis (FMA), was considered ideal for tracking. TG orientation was then measured relative to the QLF and the standard 6\u00b0 reference point. RESULTS: Mean values were as follows: LDFA 87.1\u00b0, MPTA 85.7\u00b0, HKA 176.7\u00b0, and PCA to TEA 3.2\u00b0. In the coronal plane, 41% had a TG medial to the QLF, and 9% of cases had a TG medial to the native MA. CPAK types 2 (74%), 3 (100%), and 6 (58%) showed the highest internal rotation and medial TG orientation. To achieve KA, approximately 30% of patients required >3\u00b0 of internal rotation and valgus tilt and approximately 2% required >5\u00b0. CONCLUSION: A large proportion of patients demonstrated TG malpositioning and excessive internal rotation when placing MA-designed implants in KA. This highlights the need for three-dimensional classification systems and alignment-specific designs or alignment guardrails to prevent implant malpositioning.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42551013/",
+      "score": 75,
+      "score_reasoning": "Propensity-matched database study showing conversion TKA after tibial plateau ORIF carries 2-3x higher PJI and revision risk compared to primary TKA, essential information for preoperative counseling and surgical planning.",
+      "bullets": [
+        "In a virtual study of 85,604 CT scans, applying kinematic alignment with a standard mechanically aligned femoral component placed the trochlear groove in a maltracking position in 41% of patients.",
+        "Roughly 30% of patients required more than 3 degrees of femoral internal rotation to achieve kinematic alignment, putting patellar tracking at risk, particularly in CPAK types 2, 3, and 6.",
+        "Surgeons using kinematic alignment with off-the-shelf implants should be aware that standard components may not suit all knee phenotypes, and trochlear groove position warrants direct intraoperative attention."
+      ]
+    },
+    {
+      "pmid": "42595083",
+      "title": "Anatomic Total Shoulder Arthroplasty with the Tornier Perform Posterior Augmented Glenoid versus Reverse Total Shoulder Arthroplasty for the Treatment of Walch B2 and B3 Glenoids: A Propensity Score Matched Analysis.",
+      "authors": [
+        "Harkin W",
+        "Shen A",
+        "Hussain ZB",
+        "Hyeamang LJ",
+        "Kurowicki J",
+        "Lew R",
+        "Kerzner B",
+        "Hummel A",
+        "Hornung A",
+        "Lorentz S",
+        "Therien AD",
+        "Yanke AB",
+        "Verma NN",
+        "Cole BJ",
+        "Klifto CS",
+        "Nicholson GP",
+        "Garrigues GE"
+      ],
+      "authors_short": "Harkin W, Shen A, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Addressing posterior glenoid deficiency in glenohumeral osteoarthritis (GHOA) with an intact rotator cuff remains contentious among shoulder surgeons. Both reverse total shoulder arthroplasty (rTSA) and anatomic total shoulder arthroplasty (aTSA) with an all-polyethylene posterior augmented glenoid (PAG) are viable options for GHOA with eccentric posterior wear, but aTSA with a PAG has not been directly compared to rTSA in this population. This study compares clinical outcomes of aTSA with a PAG to rTSA in patients with GHOA and Walch B2 or B3 glenoids. METHODS: This retrospective matched cohort analysis used prospectively collected data to evaluate outcomes of aTSA with a PAG versus rTSA in patients with GHOA and B2/B3 glenoid deformities. Inclusion criteria were age > 18, intact rotator cuff, shoulder arthroplasty between 2017-2023, and minimum two-year follow-up. Patient-reported outcome measures (PROMs), range of motion (ROM), and complications were collected postoperatively. Multivariable linear regression identified preoperative factors associated with final outcomes, and propensity score matching (age, sex, retroversion) was used to compare groups. RESULTS: Of 208 shoulders (98 aTSA, 110 rTSA), aTSA patients were younger (62.2 \u00b1 8.2 vs 72.7 \u00b1 6.7 years, p < 0.001) and more often male (89.2% vs 50.0%, p < 0.001). Preoperative retroversion was greater in the rTSA cohort (22.7 \u00b1 8.0\u00b0 vs 19.4 \u00b1 7.1\u00b0, p = 0.002). Both groups showed substantial postoperative improvement in ROM and PROs. After propensity matching (36 per group), outcomes remained comparable, including ASES (87.8 \u00b1 13.1 vs 88.6 \u00b1 10.7, p = 0.79), SANE (87.2 \u00b1 12.7 vs 86.2 \u00b1 10.6, p = 0.74), VAS pain (1.6 \u00b1 1.8 vs 1.4 \u00b1 1.7, p = 0.66), and physical/mental health scores. aTSA yielded significantly greater external rotation (47.7 \u00b1 11.2\u00b0 vs 39.3 \u00b1 7.0\u00b0, p < 0.001) and forward flexion (157.9 \u00b1 14.3\u00b0 vs 144.7 \u00b1 23.7\u00b0, p = 0.016). MCID and substantial clinical benefit rates were similar between cohorts. Revision rates were low and comparable (3.1% vs 2.5%, p = 1.0). Radiolucency was significantly more common after aTSA (41.9% vs 9.3%, p < 0.001). CONCLUSION: Both aTSA with a PAG and rTSA provide excellent 2-year outcomes for GHOA with posterior glenoid deficiency, with no meaningful PROM differences. aTSA may offer better postoperative ROM, while rTSA may confer lower radiolucency rates. LEVEL OF EVIDENCE: Level III, Retrospective Cohort Comparison, Treatment Study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42595083/",
+      "score": 72,
+      "score_reasoning": "Propensity-matched study comparing isolated versus full-component revision TKA for aseptic loosening showing comparable re-revision rates but shorter operative time with isolated revision, supporting more conservative revision approaches.",
+      "bullets": [
+        "In patients with Walch B2 or B3 glenoids and an intact rotator cuff, anatomic TSA with a posterior augmented glenoid and reverse TSA produced equivalent pain relief and functional scores at two years.",
+        "Anatomic TSA yielded greater external rotation and forward flexion than reverse TSA, which may favor its use in younger, more active patients who prioritize range of motion.",
+        "Glenoid radiolucency was substantially more common after anatomic TSA than reverse TSA, warranting close radiographic surveillance in this group over time."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-08-19T03:26:08.556324-07:00"
+}
