@@ -1,0 +1,316 @@
+{
+  "brief_date": "2026-08-20",
+  "brief_date_display": "Thursday, August 20",
+  "candidates": [
+    {
+      "pmid": "42617925",
+      "title": "Increased Risk of Periprosthetic Femoral Fracture with Cementless Collared Metadiaphyseal-Filling Stems Compared to Cemented Fixation for Femoral Neck Fractures in Patients Aged 65 Years or Older: An American Joint Replacement Registry Analysis.",
+      "authors": [
+        "Deckey DG",
+        "Kelly M",
+        "Zaniletti I",
+        "Hegde V",
+        "Springer BD",
+        "Kagan RP",
+        "Bingham JS"
+      ],
+      "authors_short": "Deckey DG, Kelly M, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Cemented femoral fixation is recommended when treating a femoral neck fracture with arthroplasty. Prior studies have shown collared, metadiaphyseal-filling (CMDF) cementless stems to have an equivalent periprosthetic fracture risk compared to cemented stems in primary total hip arthroplasty (THA). This study assessed the associated risk of periprosthetic femoral fracture (PPFx) after hemiarthroplasty or THA for femoral neck fracture comparing CMDF stems to cemented stems utilizing the American Joint Replacement Registry (AJRR). METHODS: All femoral neck fractures in patients aged \u2265 65 years treated with arthroplasty in the AJRR were linked to Centers for Medicare and Medicaid Services data from 2012 to 2022. Patients were included if they received a cementless CMDF stem or a cemented stem. Patient demographics, revision or open reduction and internal fixation (ORIF) for PPFx, and revision for aseptic loosening or dislocation were recorded. Cause-specific Cox proportional hazard models, were used to evaluate the association of stem design with all-cause revision, revision or ORIF due to PPFx, and revision for aseptic loosening or dislocation while adjusting for potential confounders. RESULTS: Compared to cemented stems, cementless CMDF stems were associated with a higher hazard of revision for PPFx (aHR [adjusted hazard ratio] 1.7, 95% CI [confidence interval] 1.1 to 2.7, P = 0.02). Analysis of secondary outcomes indicated that the two groups significantly differed in terms of revision for aseptic loosening, with cementless CMDF stems indicating a much lower event rate than cemented stems (aHR 0.5, 95% CI 0.2 to 0.9, P = 0.04). There were no significant differences found on adjusted analyses of other secondary outcomes. CONCLUSIONS: Cementless CMDF stems were associated with an increased risk of revision for PPFx in the treatment of femoral neck fractures when compared to cemented stems. While this finding supports the use of cemented stems for the treatment of femoral neck fractures, it should be assessed against an increased risk of aseptic loosening when compared to cementless CMDF stems.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42617925/",
+      "score": 82,
+      "score_reasoning": "Large registry study (AJRR linked to CMS) with strong methodology comparing cementless CMDF vs cemented stems for femoral neck fracture arthroplasty, directly challenging current practice with clinically significant finding of 1.7x higher PPFx risk in an extremely common operation.",
+      "bullets": [
+        "In patients 65 and older treated with arthroplasty for femoral neck fracture, cementless collared metadiaphyseal-filling stems carried a 70% higher risk of periprosthetic fracture requiring revision compared to cemented stems.",
+        "Cemented stems had a higher rate of revision for aseptic loosening, but periprosthetic fracture remains the more consequential early complication in this fragile population.",
+        "For femoral neck fracture arthroplasty in older patients, cemented fixation remains the safer choice for reducing periprosthetic fracture risk, consistent with current orthopaedic guidelines."
+      ]
+    },
+    {
+      "pmid": "42580495",
+      "title": "Collared Stems Are Associated With Reduced Early Aseptic Loosening and All-Cause Revision Rate.",
+      "authors": [
+        "Oettl FC",
+        "Dimitriou D",
+        "Zingg PO",
+        "Hoch A"
+      ],
+      "authors_short": "Oettl FC, Dimitriou D, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: The influence of collar design on femoral stem survival in total hip arthroplasty (THA) remains debated despite its potential biomechanical advantages. This registry analysis investigated whether collared stems demonstrate superior survival compared to non-collared designs in primary THA. METHODS: A retrospective cohort study using national database data from 2012 to 2024 was conducted. A total of 168,493 primary THAs performed for osteoarthritis in patients aged \u2265 50 years, were analyzed, comprising 143,427 (85.1%) non-collared and 25,066 (14.9%) collared cementless femoral stems. The primary outcome was revision for aseptic femoral loosening (AFL), with all-cause revision as a secondary outcome. Kaplan-Meier survival analysis and multivariable Cox proportional hazards models were used to assess outcomes up to a 10-year follow-up period, adjusting for age, body mass index, sex, American Society of Anesthesiologists score, and surgical approach. RESULTS: At 10 years, collared stems demonstrated significantly higher survival rates for both AFL (99.3%, 95% confidence interval (CI) 99.1 to 99.6 versus 98.9, 95% CI 98.9 to 99.0, P < 0.001) and all-cause revision (96.8%, 95% CI 96.4 to 97.3 versus 95.3%, 95% CI 95.2 to 95.5, P < 0.001). After adjusting for confounders, collared stems were associated with a 42% reduced risk of revision for aseptic loosening (hazard ratio (HR) 0.58, 95% CI 0.43 to 0.78) and a 35% reduced risk of all-cause revision (HR 0.65, 95% CI 0.59 to 0.73) compared to non-collared stems. CONCLUSION: This large-scale registry analysis provides compelling evidence that collared femoral stems are associated with significantly lower rates of both aseptic loosening and all-cause revision risk in THA. These findings suggest that collared stems may represent a favorable option for improving outcomes in primary THA for osteoarthritis, though future research incorporating radiological assessment and patient-reported outcomes would further enhance our understanding of this design feature's clinical impact.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42580495/",
+      "score": 80,
+      "score_reasoning": "Large registry analysis (168,493 THAs) published findings that collared stems reduce aseptic loosening risk by 42% and all-cause revision by 35%, directly actionable for implant selection in primary THA with strong statistical power.",
+      "bullets": [
+        "In over 168,000 primary total hip arthroplasties, collared cementless femoral stems had lower 10-year revision rates for aseptic loosening compared to non-collared stems.",
+        "Collared stems were associated with a 42% lower risk of aseptic loosening revision and a 35% lower risk of all-cause revision after adjusting for patient factors.",
+        "For patients 50 and older undergoing primary THA for osteoarthritis, choosing a collared stem design may reduce the chance of early femoral loosening requiring revision."
+      ]
+    },
+    {
+      "pmid": "42606828",
+      "title": "Comparison of Patellofemoral and Motion Outcomes Between Unrestricted Kinematic and Mechanical Alignment in Primary Total Knee Arthroplasty: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Siddiqi A",
+        "Yousuf KM",
+        "Boyle K",
+        "Chen AF",
+        "Jacob PB"
+      ],
+      "authors_short": "Siddiqi A, Yousuf KM, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Unrestricted kinematic alignment (KA) in total knee arthroplasty (TKA) seeks to restore patient-specific limb geometry and ligamentous balance, yet uncertainty persists regarding patellofemoral (PF) complications and postoperative interventions. Comparative evidence centered on objective mechanical outcomes remains limited, and prior meta-analyses have included heterogeneous alignment strategies or mixed implant constructs. The purpose of this study was to compare unrestricted KA with mechanical alignment (MA) in primary TKA with respect to PF safety, postoperative motion, and intraoperative soft-tissue release requirements. METHODS: A systematic review and meta-analysis was conducted in accordance with PRISMA guidelines. Randomized and comparative observational studies directly comparing unrestricted KA with MA in primary TKA were eligible without language or date restrictions. Studies were required to report at least 1 predefined objective outcome: postoperative flexion, terminal extension, manipulation under anesthesia (MUA), PF complications, intraoperative soft-tissue releases, or all-cause revision surgery. Data were extracted in duplicate, and random-effects models were used for pooled analyses. Risk of bias was assessed using ROB2 for randomized trials and ROBINS-I for observational studies, and certainty of evidence was graded using GRADE methodology. RESULTS: Seven studies (five randomized trials and two comparative cohorts) comprising 1,068 primary TKAs met inclusion criteria. Compared with MA, KA resulted in greater postoperative flexion (mean difference [MD], 4.58\u00b0; 95% confidence intervals (CI), 1.83\u00b0 to 7.32\u00b0; moderate certainty) and slightly improved terminal extension (MD, -0.99\u00b0; 95% CI, -1.86\u00b0 to -0.12\u00b0; moderate certainty). KA required substantially fewer intraoperative soft-tissue releases (risk ratio [RR], 0.34; 95% CI, 0.24 to 0.49; moderate certainty). No significant differences were observed for PF complications (RR, 1.90; 95% CI, 0.63 to 5.74; low certainty), MUA (RR, 0.47; 95% CI, 0.09 to 2.44; low certainty), or all-cause revision surgery (RR, 1.96; 95% CI, 0.75 to 5.14; low certainty). Sensitivity analyses demonstrated stable effect direction across fixed-effects and random-effects models. DISCUSSION: Unrestricted KA TKA improves postoperative flexion, slightly enhances extension, and markedly reduces soft-tissue releases without increasing early PF complications, MUA, or revision surgery compared with MA TKA. Longer term randomized studies are needed to refine PF-specific risk estimates and assess survivorship. LEVEL OF EVIDENCE: II.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42606828/",
+      "score": 77,
+      "score_reasoning": "Systematic review and meta-analysis of 7 studies including 5 RCTs comparing unrestricted kinematic vs mechanical alignment in TKA, addressing a highly debated topic with GRADE methodology and objective patellofemoral and motion outcomes.",
+      "bullets": [
+        "Kinematic alignment in primary total knee arthroplasty yields about 4.6 degrees more postoperative flexion and slightly better terminal extension compared to mechanical alignment.",
+        "Surgeons performing kinematic alignment released soft tissue intraoperatively at roughly one-third the rate of mechanical alignment cases, with no difference in patellofemoral complications, manipulation under anesthesia, or revision rates.",
+        "For orthopaedic surgeons choosing between alignment philosophies in primary total knee arthroplasty, kinematic alignment appears safe in the short term and reduces intraoperative soft-tissue balancing demands, though long-term patellofemoral and survivorship data are still needed."
+      ]
+    },
+    {
+      "pmid": "42619022",
+      "title": "Increased Posterior Tibial Slope and Lateral Extra-articular Tenodesis Are Independently Associated With Revision ACLR in a Young High-Risk Population.",
+      "authors": [
+        "van der Wal WA",
+        "de Groot TM",
+        "Tamana L",
+        "Tsoulgkounidis N",
+        "Veraart JT",
+        "Hoogeslag RAG",
+        "van der Hoeven H",
+        "Engelsma Y",
+        "Custers RJH",
+        "Saris DBF"
+      ],
+      "authors_short": "van der Wal WA, de Groot TM, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Increased posterior tibial slope (PTS) has been associated with higher revision rates after anterior cruciate ligament reconstruction (ACLR). Whether the addition of lateral extra-articular tenodesis (LET) mitigates the risk associated with increased PTS is unclear. PURPOSE: To determine the prevalence of increased PTS (\u226512\u00b0) in a young high-risk primary ACLR population and evaluate whether LET is associated with lower revision rates in patients with increased PTS. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: This study included patients aged \u226425 years undergoing primary ACLR across 3 high-volume centers with \u22652 years between surgery and data collection. PTS was measured on lateral radiographs for medial and lateral plateaus. Primary analyses consisted of 4 prespecified multivariable logistic regression models with different PTS operationalizations as continuous predictors per 1\u00b0 increase (medial PTS, lateral PTS, the maximum [PTSmax], and the lateral-medial difference), adjusted for patient and surgical covariates including graft type, with surgical center as a fixed effect. Secondary analyses used PTS dichotomized at 12\u00b0; revision rates were compared between isolated ACLR and ACLR with LET, with the treatment effect quantified as absolute risk reduction and number needed to treat. RESULTS: A total of 780 patients were included; 84 (10.8%) underwent revision ACLR. Increased PTS (\u226512\u00b0) was present in 28.2% of patients and more common in those requiring revision (38.6% vs 27.0%; P = .03). In patients with PTSmax \u226512\u00b0, revision occurred in 21.0% without LET and 9.2% with LET (absolute risk reduction, 11.8% [95% CI, 2.3%-21.3%]; number needed to treat, 9); in patients with PTSmax <12\u00b0, revision occurred in 13.2% without LET and 5.4% with LET (absolute risk reduction, 7.8% [95% CI, 3.0%-12.6%]; number needed to treat, 13). In the 4 prespecified multivariable models with PTS as a continuous predictor, LET was independently associated with substantially lower odds of revision ACLR (odds ratio [OR], 0.37; 95% CI, 0.22-0.62; P < .001). Lateral PTS (OR, 1.09 per 1\u00b0 increase; 95% CI, 1.00-1.18; P = .04) and PTSmax (OR, 1.09; 95% CI, 1.00-1.19; P = .04) were independently associated with revision ACLR. The lateral-medial PTS difference was not associated with revision ACLR. CONCLUSION: In a young high-risk primary ACLR population, increased PTS was present in nearly 30% of patients. LET was associated with a lower risk of revision irrespective of PTS, while increased PTS was independently associated with revision ACLR.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42619022/",
+      "score": 76,
+      "score_reasoning": "Well-powered multicenter cohort (780 young ACLR patients) demonstrating independent associations of posterior tibial slope and LET with revision rates, with direct surgical decision-making implications regarding slope-reducing osteotomy and LET indications.",
+      "bullets": [
+        "In young patients under 25 undergoing ACL reconstruction, nearly 30% had a posterior tibial slope of 12 degrees or more, and those patients had higher revision rates than patients with lower slope.",
+        "Adding a lateral extra-articular tenodesis reduced revision rates in patients with high tibial slope from 21% to 9%, with a number needed to treat of 9.",
+        "Both increased posterior tibial slope and the absence of lateral tenodesis were independently linked to revision, meaning slope measurement before ACL reconstruction should inform the decision to add a tenodesis."
+      ]
+    },
+    {
+      "pmid": "42607115",
+      "title": "Antibiotic-Loaded Ceramic Bone Grafts Exhibit Burst, Not Sustained, Gentamicin Release: In Vivo Evidence and Reanalysis of in Vitro Assay Artifacts Informing Clinical Use.",
+      "authors": [
+        "Berthelsen CJ",
+        "Crocoll C",
+        "Poborsky M",
+        "Jensen LK",
+        "Henriksen JR",
+        "Hansen AE",
+        "Bue M"
+      ],
+      "authors_short": "Berthelsen CJ, Crocoll C, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Antibiotic-loaded ceramic bone grafts (ACBGs) are widely assumed to provide extended local antimicrobial protection, maintaining concentrations above the minimum inhibitory concentration (MIC) for 28 to 42 days. However, this time frame is mainly based on in vitro elution assays with simplified washout models, and its relevance to in vivo performance is uncertain. This study compared the in vivo and in vitro release and behavior of gentamicin from 2 commercial ACBGs. METHODS: Gentamicin-loaded hydroxyapatite/calcium sulfate (HA-CS) and calcium sulfate (CS) composites were investigated using a murine implantation model and in vitro elution assays. Gentamicin content in recovered depot material and elution media was quantified by liquid chromatography with tandem mass spectrometry. Model calculations evaluated how the assay design affects the estimated time above the MIC. RESULTS: Both ACBGs released >98% of gentamicin within 6 hours and >99% within 24 hours in vivo. In vitro assays likewise indicated early depot depletion, with concentration-time profiles beyond 48 hours driven by serial dilution rather than release. Model calculations suggested that the apparent prolonged antibiotic activity in previous in vitro assays was largely due to the assay design, not to sustained release, implying that freely administered antibiotics could produce similar profiles. CONCLUSIONS: Neither ACBG demonstrated measurable sustained release beyond an initial 24-hour burst phase. This may have important clinical implications, as expectations of prolonged local antimicrobial protection are not supported by the cumulative-release data showing rapid antibiotic depot depletion.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42607115/",
+      "score": 75,
+      "score_reasoning": "High-impact JBJS study with strong in vivo murine evidence demonstrating that antibiotic-loaded ceramic bone grafts release >98% of gentamicin within 6 hours rather than the assumed 28-42 days, fundamentally challenging a widely held clinical assumption.",
+      "bullets": [
+        "Both antibiotic-loaded ceramic bone grafts released over 99% of their gentamicin within 24 hours in vivo, not over the 28 to 42 days widely assumed.",
+        "The prolonged antibiotic activity seen in previous lab studies was an artifact of assay design, not evidence of sustained release from the graft material.",
+        "Surgeons using these grafts for infection prevention or treatment should not expect local antibiotic protection beyond the first day after implantation."
+      ]
+    },
+    {
+      "pmid": "42615423",
+      "title": "Short-to Medium-term Results of Displaced Femoral Neck Fractures in Patients Less than 50 Years of Age Undergoing Repair: Comparison of Open vs. Closed Reduction.",
+      "authors": [
+        "Collinge C",
+        "Wong H",
+        "Patterson J",
+        "Finlay A",
+        "Gardner M",
+        "Lebus GF",
+        "Morshed S",
+        "Rodriguez-Buitrago A",
+        "Beltran MJ",
+        "Mitchell P",
+        "Will J",
+        "Ketz J",
+        "Tornetta P"
+      ],
+      "authors_short": "Collinge C, Wong H, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To compare the clinical outcomes of open vs. closed reduction methods for femoral neck fractures (FNFs) in young patients treated with fracture repair. METHODS: Design: Multicenter retrospective cohort study. SETTING: Twenty-six North American Level 1 trauma centers. PATIENT SELECTION CRITERIA: Skeletally mature patients aged <50 years with displaced FNFs (OTA/AO type 31B) undergoing surgical repair and having minimum follow-up >6 months, except in cases where major complications occurred earlier. INTERVENTION: Open vs. closed fracture reduction. MAIN OUTCOME MEASUREMENTS: The primary outcome of \"major complication\" was defined as nonunion/failed fixation, osteonecrosis, malunion (vertical or femoral neck shortening of \u226515 mm) and/or subsequent major reconstructive surgery was compared by reduction method using chi-squared tests and risk-adjusted binary mixed effects regression models. RESULTS: A total of 290 patients with FNFs were included in the study, 107 treated with closed reduction (average follow-up 27.1 months [range, 4.1 to 159.5 months]) and 183 treated with open reduction and (average follow-up 22.4 months [range, 3.7 to 141.3 months], P=0.105). Sex distribution showed no difference between the groups, with 25.5% of the closed group, and 29.0% of the open cohort being female (P=0.615). Patients who received open reduction were younger than patients who received closed reductions (mean age 35.6\u00b18.8 vs. 39.5\u00b18.0 years, P<0.001) and had fewer cases of cases of diabetes mellitus (2.2% vs. 8.6%, P=0.027). Overall, adverse events were observed following 57.0% of closed reduction reductions vs. 54.1% of open reductions (P=0.890). No differences were seen in the frequency of defined failure modes, including failed fixation/nonunion (33.6% closed vs. 35.0% open, P=0.919), osteonecrosis (21.5% closed vs. 14.2% open, P=0.151), malunion (17.8% closed vs. 14.8% open, P=0.611), or major reconstructive surgery (33.6% closed vs. 36.6% open, P=0.702). CONCLUSIONS: Open and closed reductions of FNFs in patients <50 years old were associated with similar rates of repair failure. LEVEL OF EVIDENCE: Level III (Therapeutic).",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42615423/",
+      "score": 68,
+      "score_reasoning": "Multicenter retrospective cohort of 290 young patients with femoral neck fractures from 26 Level 1 centers comparing open vs closed reduction, addressing a technically controversial topic with risk-adjusted modeling showing no outcome difference in major complications.",
+      "bullets": [
+        "In patients under 50 with displaced femoral neck fractures, open and closed reduction led to similar rates of major complications, around 55% in both groups.",
+        "Failure modes including nonunion, osteonecrosis, malunion, and need for reconstructive surgery occurred at comparable rates regardless of reduction method.",
+        "For young patients with femoral neck fractures, the choice between open and closed reduction should be driven by fracture anatomy and surgeon judgment, not an expectation of better outcomes with either approach."
+      ]
+    },
+    {
+      "pmid": "42592941",
+      "title": "Vertically Unstable Pelvic Ring Injuries: Impact of Multilevel and Transsacral Fixation Strategy on Failure Rate.",
+      "authors": [
+        "Luther L",
+        "Maxson R",
+        "Moreno-Diaz AF",
+        "Chenard SW",
+        "Tatman LM",
+        "Mitchell PM"
+      ],
+      "authors_short": "Luther L, Maxson R, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To evaluate outcomes of percutaneous pelvic fixation in the treatment of displaced vertically unstable pelvic ring injuries and identify fixation constructs that predict success. METHODS: Design: Retrospective cohort study. SETTING: Level I trauma center. PATIENT SELECTION CRITERIA: Patients \u226518 years old who underwent operative management of a vertically unstable pelvic ring injury (OTA/AO 61C.1-3) displaced \u2265 10 millimeters (mm) with sacroiliac (SI) or transsacral (TS) screws over a 24-year period. Exclusion criteria were spinopelvic dissociation, pathologic fracture, treatment with spinopelvic fixation or plate fixation of the posterior pelvic ring, and less than six months follow-up. OUTCOME MEASURES AND COMPARISONS: The primary outcome was treatment failure, defined as \u226510 mm of radiographic displacement compared to initial post-operative imaging. Secondary outcomes included failure rates stratified by posterior pelvic ring injury type and rates of revision surgery. Outcomes were compared between constructs that included both Multilevel sacral fixation and Transsacral fixation (MAT) versus constructs that lacked one or both of these features; that is, constructs with either Single-level fixation or only SI screws (SS). RESULTS: The cohort meeting inclusion criteria comprised sixty-seven patients: MAT fixation N=38 (71% male; median age 37 years, IQR 33-53) and SS fixation N=29 (62% male; median age 39 years, IQR 34-47). The posterior ring injury patterns included sacral fractures ( n=36, 53.7%), sacroiliac fracture dislocations (n=17, 25.3%), and sacroiliac dislocations (n=14, 20.9%). MAT fixation had a significantly lower rate of treatment failure compared to SS fixation (2.6% vs 48.3%, P<0.001). Rates of revision surgery were also significantly lower when MAT fixation was utilized (2.6% vs 31.0%, P= 0.002). CONCLUSIONS: In this cohort of vertically unstable pelvic ring injuries, fixation at multiple sacral levels with at least one TS screw was associated with a significantly lower treatment failure rate (2.6%) compared to single-level fixation or SI screw-only fixation (48.3%). When multilevel transsacral fixation cannot be achieved due to patient anatomy or injury, adjunctive fixation strategies should be considered. LEVEL OF EVIDENCE: Therapeutic Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42592941/",
+      "score": 67,
+      "score_reasoning": "Large registry study (449 patients, French Arthroscopy Society) describing current ramp lesion repair practices during ACLR and demonstrating that Thaunat classification and meniscal mobility significantly influence surgical management, filling an important evidence gap.",
+      "bullets": [
+        "In vertically unstable pelvic ring injuries, combining multilevel sacral fixation with at least one transsacral screw reduced treatment failure from 48% to 3% compared to single-level or SI-screw-only constructs.",
+        "This applies to adult patients with displaced vertically unstable pelvic fractures or dislocations managed percutaneously, excluding spinopelvic dissociation.",
+        "When patient anatomy prevents multilevel transsacral fixation, adjunctive posterior ring fixation should be added to reduce the high risk of construct failure and revision surgery."
+      ]
+    },
+    {
+      "pmid": "42595083",
+      "title": "Anatomic Total Shoulder Arthroplasty with the Tornier Perform Posterior Augmented Glenoid versus Reverse Total Shoulder Arthroplasty for the Treatment of Walch B2 and B3 Glenoids: A Propensity Score Matched Analysis.",
+      "authors": [
+        "Harkin W",
+        "Shen A",
+        "Hussain ZB",
+        "Hyeamang LJ",
+        "Kurowicki J",
+        "Lew R",
+        "Kerzner B",
+        "Hummel A",
+        "Hornung A",
+        "Lorentz S",
+        "Therien AD",
+        "Yanke AB",
+        "Verma NN",
+        "Cole BJ",
+        "Klifto CS",
+        "Nicholson GP",
+        "Garrigues GE"
+      ],
+      "authors_short": "Harkin W, Shen A, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Addressing posterior glenoid deficiency in glenohumeral osteoarthritis (GHOA) with an intact rotator cuff remains contentious among shoulder surgeons. Both reverse total shoulder arthroplasty (rTSA) and anatomic total shoulder arthroplasty (aTSA) with an all-polyethylene posterior augmented glenoid (PAG) are viable options for GHOA with eccentric posterior wear, but aTSA with a PAG has not been directly compared to rTSA in this population. This study compares clinical outcomes of aTSA with a PAG to rTSA in patients with GHOA and Walch B2 or B3 glenoids. METHODS: This retrospective matched cohort analysis used prospectively collected data to evaluate outcomes of aTSA with a PAG versus rTSA in patients with GHOA and B2/B3 glenoid deformities. Inclusion criteria were age > 18, intact rotator cuff, shoulder arthroplasty between 2017-2023, and minimum two-year follow-up. Patient-reported outcome measures (PROMs), range of motion (ROM), and complications were collected postoperatively. Multivariable linear regression identified preoperative factors associated with final outcomes, and propensity score matching (age, sex, retroversion) was used to compare groups. RESULTS: Of 208 shoulders (98 aTSA, 110 rTSA), aTSA patients were younger (62.2 \u00b1 8.2 vs 72.7 \u00b1 6.7 years, p < 0.001) and more often male (89.2% vs 50.0%, p < 0.001). Preoperative retroversion was greater in the rTSA cohort (22.7 \u00b1 8.0\u00b0 vs 19.4 \u00b1 7.1\u00b0, p = 0.002). Both groups showed substantial postoperative improvement in ROM and PROs. After propensity matching (36 per group), outcomes remained comparable, including ASES (87.8 \u00b1 13.1 vs 88.6 \u00b1 10.7, p = 0.79), SANE (87.2 \u00b1 12.7 vs 86.2 \u00b1 10.6, p = 0.74), VAS pain (1.6 \u00b1 1.8 vs 1.4 \u00b1 1.7, p = 0.66), and physical/mental health scores. aTSA yielded significantly greater external rotation (47.7 \u00b1 11.2\u00b0 vs 39.3 \u00b1 7.0\u00b0, p < 0.001) and forward flexion (157.9 \u00b1 14.3\u00b0 vs 144.7 \u00b1 23.7\u00b0, p = 0.016). MCID and substantial clinical benefit rates were similar between cohorts. Revision rates were low and comparable (3.1% vs 2.5%, p = 1.0). Radiolucency was significantly more common after aTSA (41.9% vs 9.3%, p < 0.001). CONCLUSION: Both aTSA with a PAG and rTSA provide excellent 2-year outcomes for GHOA with posterior glenoid deficiency, with no meaningful PROM differences. aTSA may offer better postoperative ROM, while rTSA may confer lower radiolucency rates. LEVEL OF EVIDENCE: Level III, Retrospective Cohort Comparison, Treatment Study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42595083/",
+      "score": 66,
+      "score_reasoning": "Propensity-matched cohort comparing aTSA with posterior augmented glenoid vs rTSA for Walch B2/B3 glenoids in 208 shoulders with minimum 2-year follow-up, addressing a clinically unsettled and common surgical dilemma with prospectively collected data.",
+      "bullets": [
+        "In patients with Walch B2 or B3 glenoids and an intact rotator cuff, anatomic TSA with a posterior augmented glenoid and reverse TSA produced equivalent pain relief and patient-reported outcomes at two years.",
+        "Anatomic TSA yielded greater external rotation and forward flexion than reverse TSA, but radiolucent lines around the glenoid component were far more common after anatomic TSA (42% vs 9%).",
+        "For surgeons treating posterior glenoid wear with an intact cuff, both options are reasonable at two years, though the higher radiolucency rate after anatomic TSA warrants longer follow-up before drawing conclusions about implant survivorship."
+      ]
+    },
+    {
+      "pmid": "42613948",
+      "title": "Higher Rates of PASS and SCB After Arthroscopic Subspine Decompression Are Associated With a Positive Diagnostic AIIS Injection: A Propensity Score-Matched Cohort Study.",
+      "authors": [
+        "Duan YP",
+        "Yang F",
+        "Liu RG",
+        "Sun H",
+        "Huang H",
+        "Xu Y",
+        "Ju XD",
+        "Wang JQ"
+      ],
+      "authors_short": "Duan YP, Yang F, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Hip arthroscopy effectively treats femoroacetabular impingement syndrome (FAIS), but persistent pain may be related to concomitant extra-articular pathology such as subspine impingement syndrome (SSI). Standard diagnosis of SSI often relies on 3-dimensional computed tomography (3D-CT) morphology (Hetsroni type II/III), although this morphology is common in individuals who are asymptomatic and correlates poorly with symptoms. PURPOSE: To compare minimum 2-year clinical outcomes after arthroscopic subspine decompression in patients with concurrent FAIS and type II/III anterior inferior iliac spine (AIIS) morphology, stratified by diagnostic method: 3D-CT morphology alone versus 3D-CT morphology plus a positive ultrasound-guided diagnostic injection. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: This study included patients aged 18 to 55 years with type II/III AIIS morphology who underwent primary hip arthroscopy for FAIS and SSI between January 2021 and November 2023 and had minimum 2-year follow-up. Patients diagnosed by CT morphology alone (CT classification group) were propensity score matched 1:1 to patients with a positive ultrasound-guided AIIS injection (injection group), with 57 patients per group. Matching variables were age, sex, body mass index, lateral center-edge angle, alpha angle, T\u00f6nnis grade, and Beighton score. All patients underwent arthroscopic subspine decompression. Patient-reported outcomes and rates of achieving the minimal clinically important difference, Patient Acceptable Symptom State (PASS), and substantial clinical benefit (SCB) were compared. RESULTS: Preoperative patient-reported outcome scores were similar between groups (all P > .05). At minimum 2-year follow-up, the injection group had significantly better scores on the modified Harris Hip Score (90.8 vs 84.2), Hip Outcome Score-Activities of Daily Living (88.4 vs 82.4), Hip Outcome Score-Sports Subscale (71.9 vs 64.1), 12-item International Hip Outcome Tool (83.9 vs 76.1), and visual analog scale for pain (1.2 vs 2.0) (all P < .001). Minimal clinically important difference rates were high in both groups, with higher rates in the injection group for modified Harris Hip Score (93% vs 77%; P = .033) and Hip Outcome Score-Activities of Daily Living (91% vs 75%; P = .042). PASS and SCB rates were significantly higher in the injection group across all patient-reported outcome measures (all P < .05). Revision and complication rates were low and did not differ significantly between groups. CONCLUSION: Both groups improved significantly after arthroscopic subspine decompression. However, patients with a positive ultrasound-guided diagnostic AIIS injection achieved higher PASS and SCB rates than those selected by CT morphology alone, suggesting that injection-confirmed SSI may improve patient selection for subspine decompression.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42613948/",
+      "score": 65,
+      "score_reasoning": "Systematic review and meta-analysis of 10 comparative studies (2,730 hips) showing no significant difference in mHHS between labral repair and debridement for FAI, challenging the prevailing preference for repair with substantial sample size.",
+      "bullets": [
+        "Patients with hip impingement and type II/III AIIS morphology who had a positive ultrasound-guided AIIS injection before surgery reported better pain and function scores at two years than those selected by CT morphology alone.",
+        "For adults aged 18 to 55 undergoing hip arthroscopy for combined femoroacetabular and subspine impingement, adding a diagnostic injection to CT imaging improved the rate of reaching a satisfactory symptom state after surgery.",
+        "When planning subspine decompression, a positive AIIS injection confirms the diagnosis more reliably than abnormal CT morphology alone, since that morphology is common in people without symptoms."
+      ]
+    },
+    {
+      "pmid": "42611566",
+      "title": "Minimum 10-year patient-reported outcomes and survivorship after primary hip arthroscopy with interportal capsulotomy without capsular repair for stable femoroacetabular impingement syndrome: Female sex, elevated BMI and T\u00f6nnis grade predict inferior outcomes.",
+      "authors": [
+        "Gosnell GG",
+        "Berzolla E",
+        "Lezak BA",
+        "Mercer NP",
+        "Ruff G",
+        "Morgan AM",
+        "Lott A",
+        "Youm T"
+      ],
+      "authors_short": "Gosnell GG, Berzolla E, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: The purpose of this study was to report minimum 10-year survivorship, patient-reported outcomes (PROs), clinically significant outcome achievement and predictors of outcomes and failure in patients with structurally stable femoroacetabular impingement syndrome (FAIS) who underwent primary hip arthroscopy with interportal capsulotomy without capsular repair. METHODS: A retrospective review was conducted of patients undergoing primary hip arthroscopy for FAIS from 2010 to 2013 with a minimum 10-year follow-up. Exclusion criteria included hip dysplasia, T\u00f6nnis Grade >1, prior ipsilateral hip surgery and unavailable preoperative radiographs. All patients underwent interportal capsulotomy without capsular repair. Outcomes included modified Harris Hip Score (mHHS), Nonarthritic Hip Score (NAHS), minimal clinically important difference (MCID) achievement, survivorship and predictors of PROs and failure. RESULTS: A total of 150 patients were included (62.7% female), with mean follow-up of 11.7\u2009\u00b1\u20091.1 years and mean age of 38.3\u2009\u00b1\u200912.1 years. Ten-year survivorship was 90.7%; 7 patients (4.7%) underwent total hip arthroplasty and 7 (4.7%) underwent revision arthroscopy. mHHS improved from 52.0\u2009\u00b1\u200911.7 to 87.9\u2009\u00b1\u200916.7 (p\u2009<\u20090.001), and NAHS improved from 49.5\u2009\u00b1\u200911.4 to 86.2\u2009\u00b1\u200918.0 (p\u2009<\u20090.001). Patient Acceptable Symptom State (PASS) was achieved by 76.0% of patients for mHHS and 65.3% for NAHS. Female sex and higher body mass index (BMI) were associated with worse 10-year PROs, whereas T\u00f6nnis Grade 1 (p\u2009=\u20090.003) and lower preoperative NAHS (p\u2009=\u20090.034) were associated with failure. CONCLUSION: Primary hip arthroscopy for structurally stable FAIS performed with interportal capsulotomy and without capsular repair demonstrated favourable 10-year outcomes, high PASS achievement and 90.7% survivorship. Clinically, these findings provide long-term benchmarking data for counselling appropriately selected patients with structurally stable hips. Higher BMI and female sex were associated with worse 10-year PROs, while T\u00f6nnis Grade 1 and lower preoperative NAHS were associated with increased failure risk, supporting their use in preoperative risk stratification and shared decision-making. LEVEL OF EVIDENCE: Level IV, retrospective case series (single-surgeon, without comparison group).",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42611566/",
+      "score": 63,
+      "score_reasoning": "10-year follow-up retrospective review of 150 hip arthroscopy patients (62.7% female) reporting 90.7% survivorship and identifying female sex, elevated BMI, and T\u00f6nnis grade as predictors of inferior outcomes, providing rare long-term data for a common sports procedure.",
+      "bullets": [
+        "Hip arthroscopy for femoroacetabular impingement syndrome without capsular repair showed 90.7% survivorship at over 10 years, with roughly three in four patients reaching an acceptable symptom state.",
+        "Female sex and higher BMI predicted worse patient-reported outcomes at 10 years, while Tonnis grade 1 and lower preoperative function predicted conversion to total hip arthroplasty or revision arthroscopy.",
+        "These long-term results support using sex, BMI, and Tonnis grade during preoperative counselling to set realistic expectations for patients considering hip arthroscopy."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-08-20T03:27:29.110499-07:00"
+}
