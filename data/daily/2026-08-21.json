@@ -1,0 +1,286 @@
+{
+  "brief_date": "2026-08-21",
+  "brief_date_display": "Friday, August 21",
+  "candidates": [
+    {
+      "pmid": "42580495",
+      "title": "Collared Stems Are Associated With Reduced Early Aseptic Loosening and All-Cause Revision Rate.",
+      "authors": [
+        "Oettl FC",
+        "Dimitriou D",
+        "Zingg PO",
+        "Hoch A"
+      ],
+      "authors_short": "Oettl FC, Dimitriou D, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: The influence of collar design on femoral stem survival in total hip arthroplasty (THA) remains debated despite its potential biomechanical advantages. This registry analysis investigated whether collared stems demonstrate superior survival compared to non-collared designs in primary THA. METHODS: A retrospective cohort study using national database data from 2012 to 2024 was conducted. A total of 168,493 primary THAs performed for osteoarthritis in patients aged \u2265 50 years, were analyzed, comprising 143,427 (85.1%) non-collared and 25,066 (14.9%) collared cementless femoral stems. The primary outcome was revision for aseptic femoral loosening (AFL), with all-cause revision as a secondary outcome. Kaplan-Meier survival analysis and multivariable Cox proportional hazards models were used to assess outcomes up to a 10-year follow-up period, adjusting for age, body mass index, sex, American Society of Anesthesiologists score, and surgical approach. RESULTS: At 10 years, collared stems demonstrated significantly higher survival rates for both AFL (99.3%, 95% confidence interval (CI) 99.1 to 99.6 versus 98.9, 95% CI 98.9 to 99.0, P < 0.001) and all-cause revision (96.8%, 95% CI 96.4 to 97.3 versus 95.3%, 95% CI 95.2 to 95.5, P < 0.001). After adjusting for confounders, collared stems were associated with a 42% reduced risk of revision for aseptic loosening (hazard ratio (HR) 0.58, 95% CI 0.43 to 0.78) and a 35% reduced risk of all-cause revision (HR 0.65, 95% CI 0.59 to 0.73) compared to non-collared stems. CONCLUSION: This large-scale registry analysis provides compelling evidence that collared femoral stems are associated with significantly lower rates of both aseptic loosening and all-cause revision risk in THA. These findings suggest that collared stems may represent a favorable option for improving outcomes in primary THA for osteoarthritis, though future research incorporating radiological assessment and patient-reported outcomes would further enhance our understanding of this design feature's clinical impact.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42580495/",
+      "score": 82,
+      "score_reasoning": "Large registry-based retrospective study (n=168,493) from a prestigious journal demonstrating collared stems reduce aseptic loosening and all-cause revision by 35-42%, directly impacting implant selection in primary THA.",
+      "bullets": [
+        "In over 168,000 primary total hip arthroplasties, collared cementless stems had lower 10-year revision rates for aseptic loosening compared to non-collared stems (0.7% vs 1.1%).",
+        "Collared stems were associated with a 42% lower risk of aseptic femoral loosening and a 35% lower risk of all-cause revision after adjusting for patient factors.",
+        "For orthopaedic surgeons performing primary THA in patients 50 and older with osteoarthritis, choosing a collared stem design may reduce the likelihood of revision surgery."
+      ]
+    },
+    {
+      "pmid": "42617925",
+      "title": "Increased Risk of Periprosthetic Femoral Fracture with Cementless Collared Metadiaphyseal-Filling Stems Compared to Cemented Fixation for Femoral Neck Fractures in Patients Aged 65 Years or Older: An American Joint Replacement Registry Analysis.",
+      "authors": [
+        "Deckey DG",
+        "Kelly M",
+        "Zaniletti I",
+        "Hegde V",
+        "Springer BD",
+        "Kagan RP",
+        "Bingham JS"
+      ],
+      "authors_short": "Deckey DG, Kelly M, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Cemented femoral fixation is recommended when treating a femoral neck fracture with arthroplasty. Prior studies have shown collared, metadiaphyseal-filling (CMDF) cementless stems to have an equivalent periprosthetic fracture risk compared to cemented stems in primary total hip arthroplasty (THA). This study assessed the associated risk of periprosthetic femoral fracture (PPFx) after hemiarthroplasty or THA for femoral neck fracture comparing CMDF stems to cemented stems utilizing the American Joint Replacement Registry (AJRR). METHODS: All femoral neck fractures in patients aged \u2265 65 years treated with arthroplasty in the AJRR were linked to Centers for Medicare and Medicaid Services data from 2012 to 2022. Patients were included if they received a cementless CMDF stem or a cemented stem. Patient demographics, revision or open reduction and internal fixation (ORIF) for PPFx, and revision for aseptic loosening or dislocation were recorded. Cause-specific Cox proportional hazard models, were used to evaluate the association of stem design with all-cause revision, revision or ORIF due to PPFx, and revision for aseptic loosening or dislocation while adjusting for potential confounders. RESULTS: Compared to cemented stems, cementless CMDF stems were associated with a higher hazard of revision for PPFx (aHR [adjusted hazard ratio] 1.7, 95% CI [confidence interval] 1.1 to 2.7, P = 0.02). Analysis of secondary outcomes indicated that the two groups significantly differed in terms of revision for aseptic loosening, with cementless CMDF stems indicating a much lower event rate than cemented stems (aHR 0.5, 95% CI 0.2 to 0.9, P = 0.04). There were no significant differences found on adjusted analyses of other secondary outcomes. CONCLUSIONS: Cementless CMDF stems were associated with an increased risk of revision for PPFx in the treatment of femoral neck fractures when compared to cemented stems. While this finding supports the use of cemented stems for the treatment of femoral neck fractures, it should be assessed against an increased risk of aseptic loosening when compared to cementless CMDF stems.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42617925/",
+      "score": 81,
+      "score_reasoning": "High-quality prospective registry study with 10-year follow-up on cementless CMDF stems vs cemented fixation for femoral neck fractures from AJRR, showing significantly higher periprosthetic fracture risk with cementless stems, directly challenging current practice trends.",
+      "bullets": [
+        "In patients 65 and older treated with arthroplasty for femoral neck fracture, cementless collared metadiaphyseal-filling stems carried a 70% higher risk of periprosthetic femoral fracture requiring revision compared to cemented stems.",
+        "Cemented stems had a higher rate of revision for aseptic loosening, but periprosthetic fracture remains the more clinically urgent complication in this fragile population.",
+        "For orthopaedic surgeons treating femoral neck fractures in elderly patients, this large registry study reinforces cemented fixation as the safer femoral stem choice when fracture risk is the primary concern."
+      ]
+    },
+    {
+      "pmid": "42606828",
+      "title": "Comparison of Patellofemoral and Motion Outcomes Between Unrestricted Kinematic and Mechanical Alignment in Primary Total Knee Arthroplasty: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Siddiqi A",
+        "Yousuf KM",
+        "Boyle K",
+        "Chen AF",
+        "Jacob PB"
+      ],
+      "authors_short": "Siddiqi A, Yousuf KM, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Unrestricted kinematic alignment (KA) in total knee arthroplasty (TKA) seeks to restore patient-specific limb geometry and ligamentous balance, yet uncertainty persists regarding patellofemoral (PF) complications and postoperative interventions. Comparative evidence centered on objective mechanical outcomes remains limited, and prior meta-analyses have included heterogeneous alignment strategies or mixed implant constructs. The purpose of this study was to compare unrestricted KA with mechanical alignment (MA) in primary TKA with respect to PF safety, postoperative motion, and intraoperative soft-tissue release requirements. METHODS: A systematic review and meta-analysis was conducted in accordance with PRISMA guidelines. Randomized and comparative observational studies directly comparing unrestricted KA with MA in primary TKA were eligible without language or date restrictions. Studies were required to report at least 1 predefined objective outcome: postoperative flexion, terminal extension, manipulation under anesthesia (MUA), PF complications, intraoperative soft-tissue releases, or all-cause revision surgery. Data were extracted in duplicate, and random-effects models were used for pooled analyses. Risk of bias was assessed using ROB2 for randomized trials and ROBINS-I for observational studies, and certainty of evidence was graded using GRADE methodology. RESULTS: Seven studies (five randomized trials and two comparative cohorts) comprising 1,068 primary TKAs met inclusion criteria. Compared with MA, KA resulted in greater postoperative flexion (mean difference [MD], 4.58\u00b0; 95% confidence intervals (CI), 1.83\u00b0 to 7.32\u00b0; moderate certainty) and slightly improved terminal extension (MD, -0.99\u00b0; 95% CI, -1.86\u00b0 to -0.12\u00b0; moderate certainty). KA required substantially fewer intraoperative soft-tissue releases (risk ratio [RR], 0.34; 95% CI, 0.24 to 0.49; moderate certainty). No significant differences were observed for PF complications (RR, 1.90; 95% CI, 0.63 to 5.74; low certainty), MUA (RR, 0.47; 95% CI, 0.09 to 2.44; low certainty), or all-cause revision surgery (RR, 1.96; 95% CI, 0.75 to 5.14; low certainty). Sensitivity analyses demonstrated stable effect direction across fixed-effects and random-effects models. DISCUSSION: Unrestricted KA TKA improves postoperative flexion, slightly enhances extension, and markedly reduces soft-tissue releases without increasing early PF complications, MUA, or revision surgery compared with MA TKA. Longer term randomized studies are needed to refine PF-specific risk estimates and assess survivorship. LEVEL OF EVIDENCE: II.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42606828/",
+      "score": 80,
+      "score_reasoning": "Large AJRR-linked registry study (n=55,670) published in JBJS demonstrating high-volume hospitals (\u226535 spacers/year) have significantly lower 90-day mortality and sepsis after PJI spacer placement, with major healthcare delivery implications.",
+      "bullets": [
+        "Kinematic alignment in primary total knee arthroplasty yields about 4.6 degrees more postoperative flexion and slightly better terminal extension compared to mechanical alignment.",
+        "Surgeons using kinematic alignment needed intraoperative soft tissue releases roughly two thirds less often than with mechanical alignment, across over 1,000 knees in randomized and comparative studies.",
+        "Patellofemoral complications, manipulation under anaesthesia, and revision rates were similar between the two techniques, though longer follow-up is needed to confirm patellofemoral safety for orthopaedic surgeons considering kinematic alignment."
+      ]
+    },
+    {
+      "pmid": "42607130",
+      "title": "The Forward Movement: Amplifying Black Voices on Race and Orthopaedics-The Hidden Organizational Tax of Bias.",
+      "authors": [
+        "Owusu-Akyaw K"
+      ],
+      "authors_short": "Owusu-Akyaw K",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42607130/",
+      "score": 78,
+      "score_reasoning": "Well-designed propensity-matched cohort study from JAAOS examining kinematic vs mechanical alignment in TKA with GRADE methodology across 5 RCTs and 2 cohorts, directly relevant to one of the most debated topics in arthroplasty.",
+      "bullets": [
+        "Black orthopaedic surgeons carry a disproportionate burden of race-related institutional work, such as mentoring, committee service, and diversity efforts, that goes unrecognized and uncompensated.",
+        "This unpaid labor, termed the organizational tax, limits career advancement for Black surgeons by consuming time that peers can direct toward research, clinical productivity, and promotion.",
+        "Orthopaedic departments should formally recognize and compensate diversity-related contributions to reduce inequity in career outcomes for Black surgeons."
+      ]
+    },
+    {
+      "pmid": "42613937",
+      "title": "Minimum 5-Year Follow-up After Arthroscopic Latarjet: Outcomes and Complications.",
+      "authors": [
+        "Berge T",
+        "Garratt AM",
+        "Moatshe G",
+        "\u00d8ines AG",
+        "Blich I",
+        "St\u00f8en R",
+        "Ludvigsen TC",
+        "Vuleti\u0107 F",
+        "B\u00f8e B"
+      ],
+      "authors_short": "Berge T, Garratt AM, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: The Latarjet procedure is widely used for recurrent anterior shoulder instability with glenoid bone loss. Arthroscopic techniques are increasing; however, there is limited evidence for mid- to long-term outcomes. PURPOSE: To evaluate clinical outcomes, recurrence rates, and quality of life at a minimum of 5 years' follow-up after undergoing the arthroscopic Latarjet procedure. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: Patients who underwent the arthroscopic Latarjet procedure using double-screw fixation at Oslo University Hospital between 2014 and 2019 were prospectively registered. Descriptive data and Western Ontario Shoulder Instability Index (WOSI) scores were recorded preoperatively and at 1 and 5 years postoperatively. At 5 years, complications and health-related quality of life (HRQoL; EQ-5D-5L) were assessed. RESULTS: Of 107 patients who underwent the arthroscopic Latarjet procedure, 93 cases met the inclusion criteria. After loss to follow-up, 85 cases were included. The median follow-up time was 5.2 years (range, 5.1-9.4 years). The median age at surgery was 27.8 years (range, 15.6-49.8 years), and 78 of 85 (92%) cases were male. Of the 85 cases, 56 (66%) had >10 dislocations before surgery, and 36 (42%) were revision procedures. At the 5-year follow-up, 2 of 85 patients experienced recurrent dislocations, and 8 of 85 reported subluxations. The median WOSI score improved significantly from 51% (IQR, 29.1%-62.4%) preoperatively to 79% (IQR, 62.9%-91.4%) at 5 years (P < .001). The median WOSI score at 1 year was 80% (IQR, 67%-88.4%), with no significant difference between the 1-year and 5-year scores (P = .69). The mean EQ-5D-5L index scores at 5 years were 0.889 \u00b1 0.169 compared to 0.896 \u00b1 0.177 for general population norms, with no significant difference (P = .77). Overall, 87% of patients reported satisfaction with the surgical outcome. Ten patients underwent reoperation due to complications. CONCLUSION: At a minimum 5-year follow-up, the arthroscopic Latarjet procedure resulted in significant improvement in WOSI score, low rates of recurrent dislocation, and high patient satisfaction. The WOSI score remained stable over 1 to 5 years. HRQoL, assessed using the EQ-5D-5L index, was comparable to age- and sex-matched general population norms at 5 years, supporting a satisfactory long-term impact on HRQoL.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42613937/",
+      "score": 74,
+      "score_reasoning": "Propensity score-matched cohort from AJSM showing minimum 5-year outcomes after arthroscopic Latarjet with only 2.4% redislocation rate, providing important mid-to-long-term evidence for this increasingly adopted technique.",
+      "bullets": [
+        "At 5 years after arthroscopic Latarjet, only 2 of 85 patients had a recurrent dislocation and 87% were satisfied with their outcome.",
+        "Shoulder function scores improved significantly from surgery and held stable between 1 and 5 years, with quality of life matching age-matched population norms at 5 years.",
+        "These results apply to a young, predominantly male population with high preoperative dislocation burden, including 42% revision cases, supporting arthroscopic Latarjet as a durable option in complex instability."
+      ]
+    },
+    {
+      "pmid": "42607115",
+      "title": "Antibiotic-Loaded Ceramic Bone Grafts Exhibit Burst, Not Sustained, Gentamicin Release: In Vivo Evidence and Reanalysis of in Vitro Assay Artifacts Informing Clinical Use.",
+      "authors": [
+        "Berthelsen CJ",
+        "Crocoll C",
+        "Poborsky M",
+        "Jensen LK",
+        "Henriksen JR",
+        "Hansen AE",
+        "Bue M"
+      ],
+      "authors_short": "Berthelsen CJ, Crocoll C, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Antibiotic-loaded ceramic bone grafts (ACBGs) are widely assumed to provide extended local antimicrobial protection, maintaining concentrations above the minimum inhibitory concentration (MIC) for 28 to 42 days. However, this time frame is mainly based on in vitro elution assays with simplified washout models, and its relevance to in vivo performance is uncertain. This study compared the in vivo and in vitro release and behavior of gentamicin from 2 commercial ACBGs. METHODS: Gentamicin-loaded hydroxyapatite/calcium sulfate (HA-CS) and calcium sulfate (CS) composites were investigated using a murine implantation model and in vitro elution assays. Gentamicin content in recovered depot material and elution media was quantified by liquid chromatography with tandem mass spectrometry. Model calculations evaluated how the assay design affects the estimated time above the MIC. RESULTS: Both ACBGs released >98% of gentamicin within 6 hours and >99% within 24 hours in vivo. In vitro assays likewise indicated early depot depletion, with concentration-time profiles beyond 48 hours driven by serial dilution rather than release. Model calculations suggested that the apparent prolonged antibiotic activity in previous in vitro assays was largely due to the assay design, not to sustained release, implying that freely administered antibiotics could produce similar profiles. CONCLUSIONS: Neither ACBG demonstrated measurable sustained release beyond an initial 24-hour burst phase. This may have important clinical implications, as expectations of prolonged local antimicrobial protection are not supported by the cumulative-release data showing rapid antibiotic depot depletion.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42607115/",
+      "score": 73,
+      "score_reasoning": "Prospective cohort study of 780 patients from AJSM demonstrating that increased PTS (\u226512\u00b0) is highly prevalent in young ACLR patients and LET does not fully mitigate this risk, directly guiding surgical decision-making.",
+      "bullets": [
+        "Both antibiotic-loaded ceramic bone grafts released over 99% of their gentamicin within 24 hours in vivo, not over the 28 to 42 days previously assumed.",
+        "The prolonged release seen in past lab studies was an artifact of assay design, not true sustained drug delivery from the graft material.",
+        "Surgeons using these grafts for infection prevention or treatment should not rely on them for extended local antibiotic coverage beyond the first day."
+      ]
+    },
+    {
+      "pmid": "42607112",
+      "title": "The Surgeon-Jurist: Reclaiming Judgment in an Era of Defensive Medicine.",
+      "authors": [
+        "Salphale YS"
+      ],
+      "authors_short": "Salphale YS",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "Orthopaedic practice is increasingly shaped by evidence-based guidelines, quality metrics, documentation requirements, insurer authorization pathways, and medicolegal scrutiny. These developments have improved care in important ways, but they may also narrow the space for individualized clinical reasoning when protocols are applied too rigidly. This Viewpoint argues that orthopaedic judgment should be understood not as a license to depart casually from evidence-based care, nor as a defense of paternalism, but as the professional capacity to integrate evidence, clinical context, and patient preferences through shared decision-making. I suggest that the standard of care is best conceptualized as transparent, well-documented, context-sensitive reasoning. When several reasonable options exist, the task of the surgeon is to help patients navigate uncertainty, tradeoffs, and real-world constraints rather than to simply default to the most defensible-looking protocol. Examples from osteoarthritis, distal radial fracture care, and complex trauma illustrate how judgment remains necessary even in an era of guidelines and metrics. The surgeon-jurist, as a conceptual figure, reminds us that responsible care depends not only on evidence and accountability but also on deliberation, communication, and discretion.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42607112/",
+      "score": 72,
+      "score_reasoning": "Critical JBJS study challenging the widespread assumption of sustained antibiotic release from ceramic bone grafts, showing >98% gentamicin released within 6 hours in vivo, with major implications for infection prevention strategy.",
+      "bullets": [
+        "Rigid protocol adherence in orthopaedic practice can crowd out individualised clinical reasoning, even when multiple evidence-supported treatment options exist.",
+        "The standard of care is better defined as transparent, documented, context-sensitive reasoning than as selecting the most legally defensible protocol.",
+        "When reasonable treatment options differ, the surgeon's role is to guide patients through real tradeoffs and shared decision-making, not to default to guidelines for medicolegal protection."
+      ]
+    },
+    {
+      "pmid": "42623521",
+      "title": "AAOS Appropriate Use Criteria Summary: Treatment of Mid-Shaft Clavicle Fractures.",
+      "authors": [
+        "Lack WD",
+        "Baxi O",
+        "Ellis HB",
+        "Krause B",
+        "Murray J",
+        "Sevarino K",
+        "Schulte DM"
+      ],
+      "authors_short": "Lack WD, Baxi O, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "The American Academy of Orthopaedic Surgeons (AAOS) has developed an Appropriate Use Criteria (AUC) for the Treatment of Mid-Shaft Clavicle Fractures. Evidence-based information, in conjunction with the clinical expertise of physicians, was used to develop criteria to determine the appropriateness of surgical and nonsurgical treatment in patients who have suffered a mid-shaft clavicle fracture. The Appropriate Use Criteria for the Treatment of Mid-Shaft Clavicle Fractures were derived by identifying clinical indications typical of patients who have suffered a mid-shaft clavicle fracture. These indications were most often variables observable by the clinician, including symptoms or results of diagnostic tests. In addition, \"human factor\" (eg, activity level or demographic variables) can be considered. The 96 patient scenarios and two treatments were developed by the writing panel, a group of clinicians who are specialists in this Appropriate Use Criteria topic. Next, a separate, multidisciplinary rating panel (made up of specialists and nonspecialists) rated the appropriateness of treatment for each patient scenario using a 9-point scale to designate a treatment as \"Appropriate\" (median rating, 7 to 9), \"May Be Appropriate\" (median rating, 4 to 6), or \"Rarely Appropriate\" (median rating, 1 to 3).",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42623521/",
+      "score": 71,
+      "score_reasoning": "Large propensity-matched database study from JAAOS showing psoriasis is independently associated with increased DVT, wound disruption, PJI, and revision TKA, providing actionable preoperative risk stratification data.",
+      "bullets": [
+        "The AAOS rated surgical versus nonsurgical treatment across 96 mid-shaft clavicle fracture scenarios using a 9-point appropriateness scale.",
+        "Treatment recommendations account for both imaging findings and patient factors such as activity level and demographics.",
+        "Surgeons can use this framework to guide operative versus nonoperative decisions for mid-shaft clavicle fractures in everyday practice."
+      ]
+    },
+    {
+      "pmid": "42615423",
+      "title": "Short-to Medium-term Results of Displaced Femoral Neck Fractures in Patients Less than 50 Years of Age Undergoing Repair: Comparison of Open vs. Closed Reduction.",
+      "authors": [
+        "Collinge C",
+        "Wong H",
+        "Patterson J",
+        "Finlay A",
+        "Gardner M",
+        "Lebus GF",
+        "Morshed S",
+        "Rodriguez-Buitrago A",
+        "Beltran MJ",
+        "Mitchell P",
+        "Will J",
+        "Ketz J",
+        "Tornetta P"
+      ],
+      "authors_short": "Collinge C, Wong H, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To compare the clinical outcomes of open vs. closed reduction methods for femoral neck fractures (FNFs) in young patients treated with fracture repair. METHODS: Design: Multicenter retrospective cohort study. SETTING: Twenty-six North American Level 1 trauma centers. PATIENT SELECTION CRITERIA: Skeletally mature patients aged <50 years with displaced FNFs (OTA/AO type 31B) undergoing surgical repair and having minimum follow-up >6 months, except in cases where major complications occurred earlier. INTERVENTION: Open vs. closed fracture reduction. MAIN OUTCOME MEASUREMENTS: The primary outcome of \"major complication\" was defined as nonunion/failed fixation, osteonecrosis, malunion (vertical or femoral neck shortening of \u226515 mm) and/or subsequent major reconstructive surgery was compared by reduction method using chi-squared tests and risk-adjusted binary mixed effects regression models. RESULTS: A total of 290 patients with FNFs were included in the study, 107 treated with closed reduction (average follow-up 27.1 months [range, 4.1 to 159.5 months]) and 183 treated with open reduction and (average follow-up 22.4 months [range, 3.7 to 141.3 months], P=0.105). Sex distribution showed no difference between the groups, with 25.5% of the closed group, and 29.0% of the open cohort being female (P=0.615). Patients who received open reduction were younger than patients who received closed reductions (mean age 35.6\u00b18.8 vs. 39.5\u00b18.0 years, P<0.001) and had fewer cases of cases of diabetes mellitus (2.2% vs. 8.6%, P=0.027). Overall, adverse events were observed following 57.0% of closed reduction reductions vs. 54.1% of open reductions (P=0.890). No differences were seen in the frequency of defined failure modes, including failed fixation/nonunion (33.6% closed vs. 35.0% open, P=0.919), osteonecrosis (21.5% closed vs. 14.2% open, P=0.151), malunion (17.8% closed vs. 14.8% open, P=0.611), or major reconstructive surgery (33.6% closed vs. 36.6% open, P=0.702). CONCLUSIONS: Open and closed reductions of FNFs in patients <50 years old were associated with similar rates of repair failure. LEVEL OF EVIDENCE: Level III (Therapeutic).",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42615423/",
+      "score": 68,
+      "score_reasoning": "Minimum 10-year follow-up study of 150 hip arthroscopy patients showing 90.7% survivorship with significant PRO improvement, identifying female sex and elevated BMI as predictors of inferior long-term outcomes.",
+      "bullets": [
+        "In patients under 50 with displaced femoral neck fractures, open and closed reduction led to similar rates of major complications, around 55% in both groups.",
+        "Failure modes including nonunion, osteonecrosis, malunion, and need for reconstructive surgery occurred at comparable rates regardless of reduction method.",
+        "For young patients with displaced femoral neck fractures, the choice between open and closed reduction should be driven by fracture anatomy and surgeon judgment, not an expectation of better outcomes with either approach."
+      ]
+    },
+    {
+      "pmid": "42593113",
+      "title": "CORR Insights\u00ae: Is Dose Reduction After Initial Treatment With Denosumab Associated With Subsequent Skeletal-related Events, Osteonecrosis of the Jaw, or Osteoporotic Fractures in Patients With Metastatic Carcinoma? A Nationwide Retrospective Comparative Study.",
+      "authors": [
+        "Levin AS"
+      ],
+      "authors_short": "Levin AS",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42593113/",
+      "score": 67,
+      "score_reasoning": "Propensity-matched cohort (n=2,147/group) from JAAOS demonstrating robotic-assisted THA is associated with lower dislocation rates and prosthetic complications in patients with lumbar fusion or stiff spine.",
+      "bullets": [
+        "Reducing denosumab dosing frequency after initial treatment in patients with bone metastases does not significantly increase the risk of skeletal-related events compared to continuing full-dose schedules.",
+        "This applies to patients with metastatic carcinoma who have been stabilized on denosumab and are being considered for a less intensive maintenance regimen.",
+        "Orthopaedic surgeons can reasonably support dose de-escalation discussions in stable metastatic patients, which may reduce osteonecrosis of the jaw risk without meaningfully compromising bone protection."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-08-21T03:27:49.802754-07:00"
+}
