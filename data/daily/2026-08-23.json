@@ -1,0 +1,283 @@
+{
+  "brief_date": "2026-08-23",
+  "brief_date_display": "Sunday, August 23",
+  "candidates": [
+    {
+      "pmid": "42617924",
+      "title": "Impact of Organism Profile on Ideal Timing of Reimplantation in Patients Undergoing Two-Stage Exchange Arthroplasty.",
+      "authors": [
+        "Tarabichi S",
+        "Paul BR",
+        "Verhey JT",
+        "Braithwaite CL",
+        "Van Schuyver PR",
+        "Deckey DG",
+        "Christopher ZK",
+        "Wyles CC",
+        "Springer BD",
+        "Clarke HD",
+        "Spangehl MJ",
+        "Bingham JS"
+      ],
+      "authors_short": "Tarabichi S, Paul BR, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: To our knowledge, no study to date has examined the association between organism profile and ideal interstage duration in patients undergoing two-stage exchange arthroplasty. The purpose of this study was to evaluate the impact of the type of infecting organism on the optimal timing of reimplantation in this patient population. METHODS: This retrospective study identified 576 patients who had a chronic periprosthetic joint infection (PJI) of the knee and underwent two-stage exchange arthroplasty with a minimum one-year follow-up. A PJI was defined using the 2013 Musculoskeletal Infection Society (MSIS) criteria. Patients who had a time to reimplantation greater than 180 days from resection arthroplasty (n = 76) and those who underwent spacer exchange were excluded (n = 49). Treatment failure was defined as any reoperation for infection or PJI-related mortality. Receiver operator characteristic (ROC) curve analyses were used to identify whether the optimal interstage duration differed by infecting organism. Multivariate regression analyses were performed to identify risk factors for failure. There were 451 patients who were included who had a mean follow-up time of 5.8 years. RESULTS: Of the 451 included patients, 71 (15.7%) patients experienced failure and 380 (84.3%) experienced success. The ROC curve analyses demonstrated that the optimal interstage duration was longest for patients infected with \"high-virulence\" pathogens (129 days), followed by those who had methicillin-sensitive Staphylococcus aureus (MSSA) (117 days), culture negative PJI (98 days), and coagulase-negative Staphylococci (86 days). After controlling for covariates, regression analyses showed that an interstage duration above the identified cutoff for each pathogen group was a predictor of treatment failure (all P < 0.05). CONCLUSION: We found that the ideal interstage duration varied considerably by the type of infecting organism in patients undergoing two-stage exchange. Greater awareness of this data may help guide the optimal timing of reimplantation in this patient population.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42617924/",
+      "score": 88,
+      "score_reasoning": "High-impact registry-based study from AJRR directly challenging current practice of using cementless CMDF stems for femoral neck fractures, showing increased periprosthetic fracture risk with strong clinical implications for a common procedure.",
+      "bullets": [
+        "In knee PJI treated with two-stage exchange, the optimal time to reimplantation varies by pathogen, ranging from 86 days for coagulase-negative Staph to 129 days for high-virulence organisms.",
+        "Waiting longer than the pathogen-specific cutoff was independently associated with treatment failure, meaning delaying reimplantation beyond the ideal window increases infection recurrence risk.",
+        "Surgeons performing two-stage knee exchange should tailor reimplantation timing to the specific infecting organism rather than applying a uniform interstage interval to all patients."
+      ]
+    },
+    {
+      "pmid": "42628628",
+      "title": "Public Perceptions of Robotic-Assisted Shoulder Arthroplasty in the United States.",
+      "authors": [
+        "Zabiba A",
+        "Menendez ME"
+      ],
+      "authors_short": "Zabiba A, Menendez ME",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Interest in robotic-assisted shoulder arthroplasty is growing, yet public perceptions of this technology remain poorly characterized. This study used online crowdsourcing to evaluate public perceptions and beliefs regarding robotic-assisted shoulder arthroplasty. METHODS: A cross-sectional survey was completed by 615 adults residing in the United States through the Prolific crowdsourcing platform. The survey assessed demographic characteristics, perceptions of the impact of robotic assistance, and treatment preferences. Multivariable logistic regression was performed to identify factors associated with preference for robotic-assisted surgery. RESULTS: Most respondents believed robotic-assisted shoulder arthroplasty leads to greater implant positioning accuracy (74%), better outcomes (67%), fewer complications (61%), and faster recovery (54%) than conventional arthroplasty. Despite this favorable perception, enthusiasm softened when robotics was placed in direct competition with surgeon experience: 62% of respondents preferred a higher-volume surgeon who does not use robotics over a lower-volume surgeon who does. The leading concerns regarding robotic technology were equipment malfunction causing harm, increased cost, and surgeon inexperience with the technology. Seventy-six percent of respondents accurately understood the actual role of the robot in the operating room. Overall, 58% of respondents preferred robotic-assisted shoulder arthroplasty over a conventional manual approach. Perceived improvement in outcomes was the strongest independent predictor of preference for robotic-assisted surgery (OR 3.31, 95% CI 1.98-5.51). Other independently associated factors include, belief that robotics guarantees better results (OR 2.32, 95% CI 1.52-3.53), early technology adoption (OR 1.92, 95% CI 1.21-3.04), prior awareness of robotic-assisted shoulder arthroplasty (OR 1.90, 95% CI 1.19-3.02), and male sex (OR 1.49, 95% CI 1.03-2.15). CONCLUSION: Public perceptions of robotic-assisted shoulder arthroplasty were generally favorable and closely tied to the belief that robotic assistance improves outcomes. These findings highlight the need to align public expectations with the limited available evidence through patient education and transparent shared decision-making as the use of this technology continues to expand. LEVEL OF EVIDENCE: Survey Study, Public.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42628628/",
+      "score": 87,
+      "score_reasoning": "Large registry study (63,502 cases) from a prestigious journal examining XLPE versus non-XLPE in reverse shoulder arthroplasty with robust survival analysis, directly relevant to implant selection decisions in a rapidly growing procedure.",
+      "bullets": [
+        "Most Americans surveyed view robotic shoulder arthroplasty favorably, with over half preferring it to conventional surgery, but 62% would still choose a high-volume surgeon without robotics over a low-volume surgeon who uses it.",
+        "The strongest driver of robotic preference was belief that it improves outcomes, meaning patients who hold this view are most likely to request robotic-assisted shoulder replacement regardless of the evidence base.",
+        "Surgeons should counsel shoulder arthroplasty patients proactively, as public expectations of robotic technology currently outpace the available clinical evidence supporting it."
+      ]
+    },
+    {
+      "pmid": "42607112",
+      "title": "The Surgeon-Jurist: Reclaiming Judgment in an Era of Defensive Medicine.",
+      "authors": [
+        "Salphale YS"
+      ],
+      "authors_short": "Salphale YS",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "Orthopaedic practice is increasingly shaped by evidence-based guidelines, quality metrics, documentation requirements, insurer authorization pathways, and medicolegal scrutiny. These developments have improved care in important ways, but they may also narrow the space for individualized clinical reasoning when protocols are applied too rigidly. This Viewpoint argues that orthopaedic judgment should be understood not as a license to depart casually from evidence-based care, nor as a defense of paternalism, but as the professional capacity to integrate evidence, clinical context, and patient preferences through shared decision-making. I suggest that the standard of care is best conceptualized as transparent, well-documented, context-sensitive reasoning. When several reasonable options exist, the task of the surgeon is to help patients navigate uncertainty, tradeoffs, and real-world constraints rather than to simply default to the most defensible-looking protocol. Examples from osteoarthritis, distal radial fracture care, and complex trauma illustrate how judgment remains necessary even in an era of guidelines and metrics. The surgeon-jurist, as a conceptual figure, reminds us that responsible care depends not only on evidence and accountability but also on deliberation, communication, and discretion.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42607112/",
+      "score": 86,
+      "score_reasoning": "Paradigm-challenging JBJS study demonstrating that antibiotic-loaded ceramic bone grafts produce burst rather than sustained release, fundamentally undermining a widely held clinical assumption with direct implications for infection management.",
+      "bullets": [
+        "Rigid protocol adherence can crowd out individualized clinical reasoning, even when multiple treatment options are equally defensible.",
+        "The standard of care is best understood as transparent, documented, context-sensitive reasoning rather than automatic adherence to the most legally safe option.",
+        "For orthopaedic surgeons, helping patients navigate genuine uncertainty and tradeoffs through shared decision-making is itself a core clinical responsibility."
+      ]
+    },
+    {
+      "pmid": "42600868",
+      "title": "Japanese Knee Osteoarthritis Measure at Two Weeks as a Key Predictor of Early Functional Recovery After Total Knee Arthroplasty.",
+      "authors": [
+        "Kugo M",
+        "Kumagai K",
+        "Taniguchi M",
+        "Kubo M",
+        "Sawano S",
+        "Ando K",
+        "Mimura T",
+        "Yayama T",
+        "Imai S"
+      ],
+      "authors_short": "Kugo M, Kumagai K, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Early postoperative functional recovery is a major determinant of patient satisfaction following total knee arthroplasty. Although patient-reported outcome measures are increasingly used, the prognostic value of early postoperative assessments remains incompletely understood. METHODS: This retrospective observational study included 180 patients who underwent primary total knee arthroplasty at our institution. The Japanese Knee Osteoarthritis Measure (JKOM), pain intensity, mobility tests, muscle strength, and balance performance were evaluated preoperatively and at two and four weeks postoperatively. Patients were stratified into early and delayed recovery groups based on the median four-week JKOM score. Group comparisons and correlation analyses were performed to identify early predictors of recovery at four weeks after surgery. RESULTS: Patients in the delayed recovery group demonstrated worse JKOM scores, higher pain levels, and poorer functional performance at two weeks postoperatively. The JKOM score at two weeks showed a strong association with the score at four weeks (r = 1.00), likely reflecting the close temporal proximity and repeated assessment using the same PROM instrument. Resting pain and walking pain were associated with delayed recovery. In addition, objective functional measures, including gait performance, balance ability, and knee muscle strength, showed moderate correlations with patient-reported outcomes. CONCLUSIONS: Patient-reported outcomes assessed at two weeks after total knee arthroplasty, particularly JKOM scores, provide useful prognostic information on recovery at four weeks. Pain severity and early functional impairment are closely associated with delayed recovery. Integrating early patient-reported outcome assessments with objective functional evaluations may facilitate early risk stratification and support individualized postoperative rehabilitation strategies.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42600868/",
+      "score": 85,
+      "score_reasoning": "Provocative large database study in Journal of Arthroplasty showing EOAP after TKA is paradoxically associated with higher PJI rates, directly contradicting prevailing practice trends and demanding attention from arthroplasty surgeons.",
+      "bullets": [
+        "Patients who score poorly on a knee-specific patient-reported outcome measure at two weeks after total knee arthroplasty are likely to show delayed functional recovery at four weeks.",
+        "Higher resting and walking pain at two weeks, along with weaker muscle strength and worse gait and balance, are associated with slower early recovery after total knee arthroplasty.",
+        "Routine patient-reported outcome assessment at the two-week visit can help identify patients who need more intensive rehabilitation before the one-month mark."
+      ]
+    },
+    {
+      "pmid": "42615943",
+      "title": "The Hand Surgeon: The Dragon Warrior of Human Dignity.",
+      "authors": [
+        "Raveendran S"
+      ],
+      "authors_short": "Raveendran S",
+      "journal": "The Journal of hand surgery",
+      "journal_abbrev": "J Hand Surg Am",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42615943/",
+      "score": 84,
+      "score_reasoning": "Clinically important study of 451 two-stage exchange arthroplasty patients showing that optimal interstage duration varies by infecting organism virulence, providing actionable guidance for a high-stakes clinical decision.",
+      "bullets": [
+        "The paper presents a conceptual argument that hand surgeons play a central role in restoring patient dignity and function.",
+        "The argument applies broadly to hand surgeons treating any patient with hand or upper extremity loss of function.",
+        "Clinically, this framing encourages hand surgeons to consider functional restoration as directly tied to patient identity and quality of life."
+      ]
+    },
+    {
+      "pmid": "42606122",
+      "title": "Thermal Risk During Bivalving of Fiberglass Casts Following Orthopaedic Reduction: A Comparative Analysis of 2 Commercially Available Cast Padding Products.",
+      "authors": [
+        "Donnelley CA",
+        "Reuter A",
+        "Donnelley JE",
+        "Noback PC",
+        "Tommasini S",
+        "Luo X"
+      ],
+      "authors_short": "Donnelley CA, Reuter A, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Cast saw burns (CSBs) are a preventable, iatrogenic complication that may occur during bivalving or removal of fiberglass casts. Children undergoing fracture reduction with the use of procedural sedation, typically in the emergency department (ED), are at heightened risk for CSBs because they cannot provide real-time pain feedback during cast saw use. While prior investigations have examined the effects of cast material, cast thickness, and water dip temperature, the comparative thermal performance of commercially available cast padding products during cast bivalving has not been systematically evaluated. This study used thermal probes to compare measured temperatures beneath 2 widely used cast padding products, Webril (Kendall/Cardinal Health) and Specialist (BSN Medical), during a standardized cast application, molding, and bivalving protocol. METHODS: A custom upper-extremity model was instrumented with 2 calibrated thermocouples (labeled \"near\" and \"far\"). Twenty experimental runs were performed, 10 each per padding product, with bivalving performed separately for near and far probes (N=40 total). Temperatures were recorded at 3 time points: baseline (before the application of any materials), prebivalve (immediately after fiberglass application ), and at maximum temperature during bivalving with an oscillating cast saw. The primary outcome was the change in temperature from prebivalve to maximum bivalve temperature (\u0394T) measured by near and far probes. Secondary outcome included maximum temperatures relative to established burn injury thresholds. RESULTS: The mean \u0394T during bivalving was 13.2\u00b113.0\u00b0C for Specialist padding and 13.0\u00b16.9\u00b0C for Webril padding (P=0.95). The mean absolute maximum temperature was 40.8\u00b113.2\u00b0C for Specialist and 39.5\u00b16.8\u00b0C for Webril. In the Specialist group, 6/10 runs exceeded the 44\u00b0C adult burn threshold on at least one probe, compared with 4/10 runs in the Webril group. Linear mixed-effects analysis with Kenward-Roger degrees of freedom revealed a significant material\u00d7probe interaction during bivalving (P=0.020): at the near probe, Specialist peak temperatures averaged 8.5\u00b0C higher than Webril (P=0.041), whereas the 2 materials did not differ significantly at the far probe (P=0.146). CONCLUSION: Maximum temperatures exceeded clinically relevant burn thresholds in both cast padding groups, supporting the high-risk thermal environment at cast mold sites during bivalving. While Webril had some protective effect, neither commercially available cast-padding product provided consistently sufficient or statistically superior thermal protection. LEVELS OF EVIDENCE: Not applicable (biomechanical study).",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42606122/",
+      "score": 83,
+      "score_reasoning": "JAAOS systematic review and meta-analysis of RCTs comparing kinematic vs mechanical alignment in TKA on patellofemoral outcomes, addressing a major ongoing controversy with high methodological quality and direct surgical relevance.",
+      "bullets": [
+        "During fiberglass cast bivalving, temperatures exceeded the 44\u00b0C adult burn threshold in 6 of 10 runs with Specialist padding and 4 of 10 runs with Webril padding.",
+        "Neither cast padding product provided reliable thermal protection, meaning sedated children who cannot report pain during cast removal are at real burn risk regardless of padding brand.",
+        "Surgeons and ED teams should not assume standard cast padding prevents cast saw burns, especially at cast mold sites where heat generation is highest."
+      ]
+    },
+    {
+      "pmid": "42631002",
+      "title": "Microbiologic Patterns Found in Periprosthetic Joint Infections Following Total Joint Arthroplasty Differ Across Race and Sex.",
+      "authors": [
+        "Kumaran P",
+        "Wier J",
+        "Telang SS",
+        "Kistler NM",
+        "Lieberman JR",
+        "Heckmann ND"
+      ],
+      "authors_short": "Kumaran P, Wier J, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Despite extensive evidence demonstrating race- and sex-based disparities in periprosthetic joint infection (PJI) incidence following total joint arthroplasty, there is a lack of evidence on differences in the microbial profiles of pathogens identified. Our study evaluated the race- and sex-based differential microbial patterns of infecting organisms among patients with PJI. METHODS: The Premier Healthcare Database was queried from 2016 to 2023 for patients aged \u226518 years who underwent antibiotic spacer placement for a total joint arthroplasty PJI. Microbiology data were extracted from synovial and tissue cultures obtained during the hospital admission. Microbiological profiles were compared with respect to patient race via multivariable logistic regression. Race-sex subanalysis was then conducted via chi-squared testing. RESULTS: In total, 9014 patients were identified with 8189 (90.8%) White and 825 (9.2%) Black patients. Black patients had significantly higher adjusted odds of infection by methicillin-resistant Staphylococcus aureus (MRSA) (aOR: 1.45, [1.18-1.79], P < .001) and gram-negative enterics (aOR: 1.45, [1.15-1.85], P = .01). Furthermore, Black males had the highest rates of MRSA infection (15.1%), while Black females had the highest rates of polymicrobial infections (24.3%). CONCLUSIONS: Black patients had significantly greater risk of MRSA and gram-negative PJIs. Black males had the highest rates of MRSA and gram-negative enteric infection, while Black females exhibited the highest rates of polymicrobial infections. Further research into broader socioeconomic and health access disparities is warranted to explain the observed differences.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42631002/",
+      "score": 79,
+      "score_reasoning": "Large propensity-matched database study (10,404 patients) showing TXA reduces transfusion and wound complications in first-stage revision THA for PJI, filling an important evidence gap for a high-risk procedure.",
+      "bullets": [
+        "Black patients undergoing two-stage revision for periprosthetic joint infection had 45% higher odds of MRSA and gram-negative enteric infections compared to White patients.",
+        "Black males had the highest rates of MRSA infection at 15%, while Black females had the highest rates of polymicrobial infection at 24%.",
+        "When treating PJI in Black patients, broaden empiric coverage to include MRSA and gram-negative organisms before culture results return."
+      ]
+    },
+    {
+      "pmid": "42621165",
+      "title": "The Modular Cup-in-Cup Construct in Revision Total Hip Arthroplasty.",
+      "authors": [
+        "Palmer RC",
+        "Culler M",
+        "Kumaran P",
+        "Longjohn DB",
+        "Oakes DA",
+        "Heckmann ND"
+      ],
+      "authors_short": "Palmer RC, Culler M, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: The modular cup-in-cup technique, in which a modular primary acetabular component is cemented into a highly porous monobloc tantalum revision shell, provides the intraoperative flexibility to change bearings if subsequent re-revision is required. This study seeks to characterize the early outcomes of this technique. METHODS: A single-center retrospective review was performed of all patients who underwent revision total hip arthroplasty (rTHA) utilizing a modular acetabular component cemented into a highly porous monobloc tantalum revision shell. Preoperative and postoperative radiographs were assessed to quantify bone loss, cup position, and aseptic loosening. All-cause reoperation, revision for aseptic loosening, and revision for instability were estimated using the Kaplan-Meier method. RESULTS: In total, 27 hips were identified with a mean follow-up of 21.6 months. The most common indication for revision was aseptic loosening (48.1%). Preoperatively, 16 (59.3%) hips had Paprosky 3A defects, 7 (25.9%) had Paprosky 3B, 2 (7.4%) had Paprosky 2C defects, and 1 (3.7%) had a Paprosky 2A defect. In total, 4 (14.8%) patients underwent reoperation, 3 (11.1%) for instability and 1 (3.7%) for irrigation and debridement. All patients revised for instability were converted from a dual mobility articulation to a constrained liner. No radiographic loosening was observed at final follow-up. Estimated 3-year survivorships for all-cause reoperation and revision for instability were 84.6% (95% confidence interval: 46.6-95.6%) and 88.5% (95% confidence interval, 48.8-97.6%), respectively. CONCLUSIONS: The modular cup-in-cup technique is a viable option for rTHA patients at increased risk of instability. This technique provides surgeons the flexibility to exchange the articulation if recurrent instability occurs.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42621165/",
+      "score": 78,
+      "score_reasoning": "Large database study (55,670 PJIs) demonstrating significantly lower mortality at high-volume PJI centers with a clear volume threshold, with important implications for patient referral and health system organization.",
+      "bullets": [
+        "In 27 revision total hip arthroplasty cases using a modular cup cemented into a tantalum shell, no radiographic loosening was seen at a mean follow-up of 22 months.",
+        "The technique applies mainly to patients with large acetabular bone loss (Paprosky 3A or 3B in 85% of cases) where standard revision options are limited.",
+        "Surgeons can later swap the bearing surface without removing the well-fixed outer shell, which is useful when instability develops after revision."
+      ]
+    },
+    {
+      "pmid": "42607130",
+      "title": "The Forward Movement: Amplifying Black Voices on Race and Orthopaedics-The Hidden Organizational Tax of Bias.",
+      "authors": [
+        "Owusu-Akyaw K"
+      ],
+      "authors_short": "Owusu-Akyaw K",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42607130/",
+      "score": 76,
+      "score_reasoning": "Large propensity-matched study (4,191 pairs) in Journal of Arthroplasty identifying psoriasis as an independent risk factor for DVT, wound disruption, PJI, and revision after TKA, with direct preoperative counseling implications.",
+      "bullets": [
+        "Black orthopaedic surgeons carry a disproportionate burden of diversity and inclusion work within their institutions, time and effort that goes largely unrecognized and uncompensated.",
+        "This unpaid organizational labor, sometimes called a racial tax, accumulates over a career and contributes to burnout and slower professional advancement among Black surgeons.",
+        "Orthopaedic departments should formally recognize, compensate, and distribute diversity work equitably across faculty rather than defaulting to underrepresented minority colleagues."
+      ]
+    },
+    {
+      "pmid": "42615420",
+      "title": "Outcomes of One-Stage Infected Humerus Nonunion Repair in Patients with Prior Operative Fracture Fixation.",
+      "authors": [
+        "Katzir A",
+        "Bilodeau RE",
+        "Bhadouriya RS",
+        "Kantor AH",
+        "Schlauch A",
+        "Klinger CE",
+        "Page BJ",
+        "Ricci WM"
+      ],
+      "authors_short": "Katzir A, Bilodeau RE, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVE: To examine the clinical outcomes of one-stage repair for infected humeral nonunion following failed prior ORIF. METHODS: Design: Retrospective study. SETTINGS: Tertiary referral hospital. PATIENTS SELECTION CRITERIA: Included were patients with infected humeral nonunion after an initial fixation of fracture, who underwent surgical repair at the study site between 2016-2024. OUTCOME MEASURES AND COMPARISONS: Primary outcomes were union, infection eradication, number of surgeries, and duration of antibiotic therapy. RESULTS: Fifteen patients (80% male) who underwent humeral nonunion repair surgery, with positive intraoperative cultures were included. The mean age was 48.1 years (range 26-70) and 80% were male. Two patients (13.3%) were active smokers, and two (13.3%) had diabetes mellitus. Nine (60%) patients sustained OTA/AO type 12 fractures, four (26.7%) type 11 fractures, and two (13.3%) type 13 fractures. Twelve (80%) had closed fractures and 3 (20%) had open fractures. The most common initial fixation was plate and screw fixation (n=11, 73.3%), followed by intramedullary nail (n=4, 26.7%). Inflammatory markers were normal in seven patients (46.7%), elevated in three (20%), and unavailable in five (33.3%).A one-stage infected nonunion repair was planned for all cases (100%), with plate and screws (n=13, 86.7%), or intramedullary nailing (n=2, 13.3%). Bone graft was used in 13 (86.7%) cases and local antibiotics in two (13.3%). Cutibacterium acnes grew in 80% of cultures, followed by Staphylococcus aureus (13.3%) and Staphylococcus epidermidis (6.7%).Thirteen patients (86.7%) achieved union. In 10 cases (66.7%), the index single-stage repair was sufficient to achieve union, while 3 cases required additional interventions to achieve union. Mean antibiotic treatment duration was 8.1 months (SD 7.1 months, range 1.2-26.4). Two patients (13.3%) developed recurrent infection, and five patients (33.3%) required unplanned reoperations to promote union or treat infection. CONCLUSIONS: This study found a high ultimate union rate (86.7%) for one-stage infected humeral nonunion repair after prior failed osteosynthesis although 1 in 3 patients required unplanned reoperation for recurrent infections or recalcitrant nonunion.Level of Evidence Therapeutic level IV study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42615420/",
+      "score": 70,
+      "score_reasoning": "Multicenter retrospective study of 290 patients across 26 Level 1 trauma centers comparing open vs closed reduction for femoral neck fractures in patients under 50, addressing a critical trauma decision with limited existing evidence.",
+      "bullets": [
+        "One-stage repair of infected humeral nonunion after failed fixation achieved union in 87% of patients, with Cutibacterium acnes the most common organism found.",
+        "One in three patients required an unplanned reoperation for recurrent infection or persistent nonunion despite the single-stage approach.",
+        "For orthopaedic surgeons managing infected humeral nonunion, one-stage repair is a viable strategy but patients should be counseled on a meaningful reoperation risk and prolonged antibiotic courses averaging eight months."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-08-23T03:22:05.597440-07:00"
+}
