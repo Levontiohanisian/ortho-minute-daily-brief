@@ -1,0 +1,302 @@
+{
+  "brief_date": "2026-08-24",
+  "brief_date_display": "Monday, August 24",
+  "candidates": [
+    {
+      "pmid": "42617925",
+      "title": "Increased Risk of Periprosthetic Femoral Fracture with Cementless Collared Metadiaphyseal-Filling Stems Compared to Cemented Fixation for Femoral Neck Fractures in Patients Aged 65 Years or Older: An American Joint Replacement Registry Analysis.",
+      "authors": [
+        "Deckey DG",
+        "Kelly M",
+        "Zaniletti I",
+        "Hegde V",
+        "Springer BD",
+        "Kagan RP",
+        "Bingham JS"
+      ],
+      "authors_short": "Deckey DG, Kelly M, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Cemented femoral fixation is recommended when treating a femoral neck fracture with arthroplasty. Prior studies have shown collared, metadiaphyseal-filling (CMDF) cementless stems to have an equivalent periprosthetic fracture risk compared to cemented stems in primary total hip arthroplasty (THA). This study assessed the associated risk of periprosthetic femoral fracture (PPFx) after hemiarthroplasty or THA for femoral neck fracture comparing CMDF stems to cemented stems utilizing the American Joint Replacement Registry (AJRR). METHODS: All femoral neck fractures in patients aged \u2265 65 years treated with arthroplasty in the AJRR were linked to Centers for Medicare and Medicaid Services data from 2012 to 2022. Patients were included if they received a cementless CMDF stem or a cemented stem. Patient demographics, revision or open reduction and internal fixation (ORIF) for PPFx, and revision for aseptic loosening or dislocation were recorded. Cause-specific Cox proportional hazard models, were used to evaluate the association of stem design with all-cause revision, revision or ORIF due to PPFx, and revision for aseptic loosening or dislocation while adjusting for potential confounders. RESULTS: Compared to cemented stems, cementless CMDF stems were associated with a higher hazard of revision for PPFx (aHR [adjusted hazard ratio] 1.7, 95% CI [confidence interval] 1.1 to 2.7, P = 0.02). Analysis of secondary outcomes indicated that the two groups significantly differed in terms of revision for aseptic loosening, with cementless CMDF stems indicating a much lower event rate than cemented stems (aHR 0.5, 95% CI 0.2 to 0.9, P = 0.04). There were no significant differences found on adjusted analyses of other secondary outcomes. CONCLUSIONS: Cementless CMDF stems were associated with an increased risk of revision for PPFx in the treatment of femoral neck fractures when compared to cemented stems. While this finding supports the use of cemented stems for the treatment of femoral neck fractures, it should be assessed against an increased risk of aseptic loosening when compared to cementless CMDF stems.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42617925/",
+      "score": 78,
+      "score_reasoning": "Large registry study (63,502 cases) from AJRR with high clinical relevance comparing cementless CMDF stems to cemented fixation for femoral neck fractures, published in high-impact Journal of Arthroplasty, with actionable findings directly impacting a common surgical decision.",
+      "bullets": [
+        "In patients 65 and older treated with arthroplasty for femoral neck fracture, cementless collared metadiaphyseal-filling stems carried a 70% higher risk of periprosthetic femoral fracture requiring revision compared to cemented stems.",
+        "Cemented stems had a higher rate of revision for aseptic loosening, but periprosthetic fracture remains the more immediate and consequential complication in this fragile population.",
+        "For elderly patients undergoing hemiarthroplasty or total hip arthroplasty after femoral neck fracture, this registry data supports cemented femoral fixation as the safer choice to reduce fracture risk."
+      ]
+    },
+    {
+      "pmid": "42619022",
+      "title": "Increased Posterior Tibial Slope and Lateral Extra-articular Tenodesis Are Independently Associated With Revision ACLR in a Young High-Risk Population.",
+      "authors": [
+        "van der Wal WA",
+        "de Groot TM",
+        "Tamana L",
+        "Tsoulgkounidis N",
+        "Veraart JT",
+        "Hoogeslag RAG",
+        "van der Hoeven H",
+        "Engelsma Y",
+        "Custers RJH",
+        "Saris DBF"
+      ],
+      "authors_short": "van der Wal WA, de Groot TM, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Increased posterior tibial slope (PTS) has been associated with higher revision rates after anterior cruciate ligament reconstruction (ACLR). Whether the addition of lateral extra-articular tenodesis (LET) mitigates the risk associated with increased PTS is unclear. PURPOSE: To determine the prevalence of increased PTS (\u226512\u00b0) in a young high-risk primary ACLR population and evaluate whether LET is associated with lower revision rates in patients with increased PTS. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: This study included patients aged \u226425 years undergoing primary ACLR across 3 high-volume centers with \u22652 years between surgery and data collection. PTS was measured on lateral radiographs for medial and lateral plateaus. Primary analyses consisted of 4 prespecified multivariable logistic regression models with different PTS operationalizations as continuous predictors per 1\u00b0 increase (medial PTS, lateral PTS, the maximum [PTSmax], and the lateral-medial difference), adjusted for patient and surgical covariates including graft type, with surgical center as a fixed effect. Secondary analyses used PTS dichotomized at 12\u00b0; revision rates were compared between isolated ACLR and ACLR with LET, with the treatment effect quantified as absolute risk reduction and number needed to treat. RESULTS: A total of 780 patients were included; 84 (10.8%) underwent revision ACLR. Increased PTS (\u226512\u00b0) was present in 28.2% of patients and more common in those requiring revision (38.6% vs 27.0%; P = .03). In patients with PTSmax \u226512\u00b0, revision occurred in 21.0% without LET and 9.2% with LET (absolute risk reduction, 11.8% [95% CI, 2.3%-21.3%]; number needed to treat, 9); in patients with PTSmax <12\u00b0, revision occurred in 13.2% without LET and 5.4% with LET (absolute risk reduction, 7.8% [95% CI, 3.0%-12.6%]; number needed to treat, 13). In the 4 prespecified multivariable models with PTS as a continuous predictor, LET was independently associated with substantially lower odds of revision ACLR (odds ratio [OR], 0.37; 95% CI, 0.22-0.62; P < .001). Lateral PTS (OR, 1.09 per 1\u00b0 increase; 95% CI, 1.00-1.18; P = .04) and PTSmax (OR, 1.09; 95% CI, 1.00-1.19; P = .04) were independently associated with revision ACLR. The lateral-medial PTS difference was not associated with revision ACLR. CONCLUSION: In a young high-risk primary ACLR population, increased PTS was present in nearly 30% of patients. LET was associated with a lower risk of revision irrespective of PTS, while increased PTS was independently associated with revision ACLR.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42619022/",
+      "score": 76,
+      "score_reasoning": "High-impact AJSM study with strong methodology (780 patients, multicenter, multivariable regression) addressing clinically critical question of PTS and LET in young high-risk ACLR patients with directly actionable surgical implications.",
+      "bullets": [
+        "In young patients (25 and under) undergoing ACL reconstruction, nearly 30% had a posterior tibial slope of 12 degrees or more, and those patients had a meaningfully higher revision rate than those with a lower slope.",
+        "Adding a lateral extra-articular tenodesis cut the revision rate by about half regardless of tibial slope, with a number needed to treat of 9 in the high-slope group and 13 in the normal-slope group.",
+        "For young, high-risk ACL patients, measuring tibial slope on preoperative radiographs and routinely considering lateral tenodesis are both supported by this data as ways to reduce re-tear risk."
+      ]
+    },
+    {
+      "pmid": "42628629",
+      "title": "Revision risk of cross-linked versus non-crosslinked polyethylene in reverse shoulder arthroplasty: an analysis of 63,502 cases from the Australian Orthopaedic Association National Joint Replacement Registry.",
+      "authors": [
+        "Nguyen TQ",
+        "Gill DRJ",
+        "Corfield S",
+        "McCaul M",
+        "Cass B"
+      ],
+      "authors_short": "Nguyen TQ, Gill DRJ, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: The effect of increased cross linking of modular polyethylene components in primary total stemmed reverse shoulder replacement (rTSA) upon revision rates is unknown outside biomechanical testing. We compared the rate of revision of primary stemmed reverse shoulder replacement with either a highly crosslinked (XLPE) or non-highly crosslinked polyethylene (non-XLPE) glenosphere or humeral cup. MATERIALS AND METHODS: Using data from the Australian Orthopaedic Association National Joint Replacement Registry, all primary rTSA with either polyethylene humeral cups or glenospheres were identified for the period 1 January 2006 to 31 December 2024. The procedures were restricted to the three most common primary diagnoses: osteoarthritis (OA), rotator cuff arthropathy (RCA) and fracture. Within each diagnostic category, procedures were stratified by XLPE or non-XLPE polyethylene type. For each implant type (humeral cups and glenospheres), this created six comparison groups: OA (XLPE vs non-XLPE), RCA (XLPE vs non-XLPE), and fracture (XLPE vs non-XLPE). The cumulative percent revision (CPR) was determined using Kaplan-Meier estimates of survivorship and hazard ratios (HR) from Cox proportional hazard models adjusted for age and sex. A sub analysis from 2015 allowed further adjustment for ASA, BMI, glenosphere size and image derived instrumentation. RESULTS: Of the 28,819 rTSA for OA, 24,779 for RCA and 9,904 for fracture there was an increased risk of revision for non-XLPE compared to XLPE glenospheres for OA from 1.5 years HR=3.21 (95% confidence interval (CI)1.59, 6.47), p=0.001). but not for RCA or fracture. The rate of revision was increased for OA non-XLPE vs XLPE humeral cups, but other diagnoses did not differ (HR=1.30 (95% CI 1.10, 1.54), p=0.002), with the most common reason for revision being infection in the non-XLPE OA cohort. At sub-group analysis, the revision rate of non-XLPE humeral cups was increased compared to XLPE for OA and RCA but not fracture (HR=1.84 (95%CI 1.42, 2.40), p<0.001, and HR=1.47 (95% CI 1.16, 1.86), p=0.001, respectively) by multivariable adjustment. DISCUSSION/CONCLUSION: Changes to the amount of cross-linking to polyethylene bearing surfaces in rTSA are associated with variations in all-cause revision rates depending on the primary diagnosis. Patients with non-XLPE components are associated with a higher revision rate compared with XLPE components when used in stemmed rTSA for OA and RCA (particularly infection requiring revision). While at sub-group analysis the revision risk of rTSA with polyethylene glenosphere constructs is confounded by patient, implant characteristics, and surgeon assistive tools as covariates, the evidence suggests increased revision of rTSA with non-XLPE humeral cups.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42628629/",
+      "score": 75,
+      "score_reasoning": "Large registry-based study (63,502 rTSA cases) from Australian OANJ with high methodological quality comparing XLPE versus non-XLPE in rTSA across three diagnostic categories, providing practice-changing implant selection guidance.",
+      "bullets": [
+        "In over 63,000 reverse shoulder arthroplasty cases, highly cross-linked polyethylene humeral cups had lower revision rates than non-cross-linked cups in patients operated on for osteoarthritis and rotator cuff arthropathy.",
+        "The most common reason for revision in the non-cross-linked group was infection, suggesting a material-related difference in biological response rather than wear alone.",
+        "Surgeons performing reverse shoulder arthroplasty for osteoarthritis or rotator cuff arthropathy should prefer highly cross-linked polyethylene components, as non-cross-linked bearing surfaces are associated with higher all-cause revision risk."
+      ]
+    },
+    {
+      "pmid": "42617924",
+      "title": "Impact of Organism Profile on Ideal Timing of Reimplantation in Patients Undergoing Two-Stage Exchange Arthroplasty.",
+      "authors": [
+        "Tarabichi S",
+        "Paul BR",
+        "Verhey JT",
+        "Braithwaite CL",
+        "Van Schuyver PR",
+        "Deckey DG",
+        "Christopher ZK",
+        "Wyles CC",
+        "Springer BD",
+        "Clarke HD",
+        "Spangehl MJ",
+        "Bingham JS"
+      ],
+      "authors_short": "Tarabichi S, Paul BR, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: To our knowledge, no study to date has examined the association between organism profile and ideal interstage duration in patients undergoing two-stage exchange arthroplasty. The purpose of this study was to evaluate the impact of the type of infecting organism on the optimal timing of reimplantation in this patient population. METHODS: This retrospective study identified 576 patients who had a chronic periprosthetic joint infection (PJI) of the knee and underwent two-stage exchange arthroplasty with a minimum one-year follow-up. A PJI was defined using the 2013 Musculoskeletal Infection Society (MSIS) criteria. Patients who had a time to reimplantation greater than 180 days from resection arthroplasty (n = 76) and those who underwent spacer exchange were excluded (n = 49). Treatment failure was defined as any reoperation for infection or PJI-related mortality. Receiver operator characteristic (ROC) curve analyses were used to identify whether the optimal interstage duration differed by infecting organism. Multivariate regression analyses were performed to identify risk factors for failure. There were 451 patients who were included who had a mean follow-up time of 5.8 years. RESULTS: Of the 451 included patients, 71 (15.7%) patients experienced failure and 380 (84.3%) experienced success. The ROC curve analyses demonstrated that the optimal interstage duration was longest for patients infected with \"high-virulence\" pathogens (129 days), followed by those who had methicillin-sensitive Staphylococcus aureus (MSSA) (117 days), culture negative PJI (98 days), and coagulase-negative Staphylococci (86 days). After controlling for covariates, regression analyses showed that an interstage duration above the identified cutoff for each pathogen group was a predictor of treatment failure (all P < 0.05). CONCLUSION: We found that the ideal interstage duration varied considerably by the type of infecting organism in patients undergoing two-stage exchange. Greater awareness of this data may help guide the optimal timing of reimplantation in this patient population.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42617924/",
+      "score": 74,
+      "score_reasoning": "Directly practice-relevant finding from a major registry (AJRR) that extended oral antibiotic prophylaxis was associated with higher PJI rates in TKA, challenging emerging practice trends with a well-powered propensity-matched database study in the Journal of Arthroplasty.",
+      "bullets": [
+        "In knee PJI treated with two-stage exchange, the optimal time to reimplantation varies by organism: 129 days for high-virulence pathogens, 117 days for MSSA, 98 days for culture-negative PJI, and 86 days for coagulase-negative Staphylococci.",
+        "Waiting beyond the organism-specific cutoff was independently associated with treatment failure across all pathogen groups.",
+        "Surgeons performing two-stage knee revision should tailor reimplantation timing to the specific infecting organism rather than applying a single interval to all patients."
+      ]
+    },
+    {
+      "pmid": "42606828",
+      "title": "Comparison of Patellofemoral and Motion Outcomes Between Unrestricted Kinematic and Mechanical Alignment in Primary Total Knee Arthroplasty: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Siddiqi A",
+        "Yousuf KM",
+        "Boyle K",
+        "Chen AF",
+        "Jacob PB"
+      ],
+      "authors_short": "Siddiqi A, Yousuf KM, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Unrestricted kinematic alignment (KA) in total knee arthroplasty (TKA) seeks to restore patient-specific limb geometry and ligamentous balance, yet uncertainty persists regarding patellofemoral (PF) complications and postoperative interventions. Comparative evidence centered on objective mechanical outcomes remains limited, and prior meta-analyses have included heterogeneous alignment strategies or mixed implant constructs. The purpose of this study was to compare unrestricted KA with mechanical alignment (MA) in primary TKA with respect to PF safety, postoperative motion, and intraoperative soft-tissue release requirements. METHODS: A systematic review and meta-analysis was conducted in accordance with PRISMA guidelines. Randomized and comparative observational studies directly comparing unrestricted KA with MA in primary TKA were eligible without language or date restrictions. Studies were required to report at least 1 predefined objective outcome: postoperative flexion, terminal extension, manipulation under anesthesia (MUA), PF complications, intraoperative soft-tissue releases, or all-cause revision surgery. Data were extracted in duplicate, and random-effects models were used for pooled analyses. Risk of bias was assessed using ROB2 for randomized trials and ROBINS-I for observational studies, and certainty of evidence was graded using GRADE methodology. RESULTS: Seven studies (five randomized trials and two comparative cohorts) comprising 1,068 primary TKAs met inclusion criteria. Compared with MA, KA resulted in greater postoperative flexion (mean difference [MD], 4.58\u00b0; 95% confidence intervals (CI), 1.83\u00b0 to 7.32\u00b0; moderate certainty) and slightly improved terminal extension (MD, -0.99\u00b0; 95% CI, -1.86\u00b0 to -0.12\u00b0; moderate certainty). KA required substantially fewer intraoperative soft-tissue releases (risk ratio [RR], 0.34; 95% CI, 0.24 to 0.49; moderate certainty). No significant differences were observed for PF complications (RR, 1.90; 95% CI, 0.63 to 5.74; low certainty), MUA (RR, 0.47; 95% CI, 0.09 to 2.44; low certainty), or all-cause revision surgery (RR, 1.96; 95% CI, 0.75 to 5.14; low certainty). Sensitivity analyses demonstrated stable effect direction across fixed-effects and random-effects models. DISCUSSION: Unrestricted KA TKA improves postoperative flexion, slightly enhances extension, and markedly reduces soft-tissue releases without increasing early PF complications, MUA, or revision surgery compared with MA TKA. Longer term randomized studies are needed to refine PF-specific risk estimates and assess survivorship. LEVEL OF EVIDENCE: II.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42606828/",
+      "score": 72,
+      "score_reasoning": "High-quality systematic review and meta-analysis of 7 studies (5 RCTs) in JAAOS comparing kinematic vs mechanical alignment TKA on patellofemoral outcomes, providing Level I evidence synthesis on a highly debated topic.",
+      "bullets": [
+        "Kinematic alignment in primary total knee arthroplasty yields about 4.6 degrees more postoperative flexion and slightly better terminal extension compared to mechanical alignment.",
+        "Surgeons using kinematic alignment required intraoperative soft tissue releases roughly two thirds less often than with mechanical alignment, across over 1,000 knees in seven studies.",
+        "Patellofemoral complications, manipulation under anaesthesia, and revision rates were not significantly different between the two techniques, though evidence on these outcomes remains limited."
+      ]
+    },
+    {
+      "pmid": "42613937",
+      "title": "Minimum 5-Year Follow-up After Arthroscopic Latarjet: Outcomes and Complications.",
+      "authors": [
+        "Berge T",
+        "Garratt AM",
+        "Moatshe G",
+        "\u00d8ines AG",
+        "Blich I",
+        "St\u00f8en R",
+        "Ludvigsen TC",
+        "Vuleti\u0107 F",
+        "B\u00f8e B"
+      ],
+      "authors_short": "Berge T, Garratt AM, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: The Latarjet procedure is widely used for recurrent anterior shoulder instability with glenoid bone loss. Arthroscopic techniques are increasing; however, there is limited evidence for mid- to long-term outcomes. PURPOSE: To evaluate clinical outcomes, recurrence rates, and quality of life at a minimum of 5 years' follow-up after undergoing the arthroscopic Latarjet procedure. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: Patients who underwent the arthroscopic Latarjet procedure using double-screw fixation at Oslo University Hospital between 2014 and 2019 were prospectively registered. Descriptive data and Western Ontario Shoulder Instability Index (WOSI) scores were recorded preoperatively and at 1 and 5 years postoperatively. At 5 years, complications and health-related quality of life (HRQoL; EQ-5D-5L) were assessed. RESULTS: Of 107 patients who underwent the arthroscopic Latarjet procedure, 93 cases met the inclusion criteria. After loss to follow-up, 85 cases were included. The median follow-up time was 5.2 years (range, 5.1-9.4 years). The median age at surgery was 27.8 years (range, 15.6-49.8 years), and 78 of 85 (92%) cases were male. Of the 85 cases, 56 (66%) had >10 dislocations before surgery, and 36 (42%) were revision procedures. At the 5-year follow-up, 2 of 85 patients experienced recurrent dislocations, and 8 of 85 reported subluxations. The median WOSI score improved significantly from 51% (IQR, 29.1%-62.4%) preoperatively to 79% (IQR, 62.9%-91.4%) at 5 years (P < .001). The median WOSI score at 1 year was 80% (IQR, 67%-88.4%), with no significant difference between the 1-year and 5-year scores (P = .69). The mean EQ-5D-5L index scores at 5 years were 0.889 \u00b1 0.169 compared to 0.896 \u00b1 0.177 for general population norms, with no significant difference (P = .77). Overall, 87% of patients reported satisfaction with the surgical outcome. Ten patients underwent reoperation due to complications. CONCLUSION: At a minimum 5-year follow-up, the arthroscopic Latarjet procedure resulted in significant improvement in WOSI score, low rates of recurrent dislocation, and high patient satisfaction. The WOSI score remained stable over 1 to 5 years. HRQoL, assessed using the EQ-5D-5L index, was comparable to age- and sex-matched general population norms at 5 years, supporting a satisfactory long-term impact on HRQoL.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42613937/",
+      "score": 71,
+      "score_reasoning": "AJSM prospective cohort study (n=85, median 5.2-year follow-up) providing meaningful long-term outcomes data on arthroscopic Latarjet with low recurrence rates, filling an important evidence gap for a common instability procedure.",
+      "bullets": [
+        "At 5-year follow-up after arthroscopic Latarjet, only 2 of 85 patients had recurrent dislocation and 87% reported satisfaction, including a high-risk group where 42% were revisions and 66% had more than 10 prior dislocations.",
+        "Shoulder function scores improved significantly from surgery and held stable between 1 and 5 years, with quality-of-life scores matching age- and sex-matched population norms at 5 years.",
+        "For young males with recurrent anterior instability and significant bone loss, arthroscopic Latarjet offers durable stability and full quality-of-life recovery out to at least 5 years."
+      ]
+    },
+    {
+      "pmid": "42607130",
+      "title": "The Forward Movement: Amplifying Black Voices on Race and Orthopaedics-The Hidden Organizational Tax of Bias.",
+      "authors": [
+        "Owusu-Akyaw K"
+      ],
+      "authors_short": "Owusu-Akyaw K",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42607130/",
+      "score": 70,
+      "score_reasoning": "Clinically important propensity-matched cohort (4,191 psoriasis patients) in Journal of Arthroplasty demonstrating significantly elevated PJI and revision risk after TKA in psoriasis patients, with direct preoperative risk stratification implications.",
+      "bullets": [
+        "Black orthopaedic surgeons carry a disproportionate burden of diversity and inclusion work within their institutions, on top of their clinical and academic duties.",
+        "This unpaid, unrecognized labor drains time and energy that peers without minority status do not face, widening career advancement gaps.",
+        "Orthopaedic departments should formally recognize and compensate diversity work as part of faculty roles to reduce inequity in career outcomes."
+      ]
+    },
+    {
+      "pmid": "42631014",
+      "title": "Tranexamic Acid Use Is Associated With Lower Rates of Transfusion in Patients Undergoing Revision Total Hip Arthroplasty for Periprosthetic Joint Infection.",
+      "authors": [
+        "Telang SS",
+        "Wier J",
+        "Kumaran P",
+        "Liu SH",
+        "Becerra J",
+        "Lieberman JR",
+        "Heckmann ND"
+      ],
+      "authors_short": "Telang SS, Wier J, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: While tranexamic acid (TXA) is widely used in primary total hip arthroplasty (THA), it has not been studied extensively during revision THA for periprosthetic joint infection (PJI). Since revision procedures for infection are associated with greater intraoperative blood loss and a higher likelihood of transfusion, investigation of TXA use in first-stage revision THA for PJI is warranted to define its impact on postoperative bleeding risk, transfusion requirements, and safety profile. METHODS: Querying a large healthcare database, we identified adult patients between 2016 and 2023 undergoing stage-one revision THA for PJI. Patients who received TXA were subsequently identified. Propensity score matching was used to balance cohorts. Mixed-effects logistic regression models were used to assess primary outcome, transfusion. Secondary outcomes included postoperative bleeding outcomes, wound complications, deep vein thrombosis, and pulmonary embolism. RESULTS: After 1:1 propensity matching, 10,404 patients that had explanation of their THA and placement of an antibiotic spacer were included, with all hospital characteristics, patient demographics, and comorbidities demonstrating standardized mean differences <0.10. TXA-treated patients had significantly lower rates of postoperative transfusion (15.94% vs 17.78%; adjusted odds ratio = 0.86, 95% confidence interval [CI] = 0.76-0.99, P = .030) and wound complications (16.69% vs 22.72%; odds ratio = 0.66, 95% confidence interval = 0.59-0.73). Similar rates were found for aggregate bleeding complications, deep vein thrombosis, and pulmonary embolism in both cohorts. CONCLUSIONS: TXA is associated with a reduction in postoperative transfusion and wound complications in patients undergoing revision THA for PJI.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42631014/",
+      "score": 69,
+      "score_reasoning": "Large propensity-matched database study (10,404 patients) in Arthroplasty Today demonstrating TXA reduces transfusion and wound complications in stage-one revision THA for PJI, addressing a clinically important and underexplored question.",
+      "bullets": [
+        "In over 10,000 patients undergoing first-stage revision hip arthroplasty for periprosthetic joint infection, tranexamic acid reduced postoperative transfusion rates from 17.8% to 15.9%.",
+        "Tranexamic acid also reduced wound complications from 22.7% to 16.7%, with no increase in clot-related events such as deep vein thrombosis or pulmonary embolism.",
+        "Surgeons performing spacer exchange for infected hip arthroplasty should consider routine tranexamic acid use to reduce transfusion need and wound complications."
+      ]
+    },
+    {
+      "pmid": "42621178",
+      "title": "High-Volume Hospitals Are Associated With Lower Rates of Mortality Following Revision Arthroplasty for Periprosthetic Joint Infection.",
+      "authors": [
+        "Wier J",
+        "Culler MW",
+        "Iyer A",
+        "Palmer R",
+        "Telang S",
+        "Lieberman JR",
+        "Heckmann ND"
+      ],
+      "authors_short": "Wier J, Culler MW, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: The relationship between hospital case volume and postoperative morbidity following revision arthroplasty for periprosthetic joint infection (PJI) has not been defined. As such, we sought to compare 90-day postoperative mortality rates among patients undergoing antibiotic spacer placement for PJI of the hip or knee between high- vs low-volume hospitals. MATERIALS AND METHODS: The Premier Healthcare Database was queried from 2016 to 2023 for adult patients undergoing antibiotic spacer placement for PJI. Using the Metropolis-Hastings algorithm, a single hospital volume threshold, below which mortality increased, was identified. Patients were divided by those operated on by high- vs low-volume hospitals. Multivariable logistic regression was conducted to assess odds of 90-day mortality and sepsis. RESULTS: In a cohort of 55,670 PJIs, postoperative mortality was decreased in patients who were operated on by hospitals performing \u226535 antibiotic spacers annually (high volume). The adjusted odds of mortality (adjusted odds ratio = 0.76; 95% confidence interval = 0.65-0.88, P < .001) and sepsis (adjusted odds ratio = 0.69; 95% confidence interval = 0.66-0.73, P < .001) were significantly lower among patients operating at high-volume hospitals. CONCLUSIONS: Patients receiving PJI care at hospitals performing greater than 35 antibiotic spacers annually died less frequently and had improved outcomes than those presenting to lower volume centers. These findings reinforce emerging evidence in support of centralized PJI care centers to improve patient survival.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42621178/",
+      "score": 68,
+      "score_reasoning": "Large hospital volume study (55,670 PJIs) in Arthroplasty Today demonstrating significantly lower mortality at high-volume PJI centers, with strong public health implications for referral patterns.",
+      "bullets": [
+        "Patients who had antibiotic spacer placement for hip or knee periprosthetic joint infection at hospitals doing at least 35 spacers per year had lower 90-day mortality and lower rates of sepsis than those treated at lower volume centers.",
+        "This finding applies to any patient being referred for surgical management of periprosthetic joint infection, regardless of joint.",
+        "When possible, patients with periprosthetic joint infection should be directed to higher volume centres, as hospital case volume is an independent predictor of survival after spacer placement."
+      ]
+    },
+    {
+      "pmid": "42611566",
+      "title": "Minimum 10-year patient-reported outcomes and survivorship after primary hip arthroscopy with interportal capsulotomy without capsular repair for stable femoroacetabular impingement syndrome: Female sex, elevated BMI and T\u00f6nnis grade predict inferior outcomes.",
+      "authors": [
+        "Gosnell GG",
+        "Berzolla E",
+        "Lezak BA",
+        "Mercer NP",
+        "Ruff G",
+        "Morgan AM",
+        "Lott A",
+        "Youm T"
+      ],
+      "authors_short": "Gosnell GG, Berzolla E, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: The purpose of this study was to report minimum 10-year survivorship, patient-reported outcomes (PROs), clinically significant outcome achievement and predictors of outcomes and failure in patients with structurally stable femoroacetabular impingement syndrome (FAIS) who underwent primary hip arthroscopy with interportal capsulotomy without capsular repair. METHODS: A retrospective review was conducted of patients undergoing primary hip arthroscopy for FAIS from 2010 to 2013 with a minimum 10-year follow-up. Exclusion criteria included hip dysplasia, T\u00f6nnis Grade >1, prior ipsilateral hip surgery and unavailable preoperative radiographs. All patients underwent interportal capsulotomy without capsular repair. Outcomes included modified Harris Hip Score (mHHS), Nonarthritic Hip Score (NAHS), minimal clinically important difference (MCID) achievement, survivorship and predictors of PROs and failure. RESULTS: A total of 150 patients were included (62.7% female), with mean follow-up of 11.7\u2009\u00b1\u20091.1 years and mean age of 38.3\u2009\u00b1\u200912.1 years. Ten-year survivorship was 90.7%; 7 patients (4.7%) underwent total hip arthroplasty and 7 (4.7%) underwent revision arthroscopy. mHHS improved from 52.0\u2009\u00b1\u200911.7 to 87.9\u2009\u00b1\u200916.7 (p\u2009<\u20090.001), and NAHS improved from 49.5\u2009\u00b1\u200911.4 to 86.2\u2009\u00b1\u200918.0 (p\u2009<\u20090.001). Patient Acceptable Symptom State (PASS) was achieved by 76.0% of patients for mHHS and 65.3% for NAHS. Female sex and higher body mass index (BMI) were associated with worse 10-year PROs, whereas T\u00f6nnis Grade 1 (p\u2009=\u20090.003) and lower preoperative NAHS (p\u2009=\u20090.034) were associated with failure. CONCLUSION: Primary hip arthroscopy for structurally stable FAIS performed with interportal capsulotomy and without capsular repair demonstrated favourable 10-year outcomes, high PASS achievement and 90.7% survivorship. Clinically, these findings provide long-term benchmarking data for counselling appropriately selected patients with structurally stable hips. Higher BMI and female sex were associated with worse 10-year PROs, while T\u00f6nnis Grade 1 and lower preoperative NAHS were associated with increased failure risk, supporting their use in preoperative risk stratification and shared decision-making. LEVEL OF EVIDENCE: Level IV, retrospective case series (single-surgeon, without comparison group).",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42611566/",
+      "score": 65,
+      "score_reasoning": "Well-powered retrospective cohort (3,577 primary THAs) in Journal of Arthroplasty identifying BMI \u226540 as independently predicting return to OR and infection, with clinically actionable data for patient counseling at institutions without BMI cutoffs.",
+      "bullets": [
+        "Hip arthroscopy for stable femoroacetabular impingement syndrome without capsular repair achieves 90.7% survivorship and meaningful pain relief in over 90% of patients at nearly 12 years.",
+        "Female sex and elevated BMI predict worse long-term patient-reported outcomes, while Tonnis grade 1 and lower preoperative function predict higher conversion or revision rates.",
+        "These 10-year benchmarks support using sex, BMI, and Tonnis grade in preoperative counselling to set realistic expectations before hip arthroscopy."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-08-24T03:35:38.529319-07:00"
+}
