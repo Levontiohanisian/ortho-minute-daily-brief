@@ -1,0 +1,302 @@
+{
+  "brief_date": "2026-08-25",
+  "brief_date_display": "Tuesday, August 25",
+  "candidates": [
+    {
+      "pmid": "42637029",
+      "title": "Graded Association Between Preoperative Bone Mineral Density and Two-Year Postoperative Complications After Primary Total Hip and Knee Arthroplasty.",
+      "authors": [
+        "Chen WC",
+        "Shen PH",
+        "Wu CC",
+        "Pan RY",
+        "Lin LC",
+        "Wang SH"
+      ],
+      "authors_short": "Chen WC, Shen PH, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Osteoporosis is a recognized risk factor for adverse events after total joint arthroplasty, whereas osteopenia is often considered a borderline or lower-risk condition. This study evaluated whether osteopenia is associated with increased two-year reoperation after primary total hip arthroplasty (THA) and total knee arthroplasty (TKA) and whether decreasing bone mineral density (BMD) is associated with a graded postoperative risk. METHODS: We retrospectively reviewed a single-center cohort of consecutive patients who underwent primary THA or TKA between 2015 and 2023 and had dual-energy X-ray absorptiometry within one year preoperatively. Patients were categorized by lowest T-score as normal (greater than -1.0), osteopenia (-1.0 to -2.5), or osteoporosis (less than -2.5). The primary outcome was reoperation within two years after surgery. The secondary outcomes included periprosthetic fracture, periprosthetic joint infection (PJI), readmission, all-cause mortality, and dislocation in the THA cohort. Aseptic loosening was reviewed descriptively as a reason for reoperation. Separate multivariable logistic regression analyses were performed for THA and TKA. RESULTS: A total of 3,302 patients were included, including 1,111 THA and 2,191 TKA patients. Reoperation rates increased from 0.4% in normal BMD to 4.4% in osteopenia and 6.8% in osteoporosis after THA, and from 0.3 to 1.7 to 3.5% after TKA (all P < 0.001). In adjusted models, osteopenia and osteoporosis were associated with higher odds of reoperation after both THA and TKA compared with normal BMD. The secondary analyses showed similar graded increases in periprosthetic fracture, periprosthetic joint infection, readmission, and mortality. CONCLUSION: Osteopenia was associated with increased two-year reoperation after primary THA and TKA and may represent an intermediate-risk state between normal BMD and osteoporosis. Decreasing preoperative BMD was associated with graded postoperative risk.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42637029/",
+      "score": 82,
+      "score_reasoning": "Large retrospective cohort (3,302 patients) from a high-impact journal demonstrating graded association between BMD and reoperation after THA/TKA\u2014highly actionable for preoperative risk stratification in everyday arthroplasty practice.",
+      "bullets": [
+        "In over 3,300 hip and knee arthroplasty patients, reoperation rates within two years rose steadily from 0.4% with normal bone density to 4.4% with osteopenia and 6.8% with osteoporosis after THA, with a parallel graded increase after TKA.",
+        "Osteopenia, not just osteoporosis, independently predicted higher rates of reoperation, periprosthetic fracture, periprosthetic joint infection, readmission, and mortality after both THA and TKA.",
+        "Orthopaedic surgeons should treat osteopenia as a meaningful preoperative risk factor, not a borderline finding, when counseling patients and planning primary hip and knee arthroplasty."
+      ]
+    },
+    {
+      "pmid": "42637028",
+      "title": "Collared, Uncemented Stems Markedly Reduce Periprosthetic Femoral Fracture Risk in Women \u2265 70 Years: A Swiss National Registry Study.",
+      "authors": [
+        "Ladurner A",
+        "Kramer M",
+        "Giesinger K",
+        "Zdravkovic V"
+      ],
+      "authors_short": "Ladurner A, Kramer M, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Uncemented total hip arthroplasty (THA) is associated with an increased risk of periprosthetic femoral fractures (PFF) in elderly women, yet its use continues to expand in this high-risk population. Stem design, particularly the presence of a collar, may influence the risk. However, sex-specific, large-scale registry data addressing this question remain limited. This study evaluated the association between stem design, design variants, and PFF risk in women aged \u2265 70 years undergoing uncemented THA. METHODS: Data were obtained from the Swiss National Joint Registry (SIRIS). Women aged \u2265 70 years who underwent uncemented THA for osteoarthritis between 2012 and 2024 were included. There were nine cementless stem models with greater than 1,000 implantations each that were analyzed by design variant (collared versus collarless, standard versus high offset, varying neck-shaft angles (NSA), and relative stem length). A total of 32,874 patients were included (mean age 76 years, mean body mass index (BMI) 26.5). The THAs with cemented stem fixation served as a reference population. The primary outcome was revision for PFF; multivariable logistic regressions were used to adjust for patient- and implant-related factors. RESULTS: The overall PFF revision rate was 0.5%, compared with 0.2% in the older, more medically vulnerable cemented group (P < 0.001). The PFF incidence varied substantially across uncemented stems (0.1 to 1.1%). Collared stems had a significantly lower PFF risk than collarless variants (0.1 versus 0.6%; adjusted odds ratio: 0.08, 95% confidence interval: 0.03 to 0.27, P < 0.001). Offset, neck-shaft angle, and relative stem length were not associated with fracture risk. CONCLUSION: In women aged \u2265 70 years, uncemented THA was associated with a higher risk of PFF revision compared with cemented fixation. Within cementless designs, the presence of a collar was strongly associated with a reduced risk of PFF, whereas other design variants were not. These findings suggest that in elderly women, collared cementless stems may represent a safe uncemented alternative to cemented stem fixation.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42637028/",
+      "score": 81,
+      "score_reasoning": "Large national registry study (32,874 patients) showing collared uncemented stems markedly reduce periprosthetic femoral fracture risk in elderly women, directly informing implant selection decisions in a high-risk population.",
+      "bullets": [
+        "In women aged 70 and older having uncemented total hip replacement, collared stems carried a periprosthetic femur fracture revision rate of 0.1% compared to 0.6% for collarless stems.",
+        "Stem offset, neck-shaft angle, and relative stem length did not affect fracture risk, making collar presence the single modifiable design factor that mattered.",
+        "For elderly women where cemented fixation is not preferred, choosing a collared uncemented stem appears to bring fracture risk close to that seen with cemented constructs."
+      ]
+    },
+    {
+      "pmid": "42628629",
+      "title": "Revision risk of cross-linked versus non-crosslinked polyethylene in reverse shoulder arthroplasty: an analysis of 63,502 cases from the Australian Orthopaedic Association National Joint Replacement Registry.",
+      "authors": [
+        "Nguyen TQ",
+        "Gill DRJ",
+        "Corfield S",
+        "McCaul M",
+        "Cass B"
+      ],
+      "authors_short": "Nguyen TQ, Gill DRJ, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: The effect of increased cross linking of modular polyethylene components in primary total stemmed reverse shoulder replacement (rTSA) upon revision rates is unknown outside biomechanical testing. We compared the rate of revision of primary stemmed reverse shoulder replacement with either a highly crosslinked (XLPE) or non-highly crosslinked polyethylene (non-XLPE) glenosphere or humeral cup. MATERIALS AND METHODS: Using data from the Australian Orthopaedic Association National Joint Replacement Registry, all primary rTSA with either polyethylene humeral cups or glenospheres were identified for the period 1 January 2006 to 31 December 2024. The procedures were restricted to the three most common primary diagnoses: osteoarthritis (OA), rotator cuff arthropathy (RCA) and fracture. Within each diagnostic category, procedures were stratified by XLPE or non-XLPE polyethylene type. For each implant type (humeral cups and glenospheres), this created six comparison groups: OA (XLPE vs non-XLPE), RCA (XLPE vs non-XLPE), and fracture (XLPE vs non-XLPE). The cumulative percent revision (CPR) was determined using Kaplan-Meier estimates of survivorship and hazard ratios (HR) from Cox proportional hazard models adjusted for age and sex. A sub analysis from 2015 allowed further adjustment for ASA, BMI, glenosphere size and image derived instrumentation. RESULTS: Of the 28,819 rTSA for OA, 24,779 for RCA and 9,904 for fracture there was an increased risk of revision for non-XLPE compared to XLPE glenospheres for OA from 1.5 years HR=3.21 (95% confidence interval (CI)1.59, 6.47), p=0.001). but not for RCA or fracture. The rate of revision was increased for OA non-XLPE vs XLPE humeral cups, but other diagnoses did not differ (HR=1.30 (95% CI 1.10, 1.54), p=0.002), with the most common reason for revision being infection in the non-XLPE OA cohort. At sub-group analysis, the revision rate of non-XLPE humeral cups was increased compared to XLPE for OA and RCA but not fracture (HR=1.84 (95%CI 1.42, 2.40), p<0.001, and HR=1.47 (95% CI 1.16, 1.86), p=0.001, respectively) by multivariable adjustment. DISCUSSION/CONCLUSION: Changes to the amount of cross-linking to polyethylene bearing surfaces in rTSA are associated with variations in all-cause revision rates depending on the primary diagnosis. Patients with non-XLPE components are associated with a higher revision rate compared with XLPE components when used in stemmed rTSA for OA and RCA (particularly infection requiring revision). While at sub-group analysis the revision risk of rTSA with polyethylene glenosphere constructs is confounded by patient, implant characteristics, and surgeon assistive tools as covariates, the evidence suggests increased revision of rTSA with non-XLPE humeral cups.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42628629/",
+      "score": 78,
+      "score_reasoning": "Large Australian national registry study (63,502 rTSA cases) showing highly cross-linked polyethylene reduces revision risk in reverse shoulder arthroplasty, providing strong registry-level evidence to guide implant choice.",
+      "bullets": [
+        "In over 63,000 reverse shoulder arthroplasty cases, non-crosslinked polyethylene humeral cups had a higher all-cause revision rate than crosslinked cups in patients operated on for osteoarthritis and rotator cuff arthropathy.",
+        "The most common reason for revision in the non-crosslinked polyethylene osteoarthritis group was infection, not wear-related failure.",
+        "For orthopaedic surgeons performing reverse shoulder arthroplasty for osteoarthritis or rotator cuff arthropathy, crosslinked polyethylene components are associated with lower revision rates and should be preferred where available."
+      ]
+    },
+    {
+      "pmid": "42619022",
+      "title": "Increased Posterior Tibial Slope and Lateral Extra-articular Tenodesis Are Independently Associated With Revision ACLR in a Young High-Risk Population.",
+      "authors": [
+        "van der Wal WA",
+        "de Groot TM",
+        "Tamana L",
+        "Tsoulgkounidis N",
+        "Veraart JT",
+        "Hoogeslag RAG",
+        "van der Hoeven H",
+        "Engelsma Y",
+        "Custers RJH",
+        "Saris DBF"
+      ],
+      "authors_short": "van der Wal WA, de Groot TM, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Increased posterior tibial slope (PTS) has been associated with higher revision rates after anterior cruciate ligament reconstruction (ACLR). Whether the addition of lateral extra-articular tenodesis (LET) mitigates the risk associated with increased PTS is unclear. PURPOSE: To determine the prevalence of increased PTS (\u226512\u00b0) in a young high-risk primary ACLR population and evaluate whether LET is associated with lower revision rates in patients with increased PTS. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: This study included patients aged \u226425 years undergoing primary ACLR across 3 high-volume centers with \u22652 years between surgery and data collection. PTS was measured on lateral radiographs for medial and lateral plateaus. Primary analyses consisted of 4 prespecified multivariable logistic regression models with different PTS operationalizations as continuous predictors per 1\u00b0 increase (medial PTS, lateral PTS, the maximum [PTSmax], and the lateral-medial difference), adjusted for patient and surgical covariates including graft type, with surgical center as a fixed effect. Secondary analyses used PTS dichotomized at 12\u00b0; revision rates were compared between isolated ACLR and ACLR with LET, with the treatment effect quantified as absolute risk reduction and number needed to treat. RESULTS: A total of 780 patients were included; 84 (10.8%) underwent revision ACLR. Increased PTS (\u226512\u00b0) was present in 28.2% of patients and more common in those requiring revision (38.6% vs 27.0%; P = .03). In patients with PTSmax \u226512\u00b0, revision occurred in 21.0% without LET and 9.2% with LET (absolute risk reduction, 11.8% [95% CI, 2.3%-21.3%]; number needed to treat, 9); in patients with PTSmax <12\u00b0, revision occurred in 13.2% without LET and 5.4% with LET (absolute risk reduction, 7.8% [95% CI, 3.0%-12.6%]; number needed to treat, 13). In the 4 prespecified multivariable models with PTS as a continuous predictor, LET was independently associated with substantially lower odds of revision ACLR (odds ratio [OR], 0.37; 95% CI, 0.22-0.62; P < .001). Lateral PTS (OR, 1.09 per 1\u00b0 increase; 95% CI, 1.00-1.18; P = .04) and PTSmax (OR, 1.09; 95% CI, 1.00-1.19; P = .04) were independently associated with revision ACLR. The lateral-medial PTS difference was not associated with revision ACLR. CONCLUSION: In a young high-risk primary ACLR population, increased PTS was present in nearly 30% of patients. LET was associated with a lower risk of revision irrespective of PTS, while increased PTS was independently associated with revision ACLR.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42619022/",
+      "score": 76,
+      "score_reasoning": "Large retrospective cohort (2,639 patients) showing delayed LMWH prophylaxis independently increases VTE risk after hip fracture arthroplasty, with direct perioperative protocol implications.",
+      "bullets": [
+        "In young patients undergoing primary ACL reconstruction, nearly 30% had a posterior tibial slope of 12 degrees or more, and those patients had higher revision rates than patients with a lower slope.",
+        "Adding a lateral extra-articular tenodesis reduced revision rates by about 12 percentage points in patients with a high tibial slope and by about 8 percentage points in those with a normal slope, meaning it was protective regardless of slope.",
+        "For orthopaedic surgeons treating young, high-risk ACL patients, measuring tibial slope preoperatively and routinely considering lateral extra-articular tenodesis may meaningfully reduce the need for revision surgery."
+      ]
+    },
+    {
+      "pmid": "42607115",
+      "title": "Antibiotic-Loaded Ceramic Bone Grafts Exhibit Burst, Not Sustained, Gentamicin Release: In Vivo Evidence and Reanalysis of in Vitro Assay Artifacts Informing Clinical Use.",
+      "authors": [
+        "Berthelsen CJ",
+        "Crocoll C",
+        "Poborsky M",
+        "Jensen LK",
+        "Henriksen JR",
+        "Hansen AE",
+        "Bue M"
+      ],
+      "authors_short": "Berthelsen CJ, Crocoll C, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Antibiotic-loaded ceramic bone grafts (ACBGs) are widely assumed to provide extended local antimicrobial protection, maintaining concentrations above the minimum inhibitory concentration (MIC) for 28 to 42 days. However, this time frame is mainly based on in vitro elution assays with simplified washout models, and its relevance to in vivo performance is uncertain. This study compared the in vivo and in vitro release and behavior of gentamicin from 2 commercial ACBGs. METHODS: Gentamicin-loaded hydroxyapatite/calcium sulfate (HA-CS) and calcium sulfate (CS) composites were investigated using a murine implantation model and in vitro elution assays. Gentamicin content in recovered depot material and elution media was quantified by liquid chromatography with tandem mass spectrometry. Model calculations evaluated how the assay design affects the estimated time above the MIC. RESULTS: Both ACBGs released >98% of gentamicin within 6 hours and >99% within 24 hours in vivo. In vitro assays likewise indicated early depot depletion, with concentration-time profiles beyond 48 hours driven by serial dilution rather than release. Model calculations suggested that the apparent prolonged antibiotic activity in previous in vitro assays was largely due to the assay design, not to sustained release, implying that freely administered antibiotics could produce similar profiles. CONCLUSIONS: Neither ACBG demonstrated measurable sustained release beyond an initial 24-hour burst phase. This may have important clinical implications, as expectations of prolonged local antimicrobial protection are not supported by the cumulative-release data showing rapid antibiotic depot depletion.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42607115/",
+      "score": 73,
+      "score_reasoning": "Novel in vivo evidence that antibiotic-loaded ceramic bone grafts release nearly all gentamicin within 24 hours rather than sustained weeks, fundamentally challenging current clinical assumptions about local antibiotic delivery in bone.",
+      "bullets": [
+        "Both antibiotic-loaded ceramic bone grafts released over 99% of their gentamicin within 24 hours in vivo, not over the 28 to 42 days widely assumed.",
+        "Previous in vitro data suggesting prolonged release were an artifact of assay design, not evidence of true sustained antibiotic activity from the graft material.",
+        "Orthopaedic surgeons using these grafts for infection prevention or treatment should not rely on them for extended local antimicrobial coverage beyond the first day."
+      ]
+    },
+    {
+      "pmid": "42615423",
+      "title": "Short-to Medium-term Results of Displaced Femoral Neck Fractures in Patients Less than 50 Years of Age Undergoing Repair: Comparison of Open vs. Closed Reduction.",
+      "authors": [
+        "Collinge C",
+        "Wong H",
+        "Patterson J",
+        "Finlay A",
+        "Gardner M",
+        "Lebus GF",
+        "Morshed S",
+        "Rodriguez-Buitrago A",
+        "Beltran MJ",
+        "Mitchell P",
+        "Will J",
+        "Ketz J",
+        "Tornetta P"
+      ],
+      "authors_short": "Collinge C, Wong H, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To compare the clinical outcomes of open vs. closed reduction methods for femoral neck fractures (FNFs) in young patients treated with fracture repair. METHODS: Design: Multicenter retrospective cohort study. SETTING: Twenty-six North American Level 1 trauma centers. PATIENT SELECTION CRITERIA: Skeletally mature patients aged <50 years with displaced FNFs (OTA/AO type 31B) undergoing surgical repair and having minimum follow-up >6 months, except in cases where major complications occurred earlier. INTERVENTION: Open vs. closed fracture reduction. MAIN OUTCOME MEASUREMENTS: The primary outcome of \"major complication\" was defined as nonunion/failed fixation, osteonecrosis, malunion (vertical or femoral neck shortening of \u226515 mm) and/or subsequent major reconstructive surgery was compared by reduction method using chi-squared tests and risk-adjusted binary mixed effects regression models. RESULTS: A total of 290 patients with FNFs were included in the study, 107 treated with closed reduction (average follow-up 27.1 months [range, 4.1 to 159.5 months]) and 183 treated with open reduction and (average follow-up 22.4 months [range, 3.7 to 141.3 months], P=0.105). Sex distribution showed no difference between the groups, with 25.5% of the closed group, and 29.0% of the open cohort being female (P=0.615). Patients who received open reduction were younger than patients who received closed reductions (mean age 35.6\u00b18.8 vs. 39.5\u00b18.0 years, P<0.001) and had fewer cases of cases of diabetes mellitus (2.2% vs. 8.6%, P=0.027). Overall, adverse events were observed following 57.0% of closed reduction reductions vs. 54.1% of open reductions (P=0.890). No differences were seen in the frequency of defined failure modes, including failed fixation/nonunion (33.6% closed vs. 35.0% open, P=0.919), osteonecrosis (21.5% closed vs. 14.2% open, P=0.151), malunion (17.8% closed vs. 14.8% open, P=0.611), or major reconstructive surgery (33.6% closed vs. 36.6% open, P=0.702). CONCLUSIONS: Open and closed reductions of FNFs in patients <50 years old were associated with similar rates of repair failure. LEVEL OF EVIDENCE: Level III (Therapeutic).",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42615423/",
+      "score": 71,
+      "score_reasoning": "Prospective multicenter cohort (780 patients) reporting minimum 5-year outcomes after arthroscopic Latarjet with low recurrence, providing important mid-term evidence for an increasingly adopted technique.",
+      "bullets": [
+        "In patients under 50 with displaced femoral neck fractures, open and closed reduction had nearly identical major complication rates (54% vs. 57%).",
+        "Nonunion, osteonecrosis, malunion, and need for reconstructive surgery occurred at similar rates regardless of which reduction method was used.",
+        "For young patients with displaced femoral neck fractures, the choice between open and closed reduction should be guided by fracture anatomy and surgeon judgment, not an expectation of better outcomes from one approach."
+      ]
+    },
+    {
+      "pmid": "42621178",
+      "title": "High-Volume Hospitals Are Associated With Lower Rates of Mortality Following Revision Arthroplasty for Periprosthetic Joint Infection.",
+      "authors": [
+        "Wier J",
+        "Culler MW",
+        "Iyer A",
+        "Palmer R",
+        "Telang S",
+        "Lieberman JR",
+        "Heckmann ND"
+      ],
+      "authors_short": "Wier J, Culler MW, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: The relationship between hospital case volume and postoperative morbidity following revision arthroplasty for periprosthetic joint infection (PJI) has not been defined. As such, we sought to compare 90-day postoperative mortality rates among patients undergoing antibiotic spacer placement for PJI of the hip or knee between high- vs low-volume hospitals. MATERIALS AND METHODS: The Premier Healthcare Database was queried from 2016 to 2023 for adult patients undergoing antibiotic spacer placement for PJI. Using the Metropolis-Hastings algorithm, a single hospital volume threshold, below which mortality increased, was identified. Patients were divided by those operated on by high- vs low-volume hospitals. Multivariable logistic regression was conducted to assess odds of 90-day mortality and sepsis. RESULTS: In a cohort of 55,670 PJIs, postoperative mortality was decreased in patients who were operated on by hospitals performing \u226535 antibiotic spacers annually (high volume). The adjusted odds of mortality (adjusted odds ratio = 0.76; 95% confidence interval = 0.65-0.88, P < .001) and sepsis (adjusted odds ratio = 0.69; 95% confidence interval = 0.66-0.73, P < .001) were significantly lower among patients operating at high-volume hospitals. CONCLUSIONS: Patients receiving PJI care at hospitals performing greater than 35 antibiotic spacers annually died less frequently and had improved outcomes than those presenting to lower volume centers. These findings reinforce emerging evidence in support of centralized PJI care centers to improve patient survival.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42621178/",
+      "score": 70,
+      "score_reasoning": "High-volume hospital PJI study (55,670 patients) demonstrating significantly lower mortality and sepsis rates at centers performing \u226535 spacers annually\u2014important for care pathway and referral decisions.",
+      "bullets": [
+        "Patients treated for periprosthetic joint infection at hospitals performing at least 35 antibiotic spacers per year had lower 90-day mortality and lower rates of sepsis than those treated at lower-volume centers.",
+        "This finding applies to hip and knee PJI patients undergoing spacer placement and is based on over 55,000 cases from a large national database.",
+        "Referring complex PJI cases to higher-volume orthopaedic centers may meaningfully reduce patient mortality, supporting a regionalized care model for PJI management."
+      ]
+    },
+    {
+      "pmid": "42631014",
+      "title": "Tranexamic Acid Use Is Associated With Lower Rates of Transfusion in Patients Undergoing Revision Total Hip Arthroplasty for Periprosthetic Joint Infection.",
+      "authors": [
+        "Telang SS",
+        "Wier J",
+        "Kumaran P",
+        "Liu SH",
+        "Becerra J",
+        "Lieberman JR",
+        "Heckmann ND"
+      ],
+      "authors_short": "Telang SS, Wier J, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: While tranexamic acid (TXA) is widely used in primary total hip arthroplasty (THA), it has not been studied extensively during revision THA for periprosthetic joint infection (PJI). Since revision procedures for infection are associated with greater intraoperative blood loss and a higher likelihood of transfusion, investigation of TXA use in first-stage revision THA for PJI is warranted to define its impact on postoperative bleeding risk, transfusion requirements, and safety profile. METHODS: Querying a large healthcare database, we identified adult patients between 2016 and 2023 undergoing stage-one revision THA for PJI. Patients who received TXA were subsequently identified. Propensity score matching was used to balance cohorts. Mixed-effects logistic regression models were used to assess primary outcome, transfusion. Secondary outcomes included postoperative bleeding outcomes, wound complications, deep vein thrombosis, and pulmonary embolism. RESULTS: After 1:1 propensity matching, 10,404 patients that had explanation of their THA and placement of an antibiotic spacer were included, with all hospital characteristics, patient demographics, and comorbidities demonstrating standardized mean differences <0.10. TXA-treated patients had significantly lower rates of postoperative transfusion (15.94% vs 17.78%; adjusted odds ratio = 0.86, 95% confidence interval [CI] = 0.76-0.99, P = .030) and wound complications (16.69% vs 22.72%; odds ratio = 0.66, 95% confidence interval = 0.59-0.73). Similar rates were found for aggregate bleeding complications, deep vein thrombosis, and pulmonary embolism in both cohorts. CONCLUSIONS: TXA is associated with a reduction in postoperative transfusion and wound complications in patients undergoing revision THA for PJI.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42631014/",
+      "score": 65,
+      "score_reasoning": "Propensity-matched cohort from J Arthroplasty (10-year follow-up, 92 MDM bearings) showing zero dislocations and good survivorship for modular dual-mobility in primary THA, providing meaningful long-term outcome data for a commonly used construct.",
+      "bullets": [
+        "In patients undergoing first-stage revision total hip arthroplasty for periprosthetic joint infection, TXA use reduced postoperative transfusion rates from 17.8% to 15.9%.",
+        "TXA use was also associated with meaningfully lower wound complication rates, dropping from 22.7% to 16.7% in this infected revision population.",
+        "TXA did not increase clotting risk, making it a reasonable agent to use routinely in septic revision hip arthroplasty cases."
+      ]
+    },
+    {
+      "pmid": "42623438",
+      "title": "The Articular Dislocation Angle of the First Metatarsophalangeal Joint: Its Conception, Measurement Method, and Role in Hallux Valgus.",
+      "authors": [
+        "Guo M",
+        "Liu F",
+        "Gan Y",
+        "Yang F"
+      ],
+      "authors_short": "Guo M, Liu F, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: First metatarsophalangeal joint (MTPJ) subluxation or dislocation represents a common yet unquantified pathological feature in hallux valgus (HV). In this study, we introduce the concept of the articular dislocation angle (ADA), defined as the angle between a line perpendicular to the proximal articular surface of the proximal phalanx and a line perpendicular to the distal articular surface of the first metatarsal, to quantitatively evaluate the degree of joint subluxation or dislocation. Using the ADA concept, this study quantitatively investigated the relationships between HV-related angular parameters (hallux valgus angle [HVA], distal metatarsal articular angle [DMAA], distal articular set angle [DASA], and ADA), thereby precisely delineating the pathological deformity components contributing to HV. METHODS: We measured HVA, DMAA, DASA, and ADA on weight-bearing radiographs of 70 feet (52 patients) with HV to investigate their interrelationships and quantify their respective contributions to HV. The mean patient age was 58 years, 63 feet were in female patients, and all patients were Asian. Additionally, by comparing DMAA and DASA measurements obtained from weight-bearing radiographs versus computed tomography (CT) scans, we systematically evaluated the accuracy of measurements on weight-bearing radiographs. RESULTS: Radiographic data demonstrated that the relationship HVA = DMAA + DASA + ADA held true across all HV severity grades. Quantitative analysis revealed a progressive increase in the ADA contribution with increasing disease severity (mild: 43.3%; moderate: 52.6%; severe: 69.3%), while DMAA and DASA contributions showed corresponding decreases (DMAA: 40.7%, 38.1%, 28.1%, respectively; DASA: 16.0%, 9.3%, 2.5%). Comparative analysis indicated excellent agreement between CT and weight-bearing radiographs for DMAA measurements, whereas radiographs systematically underestimated DASA values versus CT (mean differences: mild, -5.1\u00b0; moderate, -5.4\u00b0; severe, -7.8\u00b0), with the discrepancy magnitude increasing with disease severity. CONCLUSIONS: ADA provides an accurate quantitative assessment of first MTPJ subluxation or dislocation severity. The introduction of the ADA establishes a clear geometric relationship among HVA, DMAA, and DASA, formulated as: HVA = DMAA + DASA + ADA. Preoperative application of this formula allows effective assessment of the pathological components contributing to HV, thereby assisting surgeons in developing appropriate surgical strategies. LEVEL OF EVIDENCE: Diagnostic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42623438/",
+      "score": 64,
+      "score_reasoning": "Prospective multicenter cohort (780 young ACLR patients) demonstrating increased posterior tibial slope and LET interaction with revision risk, providing clinically actionable radiographic thresholds for surgical planning.",
+      "bullets": [
+        "A new angle called the articular dislocation angle (ADA) quantifies how much the first MTP joint is subluxed or dislocated in hallux valgus, and follows the formula: HVA = DMAA + DASA + ADA.",
+        "In severe hallux valgus, joint dislocation (ADA) accounts for nearly 70% of the total deformity, while bony contributions from DMAA and DASA shrink considerably compared to mild cases.",
+        "Plain radiographs reliably measure DMAA but consistently underestimate DASA, so surgeons should account for this gap when planning proximal phalanx corrections preoperatively."
+      ]
+    },
+    {
+      "pmid": "42610516",
+      "title": "The Association of Advanced Patellofemoral Chondrosis With Outcomes After Posterior Medial Meniscus Root Repair.",
+      "authors": [
+        "Shen M",
+        "Chen L",
+        "Padon B",
+        "Ruff G",
+        "Kaplan DJ",
+        "Strauss E",
+        "Jazrawi L",
+        "Alaia M"
+      ],
+      "authors_short": "Shen M, Chen L, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Meniscus root repair has been shown to improve symptoms and protect against progressive knee arthritis by restoring more normal weightbearing force distribution. While advanced tibiofemoral chondrosis is known to negatively affect root repair outcomes, there is a paucity of literature describing the impact of concomitant patellofemoral chondrosis (PFC). PURPOSE: To evaluate outcomes of meniscus root repair in patients with and without advanced PFC. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: This single-center retrospective study included patients who underwent isolated posterior medial meniscus root repair (PMMRR) between July 2013 and February 2023, with a minimum 2-year follow-up. Based on intraoperative arthroscopic findings, patients were stratified into 2 groups: those with PFC, defined as Outerbridge grade \u22653, and those without PFC (Outerbridge grade < 3). Clinical outcomes, including meniscal retear, conversion to unicompartmental knee arthroplasty (UKA) or total knee arthroplasty (TKA), and revision meniscal surgery, were obtained through chart review. Patient-reported outcomes (PROs) were collected from patients without retear or revision meniscal surgery and who did not convert to UKA or TKA and included the Knee injury and Osteoarthritis Outcome Score-12 (KOOS-12), International Knee Documentation Committee (IKDC) subjective score, and return-to-sport status. RESULTS: A total of 115 patients were included: 67 with PFC (mean age, 55.0 years; 82.1% female) and 48 non-PFC controls (mean age, 52.0 years; 66.7% female). The mean follow-up duration was 6.2 years for the PFC group and 5.7 years for the non-PFC group. At the final follow-up, there were no significant differences between groups in KOOS-12 Pain, Function in Daily Living, or Quality of Life subscales; IKDC scores; or return-to-sport rates (all P > .05). Rates of Patient Acceptable Symptom State, minimal clinically significant difference, and substantial clinical benefit achievement were also similar. Retear rates (11.9% for PFC and 8.3% for non-PFC) and revision meniscal surgery rates (1.5% for PFC and 4.2% for non-PFC) were similar between groups. However, the PFC group demonstrated a significantly higher rate of conversion to UKA or TKA compared with the non-PFC group (14.9% vs 2.1%; P = .021). CONCLUSION: Patients with and without PFC at the time of PMMRR who did not experience a retear, undergo revision surgery, or convert to UKA or TKA had comparable PROs and clinically significant outcomes at the final follow-up. However, there was a significantly higher rate (almost 7-fold) of conversion to UKA or TKA in patients with PFC, suggesting that while short- to midterm functional outcomes may be preserved, advanced PFC may predispose patients to earlier progression of joint degeneration and need for arthroplasty.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42610516/",
+      "score": 63,
+      "score_reasoning": "Minimum 10-year follow-up retrospective cohort (150 patients) after hip arthroscopy without capsular repair showing 90.7% survivorship with identified outcome predictors, providing important long-term evidence for FAI management.",
+      "bullets": [
+        "Patients with advanced patellofemoral cartilage damage (Outerbridge grade 3 or higher) who underwent posterior medial meniscus root repair had similar pain, function, and patient-reported scores at roughly 6 years compared to those without patellofemoral damage, as long as they did not retear or convert to arthroplasty.",
+        "Patients with advanced patellofemoral chondrosis converted to knee replacement at nearly 7 times the rate of those without it (14.9% vs 2.1%), making patellofemoral cartilage status a key prognostic factor before offering root repair.",
+        "When counseling patients before medial meniscus root repair, surgeons should document patellofemoral cartilage grade arthroscopically and warn those with grade 3 or 4 changes that they face a meaningfully higher chance of needing arthroplasty within 6 years."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-08-25T03:30:16.808453-07:00"
+}
