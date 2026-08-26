@@ -1,0 +1,300 @@
+{
+  "brief_date": "2026-08-26",
+  "brief_date_display": "Wednesday, August 26",
+  "candidates": [
+    {
+      "pmid": "42637028",
+      "title": "Collared, Uncemented Stems Markedly Reduce Periprosthetic Femoral Fracture Risk in Women \u2265 70 Years: A Swiss National Registry Study.",
+      "authors": [
+        "Ladurner A",
+        "Kramer M",
+        "Giesinger K",
+        "Zdravkovic V"
+      ],
+      "authors_short": "Ladurner A, Kramer M, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Uncemented total hip arthroplasty (THA) is associated with an increased risk of periprosthetic femoral fractures (PFF) in elderly women, yet its use continues to expand in this high-risk population. Stem design, particularly the presence of a collar, may influence the risk. However, sex-specific, large-scale registry data addressing this question remain limited. This study evaluated the association between stem design, design variants, and PFF risk in women aged \u2265 70 years undergoing uncemented THA. METHODS: Data were obtained from the Swiss National Joint Registry (SIRIS). Women aged \u2265 70 years who underwent uncemented THA for osteoarthritis between 2012 and 2024 were included. There were nine cementless stem models with greater than 1,000 implantations each that were analyzed by design variant (collared versus collarless, standard versus high offset, varying neck-shaft angles (NSA), and relative stem length). A total of 32,874 patients were included (mean age 76 years, mean body mass index (BMI) 26.5). The THAs with cemented stem fixation served as a reference population. The primary outcome was revision for PFF; multivariable logistic regressions were used to adjust for patient- and implant-related factors. RESULTS: The overall PFF revision rate was 0.5%, compared with 0.2% in the older, more medically vulnerable cemented group (P < 0.001). The PFF incidence varied substantially across uncemented stems (0.1 to 1.1%). Collared stems had a significantly lower PFF risk than collarless variants (0.1 versus 0.6%; adjusted odds ratio: 0.08, 95% confidence interval: 0.03 to 0.27, P < 0.001). Offset, neck-shaft angle, and relative stem length were not associated with fracture risk. CONCLUSION: In women aged \u2265 70 years, uncemented THA was associated with a higher risk of PFF revision compared with cemented fixation. Within cementless designs, the presence of a collar was strongly associated with a reduced risk of PFF, whereas other design variants were not. These findings suggest that in elderly women, collared cementless stems may represent a safe uncemented alternative to cemented stem fixation.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42637028/",
+      "score": 82,
+      "score_reasoning": "Large registry study (32,874 patients) from Swiss national data demonstrating collared uncemented stems markedly reduce periprosthetic femoral fracture risk in elderly women, directly actionable for implant selection in a high-risk population.",
+      "bullets": [
+        "In women aged 70 and older, uncemented THA carries a higher periprosthetic femoral fracture revision rate than cemented fixation (0.5% vs 0.2%).",
+        "Collared uncemented stems reduced periprosthetic femoral fracture risk by over 90% compared to collarless stems in this population (0.1% vs 0.6%).",
+        "Stem offset, neck-shaft angle, and relative stem length did not affect fracture risk, making collar presence the key design variable to consider in elderly women."
+      ]
+    },
+    {
+      "pmid": "42617925",
+      "title": "Increased Risk of Periprosthetic Femoral Fracture with Cementless Collared Metadiaphyseal-Filling Stems Compared to Cemented Fixation for Femoral Neck Fractures in Patients Aged 65 Years or Older: An American Joint Replacement Registry Analysis.",
+      "authors": [
+        "Deckey DG",
+        "Kelly M",
+        "Zaniletti I",
+        "Hegde V",
+        "Springer BD",
+        "Kagan RP",
+        "Bingham JS"
+      ],
+      "authors_short": "Deckey DG, Kelly M, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Cemented femoral fixation is recommended when treating a femoral neck fracture with arthroplasty. Prior studies have shown collared, metadiaphyseal-filling (CMDF) cementless stems to have an equivalent periprosthetic fracture risk compared to cemented stems in primary total hip arthroplasty (THA). This study assessed the associated risk of periprosthetic femoral fracture (PPFx) after hemiarthroplasty or THA for femoral neck fracture comparing CMDF stems to cemented stems utilizing the American Joint Replacement Registry (AJRR). METHODS: All femoral neck fractures in patients aged \u2265 65 years treated with arthroplasty in the AJRR were linked to Centers for Medicare and Medicaid Services data from 2012 to 2022. Patients were included if they received a cementless CMDF stem or a cemented stem. Patient demographics, revision or open reduction and internal fixation (ORIF) for PPFx, and revision for aseptic loosening or dislocation were recorded. Cause-specific Cox proportional hazard models, were used to evaluate the association of stem design with all-cause revision, revision or ORIF due to PPFx, and revision for aseptic loosening or dislocation while adjusting for potential confounders. RESULTS: Compared to cemented stems, cementless CMDF stems were associated with a higher hazard of revision for PPFx (aHR [adjusted hazard ratio] 1.7, 95% CI [confidence interval] 1.1 to 2.7, P = 0.02). Analysis of secondary outcomes indicated that the two groups significantly differed in terms of revision for aseptic loosening, with cementless CMDF stems indicating a much lower event rate than cemented stems (aHR 0.5, 95% CI 0.2 to 0.9, P = 0.04). There were no significant differences found on adjusted analyses of other secondary outcomes. CONCLUSIONS: Cementless CMDF stems were associated with an increased risk of revision for PPFx in the treatment of femoral neck fractures when compared to cemented stems. While this finding supports the use of cemented stems for the treatment of femoral neck fractures, it should be assessed against an increased risk of aseptic loosening when compared to cementless CMDF stems.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42617925/",
+      "score": 80,
+      "score_reasoning": "Large AJRR registry study with robust sample comparing cementless CMDF stems to cemented stems for femoral neck fractures, finding higher periprosthetic fracture risk with cementless stems\u2014directly practice-changing for a common procedure.",
+      "bullets": [
+        "In patients 65 and older treated with arthroplasty for femoral neck fracture, cementless collared metadiaphyseal-filling stems carried a 70% higher risk of periprosthetic femoral fracture requiring surgery compared to cemented stems.",
+        "Cemented stems had a higher rate of revision for aseptic loosening, but periprosthetic fracture remains the more immediately dangerous complication in this fragile population.",
+        "For older patients with femoral neck fracture undergoing hemi or total hip arthroplasty, cemented femoral fixation remains the safer choice for fracture prevention."
+      ]
+    },
+    {
+      "pmid": "42619022",
+      "title": "Increased Posterior Tibial Slope and Lateral Extra-articular Tenodesis Are Independently Associated With Revision ACL Reconstruction in a Young High-Risk Population.",
+      "authors": [
+        "van der Wal WA",
+        "de Groot TM",
+        "Tamana L",
+        "Tsoulgkounidis N",
+        "Veraart JT",
+        "Hoogeslag RAG",
+        "van der Hoeven H",
+        "Engelsma Y",
+        "Custers RJH",
+        "Saris DBF"
+      ],
+      "authors_short": "van der Wal WA, de Groot TM, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Increased posterior tibial slope (PTS) has been associated with higher revision rates after anterior cruciate ligament reconstruction (ACLR). Whether the addition of lateral extra-articular tenodesis (LET) mitigates the risk associated with increased PTS is unclear. PURPOSE: To determine the prevalence of increased PTS (\u226512\u00b0) in a young high-risk primary ACLR population and evaluate whether LET is associated with lower revision rates in patients with increased PTS. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: This study included patients aged \u226425 years undergoing primary ACLR across 3 high-volume centers with \u22652 years between surgery and data collection. PTS was measured on lateral radiographs for medial and lateral plateaus. Primary analyses consisted of 4 prespecified multivariable logistic regression models with different PTS operationalizations as continuous predictors per 1\u00b0 increase (medial PTS, lateral PTS, the maximum [PTSmax], and the lateral-medial difference), adjusted for patient and surgical covariates including graft type, with surgical center as a fixed effect. Secondary analyses used PTS dichotomized at 12\u00b0; revision rates were compared between isolated ACLR and ACLR with LET, with the treatment effect quantified as absolute risk reduction and number needed to treat. RESULTS: A total of 780 patients were included; 84 (10.8%) underwent revision ACLR. Increased PTS (\u226512\u00b0) was present in 28.2% of patients and more common in those requiring revision (38.6% vs 27.0%; P = .03). In patients with PTSmax \u226512\u00b0, revision occurred in 21.0% without LET and 9.2% with LET (absolute risk reduction, 11.8% [95% CI, 2.3%-21.3%]; number needed to treat, 9); in patients with PTSmax <12\u00b0, revision occurred in 13.2% without LET and 5.4% with LET (absolute risk reduction, 7.8% [95% CI, 3.0%-12.6%]; number needed to treat, 13). In the 4 prespecified multivariable models with PTS as a continuous predictor, LET was independently associated with substantially lower odds of revision ACLR (odds ratio [OR], 0.37; 95% CI, 0.22-0.62; P < .001). Lateral PTS (OR, 1.09 per 1\u00b0 increase; 95% CI, 1.00-1.18; P = .04) and PTSmax (OR, 1.09; 95% CI, 1.00-1.19; P = .04) were independently associated with revision ACLR. The lateral-medial PTS difference was not associated with revision ACLR. CONCLUSION: In a young high-risk primary ACLR population, increased PTS was present in nearly 30% of patients. LET was associated with a lower risk of revision irrespective of PTS, while increased PTS was independently associated with revision ACLR.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42619022/",
+      "score": 76,
+      "score_reasoning": "Australian registry study of 63,502 rTSA cases directly comparing crosslinked versus non-crosslinked polyethylene revision rates with excellent statistical power, providing strong evidence for implant selection in a rapidly growing procedure.",
+      "bullets": [
+        "In young patients under 25 undergoing primary ACL reconstruction, nearly 30% had a posterior tibial slope of 12 degrees or more, and those patients had higher revision rates than patients with a lower slope.",
+        "Adding a lateral extra-articular tenodesis reduced revision rates by about 12 percentage points in patients with a high tibial slope, meaning roughly 9 patients need the procedure to prevent one revision.",
+        "Both a steep tibial slope and the absence of tenodesis are independently linked to ACL re-tear, so surgeons treating young high-risk patients should measure tibial slope and consider tenodesis regardless of slope value."
+      ]
+    },
+    {
+      "pmid": "42628629",
+      "title": "Revision risk of cross-linked versus non-crosslinked polyethylene in reverse shoulder arthroplasty: an analysis of 63,502 cases from the Australian Orthopaedic Association National Joint Replacement Registry.",
+      "authors": [
+        "Nguyen TQ",
+        "Gill DRJ",
+        "Corfield S",
+        "McCaul M",
+        "Cass B"
+      ],
+      "authors_short": "Nguyen TQ, Gill DRJ, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: The effect of increased cross linking of modular polyethylene components in primary total stemmed reverse shoulder replacement (rTSA) upon revision rates is unknown outside biomechanical testing. We compared the rate of revision of primary stemmed reverse shoulder replacement with either a highly crosslinked (XLPE) or non-highly crosslinked polyethylene (non-XLPE) glenosphere or humeral cup. MATERIALS AND METHODS: Using data from the Australian Orthopaedic Association National Joint Replacement Registry, all primary rTSA with either polyethylene humeral cups or glenospheres were identified for the period 1 January 2006 to 31 December 2024. The procedures were restricted to the three most common primary diagnoses: osteoarthritis (OA), rotator cuff arthropathy (RCA) and fracture. Within each diagnostic category, procedures were stratified by XLPE or non-XLPE polyethylene type. For each implant type (humeral cups and glenospheres), this created six comparison groups: OA (XLPE vs non-XLPE), RCA (XLPE vs non-XLPE), and fracture (XLPE vs non-XLPE). The cumulative percent revision (CPR) was determined using Kaplan-Meier estimates of survivorship and hazard ratios (HR) from Cox proportional hazard models adjusted for age and sex. A sub analysis from 2015 allowed further adjustment for ASA, BMI, glenosphere size and image derived instrumentation. RESULTS: Of the 28,819 rTSA for OA, 24,779 for RCA and 9,904 for fracture there was an increased risk of revision for non-XLPE compared to XLPE glenospheres for OA from 1.5 years HR=3.21 (95% confidence interval (CI)1.59, 6.47), p=0.001). but not for RCA or fracture. The rate of revision was increased for OA non-XLPE vs XLPE humeral cups, but other diagnoses did not differ (HR=1.30 (95% CI 1.10, 1.54), p=0.002), with the most common reason for revision being infection in the non-XLPE OA cohort. At sub-group analysis, the revision rate of non-XLPE humeral cups was increased compared to XLPE for OA and RCA but not fracture (HR=1.84 (95%CI 1.42, 2.40), p<0.001, and HR=1.47 (95% CI 1.16, 1.86), p=0.001, respectively) by multivariable adjustment. DISCUSSION/CONCLUSION: Changes to the amount of cross-linking to polyethylene bearing surfaces in rTSA are associated with variations in all-cause revision rates depending on the primary diagnosis. Patients with non-XLPE components are associated with a higher revision rate compared with XLPE components when used in stemmed rTSA for OA and RCA (particularly infection requiring revision). While at sub-group analysis the revision risk of rTSA with polyethylene glenosphere constructs is confounded by patient, implant characteristics, and surgeon assistive tools as covariates, the evidence suggests increased revision of rTSA with non-XLPE humeral cups.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42628629/",
+      "score": 74,
+      "score_reasoning": "RCT evaluating telerehabilitation motor control exercises versus standard rehabilitation after rotator cuff surgery with functional and patient-reported outcomes, highly relevant given growing telehealth adoption.",
+      "bullets": [
+        "In over 63,000 reverse shoulder arthroplasty cases, non-crosslinked polyethylene humeral cups had higher revision rates than crosslinked polyethylene in patients operated on for osteoarthritis and rotator cuff arthropathy.",
+        "The most common reason for revision in the non-crosslinked group was infection, not wear, which raises questions about material surface properties and host response.",
+        "Surgeons performing reverse shoulder arthroplasty for osteoarthritis or rotator cuff arthropathy should favour crosslinked polyethylene components, as non-crosslinked bearings are associated with meaningfully higher revision risk."
+      ]
+    },
+    {
+      "pmid": "42628626",
+      "title": "Does Immobilization Method Make a Difference in Conservative Management of Proximal Humeral Fractures? A Prospective Randomized Trial.",
+      "authors": [
+        "Sar\u0131ka\u015f DM",
+        "Kap\u0131c\u0131o\u011flu DM",
+        "\u015eahin DK",
+        "Bilsel DK"
+      ],
+      "authors_short": "Sar\u0131ka\u015f DM, Kap\u0131c\u0131o\u011flu DM, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND/OBJECTIVE: The role of conservative treatment in proximal humerus fractures (PHFs) has been increasing with emerging evidence. However, the optimal conservative treatment protocol remains unclear. In particular, the immobilization method-an essential component of conservative management-has not been adequately investigated in the literature. This study aimed to compare the clinical and radiological outcomes of three different immobilization devices that position the shoulder in varying degrees of immobilization. METHODS: This prospective randomized clinical trial included patients diagnosed with PHFs and treated conservatively. Clinical outcome measures included the Subjective Shoulder Value (SSV), Visual Analog Scale (VAS), American Shoulder and Elbow Surgeons (ASES) score, Disabilities of the Arm, Shoulder and Hand (DASH) score, Constant score, and range of motion. The three study groups were compared in terms of clinical and radiological outcomes. RESULTS: Data from 34 patients in Group A (Velpeau bandage), 39 patients in Group B (standard shoulder-arm sling), and 32 patients in Group C (padded shoulder-arm sling) were analyzed. The overall mean age was 60.6 \u00b1 15.9 years, and 67 patients (63.8%) were female. The groups were comparable in baseline characteristics, including age and fracture severity according to Neer classification. No significant differences were observed among the groups in terms of SSV, VAS, ASES, DASH, Constant scores, or range of motion. Radiologically, nonunion occurred in 5 of 120 patients (4.1%), while malunion was detected in 22 of 105 patients (21%). Malunion rates were comparable across the study groups. CONCLUSIONS: The type of immobilization device used in the conservative treatment of PHFs does not appear to influence functional or radiological outcomes. Therefore, the choice of immobilization method may be guided by patient comfort and cost considerations. LEVEL OF EVIDENCE: Level I; Prospective Randomized Controlled Trial.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42628626/",
+      "score": 73,
+      "score_reasoning": "Prospective cohort study (780 patients, 3 centers) with multivariable analysis showing increased posterior tibial slope independently associated with ACL revision and LET association, directly relevant to surgical decision-making in young high-risk patients.",
+      "bullets": [
+        "In a randomized trial of 105 patients with proximal humeral fractures treated conservatively, functional outcomes were identical whether patients wore a Velpeau bandage, a standard sling, or a padded sling.",
+        "Malunion occurred in 21% of conservatively managed proximal humeral fractures regardless of immobilization type, and nonunion occurred in about 4%.",
+        "For orthopaedic surgeons managing proximal humeral fractures without surgery, sling choice can be based on patient comfort and cost rather than expected clinical outcome."
+      ]
+    },
+    {
+      "pmid": "42615423",
+      "title": "Short-to Medium-term Results of Displaced Femoral Neck Fractures in Patients Less than 50 Years of Age Undergoing Repair: Comparison of Open vs. Closed Reduction.",
+      "authors": [
+        "Collinge C",
+        "Wong H",
+        "Patterson J",
+        "Finlay A",
+        "Gardner M",
+        "Lebus GF",
+        "Morshed S",
+        "Rodriguez-Buitrago A",
+        "Beltran MJ",
+        "Mitchell P",
+        "Will J",
+        "Ketz J",
+        "Tornetta P"
+      ],
+      "authors_short": "Collinge C, Wong H, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To compare the clinical outcomes of open vs. closed reduction methods for femoral neck fractures (FNFs) in young patients treated with fracture repair. METHODS: Design: Multicenter retrospective cohort study. SETTING: Twenty-six North American Level 1 trauma centers. PATIENT SELECTION CRITERIA: Skeletally mature patients aged <50 years with displaced FNFs (OTA/AO type 31B) undergoing surgical repair and having minimum follow-up >6 months, except in cases where major complications occurred earlier. INTERVENTION: Open vs. closed fracture reduction. MAIN OUTCOME MEASUREMENTS: The primary outcome of \"major complication\" was defined as nonunion/failed fixation, osteonecrosis, malunion (vertical or femoral neck shortening of \u226515 mm) and/or subsequent major reconstructive surgery was compared by reduction method using chi-squared tests and risk-adjusted binary mixed effects regression models. RESULTS: A total of 290 patients with FNFs were included in the study, 107 treated with closed reduction (average follow-up 27.1 months [range, 4.1 to 159.5 months]) and 183 treated with open reduction and (average follow-up 22.4 months [range, 3.7 to 141.3 months], P=0.105). Sex distribution showed no difference between the groups, with 25.5% of the closed group, and 29.0% of the open cohort being female (P=0.615). Patients who received open reduction were younger than patients who received closed reductions (mean age 35.6\u00b18.8 vs. 39.5\u00b18.0 years, P<0.001) and had fewer cases of cases of diabetes mellitus (2.2% vs. 8.6%, P=0.027). Overall, adverse events were observed following 57.0% of closed reduction reductions vs. 54.1% of open reductions (P=0.890). No differences were seen in the frequency of defined failure modes, including failed fixation/nonunion (33.6% closed vs. 35.0% open, P=0.919), osteonecrosis (21.5% closed vs. 14.2% open, P=0.151), malunion (17.8% closed vs. 14.8% open, P=0.611), or major reconstructive surgery (33.6% closed vs. 36.6% open, P=0.702). CONCLUSIONS: Open and closed reductions of FNFs in patients <50 years old were associated with similar rates of repair failure. LEVEL OF EVIDENCE: Level III (Therapeutic).",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42615423/",
+      "score": 69,
+      "score_reasoning": "Large retrospective cohort (290 patients, 26 trauma centers) comparing open versus closed reduction for femoral neck fractures in young patients, addressing a clinically debated topic with multicenter data.",
+      "bullets": [
+        "In patients under 50 with displaced femoral neck fractures, open and closed reduction led to similar rates of major complications, roughly 54 to 57 percent in each group.",
+        "Failure modes including nonunion, osteonecrosis, malunion, and need for reconstructive surgery occurred at comparable rates regardless of reduction method.",
+        "For young adults with displaced femoral neck fractures, the choice between open and closed reduction should be driven by fracture anatomy and surgeon judgment, not an expectation of better outcomes from one approach."
+      ]
+    },
+    {
+      "pmid": "42631014",
+      "title": "Tranexamic Acid Use Is Associated With Lower Rates of Transfusion in Patients Undergoing Revision Total Hip Arthroplasty for Periprosthetic Joint Infection.",
+      "authors": [
+        "Telang SS",
+        "Wier J",
+        "Kumaran P",
+        "Liu SH",
+        "Becerra J",
+        "Lieberman JR",
+        "Heckmann ND"
+      ],
+      "authors_short": "Telang SS, Wier J, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: While tranexamic acid (TXA) is widely used in primary total hip arthroplasty (THA), it has not been studied extensively during revision THA for periprosthetic joint infection (PJI). Since revision procedures for infection are associated with greater intraoperative blood loss and a higher likelihood of transfusion, investigation of TXA use in first-stage revision THA for PJI is warranted to define its impact on postoperative bleeding risk, transfusion requirements, and safety profile. METHODS: Querying a large healthcare database, we identified adult patients between 2016 and 2023 undergoing stage-one revision THA for PJI. Patients who received TXA were subsequently identified. Propensity score matching was used to balance cohorts. Mixed-effects logistic regression models were used to assess primary outcome, transfusion. Secondary outcomes included postoperative bleeding outcomes, wound complications, deep vein thrombosis, and pulmonary embolism. RESULTS: After 1:1 propensity matching, 10,404 patients that had explanation of their THA and placement of an antibiotic spacer were included, with all hospital characteristics, patient demographics, and comorbidities demonstrating standardized mean differences <0.10. TXA-treated patients had significantly lower rates of postoperative transfusion (15.94% vs 17.78%; adjusted odds ratio = 0.86, 95% confidence interval [CI] = 0.76-0.99, P = .030) and wound complications (16.69% vs 22.72%; odds ratio = 0.66, 95% confidence interval = 0.59-0.73). Similar rates were found for aggregate bleeding complications, deep vein thrombosis, and pulmonary embolism in both cohorts. CONCLUSIONS: TXA is associated with a reduction in postoperative transfusion and wound complications in patients undergoing revision THA for PJI.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42631014/",
+      "score": 66,
+      "score_reasoning": "Large retrospective cohort (3,302 patients) demonstrating graded BMD-associated reoperation risk after THA and TKA with multivariable analysis, reinforcing preoperative osteoporosis screening and treatment.",
+      "bullets": [
+        "In over 10,000 matched patients undergoing first-stage revision hip arthroplasty for periprosthetic joint infection, tranexamic acid reduced transfusion rates from 17.8% to 15.9%.",
+        "Tranexamic acid was also associated with fewer wound complications (16.7% vs 22.7%) with no increase in clotting events in this high-risk group.",
+        "Surgeons performing explantation and spacer placement for hip periprosthetic joint infection should consider routine tranexamic acid use to reduce transfusion and wound complication risk."
+      ]
+    },
+    {
+      "pmid": "42631002",
+      "title": "Microbiologic Patterns Found in Periprosthetic Joint Infections Following Total Joint Arthroplasty Differ Across Race and Sex.",
+      "authors": [
+        "Kumaran P",
+        "Wier J",
+        "Telang SS",
+        "Kistler NM",
+        "Lieberman JR",
+        "Heckmann ND"
+      ],
+      "authors_short": "Kumaran P, Wier J, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Despite extensive evidence demonstrating race- and sex-based disparities in periprosthetic joint infection (PJI) incidence following total joint arthroplasty, there is a lack of evidence on differences in the microbial profiles of pathogens identified. Our study evaluated the race- and sex-based differential microbial patterns of infecting organisms among patients with PJI. METHODS: The Premier Healthcare Database was queried from 2016 to 2023 for patients aged \u226518 years who underwent antibiotic spacer placement for a total joint arthroplasty PJI. Microbiology data were extracted from synovial and tissue cultures obtained during the hospital admission. Microbiological profiles were compared with respect to patient race via multivariable logistic regression. Race-sex subanalysis was then conducted via chi-squared testing. RESULTS: In total, 9014 patients were identified with 8189 (90.8%) White and 825 (9.2%) Black patients. Black patients had significantly higher adjusted odds of infection by methicillin-resistant Staphylococcus aureus (MRSA) (aOR: 1.45, [1.18-1.79], P < .001) and gram-negative enterics (aOR: 1.45, [1.15-1.85], P = .01). Furthermore, Black males had the highest rates of MRSA infection (15.1%), while Black females had the highest rates of polymicrobial infections (24.3%). CONCLUSIONS: Black patients had significantly greater risk of MRSA and gram-negative PJIs. Black males had the highest rates of MRSA and gram-negative enteric infection, while Black females exhibited the highest rates of polymicrobial infections. Further research into broader socioeconomic and health access disparities is warranted to explain the observed differences.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42631002/",
+      "score": 65,
+      "score_reasoning": "Large propensity-matched database study (10,404 patients) showing TXA reduces transfusion and wound complications during first-stage revision THA for PJI, directly applicable to a high-bleeding-risk procedure.",
+      "bullets": [
+        "Black patients undergoing two-stage revision for periprosthetic joint infection have 45% higher odds of MRSA and gram-negative enteric infections compared to White patients.",
+        "Within Black patients, males carry the highest MRSA rates (15.1%) and females carry the highest polymicrobial infection rates (24.3%).",
+        "When treating PJI in Black patients, broaden empiric coverage to include MRSA and gram-negative organisms while awaiting culture results."
+      ]
+    },
+    {
+      "pmid": "42638449",
+      "title": "Development and Internal Validation of a Predictive Model for Clinically Meaningful AOS Improvement After Primary Total Ankle Arthroplasty.",
+      "authors": [
+        "Albarr\u00e1n CF",
+        "Koolen M",
+        "Trache T",
+        "Alharbi SK",
+        "Veljkovic A",
+        "Gagne O",
+        "Penner MJ",
+        "Younger A",
+        "Wing K"
+      ],
+      "authors_short": "Albarr\u00e1n CF, Koolen M, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Ankle osteoarthritis is a condition that generates a level of disability comparable to that of heart failure, chronic kidney failure, and end-stage hip and knee arthritis. To date, no predictive model has been described to determine which patients will experience a more pronounced improvement in patient-reported disability following total ankle replacement. METHODS: In this prospective cohort study, we included all patients between 2003 and 2023 who after joint decision making with their surgeon elected to undergo a total ankle replacement. Patients undergoing primary ankle fusion, revision total ankle replacement, with a history of previous ankle infection or Charcot neuroarthropathy, and those who declined to participate in the registry were excluded. A total ankle arthroplasty was considered to have a good response if patients showed a difference greater or equal than 28 points between the pre-operative and the 1-2-year AOS score. A multivariable logistic regression using a stepwise method was performed, adding or removing variables, and analyzing demographic variables (age at the time of surgery, smoking status, diabetes, inflammatory pathology, and body mass index), prosthesis type (Infinity, InBone II, InVision, Agility, Hintegra, Mobility, Zimmer, and STAR), etiology, and the AOS at the time of enrollment. As variables were added or removed, the model's Akaike information criterion was compared, ultimately keeping the most parsimonious version. After model selection, overfitting was evaluated using a bootstrapping method with 1000 replications, and finally, the goodness of fit was assessed with the Hosmer-Lemeshow test. RESULTS: A total of 631 total ankle replacements were included. The average age at the time of surgery was 64.96\u2009\u00b1\u20099.7\u2009years. The most frequently used total ankle replacement was Hintegra (n\u2009=\u2009159), followed by Infinity (n\u2009=\u2009151), Zimmer (n\u2009=\u2009127), and Agility (n\u2009=\u200978). The variables included in the model were the AOS at the time of enrollment (OR 1.06, P\u2009<\u2009.01, 95% CI 1.05-1.08) and instability etiology (OR 5.1, P\u2009<\u2009.01, 95% CI 1.69-15.26). The AUC was 0.76, and when compared using the bootstrapping method, no differences were found, indicating that the model did not show overfitting. Finally, the Hosmer-Lemeshow test showed that calibration was satisfactory. CONCLUSION: Higher baseline disability and instability-related etiology were associated with increased likelihood of clinically meaningful improvement after TAR. This internally validated model may assist preoperative counseling and shared decision making. A baseline AOS score above 63 was associated with a high probability of clinically meaningful improvement. LEVEL OF EVIDENCE: Level II, prospective cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42638449/",
+      "score": 63,
+      "score_reasoning": "Prospective cohort study evaluating predictors of external rotation recovery after rTSA in patients with ER lag signs, providing preoperative counseling thresholds from a well-designed study.",
+      "bullets": [
+        "Patients with higher baseline disability (AOS above 63) and ankle instability as the cause of arthritis are most likely to achieve meaningful functional improvement after total ankle replacement.",
+        "Among 631 total ankle replacements, only preoperative disability score and instability etiology predicted clinically meaningful improvement at one to two years, regardless of implant type or patient demographics.",
+        "Surgeons can use baseline AOS score and arthritis etiology during preoperative counseling to set realistic expectations and guide shared decision making before total ankle replacement."
+      ]
+    },
+    {
+      "pmid": "42623438",
+      "title": "The Articular Dislocation Angle of the First Metatarsophalangeal Joint: Its Conception, Measurement Method, and Role in Hallux Valgus.",
+      "authors": [
+        "Guo M",
+        "Liu F",
+        "Gan Y",
+        "Yang F"
+      ],
+      "authors_short": "Guo M, Liu F, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: First metatarsophalangeal joint (MTPJ) subluxation or dislocation represents a common yet unquantified pathological feature in hallux valgus (HV). In this study, we introduce the concept of the articular dislocation angle (ADA), defined as the angle between a line perpendicular to the proximal articular surface of the proximal phalanx and a line perpendicular to the distal articular surface of the first metatarsal, to quantitatively evaluate the degree of joint subluxation or dislocation. Using the ADA concept, this study quantitatively investigated the relationships between HV-related angular parameters (hallux valgus angle [HVA], distal metatarsal articular angle [DMAA], distal articular set angle [DASA], and ADA), thereby precisely delineating the pathological deformity components contributing to HV. METHODS: We measured HVA, DMAA, DASA, and ADA on weight-bearing radiographs of 70 feet (52 patients) with HV to investigate their interrelationships and quantify their respective contributions to HV. The mean patient age was 58 years, 63 feet were in female patients, and all patients were Asian. Additionally, by comparing DMAA and DASA measurements obtained from weight-bearing radiographs versus computed tomography (CT) scans, we systematically evaluated the accuracy of measurements on weight-bearing radiographs. RESULTS: Radiographic data demonstrated that the relationship HVA = DMAA + DASA + ADA held true across all HV severity grades. Quantitative analysis revealed a progressive increase in the ADA contribution with increasing disease severity (mild: 43.3%; moderate: 52.6%; severe: 69.3%), while DMAA and DASA contributions showed corresponding decreases (DMAA: 40.7%, 38.1%, 28.1%, respectively; DASA: 16.0%, 9.3%, 2.5%). Comparative analysis indicated excellent agreement between CT and weight-bearing radiographs for DMAA measurements, whereas radiographs systematically underestimated DASA values versus CT (mean differences: mild, -5.1\u00b0; moderate, -5.4\u00b0; severe, -7.8\u00b0), with the discrepancy magnitude increasing with disease severity. CONCLUSIONS: ADA provides an accurate quantitative assessment of first MTPJ subluxation or dislocation severity. The introduction of the ADA establishes a clear geometric relationship among HVA, DMAA, and DASA, formulated as: HVA = DMAA + DASA + ADA. Preoperative application of this formula allows effective assessment of the pathological components contributing to HV, thereby assisting surgeons in developing appropriate surgical strategies. LEVEL OF EVIDENCE: Diagnostic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42623438/",
+      "score": 62,
+      "score_reasoning": "JBJS study introducing the articular dislocation angle concept for hallux valgus with systematic radiographic validation, providing a novel measurement tool with direct surgical planning implications.",
+      "bullets": [
+        "A new angle measurement called the articular dislocation angle (ADA) quantifies how much the big toe joint is subluxed or dislocated in hallux valgus, and it accounts for a larger share of the deformity as severity increases (43% mild, 53% moderate, 69% severe).",
+        "In hallux valgus patients, the total deformity angle equals the sum of the metatarsal articular angle, the phalangeal articular angle, and the new joint dislocation angle, giving surgeons a simple formula to break down each deformity component on a standard weight-bearing X-ray.",
+        "Standard weight-bearing X-rays reliably measure the metatarsal articular angle but consistently underestimate the phalangeal articular angle compared to CT, so surgeons should account for this gap when planning correction in moderate and severe cases."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-08-26T03:33:10.919825-07:00"
+}
