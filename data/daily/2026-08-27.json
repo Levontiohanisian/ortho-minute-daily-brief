@@ -1,0 +1,282 @@
+{
+  "brief_date": "2026-08-27",
+  "brief_date_display": "Thursday, August 27",
+  "candidates": [
+    {
+      "pmid": "42628629",
+      "title": "Revision risk of cross-linked versus non-crosslinked polyethylene in reverse shoulder arthroplasty: an analysis of 63,502 cases from the Australian Orthopaedic Association National Joint Replacement Registry.",
+      "authors": [
+        "Nguyen TQ",
+        "Gill DRJ",
+        "Corfield S",
+        "McCaul M",
+        "Cass B"
+      ],
+      "authors_short": "Nguyen TQ, Gill DRJ, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: The effect of increased cross linking of modular polyethylene components in primary total stemmed reverse shoulder replacement (rTSA) upon revision rates is unknown outside biomechanical testing. We compared the rate of revision of primary stemmed reverse shoulder replacement with either a highly crosslinked (XLPE) or non-highly crosslinked polyethylene (non-XLPE) glenosphere or humeral cup. MATERIALS AND METHODS: Using data from the Australian Orthopaedic Association National Joint Replacement Registry, all primary rTSA with either polyethylene humeral cups or glenospheres were identified for the period 1 January 2006 to 31 December 2024. The procedures were restricted to the three most common primary diagnoses: osteoarthritis (OA), rotator cuff arthropathy (RCA) and fracture. Within each diagnostic category, procedures were stratified by XLPE or non-XLPE polyethylene type. For each implant type (humeral cups and glenospheres), this created six comparison groups: OA (XLPE vs non-XLPE), RCA (XLPE vs non-XLPE), and fracture (XLPE vs non-XLPE). The cumulative percent revision (CPR) was determined using Kaplan-Meier estimates of survivorship and hazard ratios (HR) from Cox proportional hazard models adjusted for age and sex. A sub analysis from 2015 allowed further adjustment for ASA, BMI, glenosphere size and image derived instrumentation. RESULTS: Of the 28,819 rTSA for OA, 24,779 for RCA and 9,904 for fracture there was an increased risk of revision for non-XLPE compared to XLPE glenospheres for OA from 1.5 years HR=3.21 (95% confidence interval (CI)1.59, 6.47), p=0.001). but not for RCA or fracture. The rate of revision was increased for OA non-XLPE vs XLPE humeral cups, but other diagnoses did not differ (HR=1.30 (95% CI 1.10, 1.54), p=0.002), with the most common reason for revision being infection in the non-XLPE OA cohort. At sub-group analysis, the revision rate of non-XLPE humeral cups was increased compared to XLPE for OA and RCA but not fracture (HR=1.84 (95%CI 1.42, 2.40), p<0.001, and HR=1.47 (95% CI 1.16, 1.86), p=0.001, respectively) by multivariable adjustment. DISCUSSION/CONCLUSION: Changes to the amount of cross-linking to polyethylene bearing surfaces in rTSA are associated with variations in all-cause revision rates depending on the primary diagnosis. Patients with non-XLPE components are associated with a higher revision rate compared with XLPE components when used in stemmed rTSA for OA and RCA (particularly infection requiring revision). While at sub-group analysis the revision risk of rTSA with polyethylene glenosphere constructs is confounded by patient, implant characteristics, and surgeon assistive tools as covariates, the evidence suggests increased revision of rTSA with non-XLPE humeral cups.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42628629/",
+      "score": 78,
+      "score_reasoning": "RCT comparing telerehabilitation motor control exercises vs standard rehab after rotator cuff surgery with directly applicable clinical outcomes, published in a solid journal with moderate sample size.",
+      "bullets": [
+        "In over 63,000 reverse shoulder arthroplasty cases, non-crosslinked polyethylene humeral cups had higher revision rates than crosslinked polyethylene in patients operated on for osteoarthritis and rotator cuff arthropathy.",
+        "The most common reason for revision in the non-crosslinked group was infection, not wear, suggesting a material-related difference in biological response rather than purely mechanical failure.",
+        "Surgeons performing reverse shoulder arthroplasty for osteoarthritis or rotator cuff arthropathy should prefer crosslinked polyethylene components, as non-crosslinked bearings are associated with meaningfully higher revision risk."
+      ]
+    },
+    {
+      "pmid": "42637028",
+      "title": "Collared, Uncemented Stems Markedly Reduce Periprosthetic Femoral Fracture Risk in Women \u2265 70 Years: A Swiss National Registry Study.",
+      "authors": [
+        "Ladurner A",
+        "Kramer M",
+        "Giesinger K",
+        "Zdravkovic V"
+      ],
+      "authors_short": "Ladurner A, Kramer M, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Uncemented total hip arthroplasty (THA) is associated with an increased risk of periprosthetic femoral fractures (PFF) in elderly women, yet its use continues to expand in this high-risk population. Stem design, particularly the presence of a collar, may influence the risk. However, sex-specific, large-scale registry data addressing this question remain limited. This study evaluated the association between stem design, design variants, and PFF risk in women aged \u2265 70 years undergoing uncemented THA. METHODS: Data were obtained from the Swiss National Joint Registry (SIRIS). Women aged \u2265 70 years who underwent uncemented THA for osteoarthritis between 2012 and 2024 were included. There were nine cementless stem models with greater than 1,000 implantations each that were analyzed by design variant (collared versus collarless, standard versus high offset, varying neck-shaft angles (NSA), and relative stem length). A total of 32,874 patients were included (mean age 76 years, mean body mass index (BMI) 26.5). The THAs with cemented stem fixation served as a reference population. The primary outcome was revision for PFF; multivariable logistic regressions were used to adjust for patient- and implant-related factors. RESULTS: The overall PFF revision rate was 0.5%, compared with 0.2% in the older, more medically vulnerable cemented group (P < 0.001). The PFF incidence varied substantially across uncemented stems (0.1 to 1.1%). Collared stems had a significantly lower PFF risk than collarless variants (0.1 versus 0.6%; adjusted odds ratio: 0.08, 95% confidence interval: 0.03 to 0.27, P < 0.001). Offset, neck-shaft angle, and relative stem length were not associated with fracture risk. CONCLUSION: In women aged \u2265 70 years, uncemented THA was associated with a higher risk of PFF revision compared with cemented fixation. Within cementless designs, the presence of a collar was strongly associated with a reduced risk of PFF, whereas other design variants were not. These findings suggest that in elderly women, collared cementless stems may represent a safe uncemented alternative to cemented stem fixation.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42637028/",
+      "score": 77,
+      "score_reasoning": "Large retrospective cohort (3,302 patients) demonstrating graded association between BMD and reoperation after THA/TKA, highly clinically relevant for preoperative risk stratification in a high-volume procedure.",
+      "bullets": [
+        "In women 70 and older getting uncemented total hip replacements, collared stems had a periprosthetic femur fracture revision rate of 0.1% versus 0.6% for collarless stems.",
+        "Stem offset, neck-shaft angle, and stem length did not affect fracture risk, making collar presence the single modifiable design factor that mattered in this population.",
+        "For elderly women where cemented fixation is not preferred, choosing a collared uncemented stem brings periprosthetic fracture risk close to that seen with cemented implants."
+      ]
+    },
+    {
+      "pmid": "42637027",
+      "title": "Delayed Initiation of Low-Molecular-Weight Heparin Chemoprophylaxis Is Associated with Higher Risk of In-Hospital Screen-Detected Distal Deep Vein Thrombosis Following Hip Fracture Arthroplasty.",
+      "authors": [
+        "Hou W",
+        "Han Z",
+        "Kong J",
+        "Dong Q",
+        "Zhang Y",
+        "Feng X"
+      ],
+      "authors_short": "Hou W, Han Z, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: This study aimed to determine the impact of the time from admission to initiation of low-molecular-weight heparin (LMWH) chemoprophylaxis on postoperative in-hospital venous thromboembolism (VTE) in patients who underwent hip fracture arthroplasty. METHODS: This retrospective cohort study included 2,639 patients who a mean age of 72 years (range, 55 to 99) who underwent arthroplasty for hip fracture and received perioperative LMWH chemoprophylaxis. The primary exposure was door-to-prophylaxis (DTP) time. The primary outcome was screen-detected postoperative in-hospital VTE. The key secondary endpoint was postoperative in-hospital proximal deep vein thrombosis (DVT) and/or pulmonary embolism (PE). Patients were categorized as early or delayed DTP based on median values (18.9 hours; interquartile range, 13.6 to 43.7). Restricted cubic splines and Cox proportional hazards regressions were used to analyze the relationship between DTP time and VTE risk. RESULTS: A significant linear correlation was identified between DTP time and postoperative in-hospital VTE. On multivariable Cox analyses, delayed DTP (\u2265 19 hours) was independently associated with increased VTE risk by 22.8% versus early DTP (less than 19 hours) (adjusted hazard ratio [HR], 1.228; 95% confidence interval [CI], 1.036 to 1.456; P = 0.018). This association persisted across types and dosing regimens of LMWH (adjusted HR, 1.248; 95% CI, 1.041 to 1.497; P = 0.017). Similarly, for every 1-hour delay in DTP, the likelihood of VTE increased by 0.3% (adjusted HR, 1.003; 95% CI, 1.000 to 1.006; P = 0.030). There was no association detected between DTP and proximal DVT and/or PE, with imprecise estimates (all P > 0.05). CONCLUSION: The DTP time was linearly associated with the occurrence of screen-detected postoperative in-hospital VTE in hip fracture arthroplasty. Notably, DTP delayed to 19 hours or later was associated with a higher risk of screen-detected distal DVT, whereas no robust association was observed for proximal DVT and/or PE.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42637027/",
+      "score": 76,
+      "score_reasoning": "Large national registry study (32,874 patients) showing collared uncemented stems markedly reduce periprosthetic fracture risk in elderly women, directly actionable implant selection guidance from a high-impact journal.",
+      "bullets": [
+        "In hip fracture arthroplasty patients, starting low-molecular-weight heparin within 19 hours of admission reduced in-hospital DVT risk by about 23% compared to later initiation.",
+        "The DVT risk increase was driven by distal clots, with no significant association found between prophylaxis timing and proximal DVT or pulmonary embolism.",
+        "For orthopaedic teams managing hip fracture patients, earlier LMWH initiation on admission is a modifiable target to reduce in-hospital venous thromboembolism."
+      ]
+    },
+    {
+      "pmid": "42644599",
+      "title": "Prosthetic Joint Infection After Total Ankle Arthroplasty: A Propensity-Matched Analysis of Risk Factors and Outcomes.",
+      "authors": [
+        "McCahon JAS",
+        "Thomas GM",
+        "Sherman M",
+        "Hsu A",
+        "O'Neil J",
+        "Parekh SG",
+        "Pedowitz DI"
+      ],
+      "authors_short": "McCahon JAS, Thomas GM, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Prosthetic joint infection (PJI) following total ankle arthroplasty (TAA) is a rare but devastating complication associated with high rates of reoperation and poor functional outcomes. The purpose of this study was to identify risk factors for PJI following primary TAA and to characterize associated treatment approaches and clinical outcomes. METHODS: A single-institution retrospective cohort study was conducted, including 1008 primary TAAs performed between 2010 and 2023. PJI was defined using established microbiologic and clinical criteria consistent with prior literature. Patient demographics, comorbidities, preoperative functional status, and operative characteristics were collected. Infected patients were compared with non-infected controls using 2:1 propensity score matching based on age and sex. Associations with PJI were evaluated using penalized logistic regression (Firth method). Microbiologic profiles, surgical management strategies, and outcomes were analyzed for the infection cohort. RESULTS: Twenty-seven PJIs treated by 4 surgeons were identified, yielding an overall infection rate of 2.7%. After matching, cohorts were balanced across patient demographics. Concomitant calcaneal displacement osteotomy and cancer history were significantly associated with PJI (P\u2009<\u2009.05). When adjusting for prior ankle surgery, BMI, diabetes, and tourniquet time, concomitant calcaneal displacement osteotomy was associated with 9.75-fold increased odds of PJI (95% CI 2.5-52.4) demonstrating an area under the curve of 83.7%. Staphylococcus aureus was the most frequently identified organism (36.7%). Eight (29.6%) PJIs were considered chronic (>4 weeks). Two-stage revision TAA was the predominant surgical strategy (59.3%), with limb salvage achieved in 96.2% of cases and arthroplasty retention maintained in 69.2% at a mean follow-up of 4.07\u2009years. CONCLUSION: PJI following primary TAA occurred at a rate of 2.7%, with calcaneal displacement osteotomies identified as a significant associated procedural risk factor. Despite the severity of this complication, high rates of limb salvage and arthroplasty retention were observed with contemporary treatment strategies at midterm follow-up. LEVEL OF EVIDENCE: Level III, retrospective cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42644599/",
+      "score": 75,
+      "score_reasoning": "Meta-analysis of 12 studies (3,185 patients) comparing ACDF vs MIS-PCF for cervical radiculopathy in a high-impact JAAOS journal, providing directly applicable surgical decision-making guidance on a very common condition.",
+      "bullets": [
+        "Adding a calcaneal displacement osteotomy at the time of total ankle arthroplasty was associated with nearly 10 times the odds of developing a prosthetic joint infection.",
+        "Staphylococcus aureus caused about one third of total ankle arthroplasty infections, and two-stage revision was the most common surgical response.",
+        "Despite a 2.7% infection rate, limb salvage was achieved in 96% of cases and the implant was retained in 69% at roughly four years of follow-up."
+      ]
+    },
+    {
+      "pmid": "42628628",
+      "title": "Public Perceptions of Robotic-Assisted Shoulder Arthroplasty in the United States.",
+      "authors": [
+        "Zabiba A",
+        "Menendez ME"
+      ],
+      "authors_short": "Zabiba A, Menendez ME",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Interest in robotic-assisted shoulder arthroplasty is growing, yet public perceptions of this technology remain poorly characterized. This study used online crowdsourcing to evaluate public perceptions and beliefs regarding robotic-assisted shoulder arthroplasty. METHODS: A cross-sectional survey was completed by 615 adults residing in the United States through the Prolific crowdsourcing platform. The survey assessed demographic characteristics, perceptions of the impact of robotic assistance, and treatment preferences. Multivariable logistic regression was performed to identify factors associated with preference for robotic-assisted surgery. RESULTS: Most respondents believed robotic-assisted shoulder arthroplasty leads to greater implant positioning accuracy (74%), better outcomes (67%), fewer complications (61%), and faster recovery (54%) than conventional arthroplasty. Despite this favorable perception, enthusiasm softened when robotics was placed in direct competition with surgeon experience: 62% of respondents preferred a higher-volume surgeon who does not use robotics over a lower-volume surgeon who does. The leading concerns regarding robotic technology were equipment malfunction causing harm, increased cost, and surgeon inexperience with the technology. Seventy-six percent of respondents accurately understood the actual role of the robot in the operating room. Overall, 58% of respondents preferred robotic-assisted shoulder arthroplasty over a conventional manual approach. Perceived improvement in outcomes was the strongest independent predictor of preference for robotic-assisted surgery (OR 3.31, 95% CI 1.98-5.51). Other independently associated factors include, belief that robotics guarantees better results (OR 2.32, 95% CI 1.52-3.53), early technology adoption (OR 1.92, 95% CI 1.21-3.04), prior awareness of robotic-assisted shoulder arthroplasty (OR 1.90, 95% CI 1.19-3.02), and male sex (OR 1.49, 95% CI 1.03-2.15). CONCLUSION: Public perceptions of robotic-assisted shoulder arthroplasty were generally favorable and closely tied to the belief that robotic assistance improves outcomes. These findings highlight the need to align public expectations with the limited available evidence through patient education and transparent shared decision-making as the use of this technology continues to expand. LEVEL OF EVIDENCE: Survey Study, Public.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42628628/",
+      "score": 74,
+      "score_reasoning": "Large national registry study (63,502 cases) from JSES showing significantly lower revision rates with crosslinked polyethylene in reverse shoulder arthroplasty, immediately actionable implant selection data.",
+      "bullets": [
+        "Most adults surveyed believe robotic shoulder arthroplasty improves accuracy, outcomes, and recovery compared to conventional surgery, but 62% would still choose a high-volume surgeon without robotics over a low-volume surgeon who uses it.",
+        "Among the general US public considering shoulder replacement, perceived outcome improvement was the strongest driver of preference for robotic assistance, with cost concerns and fear of equipment malfunction as the top deterrents.",
+        "Surgeons adopting robotic shoulder arthroplasty should counsel patients that public enthusiasm often outpaces current evidence, making transparent shared decision-making essential to set realistic expectations."
+      ]
+    },
+    {
+      "pmid": "42646642",
+      "title": "Medial meniscus posterior root repair with concomitant centralization does not demonstrate superior reduction of meniscal extrusion or improved clinical outcomes compared with isolated repair: A systematic review and meta-analysis.",
+      "authors": [
+        "Vasiliadis AV",
+        "Gkekas NK",
+        "Maris A",
+        "Colyvas N",
+        "Hantes M"
+      ],
+      "authors_short": "Vasiliadis AV, Gkekas NK, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To evaluate whether the addition of a meniscal centralization procedure to medial meniscus posterior root (MMPR) repair improves medial meniscus extrusion (MME) and patient-reported outcomes compared with isolated MMPR repair. METHODS: A systematic review and meta-analysis were conducted in accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. PubMed, Cochrane CENTRAL and Scopus were searched from inception to 28 February 2026. Comparative studies evaluating isolated MMPR repair versus MMPR repair combined with centralization procedure (including transtibial pull-out repair, posteromedial pull-out repair with all-inside sutures and anchor-based techniques) and reporting radiographic extrusion measured by magnetic resonance imaging and/or patient-reported outcomes were included. Effect estimates were calculated using change scores. Mean differences (MDs) were used for extrusion, and standardized mean differences (SMDs) were used for patient-reported outcomes. Heterogeneity was assessed using the I2 statistic, and pooled estimates were generated using a random-effects model. RESULTS: Six comparative studies (one randomized controlled trial [RCT] and five retrospective cohort studies) comprising 309 patients (167 isolated repair; 142 centralization repair) with a mean follow-up period of 11.2 months (range, 3-26.8 months) were included. Participants were predominantly female, with mean age of 50.3-66.4 years, body mass index of 22.5-29\u2009kg/m2 and Kellgren-Lawrence\u2009\u2264\u20092. The overall pooled analysis demonstrated no significant difference in MME reduction between centralization and isolated repair (MD 0.4\u2009mm; 95% confidence interval [CI] -0.34 to 1.22; p\u2009=\u20090.27; I2\u2009=\u200989%). Although post-operative MME was lower in the centralization group (3.3 vs. 3.8\u2009mm), the absolute difference between groups was only 0.6\u2009mm, suggesting limited clinical relevance. No significant differences were observed between groups in Lysholm (p\u2009=\u20090.93), International Knee Documentation Committee (p\u2009=\u20090.13) or visual analogue scale pain scores (p\u2009=\u20090.10). Reporting of complications was inconsistent, with no conversions to total knee arthroplasty during follow-up. CONCLUSIONS: The addition of a meniscal centralization to MMPR repair does not demonstrate a consistent reduction in meniscal extrusion or improvement in patient-reported outcomes compared with isolated MMPR repair. Given the heterogeneity of the current evidence and the predominance of non-randomized studies, further high-quality RCTs are required to clarify its clinical value. LEVEL OF EVIDENCE: Level II.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42646642/",
+      "score": 73,
+      "score_reasoning": "Prospective cohort demonstrating critical disconnect between patient-reported PASS thresholds and objective quadriceps symmetry at 1 year post-ACLR, with direct implications for return-to-sport criteria.",
+      "bullets": [
+        "Adding meniscal centralization to medial meniscus posterior root repair did not reduce extrusion or improve pain and function scores compared to root repair alone.",
+        "The 0.6 mm difference in postoperative extrusion between groups is unlikely to matter clinically for middle-aged to older patients with early knee arthritis.",
+        "Surgeons can perform isolated posterior root repair without centralization and expect equivalent short-term outcomes based on current evidence."
+      ]
+    },
+    {
+      "pmid": "42644620",
+      "title": "The Superior Fascicle of the Anterior Talofibular Ligament Functions as a Restraint Against Internal Rotation: A Cadaveric Biomechanical Study.",
+      "authors": [
+        "Koyama T",
+        "Teramoto A",
+        "Mori Y",
+        "Murahashi Y",
+        "Takahashi K",
+        "Ueda N",
+        "Watanabe K",
+        "Aizawa T"
+      ],
+      "authors_short": "Koyama T, Teramoto A, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Lateral ankle sprains frequently result in anterior talofibular ligament (ATFL) dysfunction, leading to chronic lateral ankle instability. The ATFL consists of superior and inferior fascicles; however, the stabilizing role of the superior fascicle remains unclear. We biomechanically evaluated its function using cadaveric models. METHODS: Nine frozen cadaveric ankles were tested using a robotic system (FRS2015). The superior fascicle was sequentially transected arthroscopically to simulate cumulative 3 injury types: type 1, partial detachment at the medial margin of the fibular attachment; type 2, proximal detachment; and type 3, complete detachment. Anterior talar translation, internal rotation, and inversion angles relative to the tibia were measured as displacements under the anterior drawer, internal rotation, and inversion loads, respectively, at 15\u00b0 dorsiflexion and 15\u00b0 and 30\u00b0 plantarflexion. In situ forces and ankle kinematics were also measured. RESULTS: Internal rotation displacement at 30\u00b0 plantarflexion was significantly greater in type 3 than in the intact (mean difference, 2.9\u00b0; 95% CI, 0.6\u00b0-5.0\u00b0; P\u2009=\u2009.01), type 1 (mean difference, 2.6\u00b0; 95% CI, 0.5\u00b0-4.8\u00b0; P\u2009=\u2009.02), and type 2 (cumulative with type 1; mean difference, 2.5\u00b0; 95% CI, 0.4\u00b0-4.5\u00b0; P\u2009=\u2009.02). With the numbers available, no significant differences were found among intact, type 1, and type 2, nor in anterior or inversion displacement across any conditions. The in situ force was greater in type 3 than in type 1 during anterior drawer and internal rotation loading, and ankle kinematics did not differ. CONCLUSION: Partial injury to the superior fascicle of the ATFL was not associated with a statistically significant difference in ankle instability under the tested conditions, whereas complete injury was associated with significantly greater internal rotational displacement. CLINICAL RELEVANCE: Injury to the superior fascicle of the ATFL is associated with increased internal rotational laxity, supporting the use of internal rotation testing, such as the anterolateral drawer test, when evaluating suspected ATFL injury.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42644620/",
+      "score": 70,
+      "score_reasoning": "Systematic review and meta-analysis (309 patients) showing meniscal centralization adds no benefit over isolated MMPR repair, directly relevant to a technically demanding and increasingly performed procedure.",
+      "bullets": [
+        "Complete tear of the superior fascicle of the ATFL increases internal rotation of the talus, particularly in plantarflexion, while partial tears do not produce measurable instability.",
+        "This applies to patients with lateral ankle sprains where superior fascicle injury is suspected, a pattern that can be missed with standard anterior drawer and inversion testing alone.",
+        "Clinicians evaluating lateral ankle instability should include internal rotation provocation testing, such as the anterolateral drawer test, to detect superior fascicle ATFL injury."
+      ]
+    },
+    {
+      "pmid": "42647020",
+      "title": "Patient-reported acceptable symptom state does not reflect quadriceps symmetry 1 year after ACL reconstruction.",
+      "authors": [
+        "Pineda T",
+        "Varady NH",
+        "Mazy D",
+        "Jacquet C",
+        "Druel J",
+        "Ollivier M"
+      ],
+      "authors_short": "Pineda T, Varady NH, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To quantify the agreement between achievement of the validated patient acceptable symptom state (PASS) thresholds for Knee injury and Osteoarthritis Outcome Score (KOOS) Sport and KOOS Quality of Life (QoL) and isokinetic quadriceps limb symmetry index (LSI)\u2009\u2265\u200990% in a prospective cohort undergoing primary anterior cruciate ligament reconstruction (ACLR), and to determine whether this agreement was modified by autograft type. METHODS: Ninety consecutive patients undergoing primary ACLR with systematic anterolateral augmentation were prospectively allocated to three autograft groups in cohorts of 30: rectus femoris (RF), quadriceps tendon (QT) and hamstrings (HS). At 12 months postoperatively, all patients underwent concentric isokinetic testing at 60\u00b0/s and completed the KOOS Sport and Recreation and KOOS QoL subscales. Concordance between PASS achievement (KOOS Sport \u226575; KOOS QoL \u226562.5) and quadriceps LSI\u2009\u2265\u200990% was analysed using Cohen's kappa with bootstrap 95% confidence intervals and McNemar exact test. RESULTS: Agreement between PASS achievement and isokinetic quadriceps symmetry was absent: KOOS Sport versus LSI \u03ba\u2009=\u20090.060 (95% confidence interval [CI] -0.071 to 0.191; McNemar p\u2009<\u20090.001); KOOS QoL versus LSI \u03ba\u2009=\u20090.030 (95% CI -0.062 to 0.122; McNemar p\u2009<\u20090.001). Forty-two patients (46.7%) met the KOOS Sport PASS threshold while showing LSI\u2009<\u200990%, compared with only five patients who achieved quadriceps LSI\u2009\u2265\u200990% without meeting the KOOS Sport PASS threshold. Among patients who reached the KOOS Sport PASS threshold, 76% had concurrent quadriceps LSI scores below 90%. The pattern was consistent across the three autograft groups (RF 50%, QT 47%, HS 43%; \u03c72 p\u2009=\u20090.875). CONCLUSION: PASS achievement and isokinetic quadriceps symmetry capture distinct dimensions of recovery 1 year after ACLR. The two assessments diverged in approximately half of the cohort, and this discordance was independent of autograft type. Patient-reported and objective measures should be regarded as complementary rather than interchangeable, and a satisfactory PROM result alone should not be taken as evidence of restored quadriceps symmetry. LEVEL OF EVIDENCE: Level II, prospective comparative study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42647020/",
+      "score": 68,
+      "score_reasoning": "Large national registry analysis (24,947 osteotomies) providing robust short-term complication and reoperation benchmarks for HTO and DFO, immediately useful for patient counseling.",
+      "bullets": [
+        "At one year after ACL reconstruction, three in four patients who felt well enough by symptom questionnaires still had quadriceps strength deficits below the 90% symmetry threshold.",
+        "This disconnect between patient-reported satisfaction and objective quadriceps recovery was consistent regardless of whether the graft was rectus femoris, quadriceps tendon, or hamstrings.",
+        "In ACL patients at one year, a satisfactory symptom score alone should not be used to confirm adequate quadriceps recovery, and objective strength testing remains necessary."
+      ]
+    },
+    {
+      "pmid": "42636422",
+      "title": "Not the Last Word: The Epistemology, Metaphysics, and Practical Philosophy of Resident Selection.",
+      "authors": [
+        "Bernstein J"
+      ],
+      "authors_short": "Bernstein J",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42636422/",
+      "score": 65,
+      "score_reasoning": "Large propensity-matched database study (7,582 per cohort) quantifying significantly higher cardiovascular and other complications in aortic stenosis patients undergoing THA, with actionable TXA benefit signal.",
+      "bullets": [
+        "This paper examines the philosophical foundations of how orthopaedic residency programs select applicants, questioning whether current methods reliably identify the best candidates.",
+        "The analysis applies to orthopaedic program directors and selection committees responsible for resident recruitment decisions.",
+        "Current selection criteria may lack a sound epistemological basis, suggesting programs should critically reassess what they measure and why when choosing residents."
+      ]
+    },
+    {
+      "pmid": "42633591",
+      "title": "The Efficacy of Transosseous Foveal Repair Combined With Dorsal Reinforcement in the Treatment of Chronic Triangular Fibrocartilage Complex Injury With Severe Distal Radioulnar Joint Instability.",
+      "authors": [
+        "Zhang W",
+        "Wu T",
+        "Wang C",
+        "Ho PC",
+        "Sun L",
+        "Hou P"
+      ],
+      "authors_short": "Zhang W, Wu T, et al.",
+      "journal": "The Journal of hand surgery",
+      "journal_abbrev": "J Hand Surg Am",
+      "year": "2026",
+      "abstract": "PURPOSE: Mere triangular fibrocartilage complex (TFCC) foveal repair might not be sufficient to yield a favorable prognosis in severe distal radioulnar (DRU) joint instability. In this study, we aimed to evaluate the efficacy of allogeneic tendon graft reinforcement for dorsal structure repair following arthroscopically assisted transosseous foveal reconstruction. METHODS: A total of 21 patients were enrolled in the study, and the mean follow-up duration was 44.5 months. Clinical outcomes were evaluated using multiple assessment tools, including the visual analog scale pain score, grip strength, modified Mayo wrist score, and patient-rated wrist evaluation (PRWE) score. RESULTS: All patients had a notable reduction of wrist pain at the final follow-up with the mean visual analog scale pain score decreased from 5.5 to 0.7. The grip strength increased from 75.1% to 86.6% compared with the unaffected side. The modified Mayo wrist score increased from 68.9 to 90.3 and the PRWE score decreased from 50.4 to 8.9. Using a PRWE score decrease of 24 points or more as the criterion, all patients showed clinically meaningful improvements. CONCLUSIONS: In this uncontrolled case series, transosseous TFCC foveal repair combined with dorsal DRU joint reinforcement was associated with favorable clinical outcomes in patients with chronic TFCC injury and severe DRU joint instability. Comparative studies are required to determine whether the addition of dorsal reinforcement is superior to isolated foveal repair. TYPE OF STUDY/LEVEL OF EVIDENCE: Therapeutic IV.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42633591/",
+      "score": 63,
+      "score_reasoning": "Retrospective cohort (591 patients) demonstrating TXA reduces blood loss in posterior acetabular fracture fixation, a high-volume trauma procedure with directly applicable perioperative management findings.",
+      "bullets": [
+        "In 21 patients with chronic TFCC tears and severe distal radioulnar joint instability, combining transosseous foveal repair with dorsal allograft reinforcement reduced pain scores from 5.5 to 0.7 and improved grip strength from 75% to 87% of the unaffected side at roughly 4 years.",
+        "All patients met the threshold for clinically meaningful wrist function improvement, suggesting this combined repair reliably restores function in cases where isolated foveal repair has historically underperformed.",
+        "This technique applies to patients with chronic, severe distal radioulnar joint instability, but without a comparison group it remains unclear whether adding dorsal reinforcement outperforms foveal repair alone."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-08-27T13:10:14.319234-07:00"
+}
