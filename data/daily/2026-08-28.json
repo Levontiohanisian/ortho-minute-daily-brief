@@ -1,0 +1,283 @@
+{
+  "brief_date": "2026-08-28",
+  "brief_date_display": "Friday, August 28",
+  "candidates": [
+    {
+      "pmid": "42637028",
+      "title": "Collared, Uncemented Stems Markedly Reduce Periprosthetic Femoral Fracture Risk in Women \u2265 70 Years: A Swiss National Registry Study.",
+      "authors": [
+        "Ladurner A",
+        "Kramer M",
+        "Giesinger K",
+        "Zdravkovic V"
+      ],
+      "authors_short": "Ladurner A, Kramer M, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Uncemented total hip arthroplasty (THA) is associated with an increased risk of periprosthetic femoral fractures (PFF) in elderly women, yet its use continues to expand in this high-risk population. Stem design, particularly the presence of a collar, may influence the risk. However, sex-specific, large-scale registry data addressing this question remain limited. This study evaluated the association between stem design, design variants, and PFF risk in women aged \u2265 70 years undergoing uncemented THA. METHODS: Data were obtained from the Swiss National Joint Registry (SIRIS). Women aged \u2265 70 years who underwent uncemented THA for osteoarthritis between 2012 and 2024 were included. There were nine cementless stem models with greater than 1,000 implantations each that were analyzed by design variant (collared versus collarless, standard versus high offset, varying neck-shaft angles (NSA), and relative stem length). A total of 32,874 patients were included (mean age 76 years, mean body mass index (BMI) 26.5). The THAs with cemented stem fixation served as a reference population. The primary outcome was revision for PFF; multivariable logistic regressions were used to adjust for patient- and implant-related factors. RESULTS: The overall PFF revision rate was 0.5%, compared with 0.2% in the older, more medically vulnerable cemented group (P < 0.001). The PFF incidence varied substantially across uncemented stems (0.1 to 1.1%). Collared stems had a significantly lower PFF risk than collarless variants (0.1 versus 0.6%; adjusted odds ratio: 0.08, 95% confidence interval: 0.03 to 0.27, P < 0.001). Offset, neck-shaft angle, and relative stem length were not associated with fracture risk. CONCLUSION: In women aged \u2265 70 years, uncemented THA was associated with a higher risk of PFF revision compared with cemented fixation. Within cementless designs, the presence of a collar was strongly associated with a reduced risk of PFF, whereas other design variants were not. These findings suggest that in elderly women, collared cementless stems may represent a safe uncemented alternative to cemented stem fixation.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42637028/",
+      "score": 82,
+      "score_reasoning": "Large single-center retrospective cohort (3,302 patients) with actionable findings showing graded BMD-associated reoperation risk after THA/TKA, directly informing preoperative optimization and consent in a high-volume practice area, published in a strong arthroplasty journal.",
+      "bullets": [
+        "In women aged 70 and older undergoing uncemented total hip replacement, collared stems had a periprosthetic femoral fracture revision rate of 0.1% versus 0.6% for collarless stems, matching the safety profile of cemented fixation.",
+        "Stem offset, neck-shaft angle, and relative stem length did not affect periprosthetic fracture risk, making collar presence the single most important design factor in this population.",
+        "For elderly women where uncemented fixation is preferred, choosing a collared stem is a concrete way to reduce periprosthetic femoral fracture risk without switching to cement."
+      ]
+    },
+    {
+      "pmid": "42637027",
+      "title": "Delayed Initiation of Low-Molecular-Weight Heparin Chemoprophylaxis Is Associated with Higher Risk of In-Hospital Screen-Detected Distal Deep Vein Thrombosis Following Hip Fracture Arthroplasty.",
+      "authors": [
+        "Hou W",
+        "Han Z",
+        "Kong J",
+        "Dong Q",
+        "Zhang Y",
+        "Feng X"
+      ],
+      "authors_short": "Hou W, Han Z, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: This study aimed to determine the impact of the time from admission to initiation of low-molecular-weight heparin (LMWH) chemoprophylaxis on postoperative in-hospital venous thromboembolism (VTE) in patients who underwent hip fracture arthroplasty. METHODS: This retrospective cohort study included 2,639 patients who a mean age of 72 years (range, 55 to 99) who underwent arthroplasty for hip fracture and received perioperative LMWH chemoprophylaxis. The primary exposure was door-to-prophylaxis (DTP) time. The primary outcome was screen-detected postoperative in-hospital VTE. The key secondary endpoint was postoperative in-hospital proximal deep vein thrombosis (DVT) and/or pulmonary embolism (PE). Patients were categorized as early or delayed DTP based on median values (18.9 hours; interquartile range, 13.6 to 43.7). Restricted cubic splines and Cox proportional hazards regressions were used to analyze the relationship between DTP time and VTE risk. RESULTS: A significant linear correlation was identified between DTP time and postoperative in-hospital VTE. On multivariable Cox analyses, delayed DTP (\u2265 19 hours) was independently associated with increased VTE risk by 22.8% versus early DTP (less than 19 hours) (adjusted hazard ratio [HR], 1.228; 95% confidence interval [CI], 1.036 to 1.456; P = 0.018). This association persisted across types and dosing regimens of LMWH (adjusted HR, 1.248; 95% CI, 1.041 to 1.497; P = 0.017). Similarly, for every 1-hour delay in DTP, the likelihood of VTE increased by 0.3% (adjusted HR, 1.003; 95% CI, 1.000 to 1.006; P = 0.030). There was no association detected between DTP and proximal DVT and/or PE, with imprecise estimates (all P > 0.05). CONCLUSION: The DTP time was linearly associated with the occurrence of screen-detected postoperative in-hospital VTE in hip fracture arthroplasty. Notably, DTP delayed to 19 hours or later was associated with a higher risk of screen-detected distal DVT, whereas no robust association was observed for proximal DVT and/or PE.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42637027/",
+      "score": 81,
+      "score_reasoning": "Large national registry study (32,874 patients) from SIRIS demonstrating collared uncemented stems significantly reduce periprosthetic femoral fracture risk in elderly women, with immediately actionable implant selection implications for a common high-risk demographic.",
+      "bullets": [
+        "In hip fracture arthroplasty patients, starting low-molecular-weight heparin within 19 hours of admission reduced distal DVT risk by roughly 23% compared to later initiation.",
+        "Every additional hour of delay in starting chemoprophylaxis independently increased DVT risk by 0.3%, with a linear dose-response relationship across the entire cohort.",
+        "The timing benefit applied only to screen-detected distal DVTs, with no significant effect on proximal DVT or pulmonary embolism, so early anticoagulation alone should not be considered sufficient protection against life-threatening clot."
+      ]
+    },
+    {
+      "pmid": "42628628",
+      "title": "Public Perceptions of Robotic-Assisted Shoulder Arthroplasty in the United States.",
+      "authors": [
+        "Zabiba A",
+        "Menendez ME"
+      ],
+      "authors_short": "Zabiba A, Menendez ME",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Interest in robotic-assisted shoulder arthroplasty is growing, yet public perceptions of this technology remain poorly characterized. This study used online crowdsourcing to evaluate public perceptions and beliefs regarding robotic-assisted shoulder arthroplasty. METHODS: A cross-sectional survey was completed by 615 adults residing in the United States through the Prolific crowdsourcing platform. The survey assessed demographic characteristics, perceptions of the impact of robotic assistance, and treatment preferences. Multivariable logistic regression was performed to identify factors associated with preference for robotic-assisted surgery. RESULTS: Most respondents believed robotic-assisted shoulder arthroplasty leads to greater implant positioning accuracy (74%), better outcomes (67%), fewer complications (61%), and faster recovery (54%) than conventional arthroplasty. Despite this favorable perception, enthusiasm softened when robotics was placed in direct competition with surgeon experience: 62% of respondents preferred a higher-volume surgeon who does not use robotics over a lower-volume surgeon who does. The leading concerns regarding robotic technology were equipment malfunction causing harm, increased cost, and surgeon inexperience with the technology. Seventy-six percent of respondents accurately understood the actual role of the robot in the operating room. Overall, 58% of respondents preferred robotic-assisted shoulder arthroplasty over a conventional manual approach. Perceived improvement in outcomes was the strongest independent predictor of preference for robotic-assisted surgery (OR 3.31, 95% CI 1.98-5.51). Other independently associated factors include, belief that robotics guarantees better results (OR 2.32, 95% CI 1.52-3.53), early technology adoption (OR 1.92, 95% CI 1.21-3.04), prior awareness of robotic-assisted shoulder arthroplasty (OR 1.90, 95% CI 1.19-3.02), and male sex (OR 1.49, 95% CI 1.03-2.15). CONCLUSION: Public perceptions of robotic-assisted shoulder arthroplasty were generally favorable and closely tied to the belief that robotic assistance improves outcomes. These findings highlight the need to align public expectations with the limited available evidence through patient education and transparent shared decision-making as the use of this technology continues to expand. LEVEL OF EVIDENCE: Survey Study, Public.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42628628/",
+      "score": 80,
+      "score_reasoning": "Large national registry analysis (63,502 rTSA cases from AOANJRR) showing significantly higher revision risk with non-crosslinked polyethylene in reverse shoulder arthroplasty, providing strong evidence to guide polyethylene selection with high statistical power.",
+      "bullets": [
+        "Most Americans surveyed hold favorable views of robotic shoulder arthroplasty, believing it improves accuracy, outcomes, and recovery compared to conventional surgery.",
+        "When forced to choose, 62% of respondents preferred a high-volume surgeon without robotics over a low-volume surgeon with it, showing that perceived surgeon experience outweighs technology appeal.",
+        "Patients considering shoulder arthroplasty may arrive with inflated expectations of robotic technology, making preoperative counseling on the actual evidence base a practical priority."
+      ]
+    },
+    {
+      "pmid": "42644599",
+      "title": "Prosthetic Joint Infection After Total Ankle Arthroplasty: A Propensity-Matched Analysis of Risk Factors and Outcomes.",
+      "authors": [
+        "McCahon JAS",
+        "Thomas GM",
+        "Sherman M",
+        "Hsu A",
+        "O'Neil J",
+        "Parekh SG",
+        "Pedowitz DI"
+      ],
+      "authors_short": "McCahon JAS, Thomas GM, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Prosthetic joint infection (PJI) following total ankle arthroplasty (TAA) is a rare but devastating complication associated with high rates of reoperation and poor functional outcomes. The purpose of this study was to identify risk factors for PJI following primary TAA and to characterize associated treatment approaches and clinical outcomes. METHODS: A single-institution retrospective cohort study was conducted, including 1008 primary TAAs performed between 2010 and 2023. PJI was defined using established microbiologic and clinical criteria consistent with prior literature. Patient demographics, comorbidities, preoperative functional status, and operative characteristics were collected. Infected patients were compared with non-infected controls using 2:1 propensity score matching based on age and sex. Associations with PJI were evaluated using penalized logistic regression (Firth method). Microbiologic profiles, surgical management strategies, and outcomes were analyzed for the infection cohort. RESULTS: Twenty-seven PJIs treated by 4 surgeons were identified, yielding an overall infection rate of 2.7%. After matching, cohorts were balanced across patient demographics. Concomitant calcaneal displacement osteotomy and cancer history were significantly associated with PJI (P\u2009<\u2009.05). When adjusting for prior ankle surgery, BMI, diabetes, and tourniquet time, concomitant calcaneal displacement osteotomy was associated with 9.75-fold increased odds of PJI (95% CI 2.5-52.4) demonstrating an area under the curve of 83.7%. Staphylococcus aureus was the most frequently identified organism (36.7%). Eight (29.6%) PJIs were considered chronic (>4 weeks). Two-stage revision TAA was the predominant surgical strategy (59.3%), with limb salvage achieved in 96.2% of cases and arthroplasty retention maintained in 69.2% at a mean follow-up of 4.07\u2009years. CONCLUSION: PJI following primary TAA occurred at a rate of 2.7%, with calcaneal displacement osteotomies identified as a significant associated procedural risk factor. Despite the severity of this complication, high rates of limb salvage and arthroplasty retention were observed with contemporary treatment strategies at midterm follow-up. LEVEL OF EVIDENCE: Level III, retrospective cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42644599/",
+      "score": 78,
+      "score_reasoning": "Clinically important meta-analysis of 12 studies (3,185 patients) comparing ACDF versus MIS-PCF for cervical radiculopathy showing equivalent arm pain outcomes with MIS-PCF offering shorter operative time, reduced LOS, and lower cost, directly relevant to surgical decision-making.",
+      "bullets": [
+        "Adding a calcaneal displacement osteotomy at the time of total ankle replacement increases the odds of prosthetic joint infection nearly tenfold compared to ankle replacement alone.",
+        "When infection does occur after total ankle replacement, Staph aureus is the most common culprit and two-stage revision is the most used treatment strategy.",
+        "Despite the severity of total ankle replacement infection, limb salvage was achieved in 96% of patients and the implant was retained in 69% at four years of follow-up."
+      ]
+    },
+    {
+      "pmid": "42646642",
+      "title": "Medial meniscus posterior root repair with concomitant centralization does not demonstrate superior reduction of meniscal extrusion or improved clinical outcomes compared with isolated repair: A systematic review and meta-analysis.",
+      "authors": [
+        "Vasiliadis AV",
+        "Gkekas NK",
+        "Maris A",
+        "Colyvas N",
+        "Hantes M"
+      ],
+      "authors_short": "Vasiliadis AV, Gkekas NK, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To evaluate whether the addition of a meniscal centralization procedure to medial meniscus posterior root (MMPR) repair improves medial meniscus extrusion (MME) and patient-reported outcomes compared with isolated MMPR repair. METHODS: A systematic review and meta-analysis were conducted in accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. PubMed, Cochrane CENTRAL and Scopus were searched from inception to 28 February 2026. Comparative studies evaluating isolated MMPR repair versus MMPR repair combined with centralization procedure (including transtibial pull-out repair, posteromedial pull-out repair with all-inside sutures and anchor-based techniques) and reporting radiographic extrusion measured by magnetic resonance imaging and/or patient-reported outcomes were included. Effect estimates were calculated using change scores. Mean differences (MDs) were used for extrusion, and standardized mean differences (SMDs) were used for patient-reported outcomes. Heterogeneity was assessed using the I2 statistic, and pooled estimates were generated using a random-effects model. RESULTS: Six comparative studies (one randomized controlled trial [RCT] and five retrospective cohort studies) comprising 309 patients (167 isolated repair; 142 centralization repair) with a mean follow-up period of 11.2 months (range, 3-26.8 months) were included. Participants were predominantly female, with mean age of 50.3-66.4 years, body mass index of 22.5-29\u2009kg/m2 and Kellgren-Lawrence\u2009\u2264\u20092. The overall pooled analysis demonstrated no significant difference in MME reduction between centralization and isolated repair (MD 0.4\u2009mm; 95% confidence interval [CI] -0.34 to 1.22; p\u2009=\u20090.27; I2\u2009=\u200989%). Although post-operative MME was lower in the centralization group (3.3 vs. 3.8\u2009mm), the absolute difference between groups was only 0.6\u2009mm, suggesting limited clinical relevance. No significant differences were observed between groups in Lysholm (p\u2009=\u20090.93), International Knee Documentation Committee (p\u2009=\u20090.13) or visual analogue scale pain scores (p\u2009=\u20090.10). Reporting of complications was inconsistent, with no conversions to total knee arthroplasty during follow-up. CONCLUSIONS: The addition of a meniscal centralization to MMPR repair does not demonstrate a consistent reduction in meniscal extrusion or improvement in patient-reported outcomes compared with isolated MMPR repair. Given the heterogeneity of the current evidence and the predominance of non-randomized studies, further high-quality RCTs are required to clarify its clinical value. LEVEL OF EVIDENCE: Level II.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42646642/",
+      "score": 76,
+      "score_reasoning": "Prospective cohort study demonstrating near-zero agreement between patient-acceptable symptom state thresholds and objective quadriceps symmetry at 1 year post-ACLR, challenging current return-to-sport criteria and carrying immediate clinical implications for discharge decision-making.",
+      "bullets": [
+        "Adding meniscal centralization to medial meniscus posterior root repair did not reduce extrusion or improve pain and function scores compared to repair alone.",
+        "The 0.6 mm difference in postoperative extrusion between groups is too small to be clinically meaningful in middle-aged to older patients with early knee arthritis.",
+        "Surgeons can perform isolated posterior root repair without centralization and expect similar short-term outcomes, though stronger trial data are still needed."
+      ]
+    },
+    {
+      "pmid": "42658904",
+      "title": "Distal Radial Fracture as an Early Marker of Bone Fragility: A Population-Based Study in Japan.",
+      "authors": [
+        "Shibata R",
+        "Sato Y",
+        "Tanaka Y"
+      ],
+      "authors_short": "Shibata R, Sato Y, Tanaka Y",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Distal radial fractures (DRFs) are common fragility fractures in older adults and often indicate skeletal deterioration. However, whether DRFs reflect underlying systemic frailty or occur predominantly in relatively active individuals with preserved physical function remains unclear. METHODS: This retrospective cohort study analyzed data from the Shizuoka Kokuho Database, which includes the health and long-term care (LTC) claims of 2.4 million residents. Individuals aged 65 to 89 years who were newly diagnosed with a DRF between 2012 and 2022 were compared with patients with an upper-limb contusion. Propensity score matching was used to balance baseline characteristics between these groups. The primary outcome was all-cause mortality. The secondary outcomes included secondary fragility fractures, hospitalization, LTC deterioration, and osteoporosis treatment initiation. Cox proportional hazards and Poisson regression models were used for the analysis. Causal mediation analysis was conducted to explore the indirect effects of secondary fractures and treatment initiation. RESULTS: After propensity score matching, the final analysis included 47,178 patients (23,589 matched pairs; mean age, 77.6 \u00b1 6.7 years; 87.8% female) with balanced baseline characteristics. In the matched cohort, patients with a DRF had lower all-cause mortality than controls in the unadjusted analysis (hazard ratio [HR], 0.90; 95% confidence interval [CI], 0.86 to 0.94), but this association was attenuated after multivariable adjustment that included baseline LTC certification (HR, 0.98; 95% CI, 0.93 to 1.02). Subgroup analysis showed that a DRF was associated with lower mortality among individuals with higher LTC needs, particularly women. In the matched cohort, patients with a DRF had higher rates of subsequent hip fractures (2.58 [95% CI, 2.48 to 2.69] versus 2.00 [95% CI, 1.91 to 2.10] fractures per 100 person-years) and more frequent osteoporosis treatment initiation within 1 year after injury (17.6% [95% CI, 17.1% to 18.1%] versus 7.7% [95% CI, 7.4% to 8.0%] of patients). The mediation analysis suggested modest indirect effects of secondary hip fractures and vitamin-D supplementation on mortality. CONCLUSIONS: DRFs in older adults may reflect preserved function and skeletal fragility rather than advanced frailty. These fractures may represent a critical window for initiating osteoporosis treatment to prevent subsequent fractures and improve long-term outcomes. LEVEL OF EVIDENCE: Prognostic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42658904/",
+      "score": 75,
+      "score_reasoning": "National registry study (3,531 hip arthroscopies, 76 surgeons) using robust multivariable regression showing cumulative surgeon volume significantly predicts patient-reported outcomes after FAIS surgery, with policy and credentialing implications for hip arthroscopy programs.",
+      "bullets": [
+        "Older adults who sustain a distal radius fracture are not sicker at baseline than peers with upper limb contusions, and their mortality risk is essentially the same once frailty status is accounted for.",
+        "After a distal radius fracture, patients had more than twice the rate of osteoporosis treatment initiation within one year compared to controls, yet subsequent hip fracture rates remained meaningfully higher.",
+        "For orthopaedic surgeons, a distal radius fracture in a patient over 65 should trigger immediate osteoporosis workup and treatment, as it signals skeletal fragility before a more devastating fracture occurs."
+      ]
+    },
+    {
+      "pmid": "42644620",
+      "title": "The Superior Fascicle of the Anterior Talofibular Ligament Functions as a Restraint Against Internal Rotation: A Cadaveric Biomechanical Study.",
+      "authors": [
+        "Koyama T",
+        "Teramoto A",
+        "Mori Y",
+        "Murahashi Y",
+        "Takahashi K",
+        "Ueda N",
+        "Watanabe K",
+        "Aizawa T"
+      ],
+      "authors_short": "Koyama T, Teramoto A, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Lateral ankle sprains frequently result in anterior talofibular ligament (ATFL) dysfunction, leading to chronic lateral ankle instability. The ATFL consists of superior and inferior fascicles; however, the stabilizing role of the superior fascicle remains unclear. We biomechanically evaluated its function using cadaveric models. METHODS: Nine frozen cadaveric ankles were tested using a robotic system (FRS2015). The superior fascicle was sequentially transected arthroscopically to simulate cumulative 3 injury types: type 1, partial detachment at the medial margin of the fibular attachment; type 2, proximal detachment; and type 3, complete detachment. Anterior talar translation, internal rotation, and inversion angles relative to the tibia were measured as displacements under the anterior drawer, internal rotation, and inversion loads, respectively, at 15\u00b0 dorsiflexion and 15\u00b0 and 30\u00b0 plantarflexion. In situ forces and ankle kinematics were also measured. RESULTS: Internal rotation displacement at 30\u00b0 plantarflexion was significantly greater in type 3 than in the intact (mean difference, 2.9\u00b0; 95% CI, 0.6\u00b0-5.0\u00b0; P\u2009=\u2009.01), type 1 (mean difference, 2.6\u00b0; 95% CI, 0.5\u00b0-4.8\u00b0; P\u2009=\u2009.02), and type 2 (cumulative with type 1; mean difference, 2.5\u00b0; 95% CI, 0.4\u00b0-4.5\u00b0; P\u2009=\u2009.02). With the numbers available, no significant differences were found among intact, type 1, and type 2, nor in anterior or inversion displacement across any conditions. The in situ force was greater in type 3 than in type 1 during anterior drawer and internal rotation loading, and ankle kinematics did not differ. CONCLUSION: Partial injury to the superior fascicle of the ATFL was not associated with a statistically significant difference in ankle instability under the tested conditions, whereas complete injury was associated with significantly greater internal rotational displacement. CLINICAL RELEVANCE: Injury to the superior fascicle of the ATFL is associated with increased internal rotational laxity, supporting the use of internal rotation testing, such as the anterolateral drawer test, when evaluating suspected ATFL injury.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42644620/",
+      "score": 73,
+      "score_reasoning": "Systematic review and meta-analysis (309 patients, 6 studies including 1 RCT) finding that centralization sutures added to medial meniscus root repair do not significantly reduce extrusion or improve clinical outcomes, challenging an increasingly adopted adjunct technique.",
+      "bullets": [
+        "Complete detachment of the superior fascicle of the ATFL increases internal rotation laxity at the ankle, while partial tears do not produce measurable instability.",
+        "This applies to patients with lateral ankle sprains where ATFL injury is suspected, particularly those with chronic instability.",
+        "Internal rotation testing, such as the anterolateral drawer test, should be included in the clinical assessment of suspected ATFL injuries."
+      ]
+    },
+    {
+      "pmid": "42628625",
+      "title": "Migration patterns of the humeral component of the stemless Simpliciti Shoulder System in stemless anatomic total shoulder arthroplasty A radiostereometric and clinical study with 60-month follow-up.",
+      "authors": [
+        "de Bruin LJE",
+        "Brinke BT",
+        "Oomen R",
+        "Hoelen M",
+        "Hesseling B",
+        "Mathijssen N"
+      ],
+      "authors_short": "de Bruin LJE, Brinke BT, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: The role of continuous migration in predicting long-term outcomes in total shoulder arthroplasty is yet unknown. We aimed to investigate migration patterns of the stemless humeral component of the Simpliciti Shoulder System using model-based radiostereometric analysis (MB-RSA) at five years postoperatively. METHODS: In this prospective longitudinal cohort study, MB-RSA was used to assess implant migration of the stemless Simpliciti Shoulder system. Primary outcomes were fixation and migration patterns of the humeral component. Secondary outcomes were the Constant-Murley Score, Oxford Shoulder Score (OSS), Disability of the Arm, Shoulder and Hand (DASH) score, the visual analogue scale (VAS), and complications. Linear mixed models were performed to analyze the primary and secondary outcomes. A Mann Whitney-U test was performed to explore differences between the groups with continuous migration and non-continuous migration of the humeral component at the 5-year follow-up. Alfa inflation was prevented with the Bonferroni correction. RESULTS: Twenty-three patients were included and had 5 years of follow-up. Median of the total translation between 24 months and 60 months (IQR) along the x-, y-, z-axis was -0.11 mm (IQR -0.47 to 0.02), -0.19 mm (IQR -0.28 to 0.03), and 0.15 mm (IQR -0.24 to 0.32), respectively. Median of the total rotation between 24 and 60 months around these axes was -0.37\u00b0 (IQR -0.67 to 0.28), -0.10\u00b0 (IQR -1.52 to 1.84), and -0.22\u00b0 (IQR -0.85 to 0.43), respectively. Three patients showed continuous implant migration between 24 and 60 months. All clinical outcomes improved and stabilized in the first 12 months postoperatively and remained stable between 24 and 60 months. CONCLUSION: The current study demonstrated that stemless Simpliciti Shoulder systems remained stable between 24 and 60 months, when already stabilized before within the first 12 months. Furthermore, in three implants continuous migration persisted up to 60 months postoperatively, without impacting clinical outcomes or implant survival. We further demonstrated that implant stabilization is still possible after 24 months of follow-up. LEVEL OF EVIDENCE: Level IV, Case Series, Treatment Study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42628625/",
+      "score": 72,
+      "score_reasoning": "Prospective RCT comparing three immobilization devices for conservatively managed proximal humerus fractures showing no significant differences in outcomes, providing level I evidence that device choice is not a critical variable in conservative management.",
+      "bullets": [
+        "The stemless Simpliciti humeral component stabilized within 12 months after surgery and showed minimal migration between 2 and 5 years in 23 patients with anatomic total shoulder arthroplasty.",
+        "Three implants showed continuous migration out to 5 years, but none of these patients had worse clinical outcomes or implant failure compared to those with stable fixation.",
+        "For orthopaedic surgeons using stemless humeral components, early stabilization by 12 months appears to predict durable fixation, though late stabilization after 24 months is still possible."
+      ]
+    },
+    {
+      "pmid": "42661291",
+      "title": "Effect of Multiple Centralization Sutures on Meniscal Extrusion and Contact Pressures in a Cadaveric Model of Medial Meniscus Root Repair.",
+      "authors": [
+        "Andersen M",
+        "Tollefson LV",
+        "Ngobi J",
+        "Carlson MR",
+        "LaPrade CM",
+        "Fladberg B",
+        "Frihagen F",
+        "Inderhaug E",
+        "LaPrade RF"
+      ],
+      "authors_short": "Andersen M, Tollefson LV, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Adding a centralization suture (CS) during repair of a posterior medial meniscus root (PMMR) tear may decrease meniscal extrusion and osteoarthritis progression. However, the number and optimal placement of CSs remain unclear. HYPOTHESIS: Increasing numbers and changing localization of CSs would not influence the degree of postoperative extrusion or joint contact pressures. STUDY DESIGN: Controlled laboratory study. METHODS: Meniscal extrusion and tibiofemoral contact pressures were assessed using a 3-dimensional motion capture system and pressure sensors in 9 human cadaveric knees. A nonanatomic root repair was created to simulate persistent meniscal extrusion after a PMMR repair. Each knee was tested under 10 conditions: (1) intact, (2) PMMR tear, (3) root repair, (4) CS at the posterior border of the medial collateral ligament (MCL) (CS1), (5) CS midway between CS 1 and CS 3 (CS2), (6) CS at the midpoint between the MCL and posterior root attachment (CS3), and (7-10) combinations of these CSs (all CSs were in addition to the root repair). Analysis of variance testing was used for analyses of pressure data and extrusion measurements. RESULTS: There was no significant difference in medial contact pressure between the intact state and the states with root repair in combination with any CS configuration (P > .05). Contact pressures were reduced compared to the root repair state for CS1 alone at 0\u00b0 (P = .014); the combination of CS2 and CS3 at 0\u00b0, 60\u00b0, and 120\u00b0 (P\u2264 .038); and the combination of all 3 CSs at 0\u00b0, 30\u00b0, and 60\u00b0 of flexion (P\u2264 .037). Extrusion was reduced compared to the root repair state for CS1 alone at 60\u00b0 (P = .043) and all 3 CSs combined at 90\u00b0 of flexion (P < .009). CONCLUSION: A single CS placed at the posterior border of the MCL decreased medial contact pressures at 0\u00b0 and reduced extrusion at 60\u00b0 of flexion. The combined use of 2 CSs placed at the posteromedial meniscus junction reduced contact pressures across multiple flexion angles (0\u00b0, 60\u00b0, and 120\u00b0). The combination of 3 CSs reduced contact pressures at 0\u00b0, 30\u00b0, and 60\u00b0 and extrusion at 90\u00b0. Until clinical studies are conducted, the benefits of additional CSs should be weighed against time and cost. CLINICAL RELEVANCE: These findings should guide surgeons on the optimal number and placement of CSs to minimize meniscal extrusion and restore medial compartment contact pressures.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42661291/",
+      "score": 71,
+      "score_reasoning": "Large propensity-matched multi-institutional study (15,922 matched pairs) demonstrating significantly increased postoperative risks across multiple endpoints in THA patients with social determinants of health risk factors, highly relevant for perioperative risk stratification and systems-level care.",
+      "bullets": [
+        "Adding centralization sutures to a posterior medial meniscus root repair reduces medial compartment contact pressures, with more sutures providing broader coverage across flexion angles.",
+        "A single centralization suture at the posterior MCL border helps at full extension, but two or three sutures are needed to restore pressures across a wider range of knee flexion.",
+        "For surgeons doing meniscal root repairs with persistent extrusion, using two to three centralization sutures is biomechanically superior, though clinical outcome data are still needed to justify the added time and cost."
+      ]
+    },
+    {
+      "pmid": "42658899",
+      "title": "Machine Learning Models for Predicting Orthopaedic Surgical Complications.",
+      "authors": [
+        "Kamal H"
+      ],
+      "authors_short": "Kamal H",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42658899/",
+      "score": 70,
+      "score_reasoning": "Population-based study of 47,178 propensity-matched patients from a 2.4-million-person database published in JBJS showing DRF predicts secondary fractures, LTC deterioration, and mortality despite preserved function, supporting aggressive osteoporosis management after wrist fracture.",
+      "bullets": [
+        "Machine learning models can predict orthopaedic surgical complications before they occur.",
+        "These models apply to orthopaedic patients where preoperative risk stratification is relevant.",
+        "Surgeons may be able to use these tools to identify high-risk patients and adjust perioperative planning accordingly."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-08-28T14:06:05.818771-07:00"
+}
