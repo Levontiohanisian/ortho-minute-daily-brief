@@ -1,0 +1,287 @@
+{
+  "brief_date": "2026-08-30",
+  "brief_date_display": "Sunday, August 30",
+  "candidates": [
+    {
+      "pmid": "42637028",
+      "title": "Collared, Uncemented Stems Markedly Reduce Periprosthetic Femoral Fracture Risk in Women \u2265 70 Years: A Swiss National Registry Study.",
+      "authors": [
+        "Ladurner A",
+        "Kramer M",
+        "Giesinger K",
+        "Zdravkovic V"
+      ],
+      "authors_short": "Ladurner A, Kramer M, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Uncemented total hip arthroplasty (THA) is associated with an increased risk of periprosthetic femoral fractures (PFF) in elderly women, yet its use continues to expand in this high-risk population. Stem design, particularly the presence of a collar, may influence the risk. However, sex-specific, large-scale registry data addressing this question remain limited. This study evaluated the association between stem design, design variants, and PFF risk in women aged \u2265 70 years undergoing uncemented THA. METHODS: Data were obtained from the Swiss National Joint Registry (SIRIS). Women aged \u2265 70 years who underwent uncemented THA for osteoarthritis between 2012 and 2024 were included. There were nine cementless stem models with greater than 1,000 implantations each that were analyzed by design variant (collared versus collarless, standard versus high offset, varying neck-shaft angles (NSA), and relative stem length). A total of 32,874 patients were included (mean age 76 years, mean body mass index (BMI) 26.5). The THAs with cemented stem fixation served as a reference population. The primary outcome was revision for PFF; multivariable logistic regressions were used to adjust for patient- and implant-related factors. RESULTS: The overall PFF revision rate was 0.5%, compared with 0.2% in the older, more medically vulnerable cemented group (P < 0.001). The PFF incidence varied substantially across uncemented stems (0.1 to 1.1%). Collared stems had a significantly lower PFF risk than collarless variants (0.1 versus 0.6%; adjusted odds ratio: 0.08, 95% confidence interval: 0.03 to 0.27, P < 0.001). Offset, neck-shaft angle, and relative stem length were not associated with fracture risk. CONCLUSION: In women aged \u2265 70 years, uncemented THA was associated with a higher risk of PFF revision compared with cemented fixation. Within cementless designs, the presence of a collar was strongly associated with a reduced risk of PFF, whereas other design variants were not. These findings suggest that in elderly women, collared cementless stems may represent a safe uncemented alternative to cemented stem fixation.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42637028/",
+      "score": 82,
+      "score_reasoning": "Large single-center retrospective cohort (3,302 patients) in JBJS demonstrating a clinically important graded association between preoperative BMD and reoperation after THA/TKA, directly actionable for preoperative optimization.",
+      "bullets": [
+        "In women aged 70 and older getting uncemented hip replacements, collared stems had a periprosthetic femur fracture revision rate of 0.1% versus 0.6% for collarless stems, a roughly 90% lower adjusted risk.",
+        "Stem offset, neck-shaft angle, and stem length did not affect fracture risk, so the collar is the design feature that matters in this population.",
+        "For elderly women where uncemented fixation is chosen, selecting a collared stem brings periprosthetic fracture rates close to those seen with cemented fixation."
+      ]
+    },
+    {
+      "pmid": "42637027",
+      "title": "Delayed Initiation of Low-Molecular-Weight Heparin Chemoprophylaxis Is Associated with Higher Risk of In-Hospital Screen-Detected Distal Deep Vein Thrombosis Following Hip Fracture Arthroplasty.",
+      "authors": [
+        "Hou W",
+        "Han Z",
+        "Kong J",
+        "Dong Q",
+        "Zhang Y",
+        "Feng X"
+      ],
+      "authors_short": "Hou W, Han Z, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: This study aimed to determine the impact of the time from admission to initiation of low-molecular-weight heparin (LMWH) chemoprophylaxis on postoperative in-hospital venous thromboembolism (VTE) in patients who underwent hip fracture arthroplasty. METHODS: This retrospective cohort study included 2,639 patients who a mean age of 72 years (range, 55 to 99) who underwent arthroplasty for hip fracture and received perioperative LMWH chemoprophylaxis. The primary exposure was door-to-prophylaxis (DTP) time. The primary outcome was screen-detected postoperative in-hospital VTE. The key secondary endpoint was postoperative in-hospital proximal deep vein thrombosis (DVT) and/or pulmonary embolism (PE). Patients were categorized as early or delayed DTP based on median values (18.9 hours; interquartile range, 13.6 to 43.7). Restricted cubic splines and Cox proportional hazards regressions were used to analyze the relationship between DTP time and VTE risk. RESULTS: A significant linear correlation was identified between DTP time and postoperative in-hospital VTE. On multivariable Cox analyses, delayed DTP (\u2265 19 hours) was independently associated with increased VTE risk by 22.8% versus early DTP (less than 19 hours) (adjusted hazard ratio [HR], 1.228; 95% confidence interval [CI], 1.036 to 1.456; P = 0.018). This association persisted across types and dosing regimens of LMWH (adjusted HR, 1.248; 95% CI, 1.041 to 1.497; P = 0.017). Similarly, for every 1-hour delay in DTP, the likelihood of VTE increased by 0.3% (adjusted HR, 1.003; 95% CI, 1.000 to 1.006; P = 0.030). There was no association detected between DTP and proximal DVT and/or PE, with imprecise estimates (all P > 0.05). CONCLUSION: The DTP time was linearly associated with the occurrence of screen-detected postoperative in-hospital VTE in hip fracture arthroplasty. Notably, DTP delayed to 19 hours or later was associated with a higher risk of screen-detected distal DVT, whereas no robust association was observed for proximal DVT and/or PE.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42637027/",
+      "score": 81,
+      "score_reasoning": "Large national registry study (32,874 patients) in Journal of Arthroplasty showing collared uncemented stems markedly reduce periprosthetic femoral fracture risk in high-risk elderly women, with immediate implant-selection implications.",
+      "bullets": [
+        "In hip fracture arthroplasty patients, starting LMWH within 19 hours of admission reduced in-hospital DVT risk compared to later initiation.",
+        "Every additional hour of delay in starting LMWH chemoprophylaxis incrementally increased DVT risk, with the association driven entirely by distal clots, not proximal DVT or PE.",
+        "For orthopaedic teams managing hip fracture patients, earlier anticoagulation initiation matters, and a clear admission-to-prophylaxis time target of under 19 hours is a reasonable clinical benchmark."
+      ]
+    },
+    {
+      "pmid": "42662133",
+      "title": "Socioeconomic Disparities in Outcomes After Primary Total Hip Arthroplasty: A Propensity-Matched Multi-Institutional Study.",
+      "authors": [
+        "Artus K",
+        "Anand L",
+        "Yanoff Z",
+        "Shoap S"
+      ],
+      "authors_short": "Artus K, Anand L, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Socioeconomic disadvantage has been associated with poorer outcomes following total hip arthroplasty (THA). This study evaluated the relationship between social determinants of health (SDoH) and short- and long-term postoperative outcomes after primary THA. METHODS: A retrospective cohort study was conducted using the TriNetX Dataworks-USA network. Adult patients undergoing elective primary THA were identified and stratified based on the presence of at least 1 International Classification of Diseases, Tenth Revision, Clinical Modification (ICD-10-CM) SDoH Z-code (Z55-Z65). Cohorts were matched in a 1:1 ratio using greedy nearest-neighbor propensity score matching with a caliper of 0.1 standard deviations of the logit of the propensity score, adjusting for age, sex, and medical comorbidities. Standardized mean differences <0.1 were considered indicative of adequate covariate balance. Postoperative outcomes evaluated included superficial surgical site infection, deep vein thrombosis, sepsis, myocardial infarction, and all-cause mortality at 30 days, 90 days, and 1 year following surgery. Risk ratios with 95% confidence intervals were calculated. RESULTS: After matching, 15,922 patients remained in each cohort. Patients with SDoH risk factors demonstrated significantly increased risks of superficial surgical site infection, deep vein thrombosis, sepsis, myocardial infarction, and all-cause mortality at multiple postoperative time points compared with controls. Elevated mortality risk persisted through 1 year postoperatively. CONCLUSIONS: Socioeconomic disadvantage, as identified by SDoH Z-codes, was associated with worse short- and long-term outcomes following primary THA. These findings support the incorporation of social risk factors into perioperative risk stratification and optimization strategies.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42662133/",
+      "score": 80,
+      "score_reasoning": "The 2025 AJRR Annual Report summarizing 4.6 million hip and knee arthroplasty procedures with new Kaplan-Meier survivorship methodology provides high-level national benchmarking data directly relevant to arthroplasty surgeons.",
+      "bullets": [
+        "Patients with documented socioeconomic risk factors had higher rates of surgical site infection, DVT, sepsis, heart attack, and death after primary total hip arthroplasty compared to matched controls.",
+        "The elevated mortality risk in socioeconomically disadvantaged THA patients persisted out to one year after surgery, not just the early postoperative period.",
+        "Orthopaedic surgeons should screen for social risk factors before elective THA and factor them into perioperative planning and risk counseling."
+      ]
+    },
+    {
+      "pmid": "42644619",
+      "title": "Anterior Cervical Diskectomy and Fusion versus Minimally Invasive Posterior Cervical Foraminotomy for the Treatment of Cervical Radiculopathy: A Meta-Analysis.",
+      "authors": [
+        "Boutros M",
+        "Awad G",
+        "Asmar C",
+        "Asmar R",
+        "Lovecchio FC"
+      ],
+      "authors_short": "Boutros M, Awad G, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Cervical radiculopathy can be managed surgically with anterior cervical diskectomy and fusion (ACDF) or minimally invasive posterior cervical foraminotomy (MIS-PCF). ACDF is widely used and provides indirect decompression and stabilization, while MIS-PCF preserves motion, avoids fusion-related complications, and may offer advantages in perioperative recovery. The aim of this meta-analysis was to compare surgical, patient-reported, and safety outcomes of MIS-PCF versus ACDF to guide clinical decision making. METHODS: A systematic literature search of PubMed, Scopus, Cochrane Library, and Google Scholar was conducted through October 2025 to identify comparative studies of MIS-PCF and ACDF for cervical radiculopathy. Data from 12 studies involving 3,185 patients were pooled. Outcomes included surgical time, length of stay, hospital cost, pain scores (VAS arm and neck), functional scores (NDI and EQ-5D), revision surgery rates, and complication rates. RESULTS: MIS-PCF was associated with significantly shorter surgical time (MD = -14.72 min, P < 0.001), reduced length of stay (MD = -0.99 days, P < 0.001), and lower hospital costs (MD = -$9,131.93, P < 0.001) compared with ACDF. Arm pain outcomes showed no significant differences between groups, either immediately postoperatively (P = 0.35) or at 1 to 2 years (P = 0.71). By contrast, MIS-PCF demonstrated significantly greater neck pain reduction immediately after surgery (MD = 0.42, P < 0.001) and at 1 to 2 years (MD = -0.22, P = 0.001). Functional outcomes (NDI and EQ-5D) were comparable between techniques (P \u2265 0.89). Revision surgery and overall complication rates did not differ significantly (P = 0.39 and P = 0.51, respectively). CONCLUSION: Both MIS-PCF and ACDF are effective surgical options for cervical radiculopathy, with comparable reported safety and functional outcomes. MIS-PCF may offer perioperative advantages and better neck pain outcomes, supporting its role as a motion-preserving and cost-efficient alternative to ACDF in appropriately selected patients.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42644619/",
+      "score": 79,
+      "score_reasoning": "JBJS paper on cervical spinal deformity surgery level-selection guidelines provides clear, evidence-based surgical decision-making principles from a high-impact journal applicable to spine-performing orthopaedic surgeons.",
+      "bullets": [
+        "In 3,185 patients across 12 studies, minimally invasive posterior cervical foraminotomy produced shorter operative time, shorter hospital stay, and roughly $9,000 lower hospital costs compared to anterior cervical diskectomy and fusion.",
+        "Arm pain relief and functional outcomes were equivalent between the two procedures at all time points, but foraminotomy produced modestly better neck pain scores both immediately after surgery and at one to two years.",
+        "For appropriately selected patients with cervical radiculopathy, posterior foraminotomy is a motion-preserving alternative to fusion with comparable safety and similar revision rates, and should be part of the surgical discussion."
+      ]
+    },
+    {
+      "pmid": "42661291",
+      "title": "Effect of Multiple Centralization Sutures on Meniscal Extrusion and Contact Pressures in a Cadaveric Model of Medial Meniscus Root Repair.",
+      "authors": [
+        "Andersen M",
+        "Tollefson LV",
+        "Ngobi J",
+        "Carlson MR",
+        "LaPrade CM",
+        "Fladberg B",
+        "Frihagen F",
+        "Inderhaug E",
+        "LaPrade RF"
+      ],
+      "authors_short": "Andersen M, Tollefson LV, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Adding a centralization suture (CS) during repair of a posterior medial meniscus root (PMMR) tear may decrease meniscal extrusion and osteoarthritis progression. However, the number and optimal placement of CSs remain unclear. HYPOTHESIS: Increasing numbers and changing localization of CSs would not influence the degree of postoperative extrusion or joint contact pressures. STUDY DESIGN: Controlled laboratory study. METHODS: Meniscal extrusion and tibiofemoral contact pressures were assessed using a 3-dimensional motion capture system and pressure sensors in 9 human cadaveric knees. A nonanatomic root repair was created to simulate persistent meniscal extrusion after a PMMR repair. Each knee was tested under 10 conditions: (1) intact, (2) PMMR tear, (3) root repair, (4) CS at the posterior border of the medial collateral ligament (MCL) (CS1), (5) CS midway between CS 1 and CS 3 (CS2), (6) CS at the midpoint between the MCL and posterior root attachment (CS3), and (7-10) combinations of these CSs (all CSs were in addition to the root repair). Analysis of variance testing was used for analyses of pressure data and extrusion measurements. RESULTS: There was no significant difference in medial contact pressure between the intact state and the states with root repair in combination with any CS configuration (P > .05). Contact pressures were reduced compared to the root repair state for CS1 alone at 0\u00b0 (P = .014); the combination of CS2 and CS3 at 0\u00b0, 60\u00b0, and 120\u00b0 (P\u2264 .038); and the combination of all 3 CSs at 0\u00b0, 30\u00b0, and 60\u00b0 of flexion (P\u2264 .037). Extrusion was reduced compared to the root repair state for CS1 alone at 60\u00b0 (P = .043) and all 3 CSs combined at 90\u00b0 of flexion (P < .009). CONCLUSION: A single CS placed at the posterior border of the MCL decreased medial contact pressures at 0\u00b0 and reduced extrusion at 60\u00b0 of flexion. The combined use of 2 CSs placed at the posteromedial meniscus junction reduced contact pressures across multiple flexion angles (0\u00b0, 60\u00b0, and 120\u00b0). The combination of 3 CSs reduced contact pressures at 0\u00b0, 30\u00b0, and 60\u00b0 and extrusion at 90\u00b0. Until clinical studies are conducted, the benefits of additional CSs should be weighed against time and cost. CLINICAL RELEVANCE: These findings should guide surgeons on the optimal number and placement of CSs to minimize meniscal extrusion and restore medial compartment contact pressures.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42661291/",
+      "score": 77,
+      "score_reasoning": "Large propensity-matched multi-institutional study (15,922 per cohort) in Arthroplasty Today quantifying the impact of social determinants of health on THA outcomes, highly relevant for risk stratification and health equity initiatives.",
+      "bullets": [
+        "Adding centralization sutures to a posterior medial meniscus root repair reduces medial compartment contact pressures, with more sutures providing benefit across a greater range of flexion angles.",
+        "A single centralization suture at the posterior border of the medial collateral ligament is effective at full extension, but two or three sutures are needed to restore pressures at mid and higher flexion angles.",
+        "Until clinical outcome data exist, surgeons should weigh the added operative time and cost of multiple centralization sutures against the incremental biomechanical gains shown in this cadaveric study."
+      ]
+    },
+    {
+      "pmid": "42636422",
+      "title": "Not the Last Word: The Epistemology, Metaphysics, and Practical Philosophy of Resident Selection.",
+      "authors": [
+        "Bernstein J"
+      ],
+      "authors_short": "Bernstein J",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42636422/",
+      "score": 76,
+      "score_reasoning": "Large propensity-matched database study in Journal of Arthroplasty identifying significantly elevated complication risks and a protective role of TXA in THA patients with aortic stenosis, directly applicable to perioperative management.",
+      "bullets": [
+        "This paper examines the reasoning and values behind how orthopaedic residency programs select candidates.",
+        "It applies to program directors and faculty involved in resident recruitment and admissions decisions.",
+        "The core message is that current selection methods rest on uncertain assumptions and deserve critical reexamination."
+      ]
+    },
+    {
+      "pmid": "42644599",
+      "title": "Prosthetic Joint Infection After Total Ankle Arthroplasty: A Propensity-Matched Analysis of Risk Factors and Outcomes.",
+      "authors": [
+        "McCahon JAS",
+        "Thomas GM",
+        "Sherman M",
+        "Hsu A",
+        "O'Neil J",
+        "Parekh SG",
+        "Pedowitz DI"
+      ],
+      "authors_short": "McCahon JAS, Thomas GM, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Prosthetic joint infection (PJI) following total ankle arthroplasty (TAA) is a rare but devastating complication associated with high rates of reoperation and poor functional outcomes. The purpose of this study was to identify risk factors for PJI following primary TAA and to characterize associated treatment approaches and clinical outcomes. METHODS: A single-institution retrospective cohort study was conducted, including 1008 primary TAAs performed between 2010 and 2023. PJI was defined using established microbiologic and clinical criteria consistent with prior literature. Patient demographics, comorbidities, preoperative functional status, and operative characteristics were collected. Infected patients were compared with non-infected controls using 2:1 propensity score matching based on age and sex. Associations with PJI were evaluated using penalized logistic regression (Firth method). Microbiologic profiles, surgical management strategies, and outcomes were analyzed for the infection cohort. RESULTS: Twenty-seven PJIs treated by 4 surgeons were identified, yielding an overall infection rate of 2.7%. After matching, cohorts were balanced across patient demographics. Concomitant calcaneal displacement osteotomy and cancer history were significantly associated with PJI (P\u2009<\u2009.05). When adjusting for prior ankle surgery, BMI, diabetes, and tourniquet time, concomitant calcaneal displacement osteotomy was associated with 9.75-fold increased odds of PJI (95% CI 2.5-52.4) demonstrating an area under the curve of 83.7%. Staphylococcus aureus was the most frequently identified organism (36.7%). Eight (29.6%) PJIs were considered chronic (>4 weeks). Two-stage revision TAA was the predominant surgical strategy (59.3%), with limb salvage achieved in 96.2% of cases and arthroplasty retention maintained in 69.2% at a mean follow-up of 4.07\u2009years. CONCLUSION: PJI following primary TAA occurred at a rate of 2.7%, with calcaneal displacement osteotomies identified as a significant associated procedural risk factor. Despite the severity of this complication, high rates of limb salvage and arthroplasty retention were observed with contemporary treatment strategies at midterm follow-up. LEVEL OF EVIDENCE: Level III, retrospective cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42644599/",
+      "score": 74,
+      "score_reasoning": "Meta-analysis of 3,185 patients in JAAOS comparing MIS-PCF versus ACDF for cervical radiculopathy, showing equivalent arm pain outcomes with shorter OR time and lower cost for MIS-PCF, directly informing surgical decision-making.",
+      "bullets": [
+        "Adding a calcaneal displacement osteotomy at the time of total ankle arthroplasty is associated with nearly 10 times the odds of developing a prosthetic joint infection.",
+        "When infection does occur after total ankle arthroplasty, Staph aureus is the most common organism and two-stage revision is the most used surgical strategy.",
+        "Despite the severity of prosthetic joint infection after total ankle arthroplasty, limb salvage was achieved in 96% of patients and the implant was retained in 69% at four years of follow-up."
+      ]
+    },
+    {
+      "pmid": "42647020",
+      "title": "Patient-reported acceptable symptom state does not reflect quadriceps symmetry 1 year after ACL reconstruction.",
+      "authors": [
+        "Pineda T",
+        "Varady NH",
+        "Mazy D",
+        "Jacquet C",
+        "Druel J",
+        "Ollivier M"
+      ],
+      "authors_short": "Pineda T, Varady NH, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To quantify the agreement between achievement of the validated patient acceptable symptom state (PASS) thresholds for Knee injury and Osteoarthritis Outcome Score (KOOS) Sport and KOOS Quality of Life (QoL) and isokinetic quadriceps limb symmetry index (LSI)\u2009\u2265\u200990% in a prospective cohort undergoing primary anterior cruciate ligament reconstruction (ACLR), and to determine whether this agreement was modified by autograft type. METHODS: Ninety consecutive patients undergoing primary ACLR with systematic anterolateral augmentation were prospectively allocated to three autograft groups in cohorts of 30: rectus femoris (RF), quadriceps tendon (QT) and hamstrings (HS). At 12 months postoperatively, all patients underwent concentric isokinetic testing at 60\u00b0/s and completed the KOOS Sport and Recreation and KOOS QoL subscales. Concordance between PASS achievement (KOOS Sport \u226575; KOOS QoL \u226562.5) and quadriceps LSI\u2009\u2265\u200990% was analysed using Cohen's kappa with bootstrap 95% confidence intervals and McNemar exact test. RESULTS: Agreement between PASS achievement and isokinetic quadriceps symmetry was absent: KOOS Sport versus LSI \u03ba\u2009=\u20090.060 (95% confidence interval [CI] -0.071 to 0.191; McNemar p\u2009<\u20090.001); KOOS QoL versus LSI \u03ba\u2009=\u20090.030 (95% CI -0.062 to 0.122; McNemar p\u2009<\u20090.001). Forty-two patients (46.7%) met the KOOS Sport PASS threshold while showing LSI\u2009<\u200990%, compared with only five patients who achieved quadriceps LSI\u2009\u2265\u200990% without meeting the KOOS Sport PASS threshold. Among patients who reached the KOOS Sport PASS threshold, 76% had concurrent quadriceps LSI scores below 90%. The pattern was consistent across the three autograft groups (RF 50%, QT 47%, HS 43%; \u03c72 p\u2009=\u20090.875). CONCLUSION: PASS achievement and isokinetic quadriceps symmetry capture distinct dimensions of recovery 1 year after ACLR. The two assessments diverged in approximately half of the cohort, and this discordance was independent of autograft type. Patient-reported and objective measures should be regarded as complementary rather than interchangeable, and a satisfactory PROM result alone should not be taken as evidence of restored quadriceps symmetry. LEVEL OF EVIDENCE: Level II, prospective comparative study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42647020/",
+      "score": 72,
+      "score_reasoning": "Large 25-year national HES analysis (24,947 osteotomies) in KSSTA providing robust short-term safety data for high tibial and distal femoral osteotomy, useful for patient counseling and quality benchmarking.",
+      "bullets": [
+        "One year after ACL reconstruction, three in four patients who felt well enough by symptom questionnaires still had quadriceps strength below 90% symmetry on objective testing.",
+        "This gap between feeling recovered and being objectively recovered held true regardless of whether the graft was rectus femoris, quadriceps tendon, or hamstring.",
+        "Patient-reported outcome scores after ACL reconstruction cannot substitute for isokinetic strength testing when making return-to-sport decisions."
+      ]
+    },
+    {
+      "pmid": "42665225",
+      "title": "Magnetic Resonance Imaging Findings in Simple Elbow Dislocations: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Sachinis NP",
+        "Bhardwaj V",
+        "Scaglia M",
+        "Gerace F",
+        "Christiane Messina J",
+        "Randelli PS",
+        "Arrigoni P"
+      ],
+      "authors_short": "Sachinis NP, Bhardwaj V, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Simple elbow dislocations are common injuries; however, the comprehensive magnetic resonance imaging (MRI) injury patterns remain incompletely understood. This systematic review aimed to determine the prevalence and patterns of soft tissue and acute traumatic osteochondral injuries on MRI following simple elbow dislocations. METHODS: We systematically searched PubMed and Scopus databases from 2000-2025 using a validated search strategy. Studies reporting MRI findings in adult or predominantly adult simple elbow dislocation cohorts were included. Quality assessment used the Newcastle-Ottawa Scale. Pooled prevalence estimates with 95% confidence intervals (CIs) were calculated using random-effects models with logit transformation. GRADE methodology assessed evidence quality. RESULTS: Eight studies were included, with 267 participants providing baseline MRI data. Seven studies contributed to each analysis of any collateral-ligament injury: medial collateral ligament (MCL) 90.6% (95% CI: 78.6%-96.2%; I2=69.0%) and lateral collateral ligament (LCL) 94.3% (95% CI: 86.3%-97.8%; I2=35.8%). Only 3 studies contributed compatible complete-tear data: MCL 53.0% (95% CI: 8.6%-93.1%; I2=86.6%) and LCL 59.4% (95% CI: 21.0%-88.9%; I2=69.5%). Two studies contributed acute traumatic osteochondral data, giving a pooled estimate of 57.2% (95% CI: 42.2%-70.9%; I2=59.7%). In a reader-choice sensitivity analysis, replacing the senior radiologist's assessment in the larger study with the junior radiologist's assessment reduced the estimate to 37.4%. CONCLUSION: MRI abnormalities involving both medial and lateral stabilizing structures are common after simple elbow dislocation, but their prognostic significance remains uncertain. MRI may be considered selectively when post-reduction stability is uncertain or further anatomical definition may influence management; the available evidence does not support routine use after every otherwise stable simple elbow dislocation. LEVEL OF EVIDENCE: Level IV; Descriptive Epidemiology Study; Systematic Review.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42665225/",
+      "score": 71,
+      "score_reasoning": "Retrospective cohort of 699 TAAs in Foot & Ankle International demonstrating BMI \u226530 independently doubles mechanical failure risk regardless of tibial stem/keel design, with direct implications for patient selection and counseling.",
+      "bullets": [
+        "After simple elbow dislocation, MRI shows ligament injury in over 90% of patients on both the medial and lateral sides.",
+        "Acute osteochondral injury is present in roughly half of these patients, a finding surgeons should factor in when evaluating slow recovery.",
+        "MRI is not warranted after every stable simple elbow dislocation, but is reasonable when post-reduction stability is unclear or anatomy will change management."
+      ]
+    },
+    {
+      "pmid": "42644291",
+      "title": "Age-Related Differences in Postoperative Outcomes After Arthroscopic Lateral Ligament Repair for Chronic Lateral Ankle Instability.",
+      "authors": [
+        "Moriwaki D",
+        "Yeo SY",
+        "Jujo Y",
+        "Nakasa T",
+        "Adachi N",
+        "Takao M"
+      ],
+      "authors_short": "Moriwaki D, Yeo SY, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Although arthroscopic lateral ankle ligament repair for chronic lateral ankle instability (CLAI) is widely performed, the association between patient age and postoperative outcomes remains unclear. This study aimed to investigate the clinical outcomes of arthroscopic lateral ankle ligament repair across a broad age spectrum. METHODS: We retrospectively reviewed 934 patients who underwent arthroscopic lateral ankle ligament repair for CLAI with a modified lasso-loop stitch using a suture anchor; all procedures were performed by a single surgeon. Patients were classified into 5 age groups: skeletally immature (SI; <13\u2009years), adolescents (AD; 13-19\u2009years), young adults (YA; 20-39\u2009years), middle-aged adults (MA; 40-59\u2009years), and elderly people (EP; \u226560\u2009years). Clinical outcomes were assessed preoperatively and at 1\u2009year postoperatively using the Self-Administered Foot Evaluation Questionnaire (SAFE-Q). Times to free gait, jogging, and return to full sports activities were also evaluated. Multivariable linear regression analyses were performed with postoperative SAFE-Q scores as dependent variables and age group, sex, and corresponding preoperative SAFE-Q scores as independent variables. RESULTS: Postoperative SAFE-Q scores improved significantly in all subscales across all age groups (all P\u2009<\u2009.001). Time to free gait (P\u2009=\u2009.004), jogging (P\u2009<\u2009.001), and return to full sports activities (P\u2009<\u2009.001) differed significantly among groups; older patients tended to require longer recovery times. SI, AD, and YA groups demonstrated higher postoperative SAFE-Q scores than the EP group in several subscales, particularly in physical and social functioning. In contrast, no age-related differences were observed in the sports activity subscale. CONCLUSION: The association between age and postoperative outcomes after arthroscopic lateral ankle ligament repair varied across outcome domains. Younger patients demonstrated better outcomes in several functional subscales and achieved faster recovery milestones; however, advanced age alone should not be considered a contraindication to arthroscopic lateral ankle ligament repair. LEVEL OF EVIDENCE: Level III, retrospective cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42644291/",
+      "score": 70,
+      "score_reasoning": "Single-institution retrospective study of 1,008 TAAs in Foot & Ankle International identifying concomitant calcaneal osteotomy as a nearly 10-fold risk factor for PJI, offering critical intraoperative planning implications.",
+      "bullets": [
+        "Arthroscopic lateral ankle ligament repair improved functional outcomes in all age groups, from children under 13 to patients over 60.",
+        "Older patients took longer to return to free gait, jogging, and full sport, and had lower physical and social function scores than younger patients at one year.",
+        "Age alone should not disqualify a patient from arthroscopic lateral ankle stabilisation, as meaningful improvement occurs across the full age range."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-08-30T07:41:35.423235-07:00"
+}
