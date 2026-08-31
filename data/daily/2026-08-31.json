@@ -1,0 +1,281 @@
+{
+  "brief_date": "2026-08-31",
+  "brief_date_display": "Monday, August 31",
+  "candidates": [
+    {
+      "pmid": "42637028",
+      "title": "Collared, Uncemented Stems Markedly Reduce Periprosthetic Femoral Fracture Risk in Women \u2265 70 Years: A Swiss National Registry Study.",
+      "authors": [
+        "Ladurner A",
+        "Kramer M",
+        "Giesinger K",
+        "Zdravkovic V"
+      ],
+      "authors_short": "Ladurner A, Kramer M, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Uncemented total hip arthroplasty (THA) is associated with an increased risk of periprosthetic femoral fractures (PFF) in elderly women, yet its use continues to expand in this high-risk population. Stem design, particularly the presence of a collar, may influence the risk. However, sex-specific, large-scale registry data addressing this question remain limited. This study evaluated the association between stem design, design variants, and PFF risk in women aged \u2265 70 years undergoing uncemented THA. METHODS: Data were obtained from the Swiss National Joint Registry (SIRIS). Women aged \u2265 70 years who underwent uncemented THA for osteoarthritis between 2012 and 2024 were included. There were nine cementless stem models with greater than 1,000 implantations each that were analyzed by design variant (collared versus collarless, standard versus high offset, varying neck-shaft angles (NSA), and relative stem length). A total of 32,874 patients were included (mean age 76 years, mean body mass index (BMI) 26.5). The THAs with cemented stem fixation served as a reference population. The primary outcome was revision for PFF; multivariable logistic regressions were used to adjust for patient- and implant-related factors. RESULTS: The overall PFF revision rate was 0.5%, compared with 0.2% in the older, more medically vulnerable cemented group (P < 0.001). The PFF incidence varied substantially across uncemented stems (0.1 to 1.1%). Collared stems had a significantly lower PFF risk than collarless variants (0.1 versus 0.6%; adjusted odds ratio: 0.08, 95% confidence interval: 0.03 to 0.27, P < 0.001). Offset, neck-shaft angle, and relative stem length were not associated with fracture risk. CONCLUSION: In women aged \u2265 70 years, uncemented THA was associated with a higher risk of PFF revision compared with cemented fixation. Within cementless designs, the presence of a collar was strongly associated with a reduced risk of PFF, whereas other design variants were not. These findings suggest that in elderly women, collared cementless stems may represent a safe uncemented alternative to cemented stem fixation.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42637028/",
+      "score": 82,
+      "score_reasoning": "Large single-center retrospective cohort (3,302 patients) in JBJS demonstrating a graded, clinically actionable association between preoperative BMD and reoperation risk after THA/TKA, directly informing preoperative optimization decisions.",
+      "bullets": [
+        "In women aged 70 and older having uncemented total hip replacement, collared stems reduced periprosthetic femoral fracture revision risk by over 90% compared to collarless stems (0.1% vs 0.6%).",
+        "Stem offset, neck-shaft angle, and relative stem length had no effect on fracture risk, making collar presence the single most important design variable in this age group.",
+        "For elderly women where cemented fixation is not preferred, a collared uncemented stem is the evidence-based implant choice to minimise periprosthetic fracture risk."
+      ]
+    },
+    {
+      "pmid": "42662133",
+      "title": "Socioeconomic Disparities in Outcomes After Primary Total Hip Arthroplasty: A Propensity-Matched Multi-Institutional Study.",
+      "authors": [
+        "Artus K",
+        "Anand L",
+        "Yanoff Z",
+        "Shoap S"
+      ],
+      "authors_short": "Artus K, Anand L, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Socioeconomic disadvantage has been associated with poorer outcomes following total hip arthroplasty (THA). This study evaluated the relationship between social determinants of health (SDoH) and short- and long-term postoperative outcomes after primary THA. METHODS: A retrospective cohort study was conducted using the TriNetX Dataworks-USA network. Adult patients undergoing elective primary THA were identified and stratified based on the presence of at least 1 International Classification of Diseases, Tenth Revision, Clinical Modification (ICD-10-CM) SDoH Z-code (Z55-Z65). Cohorts were matched in a 1:1 ratio using greedy nearest-neighbor propensity score matching with a caliper of 0.1 standard deviations of the logit of the propensity score, adjusting for age, sex, and medical comorbidities. Standardized mean differences <0.1 were considered indicative of adequate covariate balance. Postoperative outcomes evaluated included superficial surgical site infection, deep vein thrombosis, sepsis, myocardial infarction, and all-cause mortality at 30 days, 90 days, and 1 year following surgery. Risk ratios with 95% confidence intervals were calculated. RESULTS: After matching, 15,922 patients remained in each cohort. Patients with SDoH risk factors demonstrated significantly increased risks of superficial surgical site infection, deep vein thrombosis, sepsis, myocardial infarction, and all-cause mortality at multiple postoperative time points compared with controls. Elevated mortality risk persisted through 1 year postoperatively. CONCLUSIONS: Socioeconomic disadvantage, as identified by SDoH Z-codes, was associated with worse short- and long-term outcomes following primary THA. These findings support the incorporation of social risk factors into perioperative risk stratification and optimization strategies.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42662133/",
+      "score": 81,
+      "score_reasoning": "Large multi-institutional propensity-matched study (31,844 patients) in a solid journal quantifying how social determinants of health significantly increase infection, sepsis, MI, DVT, and mortality after THA, with direct implications for risk stratification and care planning.",
+      "bullets": [
+        "Patients with documented socioeconomic risk factors had higher rates of surgical site infection, DVT, sepsis, heart attack, and death after primary total hip arthroplasty.",
+        "The mortality risk remained elevated through one year postoperatively, not just the early perioperative window.",
+        "Orthopaedic surgeons should screen for social risk factors before THA and factor them into preoperative risk counseling and optimization planning."
+      ]
+    },
+    {
+      "pmid": "42637027",
+      "title": "Delayed Initiation of Low-Molecular-Weight Heparin Chemoprophylaxis Is Associated with Higher Risk of In-Hospital Screen-Detected Distal Deep Vein Thrombosis Following Hip Fracture Arthroplasty.",
+      "authors": [
+        "Hou W",
+        "Han Z",
+        "Kong J",
+        "Dong Q",
+        "Zhang Y",
+        "Feng X"
+      ],
+      "authors_short": "Hou W, Han Z, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: This study aimed to determine the impact of the time from admission to initiation of low-molecular-weight heparin (LMWH) chemoprophylaxis on postoperative in-hospital venous thromboembolism (VTE) in patients who underwent hip fracture arthroplasty. METHODS: This retrospective cohort study included 2,639 patients who a mean age of 72 years (range, 55 to 99) who underwent arthroplasty for hip fracture and received perioperative LMWH chemoprophylaxis. The primary exposure was door-to-prophylaxis (DTP) time. The primary outcome was screen-detected postoperative in-hospital VTE. The key secondary endpoint was postoperative in-hospital proximal deep vein thrombosis (DVT) and/or pulmonary embolism (PE). Patients were categorized as early or delayed DTP based on median values (18.9 hours; interquartile range, 13.6 to 43.7). Restricted cubic splines and Cox proportional hazards regressions were used to analyze the relationship between DTP time and VTE risk. RESULTS: A significant linear correlation was identified between DTP time and postoperative in-hospital VTE. On multivariable Cox analyses, delayed DTP (\u2265 19 hours) was independently associated with increased VTE risk by 22.8% versus early DTP (less than 19 hours) (adjusted hazard ratio [HR], 1.228; 95% confidence interval [CI], 1.036 to 1.456; P = 0.018). This association persisted across types and dosing regimens of LMWH (adjusted HR, 1.248; 95% CI, 1.041 to 1.497; P = 0.017). Similarly, for every 1-hour delay in DTP, the likelihood of VTE increased by 0.3% (adjusted HR, 1.003; 95% CI, 1.000 to 1.006; P = 0.030). There was no association detected between DTP and proximal DVT and/or PE, with imprecise estimates (all P > 0.05). CONCLUSION: The DTP time was linearly associated with the occurrence of screen-detected postoperative in-hospital VTE in hip fracture arthroplasty. Notably, DTP delayed to 19 hours or later was associated with a higher risk of screen-detected distal DVT, whereas no robust association was observed for proximal DVT and/or PE.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42637027/",
+      "score": 80,
+      "score_reasoning": "Large national registry study (32,874 patients, SIRIS) in Journal of Arthroplasty showing collared uncemented stems markedly reduce periprosthetic femoral fracture risk in high-risk elderly women, providing immediately actionable implant selection guidance.",
+      "bullets": [
+        "In hip fracture arthroplasty patients, starting low-molecular-weight heparin within 19 hours of admission reduced the rate of in-hospital deep vein thrombosis compared to later initiation.",
+        "The increased risk was driven by distal DVT; no significant difference in proximal DVT or pulmonary embolism was detected between early and delayed prophylaxis groups.",
+        "For orthopaedic teams managing hip fractures, getting anticoagulation started before the 19-hour mark after admission is a concrete, actionable target to reduce clot risk."
+      ]
+    },
+    {
+      "pmid": "42668636",
+      "title": "Highlights of the 2025 American Joint Replacement Registry Annual Report.",
+      "authors": [
+        "Novikov D",
+        "Cochrane N",
+        "Huddleston JI",
+        "Levine BR",
+        "Cohen-Rosenblum A"
+      ],
+      "authors_short": "Novikov D, Cochrane N, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "The 2025 American Joint Replacement Registry Annual Report includes 4.6 million hip and knee arthroplasty procedures, with 4,434,668 validated cases, representing a 20% increase from the prior report. Registry participation continues to expand, with contributions from over 5000 surgeons and 1200 institutions, including an increasing submission of patient-reported outcome measures. A key methodological change includes the adoption of Kaplan-Meier survivorship analysis, allowing improved assessment of time-dependent revision risk. Ongoing efforts to improve data completeness and registry infrastructure continue to support registry-driven research. The full report can be accessed at https://www.aaos.org/registries/publications/ajrr-annual-report/.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42668636/",
+      "score": 79,
+      "score_reasoning": "The 2025 AJRR Annual Report highlights with 4.6 million validated cases and adoption of Kaplan-Meier survivorship analysis provides essential national benchmarking data highly relevant to every arthroplasty surgeon's practice.",
+      "bullets": [
+        "The 2025 AJRR report now covers 4.4 million validated hip and knee arthroplasty cases, a 20% increase over the prior report, reflecting broader national capture of arthroplasty outcomes.",
+        "Registry data now includes patient-reported outcome measures from over 5000 surgeons and 1200 institutions, giving orthopaedic surgeons a larger real-world sample to benchmark against.",
+        "The registry has shifted to Kaplan-Meier survivorship analysis, meaning revision risk estimates are now time-dependent and more clinically meaningful for counseling patients on implant longevity."
+      ]
+    },
+    {
+      "pmid": "42644599",
+      "title": "Prosthetic Joint Infection After Total Ankle Arthroplasty: A Propensity-Matched Analysis of Risk Factors and Outcomes.",
+      "authors": [
+        "McCahon JAS",
+        "Thomas GM",
+        "Sherman M",
+        "Hsu A",
+        "O'Neil J",
+        "Parekh SG",
+        "Pedowitz DI"
+      ],
+      "authors_short": "McCahon JAS, Thomas GM, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Prosthetic joint infection (PJI) following total ankle arthroplasty (TAA) is a rare but devastating complication associated with high rates of reoperation and poor functional outcomes. The purpose of this study was to identify risk factors for PJI following primary TAA and to characterize associated treatment approaches and clinical outcomes. METHODS: A single-institution retrospective cohort study was conducted, including 1008 primary TAAs performed between 2010 and 2023. PJI was defined using established microbiologic and clinical criteria consistent with prior literature. Patient demographics, comorbidities, preoperative functional status, and operative characteristics were collected. Infected patients were compared with non-infected controls using 2:1 propensity score matching based on age and sex. Associations with PJI were evaluated using penalized logistic regression (Firth method). Microbiologic profiles, surgical management strategies, and outcomes were analyzed for the infection cohort. RESULTS: Twenty-seven PJIs treated by 4 surgeons were identified, yielding an overall infection rate of 2.7%. After matching, cohorts were balanced across patient demographics. Concomitant calcaneal displacement osteotomy and cancer history were significantly associated with PJI (P\u2009<\u2009.05). When adjusting for prior ankle surgery, BMI, diabetes, and tourniquet time, concomitant calcaneal displacement osteotomy was associated with 9.75-fold increased odds of PJI (95% CI 2.5-52.4) demonstrating an area under the curve of 83.7%. Staphylococcus aureus was the most frequently identified organism (36.7%). Eight (29.6%) PJIs were considered chronic (>4 weeks). Two-stage revision TAA was the predominant surgical strategy (59.3%), with limb salvage achieved in 96.2% of cases and arthroplasty retention maintained in 69.2% at a mean follow-up of 4.07\u2009years. CONCLUSION: PJI following primary TAA occurred at a rate of 2.7%, with calcaneal displacement osteotomies identified as a significant associated procedural risk factor. Despite the severity of this complication, high rates of limb salvage and arthroplasty retention were observed with contemporary treatment strategies at midterm follow-up. LEVEL OF EVIDENCE: Level III, retrospective cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42644599/",
+      "score": 77,
+      "score_reasoning": "Meta-analysis of 12 studies (3,185 patients) in JAAOS comparing MIS-PCF vs. ACDF for cervical radiculopathy, showing equivalent arm pain outcomes with shorter OR time, LOS, and lower cost for MIS-PCF, directly guiding surgical decision-making.",
+      "bullets": [
+        "Adding a calcaneal displacement osteotomy at the time of total ankle replacement increases the odds of prosthetic joint infection nearly tenfold compared to ankle replacement alone.",
+        "Staphylococcus aureus caused about one in three infections, and two-stage revision was the most common surgical response, used in roughly 60% of infected cases.",
+        "Despite a 2.7% infection rate, limb salvage was achieved in 96% of patients and the implant was retained in nearly 70% at four years of follow-up."
+      ]
+    },
+    {
+      "pmid": "42636422",
+      "title": "Not the Last Word: The Epistemology, Metaphysics, and Practical Philosophy of Resident Selection.",
+      "authors": [
+        "Bernstein J"
+      ],
+      "authors_short": "Bernstein J",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42636422/",
+      "score": 76,
+      "score_reasoning": "Large propensity-matched national database study (7,582 matched pairs) in Journal of Arthroplasty characterizing significantly elevated cardiovascular and infectious complications in AS patients undergoing THA, with actionable finding that TXA reduces transfusion risk.",
+      "bullets": [
+        "This paper examines the philosophical basis for how orthopaedic residency programs select applicants, questioning whether current methods reliably identify the best candidates.",
+        "The arguments apply to program directors and selection committees at orthopaedic residency programs making decisions about future trainees.",
+        "No single metric reliably predicts resident success, so programs should use multiple independent criteria rather than relying on any one measure when ranking applicants."
+      ]
+    },
+    {
+      "pmid": "42668262",
+      "title": "Obesity Is Associated With Earlier Mechanical Failure Following Total Ankle Arthroplasty Independent of Tibial Stem or Keel Augmentation.",
+      "authors": [
+        "Sommi C",
+        "Thomas GM",
+        "McCahon JAS",
+        "Dowd T",
+        "Hsu A",
+        "Parekh SG",
+        "Pedowitz DI"
+      ],
+      "authors_short": "Sommi C, Thomas GM, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Obesity and elevated body mass have been associated with increased rates of aseptic loosening and implant failure following total ankle arthroplasty (TAA). The purpose of this study was to investigate the role for primary stemmed or keeled tibial implants as a protective factor against aseptic loosening in this patient population. METHODS: We performed a retrospective cohort study of 699 modern primary TAAs with a minimum 2-year follow-up performed at a large academic institution between 2010 and 2023. Patients were stratified by body mass index (BMI <30 vs \u226530) and implant design (stem/keel vs low-profile). The primary outcome was mechanical failure requiring revision of metal components. Secondary outcomes included patient-reported outcomes (FAAM-ADL and VAS). Kaplan-Meier analysis and multivariable cox proportional hazards were used to assess revision risk. RESULTS: Of 699 primary TAAs, 39 (5.6%) experienced mechanical failure at a mean follow-up of 5.6 years. After adjustment for age, implant type, and subtalar fusion, BMI \u226530 was associated with a greater than 2-fold increased hazard of mechanical failure (HR 2.27, 95% CI 1.07-4.81, P = .033). Kaplan-Meier survivorship was similar for low-profile (93.7%) and stem/keel (96.1%) implants at 5 years. When stratified by both BMI and implant type, with the numbers available, no significant difference could be detected in mechanical failure, time to revision, or patient-reported outcomes were observed (P > .05). Obese patients had worse preoperative FAAM-ADL and VAS scores but achieved comparable postoperative outcomes. CONCLUSION: After adjusting for age, implant design, and subtalar fusion, BMI \u226530 was independently associated with a significantly higher hazard of mechanical failure and shorter time to revision. Despite the proposed biomechanical advantages of increased tibial fixation, the stemmed or keeled implants used in this cohort were not associated with improved survivorship or patient-reported outcomes at mid-term follow-up. LEVEL OF EVIDENCE: Level III, retrospective cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42668262/",
+      "score": 75,
+      "score_reasoning": "Retrospective cohort of 699 TAAs with multivariable analysis in Foot & Ankle International demonstrating BMI \u226530 independently doubles mechanical failure risk regardless of tibial stem/keel augmentation, directly impacting patient counseling and implant selection.",
+      "bullets": [
+        "Obese patients (BMI 30 or above) face more than twice the risk of mechanical failure after total ankle arthroplasty compared to non-obese patients.",
+        "Tibial stem or keel augmentation did not improve implant survivorship or patient-reported outcomes in obese or non-obese patients at mid-term follow-up.",
+        "Surgeons should counsel obese patients seeking total ankle arthroplasty that elevated BMI independently increases revision risk, regardless of implant design chosen."
+      ]
+    },
+    {
+      "pmid": "42660310",
+      "title": "Hyperlipidemia Is Associated With an Increased Risk of Secondary Procedures in Patients Undergoing Arthroscopic Rotator Cuff Repair.",
+      "authors": [
+        "Prabhavalkar ON",
+        "Morriss NJ",
+        "Malin M",
+        "Jain S",
+        "Dussik CM",
+        "Phan A",
+        "Mannava S"
+      ],
+      "authors_short": "Prabhavalkar ON, Morriss NJ, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Hyperlipidemia (HLD) has been implicated as a risk factor for impaired tendon-to-bone healing after arthroscopic rotator cuff repair (RCR). While statin therapy may mitigate this effect, findings remain inconsistent. We hypothesized that HLD would be associated with higher rates of secondary procedures following RCR and that perioperative statin therapy could reduce this risk. METHODS: A retrospective cohort study was conducted using the TriNetX Research Network, a federated database of over 120 million de-identified patient records. Adults undergoing primary arthroscopic RCR (CPT 29827) between October 2015 and August 2020 were identified. Patients were grouped as (1) no HLD, (2) HLD without statin use, and (3) HLD with perioperative statin use (prescription within 90 days before or after surgery). Outcomes included repeat RCR and arthroplasty at 6 months, 1, 3, and 5 years. Propensity score matching (1:1 nearest neighbor, caliper 0.1) was performed on demographics, comorbidities, and surgical factors. Odds ratios (RR) with 95% confidence intervals (CI) and Kaplan-Meier analyses were used with significance set at p < 0.05. LEVEL OF EVIDENCE: Level III, Retrospective Cohort Comparison using Large Database, Prognosis Study RESULTS: After matching, 40,430 patients were included per group. At 5 years, repeat repair occurred in 9.8% of patients with hyperlipidemia compared to 7.0% of controls (p < 0.001, OR = 1.440 (1.370-1.514)). Hyperlipidemia was associated with increased odds of arthroplasty at 3 years (1.1% vs. 1.0%, p = 0.024, OR = 1.169 (1.020 - 1.340)) and 5 years (1.5% vs. 1.2%, p < 0.001, OR = 1.312 (1.162 - 1.481)). Sub-analyses by total cholesterol and LDL levels did not show a consistent relationship between lipid level and reoperation risk. Statin therapy did not reduce reoperation risk and was associated with higher rates of repeat RCR and arthroplasty among patients with low cholesterol. CONCLUSION: HLD was associated with modestly higher rates of secondary procedures following arthroscopic RCR, while lipid levels and statin therapy were not predictive of reduced reoperation, highlighting the complex role of lipid metabolism in tendon healing.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42660310/",
+      "score": 73,
+      "score_reasoning": "Propensity-matched database study of 40,430 patients per group (TriNetX) in JSES demonstrating hyperlipidemia independently increases repeat rotator cuff repair rates at 5 years, with statin use providing partial mitigation\u2014clinically relevant to preoperative counseling.",
+      "bullets": [
+        "Patients with hyperlipidemia had a higher rate of repeat rotator cuff repair at 5 years compared to those without it (9.8% vs 7.0%).",
+        "Hyperlipidemia also increased the odds of eventual shoulder arthroplasty, making it a meaningful risk factor to identify before primary rotator cuff repair.",
+        "Statin therapy did not reduce reoperation risk and should not be used perioperatively with the expectation of improving rotator cuff healing outcomes."
+      ]
+    },
+    {
+      "pmid": "42646642",
+      "title": "Medial meniscus posterior root repair with concomitant centralization does not demonstrate superior reduction of meniscal extrusion or improved clinical outcomes compared with isolated repair: A systematic review and meta-analysis.",
+      "authors": [
+        "Vasiliadis AV",
+        "Gkekas NK",
+        "Maris A",
+        "Colyvas N",
+        "Hantes M"
+      ],
+      "authors_short": "Vasiliadis AV, Gkekas NK, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To evaluate whether the addition of a meniscal centralization procedure to medial meniscus posterior root (MMPR) repair improves medial meniscus extrusion (MME) and patient-reported outcomes compared with isolated MMPR repair. METHODS: A systematic review and meta-analysis were conducted in accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. PubMed, Cochrane CENTRAL and Scopus were searched from inception to 28 February 2026. Comparative studies evaluating isolated MMPR repair versus MMPR repair combined with centralization procedure (including transtibial pull-out repair, posteromedial pull-out repair with all-inside sutures and anchor-based techniques) and reporting radiographic extrusion measured by magnetic resonance imaging and/or patient-reported outcomes were included. Effect estimates were calculated using change scores. Mean differences (MDs) were used for extrusion, and standardized mean differences (SMDs) were used for patient-reported outcomes. Heterogeneity was assessed using the I2 statistic, and pooled estimates were generated using a random-effects model. RESULTS: Six comparative studies (one randomized controlled trial [RCT] and five retrospective cohort studies) comprising 309 patients (167 isolated repair; 142 centralization repair) with a mean follow-up period of 11.2 months (range, 3-26.8 months) were included. Participants were predominantly female, with mean age of 50.3-66.4 years, body mass index of 22.5-29\u2009kg/m2 and Kellgren-Lawrence\u2009\u2264\u20092. The overall pooled analysis demonstrated no significant difference in MME reduction between centralization and isolated repair (MD 0.4\u2009mm; 95% confidence interval [CI] -0.34 to 1.22; p\u2009=\u20090.27; I2\u2009=\u200989%). Although post-operative MME was lower in the centralization group (3.3 vs. 3.8\u2009mm), the absolute difference between groups was only 0.6\u2009mm, suggesting limited clinical relevance. No significant differences were observed between groups in Lysholm (p\u2009=\u20090.93), International Knee Documentation Committee (p\u2009=\u20090.13) or visual analogue scale pain scores (p\u2009=\u20090.10). Reporting of complications was inconsistent, with no conversions to total knee arthroplasty during follow-up. CONCLUSIONS: The addition of a meniscal centralization to MMPR repair does not demonstrate a consistent reduction in meniscal extrusion or improvement in patient-reported outcomes compared with isolated MMPR repair. Given the heterogeneity of the current evidence and the predominance of non-randomized studies, further high-quality RCTs are required to clarify its clinical value. LEVEL OF EVIDENCE: Level II.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42646642/",
+      "score": 72,
+      "score_reasoning": "Prospective cohort of 699 primary TAAs with Kaplan-Meier and Cox regression analysis in Journal of Arthroplasty identifying early risk factors for PJI after TAA including concomitant calcaneal osteotomy (9.75-fold odds), directly informing surgical planning.",
+      "bullets": [
+        "Adding meniscal centralization to medial meniscus posterior root repair did not reduce extrusion or improve pain and function scores compared to repair alone.",
+        "The 0.6 mm difference in postoperative extrusion between groups is too small to be clinically meaningful in middle-aged to older women with early knee arthritis.",
+        "Surgeons can perform isolated posterior root repair without routinely adding centralization until stronger randomized trial data support the extra step."
+      ]
+    },
+    {
+      "pmid": "42658904",
+      "title": "Distal Radial Fracture as an Early Marker of Bone Fragility: A Population-Based Study in Japan.",
+      "authors": [
+        "Shibata R",
+        "Sato Y",
+        "Tanaka Y"
+      ],
+      "authors_short": "Shibata R, Sato Y, Tanaka Y",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Distal radial fractures (DRFs) are common fragility fractures in older adults and often indicate skeletal deterioration. However, whether DRFs reflect underlying systemic frailty or occur predominantly in relatively active individuals with preserved physical function remains unclear. METHODS: This retrospective cohort study analyzed data from the Shizuoka Kokuho Database, which includes the health and long-term care (LTC) claims of 2.4 million residents. Individuals aged 65 to 89 years who were newly diagnosed with a DRF between 2012 and 2022 were compared with patients with an upper-limb contusion. Propensity score matching was used to balance baseline characteristics between these groups. The primary outcome was all-cause mortality. The secondary outcomes included secondary fragility fractures, hospitalization, LTC deterioration, and osteoporosis treatment initiation. Cox proportional hazards and Poisson regression models were used for the analysis. Causal mediation analysis was conducted to explore the indirect effects of secondary fractures and treatment initiation. RESULTS: After propensity score matching, the final analysis included 47,178 patients (23,589 matched pairs; mean age, 77.6 \u00b1 6.7 years; 87.8% female) with balanced baseline characteristics. In the matched cohort, patients with a DRF had lower all-cause mortality than controls in the unadjusted analysis (hazard ratio [HR], 0.90; 95% confidence interval [CI], 0.86 to 0.94), but this association was attenuated after multivariable adjustment that included baseline LTC certification (HR, 0.98; 95% CI, 0.93 to 1.02). Subgroup analysis showed that a DRF was associated with lower mortality among individuals with higher LTC needs, particularly women. In the matched cohort, patients with a DRF had higher rates of subsequent hip fractures (2.58 [95% CI, 2.48 to 2.69] versus 2.00 [95% CI, 1.91 to 2.10] fractures per 100 person-years) and more frequent osteoporosis treatment initiation within 1 year after injury (17.6% [95% CI, 17.1% to 18.1%] versus 7.7% [95% CI, 7.4% to 8.0%] of patients). The mediation analysis suggested modest indirect effects of secondary hip fractures and vitamin-D supplementation on mortality. CONCLUSIONS: DRFs in older adults may reflect preserved function and skeletal fragility rather than advanced frailty. These fractures may represent a critical window for initiating osteoporosis treatment to prevent subsequent fractures and improve long-term outcomes. LEVEL OF EVIDENCE: Prognostic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42658904/",
+      "score": 66,
+      "score_reasoning": "Population-based retrospective cohort (47,178 matched pairs) from a 2.4-million-resident database in JBJS demonstrating DRF is an early marker of bone fragility with downstream mortality and secondary fracture implications, supporting orthopaedic-driven osteoporosis intervention.",
+      "bullets": [
+        "Older adults who sustain a distal radius fracture are not sicker than peers at baseline, and overall mortality is similar once frailty status is accounted for.",
+        "Patients with a distal radius fracture have a meaningfully higher rate of subsequent hip fracture compared to those with an upper limb contusion, confirming systemic bone fragility.",
+        "Only 17.6% of distal radius fracture patients received osteoporosis treatment within one year, highlighting a missed opportunity to reduce future fracture risk in this population."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-08-31T10:24:31.106899-07:00"
+}
