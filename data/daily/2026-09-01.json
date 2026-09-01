@@ -1,0 +1,277 @@
+{
+  "brief_date": "2026-09-01",
+  "brief_date_display": "Tuesday, September 01",
+  "candidates": [
+    {
+      "pmid": "42637028",
+      "title": "Collared, Uncemented Stems Markedly Reduce Periprosthetic Femoral Fracture Risk in Women \u2265 70 Years: A Swiss National Registry Study.",
+      "authors": [
+        "Ladurner A",
+        "Kramer M",
+        "Giesinger K",
+        "Zdravkovic V"
+      ],
+      "authors_short": "Ladurner A, Kramer M, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Uncemented total hip arthroplasty (THA) is associated with an increased risk of periprosthetic femoral fractures (PFF) in elderly women, yet its use continues to expand in this high-risk population. Stem design, particularly the presence of a collar, may influence the risk. However, sex-specific, large-scale registry data addressing this question remain limited. This study evaluated the association between stem design, design variants, and PFF risk in women aged \u2265 70 years undergoing uncemented THA. METHODS: Data were obtained from the Swiss National Joint Registry (SIRIS). Women aged \u2265 70 years who underwent uncemented THA for osteoarthritis between 2012 and 2024 were included. There were nine cementless stem models with greater than 1,000 implantations each that were analyzed by design variant (collared versus collarless, standard versus high offset, varying neck-shaft angles (NSA), and relative stem length). A total of 32,874 patients were included (mean age 76 years, mean body mass index (BMI) 26.5). The THAs with cemented stem fixation served as a reference population. The primary outcome was revision for PFF; multivariable logistic regressions were used to adjust for patient- and implant-related factors. RESULTS: The overall PFF revision rate was 0.5%, compared with 0.2% in the older, more medically vulnerable cemented group (P < 0.001). The PFF incidence varied substantially across uncemented stems (0.1 to 1.1%). Collared stems had a significantly lower PFF risk than collarless variants (0.1 versus 0.6%; adjusted odds ratio: 0.08, 95% confidence interval: 0.03 to 0.27, P < 0.001). Offset, neck-shaft angle, and relative stem length were not associated with fracture risk. CONCLUSION: In women aged \u2265 70 years, uncemented THA was associated with a higher risk of PFF revision compared with cemented fixation. Within cementless designs, the presence of a collar was strongly associated with a reduced risk of PFF, whereas other design variants were not. These findings suggest that in elderly women, collared cementless stems may represent a safe uncemented alternative to cemented stem fixation.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42637028/",
+      "score": 82,
+      "score_reasoning": "Large single-center retrospective cohort (n=3,302) demonstrating a graded association between preoperative BMD and reoperation risk after THA/TKA, directly actionable for preoperative risk stratification in a very common procedure.",
+      "bullets": [
+        "In women aged 70 and older getting uncemented total hip replacements, collared stems had a periprosthetic femur fracture revision rate of 0.1% versus 0.6% for collarless stems, an eightfold risk reduction.",
+        "Cemented stems still had the lowest fracture revision rate at 0.2%, but collared uncemented stems came close, making them a reasonable alternative when cement fixation is not preferred.",
+        "Stem offset, neck-shaft angle, and stem length did not affect fracture risk, so the collar is the design feature that matters most when choosing an uncemented stem in elderly women."
+      ]
+    },
+    {
+      "pmid": "42637027",
+      "title": "Delayed Initiation of Low-Molecular-Weight Heparin Chemoprophylaxis Is Associated with Higher Risk of In-Hospital Screen-Detected Distal Deep Vein Thrombosis Following Hip Fracture Arthroplasty.",
+      "authors": [
+        "Hou W",
+        "Han Z",
+        "Kong J",
+        "Dong Q",
+        "Zhang Y",
+        "Feng X"
+      ],
+      "authors_short": "Hou W, Han Z, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: This study aimed to determine the impact of the time from admission to initiation of low-molecular-weight heparin (LMWH) chemoprophylaxis on postoperative in-hospital venous thromboembolism (VTE) in patients who underwent hip fracture arthroplasty. METHODS: This retrospective cohort study included 2,639 patients who a mean age of 72 years (range, 55 to 99) who underwent arthroplasty for hip fracture and received perioperative LMWH chemoprophylaxis. The primary exposure was door-to-prophylaxis (DTP) time. The primary outcome was screen-detected postoperative in-hospital VTE. The key secondary endpoint was postoperative in-hospital proximal deep vein thrombosis (DVT) and/or pulmonary embolism (PE). Patients were categorized as early or delayed DTP based on median values (18.9 hours; interquartile range, 13.6 to 43.7). Restricted cubic splines and Cox proportional hazards regressions were used to analyze the relationship between DTP time and VTE risk. RESULTS: A significant linear correlation was identified between DTP time and postoperative in-hospital VTE. On multivariable Cox analyses, delayed DTP (\u2265 19 hours) was independently associated with increased VTE risk by 22.8% versus early DTP (less than 19 hours) (adjusted hazard ratio [HR], 1.228; 95% confidence interval [CI], 1.036 to 1.456; P = 0.018). This association persisted across types and dosing regimens of LMWH (adjusted HR, 1.248; 95% CI, 1.041 to 1.497; P = 0.017). Similarly, for every 1-hour delay in DTP, the likelihood of VTE increased by 0.3% (adjusted HR, 1.003; 95% CI, 1.000 to 1.006; P = 0.030). There was no association detected between DTP and proximal DVT and/or PE, with imprecise estimates (all P > 0.05). CONCLUSION: The DTP time was linearly associated with the occurrence of screen-detected postoperative in-hospital VTE in hip fracture arthroplasty. Notably, DTP delayed to 19 hours or later was associated with a higher risk of screen-detected distal DVT, whereas no robust association was observed for proximal DVT and/or PE.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42637027/",
+      "score": 81,
+      "score_reasoning": "Large national registry study (n=32,874) from SIRIS showing collared uncemented stems markedly reduce periprosthetic femoral fracture risk in elderly women, a highly clinically relevant and practice-changing finding for a common high-risk group.",
+      "bullets": [
+        "In hip fracture arthroplasty patients, starting LMWH within 19 hours of admission reduced in-hospital DVT risk by about 23% compared to later initiation.",
+        "The DVT risk increase was driven by distal clots only, with no significant association found between prophylaxis timing and proximal DVT or pulmonary embolism.",
+        "For patients aged 55 to 99 undergoing hip fracture arthroplasty, earlier LMWH initiation after admission is a modifiable factor that may reduce screen-detected venous thromboembolism."
+      ]
+    },
+    {
+      "pmid": "42670705",
+      "title": "Pediatric Orthopaedic Surgeon Use of Removable Splints for Common Pediatric Distal Radius and Fibula Fractures: A 10-year Update.",
+      "authors": [
+        "Rundell AN",
+        "Kazanjian AS",
+        "Samora EC",
+        "Floccari LV",
+        "Samora J"
+      ],
+      "authors_short": "Rundell AN, Kazanjian AS, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Management of pediatric fractures continually evolves, with a documented shift toward removable devices, such as splints, braces, or boots, for stable injuries. However, there is a need to evaluate current practice patterns. METHODS: A self-administered, 22-question online survey was open to all practicing orthopaedic surgeon members of Pediatric Orthopaedic Surgeons of North America (POSNA) between June and September 2025. Questions were consistent with a previous 2015 survey. Demographic information, immobilization practices, comfort with removable devices, complications, and barriers were analyzed and compared with 2015 data. RESULTS: A total of 323/865 (37.3%) invitees responded, with well-distributed experience levels, and 165 (56.9%) belonged to a university-affiliated practice. A total of 293 (95.1%) completed their pediatric fellowship, and 132 (45.4%) reported that their practice has an accepted standard of treatment for these fractures. A total of 256 respondents (87.7%) would treat distal radius buckle fractures with a removable device, which is significantly different than 2015, when 29.1% of respondents would treat these injuries with a removable device (P<0.001). Removable devices were not commonly used for greenstick [40 (13.7%)] or transverse [5 (1.7%)] fractures. Cast utilization decreased in both radius and fibula fractures, with the most pronounced reduction observed in distal fibula avulsion fractures, declining over 9-fold. Respondents were likely to prescribe a cast in 5.9% of fibula avulsion fractures, followed by 17.0% in Salter-Harris I and 38.5% in Salter-Harris II fractures. Concerns regarding patient family preference 170 (58.0%), patient compliance 158 (53.9%), and complications 91 (31.1%) are the most common reported barriers to using a removable form of immobilization. Although patient complications were listed as a potential barrier for 91 (31.1%) respondents, the perceived risk of complications was reported as \"very low\" for distal radius buckle [280 (96.2%)] and greenstick [91 (31.4%)] fractures. Transverse fractures were considered to have a moderate risk for complications [130 (44.8%)]. CONCLUSIONS: Compared with 2015, an increased utilization of removable devices for minimally displaced common pediatric fractures was seen. Barriers were patient or family compliance and preference, and concern for potential complications, highlighting the importance of education and shared decision-making. CLINICAL RELEVANCE: It is important to evaluate the current state of evidence-based practice regarding the use of removable devices for pediatric fractures. Addressing barriers such as patient and family compliance, preferences, and concerns about complications through targeted education may improve adherence and optimize clinical outcomes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42670705/",
+      "score": 80,
+      "score_reasoning": "Prospective multicenter study (n=502) with minimum 5-year follow-up showing 98.2% survivorship for Infinity fixed-bearing TAA and that COFAS grade does not influence outcomes, providing important preoperative counseling data for a growing procedure.",
+      "bullets": [
+        "Use of removable devices for pediatric distal radius buckle fractures has jumped from 29% to 88% of surveyed pediatric orthopaedic surgeons over the past decade.",
+        "Cast use for distal fibula avulsion fractures has dropped more than ninefold, with only 6% of surgeons now prescribing a cast for these injuries.",
+        "The main barriers to using removable immobilization are family preference and compliance concerns, not surgeon uncertainty about complication risk."
+      ]
+    },
+    {
+      "pmid": "42644599",
+      "title": "Prosthetic Joint Infection After Total Ankle Arthroplasty: A Propensity-Matched Analysis of Risk Factors and Outcomes.",
+      "authors": [
+        "McCahon JAS",
+        "Thomas GM",
+        "Sherman M",
+        "Hsu A",
+        "O'Neil J",
+        "Parekh SG",
+        "Pedowitz DI"
+      ],
+      "authors_short": "McCahon JAS, Thomas GM, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Prosthetic joint infection (PJI) following total ankle arthroplasty (TAA) is a rare but devastating complication associated with high rates of reoperation and poor functional outcomes. The purpose of this study was to identify risk factors for PJI following primary TAA and to characterize associated treatment approaches and clinical outcomes. METHODS: A single-institution retrospective cohort study was conducted, including 1008 primary TAAs performed between 2010 and 2023. PJI was defined using established microbiologic and clinical criteria consistent with prior literature. Patient demographics, comorbidities, preoperative functional status, and operative characteristics were collected. Infected patients were compared with non-infected controls using 2:1 propensity score matching based on age and sex. Associations with PJI were evaluated using penalized logistic regression (Firth method). Microbiologic profiles, surgical management strategies, and outcomes were analyzed for the infection cohort. RESULTS: Twenty-seven PJIs treated by 4 surgeons were identified, yielding an overall infection rate of 2.7%. After matching, cohorts were balanced across patient demographics. Concomitant calcaneal displacement osteotomy and cancer history were significantly associated with PJI (P\u2009<\u2009.05). When adjusting for prior ankle surgery, BMI, diabetes, and tourniquet time, concomitant calcaneal displacement osteotomy was associated with 9.75-fold increased odds of PJI (95% CI 2.5-52.4) demonstrating an area under the curve of 83.7%. Staphylococcus aureus was the most frequently identified organism (36.7%). Eight (29.6%) PJIs were considered chronic (>4 weeks). Two-stage revision TAA was the predominant surgical strategy (59.3%), with limb salvage achieved in 96.2% of cases and arthroplasty retention maintained in 69.2% at a mean follow-up of 4.07\u2009years. CONCLUSION: PJI following primary TAA occurred at a rate of 2.7%, with calcaneal displacement osteotomies identified as a significant associated procedural risk factor. Despite the severity of this complication, high rates of limb salvage and arthroplasty retention were observed with contemporary treatment strategies at midterm follow-up. LEVEL OF EVIDENCE: Level III, retrospective cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42644599/",
+      "score": 79,
+      "score_reasoning": "Meta-analysis of 12 studies (n=3,185) comparing MIS-PCF vs ACDF for cervical radiculopathy in a high-impact journal, showing MIS-PCF offers shorter operative time, shorter stay, lower cost, and comparable pain outcomes with clinical relevance for spine surgeons.",
+      "bullets": [
+        "Adding a calcaneal displacement osteotomy at the time of total ankle arthroplasty was associated with nearly 10 times the odds of developing a prosthetic joint infection.",
+        "Staph aureus caused about one third of infections, and two-stage revision was the most common treatment, achieving limb salvage in 96% of patients at four years.",
+        "Surgeons planning concomitant hindfoot realignment with total ankle arthroplasty should counsel patients on the meaningfully elevated infection risk before proceeding."
+      ]
+    },
+    {
+      "pmid": "42665225",
+      "title": "Magnetic Resonance Imaging Findings in Simple Elbow Dislocations: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Sachinis NP",
+        "Bhardwaj V",
+        "Scaglia M",
+        "Gerace F",
+        "Christiane Messina J",
+        "Randelli PS",
+        "Arrigoni P"
+      ],
+      "authors_short": "Sachinis NP, Bhardwaj V, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Simple elbow dislocations are common injuries; however, the comprehensive magnetic resonance imaging (MRI) injury patterns remain incompletely understood. This systematic review aimed to determine the prevalence and patterns of soft tissue and acute traumatic osteochondral injuries on MRI following simple elbow dislocations. METHODS: We systematically searched PubMed and Scopus databases from 2000-2025 using a validated search strategy. Studies reporting MRI findings in adult or predominantly adult simple elbow dislocation cohorts were included. Quality assessment used the Newcastle-Ottawa Scale. Pooled prevalence estimates with 95% confidence intervals (CIs) were calculated using random-effects models with logit transformation. GRADE methodology assessed evidence quality. RESULTS: Eight studies were included, with 267 participants providing baseline MRI data. Seven studies contributed to each analysis of any collateral-ligament injury: medial collateral ligament (MCL) 90.6% (95% CI: 78.6%-96.2%; I2=69.0%) and lateral collateral ligament (LCL) 94.3% (95% CI: 86.3%-97.8%; I2=35.8%). Only 3 studies contributed compatible complete-tear data: MCL 53.0% (95% CI: 8.6%-93.1%; I2=86.6%) and LCL 59.4% (95% CI: 21.0%-88.9%; I2=69.5%). Two studies contributed acute traumatic osteochondral data, giving a pooled estimate of 57.2% (95% CI: 42.2%-70.9%; I2=59.7%). In a reader-choice sensitivity analysis, replacing the senior radiologist's assessment in the larger study with the junior radiologist's assessment reduced the estimate to 37.4%. CONCLUSION: MRI abnormalities involving both medial and lateral stabilizing structures are common after simple elbow dislocation, but their prognostic significance remains uncertain. MRI may be considered selectively when post-reduction stability is uncertain or further anatomical definition may influence management; the available evidence does not support routine use after every otherwise stable simple elbow dislocation. LEVEL OF EVIDENCE: Level IV; Descriptive Epidemiology Study; Systematic Review.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42665225/",
+      "score": 78,
+      "score_reasoning": "Large single-institution retrospective cohort (n=699) demonstrating obesity more than doubles mechanical failure risk after TAA independent of implant stem/keel design, directly guiding patient selection and counseling for an increasingly common procedure.",
+      "bullets": [
+        "After simple elbow dislocation, MRI shows ligament injury to the lateral collateral ligament in about 94% and medial collateral ligament in about 91% of cases, with complete tears in roughly half.",
+        "Acute osteochondral injury appears in over half of simple elbow dislocations on MRI, meaning bony damage is far more common than clinical presentation alone suggests.",
+        "Routine MRI after every stable simple elbow dislocation is not supported by current evidence, but selective use is reasonable when post-reduction stability is unclear or anatomy would change management."
+      ]
+    },
+    {
+      "pmid": "42671177",
+      "title": "Nonarthroplasty Treatment Options for Management of Primary Elbow Osteoarthritis.",
+      "authors": [
+        "DeBernardis D",
+        "Joshi T",
+        "Virk MS"
+      ],
+      "authors_short": "DeBernardis D, Joshi T, Virk MS",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "Primary elbow osteoarthritis is a functionally limiting condition, predominantly affecting middle-aged men engaged in repetitive manual labor, and is characterized by pain, stiffness, and mechanical symptoms. Evaluation involves a detailed history focusing on pain, loss of motion, and mechanical symptoms, followed by clinical examination for range of motion deficits, crepitus, and instability. Radiographic assessment, including standard radiographs and, when indicated, computed tomography imaging, is essential for staging disease severity, identifying osteophytes, capsular contracture, and joint space narrowing. Initial management is nonsurgical, emphasizing activity modification, NSAIDs, physical therapy, and intra-articular corticosteroid injections. When conservative measures fail, surgical options include arthroscopic or open d\u00e9bridement, osteocapsular arthroplasty, and procedures such as the Outerbridge-Kashiwagi technique. Both arthroscopic and open approaches reliably improve pain, range of motion, and functional scores, with low complication rates. However, open procedures may yield greater flexion gains in select cases. Nonarthroplasty options for primary elbow arthritis encompass a spectrum from conservative management to arthroscopic and open surgical d\u00e9bridement, with treatment tailored to disease severity, patient age, and functional demands.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42671177/",
+      "score": 77,
+      "score_reasoning": "Large registry-based retrospective study (n=997) providing contemporary 5-year survival data for spinal metastatic disease and validating SORG/NESMS prognostic tools beyond 1 year, highly relevant for oncologic spine practice.",
+      "bullets": [
+        "Primary elbow osteoarthritis mainly affects middle-aged men doing repetitive manual work, presenting with pain, stiffness, and mechanical symptoms.",
+        "When conservative care fails, both arthroscopic and open debridement reliably reduce pain and improve motion, though open procedures may recover more flexion in select patients.",
+        "Treatment choice should be guided by disease severity, patient age, and functional demands, with joint replacement reserved until nonarthroplasty options are exhausted."
+      ]
+    },
+    {
+      "pmid": "42658899",
+      "title": "Machine Learning Models for Predicting Orthopaedic Surgical Complications.",
+      "authors": [
+        "Kamal H"
+      ],
+      "authors_short": "Kamal H",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42658899/",
+      "score": 76,
+      "score_reasoning": "Large population-based cohort (n=47,178 matched pairs) from a 2.4 million-person database establishing distal radius fracture as an early fragility marker with increased secondary fracture risk and mortality implications, published in JBJS.",
+      "bullets": [
+        "Machine learning models can predict orthopaedic surgical complications before they occur, based on preoperative patient data.",
+        "These models apply to patients undergoing orthopaedic surgery where early identification of risk could change perioperative management.",
+        "Surgeons may use these tools to flag high-risk patients before the operating room, allowing for targeted preventive measures."
+      ]
+    },
+    {
+      "pmid": "42647020",
+      "title": "Patient-reported acceptable symptom state does not reflect quadriceps symmetry 1 year after ACL reconstruction.",
+      "authors": [
+        "Pineda T",
+        "Varady NH",
+        "Mazy D",
+        "Jacquet C",
+        "Druel J",
+        "Ollivier M"
+      ],
+      "authors_short": "Pineda T, Varady NH, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To quantify the agreement between achievement of the validated patient acceptable symptom state (PASS) thresholds for Knee injury and Osteoarthritis Outcome Score (KOOS) Sport and KOOS Quality of Life (QoL) and isokinetic quadriceps limb symmetry index (LSI)\u2009\u2265\u200990% in a prospective cohort undergoing primary anterior cruciate ligament reconstruction (ACLR), and to determine whether this agreement was modified by autograft type. METHODS: Ninety consecutive patients undergoing primary ACLR with systematic anterolateral augmentation were prospectively allocated to three autograft groups in cohorts of 30: rectus femoris (RF), quadriceps tendon (QT) and hamstrings (HS). At 12 months postoperatively, all patients underwent concentric isokinetic testing at 60\u00b0/s and completed the KOOS Sport and Recreation and KOOS QoL subscales. Concordance between PASS achievement (KOOS Sport \u226575; KOOS QoL \u226562.5) and quadriceps LSI\u2009\u2265\u200990% was analysed using Cohen's kappa with bootstrap 95% confidence intervals and McNemar exact test. RESULTS: Agreement between PASS achievement and isokinetic quadriceps symmetry was absent: KOOS Sport versus LSI \u03ba\u2009=\u20090.060 (95% confidence interval [CI] -0.071 to 0.191; McNemar p\u2009<\u20090.001); KOOS QoL versus LSI \u03ba\u2009=\u20090.030 (95% CI -0.062 to 0.122; McNemar p\u2009<\u20090.001). Forty-two patients (46.7%) met the KOOS Sport PASS threshold while showing LSI\u2009<\u200990%, compared with only five patients who achieved quadriceps LSI\u2009\u2265\u200990% without meeting the KOOS Sport PASS threshold. Among patients who reached the KOOS Sport PASS threshold, 76% had concurrent quadriceps LSI scores below 90%. The pattern was consistent across the three autograft groups (RF 50%, QT 47%, HS 43%; \u03c72 p\u2009=\u20090.875). CONCLUSION: PASS achievement and isokinetic quadriceps symmetry capture distinct dimensions of recovery 1 year after ACLR. The two assessments diverged in approximately half of the cohort, and this discordance was independent of autograft type. Patient-reported and objective measures should be regarded as complementary rather than interchangeable, and a satisfactory PROM result alone should not be taken as evidence of restored quadriceps symmetry. LEVEL OF EVIDENCE: Level II, prospective comparative study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42647020/",
+      "score": 74,
+      "score_reasoning": "Large 25-year national database analysis (n=24,947) of osteotomies around the knee providing robust short-term complication and reoperation benchmarks that surgeons can use for informed consent and quality benchmarking.",
+      "bullets": [
+        "At one year after ACL reconstruction, three in four patients who felt well enough to meet acceptable symptom thresholds still had quadriceps strength below 90% symmetry on objective testing.",
+        "This gap between patient-reported satisfaction and measured quad strength held regardless of whether the graft was rectus femoris, quadriceps tendon, or hamstrings.",
+        "Surgeons should not use patient satisfaction scores alone to clear ACL patients for return to sport, as objective quad strength testing is required to detect meaningful deficits."
+      ]
+    },
+    {
+      "pmid": "42660309",
+      "title": "Comparison of Clinical Outcome and Return to Work Following Exactech Equinoxe Reverse Total Shoulder Arthroplasty: Pectoralis Major Tendon Transfer versus Subscapularis Repair.",
+      "authors": [
+        "Baek CH",
+        "Lim C",
+        "Kim JG",
+        "Kim BT",
+        "Kim SJ"
+      ],
+      "authors_short": "Baek CH, Lim C, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Reverse total shoulder arthroplasty (rTSA) has become a widely accepted treatment for rotator cuff tear arthropathy. Recent studies have highlighted the importance of the subscapularis (SSC) tendon in maintaining postoperative stability and optimizing functional outcomes after rTSA. When SSC repair is not feasible or is associated with a high risk of failure, pectoralis major (PM) tendon transfer has been proposed as an alternative strategy to restore internal rotation (IR) function and stability. However, no comparative studies have directly evaluated whether PM tendon transfer provides clinical outcomes and return to work (RTW) results comparable to those achieved after SSC repair. METHODS: This retrospective comparative study reviewed consecutive patients who underwent rTSA from January 2022 to May 2023. Patients were divided into two groups based on the SSC management strategy: the SSC repair group (group R) and the PM tendon transfer group (group P). The primary outcomes were the Activities of Daily Living involving Internal Rotation (ADLIR) score and rate of RTW. Secondary clinical outcomes were assessed by other patient-reported outcome measurements, active range of motion (aROM), and aROM strength. The status of repaired SSC and transferred PM were evaluated as a radiologic outcome. Factors associated with RTW were identified through univariable analysis. RESULTS: 69 patients were included in the study population with 42 classified into group R and 27 to group P. Both groups showed significant postoperative improvements in clinical outcomes. The ADLIR score, defined as the primary outcome, was significantly higher in Group P than in Group R (24.9\u00b14.5 vs 28.1\u00b13.0, p=0.006). Moreover, postoperative IR at back (5.6\u00b11.7 vs 6.5\u00b10.9, p=0.010) and IR Strength (21.4\u00b15.3 vs 29.4\u00b12.8, p<0.001) of group P were significantly higher than that of group R. In radiologic outcome, SSC retears were identified in 13 of 42 patients (31.0%), whereas no PM tendon retears were observed in group P. The rate of RTW defined as the co-primary outcome showed no significant difference between two groups (p=0.063). However, the rate of RTW at the heavy level work was significantly higher in the Group P (p=0.049). Multivariable analysis demonstrated that PM tendon transfer was independently associated with a higher likelihood of return to work than SSC repair (adjusted OR, 5.73; 95% CI, 1.07-30.85; P = 0.042). CONCLUSION: These findings suggest that PM tendon transfer is a reasonable treatment option for patients with irreparable subscapularis tears when anatomical SSC repair is not feasible or durable healing is unlikely, rather than evidence that PM transfer is superior to SSC repair. LEVEL OF EVIDENCE: Level III, Retrospective Cohort Comparison, Treatment Study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42660309/",
+      "score": 73,
+      "score_reasoning": "Large propensity-matched database study (n=40,430 per group) demonstrating hyperlipidemia increases repeat rotator cuff repair risk by ~44% and that statin use partially mitigates this, with direct implications for preoperative optimization.",
+      "bullets": [
+        "When subscapularis repair is not possible during reverse shoulder arthroplasty, pectoralis major tendon transfer produces better internal rotation strength and function of daily activities than subscapularis repair.",
+        "Subscapularis repair failed in nearly one third of patients after reverse shoulder arthroplasty, while no pectoralis major transfers showed retear on imaging.",
+        "Patients who received pectoralis major transfer were more likely to return to heavy physical work, making it a reasonable choice for manual laborers with irreparable subscapularis tears."
+      ]
+    },
+    {
+      "pmid": "42657889",
+      "title": "Extra-articular Hip Endoscopy: Current Indications, Evidence, and Techniques.",
+      "authors": [
+        "Goodwin D"
+      ],
+      "authors_short": "Goodwin D",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "Advances in hip arthroscopy have expanded its use beyond intra-articular pathology to include a range of extra-articular conditions (endoscopy) that affect the active adult population. These minimally invasive procedures now provide practical, evidence-based alternatives to open surgery. Endoscopic techniques allow targeted management of greater trochanteric pain syndrome, iliopsoas tendinopathy, extra-articular hip impingement, and gluteal and hamstring tears with reduced morbidity and faster recovery. The purpose of this review is to summarize the current indications, key surgical principles, and clinical outcomes for extra-articular hip endoscopy, emphasizing pearls and pitfalls relevant to the practicing orthopaedic surgeon.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42657889/",
+      "score": 71,
+      "score_reasoning": "Prospective cohort with MRI and biochemical cartilage assessment (dGEMRIC) evaluating femoral head decentration reversibility after PAO for DDH, providing novel imaging insights for hip preservation surgeons.",
+      "bullets": [
+        "Endoscopic techniques can address greater trochanteric pain syndrome, iliopsoas tendinopathy, extra-articular impingement, and gluteal and hamstring tears without open surgery.",
+        "These procedures are indicated for active adults with extra-articular hip pathology that has failed conservative management.",
+        "Endoscopic management of extra-articular hip conditions offers lower morbidity and faster recovery compared to traditional open approaches."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-09-01T07:31:53.498260-07:00"
+}
