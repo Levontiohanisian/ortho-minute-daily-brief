@@ -1,0 +1,283 @@
+{
+  "brief_date": "2026-09-02",
+  "brief_date_display": "Wednesday, September 02",
+  "candidates": [
+    {
+      "pmid": "42679021",
+      "title": "Effects of Capacity-Related Delay to Hip Fracture Surgery on Mortality: A Matched-Cohort Study.",
+      "authors": [
+        "King SW",
+        "Wakefield SM",
+        "Giannoudis VP",
+        "Relton SD",
+        "Giannoudis PV",
+        "Pandit HG",
+        "Rodham PL"
+      ],
+      "authors_short": "King SW, Wakefield SM, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Timely surgery is emphasized in hip fracture care. Prior studies examining this have failed to distinguish adequately between delays for medical optimization and those due to limited operative capacity, introducing important confounders. This study aimed to determine the impact of capacity-related delays on mortality after a hip fracture in older individuals, as well as the factors moderating these effects. METHODS: This retrospective cohort study involved patients treated in a U.K. teaching hospital from January 2020 to June 2024. Primary outcomes were mortality at 30 and 365 days. The exposure of interest was capacity-delayed hip fracture surgery, defined as operative anesthesia for hip fracture surgery occurring >36 hours after emergency department presentation. Patients aged \u226565 years with an operatively managed fracture of the native proximal femur were included. Patients were excluded if surgery was delayed for medical reasons. Multivariable logistic regression was used to examine mortality risk factors, and propensity-score matching was performed on the basis of covariates affecting mortality and survival analysis. RESULTS: Of 3,094 screened patients, 2,358 were eligible. Mortality status was available for 96.9% of patients at 365 days. One thousand and eighty-seven (46%) received timely surgery while 1,271 (54%) experienced capacity-related delay. After propensity-score matching, the median age was 85 years (interquartile range, 78 to 90 years), 73% were female, and 98% were White. Capacity delay was associated with a greater hazard of 365-day mortality (hazard ratio [HR] = 1.37, 95% confidence interval [CI]: 1.15 to 1.63), and the hazard was most pronounced in the first 30 days (HR = 1.71, 95% CI: 1.11 to 2.65). Shorter-term (30-day) mortality in patients with a higher Clinical Frailty Scale score (>4) was most affected by delay (odds ratio [OR] = 1.76, 95% CI: 1.06 to 3.02), while effects on less frail patients were not significant. CONCLUSIONS: Capacity-related delays in hip fracture surgery were associated with greater mortality after accounting for patient-related risk factors. This study overcomes a key confounder by isolating capacity-related delay. The results may support prioritizing timely hip fracture surgery for more vulnerable patients. LEVEL OF EVIDENCE: Prognostic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42679021/",
+      "score": 82,
+      "score_reasoning": "High-quality propensity-score matched retrospective cohort study from JBJS with n=2358 directly addressing the clinically critical and debated question of whether capacity-related (non-medical) delays to hip fracture surgery worsen mortality outcomes.",
+      "bullets": [
+        "In older hip fracture patients where surgery was delayed beyond 36 hours due to capacity constraints alone, one-year mortality was 37% higher and 30-day mortality was 71% higher compared to those treated on time.",
+        "The mortality harm from capacity-related delay was significant only in frail patients (Clinical Frailty Scale above 4), with 76% higher odds of dying within 30 days, while less frail patients showed no significant difference.",
+        "When theatre capacity is limited, frail hip fracture patients should be prioritised for early surgery, as delays in this group carry a measurable and avoidable mortality cost."
+      ]
+    },
+    {
+      "pmid": "42670183",
+      "title": "Sesamoid Subluxation in Hallux Valgus Deformity.",
+      "authors": [
+        "Lama JE",
+        "Thompson R",
+        "Streeter SR",
+        "Jones A",
+        "Steineman BD",
+        "Ellis SJ",
+        "Johnson AH",
+        "Conti MS"
+      ],
+      "authors_short": "Lama JE, Thompson R, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Whether sesamoid subluxation relative to the metatarsal head occurs in hallux valgus (HV) remains unestablished. Deep transverse intermetatarsal ligament (DTML) attenuation, which spans the lateral sesamoid to the second metatarsal head, may increase transverse motion and facilitate medial sesamoid subluxation with the first metatarsal. This study aims to compare the average second metatarsal head to lateral sesamoid (2MTLS) distance between HV and control patients, which is a proxy of DTML length. We hypothesize that HV patients demonstrate an increased 2MTLS distance. METHODS: Sixty-eight patients were matched into 2 groups: 34 with HV and 34 without HV. Standardized preoperative weightbearing computed tomography scans were used to measure the 2MTLS distance, hallux valgus angle (HVA), intermetatarsal angle (IMA), first metatarsal pronation, and sesamoid station. The 2MTLS distance was anatomically measured from the lateral sesamoid to the second metatarsal head. RESULTS: The 2MTLS distance was significantly greater in HV patients compared with controls (20.90\u2009mm vs 18.56\u2009mm, P\u2009<\u2009.001). Similarly, the HVA and IMA were increased in HV patients (P\u2009<\u2009.001). First metatarsal pronation and sesamoid station were significantly greater in HV patients (P\u2009<\u2009.001). The 2MTLS distance demonstrated a moderately positive correlation with sesamoid station (r\u2009=\u20090.36, 95% CI 0.06-0.60), HVA (r\u2009=\u20090.40, 95% CI 0.12-0.65), and IMA (r\u2009=\u20090.43, 95% CI 0.06-0.71) but was not correlated with first metatarsal pronation (r\u2009=\u2009-0.18). Inter- and intrarater reliability for the 2MTLS measurements were ICC\u2009=\u20090.911 (95% CI 0.858-0.944) and 0.958 (95% CI 0.933-0.974), respectively. CONCLUSION: In HV patients, 2MTLS was significantly increased compared with controls. Additionally, as sesamoid station increased, the 2MTLS distance also increased. This challenges the long-standing view that the sesamoids remain anchored in HV and suggests the sesamoids subluxate. Clinically, this highlights the DTML's role as a restraint to first metatarsal medial deviation and suggests against sectioning the ligament during lateral release. LEVEL OF EVIDENCE: Level III, retrospective cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42670183/",
+      "score": 79,
+      "score_reasoning": "Prospective RCT comparing PRP versus corticosteroid injection for Morton neuroma with 12-month follow-up and MRI outcomes, providing directly actionable evidence for a common clinical problem with limited high-quality comparative data.",
+      "bullets": [
+        "In hallux valgus patients, the lateral sesamoid sits farther from the second metatarsal head than in controls, meaning the sesamoids do subluxate rather than stay fixed as traditionally taught.",
+        "Greater sesamoid displacement correlates with larger hallux valgus and intermetatarsal angles, so more severe deformities involve more sesamoid migration.",
+        "The deep transverse intermetatarsal ligament restrains first metatarsal drift, so surgeons should avoid cutting it during lateral release in hallux valgus correction."
+      ]
+    },
+    {
+      "pmid": "42644599",
+      "title": "Prosthetic Joint Infection After Total Ankle Arthroplasty: A Propensity-Matched Analysis of Risk Factors and Outcomes.",
+      "authors": [
+        "McCahon JAS",
+        "Thomas GM",
+        "Sherman M",
+        "Hsu A",
+        "O'Neil J",
+        "Parekh SG",
+        "Pedowitz DI"
+      ],
+      "authors_short": "McCahon JAS, Thomas GM, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Prosthetic joint infection (PJI) following total ankle arthroplasty (TAA) is a rare but devastating complication associated with high rates of reoperation and poor functional outcomes. The purpose of this study was to identify risk factors for PJI following primary TAA and to characterize associated treatment approaches and clinical outcomes. METHODS: A single-institution retrospective cohort study was conducted, including 1008 primary TAAs performed between 2010 and 2023. PJI was defined using established microbiologic and clinical criteria consistent with prior literature. Patient demographics, comorbidities, preoperative functional status, and operative characteristics were collected. Infected patients were compared with non-infected controls using 2:1 propensity score matching based on age and sex. Associations with PJI were evaluated using penalized logistic regression (Firth method). Microbiologic profiles, surgical management strategies, and outcomes were analyzed for the infection cohort. RESULTS: Twenty-seven PJIs treated by 4 surgeons were identified, yielding an overall infection rate of 2.7%. After matching, cohorts were balanced across patient demographics. Concomitant calcaneal displacement osteotomy and cancer history were significantly associated with PJI (P\u2009<\u2009.05). When adjusting for prior ankle surgery, BMI, diabetes, and tourniquet time, concomitant calcaneal displacement osteotomy was associated with 9.75-fold increased odds of PJI (95% CI 2.5-52.4) demonstrating an area under the curve of 83.7%. Staphylococcus aureus was the most frequently identified organism (36.7%). Eight (29.6%) PJIs were considered chronic (>4 weeks). Two-stage revision TAA was the predominant surgical strategy (59.3%), with limb salvage achieved in 96.2% of cases and arthroplasty retention maintained in 69.2% at a mean follow-up of 4.07\u2009years. CONCLUSION: PJI following primary TAA occurred at a rate of 2.7%, with calcaneal displacement osteotomies identified as a significant associated procedural risk factor. Despite the severity of this complication, high rates of limb salvage and arthroplasty retention were observed with contemporary treatment strategies at midterm follow-up. LEVEL OF EVIDENCE: Level III, retrospective cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42644599/",
+      "score": 76,
+      "score_reasoning": "Clinically relevant meta-analysis of 3,185 patients comparing ACDF versus MIS-PCF for cervical radiculopathy in JAAOS, directly informing surgical decision-making for one of the most common spine procedures.",
+      "bullets": [
+        "Adding a calcaneal osteotomy at the time of total ankle replacement raises the odds of prosthetic joint infection nearly tenfold compared to ankle replacement alone.",
+        "Staphylococcus aureus caused about one in three infections, and most cases were managed with two-stage revision, achieving limb salvage in over 95% of patients at four years.",
+        "For patients with a history of cancer or a planned concomitant calcaneal osteotomy, surgeons should weigh infection risk carefully before proceeding with total ankle arthroplasty."
+      ]
+    },
+    {
+      "pmid": "42658904",
+      "title": "Distal Radial Fracture as an Early Marker of Bone Fragility: A Population-Based Study in Japan.",
+      "authors": [
+        "Shibata R",
+        "Sato Y",
+        "Tanaka Y"
+      ],
+      "authors_short": "Shibata R, Sato Y, Tanaka Y",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Distal radial fractures (DRFs) are common fragility fractures in older adults and often indicate skeletal deterioration. However, whether DRFs reflect underlying systemic frailty or occur predominantly in relatively active individuals with preserved physical function remains unclear. METHODS: This retrospective cohort study analyzed data from the Shizuoka Kokuho Database, which includes the health and long-term care (LTC) claims of 2.4 million residents. Individuals aged 65 to 89 years who were newly diagnosed with a DRF between 2012 and 2022 were compared with patients with an upper-limb contusion. Propensity score matching was used to balance baseline characteristics between these groups. The primary outcome was all-cause mortality. The secondary outcomes included secondary fragility fractures, hospitalization, LTC deterioration, and osteoporosis treatment initiation. Cox proportional hazards and Poisson regression models were used for the analysis. Causal mediation analysis was conducted to explore the indirect effects of secondary fractures and treatment initiation. RESULTS: After propensity score matching, the final analysis included 47,178 patients (23,589 matched pairs; mean age, 77.6 \u00b1 6.7 years; 87.8% female) with balanced baseline characteristics. In the matched cohort, patients with a DRF had lower all-cause mortality than controls in the unadjusted analysis (hazard ratio [HR], 0.90; 95% confidence interval [CI], 0.86 to 0.94), but this association was attenuated after multivariable adjustment that included baseline LTC certification (HR, 0.98; 95% CI, 0.93 to 1.02). Subgroup analysis showed that a DRF was associated with lower mortality among individuals with higher LTC needs, particularly women. In the matched cohort, patients with a DRF had higher rates of subsequent hip fractures (2.58 [95% CI, 2.48 to 2.69] versus 2.00 [95% CI, 1.91 to 2.10] fractures per 100 person-years) and more frequent osteoporosis treatment initiation within 1 year after injury (17.6% [95% CI, 17.1% to 18.1%] versus 7.7% [95% CI, 7.4% to 8.0%] of patients). The mediation analysis suggested modest indirect effects of secondary hip fractures and vitamin-D supplementation on mortality. CONCLUSIONS: DRFs in older adults may reflect preserved function and skeletal fragility rather than advanced frailty. These fractures may represent a critical window for initiating osteoporosis treatment to prevent subsequent fractures and improve long-term outcomes. LEVEL OF EVIDENCE: Prognostic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42658904/",
+      "score": 74,
+      "score_reasoning": "Large national registry study (3,531 hip arthroscopies, 76 surgeons) demonstrating that cumulative surgeon volume significantly affects outcomes after hip arthroscopy for FAIS, with important implications for credentialing and surgical training.",
+      "bullets": [
+        "Older adults who sustain a distal radius fracture have roughly the same overall mortality as matched controls, suggesting these fractures occur more often in relatively functional patients than in those with advanced frailty.",
+        "Patients with a distal radius fracture go on to suffer subsequent hip fractures at a meaningfully higher rate, confirming the fracture signals systemic bone fragility that requires action.",
+        "Only 17.6% of distal radius fracture patients started osteoporosis treatment within one year, pointing to a clear and underused opportunity to intervene and reduce downstream fracture risk in this population."
+      ]
+    },
+    {
+      "pmid": "42670705",
+      "title": "Pediatric Orthopaedic Surgeon Use of Removable Splints for Common Pediatric Distal Radius and Fibula Fractures: A 10-year Update.",
+      "authors": [
+        "Rundell AN",
+        "Kazanjian AS",
+        "Samora EC",
+        "Floccari LV",
+        "Samora J"
+      ],
+      "authors_short": "Rundell AN, Kazanjian AS, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Management of pediatric fractures continually evolves, with a documented shift toward removable devices, such as splints, braces, or boots, for stable injuries. However, there is a need to evaluate current practice patterns. METHODS: A self-administered, 22-question online survey was open to all practicing orthopaedic surgeon members of Pediatric Orthopaedic Surgeons of North America (POSNA) between June and September 2025. Questions were consistent with a previous 2015 survey. Demographic information, immobilization practices, comfort with removable devices, complications, and barriers were analyzed and compared with 2015 data. RESULTS: A total of 323/865 (37.3%) invitees responded, with well-distributed experience levels, and 165 (56.9%) belonged to a university-affiliated practice. A total of 293 (95.1%) completed their pediatric fellowship, and 132 (45.4%) reported that their practice has an accepted standard of treatment for these fractures. A total of 256 respondents (87.7%) would treat distal radius buckle fractures with a removable device, which is significantly different than 2015, when 29.1% of respondents would treat these injuries with a removable device (P<0.001). Removable devices were not commonly used for greenstick [40 (13.7%)] or transverse [5 (1.7%)] fractures. Cast utilization decreased in both radius and fibula fractures, with the most pronounced reduction observed in distal fibula avulsion fractures, declining over 9-fold. Respondents were likely to prescribe a cast in 5.9% of fibula avulsion fractures, followed by 17.0% in Salter-Harris I and 38.5% in Salter-Harris II fractures. Concerns regarding patient family preference 170 (58.0%), patient compliance 158 (53.9%), and complications 91 (31.1%) are the most common reported barriers to using a removable form of immobilization. Although patient complications were listed as a potential barrier for 91 (31.1%) respondents, the perceived risk of complications was reported as \"very low\" for distal radius buckle [280 (96.2%)] and greenstick [91 (31.4%)] fractures. Transverse fractures were considered to have a moderate risk for complications [130 (44.8%)]. CONCLUSIONS: Compared with 2015, an increased utilization of removable devices for minimally displaced common pediatric fractures was seen. Barriers were patient or family compliance and preference, and concern for potential complications, highlighting the importance of education and shared decision-making. CLINICAL RELEVANCE: It is important to evaluate the current state of evidence-based practice regarding the use of removable devices for pediatric fractures. Addressing barriers such as patient and family compliance, preferences, and concerns about complications through targeted education may improve adherence and optimize clinical outcomes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42670705/",
+      "score": 73,
+      "score_reasoning": "Prospective multicenter observational study of 502 ankles with minimum 5-year follow-up showing COFAS grade does not significantly affect Infinity TAA survivorship (98.2% at 5 years), directly challenging preoperative patient selection assumptions.",
+      "bullets": [
+        "Nearly 88% of pediatric orthopaedic surgeons now treat distal radius buckle fractures with removable splints, up from 29% in 2015.",
+        "Removable devices remain uncommon for greenstick and transverse distal radius fractures, and casting has dropped sharply for distal fibula avulsion fractures over the past decade.",
+        "The main barriers to using removable immobilization are family preference and compliance concerns, not perceived complication risk, pointing to a need for better patient education."
+      ]
+    },
+    {
+      "pmid": "42646642",
+      "title": "Medial meniscus posterior root repair with concomitant centralization does not demonstrate superior reduction of meniscal extrusion or improved clinical outcomes compared with isolated repair: A systematic review and meta-analysis.",
+      "authors": [
+        "Vasiliadis AV",
+        "Gkekas NK",
+        "Maris A",
+        "Colyvas N",
+        "Hantes M"
+      ],
+      "authors_short": "Vasiliadis AV, Gkekas NK, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To evaluate whether the addition of a meniscal centralization procedure to medial meniscus posterior root (MMPR) repair improves medial meniscus extrusion (MME) and patient-reported outcomes compared with isolated MMPR repair. METHODS: A systematic review and meta-analysis were conducted in accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. PubMed, Cochrane CENTRAL and Scopus were searched from inception to 28 February 2026. Comparative studies evaluating isolated MMPR repair versus MMPR repair combined with centralization procedure (including transtibial pull-out repair, posteromedial pull-out repair with all-inside sutures and anchor-based techniques) and reporting radiographic extrusion measured by magnetic resonance imaging and/or patient-reported outcomes were included. Effect estimates were calculated using change scores. Mean differences (MDs) were used for extrusion, and standardized mean differences (SMDs) were used for patient-reported outcomes. Heterogeneity was assessed using the I2 statistic, and pooled estimates were generated using a random-effects model. RESULTS: Six comparative studies (one randomized controlled trial [RCT] and five retrospective cohort studies) comprising 309 patients (167 isolated repair; 142 centralization repair) with a mean follow-up period of 11.2 months (range, 3-26.8 months) were included. Participants were predominantly female, with mean age of 50.3-66.4 years, body mass index of 22.5-29\u2009kg/m2 and Kellgren-Lawrence\u2009\u2264\u20092. The overall pooled analysis demonstrated no significant difference in MME reduction between centralization and isolated repair (MD 0.4\u2009mm; 95% confidence interval [CI] -0.34 to 1.22; p\u2009=\u20090.27; I2\u2009=\u200989%). Although post-operative MME was lower in the centralization group (3.3 vs. 3.8\u2009mm), the absolute difference between groups was only 0.6\u2009mm, suggesting limited clinical relevance. No significant differences were observed between groups in Lysholm (p\u2009=\u20090.93), International Knee Documentation Committee (p\u2009=\u20090.13) or visual analogue scale pain scores (p\u2009=\u20090.10). Reporting of complications was inconsistent, with no conversions to total knee arthroplasty during follow-up. CONCLUSIONS: The addition of a meniscal centralization to MMPR repair does not demonstrate a consistent reduction in meniscal extrusion or improvement in patient-reported outcomes compared with isolated MMPR repair. Given the heterogeneity of the current evidence and the predominance of non-randomized studies, further high-quality RCTs are required to clarify its clinical value. LEVEL OF EVIDENCE: Level II.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42646642/",
+      "score": 72,
+      "score_reasoning": "Prospective cohort study demonstrating near-zero agreement between patient-reported PASS thresholds and objective quadriceps symmetry at 1 year post-ACLR, highlighting a critical gap in return-to-sport decision making with direct clinical implications.",
+      "bullets": [
+        "Adding meniscal centralization to medial meniscus posterior root repair did not reduce meniscal extrusion or improve pain and function scores compared to repair alone.",
+        "The finding applies to middle-aged to older women with early knee arthritis undergoing posterior root repair, the most common patient profile in current practice.",
+        "Surgeons can perform isolated posterior root repair without routinely adding centralization, as the extra procedure offers no measurable clinical benefit at one year."
+      ]
+    },
+    {
+      "pmid": "42660331",
+      "title": "Lateral Femoral Joint-Line Distalization Increases Lateral Collateral Ligament Strain During Total Knee Arthroplasty.",
+      "authors": [
+        "Kitchen JM",
+        "Richards JA",
+        "Powers J",
+        "Quesada P",
+        "Mont MA",
+        "Malkani AL"
+      ],
+      "authors_short": "Kitchen JM, Richards JA, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Optimal coronal alignment strategy during total knee arthroplasty (TKA) remains controversial. Joint-line alteration has been associated with abnormal knee kinematics, ligament imbalance, and patient dissatisfaction; however, the isolated biomechanical consequences of lateral femoral joint-line distalization on lateral collateral ligament (LCL) strain remain poorly understood. METHODS: There were six non-arthritic cadaver knees that underwent robotic-assisted TKA using restricted kinematic alignment (rKA) to approximate native joint-line orientation. A motion capture technique utilizing reflective markers applied to the LCL quantified strain across knee flexion angles (0, 30, 60, and 90\u00b0). Progressive distalization of the lateral femoral condyle was simulated using 2-mm shims placed between the implant and the lateral distal femur. The median peak LCL strain across flexion arcs and ligament regions was recorded and compared using paired statistical testing. RESULTS: Native LCL strain demonstrated physiologic relaxation with increasing knee flexion. Following rKA TKA, the baseline median peak LCL strain measured 1.6%. Progressive lateral femoral joint-line distalization resulted in increases in strain to 1.9, 6.0, and 8.1% with 2-, 4-, and 6-mm distalization, respectively. Statistically significant increases in strain were observed between zero and four mm, zero and six mm, and four and six mm distalization (P < 0.05). A stepwise strain response was observed, demonstrating a potential biomechanical threshold between two and four mm distalization. CONCLUSIONS: Lateral distal femoral joint-line distalization independently increases LCL strain following TKA. Distalization exceeding approximately four mm results in strain magnitudes associated with a microstructural injury threshold based on in vitro studies of animal ligaments. These findings suggest that joint-line alteration may contribute to lateral soft-tissue imbalance and postoperative dissatisfaction.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42660331/",
+      "score": 71,
+      "score_reasoning": "Well-designed controlled cadaveric biomechanical study clarifying the optimal number and placement of centralization sutures during posterior medial meniscus root repair, addressing an actively debated technical question.",
+      "bullets": [
+        "Lowering the lateral femoral joint line during TKA progressively increases lateral collateral ligament strain, with a critical threshold appearing between 2 and 4 mm of distalization.",
+        "Beyond 4 mm of lateral femoral distalization, LCL strain reaches levels associated with microstructural ligament injury, risking lateral soft-tissue imbalance.",
+        "In any TKA patient with unexplained lateral laxity or dissatisfaction, check femoral component positioning for lateral joint-line distalization exceeding 4 mm."
+      ]
+    },
+    {
+      "pmid": "42671312",
+      "title": "Medicolegal Sidebar: The Risks of Testifying as an Expert Witness.",
+      "authors": [
+        "Bal BS"
+      ],
+      "authors_short": "Bal BS",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42671312/",
+      "score": 68,
+      "score_reasoning": "Innovative decision-analytic model in CORR quantifying surgeon-specific break-even points for adopting new techniques based on volume and learning curve, providing a novel practical framework for evidence-based surgical innovation adoption.",
+      "bullets": [
+        "Orthopaedic surgeons who testify as expert witnesses face professional and legal consequences if their testimony is found to be misleading or outside their area of competence.",
+        "Medical specialty societies, including orthopaedic organizations, can sanction members for irresponsible expert witness testimony, up to and including loss of membership.",
+        "Surgeons considering expert witness work should ensure their opinions are evidence-based, within their clinical expertise, and consistent with what they would recommend in their own practice."
+      ]
+    },
+    {
+      "pmid": "42679866",
+      "title": "The Risk Analysis Index is Superior to the Modified 5-Factor Frailty Index for Predicting 30-Day Mortality Following Arthroplasty for Femoral Neck Fractures.",
+      "authors": [
+        "Parisier E",
+        "Koltenyuk V",
+        "Gupta N",
+        "Wang L",
+        "Perugini A",
+        "Weick J"
+      ],
+      "authors_short": "Parisier E, Koltenyuk V, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Femoral neck fractures (FNFs) are common in the elderly and are typically treated operatively. Tools like frailty assessments may be critical for evaluating peri- and postoperative patient needs. Our study evaluated the utility of frailty, measured by the Risk Analysis Index (RAI) and the Modified 5-Item Frailty Index (mFI-5), in predicting 30-day mortality in patients undergoing hemiarthroplasty (HA) or total hip arthroplasty (THA) for FNFs. METHODS: A national database was queried from 2015 to 2020 for patients 18 years of age or older undergoing HA or THA for FNFs. A total of 14,913 patients who had surgically managed FNFs were included. The primary outcome was 30-day mortality. Multivariate regressions were used to evaluate predictive value, and receiver operating characteristic curves assessed frailty accuracy. RESULTS: Frailty as measured by the mFI-5 and RAI was predictive of increased odds of 30-day mortality in HA (RAI = odds ratio (OR): 1.46, 95% confidence interval (CI): 1.31 to 1.64; mFI-5 = OR: 1.10 (1.08 to 1.12, P < 0.001 for both)) and THA (RAI = OR: 1.15 (CI: 1.106 to 1.190, P < 0.001), mFI-5 = OR: 1.50 (CI: 1.167 to 1.923, P = 0.002)). The RAI demonstrated superior risk discrimination when compared to the mFI-5 for THA (RAI = C-statistic: 0.84, 95% CI: 0.45 to 0.83 versus mFI-5 = C-statistic: 0.69, 95% CI: 0.68 to 0.71) and HA (RAI = C-statistic: 0.74, 95% CI: 0.73 to 0.75 versus mFI-5 = C-statistic: 0.62, 95% CI: 0.61 to 0.63). CONCLUSION: Frailty was found to be a predictor of mortality in patients who had FNFs undergoing THA and HA. Compared to the mFI-5, the RAI demonstrated superior predictive value for mortality across both operations. Thus, the RAI may be a powerful tool for assessing preoperative risk in patients undergoing arthroplasty for FNFs.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42679866/",
+      "score": 66,
+      "score_reasoning": "Large retrospective study of 888 knees identifying predictors of inability to kneel/squat post-arthroplasty\u2014highly relevant to culturally specific patient expectations and shared decision-making in a globally important patient population.",
+      "bullets": [
+        "In over 14,000 patients undergoing hemiarthroplasty or total hip arthroplasty for femoral neck fractures, higher frailty scores on both the RAI and mFI-5 predicted greater 30-day mortality risk.",
+        "The RAI outperformed the mFI-5 in discriminating 30-day mortality risk for both hemiarthroplasty and total hip arthroplasty in this population.",
+        "For elderly patients with femoral neck fractures heading to arthroplasty, using the RAI over the mFI-5 in preoperative frailty screening may better identify those at highest risk of early death."
+      ]
+    },
+    {
+      "pmid": "42671177",
+      "title": "Nonarthroplasty Treatment Options for Management of Primary Elbow Osteoarthritis.",
+      "authors": [
+        "DeBernardis D",
+        "Joshi T",
+        "Virk MS"
+      ],
+      "authors_short": "DeBernardis D, Joshi T, Virk MS",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "Primary elbow osteoarthritis is a functionally limiting condition, predominantly affecting middle-aged men engaged in repetitive manual labor, and is characterized by pain, stiffness, and mechanical symptoms. Evaluation involves a detailed history focusing on pain, loss of motion, and mechanical symptoms, followed by clinical examination for range of motion deficits, crepitus, and instability. Radiographic assessment, including standard radiographs and, when indicated, computed tomography imaging, is essential for staging disease severity, identifying osteophytes, capsular contracture, and joint space narrowing. Initial management is nonsurgical, emphasizing activity modification, NSAIDs, physical therapy, and intra-articular corticosteroid injections. When conservative measures fail, surgical options include arthroscopic or open d\u00e9bridement, osteocapsular arthroplasty, and procedures such as the Outerbridge-Kashiwagi technique. Both arthroscopic and open approaches reliably improve pain, range of motion, and functional scores, with low complication rates. However, open procedures may yield greater flexion gains in select cases. Nonarthroplasty options for primary elbow arthritis encompass a spectrum from conservative management to arthroscopic and open surgical d\u00e9bridement, with treatment tailored to disease severity, patient age, and functional demands.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42671177/",
+      "score": 65,
+      "score_reasoning": "Contemporary single-health-system cohort of 997 spinal metastasis patients examining 5-year survival and prognostic scoring tool performance beyond 1 year, providing updated survival benchmarks for surgical oncology decision-making.",
+      "bullets": [
+        "Primary elbow osteoarthritis mainly affects middle-aged men doing repetitive manual work, presenting with pain, stiffness, and mechanical symptoms.",
+        "When conservative measures fail, both arthroscopic and open debridement reliably improve pain and range of motion, with open procedures offering greater flexion gains in select patients.",
+        "Treatment choice should be guided by disease severity, patient age, and functional demands, reserving arthroplasty options for when these nonarthroplasty approaches are exhausted."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-09-02T07:05:31.495867-07:00"
+}
