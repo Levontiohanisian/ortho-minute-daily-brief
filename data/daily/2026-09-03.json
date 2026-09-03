@@ -1,0 +1,314 @@
+{
+  "brief_date": "2026-09-03",
+  "brief_date_display": "Thursday, September 03",
+  "candidates": [
+    {
+      "pmid": "42679021",
+      "title": "Effects of Capacity-Related Delay to Hip Fracture Surgery on Mortality: A Matched-Cohort Study.",
+      "authors": [
+        "King SW",
+        "Wakefield SM",
+        "Giannoudis VP",
+        "Relton SD",
+        "Giannoudis PV",
+        "Pandit HG",
+        "Rodham PL"
+      ],
+      "authors_short": "King SW, Wakefield SM, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Timely surgery is emphasized in hip fracture care. Prior studies examining this have failed to distinguish adequately between delays for medical optimization and those due to limited operative capacity, introducing important confounders. This study aimed to determine the impact of capacity-related delays on mortality after a hip fracture in older individuals, as well as the factors moderating these effects. METHODS: This retrospective cohort study involved patients treated in a U.K. teaching hospital from January 2020 to June 2024. Primary outcomes were mortality at 30 and 365 days. The exposure of interest was capacity-delayed hip fracture surgery, defined as operative anesthesia for hip fracture surgery occurring >36 hours after emergency department presentation. Patients aged \u226565 years with an operatively managed fracture of the native proximal femur were included. Patients were excluded if surgery was delayed for medical reasons. Multivariable logistic regression was used to examine mortality risk factors, and propensity-score matching was performed on the basis of covariates affecting mortality and survival analysis. RESULTS: Of 3,094 screened patients, 2,358 were eligible. Mortality status was available for 96.9% of patients at 365 days. One thousand and eighty-seven (46%) received timely surgery while 1,271 (54%) experienced capacity-related delay. After propensity-score matching, the median age was 85 years (interquartile range, 78 to 90 years), 73% were female, and 98% were White. Capacity delay was associated with a greater hazard of 365-day mortality (hazard ratio [HR] = 1.37, 95% confidence interval [CI]: 1.15 to 1.63), and the hazard was most pronounced in the first 30 days (HR = 1.71, 95% CI: 1.11 to 2.65). Shorter-term (30-day) mortality in patients with a higher Clinical Frailty Scale score (>4) was most affected by delay (odds ratio [OR] = 1.76, 95% CI: 1.06 to 3.02), while effects on less frail patients were not significant. CONCLUSIONS: Capacity-related delays in hip fracture surgery were associated with greater mortality after accounting for patient-related risk factors. This study overcomes a key confounder by isolating capacity-related delay. The results may support prioritizing timely hip fracture surgery for more vulnerable patients. LEVEL OF EVIDENCE: Prognostic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42679021/",
+      "score": 82,
+      "score_reasoning": "High-impact JBJS study with large propensity-matched cohort (n=2,358) addressing the clinically critical question of capacity-related surgical delay and mortality in hip fracture patients, with direct policy and practice implications.",
+      "bullets": [
+        "In older hip fracture patients where delay was due to capacity constraints only, waiting more than 36 hours for surgery raised 30-day mortality risk by 71% and one-year mortality risk by 37%.",
+        "The mortality harm from delay was concentrated in frail patients (Clinical Frailty Scale score above 4), while less frail patients showed no significant mortality increase from waiting.",
+        "When scheduling is constrained, frail hip fracture patients should be prioritised for earliest available operative slots, as capacity delay, not medical factors, is independently lethal in this group."
+      ]
+    },
+    {
+      "pmid": "42685157",
+      "title": "Changes in the Management of Periprosthetic Joint Infection Over the Past 50 Years.",
+      "authors": [
+        "Abedi AA",
+        "Pourbozorg G",
+        "Abdou M",
+        "Hoveidaei AH",
+        "Parvizi J",
+        "Citak M"
+      ],
+      "authors_short": "Abedi AA, Pourbozorg G, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "\u27a2 Periprosthetic joint infection (PJI) remains a major complication of joint arthroplasty, associated with morbidity and health-care burden. Although room for progress remains, the management of PJI has evolved over the past 50 years from empiric, procedure-centered approaches to structured, evidence-based, and biologically informed strategies.\u27a2 This article summarizes key developments in the prevention, diagnosis, and treatment of PJI, driven by advances across multiple clinical and scientific subspecialties.\u27a2 Diagnostic approaches have advanced from reliance on clinical findings and culture to a multimodal framework integrating validated criteria, serological and synovial biomarkers, and molecular techniques. Surgical management has similarly evolved toward individualized strategies, including debridement with implant retention, 1-stage or 2-stage revision, and salvage surgery tailored to host, pathogen, and disease characteristics.\u27a2 Advances in microbiology, particularly the recognition of biofilm and the emerging role of the human microbiome, have further reshaped the understanding of PJI. Overall, this article examines how developments in prevention, diagnosis, surgical treatment, and microbiology have driven a transition toward precision-based, biology-informed, and individualized management of PJI.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42685157/",
+      "score": 80,
+      "score_reasoning": "Comprehensive JBJS review summarizing 50 years of PJI management evolution across prevention, diagnosis, and treatment, highly relevant to all arthroplasty surgeons with excellent journal prestige.",
+      "bullets": [
+        "PJI diagnosis has shifted from clinical exam and culture alone to a standardized multimodal approach using validated criteria, blood and joint fluid biomarkers, and molecular testing.",
+        "Surgical treatment now follows individualized decision-making, with DAIR, single-stage, or two-stage revision selected based on patient factors, organism, and infection timing rather than a one-size-fits-all protocol.",
+        "Biofilm biology and emerging microbiome research are reshaping how surgeons understand why PJI occurs and why some infections persist despite appropriate treatment."
+      ]
+    },
+    {
+      "pmid": "42670183",
+      "title": "Sesamoid Subluxation in Hallux Valgus Deformity.",
+      "authors": [
+        "Lama JE",
+        "Thompson R",
+        "Streeter SR",
+        "Jones A",
+        "Steineman BD",
+        "Ellis SJ",
+        "Johnson AH",
+        "Conti MS"
+      ],
+      "authors_short": "Lama JE, Thompson R, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Whether sesamoid subluxation relative to the metatarsal head occurs in hallux valgus (HV) remains unestablished. Deep transverse intermetatarsal ligament (DTML) attenuation, which spans the lateral sesamoid to the second metatarsal head, may increase transverse motion and facilitate medial sesamoid subluxation with the first metatarsal. This study aims to compare the average second metatarsal head to lateral sesamoid (2MTLS) distance between HV and control patients, which is a proxy of DTML length. We hypothesize that HV patients demonstrate an increased 2MTLS distance. METHODS: Sixty-eight patients were matched into 2 groups: 34 with HV and 34 without HV. Standardized preoperative weightbearing computed tomography scans were used to measure the 2MTLS distance, hallux valgus angle (HVA), intermetatarsal angle (IMA), first metatarsal pronation, and sesamoid station. The 2MTLS distance was anatomically measured from the lateral sesamoid to the second metatarsal head. RESULTS: The 2MTLS distance was significantly greater in HV patients compared with controls (20.90\u2009mm vs 18.56\u2009mm, P\u2009<\u2009.001). Similarly, the HVA and IMA were increased in HV patients (P\u2009<\u2009.001). First metatarsal pronation and sesamoid station were significantly greater in HV patients (P\u2009<\u2009.001). The 2MTLS distance demonstrated a moderately positive correlation with sesamoid station (r\u2009=\u20090.36, 95% CI 0.06-0.60), HVA (r\u2009=\u20090.40, 95% CI 0.12-0.65), and IMA (r\u2009=\u20090.43, 95% CI 0.06-0.71) but was not correlated with first metatarsal pronation (r\u2009=\u2009-0.18). Inter- and intrarater reliability for the 2MTLS measurements were ICC\u2009=\u20090.911 (95% CI 0.858-0.944) and 0.958 (95% CI 0.933-0.974), respectively. CONCLUSION: In HV patients, 2MTLS was significantly increased compared with controls. Additionally, as sesamoid station increased, the 2MTLS distance also increased. This challenges the long-standing view that the sesamoids remain anchored in HV and suggests the sesamoids subluxate. Clinically, this highlights the DTML's role as a restraint to first metatarsal medial deviation and suggests against sectioning the ligament during lateral release. LEVEL OF EVIDENCE: Level III, retrospective cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42670183/",
+      "score": 78,
+      "score_reasoning": "Prospective RCT comparing PRP versus corticosteroid injection for Morton neuroma with 12-month follow-up and objective MRI outcomes, offering directly actionable evidence for a common clinical problem.",
+      "bullets": [
+        "In hallux valgus, the lateral sesamoid moves farther from the second metatarsal head compared to normal feet, meaning the sesamoids do subluxate rather than staying fixed.",
+        "This applies to any patient being evaluated or treated for hallux valgus deformity, including those planned for surgical correction.",
+        "Surgeons should avoid cutting the deep transverse intermetatarsal ligament during lateral release, as it serves as a key restraint against first metatarsal medial drift."
+      ]
+    },
+    {
+      "pmid": "42671057",
+      "title": "COFAS Grade is not Associated with Outcomes following Infinity Total Ankle Arthroplasty: A Multicenter Study with Minimum Five-Year Follow-Up.",
+      "authors": [
+        "Townshend D",
+        "Martin R",
+        "Bing A",
+        "Blundell C",
+        "Clough T",
+        "Davenport J",
+        "Davies H",
+        "Davis J",
+        "Dhar S",
+        "Hepple S",
+        "Kakwani R",
+        "Karski M",
+        "Makwana N",
+        "McKinley J",
+        "Murty A",
+        "Raglan M",
+        "Shalaby H",
+        "Sharpe I",
+        "Smith R",
+        "Taylor H",
+        "Goldberg A"
+      ],
+      "authors_short": "Townshend D, Martin R, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Total ankle arthroplasty (TAA) is increasingly used for end-stage ankle arthritis, with modern fixed-bearing designs demonstrating improved survivorship. The Canadian Orthopaedic Foot and Ankle Society (COFAS) classification stratifies patients by intra-articular and extra-articular deformity and adjacent joint arthritis. However, limited evidence exists on the impact of COFAS grade on mid-term TAA outcomes. This study reports the minimum 5-year outcomes of the Infinity fixed-bearing TAA and examines whether COFAS grade influences survivorship (defined as freedom from revision), complications, reoperations, revisions, radiographic findings, or patient-reported outcomes (PROMs). METHODS: A prospective, multi-center observational study included 502 ankles in 496 patients who underwent primary Infinity TAA across 11 UK centers. Patients were stratified by preoperative COFAS grade. Outcomes included implant survivorship, complications, reoperations, revisions, radiographic assessment of radiolucencies, and PROMs (the Manchester-Oxford Foot Questionnaire; the Ankle Osteoarthritis Scale [AOS]; and the EuroQol 5-dimension, 5-level index) collected preoperatively and at 2 and 5\u2009years postoperatively. Patient-specific instrumentation (PSI) use was also recorded. RESULTS: Five-year implant survivorship was 98.2%, and reoperation without revision was 5.8%. There was no significant association between COFAS grade and revision or reoperation rates. Radiographic analysis demonstrated 5.7% linear radiolucencies >2\u2009mm and 10.9% cystic radiolucencies >5\u2009mm, with no correlation to COFAS grade. PROMs improved significantly across all domains from baseline to 5 years, with no differences between COFAS grades. PSI, used in 20.1% of cases, was associated with improved AOS scores at 5 years, though PSI and site effects could not be fully disentangled, and did not influence complication, revision, or radiographic outcomes. CONCLUSION: In this large multicenter cohort, higher COFAS grades were not associated with inferior outcomes in patients undergoing Infinity fixed-bearing TAA. Survivorship, complications, reoperations, radiographic outcomes, and PROMs were not statistically different across all grades. In this cohort, Infinity TAA was associated with favorable outcomes across all COFAS grades, including those with complex deformity or adjacent joint disease. LEVEL OF EVIDENCE: Level II, prospective cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42671057/",
+      "score": 76,
+      "score_reasoning": "Large multicenter prospective study (n=502) with minimum 5-year follow-up on Infinity TAA outcomes stratified by COFAS grade, providing robust survivorship data with high clinical relevance to ankle arthroplasty surgeons.",
+      "bullets": [
+        "At five years, the Infinity fixed-bearing total ankle replacement showed 98.2% survivorship and meaningful patient-reported improvement across all outcome measures.",
+        "COFAS grade, including cases with complex deformity or adjacent joint arthritis, did not predict higher revision, reoperation, or complication rates.",
+        "Surgeons can counsel patients with more complex ankle pathology that preoperative COFAS classification alone should not exclude them from total ankle replacement."
+      ]
+    },
+    {
+      "pmid": "42646642",
+      "title": "Medial meniscus posterior root repair with concomitant centralization does not demonstrate superior reduction of meniscal extrusion or improved clinical outcomes compared with isolated repair: A systematic review and meta-analysis.",
+      "authors": [
+        "Vasiliadis AV",
+        "Gkekas NK",
+        "Maris A",
+        "Colyvas N",
+        "Hantes M"
+      ],
+      "authors_short": "Vasiliadis AV, Gkekas NK, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To evaluate whether the addition of a meniscal centralization procedure to medial meniscus posterior root (MMPR) repair improves medial meniscus extrusion (MME) and patient-reported outcomes compared with isolated MMPR repair. METHODS: A systematic review and meta-analysis were conducted in accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. PubMed, Cochrane CENTRAL and Scopus were searched from inception to 28 February 2026. Comparative studies evaluating isolated MMPR repair versus MMPR repair combined with centralization procedure (including transtibial pull-out repair, posteromedial pull-out repair with all-inside sutures and anchor-based techniques) and reporting radiographic extrusion measured by magnetic resonance imaging and/or patient-reported outcomes were included. Effect estimates were calculated using change scores. Mean differences (MDs) were used for extrusion, and standardized mean differences (SMDs) were used for patient-reported outcomes. Heterogeneity was assessed using the I2 statistic, and pooled estimates were generated using a random-effects model. RESULTS: Six comparative studies (one randomized controlled trial [RCT] and five retrospective cohort studies) comprising 309 patients (167 isolated repair; 142 centralization repair) with a mean follow-up period of 11.2 months (range, 3-26.8 months) were included. Participants were predominantly female, with mean age of 50.3-66.4 years, body mass index of 22.5-29\u2009kg/m2 and Kellgren-Lawrence\u2009\u2264\u20092. The overall pooled analysis demonstrated no significant difference in MME reduction between centralization and isolated repair (MD 0.4\u2009mm; 95% confidence interval [CI] -0.34 to 1.22; p\u2009=\u20090.27; I2\u2009=\u200989%). Although post-operative MME was lower in the centralization group (3.3 vs. 3.8\u2009mm), the absolute difference between groups was only 0.6\u2009mm, suggesting limited clinical relevance. No significant differences were observed between groups in Lysholm (p\u2009=\u20090.93), International Knee Documentation Committee (p\u2009=\u20090.13) or visual analogue scale pain scores (p\u2009=\u20090.10). Reporting of complications was inconsistent, with no conversions to total knee arthroplasty during follow-up. CONCLUSIONS: The addition of a meniscal centralization to MMPR repair does not demonstrate a consistent reduction in meniscal extrusion or improvement in patient-reported outcomes compared with isolated MMPR repair. Given the heterogeneity of the current evidence and the predominance of non-randomized studies, further high-quality RCTs are required to clarify its clinical value. LEVEL OF EVIDENCE: Level II.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42646642/",
+      "score": 73,
+      "score_reasoning": "Prospective cohort study revealing poor concordance between PASS thresholds and isokinetic quadriceps symmetry after ACLR, challenging current return-to-sport criteria with strong methodological rigor.",
+      "bullets": [
+        "Adding meniscal centralization to medial meniscus posterior root repair reduced extrusion by only 0.6 mm more than isolated repair, a difference without clinical relevance.",
+        "Pain scores and functional outcomes were equivalent between the two techniques in middle-aged to older patients with early knee arthritis.",
+        "For now, isolated posterior root repair alone remains a reasonable standard, as centralization adds complexity without proven benefit."
+      ]
+    },
+    {
+      "pmid": "42660331",
+      "title": "Lateral Femoral Joint-Line Distalization Increases Lateral Collateral Ligament Strain During Total Knee Arthroplasty.",
+      "authors": [
+        "Kitchen JM",
+        "Richards JA",
+        "Powers J",
+        "Quesada P",
+        "Mont MA",
+        "Malkani AL"
+      ],
+      "authors_short": "Kitchen JM, Richards JA, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Optimal coronal alignment strategy during total knee arthroplasty (TKA) remains controversial. Joint-line alteration has been associated with abnormal knee kinematics, ligament imbalance, and patient dissatisfaction; however, the isolated biomechanical consequences of lateral femoral joint-line distalization on lateral collateral ligament (LCL) strain remain poorly understood. METHODS: There were six non-arthritic cadaver knees that underwent robotic-assisted TKA using restricted kinematic alignment (rKA) to approximate native joint-line orientation. A motion capture technique utilizing reflective markers applied to the LCL quantified strain across knee flexion angles (0, 30, 60, and 90\u00b0). Progressive distalization of the lateral femoral condyle was simulated using 2-mm shims placed between the implant and the lateral distal femur. The median peak LCL strain across flexion arcs and ligament regions was recorded and compared using paired statistical testing. RESULTS: Native LCL strain demonstrated physiologic relaxation with increasing knee flexion. Following rKA TKA, the baseline median peak LCL strain measured 1.6%. Progressive lateral femoral joint-line distalization resulted in increases in strain to 1.9, 6.0, and 8.1% with 2-, 4-, and 6-mm distalization, respectively. Statistically significant increases in strain were observed between zero and four mm, zero and six mm, and four and six mm distalization (P < 0.05). A stepwise strain response was observed, demonstrating a potential biomechanical threshold between two and four mm distalization. CONCLUSIONS: Lateral distal femoral joint-line distalization independently increases LCL strain following TKA. Distalization exceeding approximately four mm results in strain magnitudes associated with a microstructural injury threshold based on in vitro studies of animal ligaments. These findings suggest that joint-line alteration may contribute to lateral soft-tissue imbalance and postoperative dissatisfaction.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42660331/",
+      "score": 72,
+      "score_reasoning": "Controlled cadaveric laboratory study evaluating centralization suture configurations in medial meniscus root repair, providing biomechanical guidance for an increasingly performed and technically nuanced procedure.",
+      "bullets": [
+        "Lowering the lateral femoral joint line during TKA progressively increases lateral collateral ligament strain, with a critical threshold occurring between 2 and 4 mm of distalization.",
+        "Beyond 4 mm of lateral femoral distalization, LCL strain reaches levels associated with microstructural ligament injury based on prior tissue studies.",
+        "In TKA patients where coronal alignment requires lateral distal femoral resection adjustments, surgeons should avoid exceeding 4 mm of joint-line distalization to reduce the risk of lateral soft-tissue imbalance and dissatisfaction."
+      ]
+    },
+    {
+      "pmid": "42648503",
+      "title": "Clinical Outcomes of Fixed-Bearing Lateral Unicompartmental Knee Arthroplasty: A Retrospective Cohort Study With Up to 22-Year Follow-Up.",
+      "authors": [
+        "Tsikopoulos K",
+        "Kazamias K",
+        "Babis G",
+        "Smith JRA",
+        "Porteous AJ",
+        "White P",
+        "Davies DH",
+        "Murray J"
+      ],
+      "authors_short": "Tsikopoulos K, Kazamias K, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Lateral compartment osteoarthritis (OA) of the knee represents a relatively uncommon clinical entity, accounting for approximately 5 to 10% of patients presenting with symptomatic unicompartmental arthritis. This retrospective study assessed clinical outcomes, complications, and implant survivorships of lateral unicompartmental knee arthroplasty (UKA). METHODS: In this single-institution retrospective study, data from 113 fixed-bearing lateral UKAs in 108 patients who had a mean follow-up of 13.7 years (range, 0.5 to 22) were analyzed. The mean age of the participants was 64 years (range, 36 to 91). All arthroplasties were performed between 2004 and 2014 in patients who were diagnosed with advanced lateral compartment knee OA. The primary outcome measure was the implant survivorship. The secondary outcome measures included the Oxford Knee Score (OKS, 0 low to 48 high) assessed preoperatively and at one, two, and five years postoperatively, in addition to all-cause mortality. RESULTS: With survival data from 113 knees in 108 patients included in a Kaplan-Meier analysis, the estimated implant survivorship was 97% at five years, 93% at 10 years, 89% at 15 years, and 87% at 20 years, with 20-year data based on a limited number at risk. The survival distribution did not differ by sex (P = 0.677), laterality (P = 0.761), or age (P = 0.558). The preoperative and five-year OKS were 17.61 (7.46) and 37.36 (10.5), respectively. The mean difference in Oxford Knee Score between the preoperative and five-year postoperative measurements was 19.75 (95% confidence interval [CI] 16.84 to 22.66; P < 0.001). There were 31 deaths from any cause in this series of patients, with none attributed to the index procedure. CONCLUSIONS: Fixed-bearing lateral UKA appears to be a safe and effective option for patients who have isolated unicompartmental lateral knee osteoarthritis. Excellent survivorship was demonstrated for patients treated with this lateral UKA.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42648503/",
+      "score": 70,
+      "score_reasoning": "Large retrospective cohort (n=888) identifying predictors of inability to kneel and squat post-knee arthroplasty in a culturally relevant Southeast Asian population, with broad applicability to preoperative counseling.",
+      "bullets": [
+        "Fixed-bearing lateral unicompartmental knee arthroplasty showed 93% implant survival at 10 years and 87% at 20 years across 113 knees with mean follow-up of nearly 14 years.",
+        "Oxford Knee Scores improved by nearly 20 points at five years, representing a clinically meaningful functional gain for patients with isolated lateral compartment arthritis.",
+        "Survival rates did not differ by patient age, sex, or operative side, supporting lateral UKA as a reliable option across a broad range of patients with isolated lateral knee osteoarthritis."
+      ]
+    },
+    {
+      "pmid": "42660310",
+      "title": "Hyperlipidemia Is Associated With an Increased Risk of Secondary Procedures in Patients Undergoing Arthroscopic Rotator Cuff Repair.",
+      "authors": [
+        "Prabhavalkar ON",
+        "Morriss NJ",
+        "Malin M",
+        "Jain S",
+        "Dussik CM",
+        "Phan A",
+        "Mannava S"
+      ],
+      "authors_short": "Prabhavalkar ON, Morriss NJ, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Hyperlipidemia (HLD) has been implicated as a risk factor for impaired tendon-to-bone healing after arthroscopic rotator cuff repair (RCR). While statin therapy may mitigate this effect, findings remain inconsistent. We hypothesized that HLD would be associated with higher rates of secondary procedures following RCR and that perioperative statin therapy could reduce this risk. METHODS: A retrospective cohort study was conducted using the TriNetX Research Network, a federated database of over 120 million de-identified patient records. Adults undergoing primary arthroscopic RCR (CPT 29827) between October 2015 and August 2020 were identified. Patients were grouped as (1) no HLD, (2) HLD without statin use, and (3) HLD with perioperative statin use (prescription within 90 days before or after surgery). Outcomes included repeat RCR and arthroplasty at 6 months, 1, 3, and 5 years. Propensity score matching (1:1 nearest neighbor, caliper 0.1) was performed on demographics, comorbidities, and surgical factors. Odds ratios (RR) with 95% confidence intervals (CI) and Kaplan-Meier analyses were used with significance set at p < 0.05. LEVEL OF EVIDENCE: Level III, Retrospective Cohort Comparison using Large Database, Prognosis Study RESULTS: After matching, 40,430 patients were included per group. At 5 years, repeat repair occurred in 9.8% of patients with hyperlipidemia compared to 7.0% of controls (p < 0.001, OR = 1.440 (1.370-1.514)). Hyperlipidemia was associated with increased odds of arthroplasty at 3 years (1.1% vs. 1.0%, p = 0.024, OR = 1.169 (1.020 - 1.340)) and 5 years (1.5% vs. 1.2%, p < 0.001, OR = 1.312 (1.162 - 1.481)). Sub-analyses by total cholesterol and LDL levels did not show a consistent relationship between lipid level and reoperation risk. Statin therapy did not reduce reoperation risk and was associated with higher rates of repeat RCR and arthroplasty among patients with low cholesterol. CONCLUSION: HLD was associated with modestly higher rates of secondary procedures following arthroscopic RCR, while lipid levels and statin therapy were not predictive of reduced reoperation, highlighting the complex role of lipid metabolism in tendon healing.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42660310/",
+      "score": 70,
+      "score_reasoning": "Cadaveric biomechanical study demonstrating dose-dependent LCL strain increases with lateral femoral joint-line distalization in TKA, directly relevant to the ongoing kinematic versus mechanical alignment debate.",
+      "bullets": [
+        "Patients with hyperlipidemia had a higher rate of repeat rotator cuff repair at 5 years compared to those without it (9.8% vs 7.0%).",
+        "Hyperlipidemia also increased the odds of requiring shoulder arthroplasty by 5 years, making it a clinically relevant comorbidity to identify before rotator cuff repair.",
+        "Statin use did not reduce reoperation risk and should not be relied upon to improve healing outcomes in this population."
+      ]
+    },
+    {
+      "pmid": "42659575",
+      "title": "Progressive lateral femoral condyle lengthening in total knee arthroplasty produces dose-dependent increases in patellofemoral joint loading and alters patellar tracking.",
+      "authors": [
+        "Shatrov J",
+        "Boudali M",
+        "Abe K",
+        "Parker D",
+        "Walter W",
+        "Clarke E"
+      ],
+      "authors_short": "Shatrov J, Boudali M, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To examine the biomechanical effects of progressive lateral femoral condyle lengthening on patellofemoral joint (PFJ) kinematics and kinetics following total knee arthroplasty (TKA), and to determine whether lateral condyle distalisation produces measurable, dose-dependent alterations in PFJ loading and patellar tracking. METHODS: Eight fresh-frozen cadaveric knees were implanted with a cruciate-retaining TKA and tested in four states: Native (unresurfaced), Neutral (resurfaced to native thickness), medium (+2.5\u2009mm distalisation) and Maximum (+4.5\u2009mm distalisation). PFJ kinematics were recorded during passive flexion and simulated stair descent using optical tracking. PFJ kinetics were measured using calibrated thin-film pressure sensors (Neutral, Medium, Maximum). RESULTS: Progressive lateral condyle distalisation produced a significant, dose-dependent increase in PFJ reaction force during both passive flexion (Neutral: 55.98\u2009\u00b1\u200932.33\u2009N; Maximum: 76.30\u2009\u00b1\u200946.19\u2009N; p\u2009=\u20090.006) and stair descent (Neutral: 42.19\u2009\u00b1\u200928.84\u2009N; Maximum: 55.72\u2009\u00b1\u200928.02\u2009N; p\u2009=\u20090.006). Medial and lateral facet loads increased with distalisation. Kinematically, significant increases in anterior patellar translation and external rotation were observed in all resurfaced conditions compared with the native state (p\u2009<\u20090.05, Holm-corrected). Medial-lateral translation, superior-inferior translation, patellar flexion and valgus-varus rotation were not significantly affected. CONCLUSION: Lateral femoral condyle lengthening in TKA increases PFJ reaction forces and alters patellar tracking in a dose-dependent manner. These findings highlight lateral condyle distalisation as a modifiable surgical factor with important implications for femoral component preparation and alignment philosophy in TKA. LEVEL OF EVIDENCE: Level IV, controlled laboratory study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42659575/",
+      "score": 68,
+      "score_reasoning": "Cadaveric study demonstrating biomechanical effects of progressive lateral femoral condyle lengthening on patellofemoral joint loading in TKA, with direct relevance to component positioning decisions.",
+      "bullets": [
+        "In a cadaveric TKA model, lengthening the lateral femoral condyle by up to 4.5 mm increased patellofemoral reaction forces significantly with each additional millimeter of distalisation.",
+        "This effect applies to any patient undergoing TKA where the lateral femoral condyle is inadvertently or intentionally over-resected or overstuffed during component preparation.",
+        "Surgeons should treat lateral condyle height as a controllable variable during femoral preparation, as excess distalisation raises patellofemoral load and shifts patellar tracking anteriorly and into external rotation."
+      ]
+    },
+    {
+      "pmid": "42683675",
+      "title": "Quadriceps Tendon Autograft Harvest Technique Affects Both Graft Strength and Cross-sectional Area.",
+      "authors": [
+        "Bi AS",
+        "Augustin EJ",
+        "Smelley CC",
+        "Angotti ML",
+        "Acheampong KK",
+        "Sachdev D",
+        "Shewman E",
+        "Yanke AB"
+      ],
+      "authors_short": "Bi AS, Augustin EJ, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Bone-patellar tendon-bone (BTB) autografts have been considered the gold standard for anterior cruciate ligament reconstruction, although the popularity of quadriceps tendon (QT) autografts is increasing. HYPOTHESIS/PURPOSE: The purpose of this study was to compare the ultrasound-derived cross-sectional area (CSA) and biomechanical strength of BTB and QT grafts harvested with different techniques. The authors hypothesized that ultrasound CSA measurements would be reliable and that QT grafts would be larger and stronger than BTB grafts, without differences between QT harvest methods. STUDY DESIGN: Controlled laboratory study. METHODS: Thirty grafts from 15 cadaveric knees included 15 BTB grafts harvested with a 9-mm double-blade scalpel, 7 full-thickness QT grafts harvested with the same 9-mm double-blade scalpel (DB-QT), and 8 QT grafts harvested with a proprietary 9-mm cylindrical QT harvester (CH-QT). CSA was measured at 3 regions with ultrasound by 2 raters, followed by cyclic loading and pull-to-failure testing. Between-group differences were analyzed, and associations between CSA and biomechanical outcomes were assessed with linear regression. RESULTS: Ultrasound CSA demonstrated good to excellent reliability (ICC2,1 = 0.70-0.87; ICC2,k = 0.82-0.93). CSA differed between graft types (mean \u00b1 SD; BTB, 0.44 \u00b1 0.08 cm2; CH-QT, 0.64 \u00b1 0.10; DB-QT, 0.97 \u00b1 0.22; all pairwise P < .01), with heterogeneous variance (Levene P = .002). DB-QT demonstrated greater CSA variability than BTB (P = .005) and no difference in variability when compared with CH-QT (P = .055). Maximum load and energy to maximum load differed significantly (both omnibus P < .001) with DB-QT > CH-QT > BTB, with significant post hoc differences. In paired-knee analyses, pooled QT grafts also demonstrated greater maximum displacement than BTB grafts from the same specimens. CH-QT demonstrated significantly greater variability in maximum load than BTB (P = .002) and DB-QT (P = .045). Mean displacement at maximum load and stiffness were similar, although variance differed. Cyclic elongation differed among grafts (omnibus P = .011), with DB-QT < CH-QT < BTB, while other cyclic measures did not differ. When grafts were pooled, CSA correlated positively with maximum load and energy to maximum load; however, within-graft type regressions were not significant. After normalization to CSA, stress and strain were similar across graft types. CONCLUSION: QT grafts were significantly larger and stronger than BTB, with full-thickness double-blade harvest producing the greatest CSA and load to failure. Ultrasound was a reliable tool to measure CSA, which correlated with graft strength. CLINICAL RELEVANCE: QT grafts demonstrate greater structural capacity than BTB, and QT harvest technique influences graft size and strength, with double-blade harvest producing larger, stronger grafts.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42683675/",
+      "score": 68,
+      "score_reasoning": "AJSM controlled laboratory study comparing QT harvest techniques on graft CSA and biomechanical strength, providing actionable data during the rapid adoption of quadriceps tendon ACL reconstruction.",
+      "bullets": [
+        "Quadriceps tendon grafts are larger and stronger than bone-patellar tendon-bone grafts, and full-thickness double-blade harvest produces the biggest, strongest quadriceps tendon grafts.",
+        "Harvest technique matters: the cylindrical harvester produced smaller, weaker grafts with more load variability than the double-blade technique, so graft choice and harvest method are both independent variables.",
+        "Ultrasound reliably measures quadriceps tendon graft cross-sectional area before harvest, and larger grafts consistently withstand higher loads, giving surgeons a practical intraoperative sizing tool."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-09-03T07:08:19.024298-07:00"
+}
