@@ -1,0 +1,297 @@
+{
+  "brief_date": "2026-09-04",
+  "brief_date_display": "Friday, September 04",
+  "candidates": [
+    {
+      "pmid": "42679021",
+      "title": "Effects of Capacity-Related Delay to Hip Fracture Surgery on Mortality: A Matched-Cohort Study.",
+      "authors": [
+        "King SW",
+        "Wakefield SM",
+        "Giannoudis VP",
+        "Relton SD",
+        "Giannoudis PV",
+        "Pandit HG",
+        "Rodham PL"
+      ],
+      "authors_short": "King SW, Wakefield SM, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Timely surgery is emphasized in hip fracture care. Prior studies examining this have failed to distinguish adequately between delays for medical optimization and those due to limited operative capacity, introducing important confounders. This study aimed to determine the impact of capacity-related delays on mortality after a hip fracture in older individuals, as well as the factors moderating these effects. METHODS: This retrospective cohort study involved patients treated in a U.K. teaching hospital from January 2020 to June 2024. Primary outcomes were mortality at 30 and 365 days. The exposure of interest was capacity-delayed hip fracture surgery, defined as operative anesthesia for hip fracture surgery occurring >36 hours after emergency department presentation. Patients aged \u226565 years with an operatively managed fracture of the native proximal femur were included. Patients were excluded if surgery was delayed for medical reasons. Multivariable logistic regression was used to examine mortality risk factors, and propensity-score matching was performed on the basis of covariates affecting mortality and survival analysis. RESULTS: Of 3,094 screened patients, 2,358 were eligible. Mortality status was available for 96.9% of patients at 365 days. One thousand and eighty-seven (46%) received timely surgery while 1,271 (54%) experienced capacity-related delay. After propensity-score matching, the median age was 85 years (interquartile range, 78 to 90 years), 73% were female, and 98% were White. Capacity delay was associated with a greater hazard of 365-day mortality (hazard ratio [HR] = 1.37, 95% confidence interval [CI]: 1.15 to 1.63), and the hazard was most pronounced in the first 30 days (HR = 1.71, 95% CI: 1.11 to 2.65). Shorter-term (30-day) mortality in patients with a higher Clinical Frailty Scale score (>4) was most affected by delay (odds ratio [OR] = 1.76, 95% CI: 1.06 to 3.02), while effects on less frail patients were not significant. CONCLUSIONS: Capacity-related delays in hip fracture surgery were associated with greater mortality after accounting for patient-related risk factors. This study overcomes a key confounder by isolating capacity-related delay. The results may support prioritizing timely hip fracture surgery for more vulnerable patients. LEVEL OF EVIDENCE: Prognostic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42679021/",
+      "score": 82,
+      "score_reasoning": "Large propensity-matched cohort (n=2358) from JBJS examining capacity-related delays on hip fracture mortality with rigorous methodology directly applicable to hospital systems and surgical scheduling decisions.",
+      "bullets": [
+        "In older hip fracture patients where surgery was delayed purely due to hospital capacity (not medical reasons), waiting more than 36 hours to the operating room increased one-year mortality by 37% and 30-day mortality by 71%.",
+        "The mortality harm from capacity-related delay was concentrated in frail patients (Clinical Frailty Scale above 4), with less frail patients showing no significant mortality difference from delay.",
+        "When operating room time is limited, frail hip fracture patients should be prioritised for early surgical slots, as capacity delays in this group carry a measurable and preventable survival cost."
+      ]
+    },
+    {
+      "pmid": "42679019",
+      "title": "Heterogeneity of Patients' Preferences for Bone-Anchored Prostheses After Lower-Extremity Amputation (PREFER-BAP-2): A Latent Class Analysis of a Discrete Choice Experiment in The Netherlands.",
+      "authors": [
+        "Saleib SM",
+        "Jonker MF",
+        "Verhofstad MHJ",
+        "Paping MA",
+        "Van Vledder MG",
+        "Leijendekkers RA",
+        "Van Waes OJF"
+      ],
+      "authors_short": "Saleib SM, Jonker MF, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Patients with a bone-anchored prosthesis (BAP) previously expressed preferences regarding (i.e., indicated the importance of) 5 treatment attributes: change in quality of life (QoL), short- and long-term complications, implant survival, and out-of-pocket contributions (costs). However, preference heterogeneity is unclear. We aimed to identify latent preference subgroups, quantify attribute importance per subgroup, and describe background characteristics associated with each subgroup. METHODS: A discrete choice experiment to reveal preferences for BAP characteristics among 247 patients from The Netherlands was analyzed using a latent class logit model. Subgroups (classes) were interpreted using relative attribute weights and patient characteristics. RESULTS: A model with 3 classes (with 49% [n = 121], 27% [n = 67], and 24% [n = 59] of the patients in Classes 1, 2, and 3, respectively) fit best. Across classes, short-term complications were least important, and patients considered opting out of BAP treatment when outcomes were unfavorable. Within the classes, when BAP was selected, QoL remained a key driver (31% of decision weight in Class 1, 53% in Class 2, and 26% in Class 3). Class 1 weighted QoL and out-of-pocket contributions most; Class 2 prioritized QoL and disregarded short-term complications; Class 3 placed the most weight on long-term complications and was sensitive to out-of-pocket contributions mainly at high cost levels (\u20ac20,000 to \u20ac25,000) and to osseointegrated implant survival only when survival dropped from 20 to 5 years. Background profiles differed: compared with the other classes, Class 1 (66% male) had a greater proportion of patients with transtibial amputations and longer BAP experience; Class 2 (48% male) included a greater proportion with higher education and income levels and worse pre-treatment mobility, pain, and anxiety; and Class 3 (80% male) had a greater proportion with lower education and income levels, and the highest proportion awaiting surgery. CONCLUSIONS: Patient preferences for key aspects of BAP treatment are heterogeneous. We identified 3 distinct subgroups, and a patient's background characteristics can help estimate membership in a particular subgroup. Patient-reported outcomes should be interpreted in light of these preference differences. Future work should integrate preference assessment into pre-treatment triage to better align counseling and selection with what patients value, ideally using a brief choice-task screening tool; the optimal screening tasks remain to be established. LEVEL OF EVIDENCE: Therapeutic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42679019/",
+      "score": 80,
+      "score_reasoning": "High-quality JBJS review comprehensively summarizing 50 years of PJI management evolution with direct clinical applicability to arthroplasty surgeons managing one of the most challenging complications.",
+      "bullets": [
+        "Among 247 Dutch lower-limb amputees considering bone-anchored prostheses, three distinct preference groups exist: one prioritizing quality of life and cost, one prioritizing quality of life while tolerating short-term complications, and one focused on long-term complications and implant longevity.",
+        "Short-term complications mattered least across all groups, while quality of life was the strongest driver of treatment decisions in every subgroup, accounting for 26 to 53 percent of decision weight.",
+        "Patient education level, income, amputation level, and pre-treatment mobility can help identify which preference group a patient belongs to, allowing surgeons to tailor counselling before bone-anchored prosthesis surgery."
+      ]
+    },
+    {
+      "pmid": "42679866",
+      "title": "The Risk Analysis Index is Superior to the Modified 5-Factor Frailty Index for Predicting 30-Day Mortality Following Arthroplasty for Femoral Neck Fractures.",
+      "authors": [
+        "Parisier E",
+        "Koltenyuk V",
+        "Gupta N",
+        "Wang L",
+        "Perugini A",
+        "Weick J"
+      ],
+      "authors_short": "Parisier E, Koltenyuk V, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Femoral neck fractures (FNFs) are common in the elderly and are typically treated operatively. Tools like frailty assessments may be critical for evaluating peri- and postoperative patient needs. Our study evaluated the utility of frailty, measured by the Risk Analysis Index (RAI) and the Modified 5-Item Frailty Index (mFI-5), in predicting 30-day mortality in patients undergoing hemiarthroplasty (HA) or total hip arthroplasty (THA) for FNFs. METHODS: A national database was queried from 2015 to 2020 for patients 18 years of age or older undergoing HA or THA for FNFs. A total of 14,913 patients who had surgically managed FNFs were included. The primary outcome was 30-day mortality. Multivariate regressions were used to evaluate predictive value, and receiver operating characteristic curves assessed frailty accuracy. RESULTS: Frailty as measured by the mFI-5 and RAI was predictive of increased odds of 30-day mortality in HA (RAI = odds ratio (OR): 1.46, 95% confidence interval (CI): 1.31 to 1.64; mFI-5 = OR: 1.10 (1.08 to 1.12, P < 0.001 for both)) and THA (RAI = OR: 1.15 (CI: 1.106 to 1.190, P < 0.001), mFI-5 = OR: 1.50 (CI: 1.167 to 1.923, P = 0.002)). The RAI demonstrated superior risk discrimination when compared to the mFI-5 for THA (RAI = C-statistic: 0.84, 95% CI: 0.45 to 0.83 versus mFI-5 = C-statistic: 0.69, 95% CI: 0.68 to 0.71) and HA (RAI = C-statistic: 0.74, 95% CI: 0.73 to 0.75 versus mFI-5 = C-statistic: 0.62, 95% CI: 0.61 to 0.63). CONCLUSION: Frailty was found to be a predictor of mortality in patients who had FNFs undergoing THA and HA. Compared to the mFI-5, the RAI demonstrated superior predictive value for mortality across both operations. Thus, the RAI may be a powerful tool for assessing preoperative risk in patients undergoing arthroplasty for FNFs.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42679866/",
+      "score": 76,
+      "score_reasoning": "Large prospective database study in JBJS using latent class analysis to characterize heterogeneous patient preferences for bone-anchored prostheses, relevant for shared decision-making in amputation care.",
+      "bullets": [
+        "In over 14,000 patients undergoing hemiarthroplasty or total hip arthroplasty for femoral neck fractures, frailty measured by either the RAI or mFI-5 predicted 30-day mortality.",
+        "The RAI outperformed the mFI-5 in discriminating 30-day mortality risk for both hemiarthroplasty and total hip arthroplasty in this population.",
+        "For elderly patients with femoral neck fractures heading to arthroplasty, using the RAI preoperatively gives a more accurate mortality risk estimate than the commonly used mFI-5."
+      ]
+    },
+    {
+      "pmid": "42670187",
+      "title": "Platelet-Rich Plasma vs Corticosteroid Injection for Morton Neuroma: A Prospective Unblinded Randomized Comparative Study.",
+      "authors": [
+        "Genuth G",
+        "Stavrou P",
+        "Brown C",
+        "Iselin LD"
+      ],
+      "authors_short": "Genuth G, Stavrou P, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Morton neuroma is a common cause of forefoot pain, often refractory to conservative treatment. Corticosteroid injections provide variable and often temporary relief. Platelet-rich plasma (PRP) has emerged as a potential biologic alternative; however, comparative evidence remains limited. METHODS: This prospective unblinded randomized comparative study included 60 patients with clinically and magnetic resonance imaging (MRI)-confirmed Morton neuroma treated with either a single corticosteroid injection (n=30) or 3 leukocyte-poor PRP injections (n=30). All patients had failed \u22656 months of conservative treatment. Primary outcomes were PROMIS Physical Function (PF) and Pain Interference (PI) scores at baseline and 3, 6, and 12 months. Secondary outcomes included neuroma size on MRI at 6 months and complications. RESULTS: Baseline characteristics and PROMIS scores were comparable between groups. Both groups demonstrated significant improvement; however, PRP was associated with better outcomes at all time points. At 12 months, PROMIS PF was 61.8 \u00b1 6.2 vs 55.2 \u00b1 6.8 (P < .001), and PROMIS PI was 38.4 \u00b1 6.1 vs 44.2 \u00b1 6.8 (P = .001), favoring PRP. At 6 months, neuroma size was smaller in the PRP group (4.2 \u00b1 1.1 vs 5.8 \u00b1 1.4 mm; P < .001). Complication rates were low and comparable between groups. Post-injection pain rates were comparable between groups; Minor complications occurred only in the corticosteroid group, although differences did not reach statistical significance. CONCLUSION: PRP was associated with improved clinical outcomes and reduction in neuroma size at 12 months compared with corticosteroid injection. Although these findings support further investigation of PRP for symptomatic Morton neuroma, they should be interpreted cautiously and considered hypothesis generating pending confirmation in larger, methodologically rigorous studies. LEVEL OF EVIDENCE: Level II, lesser quality RCT or prospective comparative study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42670187/",
+      "score": 75,
+      "score_reasoning": "High-quality prospective cohort (n=193) providing preoperative hemoglobin thresholds with clinical specificity for predicting transfusion and complication risk in total shoulder arthroplasty.",
+      "bullets": [
+        "In 60 patients with Morton neuroma who failed conservative care, three PRP injections produced better pain and function scores at 12 months than a single corticosteroid injection.",
+        "PRP was also associated with a measurable reduction in neuroma size on MRI at 6 months, while corticosteroid injection was not.",
+        "For patients with persistent Morton neuroma pain, PRP is a reasonable next step to consider before surgery, though larger trials are needed to confirm these results."
+      ]
+    },
+    {
+      "pmid": "42692245",
+      "title": "Single-Shot Versus Continuous Interscalene Blockade in Primary Shoulder Arthroplasty: A Systematic Review and Meta-Analysis of Randomized Controlled Trials and Observational Studies.",
+      "authors": [
+        "Torrez C",
+        "van de Wall BJM",
+        "Rippen E",
+        "Beeres FJP",
+        "Camenzind RS"
+      ],
+      "authors_short": "Torrez C, van de Wall BJM, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: The optimal regional anesthesia strategy for anatomic and reverse total shoulder arthroplasty (aTSA/rTSA) remains a subject of debate. While single-shot interscalene blocks (SSIB) are often limited by short duration and potential rebound pain, continuous interscalene catheters (CIC) are associated with higher complication rates and procedural complexity. This meta-analysis evaluates the effectiveness and safety of both techniques, specifically investigating the impact of the local anesthetic agent. METHODS: A systematic search was conducted in PubMed, Embase, CENTRAL, and CINAHL through March 2026 for RCTs and observational studies. The primary outcome was pain intensity (VAS/NRS) at 24 hours. Secondary outcomes included opioid consumption, length of hospital stay (LOS), technical and block-related complications, and procedural costs. RESULTS: Seven studies involving 2,639 patients were included (1,182 SSIB, 1,457 CIC). No statistically significant global difference was found regarding 24-hour pain scores (MD -0.23; P = .70) or opioid consumption (P = .91). In subgroup analysis, CIC was associated with lower pain scores when standard local anesthetics were used (MD 1.18; P < .001), whereas SSIB with liposomal bupivacaine was associated with borderline lower pain scores (MD -1.02; P = .05); however, these differences lie at the lower margin of published thresholds for a minimal clinically important difference (MCID) in acute postoperative pain. A post hoc analysis at 48 hours (three studies, 695 patients) showed no significant difference (MD -0.81; P = .20). SSIB was associated with a more than fourfold lower rate of technical and block-related complications (0.4% vs. 4.6%; RR 0.22; P = .005). No significant difference was observed in LOS (P = .45); material costs, compared descriptively, were higher for CIC ($357-$474) than for SSIB ($24-$190). CONCLUSION: At 24 hours, SSIB was associated with analgesia comparable to CIC, with the direction of effect depending on the local anesthetic agent used. SSIB was associated with significantly fewer technical and block-related complications and lower material costs. These findings suggest a favorable risk-benefit profile of SSIB for primary shoulder arthroplasty, although outcomes beyond 48 hours require further investigation. LEVEL OF EVIDENCE: Level III, Systematic Review/Meta-Analysis, Treatment Study.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42692245/",
+      "score": 74,
+      "score_reasoning": "Systematic review and meta-analysis of 2,639 patients from JSES directly addressing anesthesia strategy selection in shoulder arthroplasty with actionable findings on regional block choice and local anesthetic agent.",
+      "bullets": [
+        "In over 2,600 patients undergoing primary shoulder arthroplasty, single-shot interscalene block provided pain control at 24 hours equivalent to a continuous catheter, regardless of which technique was used.",
+        "Continuous catheters carried a complication rate of 4.6% compared to 0.4% for single-shot blocks, and cost up to 20 times more in materials.",
+        "For surgeons planning regional anesthesia in shoulder arthroplasty, single-shot interscalene block, particularly with liposomal bupivacaine, offers comparable analgesia with fewer complications and lower cost than catheter-based techniques."
+      ]
+    },
+    {
+      "pmid": "42692278",
+      "title": "Patients Requiring both Lumbar Spinal Fusion and Total Hip Arthroplasty Have Delayed Clinically Relevant Global Improvement Timelines. Findings from a Propensity Score-Matched Analysis of Time to MCID.",
+      "authors": [
+        "Sauder N",
+        "Williams DL",
+        "Singh R",
+        "Khalameyzer A",
+        "Rahman T",
+        "Melnic CM",
+        "Bedair HS",
+        "Alpaugh K"
+      ],
+      "authors_short": "Sauder N, Williams DL, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Lumbar spinal fusion (LSF) influences outcomes following total hip arthroplasty (THA). However, no prior investigation has utilized a time to minimal clinically important difference (MCID) analysis. This study compared time to MCID after THA in patients who also underwent LSF versus patients who did not, and secondarily evaluated the effect of surgical sequence (LSF before versus after THA). METHODS: We identified 183 patients from a multi-institutional registry who underwent THA and LSF within three years. A one-to-four propensity-score match generated 732 patients who did not undergo LSF. We compared rates of achievement and time to MCID in the following measures: Patient Reported Outcomes Measurement Information System (PROMIS) Physical Function Short Form-10a (PF-10a), PROMIS Global Physical, and the Hip Disability and Osteoarthritis Outcome Score-Physical Function Short Form (HOOS-PS). We also compared groups by order of procedure (LSF prior to THA: n = 117; THA prior to LSF: n = 66). RESULTS: Patients who required both LSF and THA had delayed time to MCID in the PROMIS Global Physical (5.91 versus 5.15 months; P = 0.031) and PROMIS PF-10a (7.03 versus 6.25 months; P = 0.044). Patients who underwent LSF prior to THA had a similar time to MCID as control patients. However, patients who underwent THA prior to LSF had delayed time to MCID in the PROMIS Global Physical (7.35 months; P = 0.002) and PROMIS PF-10a (7.61 months; P = 0.028), whereas there was no difference in HOOS-PS scores (4.83 versus 5.05 months; P = 0.80). CONCLUSION: Patients requiring both THA and LSF demonstrated delayed global recovery compared to THA alone. When stratified by surgical sequence, patients who underwent THA prior to LSF had delayed improvement timelines. Thus, performing LSF first in appropriate candidates may help ensure improvement timelines are more similar to controls.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42692278/",
+      "score": 73,
+      "score_reasoning": "Well-designed propensity score-matched multi-institutional study addressing the clinically relevant hip-spine relationship and sequencing of THA and lumbar spinal fusion with meaningful MCID-based outcomes.",
+      "bullets": [
+        "Patients who need both lumbar spinal fusion and total hip arthroplasty take about one month longer to reach meaningful functional improvement after THA compared to patients having THA alone.",
+        "The delay is driven by patients who have THA first, those who have spinal fusion before THA recover on a timeline similar to patients without spine disease.",
+        "For patients who will need both procedures, performing lumbar spinal fusion first, when clinically appropriate, may normalize recovery expectations after THA."
+      ]
+    },
+    {
+      "pmid": "42670183",
+      "title": "Sesamoid Subluxation in Hallux Valgus Deformity.",
+      "authors": [
+        "Lama JE",
+        "Thompson R",
+        "Streeter SR",
+        "Jones A",
+        "Steineman BD",
+        "Ellis SJ",
+        "Johnson AH",
+        "Conti MS"
+      ],
+      "authors_short": "Lama JE, Thompson R, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Whether sesamoid subluxation relative to the metatarsal head occurs in hallux valgus (HV) remains unestablished. Deep transverse intermetatarsal ligament (DTML) attenuation, which spans the lateral sesamoid to the second metatarsal head, may increase transverse motion and facilitate medial sesamoid subluxation with the first metatarsal. This study aims to compare the average second metatarsal head to lateral sesamoid (2MTLS) distance between HV and control patients, which is a proxy of DTML length. We hypothesize that HV patients demonstrate an increased 2MTLS distance. METHODS: Sixty-eight patients were matched into 2 groups: 34 with HV and 34 without HV. Standardized preoperative weightbearing computed tomography scans were used to measure the 2MTLS distance, hallux valgus angle (HVA), intermetatarsal angle (IMA), first metatarsal pronation, and sesamoid station. The 2MTLS distance was anatomically measured from the lateral sesamoid to the second metatarsal head. RESULTS: The 2MTLS distance was significantly greater in HV patients compared with controls (20.90\u2009mm vs 18.56\u2009mm, P\u2009<\u2009.001). Similarly, the HVA and IMA were increased in HV patients (P\u2009<\u2009.001). First metatarsal pronation and sesamoid station were significantly greater in HV patients (P\u2009<\u2009.001). The 2MTLS distance demonstrated a moderately positive correlation with sesamoid station (r\u2009=\u20090.36, 95% CI 0.06-0.60), HVA (r\u2009=\u20090.40, 95% CI 0.12-0.65), and IMA (r\u2009=\u20090.43, 95% CI 0.06-0.71) but was not correlated with first metatarsal pronation (r\u2009=\u2009-0.18). Inter- and intrarater reliability for the 2MTLS measurements were ICC\u2009=\u20090.911 (95% CI 0.858-0.944) and 0.958 (95% CI 0.933-0.974), respectively. CONCLUSION: In HV patients, 2MTLS was significantly increased compared with controls. Additionally, as sesamoid station increased, the 2MTLS distance also increased. This challenges the long-standing view that the sesamoids remain anchored in HV and suggests the sesamoids subluxate. Clinically, this highlights the DTML's role as a restraint to first metatarsal medial deviation and suggests against sectioning the ligament during lateral release. LEVEL OF EVIDENCE: Level III, retrospective cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42670183/",
+      "score": 72,
+      "score_reasoning": "Prospective RCT comparing PRP versus corticosteroid injection for Morton neuroma with 12-month follow-up and objective MRI outcomes, directly applicable to foot and ankle practice.",
+      "bullets": [
+        "In hallux valgus patients, the lateral sesamoid sits farther from the second metatarsal head than in controls, meaning the sesamoids do subluxate rather than remain fixed as traditionally taught.",
+        "Greater sesamoid displacement correlates with larger hallux valgus and intermetatarsal angles, so more severe deformity means more sesamoid migration.",
+        "The deep transverse intermetatarsal ligament acts as a restraint to first metatarsal drift, so surgeons should avoid cutting it during lateral release in hallux valgus correction."
+      ]
+    },
+    {
+      "pmid": "42678766",
+      "title": "The Effect of Glucagon-like Peptide-1 Receptor Agonists in Total Joint Arthroplasty: Implications, Complications, and Considerations.",
+      "authors": [
+        "Barton KI",
+        "Boyle RJ",
+        "Dennis DA",
+        "Jennings JM"
+      ],
+      "authors_short": "Barton KI, Boyle RJ, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "Glucagon-like peptide 1 (GLP-1) receptor agonists (GLP-1 RAs) are used in diabetic patients for glycemic control. Yet, there has been a notable rise in their use for weight loss management in obese patients. This review critically appraises current evidence on perioperative implications of GLP-1 receptor agonists in TJA patients. The review discusses GLP-1 RA implications and use (physiology, pharmacology, pharmacodynamics, mechanisms of actions, and commonly used GLP-1 Ras), complications and adverse effects, considerations for the anesthesiologist, considerations for the TJA surgeon, and current clinical practice recommendations in 2025.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42678766/",
+      "score": 71,
+      "score_reasoning": "Large prospective cohort (n=3531) from KSTA registry demonstrating that cumulative surgeon volume significantly impacts hip arthroscopy outcomes, with important credentialing and training implications.",
+      "bullets": [
+        "GLP-1 receptor agonists slow gastric emptying, raising aspiration risk under anesthesia, so anaesthesiologists need advance notice when TJA patients are taking these drugs.",
+        "In obese TJA candidates, GLP-1 receptor agonists can reduce weight and improve glycaemic control preoperatively, which may lower surgical risk when used with adequate lead time.",
+        "Current 2025 recommendations support pausing GLP-1 receptor agonists before elective TJA, but orthopaedic surgeons should coordinate timing with the prescribing physician to avoid abrupt metabolic disruption."
+      ]
+    },
+    {
+      "pmid": "42660310",
+      "title": "Hyperlipidemia Is Associated With an Increased Risk of Secondary Procedures in Patients Undergoing Arthroscopic Rotator Cuff Repair.",
+      "authors": [
+        "Prabhavalkar ON",
+        "Morriss NJ",
+        "Malin M",
+        "Jain S",
+        "Dussik CM",
+        "Phan A",
+        "Mannava S"
+      ],
+      "authors_short": "Prabhavalkar ON, Morriss NJ, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Hyperlipidemia (HLD) has been implicated as a risk factor for impaired tendon-to-bone healing after arthroscopic rotator cuff repair (RCR). While statin therapy may mitigate this effect, findings remain inconsistent. We hypothesized that HLD would be associated with higher rates of secondary procedures following RCR and that perioperative statin therapy could reduce this risk. METHODS: A retrospective cohort study was conducted using the TriNetX Research Network, a federated database of over 120 million de-identified patient records. Adults undergoing primary arthroscopic RCR (CPT 29827) between October 2015 and August 2020 were identified. Patients were grouped as (1) no HLD, (2) HLD without statin use, and (3) HLD with perioperative statin use (prescription within 90 days before or after surgery). Outcomes included repeat RCR and arthroplasty at 6 months, 1, 3, and 5 years. Propensity score matching (1:1 nearest neighbor, caliper 0.1) was performed on demographics, comorbidities, and surgical factors. Odds ratios (RR) with 95% confidence intervals (CI) and Kaplan-Meier analyses were used with significance set at p < 0.05. LEVEL OF EVIDENCE: Level III, Retrospective Cohort Comparison using Large Database, Prognosis Study RESULTS: After matching, 40,430 patients were included per group. At 5 years, repeat repair occurred in 9.8% of patients with hyperlipidemia compared to 7.0% of controls (p < 0.001, OR = 1.440 (1.370-1.514)). Hyperlipidemia was associated with increased odds of arthroplasty at 3 years (1.1% vs. 1.0%, p = 0.024, OR = 1.169 (1.020 - 1.340)) and 5 years (1.5% vs. 1.2%, p < 0.001, OR = 1.312 (1.162 - 1.481)). Sub-analyses by total cholesterol and LDL levels did not show a consistent relationship between lipid level and reoperation risk. Statin therapy did not reduce reoperation risk and was associated with higher rates of repeat RCR and arthroplasty among patients with low cholesterol. CONCLUSION: HLD was associated with modestly higher rates of secondary procedures following arthroscopic RCR, while lipid levels and statin therapy were not predictive of reduced reoperation, highlighting the complex role of lipid metabolism in tendon healing.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42660310/",
+      "score": 70,
+      "score_reasoning": "Relevant prospective JBJS cohort examining spinal metastatic disease 5-year survival with contemporary treatment modalities and validation of prognostic scoring tools across a large registry.",
+      "bullets": [
+        "Patients with hyperlipidemia had a higher rate of repeat rotator cuff repair at 5 years compared to those without it (9.8% vs. 7.0%).",
+        "Hyperlipidemia also increased the likelihood of shoulder arthroplasty by 5 years, meaning the condition affects long-term outcomes beyond initial repair failure.",
+        "Statin therapy did not reduce reoperation risk and should not be prescribed after rotator cuff repair with the expectation of protecting tendon healing."
+      ]
+    },
+    {
+      "pmid": "42661291",
+      "title": "Effect of Multiple Centralization Sutures on Meniscal Extrusion and Contact Pressures in a Cadaveric Model of Medial Meniscus Root Repair.",
+      "authors": [
+        "Andersen M",
+        "Tollefson LV",
+        "Ngobi J",
+        "Carlson MR",
+        "LaPrade CM",
+        "Fladberg B",
+        "Frihagen F",
+        "Inderhaug E",
+        "LaPrade RF"
+      ],
+      "authors_short": "Andersen M, Tollefson LV, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Adding a centralization suture (CS) during repair of a posterior medial meniscus root (PMMR) tear may decrease meniscal extrusion and osteoarthritis progression. However, the number and optimal placement of CSs remain unclear. HYPOTHESIS: Increasing numbers and changing localization of CSs would not influence the degree of postoperative extrusion or joint contact pressures. STUDY DESIGN: Controlled laboratory study. METHODS: Meniscal extrusion and tibiofemoral contact pressures were assessed using a 3-dimensional motion capture system and pressure sensors in 9 human cadaveric knees. A nonanatomic root repair was created to simulate persistent meniscal extrusion after a PMMR repair. Each knee was tested under 10 conditions: (1) intact, (2) PMMR tear, (3) root repair, (4) CS at the posterior border of the medial collateral ligament (MCL) (CS1), (5) CS midway between CS 1 and CS 3 (CS2), (6) CS at the midpoint between the MCL and posterior root attachment (CS3), and (7-10) combinations of these CSs (all CSs were in addition to the root repair). Analysis of variance testing was used for analyses of pressure data and extrusion measurements. RESULTS: There was no significant difference in medial contact pressure between the intact state and the states with root repair in combination with any CS configuration (P > .05). Contact pressures were reduced compared to the root repair state for CS1 alone at 0\u00b0 (P = .014); the combination of CS2 and CS3 at 0\u00b0, 60\u00b0, and 120\u00b0 (P\u2264 .038); and the combination of all 3 CSs at 0\u00b0, 30\u00b0, and 60\u00b0 of flexion (P\u2264 .037). Extrusion was reduced compared to the root repair state for CS1 alone at 60\u00b0 (P = .043) and all 3 CSs combined at 90\u00b0 of flexion (P < .009). CONCLUSION: A single CS placed at the posterior border of the MCL decreased medial contact pressures at 0\u00b0 and reduced extrusion at 60\u00b0 of flexion. The combined use of 2 CSs placed at the posteromedial meniscus junction reduced contact pressures across multiple flexion angles (0\u00b0, 60\u00b0, and 120\u00b0). The combination of 3 CSs reduced contact pressures at 0\u00b0, 30\u00b0, and 60\u00b0 and extrusion at 90\u00b0. Until clinical studies are conducted, the benefits of additional CSs should be weighed against time and cost. CLINICAL RELEVANCE: These findings should guide surgeons on the optimal number and placement of CSs to minimize meniscal extrusion and restore medial compartment contact pressures.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42661291/",
+      "score": 68,
+      "score_reasoning": "Large cadaveric biomechanical study from AJSM rigorously comparing quadriceps tendon harvest techniques and finding significant differences in cross-sectional area and strength with direct implications for ACL reconstruction graft selection.",
+      "bullets": [
+        "Adding centralization sutures during posterior medial meniscus root repair reduces medial compartment contact pressures and meniscal extrusion compared to root repair alone.",
+        "A single suture at the posterior MCL border helps at full extension, but two or three sutures placed at the posteromedial meniscus junction restore pressures across a wider range of flexion angles.",
+        "Until clinical outcome data exist, surgeons should weigh the incremental benefit of additional centralization sutures against added operative time and cost when repairing medial meniscus root tears."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-09-04T07:00:52.968872-07:00"
+}
