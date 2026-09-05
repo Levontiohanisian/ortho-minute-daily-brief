@@ -1,0 +1,309 @@
+{
+  "brief_date": "2026-09-05",
+  "brief_date_display": "Saturday, September 05",
+  "candidates": [
+    {
+      "pmid": "42679021",
+      "title": "Effects of Capacity-Related Delay to Hip Fracture Surgery on Mortality: A Matched-Cohort Study.",
+      "authors": [
+        "King SW",
+        "Wakefield SM",
+        "Giannoudis VP",
+        "Relton SD",
+        "Giannoudis PV",
+        "Pandit HG",
+        "Rodham PL"
+      ],
+      "authors_short": "King SW, Wakefield SM, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Timely surgery is emphasized in hip fracture care. Prior studies examining this have failed to distinguish adequately between delays for medical optimization and those due to limited operative capacity, introducing important confounders. This study aimed to determine the impact of capacity-related delays on mortality after a hip fracture in older individuals, as well as the factors moderating these effects. METHODS: This retrospective cohort study involved patients treated in a U.K. teaching hospital from January 2020 to June 2024. Primary outcomes were mortality at 30 and 365 days. The exposure of interest was capacity-delayed hip fracture surgery, defined as operative anesthesia for hip fracture surgery occurring >36 hours after emergency department presentation. Patients aged \u226565 years with an operatively managed fracture of the native proximal femur were included. Patients were excluded if surgery was delayed for medical reasons. Multivariable logistic regression was used to examine mortality risk factors, and propensity-score matching was performed on the basis of covariates affecting mortality and survival analysis. RESULTS: Of 3,094 screened patients, 2,358 were eligible. Mortality status was available for 96.9% of patients at 365 days. One thousand and eighty-seven (46%) received timely surgery while 1,271 (54%) experienced capacity-related delay. After propensity-score matching, the median age was 85 years (interquartile range, 78 to 90 years), 73% were female, and 98% were White. Capacity delay was associated with a greater hazard of 365-day mortality (hazard ratio [HR] = 1.37, 95% confidence interval [CI]: 1.15 to 1.63), and the hazard was most pronounced in the first 30 days (HR = 1.71, 95% CI: 1.11 to 2.65). Shorter-term (30-day) mortality in patients with a higher Clinical Frailty Scale score (>4) was most affected by delay (odds ratio [OR] = 1.76, 95% CI: 1.06 to 3.02), while effects on less frail patients were not significant. CONCLUSIONS: Capacity-related delays in hip fracture surgery were associated with greater mortality after accounting for patient-related risk factors. This study overcomes a key confounder by isolating capacity-related delay. The results may support prioritizing timely hip fracture surgery for more vulnerable patients. LEVEL OF EVIDENCE: Prognostic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42679021/",
+      "score": 82,
+      "score_reasoning": "Large propensity-matched cohort (n=2358) from JBJS examining capacity-related delays in hip fracture surgery mortality with rigorous methodology directly applicable to surgical scheduling decisions.",
+      "bullets": [
+        "In older hip fracture patients, delays to surgery beyond 36 hours due to capacity constraints were associated with a 37% higher risk of death at one year and a 71% higher risk at 30 days.",
+        "The mortality harm from delay was significant only in frail patients (Clinical Frailty Scale score above 4), with a 76% higher odds of 30-day death, while less frail patients showed no significant effect.",
+        "When operative capacity is limited, prioritising frail hip fracture patients for earlier surgery may reduce preventable deaths."
+      ]
+    },
+    {
+      "pmid": "42697449",
+      "title": "Impact of Gastrointestinal Bleeding History on Postoperative Outcomes in Total Hip and Knee Arthroplasty: A Retrospective Analysis.",
+      "authors": [
+        "Botolin P",
+        "Helbing J",
+        "Khanuja HS",
+        "Patel NK",
+        "Goldman AH"
+      ],
+      "authors_short": "Botolin P, Helbing J, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Gastrointestinal (GI) bleeding is common in older adults and contributes to immune dysregulation, yet its impact on total hip (THA) and total knee (TKA) arthroplasty outcomes is poorly understood. We evaluated the association between GI bleeding history with risk of periprosthetic joint infection (PJI) and other complications up to two years following THA and TKA. METHODS: A retrospective review identified patients who had a history of GI bleeding within two years prior to THA or TKA. Patients were matched to a control cohort who had no GI bleeding history. The THA cohort included 6,420 GI bleed and 6,420 control patients. The TKA cohort included 9,688 GI bleed and 9,688 control patients. Odds ratios were calculated for 90-day and 2-year outcomes. RESULTS: In the THA cohort, GI bleed within two years prior to surgery was not associated with PJI (odds ratio (OR): 1.1 [0.8 to 1.4]; P = 0.544) at two years; however, it was associated with increased odds of mechanical loosening (OR: 1.6 [1.01 to 2.5]; P = 0.044) and revision surgery (OR: 1.4 [1.1 to 1.8]; P = 0.002). In the TKA cohort, GI bleed history was associated with greater 2-year odds of PJI (OR: 1.3 [1.1 to 1.7]; P = 0.012) and revision surgery (OR: 1.4 [1.2 to 1.7]; P < 0.001). The GI bleed patients in both cohorts demonstrated greater 90-day medical complication odds, including urinary tract infection (P < 0.05). CONCLUSION: A GI bleeding history was associated with increased 90-day medical and 2-year surgical complications following THA and TKA. Patients undergoing THA had higher odds of mechanical loosening, whereas TKA patients demonstrated higher odds of PJI. While the complication rate was low, these findings should be interpreted cautiously and viewed as hypothesis-generating. Further prospective studies are needed to better characterize postoperative risk factors in this population.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42697449/",
+      "score": 80,
+      "score_reasoning": "Large single-center retrospective study (n=23,405 TKAs) in Journal of Arthroplasty identifying actionable risk factors for peri-incisional blistering and its strong association with reoperation and PJI, highly relevant to practice.",
+      "bullets": [
+        "Patients with a history of GI bleeding in the two years before THA had higher rates of mechanical loosening and revision, while those before TKA had higher rates of periprosthetic joint infection and revision at two years.",
+        "Both THA and TKA patients with prior GI bleeding had more 90-day medical complications, including urinary tract infections, compared to matched controls.",
+        "Surgeons should consider prior GI bleeding as a risk factor when counseling patients before hip or knee arthroplasty, though absolute complication rates remained low and prospective data are still needed."
+      ]
+    },
+    {
+      "pmid": "42670183",
+      "title": "Sesamoid Subluxation in Hallux Valgus Deformity.",
+      "authors": [
+        "Lama JE",
+        "Thompson R",
+        "Streeter SR",
+        "Jones A",
+        "Steineman BD",
+        "Ellis SJ",
+        "Johnson AH",
+        "Conti MS"
+      ],
+      "authors_short": "Lama JE, Thompson R, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Whether sesamoid subluxation relative to the metatarsal head occurs in hallux valgus (HV) remains unestablished. Deep transverse intermetatarsal ligament (DTML) attenuation, which spans the lateral sesamoid to the second metatarsal head, may increase transverse motion and facilitate medial sesamoid subluxation with the first metatarsal. This study aims to compare the average second metatarsal head to lateral sesamoid (2MTLS) distance between HV and control patients, which is a proxy of DTML length. We hypothesize that HV patients demonstrate an increased 2MTLS distance. METHODS: Sixty-eight patients were matched into 2 groups: 34 with HV and 34 without HV. Standardized preoperative weightbearing computed tomography scans were used to measure the 2MTLS distance, hallux valgus angle (HVA), intermetatarsal angle (IMA), first metatarsal pronation, and sesamoid station. The 2MTLS distance was anatomically measured from the lateral sesamoid to the second metatarsal head. RESULTS: The 2MTLS distance was significantly greater in HV patients compared with controls (20.90\u2009mm vs 18.56\u2009mm, P\u2009<\u2009.001). Similarly, the HVA and IMA were increased in HV patients (P\u2009<\u2009.001). First metatarsal pronation and sesamoid station were significantly greater in HV patients (P\u2009<\u2009.001). The 2MTLS distance demonstrated a moderately positive correlation with sesamoid station (r\u2009=\u20090.36, 95% CI 0.06-0.60), HVA (r\u2009=\u20090.40, 95% CI 0.12-0.65), and IMA (r\u2009=\u20090.43, 95% CI 0.06-0.71) but was not correlated with first metatarsal pronation (r\u2009=\u2009-0.18). Inter- and intrarater reliability for the 2MTLS measurements were ICC\u2009=\u20090.911 (95% CI 0.858-0.944) and 0.958 (95% CI 0.933-0.974), respectively. CONCLUSION: In HV patients, 2MTLS was significantly increased compared with controls. Additionally, as sesamoid station increased, the 2MTLS distance also increased. This challenges the long-standing view that the sesamoids remain anchored in HV and suggests the sesamoids subluxate. Clinically, this highlights the DTML's role as a restraint to first metatarsal medial deviation and suggests against sectioning the ligament during lateral release. LEVEL OF EVIDENCE: Level III, retrospective cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42670183/",
+      "score": 79,
+      "score_reasoning": "Prospective RCT comparing PRP vs corticosteroid injection for Morton neuroma with 12-month follow-up showing PRP superiority, directly applicable to foot and ankle practice with novel findings.",
+      "bullets": [
+        "In hallux valgus patients, the lateral sesamoid sits farther from the second metatarsal head than in controls, meaning the sesamoids actually subluxate rather than stay fixed as traditionally taught.",
+        "This applies to any patient undergoing hallux valgus correction, where the deep transverse intermetatarsal ligament acts as a key restraint against first metatarsal medial drift.",
+        "Surgeons should avoid cutting the deep transverse intermetatarsal ligament during lateral release, as doing so removes a stabilising structure and may worsen deformity."
+      ]
+    },
+    {
+      "pmid": "42697448",
+      "title": "Coronal Spinal Imbalance Dictated Side Preference in Symmetrically Well-Aligned Bilateral Total Knee Arthroplasty.",
+      "authors": [
+        "Siripullop T",
+        "Ngarmukos S",
+        "Jaruthien N",
+        "Amarase C",
+        "Tanavalee C",
+        "Somrak P",
+        "Tanavalee A"
+      ],
+      "authors_short": "Siripullop T, Ngarmukos S, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Studies show better outcomes with total knee arthroplasty (TKA) when native knee alignment is restored, but few studies examined the relationship between coronal spinal and limb alignment after TKA. METHODS: We retrospectively reviewed 256 patients who had bilateral TKA (BTKA) and had a minimum two-year follow-up (FU). In full-body radiographic imaging, individuals who had symmetrically well-aligned lower limbs were included. The distance between the C7 plumb line (C7PL) and the central sacral vertical line (CSVL) was measured for assessment of coronal spinal imbalance (CSI). Patients were divided into two groups: Group A, balanced spine, and Group B, imbalanced spine. Clinical outcomes and side preference were evaluated. At a mean FU of 35.0 months, 122 patients fulfilled the final evaluation (Group A, n = 51 [41.8%]; Group B, n = 71 [58.2%]) and had a mean age of 69 years (range, 53 to 88). Notably, 81.3% of the patients were women. Overall, 52.5% had neutral mechanical alignment (nMA), and 47.5% had adjusted mechanical alignment (aMA). RESULTS: In Group A, 71.0% showed no significant side preference. In contrast, 91.5% of Group B participants preferred the same knee toward which the spine was shifted (P < 0.0001). The mean Knee Society Score and Forgotten Joint Score of the studied group significantly improved to 154.9 and 71.7 points, respectively, with no difference between the two groups (164.6 versus 148.2, P = 0.203, and 77.6 versus 67.6, P = 0.199). CONCLUSION: Patients who had CSI preferred the knee towards the spinal shift, while both groups showed significantly improved clinical outcomes. As body weight shifts to one side, the muscles around that knee may strengthen, making that knee the dominant side. While most current studies focus on restoring knee phenotype and native alignment in TKA, assessing coronal spinal balance in weight-bearing helps surgeons predict postoperative outcomes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42697448/",
+      "score": 77,
+      "score_reasoning": "Large matched cohort study (>32,000 patients) identifying GI bleeding history as an independent risk factor for PJI and revision after TKA, with directly actionable preoperative risk stratification implications.",
+      "bullets": [
+        "In bilateral TKA patients with symmetrically aligned knees, those with coronal spinal imbalance preferred the knee on the same side as their spinal shift in over 90% of cases.",
+        "Patients with a balanced spine showed no consistent side preference after bilateral TKA, while overall functional scores improved significantly in both groups.",
+        "Assessing coronal spinal balance on preoperative standing full-body X-rays helps orthopaedic surgeons anticipate which knee a patient will favour after bilateral TKA, even when limb alignment is symmetric."
+      ]
+    },
+    {
+      "pmid": "42680248",
+      "title": "Response to the Letter on \"Postoperative Displacement of the Dorsal Ulnar Fragment After Volar Locking Plate Fixation: Risk Factors and Clinical Prediction Tool\".",
+      "authors": [
+        "Ji J",
+        "Fan J"
+      ],
+      "authors_short": "Ji J, Fan J",
+      "journal": "The Journal of hand surgery",
+      "journal_abbrev": "J Hand Surg Am",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Letter"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42680248/",
+      "score": 76,
+      "score_reasoning": "Controlled laboratory cadaveric study in AJSM comparing quadriceps tendon harvest techniques with biomechanical and CSA outcomes, highly relevant given increasing QT autograft utilization for ACL reconstruction.",
+      "bullets": [
+        "After volar locking plate fixation for distal radius fractures, the dorsal ulnar fragment is at risk for postoperative displacement.",
+        "Patients with specific preoperative fracture characteristics can be identified as higher risk for this complication using a clinical prediction tool.",
+        "Surgeons should assess dorsal ulnar fragment stability before and after volar plating to guide fixation strategy and postoperative monitoring."
+      ]
+    },
+    {
+      "pmid": "42671057",
+      "title": "COFAS Grade is not Associated with Outcomes following Infinity Total Ankle Arthroplasty: A Multicenter Study with Minimum Five-Year Follow-Up.",
+      "authors": [
+        "Townshend D",
+        "Martin R",
+        "Bing A",
+        "Blundell C",
+        "Clough T",
+        "Davenport J",
+        "Davies H",
+        "Davis J",
+        "Dhar S",
+        "Hepple S",
+        "Kakwani R",
+        "Karski M",
+        "Makwana N",
+        "McKinley J",
+        "Murty A",
+        "Raglan M",
+        "Shalaby H",
+        "Sharpe I",
+        "Smith R",
+        "Taylor H",
+        "Goldberg A"
+      ],
+      "authors_short": "Townshend D, Martin R, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Total ankle arthroplasty (TAA) is increasingly used for end-stage ankle arthritis, with modern fixed-bearing designs demonstrating improved survivorship. The Canadian Orthopaedic Foot and Ankle Society (COFAS) classification stratifies patients by intra-articular and extra-articular deformity and adjacent joint arthritis. However, limited evidence exists on the impact of COFAS grade on mid-term TAA outcomes. This study reports the minimum 5-year outcomes of the Infinity fixed-bearing TAA and examines whether COFAS grade influences survivorship (defined as freedom from revision), complications, reoperations, revisions, radiographic findings, or patient-reported outcomes (PROMs). METHODS: A prospective, multi-center observational study included 502 ankles in 496 patients who underwent primary Infinity TAA across 11 UK centers. Patients were stratified by preoperative COFAS grade. Outcomes included implant survivorship, complications, reoperations, revisions, radiographic assessment of radiolucencies, and PROMs (the Manchester-Oxford Foot Questionnaire; the Ankle Osteoarthritis Scale [AOS]; and the EuroQol 5-dimension, 5-level index) collected preoperatively and at 2 and 5\u2009years postoperatively. Patient-specific instrumentation (PSI) use was also recorded. RESULTS: Five-year implant survivorship was 98.2%, and reoperation without revision was 5.8%. There was no significant association between COFAS grade and revision or reoperation rates. Radiographic analysis demonstrated 5.7% linear radiolucencies >2\u2009mm and 10.9% cystic radiolucencies >5\u2009mm, with no correlation to COFAS grade. PROMs improved significantly across all domains from baseline to 5 years, with no differences between COFAS grades. PSI, used in 20.1% of cases, was associated with improved AOS scores at 5 years, though PSI and site effects could not be fully disentangled, and did not influence complication, revision, or radiographic outcomes. CONCLUSION: In this large multicenter cohort, higher COFAS grades were not associated with inferior outcomes in patients undergoing Infinity fixed-bearing TAA. Survivorship, complications, reoperations, radiographic outcomes, and PROMs were not statistically different across all grades. In this cohort, Infinity TAA was associated with favorable outcomes across all COFAS grades, including those with complex deformity or adjacent joint disease. LEVEL OF EVIDENCE: Level II, prospective cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42671057/",
+      "score": 73,
+      "score_reasoning": "Large multicenter prospective study (n=502) in Foot & Ankle International demonstrating COFAS grade does not influence Infinity TAA outcomes at 5 years with 98.2% survivorship, directly guiding patient selection.",
+      "bullets": [
+        "At five years, the Infinity fixed-bearing total ankle replacement showed 98.2% survivorship with meaningful pain and function gains across all patients.",
+        "Preoperative COFAS grade, including complex deformity and adjacent joint arthritis, did not predict worse survivorship, complication rates, or patient-reported outcomes.",
+        "Surgeons need not withhold total ankle replacement from higher-complexity patients based on COFAS classification alone."
+      ]
+    },
+    {
+      "pmid": "42665225",
+      "title": "Magnetic Resonance Imaging Findings in Simple Elbow Dislocations: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Sachinis NP",
+        "Bhardwaj V",
+        "Scaglia M",
+        "Gerace F",
+        "Christiane Messina J",
+        "Randelli PS",
+        "Arrigoni P"
+      ],
+      "authors_short": "Sachinis NP, Bhardwaj V, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Simple elbow dislocations are common injuries; however, the comprehensive magnetic resonance imaging (MRI) injury patterns remain incompletely understood. This systematic review aimed to determine the prevalence and patterns of soft tissue and acute traumatic osteochondral injuries on MRI following simple elbow dislocations. METHODS: We systematically searched PubMed and Scopus databases from 2000-2025 using a validated search strategy. Studies reporting MRI findings in adult or predominantly adult simple elbow dislocation cohorts were included. Quality assessment used the Newcastle-Ottawa Scale. Pooled prevalence estimates with 95% confidence intervals (CIs) were calculated using random-effects models with logit transformation. GRADE methodology assessed evidence quality. RESULTS: Eight studies were included, with 267 participants providing baseline MRI data. Seven studies contributed to each analysis of any collateral-ligament injury: medial collateral ligament (MCL) 90.6% (95% CI: 78.6%-96.2%; I2=69.0%) and lateral collateral ligament (LCL) 94.3% (95% CI: 86.3%-97.8%; I2=35.8%). Only 3 studies contributed compatible complete-tear data: MCL 53.0% (95% CI: 8.6%-93.1%; I2=86.6%) and LCL 59.4% (95% CI: 21.0%-88.9%; I2=69.5%). Two studies contributed acute traumatic osteochondral data, giving a pooled estimate of 57.2% (95% CI: 42.2%-70.9%; I2=59.7%). In a reader-choice sensitivity analysis, replacing the senior radiologist's assessment in the larger study with the junior radiologist's assessment reduced the estimate to 37.4%. CONCLUSION: MRI abnormalities involving both medial and lateral stabilizing structures are common after simple elbow dislocation, but their prognostic significance remains uncertain. MRI may be considered selectively when post-reduction stability is uncertain or further anatomical definition may influence management; the available evidence does not support routine use after every otherwise stable simple elbow dislocation. LEVEL OF EVIDENCE: Level IV; Descriptive Epidemiology Study; Systematic Review.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42665225/",
+      "score": 69,
+      "score_reasoning": "Large single-center retrospective study (n=699 TAAs) demonstrating BMI\u226530 independently doubles mechanical failure risk after TAA regardless of implant design, providing important preoperative counseling data.",
+      "bullets": [
+        "MRI after simple elbow dislocation shows ligament injury to the medial or lateral collateral ligament in over 90% of cases, with complete tears in roughly half.",
+        "Bone and cartilage damage appears on MRI in over half of simple elbow dislocations, making these injuries more complex than the name suggests.",
+        "Routine MRI after every stable simple elbow dislocation is not supported by current evidence, but selective use is reasonable when post-reduction stability is unclear or anatomy will change management."
+      ]
+    },
+    {
+      "pmid": "42692247",
+      "title": "Facioscapulohumeral Muscular Dystrophy: A Comprehensive Guide for Shoulder Surgeons.",
+      "authors": [
+        "Gonzalez-Morgado D",
+        "Lohre R",
+        "Hachem AI",
+        "Elhassan B"
+      ],
+      "authors_short": "Gonzalez-Morgado D, Lohre R, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "Facioscapulohumeral muscular dystrophy (FSHD) is the third most common hereditary myopathy and a major cause of progressive shoulder girdle dysfunction. Despite its clinical relevance, FSHD diagnosis is often delayed or mistaken for peripheral nerve disorders. For the shoulder surgeons, FSHD presents a challenge in which progressive degeneration of the periscapular musculature results in scapular winging and impaired overhead activity. Physical examination is relevant for surgical decision-making, including assessment of scapular winging, deltoid integrity, and response to manual scapular stabilization. Nonoperative treatment may provide symptomatic support, but evidence remains limited. Scapulothoracic arthrodesis is the principal surgical option for appropriately selected patients, particularly those with severe scapular winging, active elevation below 90\u00b0, and preserved deltoid function. This review provides a clinically focused overview of FSHD for shoulder surgeons, emphasizing clinical presentation, diagnostic evaluation, and surgical patient selection, operative technique, rehabilitation, expected outcomes and complications.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42692247/",
+      "score": 67,
+      "score_reasoning": "Propensity-matched multi-institutional study showing patients requiring both lumbar spinal fusion and THA have delayed MCID achievement, with surgical sequence importantly affecting outcomes, directly guiding clinical decision-making.",
+      "bullets": [
+        "Facioscapulohumeral muscular dystrophy is frequently misdiagnosed as a peripheral nerve disorder, so shoulder surgeons should consider it in patients with progressive scapular winging and periscapular weakness.",
+        "Scapulothoracic arthrodesis is the main surgical option, best suited for patients with severe scapular winging, active elevation below 90 degrees, and intact deltoid function.",
+        "Manual scapular stabilization during examination helps predict surgical benefit and should be part of the routine workup before offering operative treatment."
+      ]
+    },
+    {
+      "pmid": "42676903",
+      "title": "Primary Total Knee Arthroplasty Using a Cementless Highly Porous Titanium Tibial Baseplate in Patients Under the Age of 50: An Average 7.6-year Follow-up.",
+      "authors": [
+        "Nadar AC",
+        "Gul EH",
+        "Pattyn R",
+        "Lustig S",
+        "Smith LS",
+        "Henningsen JD",
+        "Malkani AL"
+      ],
+      "authors_short": "Nadar AC, Gul EH, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Younger and more active patients undergoing primary cemented total knee arthroplasty (TKA) have demonstrated increased failure incidence due to multiple factors including aseptic loosening. The purpose of this study was to evaluate results of cementless TKA using a highly porous cementless tibial baseplate in patients aged \u226450 years. METHODS: This was a retrospective study of 150 consecutive cementless TKAs in patients aged \u226450 years using the same implant design. Twenty-nine patients were lost-to-follow-up (19.3%), leaving 121 TKAs in 98 patients with minimum 5-year follow-up. There were 41 men and 80 women with mean age of 45.8 years (range, 32-50), mean BMI of 37.5 kg/m2 (range, 19.3-64.1), and mean follow-up of 7.6 years (range, 4.7-10.9). Clinical outcomes, complications, and patient-reported outcome measures were reviewed. RESULTS: There were 11 (9.1%) revisions: 5 (4.1%) for instability, 4 (3.3%) for dissociation of the metal-backed patella from the polyethylene, and 2 for unexplained pain elsewhere. Knee Society function and knee scores improved from means of 46.6 and 39.3 preoperatively to 79.9 and 83.3 postoperatively, respectively (P < .001). Survivorship with aseptic loosening as the endpoint was 100% at 11.5 years and 87.7% due to all-cause revision. CONCLUSIONS: Cementless TKA utilizing a highly porous baseplate in patients aged \u226450 years with mean 7.6-year follow-up demonstrated excellent survivorship with no revisions due to aseptic loosening. Results of this study using a cementless highly porous tibial baseplate with the advantage of biological fixation appear promising.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42676903/",
+      "score": 65,
+      "score_reasoning": "Clinically important propensity-matched study revealing that even mildly elevated INR (1.1-1.5) and borderline thrombocytopenia significantly increase complications after revision TJA, challenging current thresholds.",
+      "bullets": [
+        "In patients aged 50 and under undergoing cementless total knee arthroplasty with a highly porous titanium tibial baseplate, there were zero revisions for aseptic loosening at average 7.6-year follow-up.",
+        "The 9.1% revision rate was driven by instability and patella component dissociation, not tibial fixation failure, in a cohort with mean BMI of 37.5.",
+        "For younger, heavier patients where cemented tibial fixation is a long-term concern, cementless highly porous tibial baseplates offer durable biological fixation through the first decade."
+      ]
+    },
+    {
+      "pmid": "42677846",
+      "title": "Surface Topography and Machine Learning: Strides Towards Radiation-Free Scoliosis Assessment: A Systematic Review.",
+      "authors": [
+        "Brigato P",
+        "Palombi D",
+        "Reyes JL",
+        "De Salvatore S",
+        "Brigato L",
+        "Lombardi JM",
+        "Ouellet JA",
+        "Sardar ZM"
+      ],
+      "authors_short": "Brigato P, Palombi D, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Assessment of idiopathic scoliosis (IS) relies on radiographs and measurement of coronal curve magnitude, but repeated radiation exposure raises safety concerns in children. Noninvasive surface topography (ST) combined with machine learning (ML) has emerged as a potential radiation-free alternative for estimating curve severity, predicting coronal curve magnitude (Cobb angle), and monitoring longitudinally. This review aims to systematically review current evidence on the application of ML techniques to ST-based assessment of IS. METHODS: This systematic review was conducted according to Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. PubMed, Embase, Scopus, Cochrane Library, and Web of Science were searched from database inception through August 2025 for studies applying ML algorithms to noninvasive ST methods in IS. Extracted data included study design, patient characteristics, surface acquisition techniques, ML model architecture, validation strategies, and performance metrics. Methodological quality and risk of bias were assessed using the QUADAS-2 tool. RESULTS: Twelve studies met the inclusion criteria, encompassing 5015 patients and more than 6000 trunk surface scans. ST techniques included laser scanning, Moir\u00e9 topography, raster stereography, depth sensors, and markerless 3D imaging. ML models demonstrated high accuracy in estimating curve severity and predicting coronal curve magnitude, with mean absolute errors of \u223c3 to 6 degrees and sensitivities exceeding 0.9, approaching the variability of radiographic measurements. Curve-type classification showed lower and more heterogeneous performance, whereas binary classification models demonstrated strong potential for radiation-free screening and follow-up. CONCLUSIONS: ML applied to ST represents a promising noninvasive and radiation-free approach for IS assessment. Current evidence supports clinically meaningful performance in estimating curve severity and coronal curve magnitude, although limitations persist in classifying curve type. Larger prospective and multicenter studies are needed to validate these methods and define their role in clinical practice. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42677846/",
+      "score": 63,
+      "score_reasoning": "Innovative pilot study demonstrating fifth metatarsal index on routine foot radiographs can screen for osteoporosis with 93% sensitivity and 95% specificity, offering a practical opportunistic screening tool.",
+      "bullets": [
+        "Machine learning applied to surface topography can estimate scoliosis curve magnitude within 3 to 6 degrees of the true Cobb angle, approaching the measurement error seen with standard X-rays.",
+        "In children with idiopathic scoliosis, these radiation-free surface scanning tools showed sensitivity above 90% for detecting clinically significant curves, supporting use in screening and routine follow-up.",
+        "Curve-type classification remains unreliable with current models, so surface topography cannot yet replace radiographs for surgical planning or detailed curve characterization."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-09-05T06:15:44.840116-07:00"
+}
