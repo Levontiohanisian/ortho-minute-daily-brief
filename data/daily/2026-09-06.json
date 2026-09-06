@@ -1,0 +1,300 @@
+{
+  "brief_date": "2026-09-06",
+  "brief_date_display": "Sunday, September 06",
+  "candidates": [
+    {
+      "pmid": "42679021",
+      "title": "Effects of Capacity-Related Delay to Hip Fracture Surgery on Mortality: A Matched-Cohort Study.",
+      "authors": [
+        "King SW",
+        "Wakefield SM",
+        "Giannoudis VP",
+        "Relton SD",
+        "Giannoudis PV",
+        "Pandit HG",
+        "Rodham PL"
+      ],
+      "authors_short": "King SW, Wakefield SM, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Timely surgery is emphasized in hip fracture care. Prior studies examining this have failed to distinguish adequately between delays for medical optimization and those due to limited operative capacity, introducing important confounders. This study aimed to determine the impact of capacity-related delays on mortality after a hip fracture in older individuals, as well as the factors moderating these effects. METHODS: This retrospective cohort study involved patients treated in a U.K. teaching hospital from January 2020 to June 2024. Primary outcomes were mortality at 30 and 365 days. The exposure of interest was capacity-delayed hip fracture surgery, defined as operative anesthesia for hip fracture surgery occurring >36 hours after emergency department presentation. Patients aged \u226565 years with an operatively managed fracture of the native proximal femur were included. Patients were excluded if surgery was delayed for medical reasons. Multivariable logistic regression was used to examine mortality risk factors, and propensity-score matching was performed on the basis of covariates affecting mortality and survival analysis. RESULTS: Of 3,094 screened patients, 2,358 were eligible. Mortality status was available for 96.9% of patients at 365 days. One thousand and eighty-seven (46%) received timely surgery while 1,271 (54%) experienced capacity-related delay. After propensity-score matching, the median age was 85 years (interquartile range, 78 to 90 years), 73% were female, and 98% were White. Capacity delay was associated with a greater hazard of 365-day mortality (hazard ratio [HR] = 1.37, 95% confidence interval [CI]: 1.15 to 1.63), and the hazard was most pronounced in the first 30 days (HR = 1.71, 95% CI: 1.11 to 2.65). Shorter-term (30-day) mortality in patients with a higher Clinical Frailty Scale score (>4) was most affected by delay (odds ratio [OR] = 1.76, 95% CI: 1.06 to 3.02), while effects on less frail patients were not significant. CONCLUSIONS: Capacity-related delays in hip fracture surgery were associated with greater mortality after accounting for patient-related risk factors. This study overcomes a key confounder by isolating capacity-related delay. The results may support prioritizing timely hip fracture surgery for more vulnerable patients. LEVEL OF EVIDENCE: Prognostic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42679021/",
+      "score": 82,
+      "score_reasoning": "Large propensity-matched cohort (n=2358) from JBJS examining capacity-related hip fracture surgical delay and mortality with rigorous methodology directly applicable to hospital systems and surgical scheduling decisions.",
+      "bullets": [
+        "In older hip fracture patients whose surgery was delayed beyond 36 hours due to capacity alone, one-year mortality was 37% higher and 30-day mortality was 71% higher compared to those who had timely surgery.",
+        "The mortality harm from delay was significant only in frail patients (Clinical Frailty Scale above 4), with a 76% higher odds of 30-day death, while less frail patients showed no significant difference.",
+        "When system capacity is the reason for delay, not medical optimization, frail hip fracture patients bear the greatest mortality cost, supporting their prioritisation on orthopaedic trauma lists."
+      ]
+    },
+    {
+      "pmid": "42697449",
+      "title": "Impact of Gastrointestinal Bleeding History on Postoperative Outcomes in Total Hip and Knee Arthroplasty: A Retrospective Analysis.",
+      "authors": [
+        "Botolin P",
+        "Helbing J",
+        "Khanuja HS",
+        "Patel NK",
+        "Goldman AH"
+      ],
+      "authors_short": "Botolin P, Helbing J, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Gastrointestinal (GI) bleeding is common in older adults and contributes to immune dysregulation, yet its impact on total hip (THA) and total knee (TKA) arthroplasty outcomes is poorly understood. We evaluated the association between GI bleeding history with risk of periprosthetic joint infection (PJI) and other complications up to two years following THA and TKA. METHODS: A retrospective review identified patients who had a history of GI bleeding within two years prior to THA or TKA. Patients were matched to a control cohort who had no GI bleeding history. The THA cohort included 6,420 GI bleed and 6,420 control patients. The TKA cohort included 9,688 GI bleed and 9,688 control patients. Odds ratios were calculated for 90-day and 2-year outcomes. RESULTS: In the THA cohort, GI bleed within two years prior to surgery was not associated with PJI (odds ratio (OR): 1.1 [0.8 to 1.4]; P = 0.544) at two years; however, it was associated with increased odds of mechanical loosening (OR: 1.6 [1.01 to 2.5]; P = 0.044) and revision surgery (OR: 1.4 [1.1 to 1.8]; P = 0.002). In the TKA cohort, GI bleed history was associated with greater 2-year odds of PJI (OR: 1.3 [1.1 to 1.7]; P = 0.012) and revision surgery (OR: 1.4 [1.2 to 1.7]; P < 0.001). The GI bleed patients in both cohorts demonstrated greater 90-day medical complication odds, including urinary tract infection (P < 0.05). CONCLUSION: A GI bleeding history was associated with increased 90-day medical and 2-year surgical complications following THA and TKA. Patients undergoing THA had higher odds of mechanical loosening, whereas TKA patients demonstrated higher odds of PJI. While the complication rate was low, these findings should be interpreted cautiously and viewed as hypothesis-generating. Further prospective studies are needed to better characterize postoperative risk factors in this population.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42697449/",
+      "score": 80,
+      "score_reasoning": "Exceptionally large retrospective cohort (n=23,405 TKAs) published in a high-impact journal identifying clinically actionable risk factors for peri-incisional blistering and its strong association with reoperation and PJI.",
+      "bullets": [
+        "Patients with a history of GI bleeding in the two years before THA had higher rates of mechanical loosening and revision surgery at two years, but no increased risk of periprosthetic joint infection.",
+        "Patients with a GI bleeding history before TKA had higher rates of periprosthetic joint infection and revision surgery at two years compared to matched controls.",
+        "Orthopaedic surgeons should recognize prior GI bleeding as a marker of elevated postoperative risk in arthroplasty patients, prompting closer follow-up and thorough preoperative counseling."
+      ]
+    },
+    {
+      "pmid": "42679866",
+      "title": "The Risk Analysis Index is Superior to the Modified 5-Factor Frailty Index for Predicting 30-Day Mortality Following Arthroplasty for Femoral Neck Fractures.",
+      "authors": [
+        "Parisier E",
+        "Koltenyuk V",
+        "Gupta N",
+        "Wang L",
+        "Perugini A",
+        "Weick J"
+      ],
+      "authors_short": "Parisier E, Koltenyuk V, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Femoral neck fractures (FNFs) are common in the elderly and are typically treated operatively. Tools like frailty assessments may be critical for evaluating peri- and postoperative patient needs. Our study evaluated the utility of frailty, measured by the Risk Analysis Index (RAI) and the Modified 5-Item Frailty Index (mFI-5), in predicting 30-day mortality in patients undergoing hemiarthroplasty (HA) or total hip arthroplasty (THA) for FNFs. METHODS: A national database was queried from 2015 to 2020 for patients 18 years of age or older undergoing HA or THA for FNFs. A total of 14,913 patients who had surgically managed FNFs were included. The primary outcome was 30-day mortality. Multivariate regressions were used to evaluate predictive value, and receiver operating characteristic curves assessed frailty accuracy. RESULTS: Frailty as measured by the mFI-5 and RAI was predictive of increased odds of 30-day mortality in HA (RAI = odds ratio (OR): 1.46, 95% confidence interval (CI): 1.31 to 1.64; mFI-5 = OR: 1.10 (1.08 to 1.12, P < 0.001 for both)) and THA (RAI = OR: 1.15 (CI: 1.106 to 1.190, P < 0.001), mFI-5 = OR: 1.50 (CI: 1.167 to 1.923, P = 0.002)). The RAI demonstrated superior risk discrimination when compared to the mFI-5 for THA (RAI = C-statistic: 0.84, 95% CI: 0.45 to 0.83 versus mFI-5 = C-statistic: 0.69, 95% CI: 0.68 to 0.71) and HA (RAI = C-statistic: 0.74, 95% CI: 0.73 to 0.75 versus mFI-5 = C-statistic: 0.62, 95% CI: 0.61 to 0.63). CONCLUSION: Frailty was found to be a predictor of mortality in patients who had FNFs undergoing THA and HA. Compared to the mFI-5, the RAI demonstrated superior predictive value for mortality across both operations. Thus, the RAI may be a powerful tool for assessing preoperative risk in patients undergoing arthroplasty for FNFs.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42679866/",
+      "score": 78,
+      "score_reasoning": "Large registry-based study (n=9,688+6,420 matched pairs) in Journal of Arthroplasty revealing the novel and clinically important finding that prior GI bleeding history increases revision and PJI risk after TJA.",
+      "bullets": [
+        "In over 14,000 patients undergoing hemiarthroplasty or total hip arthroplasty for femoral neck fractures, higher frailty scores on both the RAI and mFI-5 predicted greater 30-day mortality.",
+        "The RAI outperformed the mFI-5 in identifying which patients would die within 30 days, for both hemiarthroplasty and total hip arthroplasty.",
+        "For elderly patients with femoral neck fractures headed to arthroplasty, using the RAI preoperatively gives a more accurate mortality risk estimate than the commonly used mFI-5."
+      ]
+    },
+    {
+      "pmid": "42683675",
+      "title": "Quadriceps Tendon Autograft Harvest Technique Affects Both Graft Strength and Cross-sectional Area.",
+      "authors": [
+        "Bi AS",
+        "Augustin EJ",
+        "Smelley CC",
+        "Angotti ML",
+        "Acheampong KK",
+        "Sachdev D",
+        "Shewman E",
+        "Yanke AB"
+      ],
+      "authors_short": "Bi AS, Augustin EJ, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Bone-patellar tendon-bone (BTB) autografts have been considered the gold standard for anterior cruciate ligament reconstruction, although the popularity of quadriceps tendon (QT) autografts is increasing. HYPOTHESIS/PURPOSE: The purpose of this study was to compare the ultrasound-derived cross-sectional area (CSA) and biomechanical strength of BTB and QT grafts harvested with different techniques. The authors hypothesized that ultrasound CSA measurements would be reliable and that QT grafts would be larger and stronger than BTB grafts, without differences between QT harvest methods. STUDY DESIGN: Controlled laboratory study. METHODS: Thirty grafts from 15 cadaveric knees included 15 BTB grafts harvested with a 9-mm double-blade scalpel, 7 full-thickness QT grafts harvested with the same 9-mm double-blade scalpel (DB-QT), and 8 QT grafts harvested with a proprietary 9-mm cylindrical QT harvester (CH-QT). CSA was measured at 3 regions with ultrasound by 2 raters, followed by cyclic loading and pull-to-failure testing. Between-group differences were analyzed, and associations between CSA and biomechanical outcomes were assessed with linear regression. RESULTS: Ultrasound CSA demonstrated good to excellent reliability (ICC2,1 = 0.70-0.87; ICC2,k = 0.82-0.93). CSA differed between graft types (mean \u00b1 SD; BTB, 0.44 \u00b1 0.08 cm2; CH-QT, 0.64 \u00b1 0.10; DB-QT, 0.97 \u00b1 0.22; all pairwise P < .01), with heterogeneous variance (Levene P = .002). DB-QT demonstrated greater CSA variability than BTB (P = .005) and no difference in variability when compared with CH-QT (P = .055). Maximum load and energy to maximum load differed significantly (both omnibus P < .001) with DB-QT > CH-QT > BTB, with significant post hoc differences. In paired-knee analyses, pooled QT grafts also demonstrated greater maximum displacement than BTB grafts from the same specimens. CH-QT demonstrated significantly greater variability in maximum load than BTB (P = .002) and DB-QT (P = .045). Mean displacement at maximum load and stiffness were similar, although variance differed. Cyclic elongation differed among grafts (omnibus P = .011), with DB-QT < CH-QT < BTB, while other cyclic measures did not differ. When grafts were pooled, CSA correlated positively with maximum load and energy to maximum load; however, within-graft type regressions were not significant. After normalization to CSA, stress and strain were similar across graft types. CONCLUSION: QT grafts were significantly larger and stronger than BTB, with full-thickness double-blade harvest producing the greatest CSA and load to failure. Ultrasound was a reliable tool to measure CSA, which correlated with graft strength. CLINICAL RELEVANCE: QT grafts demonstrate greater structural capacity than BTB, and QT harvest technique influences graft size and strength, with double-blade harvest producing larger, stronger grafts.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42683675/",
+      "score": 76,
+      "score_reasoning": "High-quality prospective matched cohort study in JBJS examining hip fracture surgery delay and mortality with careful exclusion of medically delayed cases, directly relevant to surgical care pathways.",
+      "bullets": [
+        "Quadriceps tendon grafts are larger and stronger than bone-patellar tendon-bone grafts, with full-thickness double-blade harvest producing the greatest cross-sectional area and load to failure.",
+        "Harvest technique matters: the cylindrical harvester produced smaller, weaker grafts with more variable strength than the double-blade technique, so surgeons should consider this when selecting instrumentation.",
+        "Ultrasound reliably measures quadriceps tendon graft cross-sectional area intraoperatively, and larger graft size correlates with greater graft strength across all graft types."
+      ]
+    },
+    {
+      "pmid": "42670183",
+      "title": "Sesamoid Subluxation in Hallux Valgus Deformity.",
+      "authors": [
+        "Lama JE",
+        "Thompson R",
+        "Streeter SR",
+        "Jones A",
+        "Steineman BD",
+        "Ellis SJ",
+        "Johnson AH",
+        "Conti MS"
+      ],
+      "authors_short": "Lama JE, Thompson R, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Whether sesamoid subluxation relative to the metatarsal head occurs in hallux valgus (HV) remains unestablished. Deep transverse intermetatarsal ligament (DTML) attenuation, which spans the lateral sesamoid to the second metatarsal head, may increase transverse motion and facilitate medial sesamoid subluxation with the first metatarsal. This study aims to compare the average second metatarsal head to lateral sesamoid (2MTLS) distance between HV and control patients, which is a proxy of DTML length. We hypothesize that HV patients demonstrate an increased 2MTLS distance. METHODS: Sixty-eight patients were matched into 2 groups: 34 with HV and 34 without HV. Standardized preoperative weightbearing computed tomography scans were used to measure the 2MTLS distance, hallux valgus angle (HVA), intermetatarsal angle (IMA), first metatarsal pronation, and sesamoid station. The 2MTLS distance was anatomically measured from the lateral sesamoid to the second metatarsal head. RESULTS: The 2MTLS distance was significantly greater in HV patients compared with controls (20.90\u2009mm vs 18.56\u2009mm, P\u2009<\u2009.001). Similarly, the HVA and IMA were increased in HV patients (P\u2009<\u2009.001). First metatarsal pronation and sesamoid station were significantly greater in HV patients (P\u2009<\u2009.001). The 2MTLS distance demonstrated a moderately positive correlation with sesamoid station (r\u2009=\u20090.36, 95% CI 0.06-0.60), HVA (r\u2009=\u20090.40, 95% CI 0.12-0.65), and IMA (r\u2009=\u20090.43, 95% CI 0.06-0.71) but was not correlated with first metatarsal pronation (r\u2009=\u2009-0.18). Inter- and intrarater reliability for the 2MTLS measurements were ICC\u2009=\u20090.911 (95% CI 0.858-0.944) and 0.958 (95% CI 0.933-0.974), respectively. CONCLUSION: In HV patients, 2MTLS was significantly increased compared with controls. Additionally, as sesamoid station increased, the 2MTLS distance also increased. This challenges the long-standing view that the sesamoids remain anchored in HV and suggests the sesamoids subluxate. Clinically, this highlights the DTML's role as a restraint to first metatarsal medial deviation and suggests against sectioning the ligament during lateral release. LEVEL OF EVIDENCE: Level III, retrospective cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42670183/",
+      "score": 74,
+      "score_reasoning": "RCT comparing PRP versus corticosteroid for Morton neuroma in Foot & Ankle International with 12-month follow-up and objective MRI outcomes showing superior PRP results, directly applicable to clinical practice.",
+      "bullets": [
+        "In hallux valgus, the lateral sesamoid moves farther from the second metatarsal head compared to normal feet, meaning the sesamoids do subluxate rather than staying fixed as traditionally taught.",
+        "Greater sesamoid displacement correlates with larger hallux valgus and intermetatarsal angles, so more severe deformity means more sesamoid malposition.",
+        "The deep transverse intermetatarsal ligament acts as a restraint to first metatarsal drift, so surgeons should avoid cutting it during lateral release in hallux valgus correction."
+      ]
+    },
+    {
+      "pmid": "42677181",
+      "title": "Preoperative Platelet and International Normalized Ratio Thresholds and Their Impact on Complications Following Revision Total Joint Arthroplasty.",
+      "authors": [
+        "Hall RP",
+        "Braithwaite CL",
+        "Verhey JT",
+        "Deckey DG",
+        "Van Schuyver PR",
+        "Lebens R",
+        "Bingham JS",
+        "Spangehl MJ",
+        "Christopher ZK"
+      ],
+      "authors_short": "Hall RP, Braithwaite CL, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Traditional thresholds of platelet counts \u226550,000/\u03bcL and international normalized ratio (INR) < 1.5 may not adequately capture the risks of mild coagulopathy. This study evaluated complication rates across varying preoperative platelet and INR values in patients undergoing revision total joint arthroplasty. METHODS: Patients undergoing revision total knee or hip arthroplasties were retrospectively identified from a health care database. Patients were stratified by preoperative platelet counts (50,000 to 100,000/\u03bcL, 100,000 to 150,000/\u03bcL, >150,000/\u03bcL) and INR (<1.0, 1.1 to 1.5, 1.6 to 2.0, >2.0) recorded within 30 days of surgery. Following 1:1 propensity score matching to adjust for confounders, evaluated outcomes included transfusions, bleeding, thromboembolic events, wound complications, periprosthetic joint infection (PJI), reoperation, and mortality up to 2 years. RESULTS: Platelet counts of 50,000 to 100,000/\u03bcL were associated with increased transfusions, greater 90-day bleeding, and higher 2-year PJI and mortality. Counts of 100,000 to 150,000/\u03bcL were similarly linked to higher transfusions, PJI, and mortality. An INR of 1.1 to 1.5 correlated with increased 90-day transfusions, wound complications, and thromboembolic events, alongside higher 2-year PJI, reoperation, and mortality. INR levels >1.5 were consistently associated with elevated 90-day thromboembolic events and increased 2-year PJI, with levels of 1.6 to 2.0 also linked to higher mortality. CONCLUSIONS: The findings from this study indicate that preoperative platelet counts below 150,000/\u03bcL and INR values above 1.0 were associated with higher rates of complications following revision total joint arthroplasty. These results suggest stricter optimization of hematologic parameters preoperatively may reduce complications.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42677181/",
+      "score": 71,
+      "score_reasoning": "Well-designed national database retrospective study (n=14,913) in Journal of Arthroplasty showing RAI is superior to mFI-5 for predicting 30-day mortality after arthroplasty for femoral neck fractures, directly guiding preoperative risk stratification.",
+      "bullets": [
+        "In revision total joint arthroplasty patients, platelet counts below 150,000/\u03bcL were associated with higher rates of transfusion, periprosthetic joint infection, and two-year mortality compared to counts above that threshold.",
+        "An INR above 1.0 before revision arthroplasty correlated with increased wound complications, thromboembolic events, reoperation, and mortality, suggesting the traditional cutoff of 1.5 is too permissive.",
+        "Orthopaedic surgeons should consider optimizing platelets to at least 150,000/\u03bcL and INR to 1.0 or below before proceeding with revision total joint arthroplasty."
+      ]
+    },
+    {
+      "pmid": "42701460",
+      "title": "Preoperative Weight Loss Before Total Joint Arthroplasty Using Novel Glucagon-Like Peptide-1 Agonists.",
+      "authors": [
+        "Seward MW",
+        "Cleary EJ",
+        "DeNovio AC",
+        "Grimm JA",
+        "Curry TB",
+        "Beam BB",
+        "Hannon CP",
+        "Abdel MP"
+      ],
+      "authors_short": "Seward MW, Cleary EJ, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: This study determined the prevalence of glucagon-like peptide-1 (GLP-1) use before total joint arthroplasty (TJA), measured weight loss of patients on GLP-1s, and evaluated if GLP-1s were associated with outcomes. METHODS: We identified 6482 patients (2990 hips; 3492 knees) who had primary TJAs between 2019 and February 2023. The mean age was 67 years, 50% were female, and 12% had a body mass index \u226540 kg/m2. Univariable and multivariable models evaluated outcomes. Mean follow-up was 3 years. RESULTS: The prevalence of GLP-1s before TJA was 3%, increasing from 2% in 2019 to 5% in 2022. The mean preoperative weight change on GLP-1s was -9 pounds (range, -110 to +36 pounds). Among patients taking GLP-1s, 19% lost \u226520 pounds prior to surgery, and the mean body mass index change was -1.4 kg/m2 (range, -16.3 to 6.2 kg/m2). In univariable analyses, GLP-1 use was not associated with revisions (P = .35), reoperations (P = .09), or complications (P = .23). In multivariable analyses, GLP-1s were not associated with revisions (P = .66), reoperations (P = .34), or complications (P = .85). There was no difference in the risk of a 90-day postoperative emergency department visit between those on GLP-1s vs not on those medications (odds ratio, 1.5; P = .07). CONCLUSIONS: The prevalence of preoperative GLP-1s before TJA increased from 2% in 2019 to 5% in 2022, and preoperative weight change on GLP-1s varied considerably. GLP-1s were not associated with decreased postoperative risks but investigational GLP-1s before TJA require further study. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42701460/",
+      "score": 70,
+      "score_reasoning": "Clinically timely study of GLP-1 agonist prevalence and outcomes before TJA in a large cohort (n=6,482), finding no outcome benefit from preoperative GLP-1 use despite surgeon interest in weight optimization.",
+      "bullets": [
+        "GLP-1 agonist use before total joint arthroplasty rose from 2% in 2019 to 5% in 2022, but average weight loss was only 9 pounds with wide individual variation.",
+        "In patients undergoing primary hip or knee arthroplasty, preoperative GLP-1 use was not associated with reduced revisions, reoperations, complications, or 90-day emergency department visits.",
+        "Surgeons should not assume GLP-1 therapy reliably reduces weight or surgical risk before arthroplasty, and current evidence does not support using it as a prerequisite for surgery."
+      ]
+    },
+    {
+      "pmid": "42685157",
+      "title": "Changes in the Management of Periprosthetic Joint Infection Over the Past 50 Years.",
+      "authors": [
+        "Abedi AA",
+        "Pourbozorg G",
+        "Abdou M",
+        "Hoveidaei AH",
+        "Parvizi J",
+        "Citak M"
+      ],
+      "authors_short": "Abedi AA, Pourbozorg G, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "\u27a2 Periprosthetic joint infection (PJI) remains a major complication of joint arthroplasty, associated with morbidity and health-care burden. Although room for progress remains, the management of PJI has evolved over the past 50 years from empiric, procedure-centered approaches to structured, evidence-based, and biologically informed strategies.\u27a2 This article summarizes key developments in the prevention, diagnosis, and treatment of PJI, driven by advances across multiple clinical and scientific subspecialties.\u27a2 Diagnostic approaches have advanced from reliance on clinical findings and culture to a multimodal framework integrating validated criteria, serological and synovial biomarkers, and molecular techniques. Surgical management has similarly evolved toward individualized strategies, including debridement with implant retention, 1-stage or 2-stage revision, and salvage surgery tailored to host, pathogen, and disease characteristics.\u27a2 Advances in microbiology, particularly the recognition of biofilm and the emerging role of the human microbiome, have further reshaped the understanding of PJI. Overall, this article examines how developments in prevention, diagnosis, surgical treatment, and microbiology have driven a transition toward precision-based, biology-informed, and individualized management of PJI.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42685157/",
+      "score": 69,
+      "score_reasoning": "Comprehensive JBJS review synthesizing 50 years of PJI management evolution across prevention, diagnosis, and treatment with high educational value for practicing surgeons.",
+      "bullets": [
+        "Over 50 years, PJI diagnosis shifted from clinical impression alone to a multimodal framework using validated criteria, blood and joint fluid biomarkers, and molecular testing.",
+        "Surgical treatment is now tailored to the individual patient, with debridement and implant retention, one-stage or two-stage revision, and salvage procedures selected based on host factors, pathogen, and disease timing.",
+        "Growing understanding of biofilm biology and the human microbiome is reshaping how surgeons think about why PJI occurs and how to treat it more precisely."
+      ]
+    },
+    {
+      "pmid": "42678766",
+      "title": "The Effect of Glucagon-like Peptide-1 Receptor Agonists in Total Joint Arthroplasty: Implications, Complications, and Considerations.",
+      "authors": [
+        "Barton KI",
+        "Boyle RJ",
+        "Dennis DA",
+        "Jennings JM"
+      ],
+      "authors_short": "Barton KI, Boyle RJ, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "Glucagon-like peptide 1 (GLP-1) receptor agonists (GLP-1 RAs) are used in diabetic patients for glycemic control. Yet, there has been a notable rise in their use for weight loss management in obese patients. This review critically appraises current evidence on perioperative implications of GLP-1 receptor agonists in TJA patients. The review discusses GLP-1 RA implications and use (physiology, pharmacology, pharmacodynamics, mechanisms of actions, and commonly used GLP-1 Ras), complications and adverse effects, considerations for the anesthesiologist, considerations for the TJA surgeon, and current clinical practice recommendations in 2025.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42678766/",
+      "score": 68,
+      "score_reasoning": "Prospective registry study (n=502) in Foot & Ankle International with minimum 5-year follow-up showing COFAS grade does not influence TAA survivorship or PROMs, providing meaningful guidance for patient selection.",
+      "bullets": [
+        "GLP-1 receptor agonists slow gastric emptying, raising aspiration risk under anesthesia, so anaesthesiologists managing total joint arthroplasty patients on these medications need a clear perioperative hold protocol.",
+        "Patients taking GLP-1 receptor agonists for weight loss before total joint arthroplasty may present with rapid weight changes that alter surgical planning, implant sizing, and soft tissue tension.",
+        "Current 2025 guidance supports temporarily stopping GLP-1 receptor agonists before elective total joint arthroplasty, but orthopaedic surgeons should confirm the hold duration directly with the prescribing physician based on the specific agent used."
+      ]
+    },
+    {
+      "pmid": "42670611",
+      "title": "Biomechanical Effect of Medial Collateral Ligament Repair With and Without Suture Augmentation on Knee Laxity and Anterior Cruciate Ligament Force.",
+      "authors": [
+        "von Rehlingen-Prinz F",
+        "Shamritsky DZ",
+        "Rilk S",
+        "Kunze KN",
+        "Mueller MM",
+        "Demopoulos B",
+        "Imhauser CW",
+        "DiFelice GS"
+      ],
+      "authors_short": "von Rehlingen-Prinz F, Shamritsky DZ, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: The medial collateral ligament (MCL) is the most frequently injured knee ligament. MCL repair is a surgical technique intended to acutely reduce medial side laxity that can be performed in isolation or combined with suture augmentation (SA). PURPOSE: To assess the effect of MCL repair with and without SA on (1) valgus laxity and anteromedial rotational laxity and (2) force carried by the anterior cruciate ligament (ACL) and (3) to quantify load-sharing between the MCL repair and SA components. STUDY DESIGN: Controlled laboratory study. METHODS: Seven cadaveric knees were tested using a 6 degrees of freedom robotic manipulator in 4 states: (1) intact, (2) MCL cut, (3) isolated MCL repair, and (4) MCL repair combined with SA. Valgus laxity and anteromedial rotational laxity were measured at 0\u00b0, 15\u00b0, 30\u00b0, and 90\u00b0 of flexion. In situ ACL force and forces carried by the MCL repair components were assessed at peak valgus moment using principle of superposition. RESULTS: Valgus laxity after isolated MCL repair was greater than the intact state at all flexion angles >0\u00b0 (P\u2264 .01). The addition of SA to MCL repair significantly reduced valgus laxity at 15\u00b0 and 30\u00b0 of flexion only (P\u2264 .02). Anteromedial rotational laxity after both MCL repairs was greater than the intact state at 90\u00b0 of flexion (P < .01), whereas no differences were detected at 0\u00b0 and 30\u00b0. For both MCL repairs, ACL force was less than in the MCL cut state and did not differ from the intact state. In situ forces carried by the repair and SA components did not differ for the MCL repair combined with SA. CONCLUSION: Both MCL repair with and without SA reduced ACL force relative to the MCL cut state. Addition of SA to MCL repair resulted in less residual valgus laxity but not less anteromedial rotational laxity. CLINICAL RELEVANCE: These findings suggest that MCL repair may reduce medial side laxity and partially offload the ACL relative to the MCL cut state. This is particularly important for treatment of combined ACL and MCL injuries, where the protection of the ACL graft or repair is most important immediately after surgery.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42670611/",
+      "score": 66,
+      "score_reasoning": "Biomechanical cadaveric study from AJSM comparing BTB and quadriceps tendon harvest techniques revealing significant differences in cross-sectional area and strength with direct implications for ACL reconstruction graft selection.",
+      "bullets": [
+        "MCL repair alone leaves residual valgus laxity compared to the intact knee, but adding suture augmentation reduces that laxity at mid-range flexion angles.",
+        "Both repair techniques, with or without suture augmentation, lowered ACL force back to near-intact levels compared to a cut MCL, which matters most in combined ACL and MCL injuries.",
+        "For surgeons managing combined ACL and MCL tears, MCL repair with suture augmentation offers better medial stability and may help protect an ACL graft in the early postoperative period."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-09-06T06:26:45.635018-07:00"
+}
