@@ -1,0 +1,308 @@
+{
+  "brief_date": "2026-09-07",
+  "brief_date_display": "Monday, September 07",
+  "candidates": [
+    {
+      "pmid": "42679021",
+      "title": "Effects of Capacity-Related Delay to Hip Fracture Surgery on Mortality: A Matched-Cohort Study.",
+      "authors": [
+        "King SW",
+        "Wakefield SM",
+        "Giannoudis VP",
+        "Relton SD",
+        "Giannoudis PV",
+        "Pandit HG",
+        "Rodham PL"
+      ],
+      "authors_short": "King SW, Wakefield SM, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Timely surgery is emphasized in hip fracture care. Prior studies examining this have failed to distinguish adequately between delays for medical optimization and those due to limited operative capacity, introducing important confounders. This study aimed to determine the impact of capacity-related delays on mortality after a hip fracture in older individuals, as well as the factors moderating these effects. METHODS: This retrospective cohort study involved patients treated in a U.K. teaching hospital from January 2020 to June 2024. Primary outcomes were mortality at 30 and 365 days. The exposure of interest was capacity-delayed hip fracture surgery, defined as operative anesthesia for hip fracture surgery occurring >36 hours after emergency department presentation. Patients aged \u226565 years with an operatively managed fracture of the native proximal femur were included. Patients were excluded if surgery was delayed for medical reasons. Multivariable logistic regression was used to examine mortality risk factors, and propensity-score matching was performed on the basis of covariates affecting mortality and survival analysis. RESULTS: Of 3,094 screened patients, 2,358 were eligible. Mortality status was available for 96.9% of patients at 365 days. One thousand and eighty-seven (46%) received timely surgery while 1,271 (54%) experienced capacity-related delay. After propensity-score matching, the median age was 85 years (interquartile range, 78 to 90 years), 73% were female, and 98% were White. Capacity delay was associated with a greater hazard of 365-day mortality (hazard ratio [HR] = 1.37, 95% confidence interval [CI]: 1.15 to 1.63), and the hazard was most pronounced in the first 30 days (HR = 1.71, 95% CI: 1.11 to 2.65). Shorter-term (30-day) mortality in patients with a higher Clinical Frailty Scale score (>4) was most affected by delay (odds ratio [OR] = 1.76, 95% CI: 1.06 to 3.02), while effects on less frail patients were not significant. CONCLUSIONS: Capacity-related delays in hip fracture surgery were associated with greater mortality after accounting for patient-related risk factors. This study overcomes a key confounder by isolating capacity-related delay. The results may support prioritizing timely hip fracture surgery for more vulnerable patients. LEVEL OF EVIDENCE: Prognostic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42679021/",
+      "score": 82,
+      "score_reasoning": "Large propensity-matched cohort (n=2,358) from JBJS examining capacity-related surgical delay on hip fracture mortality\u2014directly actionable for surgical scheduling and hospital capacity planning with rigorous methodology.",
+      "bullets": [
+        "In older hip fracture patients where delay was due to capacity constraints rather than medical reasons, waiting more than 36 hours for surgery raised one-year mortality risk by 37% and 30-day mortality risk by 71%.",
+        "The mortality harm from delay was significant only in frail patients (Clinical Frailty Scale above 4), with a 76% higher odds of dying within 30 days, while less frail patients showed no significant effect.",
+        "When orthopaedic capacity is limited, frail hip fracture patients should be prioritised for earlier theatre slots, as delays in this group carry a measurable and avoidable mortality cost."
+      ]
+    },
+    {
+      "pmid": "42697449",
+      "title": "Impact of Gastrointestinal Bleeding History on Postoperative Outcomes in Total Hip and Knee Arthroplasty: A Retrospective Analysis.",
+      "authors": [
+        "Botolin P",
+        "Helbing J",
+        "Khanuja HS",
+        "Patel NK",
+        "Goldman AH"
+      ],
+      "authors_short": "Botolin P, Helbing J, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Gastrointestinal (GI) bleeding is common in older adults and contributes to immune dysregulation, yet its impact on total hip (THA) and total knee (TKA) arthroplasty outcomes is poorly understood. We evaluated the association between GI bleeding history with risk of periprosthetic joint infection (PJI) and other complications up to two years following THA and TKA. METHODS: A retrospective review identified patients who had a history of GI bleeding within two years prior to THA or TKA. Patients were matched to a control cohort who had no GI bleeding history. The THA cohort included 6,420 GI bleed and 6,420 control patients. The TKA cohort included 9,688 GI bleed and 9,688 control patients. Odds ratios were calculated for 90-day and 2-year outcomes. RESULTS: In the THA cohort, GI bleed within two years prior to surgery was not associated with PJI (odds ratio (OR): 1.1 [0.8 to 1.4]; P = 0.544) at two years; however, it was associated with increased odds of mechanical loosening (OR: 1.6 [1.01 to 2.5]; P = 0.044) and revision surgery (OR: 1.4 [1.1 to 1.8]; P = 0.002). In the TKA cohort, GI bleed history was associated with greater 2-year odds of PJI (OR: 1.3 [1.1 to 1.7]; P = 0.012) and revision surgery (OR: 1.4 [1.2 to 1.7]; P < 0.001). The GI bleed patients in both cohorts demonstrated greater 90-day medical complication odds, including urinary tract infection (P < 0.05). CONCLUSION: A GI bleeding history was associated with increased 90-day medical and 2-year surgical complications following THA and TKA. Patients undergoing THA had higher odds of mechanical loosening, whereas TKA patients demonstrated higher odds of PJI. While the complication rate was low, these findings should be interpreted cautiously and viewed as hypothesis-generating. Further prospective studies are needed to better characterize postoperative risk factors in this population.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42697449/",
+      "score": 80,
+      "score_reasoning": "Exceptionally large retrospective cohort (n=23,405 TKAs) in a high-impact journal identifying modifiable risk factors for peri-incisional blistering and its strong association with PJI and reoperation\u2014highly clinically relevant.",
+      "bullets": [
+        "Patients with a GI bleeding history in the two years before TKA had higher rates of periprosthetic joint infection and revision surgery at two years compared to matched controls.",
+        "THA patients with prior GI bleeding showed higher rates of mechanical loosening and revision surgery, but not periprosthetic joint infection, at two years.",
+        "Orthopaedic surgeons should flag a recent GI bleeding history as a risk factor when counseling patients before total joint arthroplasty, particularly regarding implant longevity and infection risk."
+      ]
+    },
+    {
+      "pmid": "42679019",
+      "title": "Heterogeneity of Patients' Preferences for Bone-Anchored Prostheses After Lower-Extremity Amputation (PREFER-BAP-2): A Latent Class Analysis of a Discrete Choice Experiment in The Netherlands.",
+      "authors": [
+        "Saleib SM",
+        "Jonker MF",
+        "Verhofstad MHJ",
+        "Paping MA",
+        "Van Vledder MG",
+        "Leijendekkers RA",
+        "Van Waes OJF"
+      ],
+      "authors_short": "Saleib SM, Jonker MF, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Patients with a bone-anchored prosthesis (BAP) previously expressed preferences regarding (i.e., indicated the importance of) 5 treatment attributes: change in quality of life (QoL), short- and long-term complications, implant survival, and out-of-pocket contributions (costs). However, preference heterogeneity is unclear. We aimed to identify latent preference subgroups, quantify attribute importance per subgroup, and describe background characteristics associated with each subgroup. METHODS: A discrete choice experiment to reveal preferences for BAP characteristics among 247 patients from The Netherlands was analyzed using a latent class logit model. Subgroups (classes) were interpreted using relative attribute weights and patient characteristics. RESULTS: A model with 3 classes (with 49% [n = 121], 27% [n = 67], and 24% [n = 59] of the patients in Classes 1, 2, and 3, respectively) fit best. Across classes, short-term complications were least important, and patients considered opting out of BAP treatment when outcomes were unfavorable. Within the classes, when BAP was selected, QoL remained a key driver (31% of decision weight in Class 1, 53% in Class 2, and 26% in Class 3). Class 1 weighted QoL and out-of-pocket contributions most; Class 2 prioritized QoL and disregarded short-term complications; Class 3 placed the most weight on long-term complications and was sensitive to out-of-pocket contributions mainly at high cost levels (\u20ac20,000 to \u20ac25,000) and to osseointegrated implant survival only when survival dropped from 20 to 5 years. Background profiles differed: compared with the other classes, Class 1 (66% male) had a greater proportion of patients with transtibial amputations and longer BAP experience; Class 2 (48% male) included a greater proportion with higher education and income levels and worse pre-treatment mobility, pain, and anxiety; and Class 3 (80% male) had a greater proportion with lower education and income levels, and the highest proportion awaiting surgery. CONCLUSIONS: Patient preferences for key aspects of BAP treatment are heterogeneous. We identified 3 distinct subgroups, and a patient's background characteristics can help estimate membership in a particular subgroup. Patient-reported outcomes should be interpreted in light of these preference differences. Future work should integrate preference assessment into pre-treatment triage to better align counseling and selection with what patients value, ideally using a brief choice-task screening tool; the optimal screening tasks remain to be established. LEVEL OF EVIDENCE: Therapeutic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42679019/",
+      "score": 78,
+      "score_reasoning": "Large prospective registry-based cohort (n=502 ankles, 11 centers) with minimum 5-year follow-up demonstrating excellent Infinity TAA survivorship and no COFAS grade impact on outcomes\u2014directly guides patient selection and counseling.",
+      "bullets": [
+        "Among 247 Dutch lower-limb amputees considering bone-anchored prostheses, three distinct preference subgroups exist: one prioritising quality of life and cost, one focused on quality of life while tolerating short-term complications, and one most concerned with long-term complications.",
+        "Short-term complications were the least influential factor across all groups, while quality of life was the dominant driver of treatment decisions in every subgroup.",
+        "Patient background characteristics, including sex, education, income, amputation level, and pre-treatment function, can help identify which preference group a patient belongs to, supporting more tailored counselling before surgery."
+      ]
+    },
+    {
+      "pmid": "42671057",
+      "title": "COFAS Grade is not Associated with Outcomes following Infinity Total Ankle Arthroplasty: A Multicenter Study with Minimum Five-Year Follow-Up.",
+      "authors": [
+        "Townshend D",
+        "Martin R",
+        "Bing A",
+        "Blundell C",
+        "Clough T",
+        "Davenport J",
+        "Davies H",
+        "Davis J",
+        "Dhar S",
+        "Hepple S",
+        "Kakwani R",
+        "Karski M",
+        "Makwana N",
+        "McKinley J",
+        "Murty A",
+        "Raglan M",
+        "Shalaby H",
+        "Sharpe I",
+        "Smith R",
+        "Taylor H",
+        "Goldberg A"
+      ],
+      "authors_short": "Townshend D, Martin R, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Total ankle arthroplasty (TAA) is increasingly used for end-stage ankle arthritis, with modern fixed-bearing designs demonstrating improved survivorship. The Canadian Orthopaedic Foot and Ankle Society (COFAS) classification stratifies patients by intra-articular and extra-articular deformity and adjacent joint arthritis. However, limited evidence exists on the impact of COFAS grade on mid-term TAA outcomes. This study reports the minimum 5-year outcomes of the Infinity fixed-bearing TAA and examines whether COFAS grade influences survivorship (defined as freedom from revision), complications, reoperations, revisions, radiographic findings, or patient-reported outcomes (PROMs). METHODS: A prospective, multi-center observational study included 502 ankles in 496 patients who underwent primary Infinity TAA across 11 UK centers. Patients were stratified by preoperative COFAS grade. Outcomes included implant survivorship, complications, reoperations, revisions, radiographic assessment of radiolucencies, and PROMs (the Manchester-Oxford Foot Questionnaire; the Ankle Osteoarthritis Scale [AOS]; and the EuroQol 5-dimension, 5-level index) collected preoperatively and at 2 and 5\u2009years postoperatively. Patient-specific instrumentation (PSI) use was also recorded. RESULTS: Five-year implant survivorship was 98.2%, and reoperation without revision was 5.8%. There was no significant association between COFAS grade and revision or reoperation rates. Radiographic analysis demonstrated 5.7% linear radiolucencies >2\u2009mm and 10.9% cystic radiolucencies >5\u2009mm, with no correlation to COFAS grade. PROMs improved significantly across all domains from baseline to 5 years, with no differences between COFAS grades. PSI, used in 20.1% of cases, was associated with improved AOS scores at 5 years, though PSI and site effects could not be fully disentangled, and did not influence complication, revision, or radiographic outcomes. CONCLUSION: In this large multicenter cohort, higher COFAS grades were not associated with inferior outcomes in patients undergoing Infinity fixed-bearing TAA. Survivorship, complications, reoperations, radiographic outcomes, and PROMs were not statistically different across all grades. In this cohort, Infinity TAA was associated with favorable outcomes across all COFAS grades, including those with complex deformity or adjacent joint disease. LEVEL OF EVIDENCE: Level II, prospective cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42671057/",
+      "score": 78,
+      "score_reasoning": "Multicenter prospective study with minimum 5-year follow-up on Infinity TAA stratified by COFAS grade provides high-quality, directly applicable evidence for ankle arthroplasty surgeons on deformity management.",
+      "bullets": [
+        "At five-year follow-up, the Infinity fixed-bearing total ankle replacement showed 98.2% implant survival across 502 ankles regardless of deformity complexity or adjacent joint arthritis.",
+        "Preoperative COFAS grade, including cases with complex deformity or adjacent joint disease, did not predict higher revision rates, complication rates, or worse patient-reported outcomes.",
+        "Surgeons can counsel patients with more complex ankle pathology that mid-term outcomes after fixed-bearing total ankle replacement are comparable to straightforward cases."
+      ]
+    },
+    {
+      "pmid": "42679866",
+      "title": "The Risk Analysis Index is Superior to the Modified 5-Factor Frailty Index for Predicting 30-Day Mortality Following Arthroplasty for Femoral Neck Fractures.",
+      "authors": [
+        "Parisier E",
+        "Koltenyuk V",
+        "Gupta N",
+        "Wang L",
+        "Perugini A",
+        "Weick J"
+      ],
+      "authors_short": "Parisier E, Koltenyuk V, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Femoral neck fractures (FNFs) are common in the elderly and are typically treated operatively. Tools like frailty assessments may be critical for evaluating peri- and postoperative patient needs. Our study evaluated the utility of frailty, measured by the Risk Analysis Index (RAI) and the Modified 5-Item Frailty Index (mFI-5), in predicting 30-day mortality in patients undergoing hemiarthroplasty (HA) or total hip arthroplasty (THA) for FNFs. METHODS: A national database was queried from 2015 to 2020 for patients 18 years of age or older undergoing HA or THA for FNFs. A total of 14,913 patients who had surgically managed FNFs were included. The primary outcome was 30-day mortality. Multivariate regressions were used to evaluate predictive value, and receiver operating characteristic curves assessed frailty accuracy. RESULTS: Frailty as measured by the mFI-5 and RAI was predictive of increased odds of 30-day mortality in HA (RAI = odds ratio (OR): 1.46, 95% confidence interval (CI): 1.31 to 1.64; mFI-5 = OR: 1.10 (1.08 to 1.12, P < 0.001 for both)) and THA (RAI = OR: 1.15 (CI: 1.106 to 1.190, P < 0.001), mFI-5 = OR: 1.50 (CI: 1.167 to 1.923, P = 0.002)). The RAI demonstrated superior risk discrimination when compared to the mFI-5 for THA (RAI = C-statistic: 0.84, 95% CI: 0.45 to 0.83 versus mFI-5 = C-statistic: 0.69, 95% CI: 0.68 to 0.71) and HA (RAI = C-statistic: 0.74, 95% CI: 0.73 to 0.75 versus mFI-5 = C-statistic: 0.62, 95% CI: 0.61 to 0.63). CONCLUSION: Frailty was found to be a predictor of mortality in patients who had FNFs undergoing THA and HA. Compared to the mFI-5, the RAI demonstrated superior predictive value for mortality across both operations. Thus, the RAI may be a powerful tool for assessing preoperative risk in patients undergoing arthroplasty for FNFs.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42679866/",
+      "score": 76,
+      "score_reasoning": "Large JBJS review on PJI management evolution over 50 years provides a comprehensive, high-impact synthesis of diagnostic and surgical advances directly relevant to all arthroplasty surgeons.",
+      "bullets": [
+        "In over 14,000 patients undergoing hemiarthroplasty or total hip arthroplasty for femoral neck fractures, frailty predicted 30-day mortality regardless of which frailty tool was used.",
+        "The Risk Analysis Index outperformed the Modified 5-Factor Frailty Index in identifying patients at highest mortality risk, with stronger discrimination for both procedures.",
+        "For elderly patients with femoral neck fractures heading to arthroplasty, using the Risk Analysis Index preoperatively gives surgeons a more accurate read on 30-day mortality risk than the simpler 5-factor tool."
+      ]
+    },
+    {
+      "pmid": "42670187",
+      "title": "Platelet-Rich Plasma vs Corticosteroid Injection for Morton Neuroma: A Prospective Unblinded Randomized Comparative Study.",
+      "authors": [
+        "Genuth G",
+        "Stavrou P",
+        "Brown C",
+        "Iselin LD"
+      ],
+      "authors_short": "Genuth G, Stavrou P, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Morton neuroma is a common cause of forefoot pain, often refractory to conservative treatment. Corticosteroid injections provide variable and often temporary relief. Platelet-rich plasma (PRP) has emerged as a potential biologic alternative; however, comparative evidence remains limited. METHODS: This prospective unblinded randomized comparative study included 60 patients with clinically and magnetic resonance imaging (MRI)-confirmed Morton neuroma treated with either a single corticosteroid injection (n=30) or 3 leukocyte-poor PRP injections (n=30). All patients had failed \u22656 months of conservative treatment. Primary outcomes were PROMIS Physical Function (PF) and Pain Interference (PI) scores at baseline and 3, 6, and 12 months. Secondary outcomes included neuroma size on MRI at 6 months and complications. RESULTS: Baseline characteristics and PROMIS scores were comparable between groups. Both groups demonstrated significant improvement; however, PRP was associated with better outcomes at all time points. At 12 months, PROMIS PF was 61.8 \u00b1 6.2 vs 55.2 \u00b1 6.8 (P < .001), and PROMIS PI was 38.4 \u00b1 6.1 vs 44.2 \u00b1 6.8 (P = .001), favoring PRP. At 6 months, neuroma size was smaller in the PRP group (4.2 \u00b1 1.1 vs 5.8 \u00b1 1.4 mm; P < .001). Complication rates were low and comparable between groups. Post-injection pain rates were comparable between groups; Minor complications occurred only in the corticosteroid group, although differences did not reach statistical significance. CONCLUSION: PRP was associated with improved clinical outcomes and reduction in neuroma size at 12 months compared with corticosteroid injection. Although these findings support further investigation of PRP for symptomatic Morton neuroma, they should be interpreted cautiously and considered hypothesis generating pending confirmation in larger, methodologically rigorous studies. LEVEL OF EVIDENCE: Level II, lesser quality RCT or prospective comparative study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42670187/",
+      "score": 75,
+      "score_reasoning": "Well-designed prospective RCT (n=60) in Foot & Ankle International comparing PRP versus corticosteroid for Morton neuroma shows PRP superiority at 12 months\u2014novel finding with immediate clinical applicability.",
+      "bullets": [
+        "In 60 patients with conservative-treatment-resistant Morton neuroma, a series of three PRP injections produced better pain and function scores at 12 months than a single corticosteroid injection.",
+        "PRP was also associated with a measurable reduction in neuroma size on MRI at 6 months, while corticosteroid injection was not.",
+        "For orthopaedic surgeons managing refractory Morton neuroma, PRP is a viable injection option, though this single small trial should be confirmed before changing routine practice."
+      ]
+    },
+    {
+      "pmid": "42703649",
+      "title": "Absolute Risk of Anterior Cruciate Ligament Graft Reruptures From the Posterior Tibial Slope Falls With Increasing Age: A Risk Stratification Analysis.",
+      "authors": [
+        "Pineda T",
+        "Mazy D",
+        "Ramos-Rojas J",
+        "Cance N",
+        "Dan MJ",
+        "Demey G",
+        "Dejour DH"
+      ],
+      "authors_short": "Pineda T, Mazy D, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Posterior tibial slope (PTS) and young age are well-established independent predictors of an anterior cruciate ligament (ACL) graft rerupture. Although both factors have been studied individually, whether age changes the relative effect of PTS, its absolute clinical impact, or both has not been formally examined across the full age range of patients undergoing ACL reconstruction (ACLR). PURPOSE: To determine whether age modifies the relative or absolute rerupture risk associated with PTS after ACLR, and to identify age thresholds at which clinically relevant absolute risk levels are reached for given slope values. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: A retrospective cohort of 585 patients who underwent primary ACLR with hamstring tendon autografts was analyzed, comprising a low-risk group (isolated ACLR) and a high-risk group (ACLR with lateral extra-articular tenodesis), with a minimum follow-up of 6 years. The Firth penalized logistic regression was used to model the joint effects of PTS and age on graft reruptures in pooled and group-specific analyses. A PTS\u00d7age interaction term was evaluated via the likelihood ratio test to assess whether the relative effect of PTS differed across age strata. Predicted absolute rerupture probabilities were derived from additive models, and age thresholds below which the risk fell under predefined clinically relevant levels (5% and 10%) were estimated for PTS values of 12\u00b0 and 15\u00b0, with stability assessed by bootstrap resampling (1000 iterations). RESULTS: After excluding 4 patients with missing covariate values, 581 patients were included in the final sample (low risk: n = 431; high risk: n = 150). In the pooled cohort (n = 581; 38 reruptures), PTS was independently associated with reruptures (odds ratio per degree, 1.28 [95% CI, 1.10-1.47]; P = .001), and increasing age was independently protective (odds ratio per year, 0.91 [95% CI, 0.87-0.95]; P < .001). No statistically significant PTS\u00d7age interaction was identified in any analysis (pooled cohort: P = .685), indicating that the relative effect of each degree of PTS remained approximately stable across ages. However, the predicted absolute rerupture risk decreased markedly with increasing age. In the pooled cohort, a patient with a PTS of 15\u00b0 had an estimated rerupture probability of 36.6% at age 18 years versus 3.9% at age 45 years. Age thresholds at which the predicted risk fell below 10% were approximately 27 years for a PTS of 12\u00b0 and approximately 35 years for a PTS of 15\u00b0. CONCLUSION: Age modulated the absolute, but not the relative, risk associated with PTS after ACLR. Younger patients with elevated slope values had the highest absolute rerupture risk, reinforcing the clinical value of integrating age into preoperative slope-based risk stratification.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42703649/",
+      "score": 73,
+      "score_reasoning": "Retrospective cohort of 585 patients in AJSM quantifying age-modified absolute rerupture risk from posterior tibial slope after ACLR provides novel, clinically actionable risk stratification thresholds.",
+      "bullets": [
+        "A steep posterior tibial slope raises rerupture risk after ACL reconstruction at every age, but the absolute risk drops sharply with age, falling from 37% at age 18 to under 4% at age 45 for a 15-degree slope.",
+        "Clinically meaningful absolute rerupture risk thresholds are crossed around age 27 for a 12-degree slope and age 35 for a 15-degree slope, giving surgeons concrete age cutoffs for counseling.",
+        "Surgeons should combine posterior tibial slope measurement with patient age during preoperative planning, as young patients with steep slopes represent the highest-risk group and may warrant slope-correcting procedures."
+      ]
+    },
+    {
+      "pmid": "42683675",
+      "title": "Quadriceps Tendon Autograft Harvest Technique Affects Both Graft Strength and Cross-sectional Area.",
+      "authors": [
+        "Bi AS",
+        "Augustin EJ",
+        "Smelley CC",
+        "Angotti ML",
+        "Acheampong KK",
+        "Sachdev D",
+        "Shewman E",
+        "Yanke AB"
+      ],
+      "authors_short": "Bi AS, Augustin EJ, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Bone-patellar tendon-bone (BTB) autografts have been considered the gold standard for anterior cruciate ligament reconstruction, although the popularity of quadriceps tendon (QT) autografts is increasing. HYPOTHESIS/PURPOSE: The purpose of this study was to compare the ultrasound-derived cross-sectional area (CSA) and biomechanical strength of BTB and QT grafts harvested with different techniques. The authors hypothesized that ultrasound CSA measurements would be reliable and that QT grafts would be larger and stronger than BTB grafts, without differences between QT harvest methods. STUDY DESIGN: Controlled laboratory study. METHODS: Thirty grafts from 15 cadaveric knees included 15 BTB grafts harvested with a 9-mm double-blade scalpel, 7 full-thickness QT grafts harvested with the same 9-mm double-blade scalpel (DB-QT), and 8 QT grafts harvested with a proprietary 9-mm cylindrical QT harvester (CH-QT). CSA was measured at 3 regions with ultrasound by 2 raters, followed by cyclic loading and pull-to-failure testing. Between-group differences were analyzed, and associations between CSA and biomechanical outcomes were assessed with linear regression. RESULTS: Ultrasound CSA demonstrated good to excellent reliability (ICC2,1 = 0.70-0.87; ICC2,k = 0.82-0.93). CSA differed between graft types (mean \u00b1 SD; BTB, 0.44 \u00b1 0.08 cm2; CH-QT, 0.64 \u00b1 0.10; DB-QT, 0.97 \u00b1 0.22; all pairwise P < .01), with heterogeneous variance (Levene P = .002). DB-QT demonstrated greater CSA variability than BTB (P = .005) and no difference in variability when compared with CH-QT (P = .055). Maximum load and energy to maximum load differed significantly (both omnibus P < .001) with DB-QT > CH-QT > BTB, with significant post hoc differences. In paired-knee analyses, pooled QT grafts also demonstrated greater maximum displacement than BTB grafts from the same specimens. CH-QT demonstrated significantly greater variability in maximum load than BTB (P = .002) and DB-QT (P = .045). Mean displacement at maximum load and stiffness were similar, although variance differed. Cyclic elongation differed among grafts (omnibus P = .011), with DB-QT < CH-QT < BTB, while other cyclic measures did not differ. When grafts were pooled, CSA correlated positively with maximum load and energy to maximum load; however, within-graft type regressions were not significant. After normalization to CSA, stress and strain were similar across graft types. CONCLUSION: QT grafts were significantly larger and stronger than BTB, with full-thickness double-blade harvest producing the greatest CSA and load to failure. Ultrasound was a reliable tool to measure CSA, which correlated with graft strength. CLINICAL RELEVANCE: QT grafts demonstrate greater structural capacity than BTB, and QT harvest technique influences graft size and strength, with double-blade harvest producing larger, stronger grafts.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42683675/",
+      "score": 72,
+      "score_reasoning": "Retrospective cohort study (n=320) in high-impact Journal of Arthroplasty demonstrating periarticular hardware retention does not increase reoperation risk in conversion TKA\u2014directly addresses a common surgical concern.",
+      "bullets": [
+        "Quadriceps tendon grafts are larger and stronger than bone-patellar tendon-bone grafts, and full-thickness harvest with a double-blade scalpel produces the greatest cross-sectional area and load to failure.",
+        "Cylindrical harvester quadriceps tendon grafts are stronger than bone-patellar tendon-bone but show more variability in maximum load than double-blade harvested grafts, which matters when consistent graft sizing is a priority.",
+        "For surgeons choosing quadriceps tendon autograft in ACL reconstruction, harvest technique directly affects graft dimensions and mechanical strength, favoring full-thickness double-blade harvest when maximizing structural capacity."
+      ]
+    },
+    {
+      "pmid": "42671295",
+      "title": "What Is the 5-year Survival of Patients With or Without Surgery in Spinal Metastatic Disease?",
+      "authors": [
+        "Striano BM",
+        "Holly KE",
+        "Schoenfeld AL",
+        "Osgood A",
+        "Coan JM",
+        "Cronin PK",
+        "Ferrone ML",
+        "Schoenfeld AJ",
+        "Tobert DG"
+      ],
+      "authors_short": "Striano BM, Holly KE, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Despite advances in imaging, nonoperative management, immunotherapy, and surgery over the last 15 years, sizable improvements in survival for patients with spinal metastases have not been observed. Older studies may no longer be accurate in light of rapid technological improvements. The performance of scoring utilities, such as the Skeletal Oncology Research Group (SORG) nomogram and the New England Spinal Metastasis Score (NESMS), has also not been investigated beyond the first year of treatment. QUESTIONS/PURPOSES: (1) What was the 5-year survival of patients who presented with spinal metastases and were treated with or without surgery according to contemporary indications, stratified by tumor type? (2) How effective were the SORG and NESMS at prognosticating survival up to 5 years after presentation? METHODS: We used our healthcare system's registry to identify patients treated operatively and nonoperatively for spinal metastatic disease (full surveillance inclusive of follow-up from January 1, 2017 to December 31, 2025). Data included in this study were drawn from two large, tertiary academic hospitals in a single major city, as well as from two local affiliate community hospitals. This study environment allowed for capturing a broad sample of tumor and treatment types, which is representative of the complex care associated with spinal metastatic disease. Query of the registry identified 997 patients; 71 patients were excluded because their initial presentation was < 5 years from the final data date; they were therefore ineligible for 5-year evaluation. Those whose initial presentation was < 5 years from study initiation, but had died, were maintained. One percent of patients (13 of 926) were eligible for 5-year follow-up but had an unknown vital status. Missing data were uncommon, with no variable having > 1% missingness. Sixty percent (551) of patients were treated with surgery. Overall, the surgical and nonoperative cohorts were comparable regarding demographic and clinical characteristics. Patients treated with surgery were slightly older than those treated nonoperatively (62 years versus 59 years; p < 0.01). The nonoperative cohort had a female predominance, whereas the surgical cohort did not (56% versus 43%; p < 0.001). Both cohorts had a median CCI score of 8 (p = 0.7). There were no differences in the use of immunotherapy between those treated with surgery (29%) and those treated with nonoperative care (27%; p = 0.6). We evaluated survival over the course of 5 years after presentation. In this registry, death is captured through a combination of medical record documentation as well as linkage to external state and federal sources. We performed multivariable Cox proportional hazards regression analysis for 5-year survival using each spinal metastasis prognostic score. The SORG is a prognostic score from 0 to 100 that represents the calculated probability of survival. NESMS ranges from 0 to 3, with higher scores representing a more favorable clinical state. Separate models were generated using SORG and NESMS as the primary explanatory variable, respectively. Both models adjusted for age, sex, race, comorbidity burden, immunotherapy, and surgical treatment. RESULTS: At the 5-year time point, the Kaplan-Meier survival estimate was 8.9% (95% confidence interval [CI] 7.2% to 10.9%). Patients with lung cancer demonstrated the lowest survival rate among the discrete tumor types at every time point. When accounting for age, sex, race, comorbidities, immunotherapy, and treatment type, the SORG score was associated with survival (HR 0.98 [95% CI 0.98 to 0.99]; p < 0.001), meaning that each single-point increase in SORG score was associated with a 2% decreased likelihood of mortality. When controlling for the same variables, the NESMS was also associated with 5-year survival (HR 0.61 [95% CI 0.56 to 0.66]; p < 0.001), meaning that each 1-point increase in SORG score was associated with 40% reduction in mortality. CONCLUSION: We present long-term survival for patients with spinal metastases in the modern period of spine oncology care, stratified by primary cancer type. Although mortality rates over time remain high, our study is the first to show that approximately 10% of patients will survive 5 years or longer. These data can aid in patient counseling as well as surgical decision-making. Understanding the 5-year survival forecast for patients with spinal metastases will help physicians tailor treatment decisions and can help surgeons prioritize minimizing surgical morbidity with shorter, simpler operations, when possible. Both the SORG and NESMS can be used to support long-term estimations regarding survival. LEVEL OF EVIDENCE: Level III, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42671295/",
+      "score": 70,
+      "score_reasoning": "Large CORR study developing a decision-analytic model for surgical technique adoption based on surgeon volume and learning curve\u2014novel methodological contribution with broad applicability across subspecialties.",
+      "bullets": [
+        "About 10% of patients with spinal metastases survive to 5 years, with lung cancer carrying the worst prognosis at every time point.",
+        "Both the SORG nomogram and NESMS scoring tools reliably predict survival beyond one year, supporting their use in long-term treatment planning.",
+        "For surgeons treating spinal metastases, these data reinforce prioritizing shorter, lower-morbidity operations given that most patients will not reach 5-year survival."
+      ]
+    },
+    {
+      "pmid": "42671177",
+      "title": "Nonarthroplasty Treatment Options for Management of Primary Elbow Osteoarthritis.",
+      "authors": [
+        "DeBernardis D",
+        "Joshi T",
+        "Virk MS"
+      ],
+      "authors_short": "DeBernardis D, Joshi T, Virk MS",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "Primary elbow osteoarthritis is a functionally limiting condition, predominantly affecting middle-aged men engaged in repetitive manual labor, and is characterized by pain, stiffness, and mechanical symptoms. Evaluation involves a detailed history focusing on pain, loss of motion, and mechanical symptoms, followed by clinical examination for range of motion deficits, crepitus, and instability. Radiographic assessment, including standard radiographs and, when indicated, computed tomography imaging, is essential for staging disease severity, identifying osteophytes, capsular contracture, and joint space narrowing. Initial management is nonsurgical, emphasizing activity modification, NSAIDs, physical therapy, and intra-articular corticosteroid injections. When conservative measures fail, surgical options include arthroscopic or open d\u00e9bridement, osteocapsular arthroplasty, and procedures such as the Outerbridge-Kashiwagi technique. Both arthroscopic and open approaches reliably improve pain, range of motion, and functional scores, with low complication rates. However, open procedures may yield greater flexion gains in select cases. Nonarthroplasty options for primary elbow arthritis encompass a spectrum from conservative management to arthroscopic and open surgical d\u00e9bridement, with treatment tailored to disease severity, patient age, and functional demands.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42671177/",
+      "score": 68,
+      "score_reasoning": "Large JBJS retrospective cohort (n=926) evaluating 5-year survival and prognostic score performance in spinal metastatic disease with contemporary treatment\u2014highly relevant for oncologic decision-making.",
+      "bullets": [
+        "Primary elbow osteoarthritis affects mainly middle-aged men doing repetitive manual labor, presenting with pain, stiffness, and mechanical symptoms.",
+        "When activity modification, NSAIDs, therapy, and corticosteroid injections fail, arthroscopic or open debridement reliably improves pain and motion with low complication rates.",
+        "Open debridement may achieve greater flexion gains than arthroscopic approaches in select patients, so surgical choice should be guided by disease severity and functional demands."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-09-07T08:31:02.811915-07:00"
+}
