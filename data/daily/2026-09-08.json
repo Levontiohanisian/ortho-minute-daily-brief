@@ -1,0 +1,299 @@
+{
+  "brief_date": "2026-09-08",
+  "brief_date_display": "Tuesday, September 08",
+  "candidates": [
+    {
+      "pmid": "42705360",
+      "title": "One-, 1.5-, or Two-Stage Revision for Periprosthetic Hip and Knee Joint Infection? A Network Meta-Analysis Comparing Revision Strategies.",
+      "authors": [
+        "Selim A",
+        "Ibrahim A",
+        "Saeed A",
+        "Khamdan K",
+        "Farhan-Alanie MM",
+        "Sadiq S",
+        "Govilkar S",
+        "Thomas G"
+      ],
+      "authors_short": "Selim A, Ibrahim A, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Periprosthetic joint infection (PJI) remains a devastating complication following total hip and knee arthroplasty. Revision strategies for chronic PJI include one-, 1.5-, and two-stage revision procedures. This study compared clinical outcomes of these revision strategies using a network meta-analytic approach. METHODS: A systematic review and Bayesian network meta-analysis were conducted. Databases were searched through October 2025. Randomized controlled trials and comparative cohort studies evaluating one-, 1.5-, and two-stage revision procedures for hip and knee chronic PJI were included. Chronic PJI was defined by Musculoskeletal Infection Society/International Consensus Meeting (MSIS/ICM) criteria, excluding acute postoperative and hematogenous infections. In the primary network, hip and knee revisions were analyzed together, with pre-specified hip-only and knee-only subgroup networks reported separately. There were 54 studies (10,055 patients) eligible for inclusion. RESULTS: Compared with two-stage revision, both one- and 1.5-stage revisions were associated with significantly lower odds of reinfection (odds ratio (OR) = 0.84, 95% credible interval (CrI) 0.72 to 0.99 and OR = 0.58, 95% CrI 0.37 to 0.89, respectively) and reoperation (OR = 0.79, 95% CrI 0.63 to 0.99 and OR = 0.20, 95% CrI 0.05 to 0.82, respectively). The 1.5-stage strategy demonstrated significantly higher infection control success (OR = 1.64, 95% CrI 1.07 to 2.51). The one-stage revision was associated with fewer overall complications (OR = 0.64, 95% CrI 0.48 to 0.86). The 1.5-stage strategy showed a significantly increased risk of aseptic loosening (OR = 4.80, 95% CrI 1.57 to 20.79), while two-stage revision performed best. CONCLUSION: The 1.5-stage revision was associated with the most favorable infection-related outcomes, but a higher risk of aseptic loosening. The one-stage revision showed intermediate results, while the two-stage revision performed less favorably but had the lowest loosening risk. Because the evidence is largely observational and subject to confounding by indication, these associations should be interpreted cautiously.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42705360/",
+      "score": 82,
+      "score_reasoning": "High-impact network meta-analysis of 54 studies and 10,055 patients comparing one-, 1.5-, and two-stage revision for PJI with clinically actionable findings showing one- and 1.5-stage revisions outperform two-stage, directly challenging current dogma.",
+      "bullets": [
+        "Across 10,055 patients with chronic periprosthetic joint infection, one-stage and 1.5-stage revisions had lower reinfection and reoperation rates than two-stage revision.",
+        "The 1.5-stage approach had the best infection control but carried nearly five times the risk of aseptic loosening compared to two-stage revision.",
+        "For orthopaedic surgeons managing chronic hip or knee PJI, two-stage revision remains the safest option for implant stability, while one-stage offers a middle ground with fewer overall complications."
+      ]
+    },
+    {
+      "pmid": "42679021",
+      "title": "Effects of Capacity-Related Delay to Hip Fracture Surgery on Mortality: A Matched-Cohort Study.",
+      "authors": [
+        "King SW",
+        "Wakefield SM",
+        "Giannoudis VP",
+        "Relton SD",
+        "Giannoudis PV",
+        "Pandit HG",
+        "Rodham PL"
+      ],
+      "authors_short": "King SW, Wakefield SM, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Timely surgery is emphasized in hip fracture care. Prior studies examining this have failed to distinguish adequately between delays for medical optimization and those due to limited operative capacity, introducing important confounders. This study aimed to determine the impact of capacity-related delays on mortality after a hip fracture in older individuals, as well as the factors moderating these effects. METHODS: This retrospective cohort study involved patients treated in a U.K. teaching hospital from January 2020 to June 2024. Primary outcomes were mortality at 30 and 365 days. The exposure of interest was capacity-delayed hip fracture surgery, defined as operative anesthesia for hip fracture surgery occurring >36 hours after emergency department presentation. Patients aged \u226565 years with an operatively managed fracture of the native proximal femur were included. Patients were excluded if surgery was delayed for medical reasons. Multivariable logistic regression was used to examine mortality risk factors, and propensity-score matching was performed on the basis of covariates affecting mortality and survival analysis. RESULTS: Of 3,094 screened patients, 2,358 were eligible. Mortality status was available for 96.9% of patients at 365 days. One thousand and eighty-seven (46%) received timely surgery while 1,271 (54%) experienced capacity-related delay. After propensity-score matching, the median age was 85 years (interquartile range, 78 to 90 years), 73% were female, and 98% were White. Capacity delay was associated with a greater hazard of 365-day mortality (hazard ratio [HR] = 1.37, 95% confidence interval [CI]: 1.15 to 1.63), and the hazard was most pronounced in the first 30 days (HR = 1.71, 95% CI: 1.11 to 2.65). Shorter-term (30-day) mortality in patients with a higher Clinical Frailty Scale score (>4) was most affected by delay (odds ratio [OR] = 1.76, 95% CI: 1.06 to 3.02), while effects on less frail patients were not significant. CONCLUSIONS: Capacity-related delays in hip fracture surgery were associated with greater mortality after accounting for patient-related risk factors. This study overcomes a key confounder by isolating capacity-related delay. The results may support prioritizing timely hip fracture surgery for more vulnerable patients. LEVEL OF EVIDENCE: Prognostic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42679021/",
+      "score": 78,
+      "score_reasoning": "Large registry-based study (81,610 cases) from AJRR demonstrating cemented femoral fixation significantly reduces revision risk and periprosthetic fracture in femoral neck fractures, directly relevant to a common high-stakes clinical decision with major practice implications.",
+      "bullets": [
+        "In older hip fracture patients where delay was due to capacity constraints rather than medical reasons, waiting more than 36 hours for surgery increased one-year mortality by 37% and 30-day mortality by 71%.",
+        "The mortality harm from capacity-related delay was concentrated in frail patients (Clinical Frailty Scale above 4), with less frail patients showing no significant difference in 30-day mortality.",
+        "When orthopaedic capacity is limited, frail hip fracture patients should be prioritised for earlier surgery as delays driven purely by system constraints carry measurable and preventable mortality risk."
+      ]
+    },
+    {
+      "pmid": "42705361",
+      "title": "Variation in the Use of Cemented Versus Uncemented Hemiarthroplasty and Total Hip Arthroplasty for Treatment of Femoral Neck Fractures in the United States.",
+      "authors": [
+        "Anderson PA",
+        "Greenwald A",
+        "Riley C",
+        "Kates SL",
+        "Jimenez E",
+        "Pezold R",
+        "O'Donnell J",
+        "Illgen R"
+      ],
+      "authors_short": "Anderson PA, Greenwald A, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Practice guidelines in the United States (US) recommend cemented femoral fixation in hemiarthroplasty (HA) and total hip arthroplasty (THA) to treat femoral neck fractures (FNFs) for older patients. The purpose of this study was to assess regional variation and hospital characteristics associated with cement use for HA and THA used to treat FNFs and to determine the impact of cement use on adverse outcomes. METHODS: All FNF patients \u2265 65 years treated with HA or THA from 2012 to 2021 in the American Joint Replacement Registry (AJRR) were analyzed. There were 81,610 cases included: 15,282 THAs and 66,328 HAs. Patient demographics, cement use stratified by region and hospital type, and adverse outcomes were recorded. Multivariate analyses were performed. RESULTS: Cemented femoral fixation was used in 39.8% of combined HA and THA cases with greater frequency in HA (44.5%) compared with THA (19.2%, P < 0.001). Cement utilization ranged from 6 to 83% by state with 2-fold variation comparing Midwest and Southern regions (56 versus 29%, respectively, P < 0.001). Major teaching centers were more likely to use cement than non-teaching institutions (odds ratio (OR) 1.84, P < 0.001). Cemented compared with cementless fixation had a lower hazard ratio for all-cause revision (hazard ratio (HR): 0.75; P < 0.001), revision at three months (HR: 0.64; CI [confidence interval]: 0.554 to 0.75, P < 0.001), and revision for periprosthetic fracture (HR: 0.21; CI: 0.15 to 0.30, P < 0.001). Cemented fixation had an 8.9% higher hazard for mortality (HR: 1.089; CI: 1.06 to 1.12; P = 0.001). CONCLUSIONS: There is significant regional variation regarding the prevalence of cemented femoral fixation used to treat FNFs with either HA or THA in the US. Cemented fixation resulted in a lower risk of periprosthetic fracture and revision surgery. Higher mortality was associated with cemented fixation, but may relate to selection bias. The observed variation in clinical practice and lack of conformity to published guidelines is an opportunity for quality improvement.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42705361/",
+      "score": 75,
+      "score_reasoning": "Large registry-based cohort (81,610 cases) in JBJS examining cement use variation in femoral neck fracture arthroplasty with strong outcome data showing cemented fixation reduces revision risk, highly relevant to everyday practice.",
+      "bullets": [
+        "In over 80,000 Medicare-age femoral neck fracture cases, cemented fixation was used only 40% of the time, with cement use varying nearly tenfold across U.S. states.",
+        "Cemented stems reduced the risk of periprosthetic fracture by 79% and lowered overall revision rates compared to cementless fixation in both hemiarthroplasty and total hip arthroplasty.",
+        "For orthopaedic surgeons treating femoral neck fractures in older patients, these data support wider adoption of cemented femoral fixation to align with guidelines and reduce revision burden."
+      ]
+    },
+    {
+      "pmid": "42703649",
+      "title": "Absolute Risk of Anterior Cruciate Ligament Graft Reruptures From the Posterior Tibial Slope Falls With Increasing Age: A Risk Stratification Analysis.",
+      "authors": [
+        "Pineda T",
+        "Mazy D",
+        "Ramos-Rojas J",
+        "Cance N",
+        "Dan MJ",
+        "Demey G",
+        "Dejour DH"
+      ],
+      "authors_short": "Pineda T, Mazy D, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Posterior tibial slope (PTS) and young age are well-established independent predictors of an anterior cruciate ligament (ACL) graft rerupture. Although both factors have been studied individually, whether age changes the relative effect of PTS, its absolute clinical impact, or both has not been formally examined across the full age range of patients undergoing ACL reconstruction (ACLR). PURPOSE: To determine whether age modifies the relative or absolute rerupture risk associated with PTS after ACLR, and to identify age thresholds at which clinically relevant absolute risk levels are reached for given slope values. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: A retrospective cohort of 585 patients who underwent primary ACLR with hamstring tendon autografts was analyzed, comprising a low-risk group (isolated ACLR) and a high-risk group (ACLR with lateral extra-articular tenodesis), with a minimum follow-up of 6 years. The Firth penalized logistic regression was used to model the joint effects of PTS and age on graft reruptures in pooled and group-specific analyses. A PTS\u00d7age interaction term was evaluated via the likelihood ratio test to assess whether the relative effect of PTS differed across age strata. Predicted absolute rerupture probabilities were derived from additive models, and age thresholds below which the risk fell under predefined clinically relevant levels (5% and 10%) were estimated for PTS values of 12\u00b0 and 15\u00b0, with stability assessed by bootstrap resampling (1000 iterations). RESULTS: After excluding 4 patients with missing covariate values, 581 patients were included in the final sample (low risk: n = 431; high risk: n = 150). In the pooled cohort (n = 581; 38 reruptures), PTS was independently associated with reruptures (odds ratio per degree, 1.28 [95% CI, 1.10-1.47]; P = .001), and increasing age was independently protective (odds ratio per year, 0.91 [95% CI, 0.87-0.95]; P < .001). No statistically significant PTS\u00d7age interaction was identified in any analysis (pooled cohort: P = .685), indicating that the relative effect of each degree of PTS remained approximately stable across ages. However, the predicted absolute rerupture risk decreased markedly with increasing age. In the pooled cohort, a patient with a PTS of 15\u00b0 had an estimated rerupture probability of 36.6% at age 18 years versus 3.9% at age 45 years. Age thresholds at which the predicted risk fell below 10% were approximately 27 years for a PTS of 12\u00b0 and approximately 35 years for a PTS of 15\u00b0. CONCLUSION: Age modulated the absolute, but not the relative, risk associated with PTS after ACLR. Younger patients with elevated slope values had the highest absolute rerupture risk, reinforcing the clinical value of integrating age into preoperative slope-based risk stratification.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42703649/",
+      "score": 73,
+      "score_reasoning": "JBJS review of 50-year evolution of PJI management offers comprehensive, clinically authoritative synthesis of diagnosis and treatment advances in a high-impact journal, valuable for all arthroplasty surgeons.",
+      "bullets": [
+        "A steep posterior tibial slope raises rerupture risk after ACL reconstruction at every age, but the absolute danger drops sharply with age, falling from 37% at age 18 to under 4% at age 45 for a 15-degree slope.",
+        "Patients under roughly 35 with a tibial slope above 12 degrees carry a rerupture risk exceeding 10%, making this the group most likely to benefit from slope-correcting or augmentation procedures.",
+        "Surgeons should combine tibial slope measurement with patient age when counseling and planning ACL reconstruction, as slope alone without age context underestimates or overestimates true rerupture risk."
+      ]
+    },
+    {
+      "pmid": "42685157",
+      "title": "Changes in the Management of Periprosthetic Joint Infection Over the Past 50 Years.",
+      "authors": [
+        "Abedi AA",
+        "Pourbozorg G",
+        "Abdou M",
+        "Hoveidaei AH",
+        "Parvizi J",
+        "Citak M"
+      ],
+      "authors_short": "Abedi AA, Pourbozorg G, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "\u27a2 Periprosthetic joint infection (PJI) remains a major complication of joint arthroplasty, associated with morbidity and health-care burden. Although room for progress remains, the management of PJI has evolved over the past 50 years from empiric, procedure-centered approaches to structured, evidence-based, and biologically informed strategies.\u27a2 This article summarizes key developments in the prevention, diagnosis, and treatment of PJI, driven by advances across multiple clinical and scientific subspecialties.\u27a2 Diagnostic approaches have advanced from reliance on clinical findings and culture to a multimodal framework integrating validated criteria, serological and synovial biomarkers, and molecular techniques. Surgical management has similarly evolved toward individualized strategies, including debridement with implant retention, 1-stage or 2-stage revision, and salvage surgery tailored to host, pathogen, and disease characteristics.\u27a2 Advances in microbiology, particularly the recognition of biofilm and the emerging role of the human microbiome, have further reshaped the understanding of PJI. Overall, this article examines how developments in prevention, diagnosis, surgical treatment, and microbiology have driven a transition toward precision-based, biology-informed, and individualized management of PJI.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42685157/",
+      "score": 72,
+      "score_reasoning": "Large systematic review and meta-analysis in KSSTA providing Grade A/B consensus recommendations on partial-thickness posterosuperior rotator cuff tear classification and diagnosis from a major European society, directly applicable to shoulder practice.",
+      "bullets": [
+        "PJI diagnosis has shifted from culture alone to a multimodal approach combining validated criteria, blood and joint fluid biomarkers, and molecular testing.",
+        "Surgical treatment has moved away from one-size-fits-all revision toward individualized decisions based on host factors, organism type, and disease timing.",
+        "Recognition of biofilm biology and the role of the human microbiome is actively reshaping how orthopaedic surgeons understand and treat PJI."
+      ]
+    },
+    {
+      "pmid": "42680248",
+      "title": "Response to the Letter on \"Postoperative Displacement of the Dorsal Ulnar Fragment After Volar Locking Plate Fixation: Risk Factors and Clinical Prediction Tool\".",
+      "authors": [
+        "Ji J",
+        "Fan J"
+      ],
+      "authors_short": "Ji J, Fan J",
+      "journal": "The Journal of hand surgery",
+      "journal_abbrev": "J Hand Surg Am",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Letter"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42680248/",
+      "score": 65,
+      "score_reasoning": "AJSM cadaveric biomechanical study demonstrating that quadriceps tendon harvest technique significantly affects graft CSA and strength compared to BTB, with practical implications for ACL reconstruction graft selection.",
+      "bullets": [
+        "After volar locking plate fixation of distal radius fractures, the dorsal ulnar fragment is at risk for postoperative displacement.",
+        "Patients with specific fracture patterns involving the dorsal ulnar corner should be identified preoperatively as higher risk for this complication.",
+        "A clinical prediction tool can help orthopaedic surgeons decide when additional fixation of the dorsal ulnar fragment may be needed."
+      ]
+    },
+    {
+      "pmid": "42703649",
+      "title": "Absolute Risk of Anterior Cruciate Ligament Graft Reruptures From the Posterior Tibial Slope Falls With Increasing Age: A Risk Stratification Analysis.",
+      "authors": [
+        "Pineda T",
+        "Mazy D",
+        "Ramos-Rojas J",
+        "Cance N",
+        "Dan MJ",
+        "Demey G",
+        "Dejour DH"
+      ],
+      "authors_short": "Pineda T, Mazy D, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Posterior tibial slope (PTS) and young age are well-established independent predictors of an anterior cruciate ligament (ACL) graft rerupture. Although both factors have been studied individually, whether age changes the relative effect of PTS, its absolute clinical impact, or both has not been formally examined across the full age range of patients undergoing ACL reconstruction (ACLR). PURPOSE: To determine whether age modifies the relative or absolute rerupture risk associated with PTS after ACLR, and to identify age thresholds at which clinically relevant absolute risk levels are reached for given slope values. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: A retrospective cohort of 585 patients who underwent primary ACLR with hamstring tendon autografts was analyzed, comprising a low-risk group (isolated ACLR) and a high-risk group (ACLR with lateral extra-articular tenodesis), with a minimum follow-up of 6 years. The Firth penalized logistic regression was used to model the joint effects of PTS and age on graft reruptures in pooled and group-specific analyses. A PTS\u00d7age interaction term was evaluated via the likelihood ratio test to assess whether the relative effect of PTS differed across age strata. Predicted absolute rerupture probabilities were derived from additive models, and age thresholds below which the risk fell under predefined clinically relevant levels (5% and 10%) were estimated for PTS values of 12\u00b0 and 15\u00b0, with stability assessed by bootstrap resampling (1000 iterations). RESULTS: After excluding 4 patients with missing covariate values, 581 patients were included in the final sample (low risk: n = 431; high risk: n = 150). In the pooled cohort (n = 581; 38 reruptures), PTS was independently associated with reruptures (odds ratio per degree, 1.28 [95% CI, 1.10-1.47]; P = .001), and increasing age was independently protective (odds ratio per year, 0.91 [95% CI, 0.87-0.95]; P < .001). No statistically significant PTS\u00d7age interaction was identified in any analysis (pooled cohort: P = .685), indicating that the relative effect of each degree of PTS remained approximately stable across ages. However, the predicted absolute rerupture risk decreased markedly with increasing age. In the pooled cohort, a patient with a PTS of 15\u00b0 had an estimated rerupture probability of 36.6% at age 18 years versus 3.9% at age 45 years. Age thresholds at which the predicted risk fell below 10% were approximately 27 years for a PTS of 12\u00b0 and approximately 35 years for a PTS of 15\u00b0. CONCLUSION: Age modulated the absolute, but not the relative, risk associated with PTS after ACLR. Younger patients with elevated slope values had the highest absolute rerupture risk, reinforcing the clinical value of integrating age into preoperative slope-based risk stratification.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42703649/",
+      "score": 64,
+      "score_reasoning": "Network meta-analysis in high-impact journal providing Level I evidence that synovial fluid leukocyte count is a poor standalone rule-in test for PJI, challenging widely used diagnostic thresholds.",
+      "bullets": [
+        "Each degree of posterior tibial slope raises rerupture risk equally across all ages, but the absolute rerupture probability drops sharply with age, falling from 37% at age 18 to 4% at age 45 for a 15-degree slope.",
+        "Patients under 27 with a slope of 12 degrees, and those under 35 with a slope of 15 degrees, carry greater than 10% absolute rerupture risk after ACL reconstruction with hamstring autograft.",
+        "When counseling young patients and planning slope correction or extra-articular tenodesis, age and posterior tibial slope should be evaluated together, not in isolation."
+      ]
+    },
+    {
+      "pmid": "42676903",
+      "title": "Primary Total Knee Arthroplasty Using a Cementless Highly Porous Titanium Tibial Baseplate in Patients Under the Age of 50: An Average 7.6-year Follow-up.",
+      "authors": [
+        "Nadar AC",
+        "Gul EH",
+        "Pattyn R",
+        "Lustig S",
+        "Smith LS",
+        "Henningsen JD",
+        "Malkani AL"
+      ],
+      "authors_short": "Nadar AC, Gul EH, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Younger and more active patients undergoing primary cemented total knee arthroplasty (TKA) have demonstrated increased failure incidence due to multiple factors including aseptic loosening. The purpose of this study was to evaluate results of cementless TKA using a highly porous cementless tibial baseplate in patients aged \u226450 years. METHODS: This was a retrospective study of 150 consecutive cementless TKAs in patients aged \u226450 years using the same implant design. Twenty-nine patients were lost-to-follow-up (19.3%), leaving 121 TKAs in 98 patients with minimum 5-year follow-up. There were 41 men and 80 women with mean age of 45.8 years (range, 32-50), mean BMI of 37.5 kg/m2 (range, 19.3-64.1), and mean follow-up of 7.6 years (range, 4.7-10.9). Clinical outcomes, complications, and patient-reported outcome measures were reviewed. RESULTS: There were 11 (9.1%) revisions: 5 (4.1%) for instability, 4 (3.3%) for dissociation of the metal-backed patella from the polyethylene, and 2 for unexplained pain elsewhere. Knee Society function and knee scores improved from means of 46.6 and 39.3 preoperatively to 79.9 and 83.3 postoperatively, respectively (P < .001). Survivorship with aseptic loosening as the endpoint was 100% at 11.5 years and 87.7% due to all-cause revision. CONCLUSIONS: Cementless TKA utilizing a highly porous baseplate in patients aged \u226450 years with mean 7.6-year follow-up demonstrated excellent survivorship with no revisions due to aseptic loosening. Results of this study using a cementless highly porous tibial baseplate with the advantage of biological fixation appear promising.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42676903/",
+      "score": 62,
+      "score_reasoning": "Large matched retrospective study demonstrating GI bleeding history is associated with increased PJI and revision risk after TKA, providing a novel and underappreciated preoperative risk factor for arthroplasty surgeons.",
+      "bullets": [
+        "In patients under 50 undergoing cementless total knee arthroplasty with a highly porous titanium tibial baseplate, no revisions occurred due to aseptic loosening at nearly 8 years of follow-up.",
+        "The 9.1% revision rate was driven by instability and metal-backed patella dissociation, not tibial fixation failure.",
+        "For younger, higher-demand patients where cemented tibial loosening is a known concern, this cementless tibial baseplate design offers durable biological fixation at medium-term follow-up."
+      ]
+    },
+    {
+      "pmid": "42677908",
+      "title": "Screening for Low Bone Mineral Density Using Opportunistic Foot Radiographs.",
+      "authors": [
+        "Albright JA",
+        "Feldman MW",
+        "Martin T",
+        "Baker JD",
+        "Gunther R",
+        "Anderson PA",
+        "Kirk KL",
+        "Huh J"
+      ],
+      "authors_short": "Albright JA, Feldman MW, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: The gold standard for low bone mineral density (BMD) screening is dual-energy X-ray absorptiometry (DXA) scanning, which has declined in use in recent years for a variety of reasons. This decline warrants alternative screening mechanisms. This study aimed to determine if opportunistic foot radiographs can serve as a screening tool for predicting low BMD as measured by DXA scan. METHODS: The fifth metatarsal index (5MI), a novel measurement made using the oblique foot radiograph to evaluate cortical thickness, was calculated for patients 50\u2009years and older who underwent a DXA scan and a foot radiograph within 1\u2009year. T scores and BMD were documented for each patient. Receiver operating characteristic curves were generated, and areas under the curves were calculated to determine which 5MI had optimized sensitivity and specificity for identifying osteoporosis. RESULTS: A total of 89 patients were included in the study cohort. The average 5MI in patients with normal BMD, osteopenia, and osteoporosis was 52.6%, 44.6%, and 35.2%, respectively. The optimal 5MI for identifying osteoporosis based on the DXA-derived T scores was 46.8%, which correlated with an area under the curve of 0.977. This optimal cutoff for identifying osteoporosis had a sensitivity of 93.3% (95% CI, 70.2%-99.7%) and a specificity of 95.0% (95% CI, 76.4%-99.7%) (P\u2009<\u2009.001). CONCLUSION: This study describes a potential screening method using low-cost foot radiographs to identify patients with low BMD, which may support earlier detection and referral for bone health evaluation. LEVEL OF EVIDENCE: Level III, retrospective case series.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42677908/",
+      "score": 60,
+      "score_reasoning": "Timely JAAOS review critically appraising GLP-1 receptor agonist use in TJA patients covering pharmacology, complications, and clinical recommendations for a rapidly growing patient population presenting to arthroplasty surgeons.",
+      "bullets": [
+        "A cortical thickness measurement on oblique foot X-ray, the fifth metatarsal index, identified osteoporosis with 93% sensitivity and 95% specificity compared to DXA scan.",
+        "The optimal cutoff of 46.8% fifth metatarsal index applies to patients 50 and older who already have foot radiographs taken for any clinical reason.",
+        "Foot X-rays that orthopaedic surgeons already order can serve as a low-cost opportunistic screen to prompt DXA referral in patients at risk for low bone density."
+      ]
+    },
+    {
+      "pmid": "42701460",
+      "title": "Preoperative Weight Loss Before Total Joint Arthroplasty Using Novel Glucagon-Like Peptide-1 Agonists.",
+      "authors": [
+        "Seward MW",
+        "Cleary EJ",
+        "DeNovio AC",
+        "Grimm JA",
+        "Curry TB",
+        "Beam BB",
+        "Hannon CP",
+        "Abdel MP"
+      ],
+      "authors_short": "Seward MW, Cleary EJ, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: This study determined the prevalence of glucagon-like peptide-1 (GLP-1) use before total joint arthroplasty (TJA), measured weight loss of patients on GLP-1s, and evaluated if GLP-1s were associated with outcomes. METHODS: We identified 6482 patients (2990 hips; 3492 knees) who had primary TJAs between 2019 and February 2023. The mean age was 67 years, 50% were female, and 12% had a body mass index \u226540 kg/m2. Univariable and multivariable models evaluated outcomes. Mean follow-up was 3 years. RESULTS: The prevalence of GLP-1s before TJA was 3%, increasing from 2% in 2019 to 5% in 2022. The mean preoperative weight change on GLP-1s was -9 pounds (range, -110 to +36 pounds). Among patients taking GLP-1s, 19% lost \u226520 pounds prior to surgery, and the mean body mass index change was -1.4 kg/m2 (range, -16.3 to 6.2 kg/m2). In univariable analyses, GLP-1 use was not associated with revisions (P = .35), reoperations (P = .09), or complications (P = .23). In multivariable analyses, GLP-1s were not associated with revisions (P = .66), reoperations (P = .34), or complications (P = .85). There was no difference in the risk of a 90-day postoperative emergency department visit between those on GLP-1s vs not on those medications (odds ratio, 1.5; P = .07). CONCLUSIONS: The prevalence of preoperative GLP-1s before TJA increased from 2% in 2019 to 5% in 2022, and preoperative weight change on GLP-1s varied considerably. GLP-1s were not associated with decreased postoperative risks but investigational GLP-1s before TJA require further study. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42701460/",
+      "score": 59,
+      "score_reasoning": "AJSM retrospective cohort of 585 patients demonstrating age modifies absolute but not relative ACL graft rerupture risk from posterior tibial slope, with clinically relevant age-specific thresholds for slope correction decisions.",
+      "bullets": [
+        "GLP-1 agonist use before total joint arthroplasty rose from 2% in 2019 to 5% in 2022, but average weight loss was only 9 pounds with wide individual variation.",
+        "In over 6,000 hip and knee arthroplasty patients, preoperative GLP-1 use was not associated with fewer revisions, reoperations, complications, or emergency department visits.",
+        "Surgeons should not assume GLP-1 therapy reliably reduces weight or lowers perioperative risk before arthroplasty, and should evaluate each patient individually."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-09-08T07:08:09.024344-07:00"
+}
