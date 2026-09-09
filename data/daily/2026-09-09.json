@@ -1,0 +1,305 @@
+{
+  "brief_date": "2026-09-09",
+  "brief_date_display": "Wednesday, September 09",
+  "candidates": [
+    {
+      "pmid": "42705360",
+      "title": "One-, 1.5-, or Two-Stage Revision for Periprosthetic Hip and Knee Joint Infection? A Network Meta-Analysis Comparing Revision Strategies.",
+      "authors": [
+        "Selim A",
+        "Ibrahim A",
+        "Saeed A",
+        "Khamdan K",
+        "Farhan-Alanie MM",
+        "Sadiq S",
+        "Govilkar S",
+        "Thomas G"
+      ],
+      "authors_short": "Selim A, Ibrahim A, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Periprosthetic joint infection (PJI) remains a devastating complication following total hip and knee arthroplasty. Revision strategies for chronic PJI include one-, 1.5-, and two-stage revision procedures. This study compared clinical outcomes of these revision strategies using a network meta-analytic approach. METHODS: A systematic review and Bayesian network meta-analysis were conducted. Databases were searched through October 2025. Randomized controlled trials and comparative cohort studies evaluating one-, 1.5-, and two-stage revision procedures for hip and knee chronic PJI were included. Chronic PJI was defined by Musculoskeletal Infection Society/International Consensus Meeting (MSIS/ICM) criteria, excluding acute postoperative and hematogenous infections. In the primary network, hip and knee revisions were analyzed together, with pre-specified hip-only and knee-only subgroup networks reported separately. There were 54 studies (10,055 patients) eligible for inclusion. RESULTS: Compared with two-stage revision, both one- and 1.5-stage revisions were associated with significantly lower odds of reinfection (odds ratio (OR) = 0.84, 95% credible interval (CrI) 0.72 to 0.99 and OR = 0.58, 95% CrI 0.37 to 0.89, respectively) and reoperation (OR = 0.79, 95% CrI 0.63 to 0.99 and OR = 0.20, 95% CrI 0.05 to 0.82, respectively). The 1.5-stage strategy demonstrated significantly higher infection control success (OR = 1.64, 95% CrI 1.07 to 2.51). The one-stage revision was associated with fewer overall complications (OR = 0.64, 95% CrI 0.48 to 0.86). The 1.5-stage strategy showed a significantly increased risk of aseptic loosening (OR = 4.80, 95% CrI 1.57 to 20.79), while two-stage revision performed best. CONCLUSION: The 1.5-stage revision was associated with the most favorable infection-related outcomes, but a higher risk of aseptic loosening. The one-stage revision showed intermediate results, while the two-stage revision performed less favorably but had the lowest loosening risk. Because the evidence is largely observational and subject to confounding by indication, these associations should be interpreted cautiously.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42705360/",
+      "score": 88,
+      "score_reasoning": "High-impact network meta-analysis of 54 studies/10,055 patients comparing one-, 1.5-, and two-stage PJI revision strategies with actionable findings showing one- and 1.5-stage revisions outperform two-stage, directly challenging current practice paradigms.",
+      "bullets": [
+        "Across 10,055 patients with chronic periprosthetic joint infection, both one-stage and 1.5-stage revision had lower reinfection and reoperation rates than two-stage revision.",
+        "The 1.5-stage approach showed the best infection control but carried nearly five times the risk of aseptic loosening compared to two-stage revision.",
+        "For surgeons choosing a revision strategy in chronic hip or knee periprosthetic joint infection, two-stage revision remains the safest option for implant durability despite inferior infection control."
+      ]
+    },
+    {
+      "pmid": "42705361",
+      "title": "Variation in the Use of Cemented Versus Uncemented Hemiarthroplasty and Total Hip Arthroplasty for Treatment of Femoral Neck Fractures in the United States.",
+      "authors": [
+        "Anderson PA",
+        "Greenwald A",
+        "Riley C",
+        "Kates SL",
+        "Jimenez E",
+        "Pezold R",
+        "O'Donnell J",
+        "Illgen R"
+      ],
+      "authors_short": "Anderson PA, Greenwald A, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Practice guidelines in the United States (US) recommend cemented femoral fixation in hemiarthroplasty (HA) and total hip arthroplasty (THA) to treat femoral neck fractures (FNFs) for older patients. The purpose of this study was to assess regional variation and hospital characteristics associated with cement use for HA and THA used to treat FNFs and to determine the impact of cement use on adverse outcomes. METHODS: All FNF patients \u2265 65 years treated with HA or THA from 2012 to 2021 in the American Joint Replacement Registry (AJRR) were analyzed. There were 81,610 cases included: 15,282 THAs and 66,328 HAs. Patient demographics, cement use stratified by region and hospital type, and adverse outcomes were recorded. Multivariate analyses were performed. RESULTS: Cemented femoral fixation was used in 39.8% of combined HA and THA cases with greater frequency in HA (44.5%) compared with THA (19.2%, P < 0.001). Cement utilization ranged from 6 to 83% by state with 2-fold variation comparing Midwest and Southern regions (56 versus 29%, respectively, P < 0.001). Major teaching centers were more likely to use cement than non-teaching institutions (odds ratio (OR) 1.84, P < 0.001). Cemented compared with cementless fixation had a lower hazard ratio for all-cause revision (hazard ratio (HR): 0.75; P < 0.001), revision at three months (HR: 0.64; CI [confidence interval]: 0.554 to 0.75, P < 0.001), and revision for periprosthetic fracture (HR: 0.21; CI: 0.15 to 0.30, P < 0.001). Cemented fixation had an 8.9% higher hazard for mortality (HR: 1.089; CI: 1.06 to 1.12; P = 0.001). CONCLUSIONS: There is significant regional variation regarding the prevalence of cemented femoral fixation used to treat FNFs with either HA or THA in the US. Cemented fixation resulted in a lower risk of periprosthetic fracture and revision surgery. Higher mortality was associated with cemented fixation, but may relate to selection bias. The observed variation in clinical practice and lack of conformity to published guidelines is an opportunity for quality improvement.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42705361/",
+      "score": 85,
+      "score_reasoning": "Large registry study (81,610 cases) from AJRR with strong clinical relevance demonstrating cemented femoral fixation reduces revision risk by 25% and periprosthetic fracture risk by 79% in femoral neck fractures, addressing a critical practice variation issue.",
+      "bullets": [
+        "In over 81,000 hip fracture patients aged 65 and older, cemented femoral fixation reduced the risk of revision surgery by 25% and periprosthetic fracture risk by 79% compared to cementless fixation.",
+        "Despite guideline recommendations favoring cement in older femoral neck fracture patients, only 40% of US cases used cemented fixation, with state-level rates ranging from 6% to 83%.",
+        "Surgeons treating older femoral neck fracture patients with hemiarthroplasty or total hip arthroplasty should be aware that cementless fixation carries significantly higher revision and periprosthetic fracture rates, and that current US practice widely underuses cement."
+      ]
+    },
+    {
+      "pmid": "42679021",
+      "title": "Effects of Capacity-Related Delay to Hip Fracture Surgery on Mortality: A Matched-Cohort Study.",
+      "authors": [
+        "King SW",
+        "Wakefield SM",
+        "Giannoudis VP",
+        "Relton SD",
+        "Giannoudis PV",
+        "Pandit HG",
+        "Rodham PL"
+      ],
+      "authors_short": "King SW, Wakefield SM, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Timely surgery is emphasized in hip fracture care. Prior studies examining this have failed to distinguish adequately between delays for medical optimization and those due to limited operative capacity, introducing important confounders. This study aimed to determine the impact of capacity-related delays on mortality after a hip fracture in older individuals, as well as the factors moderating these effects. METHODS: This retrospective cohort study involved patients treated in a U.K. teaching hospital from January 2020 to June 2024. Primary outcomes were mortality at 30 and 365 days. The exposure of interest was capacity-delayed hip fracture surgery, defined as operative anesthesia for hip fracture surgery occurring >36 hours after emergency department presentation. Patients aged \u226565 years with an operatively managed fracture of the native proximal femur were included. Patients were excluded if surgery was delayed for medical reasons. Multivariable logistic regression was used to examine mortality risk factors, and propensity-score matching was performed on the basis of covariates affecting mortality and survival analysis. RESULTS: Of 3,094 screened patients, 2,358 were eligible. Mortality status was available for 96.9% of patients at 365 days. One thousand and eighty-seven (46%) received timely surgery while 1,271 (54%) experienced capacity-related delay. After propensity-score matching, the median age was 85 years (interquartile range, 78 to 90 years), 73% were female, and 98% were White. Capacity delay was associated with a greater hazard of 365-day mortality (hazard ratio [HR] = 1.37, 95% confidence interval [CI]: 1.15 to 1.63), and the hazard was most pronounced in the first 30 days (HR = 1.71, 95% CI: 1.11 to 2.65). Shorter-term (30-day) mortality in patients with a higher Clinical Frailty Scale score (>4) was most affected by delay (odds ratio [OR] = 1.76, 95% CI: 1.06 to 3.02), while effects on less frail patients were not significant. CONCLUSIONS: Capacity-related delays in hip fracture surgery were associated with greater mortality after accounting for patient-related risk factors. This study overcomes a key confounder by isolating capacity-related delay. The results may support prioritizing timely hip fracture surgery for more vulnerable patients. LEVEL OF EVIDENCE: Prognostic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42679021/",
+      "score": 83,
+      "score_reasoning": "Well-designed propensity-matched cohort study (2,358 patients) from JBJS demonstrating capacity-related surgical delay beyond 36 hours significantly increases 30-day and 365-day mortality after hip fracture, with direct policy implications for surgical scheduling.",
+      "bullets": [
+        "In older hip fracture patients where surgery was delayed beyond 36 hours due to capacity alone, one-year mortality was 37% higher and 30-day mortality was 71% higher compared to those treated on time.",
+        "The mortality harm from delay was concentrated in frail patients (Clinical Frailty Scale above 4), with no significant effect seen in less frail individuals.",
+        "When theatre capacity is limited, prioritising frail hip fracture patients for earlier surgery may reduce preventable deaths."
+      ]
+    },
+    {
+      "pmid": "42680248",
+      "title": "Response to the Letter on \"Postoperative Displacement of the Dorsal Ulnar Fragment After Volar Locking Plate Fixation: Risk Factors and Clinical Prediction Tool\".",
+      "authors": [
+        "Ji J",
+        "Fan J"
+      ],
+      "authors_short": "Ji J, Fan J",
+      "journal": "The Journal of hand surgery",
+      "journal_abbrev": "J Hand Surg Am",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Letter"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42680248/",
+      "score": 80,
+      "score_reasoning": "Cadaveric biomechanical study in AJSM directly comparing BTB versus quadriceps tendon harvest techniques with ultrasound CSA reliability data, providing immediately applicable graft selection guidance for ACL reconstruction surgeons.",
+      "bullets": [
+        "After volar locking plate fixation of distal radius fractures, the dorsal ulnar fragment is at risk for postoperative displacement.",
+        "Surgeons should assess specific risk factors preoperatively to identify patients likely to have this complication.",
+        "A clinical prediction tool can help guide fixation planning and follow-up intensity for at-risk patients."
+      ]
+    },
+    {
+      "pmid": "42696559",
+      "title": "Global Perspectives on the Care Gap in Fragility Fracture Management: Bridging Evidence and Clinical Practice.",
+      "authors": [
+        "Tabu I",
+        "Armstrong E",
+        "Costa ML",
+        "Frihagen F",
+        "Magaziner J",
+        "Lee JK",
+        "Sawaguchi T"
+      ],
+      "authors_short": "Tabu I, Armstrong E, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "\u27a2 Fragility fracture care remains suboptimal worldwide despite strong evidence supporting timely surgery, orthogeriatric care, early mobilization, unrestricted weight-bearing, and secondary fracture prevention.\u27a2 International quality standards and registry-based audits have translated this evidence into measurable indicators that improve care in many high-income health-care systems.\u27a2 Implementation in low- and middle-income countries (LMICs) is limited primarily by health-system constraints, including workforce shortages, delayed presentation, limited infrastructure, and fragmented care pathways, rather than by lack of evidence.\u27a2 Emerging initiatives demonstrate that evidence-based quality standards can be successfully adapted to local contexts while preserving their core clinical principles.\u27a2 Orthopaedic surgeons have a central role in leading multidisciplinary care, promoting secondary fracture prevention, and driving quality improvement across the entire fragility fracture pathway.\u27a2 Future progress depends on strengthening health systems, embedding auditing and certification programs, and implementing context-sensitive quality standards that bridge the gap between evidence and routine.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42696559/",
+      "score": 77,
+      "score_reasoning": "Prospective JBJS review with clear bullet-point takeaways on the global fragility fracture care gap, synthesizing evidence-based quality standards applicable to any orthopaedic practice treating elderly patients with fragility fractures.",
+      "bullets": [
+        "Fragility fracture care remains suboptimal globally despite strong evidence supporting early surgery, orthogeriatric co-management, early mobilisation, and secondary fracture prevention.",
+        "In low- and middle-income countries, the barrier to better care is health system capacity, including workforce gaps and delayed presentation, not a lack of evidence.",
+        "Orthopaedic surgeons are expected to lead multidisciplinary fragility fracture pathways and drive secondary prevention, making their role extend well beyond the operating room."
+      ]
+    },
+    {
+      "pmid": "42703649",
+      "title": "Absolute Risk of Anterior Cruciate Ligament Graft Reruptures From the Posterior Tibial Slope Falls With Increasing Age: A Risk Stratification Analysis.",
+      "authors": [
+        "Pineda T",
+        "Mazy D",
+        "Ramos-Rojas J",
+        "Cance N",
+        "Dan MJ",
+        "Demey G",
+        "Dejour DH"
+      ],
+      "authors_short": "Pineda T, Mazy D, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Posterior tibial slope (PTS) and young age are well-established independent predictors of an anterior cruciate ligament (ACL) graft rerupture. Although both factors have been studied individually, whether age changes the relative effect of PTS, its absolute clinical impact, or both has not been formally examined across the full age range of patients undergoing ACL reconstruction (ACLR). PURPOSE: To determine whether age modifies the relative or absolute rerupture risk associated with PTS after ACLR, and to identify age thresholds at which clinically relevant absolute risk levels are reached for given slope values. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: A retrospective cohort of 585 patients who underwent primary ACLR with hamstring tendon autografts was analyzed, comprising a low-risk group (isolated ACLR) and a high-risk group (ACLR with lateral extra-articular tenodesis), with a minimum follow-up of 6 years. The Firth penalized logistic regression was used to model the joint effects of PTS and age on graft reruptures in pooled and group-specific analyses. A PTS\u00d7age interaction term was evaluated via the likelihood ratio test to assess whether the relative effect of PTS differed across age strata. Predicted absolute rerupture probabilities were derived from additive models, and age thresholds below which the risk fell under predefined clinically relevant levels (5% and 10%) were estimated for PTS values of 12\u00b0 and 15\u00b0, with stability assessed by bootstrap resampling (1000 iterations). RESULTS: After excluding 4 patients with missing covariate values, 581 patients were included in the final sample (low risk: n = 431; high risk: n = 150). In the pooled cohort (n = 581; 38 reruptures), PTS was independently associated with reruptures (odds ratio per degree, 1.28 [95% CI, 1.10-1.47]; P = .001), and increasing age was independently protective (odds ratio per year, 0.91 [95% CI, 0.87-0.95]; P < .001). No statistically significant PTS\u00d7age interaction was identified in any analysis (pooled cohort: P = .685), indicating that the relative effect of each degree of PTS remained approximately stable across ages. However, the predicted absolute rerupture risk decreased markedly with increasing age. In the pooled cohort, a patient with a PTS of 15\u00b0 had an estimated rerupture probability of 36.6% at age 18 years versus 3.9% at age 45 years. Age thresholds at which the predicted risk fell below 10% were approximately 27 years for a PTS of 12\u00b0 and approximately 35 years for a PTS of 15\u00b0. CONCLUSION: Age modulated the absolute, but not the relative, risk associated with PTS after ACLR. Younger patients with elevated slope values had the highest absolute rerupture risk, reinforcing the clinical value of integrating age into preoperative slope-based risk stratification.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42703649/",
+      "score": 76,
+      "score_reasoning": "Landmark AJSM cohort study of 585 patients examining age-PTS interaction on ACL graft rerupture risk with clinically actionable age-specific thresholds for slope correction decisions, addressing a highly debated topic in sports medicine.",
+      "bullets": [
+        "Each degree of posterior tibial slope carries the same relative rerupture risk at any age, but the absolute risk drops sharply with age, falling from 37% at age 18 to 4% at age 45 for a slope of 15 degrees.",
+        "Patients under 27 with a slope of 12 degrees, and those under 35 with a slope of 15 degrees, carry greater than 10% absolute graft rerupture risk after ACL reconstruction with hamstring autograft.",
+        "When counseling young patients on rerupture risk and deciding on adjunct procedures like lateral extra-articular tenodesis, age and posterior tibial slope should be considered together, not in isolation."
+      ]
+    },
+    {
+      "pmid": "42677181",
+      "title": "Preoperative Platelet and International Normalized Ratio Thresholds and Their Impact on Complications Following Revision Total Joint Arthroplasty.",
+      "authors": [
+        "Hall RP",
+        "Braithwaite CL",
+        "Verhey JT",
+        "Deckey DG",
+        "Van Schuyver PR",
+        "Lebens R",
+        "Bingham JS",
+        "Spangehl MJ",
+        "Christopher ZK"
+      ],
+      "authors_short": "Hall RP, Braithwaite CL, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Traditional thresholds of platelet counts \u226550,000/\u03bcL and international normalized ratio (INR) < 1.5 may not adequately capture the risks of mild coagulopathy. This study evaluated complication rates across varying preoperative platelet and INR values in patients undergoing revision total joint arthroplasty. METHODS: Patients undergoing revision total knee or hip arthroplasties were retrospectively identified from a health care database. Patients were stratified by preoperative platelet counts (50,000 to 100,000/\u03bcL, 100,000 to 150,000/\u03bcL, >150,000/\u03bcL) and INR (<1.0, 1.1 to 1.5, 1.6 to 2.0, >2.0) recorded within 30 days of surgery. Following 1:1 propensity score matching to adjust for confounders, evaluated outcomes included transfusions, bleeding, thromboembolic events, wound complications, periprosthetic joint infection (PJI), reoperation, and mortality up to 2 years. RESULTS: Platelet counts of 50,000 to 100,000/\u03bcL were associated with increased transfusions, greater 90-day bleeding, and higher 2-year PJI and mortality. Counts of 100,000 to 150,000/\u03bcL were similarly linked to higher transfusions, PJI, and mortality. An INR of 1.1 to 1.5 correlated with increased 90-day transfusions, wound complications, and thromboembolic events, alongside higher 2-year PJI, reoperation, and mortality. INR levels >1.5 were consistently associated with elevated 90-day thromboembolic events and increased 2-year PJI, with levels of 1.6 to 2.0 also linked to higher mortality. CONCLUSIONS: The findings from this study indicate that preoperative platelet counts below 150,000/\u03bcL and INR values above 1.0 were associated with higher rates of complications following revision total joint arthroplasty. These results suggest stricter optimization of hematologic parameters preoperatively may reduce complications.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42677181/",
+      "score": 71,
+      "score_reasoning": "Prospensity-matched JBJS study identifying that patients requiring both lumbar spinal fusion and THA have delayed MCID achievement, with the surgical sequence (THA before LSF) being especially detrimental, directly informing preoperative counseling.",
+      "bullets": [
+        "In revision total joint arthroplasty patients, platelet counts below 150,000/\u03bcL and INR above 1.0 were both associated with higher rates of bleeding, infection, and mortality up to two years.",
+        "These thresholds are more conservative than traditional cutoffs of 50,000/\u03bcL platelets and INR below 1.5, suggesting current preoperative clearance standards may underestimate risk in this population.",
+        "Orthopaedic surgeons planning revision arthroplasty should consider optimizing platelets to above 150,000/\u03bcL and INR to 1.0 or below before proceeding to reduce postoperative complications."
+      ]
+    },
+    {
+      "pmid": "42704696",
+      "title": "The 2026 ESSKA-ESA formal consensus on partial-thickness posterosuperior rotator cuff tears (Part 1): Definitions, classifications, etiologies, natural history and diagnosis.",
+      "authors": [
+        "Kany J",
+        "Iban MAR",
+        "Rosso C",
+        "Peach C",
+        "M\u00e9tais P",
+        "Dias CM",
+        "Calvo E",
+        "Saccomanno MF",
+        "B\u00f8e B",
+        "Brilakis E",
+        "Bilsel K",
+        "Kovacic L",
+        "Raebroeckx AV",
+        "Gomes N",
+        "Martetschl\u00e4ger F",
+        "Beaufils P",
+        "Dyrna FGE"
+      ],
+      "authors_short": "Kany J, Iban MAR, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To establish evidence-based consensus recommendations regarding the diagnosis and treatment of partial-thickness posterosuperior rotator cuff tears (PT-PS-RCTs). This part addresses the definition, classification, natural history and diagnosis of these controversial conditions in shoulder surgery. METHODS: This official European Society of Sports Medicine, Knee Surgery and Arthroscopy-European Shoulder Associates (ESSKA-ESA) Formal Consensus was conducted according to the ESSKA Formal Consensus Methodology. A Steering Group developed 33 questions, followed by a standardized literature search and evidence review. For each question, a consensus statement was drafted and assigned recommendation grades (A-D) according to the level of evidence. An independent Rating Group evaluated all statements until strong agreement was achieved. RESULTS: Twelve recommendations were generated with three Grade A, three Grade B, two Grade C, five Grade D and strong agreement. Grade A was found for the use of multiple classification systems in unison to characterize these injuries and for the distinction between acute and chronic tears. Scientific presumption level (Grade B) was found for the increased incidence of articular injuries in overhead and contact athletes and for the absence of a link between calcifying tendinitis and PT-PS-RCTs. Grade C was found to define the risk and timeframe of tear progression and the ideal imaging modality. CONCLUSION: This ESSKA-ESA Formal Consensus recommends that PT-PS-RCTs should be classified according to tear location, depth and tendon involvement. The aetiology of these injuries is multifactorial, and their progression is unpredictable. Current imaging modalities have limitations in characterizing these lesions. The present consensus provides clinicians with a practical evidence-based framework for the diagnosis and classification of PT-PS-RCTs while identifying key priorities for future clinical research. LEVEL OF EVIDENCE: Level I, formal consensus.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42704696/",
+      "score": 66,
+      "score_reasoning": "Retrospective study of 23,405 TKAs identifying peri-incisional blistering (3.1% incidence) as the strongest independent predictor of reoperation and infection, with actionable risk factor data including BMI\u226540 and preoperative anticoagulation.",
+      "bullets": [
+        "Partial-thickness posterosuperior rotator cuff tears should be classified by tear location, depth, and tendon involvement using multiple classification systems together, not a single system alone.",
+        "Articular-sided tears are more common in overhead and contact athletes, and calcifying tendinitis is not linked to these tears.",
+        "Tear progression is unpredictable and current imaging has real limitations in characterizing these lesions, so clinical judgment remains essential in managing these patients."
+      ]
+    },
+    {
+      "pmid": "42677908",
+      "title": "Screening for Low Bone Mineral Density Using Opportunistic Foot Radiographs.",
+      "authors": [
+        "Albright JA",
+        "Feldman MW",
+        "Martin T",
+        "Baker JD",
+        "Gunther R",
+        "Anderson PA",
+        "Kirk KL",
+        "Huh J"
+      ],
+      "authors_short": "Albright JA, Feldman MW, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: The gold standard for low bone mineral density (BMD) screening is dual-energy X-ray absorptiometry (DXA) scanning, which has declined in use in recent years for a variety of reasons. This decline warrants alternative screening mechanisms. This study aimed to determine if opportunistic foot radiographs can serve as a screening tool for predicting low BMD as measured by DXA scan. METHODS: The fifth metatarsal index (5MI), a novel measurement made using the oblique foot radiograph to evaluate cortical thickness, was calculated for patients 50\u2009years and older who underwent a DXA scan and a foot radiograph within 1\u2009year. T scores and BMD were documented for each patient. Receiver operating characteristic curves were generated, and areas under the curves were calculated to determine which 5MI had optimized sensitivity and specificity for identifying osteoporosis. RESULTS: A total of 89 patients were included in the study cohort. The average 5MI in patients with normal BMD, osteopenia, and osteoporosis was 52.6%, 44.6%, and 35.2%, respectively. The optimal 5MI for identifying osteoporosis based on the DXA-derived T scores was 46.8%, which correlated with an area under the curve of 0.977. This optimal cutoff for identifying osteoporosis had a sensitivity of 93.3% (95% CI, 70.2%-99.7%) and a specificity of 95.0% (95% CI, 76.4%-99.7%) (P\u2009<\u2009.001). CONCLUSION: This study describes a potential screening method using low-cost foot radiographs to identify patients with low BMD, which may support earlier detection and referral for bone health evaluation. LEVEL OF EVIDENCE: Level III, retrospective case series.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42677908/",
+      "score": 65,
+      "score_reasoning": "CORR methodological audit challenging synovial fluid leukocyte count as a standalone PJI rule-in test, with important implications for how the 2025 meta-analysis underpinning unified PJI criteria should be interpreted clinically.",
+      "bullets": [
+        "A cortical thickness measurement on oblique foot X-rays, the fifth metatarsal index, identified osteoporosis with 93% sensitivity and 95% specificity compared to DXA scan.",
+        "The tool applies to patients 50 and older, with a fifth metatarsal index below 46.8% suggesting osteoporosis and warranting formal bone density workup.",
+        "Foot radiographs already obtained in orthopaedic practice can serve as a low-cost opportunistic screen to catch undiagnosed osteoporosis before fragility fractures occur."
+      ]
+    },
+    {
+      "pmid": "42671330",
+      "title": "Does the Surgical Innovation Evidence Apply to You? How Surgeon Volume and Experience Determine Whether Adoption Helps or Harms.",
+      "authors": [
+        "Parisien R"
+      ],
+      "authors_short": "Parisien R",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Studies of new surgical techniques usually report the result without separating outcomes by factors such as surgeon volume, experience, or practice setting. But those same factors shape the result, so a technique that benefits patients in the hands of the surgeons who reported it might actually harm patients in the hands of surgeons who meaningfully differ. Published outcomes describe the surgeons and conditions that produced them, but there is little to guide surgeons considering a new approach beyond a nonspecific sense of risk versus reward. QUESTIONS/PURPOSES: (1) Does the decision to adopt a surgical technique reverse depending on surgeon-level variables, even when the underlying evidence is the same? (2) Can a formal model identify the conditions under which adoption produces net harm to a surgeon's patients? METHODS: A volume-stratified decision-analytic model was developed that calculates a surgeon-specific break-even horizon, the point at which cumulative benefit first exceeds cumulative learning-curve harm. The model was applied to direct anterior approach versus posterior approach hemiarthroplasty, with parameter values drawn from the published direct anterior approach and posterior approach evidence and stratified by annual case volume. The model integrates three parameters: the number needed to treat (NNT) for a single claimed benefit of the new technique; a learning-curve decay constant (\u03bb) derived from cumulative sum (CUSUM) analyses, where a higher value means faster learning (\u03bb = 0.07 implies proficiency in roughly 40 cases, \u03bb = 0.03 in roughly 100); and a complication severity weight of harm (Wh) anchored to the risk of reoperation. The benefit is granted favorably and weighed against learning-curve harm assigned to the new approach alone, ignoring the established approach's advantages and the cost of switching; every simplification therefore favors adoption. An interactive tool lets readers enter their own values. RESULTS: The decision to adopt a new surgical technique depended heavily on surgeon-specific factors, chiefly annual case volume. The same published evidence pointed toward adoption for a higher-volume surgeon and against it for a lower-volume one. Three parameter scenarios were tested across three volume tiers (8, 20, and 50 patients per year). Under innovation-favorable parameters (NNT = 50, \u03bb = 0.07, Wh = 1), all three tiers reached breakeven within 4 years, and 20-year cumulative utility was positive throughout (2.5 to 19.3). Under default parameters (NNT = 100, \u03bb = 0.05, Wh = 3), breakeven ranged from 5 years 10 months at 50 patients per year to beyond 20 years at the lowest tier (20-year utility 7.1 to -1.3), and the 8-patient-per-year surgeon never reached breakeven. Under innovation-unfavorable parameters (NNT = 140, \u03bb = 0.04, Wh = 4), only the 50-patient surgeon reached breakeven, at 13 years 9 months (2.2); the lower tiers ended in net harm (-2.0 and -3.7). In every scenario, the higher-volume surgeon did better. What shifted with the parameters was only whether adoption was favorable at all: uniformly so under optimistic assumptions, volume-dependent at default values, and favorable only at the highest volume under unfavorable ones. CONCLUSION: Whether a newly reported technique helps or harms depends heavily on how often the operating surgeon performs the procedure and how much relevant experience they bring, factors that the published studies rarely report. This holds for any innovation that offers a modest benefit and carries a learning curve, not only the approach examined here. CLINICAL RELEVANCE: Published innovation studies report outcomes from one set of surgeons, at particular volumes and levels of experience, but are often read as if they applied to everyone. In deciding whether to adopt a new technique, surgeons should weigh their own case volume and relevant experience alongside the published result, recognizing that a beneficial-sounding result may not reach breakeven at lower volume within a clinically meaningful period. Future studies could extend this work by reporting outcomes stratified by surgeon volume and experience so that readers can locate themselves rather than assume that a published result transfers. An interactive version of the model, which lets readers enter their own volume and experience, is available at https://rcpmodel.netlify.app.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42671330/",
+      "score": 64,
+      "score_reasoning": "Well-powered retrospective matched cohort (6,420 THA and 9,688 TKA pairs) demonstrating GI bleeding history within 2 years increases revision and PJI risk, providing a novel preoperative risk factor for arthroplasty surgeons to consider.",
+      "bullets": [
+        "A modeling study of direct anterior versus posterior hemiarthroplasty found that low-volume surgeons (8 cases per year) never reached a benefit breakeven point within 20 years under realistic assumptions, while high-volume surgeons (50 per year) did.",
+        "The same published evidence on a new technique can rationally support adoption for a high-volume surgeon and argue against it for a low-volume one, depending on case volume, learning curve speed, and complication severity.",
+        "Before adopting any technique with a learning curve and modest benefit, orthopaedic surgeons should calculate their own breakeven horizon using their actual annual volume, not assume that published results from experienced, high-volume centres apply to their practice."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-09-09T07:10:17.640474-07:00"
+}
