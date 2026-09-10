@@ -1,0 +1,291 @@
+{
+  "brief_date": "2026-09-10",
+  "brief_date_display": "Thursday, September 10",
+  "candidates": [
+    {
+      "pmid": "42705360",
+      "title": "One-, 1.5-, or Two-Stage Revision for Periprosthetic Hip and Knee Joint Infection? A Network Meta-Analysis Comparing Revision Strategies.",
+      "authors": [
+        "Selim A",
+        "Ibrahim A",
+        "Saeed A",
+        "Khamdan K",
+        "Farhan-Alanie MM",
+        "Sadiq S",
+        "Govilkar S",
+        "Thomas G"
+      ],
+      "authors_short": "Selim A, Ibrahim A, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Periprosthetic joint infection (PJI) remains a devastating complication following total hip and knee arthroplasty. Revision strategies for chronic PJI include one-, 1.5-, and two-stage revision procedures. This study compared clinical outcomes of these revision strategies using a network meta-analytic approach. METHODS: A systematic review and Bayesian network meta-analysis were conducted. Databases were searched through October 2025. Randomized controlled trials and comparative cohort studies evaluating one-, 1.5-, and two-stage revision procedures for hip and knee chronic PJI were included. Chronic PJI was defined by Musculoskeletal Infection Society/International Consensus Meeting (MSIS/ICM) criteria, excluding acute postoperative and hematogenous infections. In the primary network, hip and knee revisions were analyzed together, with pre-specified hip-only and knee-only subgroup networks reported separately. There were 54 studies (10,055 patients) eligible for inclusion. RESULTS: Compared with two-stage revision, both one- and 1.5-stage revisions were associated with significantly lower odds of reinfection (odds ratio (OR) = 0.84, 95% credible interval (CrI) 0.72 to 0.99 and OR = 0.58, 95% CrI 0.37 to 0.89, respectively) and reoperation (OR = 0.79, 95% CrI 0.63 to 0.99 and OR = 0.20, 95% CrI 0.05 to 0.82, respectively). The 1.5-stage strategy demonstrated significantly higher infection control success (OR = 1.64, 95% CrI 1.07 to 2.51). The one-stage revision was associated with fewer overall complications (OR = 0.64, 95% CrI 0.48 to 0.86). The 1.5-stage strategy showed a significantly increased risk of aseptic loosening (OR = 4.80, 95% CrI 1.57 to 20.79), while two-stage revision performed best. CONCLUSION: The 1.5-stage revision was associated with the most favorable infection-related outcomes, but a higher risk of aseptic loosening. The one-stage revision showed intermediate results, while the two-stage revision performed less favorably but had the lowest loosening risk. Because the evidence is largely observational and subject to confounding by indication, these associations should be interpreted cautiously.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42705360/",
+      "score": 88,
+      "score_reasoning": "Large AJRR registry study (81,610 cases) directly addressing cement vs. cementless fixation in femoral neck fractures with clear survival benefit for cemented fixation, published in a high-impact journal with strong clinical practice implications.",
+      "bullets": [
+        "In a network meta-analysis of 10,055 patients with chronic periprosthetic joint infection, one-stage and 1.5-stage revisions had lower reinfection and reoperation rates than two-stage revision.",
+        "The 1.5-stage revision showed the best infection control but carried a substantially higher risk of aseptic loosening, while two-stage revision had the lowest loosening risk.",
+        "For orthopaedic surgeons managing chronic periprosthetic hip or knee infection, two-stage revision remains a safe default given loosening concerns, though one-stage revision offers a reasonable middle ground with fewer overall complications."
+      ]
+    },
+    {
+      "pmid": "42705359",
+      "title": "Trends in Racial and Socioeconomic Differences in Cementless Total Knee Arthroplasty Utilization Among Medicare Beneficiaries from 2016 to 2022.",
+      "authors": [
+        "Ricca GW",
+        "Torres RB",
+        "Wong L",
+        "Van Hyfte G",
+        "Dhanjani SA",
+        "Shatkin MS",
+        "Hayden BL",
+        "Moucha CS",
+        "Chen DD"
+      ],
+      "authors_short": "Ricca GW, Torres RB, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Cementless total knee arthroplasty (TKA) has reemerged with advances in implant design promoting improved durability. However, differences in the utilization of emerging orthopaedic technologies persist, and the influence of race and socioeconomic status on cementless fixation adoption remains unclear. This study evaluated national trends in cementless TKA utilization across race and socioeconomic status. METHODS: Medicare fee-for-service claims (2016 to 2022) were used to identify adult patients who underwent primary, elective, inpatient TKA via International Classification of Diseases, Tenth Revision, Procedure Coding System codes. Patients were grouped by race (White, Black, or Hispanic) and dual Medicare-Medicaid eligibility (yes/no) as a proxy for socioeconomic status. Procedures were categorized as cementless or cemented fixation. Cochran-Armitage trend tests and compound annual growth rate (CAGR) were used to evaluate annual trends. Multivariable logistic regression models examined the association between race-socioeconomic subgroups and cementless fixation, adjusting for demographic, clinical, and hospital factors. RESULTS: Among 1,044,345 TKAs, 4.8% (50,141) were cementless, increasing from 2.4% in 2016 to 9.9% in 2022 (CAGR 26.7%; P < 0.0001). The CAGR for cementless TKA was highest for Hispanic non-dual-eligible (CAGR 30.6%) and White non-dual-eligible (CAGR 27.3%) patients and lowest among Hispanic dual-eligible patients (CAGR 16.9%). After multivariable adjustment, Black dual-eligible (odds ratio (OR) 0.92; P = 0.015), Hispanic dual-eligible (OR 0.86; P = 0.004), and Hispanic non-dual-eligible (OR 0.84; P = 0.030) patients had significantly lower odds of receiving cementless fixation versus White non-dual-eligible counterparts. Black non-dual-eligible patients demonstrated higher odds (OR 1.05; P = 0.041). Although several differences reached statistical significance, the magnitude of adjusted odds ratios was modest. CONCLUSION: Cementless TKA grew across all race-socioeconomic categories among Medicare beneficiaries. However, most minority and lower-income subgroups were less likely to receive this reemerging technique, with differences concentrated among Hispanic and dual-eligible patients. These findings highlight variation in adoption of emerging orthopaedic technologies across patient populations.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42705359/",
+      "score": 86,
+      "score_reasoning": "Network meta-analysis of 54 studies (10,055 patients) comparing one-, 1.5-, and two-stage revision for PJI\u2014a high-stakes clinical decision\u2014with novel finding that one- and 1.5-stage revisions outperform two-stage, published in Journal of Arthroplasty.",
+      "bullets": [
+        "Cementless TKA use among Medicare patients quadrupled from 2.4% in 2016 to 9.9% in 2022, growing across all racial and income groups.",
+        "Hispanic and dual-eligible (low-income) patients were less likely to receive cementless fixation compared to non-dual-eligible White patients, even after adjusting for clinical and hospital factors.",
+        "As cementless TKA becomes more common, orthopaedic surgeons should be aware that adoption of newer implant technology is not reaching all patient populations equally."
+      ]
+    },
+    {
+      "pmid": "42679021",
+      "title": "Effects of Capacity-Related Delay to Hip Fracture Surgery on Mortality: A Matched-Cohort Study.",
+      "authors": [
+        "King SW",
+        "Wakefield SM",
+        "Giannoudis VP",
+        "Relton SD",
+        "Giannoudis PV",
+        "Pandit HG",
+        "Rodham PL"
+      ],
+      "authors_short": "King SW, Wakefield SM, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Timely surgery is emphasized in hip fracture care. Prior studies examining this have failed to distinguish adequately between delays for medical optimization and those due to limited operative capacity, introducing important confounders. This study aimed to determine the impact of capacity-related delays on mortality after a hip fracture in older individuals, as well as the factors moderating these effects. METHODS: This retrospective cohort study involved patients treated in a U.K. teaching hospital from January 2020 to June 2024. Primary outcomes were mortality at 30 and 365 days. The exposure of interest was capacity-delayed hip fracture surgery, defined as operative anesthesia for hip fracture surgery occurring >36 hours after emergency department presentation. Patients aged \u226565 years with an operatively managed fracture of the native proximal femur were included. Patients were excluded if surgery was delayed for medical reasons. Multivariable logistic regression was used to examine mortality risk factors, and propensity-score matching was performed on the basis of covariates affecting mortality and survival analysis. RESULTS: Of 3,094 screened patients, 2,358 were eligible. Mortality status was available for 96.9% of patients at 365 days. One thousand and eighty-seven (46%) received timely surgery while 1,271 (54%) experienced capacity-related delay. After propensity-score matching, the median age was 85 years (interquartile range, 78 to 90 years), 73% were female, and 98% were White. Capacity delay was associated with a greater hazard of 365-day mortality (hazard ratio [HR] = 1.37, 95% confidence interval [CI]: 1.15 to 1.63), and the hazard was most pronounced in the first 30 days (HR = 1.71, 95% CI: 1.11 to 2.65). Shorter-term (30-day) mortality in patients with a higher Clinical Frailty Scale score (>4) was most affected by delay (odds ratio [OR] = 1.76, 95% CI: 1.06 to 3.02), while effects on less frail patients were not significant. CONCLUSIONS: Capacity-related delays in hip fracture surgery were associated with greater mortality after accounting for patient-related risk factors. This study overcomes a key confounder by isolating capacity-related delay. The results may support prioritizing timely hip fracture surgery for more vulnerable patients. LEVEL OF EVIDENCE: Prognostic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42679021/",
+      "score": 83,
+      "score_reasoning": "High-quality prospective cohort study of 2,358 hip fracture patients showing capacity-related surgical delay independently increases mortality, providing actionable data for hospital systems and surgical scheduling, published in JBJS.",
+      "bullets": [
+        "In older hip fracture patients where surgery was delayed beyond 36 hours due to capacity constraints alone, 30-day mortality risk increased by 71% and one-year mortality risk increased by 37%.",
+        "The mortality harm from delay was concentrated in frail patients (Clinical Frailty Scale score above 4), with no statistically significant effect seen in less frail patients.",
+        "When operative capacity is limited, orthopaedic teams should prioritise frail hip fracture patients for earliest available theatre slots to reduce preventable deaths."
+      ]
+    },
+    {
+      "pmid": "42702799",
+      "title": "Perioperative Factors Associated With Postoperative Failure-Free Survival After Arthrodesis for Diabetic Charcot Neuroarthropathy of the Foot or Ankle.",
+      "authors": [
+        "Wang Q",
+        "Zhang Y",
+        "Shen S",
+        "Wang J",
+        "Wang JH",
+        "Zhao HM"
+      ],
+      "authors_short": "Wang Q, Zhang Y, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Evidence on perioperative factors associated with postoperative outcomes for diabetic Charcot neuroarthropathy (DCN) of the foot and ankle remains limited. We evaluated whether routinely available clinical, laboratory, and surgery-related variables were associated with postoperative failure-free survival (po-FFS) after arthrodesis. METHODS: This single-center retrospective exploratory prognostic factor study screened consecutive surgically treated patients with DCN between June 2017 and October 2025. The final cohort included 83 patients with Eichenholtz stage III DCN of the foot or ankle treated with arthrodesis and follow-up sufficient for early endpoint ascertainment. The primary endpoint was early po-FFS. Kaplan-Meier analyses, Cox regression, sensitivity analyses, and supplementary analyses of anatomic variables and prior ulcer history were performed. RESULTS: Thirty-five of 83 patients (42.2%) experienced postoperative failure, and 48 (57.8%) remained stable during follow-up. The estimated overall po-FFS was 96.0% (95% CI, 88.1%-98.7%) at 6\u2009months and 45.3% (95% CI, 31.2%-58.5%) at 12\u2009months. In the primary multivariable model, longer duration of diabetes (adjusted hazard ratio [HR] 1.091, 95% CI 1.034-1.150; P\u2009=\u2009.001) and smoking (adjusted HR 2.579, 95% CI 1.119-5.946; P\u2009=\u2009.026) were associated with worse po-FFS. Glycated hemoglobin (HbA1c) was not independently associated with po-FFS (adjusted HR 1.229, 95% CI 0.972-1.555; P\u2009=\u2009.085). In sensitivity analyses, duration of diabetes and smoking remained the most consistent factors. Fasting blood glucose was associated with worse po-FFS only in the alternative model replacing HbA1c. Brodsky classification and prior ulcer history were not independently associated with po-FFS after adjustment. CONCLUSION: Among patients with Eichenholtz stage III DCN of the foot or ankle treated with arthrodesis, diabetes duration and smoking showed the most consistent associations with early po-FFS. Glycemic markers may add information, but findings were marker-dependent. These exploratory findings require validation in larger prospective cohorts with longer follow-up. LEVEL OF EVIDENCE: Level III, retrospective prognostic cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42702799/",
+      "score": 80,
+      "score_reasoning": "Prospective cohort study addressing the critical clinical question of cement vs. cementless fixation variation across 81,610 femoral neck fracture cases in the AJRR with robust regional and outcomes data directly applicable to practice.",
+      "bullets": [
+        "In diabetic Charcot patients undergoing foot or ankle fusion, 42% experienced postoperative failure within one year, with failure-free survival dropping from 96% at 6 months to 45% at 12 months.",
+        "Longer diabetes duration and active smoking were the most consistent predictors of fusion failure, while HbA1c did not independently predict outcomes.",
+        "For orthopaedic surgeons planning Charcot reconstruction, diabetes duration and smoking status should be documented and addressed preoperatively as modifiable and stratifying risk factors."
+      ]
+    },
+    {
+      "pmid": "42713799",
+      "title": "One in Four Children Experience BMI Increase After Lower Extremity Surgery Without Return to Preoperative Levels: A Retrospective Cohort Study.",
+      "authors": [
+        "Viza Gomes P",
+        "Badejo M",
+        "Damron A",
+        "Bradley T",
+        "Bitolas R",
+        "Sachs B",
+        "Poehlein E",
+        "Green C",
+        "Catanzano A"
+      ],
+      "authors_short": "Viza Gomes P, Badejo M, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Weight and body mass index (BMI) are influenced by many intrinsic and extrinsic factors, including activity level. After undergoing orthopaedic surgery, a period of immobilization and activity restrictions typically follows, which may place patients at risk for an acute increase in weight and BMI. This study aimed to quantify the change in BMI preoperatively to 3 months postoperatively after treatment of lower extremity conditions and assess whether BMI returned to baseline levels by 1 year among patients with a clinically meaningful BMI increase at 3 months (BMI z-score \u22650.20). METHODS: A single-center, retrospective review was performed of patients younger than 18 years treated operatively for lower extremity fractures or undergoing an elective lower extremity surgery over a 3-year period. Multivariable logistic regression was used to evaluate the association between a clinically meaningful BMI increase at 3 months and baseline characteristics to determine potential \"at risk\" patients. RESULTS: In total 411 patients were included (average age 13.0 \u00b1 3.1\u00a0y, 57.9% male). The average change in BMI from baseline to 3 months was 0.33\u00a0kg/m\u00b2 (95% CI: 0.08-0.59), a mean change in BMI z-score of -0.040 (95% CI: -0.093 to 0.013). A clinically meaningful increase in BMI z-score (\u22650.20) was found in 109 patients (26.5%). Of these patients, 49 had documented 12 to 18-month follow-up with only 28.6% (95% CI: 15.9-41.2%) returning to their preoperative BMI. The only baseline characteristic significantly associated with an increase in BMI z-score \u22650.20 within 3 months was diagnosis category (obesity-associated conditions vs. fracture and other orthopaedic conditions) [odds ratio (OR): 1.84, 95% CI: 1.04-3.25; P=0.037]. CONCLUSIONS: Postoperatively, when patients are immobilized with weight-bearing and activity restrictions, there is risk of clinically meaningful increases in BMI. This represents an opportunity for orthopaedic providers to incorporate means for weight management during the recovery period, which includes several in-person follow-up appointments. This may include simple education or appropriate referrals and evaluations by primary care providers and weight management specialists. LEVEL OF EVIDENCE: Level IV.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42713799/",
+      "score": 79,
+      "score_reasoning": "Retrospective cohort of 1,691 hip fracture patients demonstrating that multiple-dose TXA significantly reduces transfusion risk without increasing VTE, directly informing perioperative blood management protocols for a high-volume trauma population.",
+      "bullets": [
+        "One in four children undergoing lower extremity surgery had a clinically meaningful BMI increase by 3 months postoperatively, and fewer than 30% of those patients returned to their preoperative BMI by one year.",
+        "Children with obesity-related diagnoses were nearly twice as likely to gain significant BMI after surgery compared to those treated for fractures or other conditions.",
+        "Postoperative follow-up visits are an actionable opportunity for orthopaedic surgeons to address weight management through education or referral to primary care and weight management specialists."
+      ]
+    },
+    {
+      "pmid": "42684944",
+      "title": "The Next Era of Orthobiologics: From Promise to Precision.",
+      "authors": [
+        "Piuzzi NS",
+        "Goodman SB"
+      ],
+      "authors_short": "Piuzzi NS, Goodman SB",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42684944/",
+      "score": 76,
+      "score_reasoning": "Comprehensive JBJS review summarizing 50 years of PJI management evolution across prevention, diagnosis, and treatment provides a high-value clinical synthesis for all arthroplasty surgeons.",
+      "bullets": [
+        "Orthobiologics such as PRP, bone marrow aspirate, and stem cell products show inconsistent clinical results largely because product composition varies widely between patients and preparations.",
+        "Standardizing how these products are characterized and dosed is the key barrier preventing orthopaedic surgeons from knowing which patients will actually benefit.",
+        "Until classification systems and dosing protocols are validated, orthopaedic surgeons should not expect predictable outcomes from orthobiologic treatments across different patient populations."
+      ]
+    },
+    {
+      "pmid": "42703649",
+      "title": "Absolute Risk of Anterior Cruciate Ligament Graft Reruptures From the Posterior Tibial Slope Falls With Increasing Age: A Risk Stratification Analysis.",
+      "authors": [
+        "Pineda T",
+        "Mazy D",
+        "Ramos-Rojas J",
+        "Cance N",
+        "Dan MJ",
+        "Demey G",
+        "Dejour DH"
+      ],
+      "authors_short": "Pineda T, Mazy D, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Posterior tibial slope (PTS) and young age are well-established independent predictors of an anterior cruciate ligament (ACL) graft rerupture. Although both factors have been studied individually, whether age changes the relative effect of PTS, its absolute clinical impact, or both has not been formally examined across the full age range of patients undergoing ACL reconstruction (ACLR). PURPOSE: To determine whether age modifies the relative or absolute rerupture risk associated with PTS after ACLR, and to identify age thresholds at which clinically relevant absolute risk levels are reached for given slope values. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: A retrospective cohort of 585 patients who underwent primary ACLR with hamstring tendon autografts was analyzed, comprising a low-risk group (isolated ACLR) and a high-risk group (ACLR with lateral extra-articular tenodesis), with a minimum follow-up of 6 years. The Firth penalized logistic regression was used to model the joint effects of PTS and age on graft reruptures in pooled and group-specific analyses. A PTS\u00d7age interaction term was evaluated via the likelihood ratio test to assess whether the relative effect of PTS differed across age strata. Predicted absolute rerupture probabilities were derived from additive models, and age thresholds below which the risk fell under predefined clinically relevant levels (5% and 10%) were estimated for PTS values of 12\u00b0 and 15\u00b0, with stability assessed by bootstrap resampling (1000 iterations). RESULTS: After excluding 4 patients with missing covariate values, 581 patients were included in the final sample (low risk: n = 431; high risk: n = 150). In the pooled cohort (n = 581; 38 reruptures), PTS was independently associated with reruptures (odds ratio per degree, 1.28 [95% CI, 1.10-1.47]; P = .001), and increasing age was independently protective (odds ratio per year, 0.91 [95% CI, 0.87-0.95]; P < .001). No statistically significant PTS\u00d7age interaction was identified in any analysis (pooled cohort: P = .685), indicating that the relative effect of each degree of PTS remained approximately stable across ages. However, the predicted absolute rerupture risk decreased markedly with increasing age. In the pooled cohort, a patient with a PTS of 15\u00b0 had an estimated rerupture probability of 36.6% at age 18 years versus 3.9% at age 45 years. Age thresholds at which the predicted risk fell below 10% were approximately 27 years for a PTS of 12\u00b0 and approximately 35 years for a PTS of 15\u00b0. CONCLUSION: Age modulated the absolute, but not the relative, risk associated with PTS after ACLR. Younger patients with elevated slope values had the highest absolute rerupture risk, reinforcing the clinical value of integrating age into preoperative slope-based risk stratification.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42703649/",
+      "score": 73,
+      "score_reasoning": "Absolute risk stratification analysis of PTS and age on ACL graft rerupture in 585 patients with 6-year follow-up provides clinically useful thresholds for surgical decision-making, published in the American Journal of Sports Medicine.",
+      "bullets": [
+        "Each additional degree of posterior tibial slope raises ACL graft rerupture odds by about 28%, but this relative effect is the same regardless of patient age.",
+        "Absolute rerupture risk drops sharply with age: an 18-year-old with a 15-degree slope has an estimated 37% rerupture risk, falling to under 4% by age 45.",
+        "For patients under roughly 35 with a posterior tibial slope above 12 degrees, rerupture risk exceeds 10%, making age and slope together the key inputs for preoperative risk counselling and surgical planning."
+      ]
+    },
+    {
+      "pmid": "42692244",
+      "title": "Diagnostic Accuracy of Arthroscopic Pre-Revision Tissue Biopsy in Shoulder Arthroplasty.",
+      "authors": [
+        "Nguyen CN",
+        "Drake JH",
+        "Mounajjed MM",
+        "Grogan BF",
+        "Cotter EJ"
+      ],
+      "authors_short": "Nguyen CN, Drake JH, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: The diagnosis of periprosthetic joint infection (PJI) following shoulder arthroplasty remains challenging. Serum lab markers and joint aspirations demonstrate limited sensitivity and specificity in this setting. Arthroscopic pre-revision tissue biopsy (PTB) may improve organism-level diagnosis prior to revision surgery. METHODS: A retrospective review of consecutive patients who underwent an arthroscopic PTB from a single center from 2018-2025 was conducted. PTB was performed prior to revision surgery at the discretion of the attending surgeon to aid in the diagnosis of possible PJI and inform decision-making pertaining to revision surgery. Diagnostic performance, including sensitivity, specificity, and positive predictive value, and negative predictive value of arthroscopic PTB for diagnosing PJI were calculated using intraoperative cultures at the time of ultimate revision as the gold standard based on the 2018 International Consensus Meeting on Musculoskeletal Infection (ICM) PJI Criteria. RESULTS: Twenty-three patients met the inclusion criteria, with eleven (47.8%) meeting criteria for PJI according to the 2018 ICM criteria. When using either \u22652 concordant positive cultures at the time of revision or ICM criteria as the reference standard, PTB demonstrated poor sensitivity (30.0% [95% CI, 6.7-65.3%] and 27.3% [95% CI 6-61%], respectively) and low negative predictive value (65.0% [95% CI, 55.3-73.6%] and 60%, [95% CI 51.1-68.3%] respectively). In total, three patients who had all negative cultures at the time of PTB eventually demonstrated \u22652 unexpected positive cultures at revision. Clinically, these findings suggest that a negative PTB result should not be used in isolation to support implant retention or to defer revision surgery when clinical suspicion for infection persists. CONCLUSION: Pre-revision tissue biopsy demonstrated poor sensitivity and NPV in the detection of PJI. Negative PTB findings did not exclude infection, and results should be taken into context with other clinical and laboratory data. Future research should focus on determining if there are patient-specific factors or clinical scenarios in which PTB may be beneficial. LEVEL OF EVIDENCE: III, Retrospective Case Control Design, Diagnostic Study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42692244/",
+      "score": 72,
+      "score_reasoning": "Systematic review and meta-analysis of 7 studies (2,639 patients) comparing single-shot vs. continuous interscalene block for shoulder arthroplasty addresses a high-frequency perioperative decision with nuanced subgroup findings on local anesthetic agent.",
+      "bullets": [
+        "Arthroscopic pre-revision tissue biopsy correctly identified shoulder periprosthetic infection in fewer than one in three cases, with a negative predictive value of only 60 to 65 percent.",
+        "Three patients with entirely negative biopsy cultures were confirmed infected at revision surgery, meaning a negative biopsy does not rule out infection.",
+        "In patients with ongoing clinical suspicion for shoulder arthroplasty infection, a negative pre-revision biopsy alone should not be used to justify keeping the implant or delaying revision."
+      ]
+    },
+    {
+      "pmid": "42712020",
+      "title": "Three-Dimensional Osseous Alignment and Morphology Patterns of Ankle and Hindfoot Osteoarthritis.",
+      "authors": [
+        "Lapins ER",
+        "Peterson AC",
+        "Mills MK",
+        "Saltzman CL",
+        "Lenz AL"
+      ],
+      "authors_short": "Lapins ER, Peterson AC, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Patients with advanced ankle and hindfoot osteoarthritis (OA) experience substantial functional limitations and reduced quality of life. Conventional 2-dimensional imaging provides limited insight into 3-dimensional (3D) shape and alignment of the foot and ankle, making it unclear whether isolated subtalar OA (STOA), isolated tibiotalar OA (TTOA), and combined disease (TTSTOA) represent distinct morphologic entities related to foot type. METHODS: A retrospective cohort of 196 weightbearing computed tomography (WBCT) scans was analyzed, including 130 OA patients (STOA, TTOA, TTSTOA) and 66 non-osteoarthritic controls classified as planus, rectus (neutral), or cavus. A 14-bone statistical shape model (SSM) characterized 3D morphology and alignment. Principal components analysis (PCA), Hotelling's T2 tests, computationally derived radiographic measurements, and joint space analysis quantified alignment patterns and joint space narrowing. RESULTS: PCA mode 1 reflected a cavus-to-planus alignment spectrum, whereas mode 3 captured joint space narrowing. TTOA was most similar to cavus alignment with increased varus hindfoot and higher sagittal arch measures. STOA was most similar to rectus foot type. TTSTOA spanned the widest range, encompassing varus and valgus presentations, and was among the lower observed joint space distances across both joints. The planus group differed from all OA groups across all analyses. CONCLUSION: Hindfoot and ankle OA presentations were characterized by joint-specific degenerative changes occurring within a broader alignment environment, reflecting altered load distribution and compensatory adaptations. This relationship between local joint degeneration and global alignment underscores the importance of evaluating the foot and ankle as an integrated system, particularly when assessing disease extent, severity, and patterns of multijoint involvement. LEVEL OF EVIDENCE: Level III, retrospective cross-sectional study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42712020/",
+      "score": 71,
+      "score_reasoning": "Long-term (minimum 10-year) cohort study of 243 patients demonstrating psychiatric comorbidity significantly worsens survivorship and PROMs after hip arthroscopy for FAIS, with important preoperative counseling implications, published in AJSM.",
+      "bullets": [
+        "Tibiotalar OA is associated with a cavus, varus hindfoot alignment, while isolated subtalar OA more commonly occurs in a neutral foot type.",
+        "Combined tibiotalar and subtalar OA spans the widest range of alignment patterns, including both varus and valgus presentations, and shows the greatest joint space narrowing across both joints.",
+        "When evaluating ankle and hindfoot OA, the entire foot alignment should be assessed, as local joint degeneration occurs within a broader alignment environment that likely drives load distribution and disease pattern."
+      ]
+    },
+    {
+      "pmid": "42680248",
+      "title": "Response to the Letter on \"Postoperative Displacement of the Dorsal Ulnar Fragment After Volar Locking Plate Fixation: Risk Factors and Clinical Prediction Tool\".",
+      "authors": [
+        "Ji J",
+        "Fan J"
+      ],
+      "authors_short": "Ji J, Fan J",
+      "journal": "The Journal of hand surgery",
+      "journal_abbrev": "J Hand Surg Am",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Letter"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42680248/",
+      "score": 70,
+      "score_reasoning": "Controlled cadaveric biomechanical study directly comparing BTB and quadriceps tendon autograft harvest techniques with reliability data, addressing a rapidly evolving and clinically relevant graft selection question, published in AJSM.",
+      "bullets": [
+        "In volar locking plate fixation of distal radius fractures, a dorsal ulnar fragment can displace postoperatively and is associated with worse outcomes.",
+        "This prediction tool applies to surgeons treating distal radius fractures with a separate dorsal ulnar fragment in adult patients undergoing volar plating.",
+        "Identifying high-risk patients preoperatively allows surgeons to consider supplemental fixation or closer follow-up to prevent secondary displacement."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-09-10T07:04:24.467840-07:00"
+}
