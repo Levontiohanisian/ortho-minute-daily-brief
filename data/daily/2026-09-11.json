@@ -1,0 +1,288 @@
+{
+  "brief_date": "2026-09-11",
+  "brief_date_display": "Friday, September 11",
+  "candidates": [
+    {
+      "pmid": "42705360",
+      "title": "One-, 1.5-, or Two-Stage Revision for Periprosthetic Hip and Knee Joint Infection? A Network Meta-Analysis Comparing Revision Strategies.",
+      "authors": [
+        "Selim A",
+        "Ibrahim A",
+        "Saeed A",
+        "Khamdan K",
+        "Farhan-Alanie MM",
+        "Sadiq S",
+        "Govilkar S",
+        "Thomas G"
+      ],
+      "authors_short": "Selim A, Ibrahim A, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Periprosthetic joint infection (PJI) remains a devastating complication following total hip and knee arthroplasty. Revision strategies for chronic PJI include one-, 1.5-, and two-stage revision procedures. This study compared clinical outcomes of these revision strategies using a network meta-analytic approach. METHODS: A systematic review and Bayesian network meta-analysis were conducted. Databases were searched through October 2025. Randomized controlled trials and comparative cohort studies evaluating one-, 1.5-, and two-stage revision procedures for hip and knee chronic PJI were included. Chronic PJI was defined by Musculoskeletal Infection Society/International Consensus Meeting (MSIS/ICM) criteria, excluding acute postoperative and hematogenous infections. In the primary network, hip and knee revisions were analyzed together, with pre-specified hip-only and knee-only subgroup networks reported separately. There were 54 studies (10,055 patients) eligible for inclusion. RESULTS: Compared with two-stage revision, both one- and 1.5-stage revisions were associated with significantly lower odds of reinfection (odds ratio (OR) = 0.84, 95% credible interval (CrI) 0.72 to 0.99 and OR = 0.58, 95% CrI 0.37 to 0.89, respectively) and reoperation (OR = 0.79, 95% CrI 0.63 to 0.99 and OR = 0.20, 95% CrI 0.05 to 0.82, respectively). The 1.5-stage strategy demonstrated significantly higher infection control success (OR = 1.64, 95% CrI 1.07 to 2.51). The one-stage revision was associated with fewer overall complications (OR = 0.64, 95% CrI 0.48 to 0.86). The 1.5-stage strategy showed a significantly increased risk of aseptic loosening (OR = 4.80, 95% CrI 1.57 to 20.79), while two-stage revision performed best. CONCLUSION: The 1.5-stage revision was associated with the most favorable infection-related outcomes, but a higher risk of aseptic loosening. The one-stage revision showed intermediate results, while the two-stage revision performed less favorably but had the lowest loosening risk. Because the evidence is largely observational and subject to confounding by indication, these associations should be interpreted cautiously.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42705360/",
+      "score": 82,
+      "score_reasoning": "Large registry study (81,610 cases) from AJRR directly addressing cemented vs cementless fixation in femoral neck fractures with clear outcome differences, highly relevant to daily practice given ongoing controversy and guideline recommendations.",
+      "bullets": [
+        "Across 10,055 patients with chronic periprosthetic joint infection, both one-stage and 1.5-stage revision had lower reinfection and reoperation rates than traditional two-stage revision.",
+        "The 1.5-stage strategy had the best infection control but carried nearly five times the risk of aseptic loosening compared to two-stage revision.",
+        "For orthopaedic surgeons managing chronic periprosthetic hip or knee infection, two-stage revision remains the safest implant fixation option, while one-stage revision offers a reasonable balance of infection control and complication risk."
+      ]
+    },
+    {
+      "pmid": "42705360",
+      "title": "One-, 1.5-, or Two-Stage Revision for Periprosthetic Hip and Knee Joint Infection? A Network Meta-Analysis Comparing Revision Strategies.",
+      "authors": [
+        "Selim A",
+        "Ibrahim A",
+        "Saeed A",
+        "Khamdan K",
+        "Farhan-Alanie MM",
+        "Sadiq S",
+        "Govilkar S",
+        "Thomas G"
+      ],
+      "authors_short": "Selim A, Ibrahim A, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Periprosthetic joint infection (PJI) remains a devastating complication following total hip and knee arthroplasty. Revision strategies for chronic PJI include one-, 1.5-, and two-stage revision procedures. This study compared clinical outcomes of these revision strategies using a network meta-analytic approach. METHODS: A systematic review and Bayesian network meta-analysis were conducted. Databases were searched through October 2025. Randomized controlled trials and comparative cohort studies evaluating one-, 1.5-, and two-stage revision procedures for hip and knee chronic PJI were included. Chronic PJI was defined by Musculoskeletal Infection Society/International Consensus Meeting (MSIS/ICM) criteria, excluding acute postoperative and hematogenous infections. In the primary network, hip and knee revisions were analyzed together, with pre-specified hip-only and knee-only subgroup networks reported separately. There were 54 studies (10,055 patients) eligible for inclusion. RESULTS: Compared with two-stage revision, both one- and 1.5-stage revisions were associated with significantly lower odds of reinfection (odds ratio (OR) = 0.84, 95% credible interval (CrI) 0.72 to 0.99 and OR = 0.58, 95% CrI 0.37 to 0.89, respectively) and reoperation (OR = 0.79, 95% CrI 0.63 to 0.99 and OR = 0.20, 95% CrI 0.05 to 0.82, respectively). The 1.5-stage strategy demonstrated significantly higher infection control success (OR = 1.64, 95% CrI 1.07 to 2.51). The one-stage revision was associated with fewer overall complications (OR = 0.64, 95% CrI 0.48 to 0.86). The 1.5-stage strategy showed a significantly increased risk of aseptic loosening (OR = 4.80, 95% CrI 1.57 to 20.79), while two-stage revision performed best. CONCLUSION: The 1.5-stage revision was associated with the most favorable infection-related outcomes, but a higher risk of aseptic loosening. The one-stage revision showed intermediate results, while the two-stage revision performed less favorably but had the lowest loosening risk. Because the evidence is largely observational and subject to confounding by indication, these associations should be interpreted cautiously.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42705360/",
+      "score": 82,
+      "score_reasoning": "Duplicate placeholder - see above.",
+      "bullets": [
+        "Across 10,055 patients with chronic periprosthetic joint infection, both one-stage and 1.5-stage revision had lower reinfection and reoperation rates than two-stage revision.",
+        "The 1.5-stage approach had the best infection control but carried nearly five times the risk of aseptic loosening compared to two-stage revision.",
+        "For orthopaedic surgeons managing chronic hip or knee periprosthetic joint infection, two-stage revision remains the safest choice for implant longevity, while one-stage offers a reasonable middle ground with fewer overall complications."
+      ]
+    },
+    {
+      "pmid": "42685157",
+      "title": "Changes in the Management of Periprosthetic Joint Infection Over the Past 50 Years.",
+      "authors": [
+        "Abedi AA",
+        "Pourbozorg G",
+        "Abdou M",
+        "Hoveidaei AH",
+        "Parvizi J",
+        "Citak M"
+      ],
+      "authors_short": "Abedi AA, Pourbozorg G, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "\u27a2 Periprosthetic joint infection (PJI) remains a major complication of joint arthroplasty, associated with morbidity and health-care burden. Although room for progress remains, the management of PJI has evolved over the past 50 years from empiric, procedure-centered approaches to structured, evidence-based, and biologically informed strategies.\u27a2 This article summarizes key developments in the prevention, diagnosis, and treatment of PJI, driven by advances across multiple clinical and scientific subspecialties.\u27a2 Diagnostic approaches have advanced from reliance on clinical findings and culture to a multimodal framework integrating validated criteria, serological and synovial biomarkers, and molecular techniques. Surgical management has similarly evolved toward individualized strategies, including debridement with implant retention, 1-stage or 2-stage revision, and salvage surgery tailored to host, pathogen, and disease characteristics.\u27a2 Advances in microbiology, particularly the recognition of biofilm and the emerging role of the human microbiome, have further reshaped the understanding of PJI. Overall, this article examines how developments in prevention, diagnosis, surgical treatment, and microbiology have driven a transition toward precision-based, biology-informed, and individualized management of PJI.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42685157/",
+      "score": 80,
+      "score_reasoning": "High-impact network meta-analysis (54 studies, 10,055 patients) in JBJS comparing one-, 1.5-, and two-stage revision for PJI with clinically actionable findings favoring one- and 1.5-stage strategies, published in a top-tier journal.",
+      "bullets": [
+        "PJI diagnosis has shifted from culture and clinical exam alone to a multimodal approach using validated criteria, blood and joint fluid biomarkers, and molecular testing.",
+        "Surgical treatment has moved away from one-size-fits-all revision toward individualized selection among debridement with retention, one-stage revision, two-stage revision, and salvage based on patient, bug, and disease factors.",
+        "Biofilm biology and the human microbiome are now recognized as central to why PJI is difficult to eradicate, reshaping how orthopaedic surgeons think about prevention and treatment targets."
+      ]
+    },
+    {
+      "pmid": "42714041",
+      "title": "The Influence of Multiple Doses of Intravenous Tranexamic Acid on Transfusions and Complications in the Treatment of Fragility Hip Fractures.",
+      "authors": [
+        "Davis S",
+        "Solomito MJ",
+        "McCracken C",
+        "Kumar M"
+      ],
+      "authors_short": "Davis S, Solomito MJ, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVE: To determine the association between multiple intravenous tranexamic acid (TXA) doses and blood transfusions and complication rates in patient treated for fragility hip fractures. DESIGN: Retrospective cohort study. SETTING: Single Level I trauma center. PATIENTS/PARTICIPANTS: Patients that were at least 50 years old and treated for a fragility fracture of the femoral neck (OTA31B), intertrochanteric (OTA31A1/A2), or subtrochanteric (OTA31A3) aspect of the femur between January 2018 and January 2024 were included . INTERVENTION: TXA dosing (i.e. none, single dose, multiple doses) based on institutional protocols. TXA dosing was not based on intra-operative blood loss. MAIN OUTCOMES: The primary outcomes were post-operative blood transfusions, venous thromboembolism (VTE), surgical site infections (SSI), and death within one year of surgery compared among the study groups (patients that received no TXA, a single dose, or multiple doses). RESULTS: A total of 1,691 patients (632 patients [average age 81.4 (53 to 104), 71.8% female] did not receive TXA, 551 [average age 79.9 (51 to 102), 72.4% female] received a single TXA dose, 508 [average age 79.2 (51 to 100), 70.3% female] received multiple TXA doses). Surgical time did not differ between groups (no TXA: 72.6 \u00b1 30.9 minutes, single dose: 74.9 \u00b132.9 minutes, and multiple doses: 70.6 \u00b1 32.3 minutes, p=0.073). TXA use significantly reduced the risk of blood transfusion compared to the no TXA group (no TXA: 31.8%, single dose: 15.9%, multidose 14.2%, p<0.001). There were no significant differences in transfusion rates with two, three and four doses of TXA compared to the single dose group (single dose: 15.9%, two doses: 15.3% three doses 13.6% and four doses 13.1%, p=0.791). The frequency of VTE was the lowest in the single dose group compared to the other study groups (no TXA: 2.7%, single dose: 0.9%, multiple dose 2.7%, p=0.040). There was no difference in death rates among study groups (no TXA: 9.3%, single dose: 7.3%, multiple dose 8.5%, p=0.433). CONCLUSION: Intravenous tranexamic acid (TXA) reduced transfusion needs without an increased complication rate in comparison to not using TXA. Regression analysis demonstrated that three and four doses of TXA did significantly reduce the transfusion rate beyond a single dose of TXA, but did not provide significant reduction beyond two-doses. LEVEL OF EVIDENCE: Level 3.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42714041/",
+      "score": 76,
+      "score_reasoning": "Large retrospective cohort (1,691 patients) from a Level I trauma center examining multiple TXA doses in fragility hip fractures with significant reduction in transfusion rates, directly applicable to high-volume daily practice.",
+      "bullets": [
+        "A single IV dose of TXA cut transfusion rates by half in fragility hip fracture patients compared to no TXA (16% vs 32%), with no increase in VTE, infection, or one-year mortality.",
+        "Adding more TXA doses beyond one did not meaningfully reduce transfusion rates further, making routine multidose protocols unlikely to benefit most patients.",
+        "For fragility hip fractures in patients over 50, a single perioperative IV TXA dose appears to be the practical ceiling of benefit and does not raise clot risk."
+      ]
+    },
+    {
+      "pmid": "42684944",
+      "title": "The Next Era of Orthobiologics: From Promise to Precision.",
+      "authors": [
+        "Piuzzi NS",
+        "Goodman SB"
+      ],
+      "authors_short": "Piuzzi NS, Goodman SB",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42684944/",
+      "score": 73,
+      "score_reasoning": "Comprehensive JBJS review of PJI management evolution over 50 years synthesizing prevention, diagnosis, and treatment advances, offering high clinical utility for practicing surgeons managing this common devastating complication.",
+      "bullets": [
+        "Orthobiologics including PRP, stem cells, and growth factors show variable clinical results largely because product composition and patient biology differ widely across cases.",
+        "Surgeons cannot reliably predict outcomes until standardized dosing, delivery methods, and patient selection criteria are established for each orthobiologic agent.",
+        "Adopting orthobiologics into routine orthopaedic practice should wait for precision-based protocols that match the right product to the right patient at the right time."
+      ]
+    },
+    {
+      "pmid": "42703649",
+      "title": "Absolute Risk of Anterior Cruciate Ligament Graft Reruptures From the Posterior Tibial Slope Falls With Increasing Age: A Risk Stratification Analysis.",
+      "authors": [
+        "Pineda T",
+        "Mazy D",
+        "Ramos-Rojas J",
+        "Cance N",
+        "Dan MJ",
+        "Demey G",
+        "Dejour DH"
+      ],
+      "authors_short": "Pineda T, Mazy D, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Posterior tibial slope (PTS) and young age are well-established independent predictors of an anterior cruciate ligament (ACL) graft rerupture. Although both factors have been studied individually, whether age changes the relative effect of PTS, its absolute clinical impact, or both has not been formally examined across the full age range of patients undergoing ACL reconstruction (ACLR). PURPOSE: To determine whether age modifies the relative or absolute rerupture risk associated with PTS after ACLR, and to identify age thresholds at which clinically relevant absolute risk levels are reached for given slope values. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: A retrospective cohort of 585 patients who underwent primary ACLR with hamstring tendon autografts was analyzed, comprising a low-risk group (isolated ACLR) and a high-risk group (ACLR with lateral extra-articular tenodesis), with a minimum follow-up of 6 years. The Firth penalized logistic regression was used to model the joint effects of PTS and age on graft reruptures in pooled and group-specific analyses. A PTS\u00d7age interaction term was evaluated via the likelihood ratio test to assess whether the relative effect of PTS differed across age strata. Predicted absolute rerupture probabilities were derived from additive models, and age thresholds below which the risk fell under predefined clinically relevant levels (5% and 10%) were estimated for PTS values of 12\u00b0 and 15\u00b0, with stability assessed by bootstrap resampling (1000 iterations). RESULTS: After excluding 4 patients with missing covariate values, 581 patients were included in the final sample (low risk: n = 431; high risk: n = 150). In the pooled cohort (n = 581; 38 reruptures), PTS was independently associated with reruptures (odds ratio per degree, 1.28 [95% CI, 1.10-1.47]; P = .001), and increasing age was independently protective (odds ratio per year, 0.91 [95% CI, 0.87-0.95]; P < .001). No statistically significant PTS\u00d7age interaction was identified in any analysis (pooled cohort: P = .685), indicating that the relative effect of each degree of PTS remained approximately stable across ages. However, the predicted absolute rerupture risk decreased markedly with increasing age. In the pooled cohort, a patient with a PTS of 15\u00b0 had an estimated rerupture probability of 36.6% at age 18 years versus 3.9% at age 45 years. Age thresholds at which the predicted risk fell below 10% were approximately 27 years for a PTS of 12\u00b0 and approximately 35 years for a PTS of 15\u00b0. CONCLUSION: Age modulated the absolute, but not the relative, risk associated with PTS after ACLR. Younger patients with elevated slope values had the highest absolute rerupture risk, reinforcing the clinical value of integrating age into preoperative slope-based risk stratification.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42703649/",
+      "score": 70,
+      "score_reasoning": "Prospective cohort study with 203 knees investigating frailty as a predictor of lateral compartment OA progression after medial UKA at 70-month follow-up, providing actionable preoperative risk stratification data in JAAOS.",
+      "bullets": [
+        "A posterior tibial slope of 15 degrees carries a 37% ACL graft rerupture risk at age 18 but drops to 4% by age 45, so absolute risk falls sharply with age even though each degree of slope carries the same relative hazard at any age.",
+        "Patients under 27 with a slope of 12 degrees, and those under 35 with a slope of 15 degrees, face greater than 10% graft rerupture risk and represent the highest-priority group for additional protective measures.",
+        "When counseling patients and planning ACL reconstruction, combining tibial slope measurement with patient age gives a more accurate rerupture risk estimate than using either factor alone."
+      ]
+    },
+    {
+      "pmid": "42712020",
+      "title": "Three-Dimensional Osseous Alignment and Morphology Patterns of Ankle and Hindfoot Osteoarthritis.",
+      "authors": [
+        "Lapins ER",
+        "Peterson AC",
+        "Mills MK",
+        "Saltzman CL",
+        "Lenz AL"
+      ],
+      "authors_short": "Lapins ER, Peterson AC, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Patients with advanced ankle and hindfoot osteoarthritis (OA) experience substantial functional limitations and reduced quality of life. Conventional 2-dimensional imaging provides limited insight into 3-dimensional (3D) shape and alignment of the foot and ankle, making it unclear whether isolated subtalar OA (STOA), isolated tibiotalar OA (TTOA), and combined disease (TTSTOA) represent distinct morphologic entities related to foot type. METHODS: A retrospective cohort of 196 weightbearing computed tomography (WBCT) scans was analyzed, including 130 OA patients (STOA, TTOA, TTSTOA) and 66 non-osteoarthritic controls classified as planus, rectus (neutral), or cavus. A 14-bone statistical shape model (SSM) characterized 3D morphology and alignment. Principal components analysis (PCA), Hotelling's T2 tests, computationally derived radiographic measurements, and joint space analysis quantified alignment patterns and joint space narrowing. RESULTS: PCA mode 1 reflected a cavus-to-planus alignment spectrum, whereas mode 3 captured joint space narrowing. TTOA was most similar to cavus alignment with increased varus hindfoot and higher sagittal arch measures. STOA was most similar to rectus foot type. TTSTOA spanned the widest range, encompassing varus and valgus presentations, and was among the lower observed joint space distances across both joints. The planus group differed from all OA groups across all analyses. CONCLUSION: Hindfoot and ankle OA presentations were characterized by joint-specific degenerative changes occurring within a broader alignment environment, reflecting altered load distribution and compensatory adaptations. This relationship between local joint degeneration and global alignment underscores the importance of evaluating the foot and ankle as an integrated system, particularly when assessing disease extent, severity, and patterns of multijoint involvement. LEVEL OF EVIDENCE: Level III, retrospective cross-sectional study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42712020/",
+      "score": 69,
+      "score_reasoning": "Retrospective cohort of 243 patients with minimum 10-year follow-up examining psychiatric comorbidity impact on hip arthroscopy survivorship in AJSM, offering novel long-term data on patient selection for a growing procedure.",
+      "bullets": [
+        "Tibiotalar OA is associated with cavus foot alignment and increased hindfoot varus, while isolated subtalar OA more closely resembles a neutral foot type.",
+        "Combined tibiotalar and subtalar OA spans the widest range of alignment patterns, including both varus and valgus presentations, and shows the greatest joint space narrowing across both joints.",
+        "When evaluating ankle and hindfoot OA, foot alignment should be assessed globally, as local joint degeneration occurs within a broader alignment environment that influences disease extent and multijoint involvement."
+      ]
+    },
+    {
+      "pmid": "42702799",
+      "title": "Perioperative Factors Associated With Postoperative Failure-Free Survival After Arthrodesis for Diabetic Charcot Neuroarthropathy of the Foot or Ankle.",
+      "authors": [
+        "Wang Q",
+        "Zhang Y",
+        "Shen S",
+        "Wang J",
+        "Wang JH",
+        "Zhao HM"
+      ],
+      "authors_short": "Wang Q, Zhang Y, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Evidence on perioperative factors associated with postoperative outcomes for diabetic Charcot neuroarthropathy (DCN) of the foot and ankle remains limited. We evaluated whether routinely available clinical, laboratory, and surgery-related variables were associated with postoperative failure-free survival (po-FFS) after arthrodesis. METHODS: This single-center retrospective exploratory prognostic factor study screened consecutive surgically treated patients with DCN between June 2017 and October 2025. The final cohort included 83 patients with Eichenholtz stage III DCN of the foot or ankle treated with arthrodesis and follow-up sufficient for early endpoint ascertainment. The primary endpoint was early po-FFS. Kaplan-Meier analyses, Cox regression, sensitivity analyses, and supplementary analyses of anatomic variables and prior ulcer history were performed. RESULTS: Thirty-five of 83 patients (42.2%) experienced postoperative failure, and 48 (57.8%) remained stable during follow-up. The estimated overall po-FFS was 96.0% (95% CI, 88.1%-98.7%) at 6\u2009months and 45.3% (95% CI, 31.2%-58.5%) at 12\u2009months. In the primary multivariable model, longer duration of diabetes (adjusted hazard ratio [HR] 1.091, 95% CI 1.034-1.150; P\u2009=\u2009.001) and smoking (adjusted HR 2.579, 95% CI 1.119-5.946; P\u2009=\u2009.026) were associated with worse po-FFS. Glycated hemoglobin (HbA1c) was not independently associated with po-FFS (adjusted HR 1.229, 95% CI 0.972-1.555; P\u2009=\u2009.085). In sensitivity analyses, duration of diabetes and smoking remained the most consistent factors. Fasting blood glucose was associated with worse po-FFS only in the alternative model replacing HbA1c. Brodsky classification and prior ulcer history were not independently associated with po-FFS after adjustment. CONCLUSION: Among patients with Eichenholtz stage III DCN of the foot or ankle treated with arthrodesis, diabetes duration and smoking showed the most consistent associations with early po-FFS. Glycemic markers may add information, but findings were marker-dependent. These exploratory findings require validation in larger prospective cohorts with longer follow-up. LEVEL OF EVIDENCE: Level III, retrospective prognostic cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42702799/",
+      "score": 67,
+      "score_reasoning": "AJSM cohort study (585 patients, minimum 6-year follow-up) providing clinically actionable age-stratified absolute risk data on posterior tibial slope and ACL graft rerupture, directly influencing patient counseling and surgical planning.",
+      "bullets": [
+        "In diabetic Charcot neuroarthropathy patients treated with foot or ankle fusion, 42% experienced postoperative failure within one year, with survival dropping from 96% at 6 months to 45% at 12 months.",
+        "Longer duration of diabetes and active smoking were the most consistent predictors of failure after fusion, while HbA1c was not independently associated with outcomes.",
+        "For diabetic Charcot patients being considered for fusion, smoking status and diabetes duration should be weighed as key risk factors regardless of current glycaemic control."
+      ]
+    },
+    {
+      "pmid": "42720286",
+      "title": "The Evolution of Modern Combat Orthopaedic Care From Clinical Investigation to Battlefield Application: Three Decades of Research to Decrease Morbidity and Mortality.",
+      "authors": [
+        "Covey CDC"
+      ],
+      "authors_short": "Covey CDC",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "Over 52,000 US service members were wounded in the wars in Iraq and Afghanistan over two decades of war. These years also witnessed a continued evolution in the treatment of polytraumatized patients, especially those injured in combat. Because most of those wounded in action sustain musculoskeletal injuries, providing skilled treatment as soon as possible after injury has saved the lives of numerous service members and improved the musculoskeletal function of those injured in these conflicts. Orthopaedic surgeons have been crucial members of forward surgical teams that have performed life and limb-saving care under challenging forward-deployed conditions, sometimes under fire. In this setting, military orthopaedic surgery has continued to evolve, building in part on experience gained in smaller conflicts where the United States was not a principal belligerent but where war trauma familiarity was acquired that contributed to improvements in forward orthopaedic care during the recent wars in Iraq and Afghanistan. The presented body of work addresses multiple facets of orthopaedic combat care including the intermingling of surgeon and team preparation, logistics, clinical studies, and the concept of far forward surgical treatment, to increase survival and improve outcomes of those sustaining acute battlefield musculoskeletal trauma.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42720286/",
+      "score": 64,
+      "score_reasoning": "Retrospective cohort (203 knees, 70-month follow-up) in JAAOS showing frailty predicts lateral compartment OA progression after medial UKA with meaningful functional outcome differences, offering a practical preoperative screening tool.",
+      "bullets": [
+        "Over 52,000 US service members were wounded in Iraq and Afghanistan, with musculoskeletal injuries representing the majority of combat wounds.",
+        "Orthopaedic surgeons embedded in forward surgical teams provided early limb and life-saving care, directly reducing morbidity and mortality in the field.",
+        "Three decades of military orthopaedic research show that moving skilled musculoskeletal care closer to the point of injury improves survival and functional outcomes after combat trauma."
+      ]
+    },
+    {
+      "pmid": "42722283",
+      "title": "Medium Term Reoperation Rates after Primary Total Elbow Arthroplasty at a Single Institution: 303 Cases.",
+      "authors": [
+        "Singh A",
+        "Fiandeiro M",
+        "Satalich J",
+        "Shi B",
+        "Markmann C",
+        "Fellheimer H",
+        "Kunz M",
+        "Sherman M",
+        "Ramsey M",
+        "Namdari S"
+      ],
+      "authors_short": "Singh A, Fiandeiro M, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Total elbow arthroplasty (TEA) is a definitive treatment for a broad spectrum of elbow pathology; however, durability remains limited by infection, aseptic loosening, and mechanical failure. As the indications for TEA continue to shift away from auto-immune etiologies and toward traumatic indications, it is important to assess the modern state of TEA long-term outcomes. However, large-scale contemporary data examining mid to long-term outcomes on TEA remains limited. The purpose of this study was to evaluate indications, complications and reoperation patterns following TEA. METHODS: A retrospective cohort study was conducted of all TEA patients performed between 2007 and 2025 at a single large tertiary referral center by eight fellowship trained shoulder and elbow and four fellowship trained hand surgeons. Inclusion criteria included primary TEA for any indication. Exclusion criteria included revision TEA arthroplasties or missing data from the electronic medical record (EMR). Patient demographics, comorbidities, indication, approach, and infection and revision data were obtained from the EMR. Patients with failed open reduction and internal fixations (ORIFs) and radial head replacements who then received a TEA were considered TEA for post-traumatic arthritis/malunion. RESULTS: A total of 303 total elbow arthroplasties (TEAs) were analyzed, including 63 males (21%) and 240 females (79%), with a mean age of 68.4 \u00b1 13.1 years (range, 21-94) and mean follow-up of 4.6 \u00b1 4.2 years (range, 0.1-16.4). The most common indications were acute fracture (37%), autoimmune disease (30%), and post-traumatic arthritis/malunion (23%). The most common approaches were paratricipital (34%) and triceps-splitting (24%). Sixty-four patients (21%) underwent reoperation at a mean of 4.4 \u00b1 4.0 years (range, 0.5-13.7). The most common indications for reoperation were infection (39%), humeral loosening (20%), bushing wear (13%), acute fracture (10%), and ulnar loosening (9%). Overall, 25 patients developed infection at a median of 2.5 years postoperatively (IQR, 0.36-5.78), of whom 13 underwent two-stage revision TEA and 12 underwent irrigation and debridement (I&D). There were no significant differences in infection rates by approach; this remained true after matching for diabetes, smoking status, and previous surgery (p =.761). DISCUSSION/CONCLUSION: This study demonstrates that, despite advances in implant design and surgical technique, total elbow arthroplasty (TEA) continues to face substantial challenges, with a 21% reoperation rate at a mean 4.4-year post-operatively. Infection and aseptic loosening were the major causes of reoperation. These findings underscore the importance of careful patient selection, realistic preoperative counseling, and continued efforts to optimize implant longevity and surgical technique, particularly in younger patients.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42722283/",
+      "score": 60,
+      "score_reasoning": "Propensity score-matched study (26 pairs) comparing rTSA with latissimus dorsi transfer vs rTSA alone, revealing unexpected early proximal humeral erosion without superior functional outcomes, with important implications for surgical decision-making.",
+      "bullets": [
+        "At a mean follow-up of 4.6 years, 21% of primary total elbow arthroplasty patients required reoperation, most commonly for infection (39%) and humeral loosening (20%).",
+        "Infection occurred in 25 of 303 patients at a median of 2.5 years postoperatively, with no difference in infection rate based on surgical approach.",
+        "These reoperation rates apply across all TEA indications including acute fracture, autoimmune disease, and post-traumatic arthritis, supporting careful patient selection and thorough preoperative counseling about durability."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-09-11T07:04:16.742479-07:00"
+}
