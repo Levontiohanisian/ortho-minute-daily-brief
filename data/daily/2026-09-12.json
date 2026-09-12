@@ -1,0 +1,101 @@
+{
+  "brief_date": "2026-09-12",
+  "brief_date_display": "Saturday, September 12",
+  "candidates": [
+    {
+      "pmid": "42726923",
+      "title": "Functional alignment robotic-assisted TKA improves clinical outcomes compared with conventional mechanical alignment TKA: A single-surgeon randomised controlled non-inferiority trial with 2-year follow-up.",
+      "authors": [
+        "Coenen R",
+        "Peeters A",
+        "Bollars P",
+        "Nathwani D",
+        "Albelooshi A",
+        "Ettinger MT",
+        "Deltour A",
+        "Schotanus MGM"
+      ],
+      "authors_short": "Coenen R, Peeters A, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: Functional alignment (FA) has emerged as an alternative to mechanical alignment (MA) in total knee arthroplasty (TKA), supported by robotic assistance to enhance precision and soft\u2011tissue preservation. Evidence comparing FA performed with robotic assistance to conventional MA\u2011TKA across mid\u2011term patient\u2011reported outcomes measures (PROMs) remains limited. This randomised controlled trial evaluated differences in recovery trajectories and 2\u2011year knee\u2011specific outcomes between FA\u2011RATKA and MA\u2011CTKA. METHODS: This study reports the predefined primary 2-year outcomes of a prospective randomised controlled non-inferiority trial including 180 patients (FA-RATKA, n\u2009=\u200981; MA-CTKA, n\u2009=\u200982), of whom 163 completed follow-up. Assessments were performed preoperatively and at 3-months, 1- and 2-years using validated PROMs: Knee Society Score (KSS) subdomains, Oxford Knee Score (OKS), Forgotten Joint Score (FJS-12), VAS pain, EQ-5D-5L (index and VAS), Lower Extremity Activity Scale (LEAS), and overall satisfaction. Mixed-effects models evaluated group, time, and Group\u2009\u00d7\u2009Time interactions, adjusting for age, BMI, and soft-tissue release. Effect sizes (r) were calculated to contextualise clinical relevance. RESULTS: FA-RATKA demonstrated more favourable knee-specific outcomes across follow-up, with significant Group\u2009\u00d7\u2009Time interactions for KSS Function (F(3,679)\u2009=\u20096.970, p\u2009<\u20090.001; r\u2009=\u20090.173), KSS Satisfaction (F(3,679)\u2009=\u200910.892, p\u2009<\u20090.001; r\u2009=\u20090.214) and KSS Symptoms (F(3,679)\u2009=\u20094.425, p\u2009=\u20090.004; r\u2009=\u20090.138). FA-RATKA also showed more favourable OKS trajectories (F(3,679)\u2009=\u20098.053, p\u2009<\u20090.001; r\u2009=\u20090.185), lower VAS pain (F(3,679)\u2009=\u20098.339, p\u2009<\u20090.001; r\u2009=\u20090.188), and higher EQ-5D index scores (F(2,515)\u2009=\u20095.227, p\u2009=\u20090.006; r\u2009=\u20090.141). Categorical satisfaction favoured FA-RATKA at early follow-up (F(2,503)\u2009=\u20093.491, p\u2009=\u20090.031; r\u2009=\u20090.117). Effect sizes ranged from r\u2009=\u20090.117 to 0.214, corresponding to small to small-medium magnitudes. CONCLUSIONS: In this prospective, randomised, single-surgeon study, several knee-specific patient-reported outcomes demonstrated modest but statistically supported differences at 2-year follow-up, with consistently higher values in the FA-RATKA group. LEVEL OF EVIDENCE: Level I, randomised controlled trials with adequate statistical power to detect differences (narrow confidence intervals) and follow up >80%, as per the KSSTA guidelines.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42726923/",
+      "score": 88,
+      "score_reasoning": "High-quality RCT comparing FA robotic-assisted TKA vs conventional MA-TKA with 2-year PROMs in 180 patients, directly relevant to practicing arthroplasty surgeons debating alignment philosophy and robotic adoption.",
+      "bullets": [
+        "In a randomized trial of 163 TKA patients, robotic functional alignment produced better knee function, satisfaction, pain, and quality of life scores at 2 years compared with conventional mechanical alignment.",
+        "The benefits were consistent across multiple outcome measures but effect sizes were small to small-medium, meaning the differences are real but modest in absolute terms.",
+        "For surgeons considering robotic TKA, functional alignment targeting the patient's natural joint line may offer a meaningful clinical advantage over standard mechanical alignment technique."
+      ]
+    },
+    {
+      "pmid": "42705360",
+      "title": "One-, 1.5-, or Two-Stage Revision for Periprosthetic Hip and Knee Joint Infection? A Network Meta-Analysis Comparing Revision Strategies.",
+      "authors": [
+        "Selim A",
+        "Ibrahim A",
+        "Saeed A",
+        "Khamdan K",
+        "Farhan-Alanie MM",
+        "Sadiq S",
+        "Govilkar S",
+        "Thomas G"
+      ],
+      "authors_short": "Selim A, Ibrahim A, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Periprosthetic joint infection (PJI) remains a devastating complication following total hip and knee arthroplasty. Revision strategies for chronic PJI include one-, 1.5-, and two-stage revision procedures. This study compared clinical outcomes of these revision strategies using a network meta-analytic approach. METHODS: A systematic review and Bayesian network meta-analysis were conducted. Databases were searched through October 2025. Randomized controlled trials and comparative cohort studies evaluating one-, 1.5-, and two-stage revision procedures for hip and knee chronic PJI were included. Chronic PJI was defined by Musculoskeletal Infection Society/International Consensus Meeting (MSIS/ICM) criteria, excluding acute postoperative and hematogenous infections. In the primary network, hip and knee revisions were analyzed together, with pre-specified hip-only and knee-only subgroup networks reported separately. There were 54 studies (10,055 patients) eligible for inclusion. RESULTS: Compared with two-stage revision, both one- and 1.5-stage revisions were associated with significantly lower odds of reinfection (odds ratio (OR) = 0.84, 95% credible interval (CrI) 0.72 to 0.99 and OR = 0.58, 95% CrI 0.37 to 0.89, respectively) and reoperation (OR = 0.79, 95% CrI 0.63 to 0.99 and OR = 0.20, 95% CrI 0.05 to 0.82, respectively). The 1.5-stage strategy demonstrated significantly higher infection control success (OR = 1.64, 95% CrI 1.07 to 2.51). The one-stage revision was associated with fewer overall complications (OR = 0.64, 95% CrI 0.48 to 0.86). The 1.5-stage strategy showed a significantly increased risk of aseptic loosening (OR = 4.80, 95% CrI 1.57 to 20.79), while two-stage revision performed best. CONCLUSION: The 1.5-stage revision was associated with the most favorable infection-related outcomes, but a higher risk of aseptic loosening. The one-stage revision showed intermediate results, while the two-stage revision performed less favorably but had the lowest loosening risk. Because the evidence is largely observational and subject to confounding by indication, these associations should be interpreted cautiously.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42705360/",
+      "score": 85,
+      "score_reasoning": "Large registry study (81,610 cases) from AJRR demonstrating cemented fixation reduces revision risk in femoral neck fracture arthroplasty, directly actionable for surgeons managing a common high-stakes procedure with significant practice variation.",
+      "bullets": [
+        "Across 10,055 patients with chronic periprosthetic joint infection, both one-stage and 1.5-stage revision had lower reinfection and reoperation rates than two-stage revision.",
+        "The 1.5-stage approach had the best infection control but nearly five times the risk of aseptic loosening compared to two-stage revision.",
+        "For orthopaedic surgeons managing chronic hip or knee periprosthetic joint infection, two-stage revision remains the most implant-stable option, while one-stage offers a reasonable middle ground with fewer overall complications."
+      ]
+    },
+    {
+      "pmid": "42705360",
+      "title": "One-, 1.5-, or Two-Stage Revision for Periprosthetic Hip and Knee Joint Infection? A Network Meta-Analysis Comparing Revision Strategies.",
+      "authors": [
+        "Selim A",
+        "Ibrahim A",
+        "Saeed A",
+        "Khamdan K",
+        "Farhan-Alanie MM",
+        "Sadiq S",
+        "Govilkar S",
+        "Thomas G"
+      ],
+      "authors_short": "Selim A, Ibrahim A, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Periprosthetic joint infection (PJI) remains a devastating complication following total hip and knee arthroplasty. Revision strategies for chronic PJI include one-, 1.5-, and two-stage revision procedures. This study compared clinical outcomes of these revision strategies using a network meta-analytic approach. METHODS: A systematic review and Bayesian network meta-analysis were conducted. Databases were searched through October 2025. Randomized controlled trials and comparative cohort studies evaluating one-, 1.5-, and two-stage revision procedures for hip and knee chronic PJI were included. Chronic PJI was defined by Musculoskeletal Infection Society/International Consensus Meeting (MSIS/ICM) criteria, excluding acute postoperative and hematogenous infections. In the primary network, hip and knee revisions were analyzed together, with pre-specified hip-only and knee-only subgroup networks reported separately. There were 54 studies (10,055 patients) eligible for inclusion. RESULTS: Compared with two-stage revision, both one- and 1.5-stage revisions were associated with significantly lower odds of reinfection (odds ratio (OR) = 0.84, 95% credible interval (CrI) 0.72 to 0.99 and OR = 0.58, 95% CrI 0.37 to 0.89, respectively) and reoperation (OR = 0.79, 95% CrI 0.63 to 0.99 and OR = 0.20, 95% CrI 0.05 to 0.82, respectively). The 1.5-stage strategy demonstrated significantly higher infection control success (OR = 1.64, 95% CrI 1.07 to 2.51). The one-stage revision was associated with fewer overall complications (OR = 0.64, 95% CrI 0.48 to 0.86). The 1.5-stage strategy showed a significantly increased risk of aseptic loosening (OR = 4.80, 95% CrI 1.57 to 20.79), while two-stage revision performed best. CONCLUSION: The 1.5-stage revision was associated with the most favorable infection-related outcomes, but a higher risk of aseptic loosening. The one-stage revision showed intermediate results, while the two-stage revision performed less favorably but had the lowest loosening risk. Because the evidence is largely observational and subject to confounding by indication, these associations should be interpreted cautiously.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42705360/",
+      "score": 85,
+      "score_reasoning": "Duplicate placeholder removed.",
+      "bullets": [
+        "Across 10,055 patients with chronic periprosthetic joint infection, one-stage and 1.5-stage revisions had lower reinfection and reoperation rates than two-stage revision.",
+        "The 1.5-stage strategy had the best infection control but carried nearly five times the risk of aseptic loosening compared to two-stage revision.",
+        "For surgeons choosing a revision strategy in chronic hip or knee periprosthetic joint infection, single-stage approaches reduce reinfection burden but implant fixation durability remains a concern with the 1.5-stage technique."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-09-12T06:21:09.762970-07:00"
+}
