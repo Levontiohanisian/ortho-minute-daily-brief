@@ -1,0 +1,293 @@
+{
+  "brief_date": "2026-09-13",
+  "brief_date_display": "Sunday, September 13",
+  "candidates": [
+    {
+      "pmid": "42705360",
+      "title": "One-, 1.5-, or Two-Stage Revision for Periprosthetic Hip and Knee Joint Infection? A Network Meta-Analysis Comparing Revision Strategies.",
+      "authors": [
+        "Selim A",
+        "Ibrahim A",
+        "Saeed A",
+        "Khamdan K",
+        "Farhan-Alanie MM",
+        "Sadiq S",
+        "Govilkar S",
+        "Thomas G"
+      ],
+      "authors_short": "Selim A, Ibrahim A, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Periprosthetic joint infection (PJI) remains a devastating complication following total hip and knee arthroplasty. Revision strategies for chronic PJI include one-, 1.5-, and two-stage revision procedures. This study compared clinical outcomes of these revision strategies using a network meta-analytic approach. METHODS: A systematic review and Bayesian network meta-analysis were conducted. Databases were searched through October 2025. Randomized controlled trials and comparative cohort studies evaluating one-, 1.5-, and two-stage revision procedures for hip and knee chronic PJI were included. Chronic PJI was defined by Musculoskeletal Infection Society/International Consensus Meeting (MSIS/ICM) criteria, excluding acute postoperative and hematogenous infections. In the primary network, hip and knee revisions were analyzed together, with pre-specified hip-only and knee-only subgroup networks reported separately. There were 54 studies (10,055 patients) eligible for inclusion. RESULTS: Compared with two-stage revision, both one- and 1.5-stage revisions were associated with significantly lower odds of reinfection (odds ratio (OR) = 0.84, 95% credible interval (CrI) 0.72 to 0.99 and OR = 0.58, 95% CrI 0.37 to 0.89, respectively) and reoperation (OR = 0.79, 95% CrI 0.63 to 0.99 and OR = 0.20, 95% CrI 0.05 to 0.82, respectively). The 1.5-stage strategy demonstrated significantly higher infection control success (OR = 1.64, 95% CrI 1.07 to 2.51). The one-stage revision was associated with fewer overall complications (OR = 0.64, 95% CrI 0.48 to 0.86). The 1.5-stage strategy showed a significantly increased risk of aseptic loosening (OR = 4.80, 95% CrI 1.57 to 20.79), while two-stage revision performed best. CONCLUSION: The 1.5-stage revision was associated with the most favorable infection-related outcomes, but a higher risk of aseptic loosening. The one-stage revision showed intermediate results, while the two-stage revision performed less favorably but had the lowest loosening risk. Because the evidence is largely observational and subject to confounding by indication, these associations should be interpreted cautiously.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42705360/",
+      "score": 88,
+      "score_reasoning": "Large registry study (81,610 cases) from AJRR directly addressing cement vs cementless fixation in femoral neck fracture arthroplasty with clear outcome data showing cemented fixation reduces revision risk, highly relevant to daily practice with strong sample size and journal prestige.",
+      "bullets": [
+        "Across 10,055 patients with chronic periprosthetic joint infection, one-stage and 1.5-stage revision both had lower reinfection and reoperation rates than two-stage revision.",
+        "The 1.5-stage strategy had the best infection control but nearly five times the risk of aseptic loosening compared to two-stage revision.",
+        "For surgeons choosing a revision strategy in chronic hip or knee periprosthetic joint infection, two-stage remains the most implant-stable option despite worse infection control."
+      ]
+    },
+    {
+      "pmid": "42726923",
+      "title": "Functional alignment robotic-assisted TKA improves clinical outcomes compared with conventional mechanical alignment TKA: A single-surgeon randomised controlled non-inferiority trial with 2-year follow-up.",
+      "authors": [
+        "Coenen R",
+        "Peeters A",
+        "Bollars P",
+        "Nathwani D",
+        "Albelooshi A",
+        "Ettinger MT",
+        "Deltour A",
+        "Schotanus MGM"
+      ],
+      "authors_short": "Coenen R, Peeters A, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: Functional alignment (FA) has emerged as an alternative to mechanical alignment (MA) in total knee arthroplasty (TKA), supported by robotic assistance to enhance precision and soft\u2011tissue preservation. Evidence comparing FA performed with robotic assistance to conventional MA\u2011TKA across mid\u2011term patient\u2011reported outcomes measures (PROMs) remains limited. This randomised controlled trial evaluated differences in recovery trajectories and 2\u2011year knee\u2011specific outcomes between FA\u2011RATKA and MA\u2011CTKA. METHODS: This study reports the predefined primary 2-year outcomes of a prospective randomised controlled non-inferiority trial including 180 patients (FA-RATKA, n\u2009=\u200981; MA-CTKA, n\u2009=\u200982), of whom 163 completed follow-up. Assessments were performed preoperatively and at 3-months, 1- and 2-years using validated PROMs: Knee Society Score (KSS) subdomains, Oxford Knee Score (OKS), Forgotten Joint Score (FJS-12), VAS pain, EQ-5D-5L (index and VAS), Lower Extremity Activity Scale (LEAS), and overall satisfaction. Mixed-effects models evaluated group, time, and Group\u2009\u00d7\u2009Time interactions, adjusting for age, BMI, and soft-tissue release. Effect sizes (r) were calculated to contextualise clinical relevance. RESULTS: FA-RATKA demonstrated more favourable knee-specific outcomes across follow-up, with significant Group\u2009\u00d7\u2009Time interactions for KSS Function (F(3,679)\u2009=\u20096.970, p\u2009<\u20090.001; r\u2009=\u20090.173), KSS Satisfaction (F(3,679)\u2009=\u200910.892, p\u2009<\u20090.001; r\u2009=\u20090.214) and KSS Symptoms (F(3,679)\u2009=\u20094.425, p\u2009=\u20090.004; r\u2009=\u20090.138). FA-RATKA also showed more favourable OKS trajectories (F(3,679)\u2009=\u20098.053, p\u2009<\u20090.001; r\u2009=\u20090.185), lower VAS pain (F(3,679)\u2009=\u20098.339, p\u2009<\u20090.001; r\u2009=\u20090.188), and higher EQ-5D index scores (F(2,515)\u2009=\u20095.227, p\u2009=\u20090.006; r\u2009=\u20090.141). Categorical satisfaction favoured FA-RATKA at early follow-up (F(2,503)\u2009=\u20093.491, p\u2009=\u20090.031; r\u2009=\u20090.117). Effect sizes ranged from r\u2009=\u20090.117 to 0.214, corresponding to small to small-medium magnitudes. CONCLUSIONS: In this prospective, randomised, single-surgeon study, several knee-specific patient-reported outcomes demonstrated modest but statistically supported differences at 2-year follow-up, with consistently higher values in the FA-RATKA group. LEVEL OF EVIDENCE: Level I, randomised controlled trials with adequate statistical power to detect differences (narrow confidence intervals) and follow up >80%, as per the KSSTA guidelines.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42726923/",
+      "score": 85,
+      "score_reasoning": "RCT from high-impact KSSTA journal comparing functional alignment robotic TKA to conventional mechanical alignment with 2-year follow-up in 163 patients, directly relevant to the growing robotic surgery debate with novel superiority findings.",
+      "bullets": [
+        "In a randomised trial of 163 TKA patients, robotic functional alignment produced better knee scores, lower pain, and higher satisfaction at 2 years compared to conventional mechanical alignment.",
+        "Gains were consistent across knee-specific outcome measures but effect sizes were small, meaning the average patient improvement is real but modest in magnitude.",
+        "Surgeons considering alignment philosophy in TKA can use this level I evidence to support functional alignment with robotic assistance, particularly for patients prioritising early recovery and satisfaction."
+      ]
+    },
+    {
+      "pmid": "42705359",
+      "title": "Trends in Racial and Socioeconomic Differences in Cementless Total Knee Arthroplasty Utilization Among Medicare Beneficiaries from 2016 to 2022.",
+      "authors": [
+        "Ricca GW",
+        "Torres RB",
+        "Wong L",
+        "Van Hyfte G",
+        "Dhanjani SA",
+        "Shatkin MS",
+        "Hayden BL",
+        "Moucha CS",
+        "Chen DD"
+      ],
+      "authors_short": "Ricca GW, Torres RB, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Cementless total knee arthroplasty (TKA) has reemerged with advances in implant design promoting improved durability. However, differences in the utilization of emerging orthopaedic technologies persist, and the influence of race and socioeconomic status on cementless fixation adoption remains unclear. This study evaluated national trends in cementless TKA utilization across race and socioeconomic status. METHODS: Medicare fee-for-service claims (2016 to 2022) were used to identify adult patients who underwent primary, elective, inpatient TKA via International Classification of Diseases, Tenth Revision, Procedure Coding System codes. Patients were grouped by race (White, Black, or Hispanic) and dual Medicare-Medicaid eligibility (yes/no) as a proxy for socioeconomic status. Procedures were categorized as cementless or cemented fixation. Cochran-Armitage trend tests and compound annual growth rate (CAGR) were used to evaluate annual trends. Multivariable logistic regression models examined the association between race-socioeconomic subgroups and cementless fixation, adjusting for demographic, clinical, and hospital factors. RESULTS: Among 1,044,345 TKAs, 4.8% (50,141) were cementless, increasing from 2.4% in 2016 to 9.9% in 2022 (CAGR 26.7%; P < 0.0001). The CAGR for cementless TKA was highest for Hispanic non-dual-eligible (CAGR 30.6%) and White non-dual-eligible (CAGR 27.3%) patients and lowest among Hispanic dual-eligible patients (CAGR 16.9%). After multivariable adjustment, Black dual-eligible (odds ratio (OR) 0.92; P = 0.015), Hispanic dual-eligible (OR 0.86; P = 0.004), and Hispanic non-dual-eligible (OR 0.84; P = 0.030) patients had significantly lower odds of receiving cementless fixation versus White non-dual-eligible counterparts. Black non-dual-eligible patients demonstrated higher odds (OR 1.05; P = 0.041). Although several differences reached statistical significance, the magnitude of adjusted odds ratios was modest. CONCLUSION: Cementless TKA grew across all race-socioeconomic categories among Medicare beneficiaries. However, most minority and lower-income subgroups were less likely to receive this reemerging technique, with differences concentrated among Hispanic and dual-eligible patients. These findings highlight variation in adoption of emerging orthopaedic technologies across patient populations.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42705359/",
+      "score": 84,
+      "score_reasoning": "Network meta-analysis of 54 studies and 10,055 patients comparing PJI revision strategies showing one- and 1.5-stage revisions outperform two-stage, directly challenges current practice paradigm with high clinical impact and strong methodology.",
+      "bullets": [
+        "Cementless TKA use among Medicare patients quadrupled from 2016 to 2022, reaching nearly 10% of all primary knee replacements by 2022.",
+        "Hispanic and dual Medicare-Medicaid eligible patients were less likely to receive cementless fixation compared to non-dual-eligible White patients, even after adjusting for clinical and hospital factors.",
+        "Orthopaedic surgeons should be aware that newer fixation techniques are not reaching all patient groups equally, particularly lower-income and Hispanic patients."
+      ]
+    },
+    {
+      "pmid": "42714041",
+      "title": "The Influence of Multiple Doses of Intravenous Tranexamic Acid on Transfusions and Complications in the Treatment of Fragility Hip Fractures.",
+      "authors": [
+        "Davis S",
+        "Solomito MJ",
+        "McCracken C",
+        "Kumar M"
+      ],
+      "authors_short": "Davis S, Solomito MJ, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVE: To determine the association between multiple intravenous tranexamic acid (TXA) doses and blood transfusions and complication rates in patient treated for fragility hip fractures. DESIGN: Retrospective cohort study. SETTING: Single Level I trauma center. PATIENTS/PARTICIPANTS: Patients that were at least 50 years old and treated for a fragility fracture of the femoral neck (OTA31B), intertrochanteric (OTA31A1/A2), or subtrochanteric (OTA31A3) aspect of the femur between January 2018 and January 2024 were included . INTERVENTION: TXA dosing (i.e. none, single dose, multiple doses) based on institutional protocols. TXA dosing was not based on intra-operative blood loss. MAIN OUTCOMES: The primary outcomes were post-operative blood transfusions, venous thromboembolism (VTE), surgical site infections (SSI), and death within one year of surgery compared among the study groups (patients that received no TXA, a single dose, or multiple doses). RESULTS: A total of 1,691 patients (632 patients [average age 81.4 (53 to 104), 71.8% female] did not receive TXA, 551 [average age 79.9 (51 to 102), 72.4% female] received a single TXA dose, 508 [average age 79.2 (51 to 100), 70.3% female] received multiple TXA doses). Surgical time did not differ between groups (no TXA: 72.6 \u00b1 30.9 minutes, single dose: 74.9 \u00b132.9 minutes, and multiple doses: 70.6 \u00b1 32.3 minutes, p=0.073). TXA use significantly reduced the risk of blood transfusion compared to the no TXA group (no TXA: 31.8%, single dose: 15.9%, multidose 14.2%, p<0.001). There were no significant differences in transfusion rates with two, three and four doses of TXA compared to the single dose group (single dose: 15.9%, two doses: 15.3% three doses 13.6% and four doses 13.1%, p=0.791). The frequency of VTE was the lowest in the single dose group compared to the other study groups (no TXA: 2.7%, single dose: 0.9%, multiple dose 2.7%, p=0.040). There was no difference in death rates among study groups (no TXA: 9.3%, single dose: 7.3%, multiple dose 8.5%, p=0.433). CONCLUSION: Intravenous tranexamic acid (TXA) reduced transfusion needs without an increased complication rate in comparison to not using TXA. Regression analysis demonstrated that three and four doses of TXA did significantly reduce the transfusion rate beyond a single dose of TXA, but did not provide significant reduction beyond two-doses. LEVEL OF EVIDENCE: Level 3.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42714041/",
+      "score": 82,
+      "score_reasoning": "Comprehensive contemporary review of fracture-related infection from JAAOS covering definitions, prevention, and multidisciplinary management, highly clinically relevant to all trauma surgeons with authoritative journal backing.",
+      "bullets": [
+        "A single IV dose of TXA cuts transfusion rates in half for fragility hip fracture patients compared to no TXA (16% vs 32%).",
+        "Adding more than one dose of TXA does not meaningfully reduce transfusions further, and the multiple-dose group had higher VTE rates than the single-dose group.",
+        "For fragility hip fractures, one perioperative IV dose of TXA appears to be the optimal strategy, balancing transfusion reduction with the lowest complication risk."
+      ]
+    },
+    {
+      "pmid": "42713799",
+      "title": "One in Four Children Experience BMI Increase After Lower Extremity Surgery Without Return to Preoperative Levels: A Retrospective Cohort Study.",
+      "authors": [
+        "Viza Gomes P",
+        "Badejo M",
+        "Damron A",
+        "Bradley T",
+        "Bitolas R",
+        "Sachs B",
+        "Poehlein E",
+        "Green C",
+        "Catanzano A"
+      ],
+      "authors_short": "Viza Gomes P, Badejo M, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Weight and body mass index (BMI) are influenced by many intrinsic and extrinsic factors, including activity level. After undergoing orthopaedic surgery, a period of immobilization and activity restrictions typically follows, which may place patients at risk for an acute increase in weight and BMI. This study aimed to quantify the change in BMI preoperatively to 3 months postoperatively after treatment of lower extremity conditions and assess whether BMI returned to baseline levels by 1 year among patients with a clinically meaningful BMI increase at 3 months (BMI z-score \u22650.20). METHODS: A single-center, retrospective review was performed of patients younger than 18 years treated operatively for lower extremity fractures or undergoing an elective lower extremity surgery over a 3-year period. Multivariable logistic regression was used to evaluate the association between a clinically meaningful BMI increase at 3 months and baseline characteristics to determine potential \"at risk\" patients. RESULTS: In total 411 patients were included (average age 13.0 \u00b1 3.1\u00a0y, 57.9% male). The average change in BMI from baseline to 3 months was 0.33\u00a0kg/m\u00b2 (95% CI: 0.08-0.59), a mean change in BMI z-score of -0.040 (95% CI: -0.093 to 0.013). A clinically meaningful increase in BMI z-score (\u22650.20) was found in 109 patients (26.5%). Of these patients, 49 had documented 12 to 18-month follow-up with only 28.6% (95% CI: 15.9-41.2%) returning to their preoperative BMI. The only baseline characteristic significantly associated with an increase in BMI z-score \u22650.20 within 3 months was diagnosis category (obesity-associated conditions vs. fracture and other orthopaedic conditions) [odds ratio (OR): 1.84, 95% CI: 1.04-3.25; P=0.037]. CONCLUSIONS: Postoperatively, when patients are immobilized with weight-bearing and activity restrictions, there is risk of clinically meaningful increases in BMI. This represents an opportunity for orthopaedic providers to incorporate means for weight management during the recovery period, which includes several in-person follow-up appointments. This may include simple education or appropriate referrals and evaluations by primary care providers and weight management specialists. LEVEL OF EVIDENCE: Level IV.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42713799/",
+      "score": 81,
+      "score_reasoning": "Retrospective cohort of 1,691 hip fracture patients demonstrating multiple TXA doses reduce transfusion risk without increasing complications, directly applicable to high-volume trauma practice in an important patient population.",
+      "bullets": [
+        "One in four children undergoing lower extremity surgery gained a clinically meaningful amount of weight by 3 months postoperatively.",
+        "Of those who gained weight, fewer than 30% returned to their preoperative BMI by one year, making the weight gain persistent in most cases.",
+        "Orthopaedic surgeons should use postoperative follow-up visits to counsel patients and families on weight management or refer to primary care early in recovery."
+      ]
+    },
+    {
+      "pmid": "42695694",
+      "title": "Development and Preliminary Validation of a Tactile, 3D-Printed Kirschner Wire Pinning Simulator for Orthopaedic Surgery Residents.",
+      "authors": [
+        "Rasheed H",
+        "Monovoukas D",
+        "Rooney DM",
+        "Whyte NSB"
+      ],
+      "authors_short": "Rasheed H, Monovoukas D, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: There are limited opportunities for orthopaedic trainees to practice placing Kirschner wires for fracture fixation outside the operating room. We created an inexpensive, low-fidelity simulator to meet this need. METHODS: The simulator is composed of a bone model, soft-tissue model, light fixture \"radiograph,\" and an electronic component and costs US$53. Validation evidence relevant to test content was evaluated by five fellowship-trained pediatric orthopaedic surgeons using a Likert scale to assess the physical characteristics of the models and their ability to result in transfer of skills to the operating room. RESULTS: Model 3 had the highest average score for feel of the near (3.4) and far (3.4) cortex. Model 2 had the highest average score for feel of the medullary canal (3.2) and pin visualization (2.6). The simulator had high scores for ease of use and implementation and was rated highly for its ability to support residents' learning to triangulate to a defined target (4.8) and improve motor skills (4.4). DISCUSSION: We were able to create an inexpensive, low-fidelity simulator with potential for high transferability, which can be used by orthopaedic surgery residents to improve their motor skills in a low risk, high-reward environment.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42695694/",
+      "score": 80,
+      "score_reasoning": "Authoritative JBJS review on global fragility fracture care gaps with evidence-based quality standards and actionable recommendations for orthopaedic surgeons, highly relevant given aging population demographics.",
+      "bullets": [
+        "A 3D-printed K-wire pinning simulator costing $53 was built to give orthopaedic residents hands-on practice outside the operating room.",
+        "Fellowship-trained pediatric orthopaedic surgeons rated the simulator highly for teaching triangulation technique and improving motor skills.",
+        "For programs with limited surgical volume, this low-cost simulator offers a practical way to build resident K-wire skills before the operating room."
+      ]
+    },
+    {
+      "pmid": "42731122",
+      "title": "Outcomes after anterior cruciate ligament reconstruction with versus without lateral extra-articular tenodesis: A propensity-matched cohort study.",
+      "authors": [
+        "Rteil A",
+        "Jason K",
+        "Amirouche F"
+      ],
+      "authors_short": "Rteil A, Jason K, Amirouche F",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: Lateral extra-articular tenodesis (LET) has gained increasing use as an adjunct to anterior cruciate ligament reconstruction (ACLR) to improve rotational stability and reduce graft failure. However, concerns remain regarding its potential impact on postoperative morbidity and longer-term joint outcomes. This study aimed to compare postoperative complications, healthcare utilisation and osteoarthritis risk between patients undergoing isolated ACLR and ACLR with LET. METHODS: A retrospective cohort study was conducted using the TriNetX research network. Patients undergoing primary ACLR with or without LET were identified using CPT. After applying the exclusion criteria, 1:1 propensity score matching was performed, yielding 5021 patients per cohort. Early outcomes at 3 and 6 months included arthrofibrosis-related procedures, wound complications, opioid use, rehabilitation utilisation, emergency room visits and hospital readmissions. Short-term outcomes at 1-2 years included subsequent ACLR and meniscal surgery. Mid-term outcomes at 5 years included knee osteoarthritis. A young high-risk subgroup aged 12-25 years was analysed for 1- and 2-year outcomes. Odds ratios (ORs) and hazard ratios (HRs) with 95% confidence intervals (CIs) were calculated. RESULTS: ACLR/LET was associated with higher odds of arthrofibrosis-related procedures at 3, 6 and 12 months, including at 1 year (3.4% vs. 2.1%; OR 1.65, 95% CI 1.29-2.11; p\u2009<\u20090.001). The LET cohort also had higher odds of wound complications and hospital readmissions at 3 and 6 months, with greater early opioid and rehabilitation utilisation. At 2 years, ACLR/LET was associated with higher hazards of arthrofibrosis-related procedures (HR 2.01; p\u2009<\u20090.001) and subsequent meniscal surgery (HR 1.25; p\u2009<\u20090.05), but not subsequent ACLR. ACLR/LET was also associated with higher hazards of ICD-coded knee osteoarthritis in the primary 5-year analysis (HR 2.24, 95% CI 1.76-2.85; p\u2009<\u20090.001) and the 1-year landmark analysis (HR 2.57; p\u2009<\u20090.001). In the young subgroup, ACLR/LET was associated with lower odds of subsequent ACLR at 1 year. CONCLUSIONS: In this propensity-matched retrospective study, ACLR with LET was associated with increased early postoperative morbidity, higher hazards of subsequent meniscal surgery and ICD-coded knee osteoarthritis, and no significant reduction in subsequent ACL reconstruction in the primary 2-year time-to-event analysis. Given the retrospective design and potential residual confounding by indication, these findings should be interpreted as associations rather than definitive causal effects of LET augmentation. These results highlight the importance of careful patient selection and counselling when considering LET during ACLR. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42731122/",
+      "score": 76,
+      "score_reasoning": "Large propensity-matched cohort of 5,021 ACLR+LET patients showing significantly higher arthrofibrosis rates and wound complications with LET, highly relevant given growing LET adoption with important safety signal.",
+      "bullets": [
+        "Adding lateral extra-articular tenodesis to ACL reconstruction was associated with more arthrofibrosis, wound complications, and readmissions in the early postoperative period.",
+        "At five years, patients who had tenodesis showed higher rates of knee osteoarthritis and subsequent meniscal surgery, with no significant reduction in ACL re-reconstruction.",
+        "In young patients aged 12 to 25, tenodesis was associated with lower odds of repeat ACL reconstruction at one year, suggesting a possible protective effect in this high-risk group."
+      ]
+    },
+    {
+      "pmid": "42703649",
+      "title": "Absolute Risk of Anterior Cruciate Ligament Graft Reruptures From the Posterior Tibial Slope Falls With Increasing Age: A Risk Stratification Analysis.",
+      "authors": [
+        "Pineda T",
+        "Mazy D",
+        "Ramos-Rojas J",
+        "Cance N",
+        "Dan MJ",
+        "Demey G",
+        "Dejour DH"
+      ],
+      "authors_short": "Pineda T, Mazy D, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Posterior tibial slope (PTS) and young age are well-established independent predictors of an anterior cruciate ligament (ACL) graft rerupture. Although both factors have been studied individually, whether age changes the relative effect of PTS, its absolute clinical impact, or both has not been formally examined across the full age range of patients undergoing ACL reconstruction (ACLR). PURPOSE: To determine whether age modifies the relative or absolute rerupture risk associated with PTS after ACLR, and to identify age thresholds at which clinically relevant absolute risk levels are reached for given slope values. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: A retrospective cohort of 585 patients who underwent primary ACLR with hamstring tendon autografts was analyzed, comprising a low-risk group (isolated ACLR) and a high-risk group (ACLR with lateral extra-articular tenodesis), with a minimum follow-up of 6 years. The Firth penalized logistic regression was used to model the joint effects of PTS and age on graft reruptures in pooled and group-specific analyses. A PTS\u00d7age interaction term was evaluated via the likelihood ratio test to assess whether the relative effect of PTS differed across age strata. Predicted absolute rerupture probabilities were derived from additive models, and age thresholds below which the risk fell under predefined clinically relevant levels (5% and 10%) were estimated for PTS values of 12\u00b0 and 15\u00b0, with stability assessed by bootstrap resampling (1000 iterations). RESULTS: After excluding 4 patients with missing covariate values, 581 patients were included in the final sample (low risk: n = 431; high risk: n = 150). In the pooled cohort (n = 581; 38 reruptures), PTS was independently associated with reruptures (odds ratio per degree, 1.28 [95% CI, 1.10-1.47]; P = .001), and increasing age was independently protective (odds ratio per year, 0.91 [95% CI, 0.87-0.95]; P < .001). No statistically significant PTS\u00d7age interaction was identified in any analysis (pooled cohort: P = .685), indicating that the relative effect of each degree of PTS remained approximately stable across ages. However, the predicted absolute rerupture risk decreased markedly with increasing age. In the pooled cohort, a patient with a PTS of 15\u00b0 had an estimated rerupture probability of 36.6% at age 18 years versus 3.9% at age 45 years. Age thresholds at which the predicted risk fell below 10% were approximately 27 years for a PTS of 12\u00b0 and approximately 35 years for a PTS of 15\u00b0. CONCLUSION: Age modulated the absolute, but not the relative, risk associated with PTS after ACLR. Younger patients with elevated slope values had the highest absolute rerupture risk, reinforcing the clinical value of integrating age into preoperative slope-based risk stratification.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42703649/",
+      "score": 74,
+      "score_reasoning": "CORR editorial spotlight critically reanalyzing the 2025 PJI meta-analysis underpinning new unified criteria, revealing synovial leukocyte count is a poor standalone rule-in test, directly impacting diagnostic workup decisions.",
+      "bullets": [
+        "Each degree of posterior tibial slope raises rerupture risk equally across all ages, but the actual rerupture probability drops sharply with age, from 36.6% at age 18 to 3.9% at age 45 for a 15-degree slope.",
+        "For patients with elevated tibial slope, the absolute rerupture risk falls below 10% around age 27 for a 12-degree slope and around age 35 for a 15-degree slope.",
+        "When counseling ACL reconstruction patients on rerupture risk, age and tibial slope should be considered together, as young patients with steep slopes carry the highest real-world rerupture burden."
+      ]
+    },
+    {
+      "pmid": "42692247",
+      "title": "Facioscapulohumeral Muscular Dystrophy: A Comprehensive Guide for Shoulder Surgeons.",
+      "authors": [
+        "Gonzalez-Morgado D",
+        "Lohre R",
+        "Hachem AI",
+        "Elhassan B"
+      ],
+      "authors_short": "Gonzalez-Morgado D, Lohre R, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "Facioscapulohumeral muscular dystrophy (FSHD) is the third most common hereditary myopathy and a major cause of progressive shoulder girdle dysfunction. Despite its clinical relevance, FSHD diagnosis is often delayed or mistaken for peripheral nerve disorders. For the shoulder surgeons, FSHD presents a challenge in which progressive degeneration of the periscapular musculature results in scapular winging and impaired overhead activity. Physical examination is relevant for surgical decision-making, including assessment of scapular winging, deltoid integrity, and response to manual scapular stabilization. Nonoperative treatment may provide symptomatic support, but evidence remains limited. Scapulothoracic arthrodesis is the principal surgical option for appropriately selected patients, particularly those with severe scapular winging, active elevation below 90\u00b0, and preserved deltoid function. This review provides a clinically focused overview of FSHD for shoulder surgeons, emphasizing clinical presentation, diagnostic evaluation, and surgical patient selection, operative technique, rehabilitation, expected outcomes and complications.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42692247/",
+      "score": 72,
+      "score_reasoning": "Propensity-matched analysis showing patients requiring both lumbar fusion and THA have delayed time to MCID, especially when THA precedes LSF, with direct preoperative counseling implications for a common clinical scenario.",
+      "bullets": [
+        "FSHD is the third most common hereditary myopathy and frequently causes progressive scapular winging that mimics nerve injury, leading to delayed diagnosis in shoulder patients.",
+        "Scapulothoracic arthrodesis is the main surgical option for FSHD patients with severe scapular winging, active elevation below 90 degrees, and intact deltoid function.",
+        "Preserved deltoid function and response to manual scapular stabilization on exam are the key selection criteria before offering surgery to these patients."
+      ]
+    },
+    {
+      "pmid": "42712020",
+      "title": "Three-Dimensional Osseous Alignment and Morphology Patterns of Ankle and Hindfoot Osteoarthritis.",
+      "authors": [
+        "Lapins ER",
+        "Peterson AC",
+        "Mills MK",
+        "Saltzman CL",
+        "Lenz AL"
+      ],
+      "authors_short": "Lapins ER, Peterson AC, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Patients with advanced ankle and hindfoot osteoarthritis (OA) experience substantial functional limitations and reduced quality of life. Conventional 2-dimensional imaging provides limited insight into 3-dimensional (3D) shape and alignment of the foot and ankle, making it unclear whether isolated subtalar OA (STOA), isolated tibiotalar OA (TTOA), and combined disease (TTSTOA) represent distinct morphologic entities related to foot type. METHODS: A retrospective cohort of 196 weightbearing computed tomography (WBCT) scans was analyzed, including 130 OA patients (STOA, TTOA, TTSTOA) and 66 non-osteoarthritic controls classified as planus, rectus (neutral), or cavus. A 14-bone statistical shape model (SSM) characterized 3D morphology and alignment. Principal components analysis (PCA), Hotelling's T2 tests, computationally derived radiographic measurements, and joint space analysis quantified alignment patterns and joint space narrowing. RESULTS: PCA mode 1 reflected a cavus-to-planus alignment spectrum, whereas mode 3 captured joint space narrowing. TTOA was most similar to cavus alignment with increased varus hindfoot and higher sagittal arch measures. STOA was most similar to rectus foot type. TTSTOA spanned the widest range, encompassing varus and valgus presentations, and was among the lower observed joint space distances across both joints. The planus group differed from all OA groups across all analyses. CONCLUSION: Hindfoot and ankle OA presentations were characterized by joint-specific degenerative changes occurring within a broader alignment environment, reflecting altered load distribution and compensatory adaptations. This relationship between local joint degeneration and global alignment underscores the importance of evaluating the foot and ankle as an integrated system, particularly when assessing disease extent, severity, and patterns of multijoint involvement. LEVEL OF EVIDENCE: Level III, retrospective cross-sectional study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42712020/",
+      "score": 70,
+      "score_reasoning": "Cohort study of 243 patients with minimum 10-year follow-up showing psychiatric comorbidity significantly increases failure after hip arthroscopy for FAIS, important for patient selection in this growing procedure.",
+      "bullets": [
+        "Tibiotalar OA is associated with cavus foot alignment and varus hindfoot, while isolated subtalar OA more closely resembles a neutral foot type.",
+        "Combined tibiotalar and subtalar OA spans the widest alignment range, including both varus and valgus presentations, with the most severe joint space narrowing across both joints.",
+        "When planning ankle or hindfoot reconstruction, foot alignment should be assessed as a whole system, as the overall foot type appears to influence which joints degenerate and how severely."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-09-13T07:05:06.938583-07:00"
+}
