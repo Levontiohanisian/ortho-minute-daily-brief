@@ -1,0 +1,319 @@
+{
+  "brief_date": "2026-09-17",
+  "brief_date_display": "Thursday, September 17",
+  "candidates": [
+    {
+      "pmid": "42735230",
+      "title": "Immediate Self-Rehabilitation With Versus Without Sling Immobilization After Open Latarjet Procedures for Recurrent Anterior Shoulder Instability: A Randomized Controlled Trial.",
+      "authors": [
+        "Goetti P",
+        "Bothorel H",
+        "Martinho T",
+        "Seurot A",
+        "Zbinden J",
+        "Collin P",
+        "L\u00e4dermann A"
+      ],
+      "authors_short": "Goetti P, Bothorel H, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Recent research has highlighted the adverse effects of immobilization in shoulder rehabilitation. The present study aimed to compare the efficacy of immediate self-rehabilitation with and without sling immobilization following an open Latarjet procedure for recurrent anterior shoulder instability. METHODS: This monocentric randomized controlled trial included 86 patients (median age, 26; 92% male) divided into 2 groups: sling immobilization for 3 weeks postoperatively and no sling immobilization. Patients were evaluated with use of patient-reported outcome measures (PROMs), motion-capture analysis, and computed tomography scans before and 6 months after surgery. An additional questionnaire was administered at 2 years postoperatively to update PROMs. The primary outcome was the Rowe score. Secondary outcomes included visual analogue pain scale scores, single assessment numeric evaluation (SANE) scores for instability, patient satisfaction, range of motion, return to work and sport activities, graft union, and osteolysis. Patient acceptable symptom states were calculated and utilized to interpret PROMs. Multivariable linear and modified Poisson regressions were utilized to evaluate the effect of sling immobilization on different outcomes, independent of age, sex, preoperative PROMs, and range of motion. RESULTS: Both groups had comparable PROMs, range of motion, and radiographic outcomes at 6 months postoperatively, with no statistically significant differences observed between groups. At 2 years postoperatively, the no-sling group reported greater Rowe and SANE instability scores by 12.5 points (p = 0.005) and 7.9 points (p = 0.001), respectively. The no-sling treatment was more likely to achieve very high patient satisfaction (relative risk [RR], 1.53; p = 0.015), Rowe patient acceptable symptom state (RR, 1.47; p = 0.012), and SANE instability scores (RR, 1.55; p = 0.001). Two recurrent shoulder dislocations occurred in the sling group (5%). CONCLUSIONS: Immediate self-rehabilitation without sling immobilization yielded superior functional scores at 2 years after a Latarjet procedure. Both approaches resulted in excellent early functional outcomes and a high return-to-sport rate, suggesting that sling avoidance did not negatively impact patient recovery. As a result, the practice of sling immobilization following open Latarjet procedures may be reconsidered. Further investigation into optimal postoperative rehabilitation strategies is warranted. LEVEL OF EVIDENCE: Therapeutic Level I. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42735230/",
+      "score": 82,
+      "score_reasoning": "RCT from JBJS comparing immediate rehabilitation with versus without sling after Latarjet with 86 patients and 2-year follow-up directly changes postoperative management protocols for a common instability procedure.",
+      "bullets": [
+        "After open Latarjet, patients who skipped the sling had better shoulder function and stability scores at two years compared to those immobilized for three weeks.",
+        "Sling-free patients were more likely to reach acceptable symptom thresholds and report high satisfaction, and two redislocations occurred only in the sling group.",
+        "For young active patients undergoing open Latarjet, routine three-week sling immobilization can be reconsidered in favor of immediate unrestricted self-rehabilitation."
+      ]
+    },
+    {
+      "pmid": "42743313",
+      "title": "Cement Brand and Mixing Sequence Determine Vancomycin Elution from High-Dose PMMA Spacers: An in Vitro Comparative Study.",
+      "authors": [
+        "Hammad M",
+        "Chao CA",
+        "Bostrom MP",
+        "Carli AV"
+      ],
+      "authors_short": "Hammad M, Chao CA, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: High-dose vancomycin is routinely mixed into polymethylmethacrylate (PMMA) spacers for chronic periprosthetic joint infection (PJI). The precise manner by which to maximize elution remains unknown, and the impact of PMMA-antibiotic mixing sequences remains unexplored. METHODS: Sixty PMMA discs (5 formulations consisting of 2 PMMA brands, 2 viscosities, presence or absence of premixed gentamicin) were mixed with 4 g of vancomycin using either a polymer-first or monomer-first sequence. Vancomycin elution was quantified over 28 days, antimicrobial activity against methicillin-sensitive Staphylococcus aureus was tested, and micro-computed tomography scans were performed to assess porosity. Elution amounts were compared with Holm-corrected t tests and are reported as the mean \u00b1 standard error. RESULTS: Vancomycin retained bactericidal activity across all formulations. Monomer-first mixing of Palacos MV (medium-viscosity) yielded the greatest cumulative elution (2,897 \u00b1 64 \u00b5g/mL), 120% greater than monomer-first mixing of Simplex P. A monomer-first sequence increased vancomycin elution from medium-viscosity Palacos MV by 57% compared with high-viscosity Palacos R. Polymer-first mixing of Simplex P yielded the greatest immediate elution over the first hour (415 \u00b1 33 \u00b5g/mL), as well as a 52% greater cumulative elution amount over 28 days versus its monomer-first sequence. Premixed gentamicin only increased vancomycin elution for high-viscosity formulations. No significant differences were seen in porosity. CONCLUSIONS: The cement brand and mixing sequence significantly influenced elution of high-dose vancomycin from PMMA. Palacos MV mixed monomer-first produced the greatest cumulative antibiotic delivery, whereas polymer-first Simplex P maximized initial release. The mixing methods did not deleteriously affect PMMA integrity or antimicrobial activity. CLINICAL RELEVANCE: Clinicians should consider their choice of PMMA brand, viscosity, and mixing sequence when preparing high-dose spacers in revision arthroplasty for PJI. Maximizing cumulative elution may be a clinically favorable strategy to improve PJI eradication.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42743313/",
+      "score": 81,
+      "score_reasoning": "Large propensity-matched cohort (5,552 pairs) from multinational database in JBJS demonstrating PAD significantly increases PJI, SSI, revision, and mortality after THA, providing immediately actionable preoperative risk stratification data.",
+      "bullets": [
+        "Cement brand and mixing sequence significantly change how much vancomycin elutes from PMMA spacers over 28 days, with up to 120% difference between formulations.",
+        "For surgeons preparing two-stage PJI spacers, Palacos MV mixed monomer-first gives the highest cumulative vancomycin delivery, while polymer-first Simplex P gives the highest early release.",
+        "Neither mixing method compromised cement integrity or killed bactericidal activity, so surgeons can optimise their mixing technique without structural trade-offs."
+      ]
+    },
+    {
+      "pmid": "42726923",
+      "title": "Functional alignment robotic-assisted TKA improves clinical outcomes compared with conventional mechanical alignment TKA: A single-surgeon randomised controlled non-inferiority trial with 2-year follow-up.",
+      "authors": [
+        "Coenen R",
+        "Peeters A",
+        "Bollars P",
+        "Nathwani D",
+        "Albelooshi A",
+        "Ettinger MT",
+        "Deltour A",
+        "Schotanus MGM"
+      ],
+      "authors_short": "Coenen R, Peeters A, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: Functional alignment (FA) has emerged as an alternative to mechanical alignment (MA) in total knee arthroplasty (TKA), supported by robotic assistance to enhance precision and soft\u2011tissue preservation. Evidence comparing FA performed with robotic assistance to conventional MA\u2011TKA across mid\u2011term patient\u2011reported outcomes measures (PROMs) remains limited. This randomised controlled trial evaluated differences in recovery trajectories and 2\u2011year knee\u2011specific outcomes between FA\u2011RATKA and MA\u2011CTKA. METHODS: This study reports the predefined primary 2-year outcomes of a prospective randomised controlled non-inferiority trial including 180 patients (FA-RATKA, n\u2009=\u200981; MA-CTKA, n\u2009=\u200982), of whom 163 completed follow-up. Assessments were performed preoperatively and at 3-months, 1- and 2-years using validated PROMs: Knee Society Score (KSS) subdomains, Oxford Knee Score (OKS), Forgotten Joint Score (FJS-12), VAS pain, EQ-5D-5L (index and VAS), Lower Extremity Activity Scale (LEAS), and overall satisfaction. Mixed-effects models evaluated group, time, and Group\u2009\u00d7\u2009Time interactions, adjusting for age, BMI, and soft-tissue release. Effect sizes (r) were calculated to contextualise clinical relevance. RESULTS: FA-RATKA demonstrated more favourable knee-specific outcomes across follow-up, with significant Group\u2009\u00d7\u2009Time interactions for KSS Function (F(3,679)\u2009=\u20096.970, p\u2009<\u20090.001; r\u2009=\u20090.173), KSS Satisfaction (F(3,679)\u2009=\u200910.892, p\u2009<\u20090.001; r\u2009=\u20090.214) and KSS Symptoms (F(3,679)\u2009=\u20094.425, p\u2009=\u20090.004; r\u2009=\u20090.138). FA-RATKA also showed more favourable OKS trajectories (F(3,679)\u2009=\u20098.053, p\u2009<\u20090.001; r\u2009=\u20090.185), lower VAS pain (F(3,679)\u2009=\u20098.339, p\u2009<\u20090.001; r\u2009=\u20090.188), and higher EQ-5D index scores (F(2,515)\u2009=\u20095.227, p\u2009=\u20090.006; r\u2009=\u20090.141). Categorical satisfaction favoured FA-RATKA at early follow-up (F(2,503)\u2009=\u20093.491, p\u2009=\u20090.031; r\u2009=\u20090.117). Effect sizes ranged from r\u2009=\u20090.117 to 0.214, corresponding to small to small-medium magnitudes. CONCLUSIONS: In this prospective, randomised, single-surgeon study, several knee-specific patient-reported outcomes demonstrated modest but statistically supported differences at 2-year follow-up, with consistently higher values in the FA-RATKA group. LEVEL OF EVIDENCE: Level I, randomised controlled trials with adequate statistical power to detect differences (narrow confidence intervals) and follow up >80%, as per the KSSTA guidelines.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42726923/",
+      "score": 79,
+      "score_reasoning": "RCT in KSTA with 180 patients (163 completing follow-up) showing functional alignment robotic TKA achieves superior 2-year knee-specific PROMs compared to conventional mechanical alignment TKA, highly relevant given growing robotic adoption.",
+      "bullets": [
+        "In a randomized trial of 163 TKA patients, robotic functional alignment produced better knee function, satisfaction, and pain scores at 2 years compared to conventional mechanical alignment.",
+        "Benefits were consistent across multiple patient-reported outcome measures but effect sizes were small, meaning the differences are real but modest in magnitude.",
+        "For surgeons performing TKA, robotic functional alignment is a reasonable alternative to mechanical alignment and may offer incremental gains in early recovery and patient satisfaction."
+      ]
+    },
+    {
+      "pmid": "42748364",
+      "title": "Formal consensus on fast-track hip and knee arthroplasty: ESSKA/EKA, EHS and APAS recommendations for optimised recovery pathways in joint replacement surgeries.",
+      "authors": [
+        "Totlis T",
+        "Kort N",
+        "Kort R",
+        "Budhiparama NC",
+        "Carulli C",
+        "Clarius M",
+        "Coden G",
+        "Gamie Z",
+        "Gomberg B",
+        "Grant A",
+        "Guenther D",
+        "Haddad FS",
+        "Kayani B",
+        "Kenanidis E",
+        "Kr\u00f3likowska A",
+        "Liu D",
+        "Lumban-Gaol I",
+        "Machado L",
+        "Nandi S",
+        "P\u00e9rez-Prieto D",
+        "Prill R",
+        "Smith E",
+        "Tandogan R",
+        "Tsiridis E",
+        "Beek RV"
+      ],
+      "authors_short": "Totlis T, Kort N, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: This international formal consensus aims to establish a unified, evidence-based approach to perioperative care by promoting the adoption of fast-track surgery or enhanced recovery after surgery (ERAS) protocols, informing healthcare professionals and administrators about optimal perioperative management of arthroplasty and facilitating broader implementation. METHODS: A multidisciplinary panel of 106 experts contributed across a Steering Group (n\u2009=\u200922), a Rating Group (n\u2009=\u200935) and a Peer Review group (n\u2009=\u200949). The Steering Group developed 37 questions and corresponding statements based on the literature review and expert opinion. Statements were graded from A (high-level evidence) to D (expert opinion). An independent Rating Group evaluated each statement on a 1-9 Likert scale across two rounds using the Formal Consensus methodology. Statements were iteratively revised and finalised through consensus and joint discussion. The final document was assessed by an international Peer Review Group to ensure transnational applicability. RESULTS: Out of 37 questions, a total of 63 statements were developed. Following a set of general statements outlining the principles and overall goals of fast-track total knee arthroplasty (TKA) and total hip arthroplasty (THA), the recommendations addressed and optimised the three key phases of perioperative care: preoperative, intraoperative and postoperative management. Of the 63 statements, 39 were graded A or B and 24 as C or D. Mean agreement scores ranged from 7.7 to 8.9. Overall, 56 statements were considered appropriate with strong agreement and 7 with relative agreement. The Peer Review Group supported the overall statements, providing feedback to clarify specific recommendations and to highlight regional differences in implementation, which were incorporated into the final document. CONCLUSIONS: This consensus endorses the adoption of structured fast-track or enhanced recovery programs as a patient-centred approach to perioperative care in total hip and knee arthroplasty. The aim is to improve the quality of care by reducing morbidity, optimising pain management, shortening hospital stay and enhancing patient satisfaction. While not intended to replace clinical judgement, it provides a pragmatic framework to guide decision-making, promote consistency and facilitate safe early mobilisation and discharge. LEVEL OF EVIDENCE: Level I.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42748364/",
+      "score": 78,
+      "score_reasoning": "Large JBJS cohort (181,464 THA patients, propensity-matched 5,552 pairs) with robust methodology quantifying PAD-associated complication risk over 3 years, offering strong clinical risk stratification evidence.",
+      "bullets": [
+        "A 106-expert international consensus panel endorsed structured enhanced recovery protocols for total hip and knee arthroplasty across all three perioperative phases.",
+        "The recommendations apply to all patients undergoing primary THA or TKA and target reduced morbidity, better pain control, and shorter hospital stay.",
+        "Surgeons can use this framework to standardise perioperative care and support safe early mobilisation without replacing individual clinical judgment."
+      ]
+    },
+    {
+      "pmid": "42714041",
+      "title": "The Influence of Multiple Doses of Intravenous Tranexamic Acid on Transfusions and Complications in the Treatment of Fragility Hip Fractures.",
+      "authors": [
+        "Davis S",
+        "Solomito MJ",
+        "McCracken C",
+        "Kumar M"
+      ],
+      "authors_short": "Davis S, Solomito MJ, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVE: To determine the association between multiple intravenous tranexamic acid (TXA) doses and blood transfusions and complication rates in patient treated for fragility hip fractures. DESIGN: Retrospective cohort study. SETTING: Single Level I trauma center. PATIENTS/PARTICIPANTS: Patients that were at least 50 years old and treated for a fragility fracture of the femoral neck (OTA31B), intertrochanteric (OTA31A1/A2), or subtrochanteric (OTA31A3) aspect of the femur between January 2018 and January 2024 were included . INTERVENTION: TXA dosing (i.e. none, single dose, multiple doses) based on institutional protocols. TXA dosing was not based on intra-operative blood loss. MAIN OUTCOMES: The primary outcomes were post-operative blood transfusions, venous thromboembolism (VTE), surgical site infections (SSI), and death within one year of surgery compared among the study groups (patients that received no TXA, a single dose, or multiple doses). RESULTS: A total of 1,691 patients (632 patients [average age 81.4 (53 to 104), 71.8% female] did not receive TXA, 551 [average age 79.9 (51 to 102), 72.4% female] received a single TXA dose, 508 [average age 79.2 (51 to 100), 70.3% female] received multiple TXA doses). Surgical time did not differ between groups (no TXA: 72.6 \u00b1 30.9 minutes, single dose: 74.9 \u00b132.9 minutes, and multiple doses: 70.6 \u00b1 32.3 minutes, p=0.073). TXA use significantly reduced the risk of blood transfusion compared to the no TXA group (no TXA: 31.8%, single dose: 15.9%, multidose 14.2%, p<0.001). There were no significant differences in transfusion rates with two, three and four doses of TXA compared to the single dose group (single dose: 15.9%, two doses: 15.3% three doses 13.6% and four doses 13.1%, p=0.791). The frequency of VTE was the lowest in the single dose group compared to the other study groups (no TXA: 2.7%, single dose: 0.9%, multiple dose 2.7%, p=0.040). There was no difference in death rates among study groups (no TXA: 9.3%, single dose: 7.3%, multiple dose 8.5%, p=0.433). CONCLUSION: Intravenous tranexamic acid (TXA) reduced transfusion needs without an increased complication rate in comparison to not using TXA. Regression analysis demonstrated that three and four doses of TXA did significantly reduce the transfusion rate beyond a single dose of TXA, but did not provide significant reduction beyond two-doses. LEVEL OF EVIDENCE: Level 3.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42714041/",
+      "score": 76,
+      "score_reasoning": "Large Swiss registry retrospective cohort (121,692 TKAs) in KSTA demonstrating procedure-specific PJI risk after prior ipsilateral knee surgery, providing novel granular risk data for preoperative counseling.",
+      "bullets": [
+        "A single IV dose of TXA cut transfusion rates roughly in half compared to no TXA in fragility hip fracture patients over 50 (31.8% vs 15.9%).",
+        "Adding more TXA doses beyond one did not meaningfully reduce transfusion rates further, making a single dose the practical ceiling for most patients.",
+        "TXA did not increase VTE risk, SSI, or one-year mortality, supporting its routine use in this population without safety concerns."
+      ]
+    },
+    {
+      "pmid": "42725752",
+      "title": "Forecasting US Total Knee Arthroplasty Volumes to 2040: The Shift to Ambulatory Surgery Centers Has Just Begun.",
+      "authors": [
+        "Mastrokostas PG",
+        "Mastrokostas LE",
+        "Sheth D",
+        "Said M",
+        "Monas A",
+        "Lama G",
+        "Magruder M"
+      ],
+      "authors_short": "Mastrokostas PG, Mastrokostas LE, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Total knee arthroplasty (TKA) is among the most common and cost-effective orthopaedic procedures in the United States. Policy changes, including removal from Medicare's inpatient-only (IPO) list, and advances in surgical and perioperative care have accelerated its shift to outpatient and same-day settings. The aim of this study was to model national TKA volume trends and forecast growth through 2040. METHODS: We conducted a retrospective analysis using data from the National Inpatient Sample and Nationwide Ambulatory Surgery Sample from 2016 to 2022. Procedures were stratified by setting: inpatient with overnight stay, inpatient same-day discharge, and outpatient in ambulatory surgical centers (ASCs). Survey-weighted regression models were used to evaluate trends, and future volumes were projected using negative binomial and autoregressive integrated moving average modeling. Regional cost trends and payer composition were also analyzed. RESULTS: Between 2016 and 2022, inpatient TKA volumes with length of stay \u22651 day declined by 85.0%, while same-day discharge volumes decreased by 46.7%. Outpatient TKA performed in ASCs rose from 104,971 cases in 2018 to 539,175 in 2022, representing a 413.6% increase after Medicare's removal of TKA from the IPO list. Forecasting models project that by 2040, annual ASC TKA volumes will exceed 2.1 million cases, while inpatient volumes will continue to decline substantially. Regionally, the South is expected to lead in ASC volume, reaching 881,000 cases annually by 2040. In 2022, ASC charges were highest in the West ($74,123) and lowest in the Midwest ($50,200). Medicare's share of ASC TKA cases increased from 42.5% in 2016 to 59.2% in 2022, reflecting a payer shift toward outpatient care. CONCLUSION: TKA has undergone a dramatic shift toward outpatient delivery, with ASC procedures poised to dominate the national landscape by 2040. These findings highlight the need for policy and infrastructure planning to support the continued growth of outpatient arthroplasty.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42725752/",
+      "score": 74,
+      "score_reasoning": "JBJS consensus statement with 106 international experts establishing unified ERAS/fast-track recommendations for TKA and THA perioperative care offers directly implementable, evidence-based protocols.",
+      "bullets": [
+        "ASC-based total knee arthroplasty grew 414% between 2018 and 2022, driven largely by Medicare removing TKA from the inpatient-only list.",
+        "Models project ASC TKA volumes will exceed 2.1 million cases annually by 2040, while inpatient volumes will continue to fall.",
+        "Medicare now covers nearly 60% of ASC TKA cases, meaning orthopaedic practices and surgery centers must plan capacity and reimbursement strategy around this payer mix."
+      ]
+    },
+    {
+      "pmid": "42713799",
+      "title": "One in Four Children Experience BMI Increase After Lower Extremity Surgery Without Return to Preoperative Levels: A Retrospective Cohort Study.",
+      "authors": [
+        "Viza Gomes P",
+        "Badejo M",
+        "Damron A",
+        "Bradley T",
+        "Bitolas R",
+        "Sachs B",
+        "Poehlein E",
+        "Green C",
+        "Catanzano A"
+      ],
+      "authors_short": "Viza Gomes P, Badejo M, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Weight and body mass index (BMI) are influenced by many intrinsic and extrinsic factors, including activity level. After undergoing orthopaedic surgery, a period of immobilization and activity restrictions typically follows, which may place patients at risk for an acute increase in weight and BMI. This study aimed to quantify the change in BMI preoperatively to 3 months postoperatively after treatment of lower extremity conditions and assess whether BMI returned to baseline levels by 1 year among patients with a clinically meaningful BMI increase at 3 months (BMI z-score \u22650.20). METHODS: A single-center, retrospective review was performed of patients younger than 18 years treated operatively for lower extremity fractures or undergoing an elective lower extremity surgery over a 3-year period. Multivariable logistic regression was used to evaluate the association between a clinically meaningful BMI increase at 3 months and baseline characteristics to determine potential \"at risk\" patients. RESULTS: In total 411 patients were included (average age 13.0 \u00b1 3.1\u00a0y, 57.9% male). The average change in BMI from baseline to 3 months was 0.33\u00a0kg/m\u00b2 (95% CI: 0.08-0.59), a mean change in BMI z-score of -0.040 (95% CI: -0.093 to 0.013). A clinically meaningful increase in BMI z-score (\u22650.20) was found in 109 patients (26.5%). Of these patients, 49 had documented 12 to 18-month follow-up with only 28.6% (95% CI: 15.9-41.2%) returning to their preoperative BMI. The only baseline characteristic significantly associated with an increase in BMI z-score \u22650.20 within 3 months was diagnosis category (obesity-associated conditions vs. fracture and other orthopaedic conditions) [odds ratio (OR): 1.84, 95% CI: 1.04-3.25; P=0.037]. CONCLUSIONS: Postoperatively, when patients are immobilized with weight-bearing and activity restrictions, there is risk of clinically meaningful increases in BMI. This represents an opportunity for orthopaedic providers to incorporate means for weight management during the recovery period, which includes several in-person follow-up appointments. This may include simple education or appropriate referrals and evaluations by primary care providers and weight management specialists. LEVEL OF EVIDENCE: Level IV.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42713799/",
+      "score": 73,
+      "score_reasoning": "Large retrospective cohort (1,691 fragility hip fracture patients) in Journal of Orthopaedic Trauma showing multiple TXA doses further reduce transfusion risk without increased VTE provides directly applicable perioperative management data.",
+      "bullets": [
+        "One in four children undergoing lower extremity surgery had a clinically meaningful BMI increase within 3 months, and fewer than 30% of those returned to their baseline BMI by one year.",
+        "Children treated for obesity-related orthopaedic conditions were nearly twice as likely to gain weight after surgery compared to those treated for fractures or other conditions.",
+        "Postoperative follow-up visits are a practical opportunity for orthopaedic surgeons to screen for weight gain and refer at-risk pediatric patients to primary care or weight management services."
+      ]
+    },
+    {
+      "pmid": "42744007",
+      "title": "Quantifying the Age-Dependent Risk of Periprosthetic Femoral Fracture Following Cementless Total Hip Arthroplasty: An Analysis using Age as a Continuous Variable.",
+      "authors": [
+        "Griffith K",
+        "Telang SS",
+        "Palmer RC",
+        "Liu K",
+        "Dobitsch A",
+        "Lieberman JR",
+        "Heckmann ND"
+      ],
+      "authors_short": "Griffith K, Telang SS, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: It is well-established that the risk of periprosthetic fracture (PPFx) increases with patient age. However, there is no consensus on a critical age threshold beyond which risk rises substantially for cementless fixation. This study sought to identify an age threshold associated with increased PPFx risk among patients undergoing cementless elective total hip arthroplasty (THA). METHODS: A national database was used to identify all patients who underwent primary cementless THA from 2016 to 2021. The primary outcome of interest was the incidence of PPFx in the 90-day postoperative period. Multivariable logistic regressions were used to generate a restricted cubic spline (RCS) characterizing the relationship between patient age and PPFx risk. After selecting a final RCS model, a bootstrap simulation was used to identify an age cutpoint beyond which PPFx risk increased significantly. The cutpoint was then used as a reference to calculate the adjusted risk of PPFx for all ages between 20 and 89 years. In total, 524,119 THAs, including 286,198 (54.7%) women and 236,782 (45.3%) men, were identified. Of these, 1,169 (0.2%) patients developed PPFx within 90 days, of which 860 (73.6%) were women. RESULTS: A direct relationship between age and PPFx risk was observed in both men and women, with risk increasing beyond 71 in women and 72 years in men. At age 80 years, PPFx risk was 26% higher in women and 18% higher in men compared with women aged 72 and men aged 71 years, respectively. DISCUSSION: A direct relationship between patient age and the risk of PPFx was observed in the 90-day postoperative period following cementless THA, with identified cutpoints of 71 years for men and 72 years for women. These threshold values with associated odds ratios may be used to risk-stratify patients before primary THA and assist surgeons in deciding femoral-sided fixation.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42744007/",
+      "score": 72,
+      "score_reasoning": "Large JBJS registry cohort (524,119 cementless THAs) using restricted cubic spline analysis to identify age thresholds (71F/72M) for significantly elevated PPFx risk provides immediately useful patient counseling and fixation selection data.",
+      "bullets": [
+        "In over 524,000 cementless total hip arthroplasties, periprosthetic femoral fracture risk rises meaningfully after age 71 in women and 72 in men.",
+        "By age 80, fracture risk is 26% higher in women and 18% higher in men compared to patients just above those age thresholds.",
+        "Surgeons should consider cemented femoral fixation in patients older than 71 to 72 years undergoing elective total hip arthroplasty."
+      ]
+    },
+    {
+      "pmid": "42733580",
+      "title": "Predicting 5-Year Mortality After Prosthetic Joint Infection Using a 30-Item Accumulated Frailty Index in a 13,371-Patient Multicenter Cohort.",
+      "authors": [
+        "Joachim K",
+        "Gettleman B",
+        "Wiener J",
+        "Hamad C",
+        "Lin A",
+        "Perrotta A",
+        "Jeong S",
+        "Sparks O",
+        "Dingle E",
+        "Stavrakis A",
+        "Christ AB"
+      ],
+      "authors_short": "Joachim K, Gettleman B, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Prosthetic joint infection (PJI) involves a significant mortality risk, with 26-30% of patients dying within 5 years. Current risk assessment tools offer limited prognostic accuracy for PJI patients. This study aimed to develop a prognostic model for 5-year all-cause mortality after PJI using age and frailty assessments. METHODS: We conducted a retrospective cohort study using TriNetX electronic health record data from 13,371 PJI patients diagnosed before 2021. We developed a 30-item Accumulated Frailty Index (AFI-Core30) that incorporates comorbidities, physiologic deficits, medications, and functional status. Generalized additive modeling was used to predict 5-year mortality, with 80% of data allocated for training and 20% for validation. Model performance was assessed using discrimination metrics and calibration techniques. RESULTS: The mean patient age was 63.1 \u00b1 11.4 years, with an overall 5-year mortality rate of 13.1%. Both AFI-Core30 and age independently predicted mortality (odds ratio per 0.1 AFI increase = 1.84, 95% confidence interval: 1.74-1.95, P < .001; odds ratio per 10-year increase in age = 1.65, 95% confidence interval: 1.56-1.74, P < .001). The model demonstrated good discrimination (validation area under the receiver operating characteristic curve 0.712) and excellent calibration (Brier score 0.103). Mortality risk ranged from 2.6% in young, nonfrail patients to 50.4% in older, frail individuals. CONCLUSIONS: This validated prognostic model offers the first large-scale, frailty-based tool for predicting mortality in PJI patients. The framework allows for evidence-based risk assessment and personalized treatment planning, shifting PJI prognostication from subjective judgment to objective risk measurement for better clinical decision-making.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42733580/",
+      "score": 71,
+      "score_reasoning": "Prospective JBJS RCT (86 patients) from a high-impact journal directly addressing Latarjet postoperative rehabilitation protocol with motion capture and CT analysis represents the highest level of evidence for shoulder instability surgeons.",
+      "bullets": [
+        "Five-year mortality after prosthetic joint infection ranges from 2.6% in young, non-frail patients to 50.4% in older, frail patients across a cohort of over 13,000 cases.",
+        "A 30-item frailty index combining comorbidities, medications, and functional status predicts five-year death after prosthetic joint infection better than clinical intuition alone.",
+        "Orthopaedic surgeons can use patient age and frailty score together to guide realistic goals-of-care conversations and tailor treatment intensity for prosthetic joint infection."
+      ]
+    },
+    {
+      "pmid": "42731643",
+      "title": "After-Hours Surgery Is Associated With Adverse Perioperative Outcomes Following Hemiarthroplasty for Femoral Neck Fracture.",
+      "authors": [
+        "Beckers G",
+        "Deuschle J",
+        "B\u00f6cker W",
+        "Holzapfel BM",
+        "Simon D",
+        "Lerchenberger M"
+      ],
+      "authors_short": "Beckers G, Deuschle J, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: The influence of surgical timing and surgeon subspecialty on outcomes following hemiarthroplasty (HA) for displaced femoral neck fracture (FNF) remains controversial. This study evaluated the impact of admission-to-surgery interval, time of day, and surgeon subspecialty on perioperative outcome and mortality. METHODS: In this retrospective cohort study, 349 patients undergoing cemented HA for displaced FNF were analyzed. All patients were operated on using the direct anterior approach. Patients were stratified by surgery within 24 hours, operative timing (in-hours versus after-hours versus weekend), and surgeon subspecialty (arthroplasty-trained versus traumatology-trained). Multivariable logistic and linear regression models were used to assess associations with operative times, intra-operative complications, estimated blood losses (EBL), transfusions, periprosthetic joint infections (PJI), deliria, revisions, and 30-day mortalities. RESULTS: Surgery beyond 24 hours was not independently associated with increased mortality or postoperative morbidity after adjustment. In contrast, after-hours surgery was independently associated with prolonged operative time (+12.3 minutes, P = 0.002), greater EBL (+104 mL, P = 0.003), higher transfusion risk (odds ratio (OR) 2.28, P = 0.015), increased revision risk (OR 3.20, P = 0.015), and higher PJI risk (OR 4.78, P = 0.037). After-hours procedures were also associated with a lower incidence of deliria (OR 0.35, P = 0.036). Surgeon subspecialty was associated with operative duration and transfusion requirements, but not with PJIs, 30-days mortalities, revisions, or deliria. CONCLUSION: After-hours hemiarthroplasty was independently associated with prolonged operative times, increased blood losses, higher transfusion requirements, and a higher observed risk of PJIs, although the latter finding was based on a small number of events. In contrast, surgery beyond 24 hours from admission and surgeon subspecialty were not independently associated with mortality or major post-operative complications. These findings suggest that the timing of surgery, rather than surgical specialty or moderate delay, may influence perioperative outcomes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42731643/",
+      "score": 70,
+      "score_reasoning": "JBJS large multicenter cohort (13,371 PJI patients) developing and validating a 30-item frailty index predicting 5-year mortality after PJI offers a novel, clinically useful prognostic tool for arthroplasty surgeons.",
+      "bullets": [
+        "Hemiarthroplasty for femoral neck fracture performed after hours carries significantly higher risks of increased blood loss, transfusion, revision, and periprosthetic joint infection compared to cases done during regular hours.",
+        "Delaying surgery beyond 24 hours from admission did not independently increase mortality or major complications, so moderate delay for optimisation appears safe.",
+        "Surgeon subspecialty (arthroplasty versus trauma trained) affected operative time and transfusion rates but did not independently drive mortality, revision, or infection risk."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-09-17T07:41:36.295226-07:00"
+}
