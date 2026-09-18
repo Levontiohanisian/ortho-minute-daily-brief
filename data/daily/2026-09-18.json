@@ -1,0 +1,316 @@
+{
+  "brief_date": "2026-09-18",
+  "brief_date_display": "Friday, September 18",
+  "candidates": [
+    {
+      "pmid": "42744005",
+      "title": "Peripheral Artery Disease Is Associated With Increased Complications Following Primary Total Hip Arthroplasty.",
+      "authors": [
+        "Tummala S",
+        "Sontam TR",
+        "Thota DR",
+        "Valencia AA",
+        "Collett G",
+        "Chen AF"
+      ],
+      "authors_short": "Tummala S, Sontam TR, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: The presence of peripheral artery disease (PAD) may compromise outcomes following total hip arthroplasty (THA), yet its specific impact remains understudied. This study evaluated the association between PAD and outcomes following primary THA. METHODS: Leveraging a multinational healthcare database (2015 to 2025), 181,464 primary THA patients were identified. Cohorts were stratified by documented PAD diagnosis within one year before undergoing THA. A 1:1 propensity-score matching balanced 22 covariates, yielding 5,552 comparable pairs. Major medical and surgical complications were assessed 90 days and three years postoperatively. Analyses employed bivariable (RR) and multivariable (aHR) Cox models, reporting 95% confidence intervals (CI); significance was defined as P < 0.05. RESULTS: The PAD patients had significantly higher 30-day risks of surgical site infection (SSI; RR 1.86, P = 0.006), transfusion (RR 1.43, P < 0.001), anemia (RR 1.33, P = 0.002), and periprosthetic joint infection (PJI; RR 1.93, P = 0.007). At 90 days, PAD was additionally associated with wound dehiscence (RR 1.69, P = 0.004), persistently elevated SSI (RR 1.53, P = 0.009), and PJI risk (RR 1.79, P < 0.001). At 3-year follow-up, THA patients who had PAD had significantly higher revision rates (RR 1.39, P = 0.004), recurrent periprosthetic joint infection (RR 1.61, P < 0.001), and all-cause mortality (RR 1.43, P < 0.001) compared to patients who did not have PAD. Notably, PAD was associated with a near four-fold increased hazard of lower extremity amputation at any level (aHR 3.68, log-rank P < 0.0001; absolute risk 1.29 versus 0.35%). CONCLUSION: Given the considerable impact of PAD on THA outcomes, particularly catastrophic limb loss, comprehensive management strategies are crucial to mitigate adverse events. These findings underscore the need for risk stratification and targeted interventions, including vascular optimization and patient counseling, to improve outcomes following THA in this high-risk population. LEVEL OF EVIDENCE: Therapeutic Level III, Retrospective Cohort Study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42744005/",
+      "score": 82,
+      "score_reasoning": "Large database study (181,464 patients) with propensity-score matching examining PAD impact on THA complications in a high-impact journal, providing directly actionable preoperative risk stratification data for arthroplasty surgeons.",
+      "bullets": [
+        "Patients with peripheral artery disease undergoing total hip arthroplasty face nearly double the 30-day risk of surgical site infection and periprosthetic joint infection compared to patients without the condition.",
+        "At three years, PAD patients had higher revision rates, higher mortality, and a nearly four-fold increased risk of lower extremity amputation after primary total hip arthroplasty.",
+        "Orthopaedic surgeons should identify PAD preoperatively, counsel patients on substantially elevated complication risks, and consider vascular optimization before proceeding with total hip arthroplasty."
+      ]
+    },
+    {
+      "pmid": "42726923",
+      "title": "Functional alignment robotic-assisted TKA improves clinical outcomes compared with conventional mechanical alignment TKA: A single-surgeon randomised controlled non-inferiority trial with 2-year follow-up.",
+      "authors": [
+        "Coenen R",
+        "Peeters A",
+        "Bollars P",
+        "Nathwani D",
+        "Albelooshi A",
+        "Ettinger MT",
+        "Deltour A",
+        "Schotanus MGM"
+      ],
+      "authors_short": "Coenen R, Peeters A, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: Functional alignment (FA) has emerged as an alternative to mechanical alignment (MA) in total knee arthroplasty (TKA), supported by robotic assistance to enhance precision and soft\u2011tissue preservation. Evidence comparing FA performed with robotic assistance to conventional MA\u2011TKA across mid\u2011term patient\u2011reported outcomes measures (PROMs) remains limited. This randomised controlled trial evaluated differences in recovery trajectories and 2\u2011year knee\u2011specific outcomes between FA\u2011RATKA and MA\u2011CTKA. METHODS: This study reports the predefined primary 2-year outcomes of a prospective randomised controlled non-inferiority trial including 180 patients (FA-RATKA, n\u2009=\u200981; MA-CTKA, n\u2009=\u200982), of whom 163 completed follow-up. Assessments were performed preoperatively and at 3-months, 1- and 2-years using validated PROMs: Knee Society Score (KSS) subdomains, Oxford Knee Score (OKS), Forgotten Joint Score (FJS-12), VAS pain, EQ-5D-5L (index and VAS), Lower Extremity Activity Scale (LEAS), and overall satisfaction. Mixed-effects models evaluated group, time, and Group\u2009\u00d7\u2009Time interactions, adjusting for age, BMI, and soft-tissue release. Effect sizes (r) were calculated to contextualise clinical relevance. RESULTS: FA-RATKA demonstrated more favourable knee-specific outcomes across follow-up, with significant Group\u2009\u00d7\u2009Time interactions for KSS Function (F(3,679)\u2009=\u20096.970, p\u2009<\u20090.001; r\u2009=\u20090.173), KSS Satisfaction (F(3,679)\u2009=\u200910.892, p\u2009<\u20090.001; r\u2009=\u20090.214) and KSS Symptoms (F(3,679)\u2009=\u20094.425, p\u2009=\u20090.004; r\u2009=\u20090.138). FA-RATKA also showed more favourable OKS trajectories (F(3,679)\u2009=\u20098.053, p\u2009<\u20090.001; r\u2009=\u20090.185), lower VAS pain (F(3,679)\u2009=\u20098.339, p\u2009<\u20090.001; r\u2009=\u20090.188), and higher EQ-5D index scores (F(2,515)\u2009=\u20095.227, p\u2009=\u20090.006; r\u2009=\u20090.141). Categorical satisfaction favoured FA-RATKA at early follow-up (F(2,503)\u2009=\u20093.491, p\u2009=\u20090.031; r\u2009=\u20090.117). Effect sizes ranged from r\u2009=\u20090.117 to 0.214, corresponding to small to small-medium magnitudes. CONCLUSIONS: In this prospective, randomised, single-surgeon study, several knee-specific patient-reported outcomes demonstrated modest but statistically supported differences at 2-year follow-up, with consistently higher values in the FA-RATKA group. LEVEL OF EVIDENCE: Level I, randomised controlled trials with adequate statistical power to detect differences (narrow confidence intervals) and follow up >80%, as per the KSSTA guidelines.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42726923/",
+      "score": 80,
+      "score_reasoning": "RCT from JBJS evaluating sling vs no-sling after Latarjet procedure with motion capture analysis and 2-year follow-up, directly impacting postoperative rehabilitation protocols for a common instability procedure.",
+      "bullets": [
+        "In a randomised trial of 163 TKA patients, robotic functional alignment produced better knee function, satisfaction, symptom, and pain scores at 2 years than conventional mechanical alignment.",
+        "Benefit was consistent across multiple outcome measures but effect sizes were small to small-medium, meaning gains are real but modest at the individual patient level.",
+        "For surgeons offering TKA, robotic functional alignment appears to be a reasonable alternative to conventional mechanical alignment, with meaningful but incremental improvements in patient-reported outcomes."
+      ]
+    },
+    {
+      "pmid": "42743297",
+      "title": "Revision Risk Following Primary Anatomic and Reverse TSA with an Exactech Equinoxe Compared with Other Devices: A U.S.-Based Cohort Study.",
+      "authors": [
+        "Prentice HA",
+        "Chang RN",
+        "Yian E",
+        "Navarro RA",
+        "Singh A",
+        "Chan DP",
+        "Ding D",
+        "Elwell JA",
+        "Degrasse J",
+        "Roche C",
+        "Paxton EW"
+      ],
+      "authors_short": "Prentice HA, Chang RN, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: In 2024, Exactech issued a voluntary recall of Equinoxe devices after finding that some devices had been packaged in bags that were non-conforming because a secondary oxygen barrier layer of ethylene vinyl alcohol was missing. We sought to evaluate the revision risk following shoulder arthroplasty using an Exactech Equinoxe device compared with other eligible devices. METHODS: We conducted a cohort study using data from a U.S. health-care system's shoulder arthroplasty registry. The study included 13,901 adult patients who had undergone primary elective anatomic total shoulder arthroplasty (ATSA), elective reverse total shoulder arthroplasty (RTSA), or RTSA for fracture (2005 to 2023). The mean age for the ATSA cohort (N = 8,707) was 68 years, 53.3% were male, and 84.7% were White. Corresponding values for the elective RTSA cohort (N = 4,374) were 74 years, 41.2% male, and 79.9% White, and those for the RTSA for fracture cohort (N = 820) were 73 years, 16.3% male, and 78.4% White. Multivariable Cox regression with covariate adjustment was used to evaluate all-cause revision risk for Equinoxe devices compared with other devices. RESULTS: In adjusted analyses, a higher revision risk was observed for ATSAs with Equinoxe versus other devices (hazard ratio [HR] = 1.87, 95% confidence interval [CI] = 1.33 to 2.62). The higher revision risk was also observed in a subanalysis restricted to ATSAs with Equinoxe devices packaged in non-conforming bags (HR = 1.91, 95% CI = 1.34 to 2.72). No differences were observed in elective RTSAs (HR = 0.71, 95% CI = 0.33 to 1.49) or RTSAs for fracture (HR = 2.30, 95% CI = 0.84 to 6.28) with Equinoxe compared with other devices. CONCLUSIONS: We observed a higher revision risk with the use of Equinoxe devices in ATSA, but no difference for Equinoxe devices in elective RTSA compared with other devices. While all Equinoxe devices packaged in non-conforming bags were recalled worldwide in 2024, clinicians should be mindful of these findings when a patient had previously received an Equinoxe ATSA device. LEVEL OF EVIDENCE: Therapeutic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42743297/",
+      "score": 79,
+      "score_reasoning": "Large-scale JBJS study (524,119 THAs) using restricted cubic spline analysis to identify age thresholds for periprosthetic fracture risk with cementless THA, providing immediately applicable patient counseling and implant selection guidance.",
+      "bullets": [
+        "Patients who received an Exactech Equinoxe anatomic total shoulder arthroplasty had nearly twice the revision risk compared to those implanted with other devices.",
+        "The elevated revision risk applied specifically to anatomic total shoulder arthroplasty, not to reverse total shoulder arthroplasty performed electively or for fracture.",
+        "Orthopaedic surgeons should monitor patients who previously received an Equinoxe anatomic total shoulder arthroplasty for early signs of failure, even if the implant was not flagged during the 2024 recall."
+      ]
+    },
+    {
+      "pmid": "42748364",
+      "title": "Formal consensus on fast-track hip and knee arthroplasty: ESSKA/EKA, EHS and APAS recommendations for optimised recovery pathways in joint replacement surgeries.",
+      "authors": [
+        "Totlis T",
+        "Kort N",
+        "Kort R",
+        "Budhiparama NC",
+        "Carulli C",
+        "Clarius M",
+        "Coden G",
+        "Gamie Z",
+        "Gomberg B",
+        "Grant A",
+        "Guenther D",
+        "Haddad FS",
+        "Kayani B",
+        "Kenanidis E",
+        "Kr\u00f3likowska A",
+        "Liu D",
+        "Lumban-Gaol I",
+        "Machado L",
+        "Nandi S",
+        "P\u00e9rez-Prieto D",
+        "Prill R",
+        "Smith E",
+        "Tandogan R",
+        "Tsiridis E",
+        "Beek RV"
+      ],
+      "authors_short": "Totlis T, Kort N, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: This international formal consensus aims to establish a unified, evidence-based approach to perioperative care by promoting the adoption of fast-track surgery or enhanced recovery after surgery (ERAS) protocols, informing healthcare professionals and administrators about optimal perioperative management of arthroplasty and facilitating broader implementation. METHODS: A multidisciplinary panel of 106 experts contributed across a Steering Group (n\u2009=\u200922), a Rating Group (n\u2009=\u200935) and a Peer Review group (n\u2009=\u200949). The Steering Group developed 37 questions and corresponding statements based on the literature review and expert opinion. Statements were graded from A (high-level evidence) to D (expert opinion). An independent Rating Group evaluated each statement on a 1-9 Likert scale across two rounds using the Formal Consensus methodology. Statements were iteratively revised and finalised through consensus and joint discussion. The final document was assessed by an international Peer Review Group to ensure transnational applicability. RESULTS: Out of 37 questions, a total of 63 statements were developed. Following a set of general statements outlining the principles and overall goals of fast-track total knee arthroplasty (TKA) and total hip arthroplasty (THA), the recommendations addressed and optimised the three key phases of perioperative care: preoperative, intraoperative and postoperative management. Of the 63 statements, 39 were graded A or B and 24 as C or D. Mean agreement scores ranged from 7.7 to 8.9. Overall, 56 statements were considered appropriate with strong agreement and 7 with relative agreement. The Peer Review Group supported the overall statements, providing feedback to clarify specific recommendations and to highlight regional differences in implementation, which were incorporated into the final document. CONCLUSIONS: This consensus endorses the adoption of structured fast-track or enhanced recovery programs as a patient-centred approach to perioperative care in total hip and knee arthroplasty. The aim is to improve the quality of care by reducing morbidity, optimising pain management, shortening hospital stay and enhancing patient satisfaction. While not intended to replace clinical judgement, it provides a pragmatic framework to guide decision-making, promote consistency and facilitate safe early mobilisation and discharge. LEVEL OF EVIDENCE: Level I.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42748364/",
+      "score": 78,
+      "score_reasoning": "High-impact JBJS consensus paper with 106 international experts establishing unified ERAS/fast-track protocols for hip and knee arthroplasty across preoperative, intraoperative, and postoperative phases with direct practice implementation value.",
+      "bullets": [
+        "A 106-expert international consensus panel endorsed structured enhanced recovery protocols for total hip and knee arthroplasty across all three perioperative phases.",
+        "The recommendations apply to all patients undergoing primary THA or TKA and cover preoperative optimisation, intraoperative management, and postoperative pain control and mobilisation.",
+        "Surgeons should implement formal fast-track pathways to reduce complications, shorten hospital stay, and support safe early discharge, while adapting to local resources and individual patient needs."
+      ]
+    },
+    {
+      "pmid": "42748210",
+      "title": "Reimplantation in 2-Stage Exchange: Breaking the Dogma of the 2-Week Antibiotic Holiday.",
+      "authors": [
+        "Ascione T",
+        "Balato G",
+        "Pagliano P",
+        "Parvizi J"
+      ],
+      "authors_short": "Ascione T, Balato G, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "\u27a2 The optimal timing for reimplantation in patients with periprosthetic joint infection undergoing 2-stage exchange revision is challenging. The metrics used to determine reimplantation timing, such as serum inflammatory markers and culture results, often have low predictive value and can be misleading or discordant.\u27a2 A combination of clinical signs indicating infection resolution together with declining serological and synovial markers may be used to guide the timing of reimplantation.\u27a2 The rationale for an antibiotic holiday is to allow for a persistent infection to \"resurface\" in that period, prior to reimplantation.\u27a2 Available data have shown no clear evidence of improved outcomes when an antibiotic holiday is implemented.\u27a2 However, continuous antibiotic therapy offers important advantages, including a shorter overall treatment duration and higher cure rates, particularly in immunocompromised patients. There is a dire need to develop a tool to guide the optimal timing of reimplantation.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42748210/",
+      "score": 77,
+      "score_reasoning": "JBJS in vitro study with important clinical implications demonstrating that cement brand and mixing sequence significantly affect vancomycin elution from PJI spacers, directly guiding surgical technique for two-stage revision.",
+      "bullets": [
+        "No clear evidence shows that a 2-week antibiotic holiday before reimplantation improves infection cure rates in 2-stage exchange revision.",
+        "Continuous antibiotics through to reimplantation shortens total treatment duration and improves cure rates, especially in immunocompromised patients.",
+        "Current markers used to time reimplantation, including serum inflammatory markers and joint aspirate cultures, have low predictive value and should not be used in isolation."
+      ]
+    },
+    {
+      "pmid": "42731643",
+      "title": "After-Hours Surgery Is Associated With Adverse Perioperative Outcomes Following Hemiarthroplasty for Femoral Neck Fracture.",
+      "authors": [
+        "Beckers G",
+        "Deuschle J",
+        "B\u00f6cker W",
+        "Holzapfel BM",
+        "Simon D",
+        "Lerchenberger M"
+      ],
+      "authors_short": "Beckers G, Deuschle J, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: The influence of surgical timing and surgeon subspecialty on outcomes following hemiarthroplasty (HA) for displaced femoral neck fracture (FNF) remains controversial. This study evaluated the impact of admission-to-surgery interval, time of day, and surgeon subspecialty on perioperative outcome and mortality. METHODS: In this retrospective cohort study, 349 patients undergoing cemented HA for displaced FNF were analyzed. All patients were operated on using the direct anterior approach. Patients were stratified by surgery within 24 hours, operative timing (in-hours versus after-hours versus weekend), and surgeon subspecialty (arthroplasty-trained versus traumatology-trained). Multivariable logistic and linear regression models were used to assess associations with operative times, intra-operative complications, estimated blood losses (EBL), transfusions, periprosthetic joint infections (PJI), deliria, revisions, and 30-day mortalities. RESULTS: Surgery beyond 24 hours was not independently associated with increased mortality or postoperative morbidity after adjustment. In contrast, after-hours surgery was independently associated with prolonged operative time (+12.3 minutes, P = 0.002), greater EBL (+104 mL, P = 0.003), higher transfusion risk (odds ratio (OR) 2.28, P = 0.015), increased revision risk (OR 3.20, P = 0.015), and higher PJI risk (OR 4.78, P = 0.037). After-hours procedures were also associated with a lower incidence of deliria (OR 0.35, P = 0.036). Surgeon subspecialty was associated with operative duration and transfusion requirements, but not with PJIs, 30-days mortalities, revisions, or deliria. CONCLUSION: After-hours hemiarthroplasty was independently associated with prolonged operative times, increased blood losses, higher transfusion requirements, and a higher observed risk of PJIs, although the latter finding was based on a small number of events. In contrast, surgery beyond 24 hours from admission and surgeon subspecialty were not independently associated with mortality or major post-operative complications. These findings suggest that the timing of surgery, rather than surgical specialty or moderate delay, may influence perioperative outcomes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42731643/",
+      "score": 72,
+      "score_reasoning": "JBJS review of robotic arthroplasty synthesizing systematic reviews, RCTs, and registry data to contextualize precision gains against lack of consistent outcome improvements, essential reading for surgeons considering robotic adoption.",
+      "bullets": [
+        "Hemiarthroplasty for femoral neck fracture performed after hours carries higher rates of blood loss, transfusion, revision, and infection compared to cases done during regular hours.",
+        "Delaying surgery beyond 24 hours from admission was not associated with increased mortality or major complications, so moderate scheduling delays appear safe.",
+        "Surgeon subspecialty (arthroplasty versus trauma trained) did not affect mortality, revision, or infection rates, though it did influence operative time and transfusion use."
+      ]
+    },
+    {
+      "pmid": "42750998",
+      "title": "Increased Polymicrobial Infection Rates and Associated Mortality in Patients With Chronic Gastrointestinal Disease Undergoing Antibiotic Spacer Placement for Periprosthetic Joint Infection.",
+      "authors": [
+        "Wier J",
+        "Telang SS",
+        "Kumaran P",
+        "Iyer A",
+        "Lieberman JR",
+        "Heckmann ND"
+      ],
+      "authors_short": "Wier J, Telang SS, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Emerging evidence has identified gut dysbiosis, as a contributor to periprosthetic joint infection (PJI) risk. Chronic gastrointestinal (CGI) disease may result in unique causative organisms in PJI. As such, the present study sought to compare the infective organisms of PJI patients presenting with or without CGI disease. METHODS: The Premier Healthcare Database was retrospectively queried to identify patients (\u226518 years) who underwent spacer placement for PJI following total hip or knee arthroplasty between January 2016 and December 2023. Multivariable logistic regression models accounting for joint (hip or knee), sex, and Charlson Comorbidity Index were used to calculate the odds of isolating a particular bacterial species in CGI disease. A subanalysis of patients with polymicrobial infections was conducted to determine rates and adjusted odds of inpatient 90-day mortality. RESULTS: A total of 9756 patients undergoing antibiotic spacer placement for PJI were identified. Of which, 339 (3.5%) had a history of CGI disease and 9417 (96.5%) had no history of CGI disease. When compared to patients without CGI disease, patients with CGI disease were at a 1.6 (95% confidence interval (CI) = 1.1-2.3) and 4.7 (95% CI = 1.3-16.6) times higher adjusted odds of polymicrobial and Clostridial infection. In the cohort of patients with polymicrobial infections, 7.5-times (95% CI = 3.7-15.3) greater adjusted odds of death was observed when compared to patients without CGI disease (14 patients [13.2%] vs 31 patients [1.4%]). CONCLUSION: CGI disease was associated with significantly higher odds of polymicrobial infections and Clostridial species. LEVEL OF EVIDENCE: III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42750998/",
+      "score": 69,
+      "score_reasoning": "JBJS consensus statement on immediate weight-bearing after hip fracture surgery with Delphi methodology from 31 international experts across 15 countries, addressing a major global implementation gap in hip fracture care.",
+      "bullets": [
+        "Patients with chronic gastrointestinal disease undergoing antibiotic spacer placement for PJI are nearly 5 times more likely to grow Clostridial species and 1.6 times more likely to have polymicrobial infections than those without gut disease.",
+        "Among patients with polymicrobial PJI, those with chronic gastrointestinal disease had a 90-day inpatient mortality rate of 13.2%, compared to 1.4% in patients without gastrointestinal disease.",
+        "Surgeons treating PJI in patients with inflammatory bowel disease, Crohn's disease, or other chronic gut conditions should anticipate atypical and polymicrobial organisms and counsel patients on substantially elevated mortality risk."
+      ]
+    },
+    {
+      "pmid": "42729672",
+      "title": "Sound Exposure in Total Joint Arthroplasty: Are All Operating Room Personnel at Risk?",
+      "authors": [
+        "Hoffa MT",
+        "Lapow JM",
+        "Tolsma R",
+        "DeBruin AE",
+        "Rossi DM",
+        "Nickel BT"
+      ],
+      "authors_short": "Hoffa MT, Lapow JM, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: A hearing conservation program is recommended by the Occupational Safety and Health Administration for prolonged exposure exceeding 85 dB. Arthroplasty surgeons often experience levels above this threshold. There is a paucity of literature regarding sound exposure for all arthroplasty operating room (OR) personnel. This study directly assesses and compares sound exposure levels for all OR personnel in total joint arthroplasty. METHODS: Sound data were recorded for 20 total hip arthroplasty (THA) and 20 total knee arthroplasty (TKA) cases. Recording devices collected sound data for the 5 primary OR roles-primary surgeon, first assistant, surgical technologist, anesthesia staff, and circulating nurse. T-test and analysis of variance were completed to compare between case type and OR personnel, respectively. RESULTS: Average sound level exceeded 85 dB for the primary physician in hip and knee arthroplasty. Sound exposure in THA commonly exceeded that of TKA. The primary surgeon experienced significantly higher average sound level than all other OR personnel in TKA and THA (P < .01). The primary surgeon also experienced a significantly higher percentage of total time with sound exceeding 90 dB relative to other OR personnel (P < .0001). CONCLUSIONS: All total joint arthroplasty OR personnel, including anesthesia and nursing, may be exposed to some degree of potentially dangerous sound. This risk is most notable for direct operative staff, and significantly higher for the primary surgeon. Our data suggests hearing protection is indicated by the Occupational Safety and Health Administration standards for the primary surgeon; however, all OR personnel would likely benefit based on our measured exposures.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42729672/",
+      "score": 66,
+      "score_reasoning": "AMSJ prospective comparative cohort (546 patients, mean follow-up 52 months) showing prior hip arthroscopy does not negatively impact THA functional outcomes, directly counseling patients and surgeons about conversion THA.",
+      "bullets": [
+        "Sound levels during total hip and knee arthroplasty regularly exceed 85 dB for the primary surgeon, meeting the OSHA threshold that requires a formal hearing conservation program.",
+        "The primary surgeon is exposed to significantly louder sound than all other OR personnel, including the first assistant, scrub tech, anesthesia staff, and circulating nurse.",
+        "All arthroplasty OR staff should be considered for hearing protection, with the primary surgeon having the clearest indication based on measured exposure levels."
+      ]
+    },
+    {
+      "pmid": "42725748",
+      "title": "The Association of Long-Term Cardiac Issues for Adult Patients With Versus Without Scoliosis.",
+      "authors": [
+        "Dhodapkar MM",
+        "Jeong S",
+        "Halperin SJ",
+        "Patel T",
+        "Grauer JN",
+        "Tuason D"
+      ],
+      "authors_short": "Dhodapkar MM, Jeong S, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Scoliosis may be associated with long-term cardiac issues through developmental association or structural causes. There are limited data examining the correlation of different forms of scoliosis with cardiac issue beyond its association with congenital heart disease. METHODS: Data were abstracted from the 2015-2021 October Mariner 157 with Control PearlDiver Data set. Patients older than 18 and younger than 65 years with idiopathic, neuromuscular, and congenital scoliosis were identified using International Classification of Diseases (ICD)-10 codes and separately matched 1:10 by age and sex to a random sample of individuals without a history of scoliosis who presented for office visits identified using CPT codes. The incidences of cardiac arrest, congestive heart failure (CHF), cardiac arrhythmia, valvular disease, atrial fibrillation/flutter, ischemic cardiac disease, and aggregated cardiac history were identified using ICD codes. These were compared between the matched scoliosis and control groups using univariable analysis and multivariable logistic regression. RESULTS: Overall, 182,777 patients with idiopathic scoliosis, 16,845 with neuromuscular scoliosis, and 2,404 with congenital scoliosis were identified. Control patients were identified and matched 10:1 by age and sex to patients with each subtype of scoliosis. For idiopathic and neuromuscular scoliosis, multivariable logistic regression demonstrated increased odds of aggregate cardiac history and all individual cardiac comorbidities (odds ratio (OR) 1.11-1.72 for idiopathic scoliosis and OR 1.17-4.30 for neuromuscular scoliosis, P < 0.05 for all). For congenital scoliosis, there were increased odds of aggregate cardiac history and all individual cardiac comorbidities except for ischemic cardiac disease (OR 1.27-2.14, P < 0.05 for all except ischemic cardiac disease). DISCUSSION: Patients with different types of scoliosis seem to be at greater odds of various electrical, structural, ischemic, and functional cardiac issues in adulthood. CONCLUSION: Patients with different types of scoliosis are at greater odds of various cardiac issues in adulthood, which may help guide patient counseling and inform follow-up.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42725748/",
+      "score": 62,
+      "score_reasoning": "Large retrospective database study evaluating TKA volume trends projecting ASC volumes exceeding 2.1 million by 2040, critically important for arthroplasty surgeons in practice planning and healthcare system navigation.",
+      "bullets": [
+        "Adult patients with idiopathic, neuromuscular, or congenital scoliosis have significantly higher rates of cardiac conditions including arrhythmia, heart failure, and valvular disease compared to matched controls.",
+        "The association holds across all three scoliosis subtypes, with neuromuscular scoliosis carrying the highest cardiac risk, and congenital scoliosis showing elevated risk for most conditions except ischemic heart disease.",
+        "Orthopaedic surgeons managing adult scoliosis patients should factor in elevated cardiac risk when counseling patients and consider recommending appropriate cardiac follow-up."
+      ]
+    },
+    {
+      "pmid": "42745412",
+      "title": "Outcomes and Return-to-Sport Rates of Competitive Athletes Treated for Femoroacetabular Impingement Syndrome With Contemporary Hip Arthroscopy Techniques: A Matched Comparison to Early Techniques.",
+      "authors": [
+        "Schab AR",
+        "Rana K",
+        "Wallace I",
+        "Quesada-Jimenez R",
+        "Jimenez AE",
+        "Kuhns BD",
+        "Domb BG"
+      ],
+      "authors_short": "Schab AR, Rana K, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Hip arthroscopy for the treatment of femoroacetabular impingement syndrome (FAIS) and labral tears has evolved over time with varying methods of labral and capsular treatment. PURPOSE: To report patient-reported outcomes (PROs) and return-to-sport (RTS) rates of athletes undergoing primary hip arthroscopy with contemporary techniques and compare their outcomes to those of athletes treated with early techniques. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: A retrospective analysis of the records of patients who underwent primary hip arthroscopy for the treatment of FAIS and labral tears was performed. All patients reported preoperative participation in sports within 1 year of surgery. The contemporary arthroscopy (CA) cohort underwent capsular repair, and labral treatment was either repair or reconstruction with knotless anchors. The early technique (ET) cohort received labral treatment with either a knotted repair or debridement and did not have capsular repair. Patients had a 2-year minimum follow-up for PROs or an endpoint. The cohorts underwent 1:1 propensity matching for age, sex, body mass index, and level of competition. Clinically important thresholds, PROs, secondary surgeries, and RTS rates were compared. RESULTS: A total of 98 hips (92 patients) were included in the study. Athletes in both cohorts demonstrated significant improvement in PROs. The CA and ET cohorts had similar baseline PROs, yet the CA cohort achieved higher postoperative values for modified Harris Hip Score (mHHS), Non-Arthritic Hip Score (NAHS), 12-item International Hip Outcome Tool score, and Hip Outcome Score-Sports Specific Subscale (HOS-SSS) (P < .05). The CA cohort met clinical thresholds at higher rates for mHHS, NAHS, and HOS-SSS (P < .05). Athletes in the CA cohort returned to sport at a higher rate than those in the ET group (97.6% vs 81.0%; P = .03). CONCLUSION: Athletes undergoing hip arthroscopy with contemporary techniques for FAIS and labral tears demonstrated greater magnitudes of improvement in PROs and met clinical thresholds at higher rates than athletes in the ET group. Additionally, athletes in the CA cohort returned to sport at higher rates when compared to athletes in the ET cohort.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42745412/",
+      "score": 61,
+      "score_reasoning": "AMSJ retrospective cohort (98 matched hips) showing contemporary hip arthroscopy techniques yield superior patient-reported outcomes and return-to-sport rates compared to early techniques, guiding modern surgical approach selection.",
+      "bullets": [
+        "Competitive athletes treated for femoroacetabular impingement with capsular repair and knotless labral repair or reconstruction returned to sport at 97.6%, compared to 81% with older techniques including debridement and no capsular repair.",
+        "Athletes treated with contemporary hip arthroscopy techniques also scored higher on validated hip outcome measures at two years, including sports-specific subscales, and met clinically meaningful improvement thresholds at greater rates.",
+        "For orthopaedic surgeons managing athletes with femoroacetabular impingement, capsular repair combined with modern labral fixation appears to produce meaningfully better functional results and return-to-sport rates than earlier surgical approaches."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-09-18T07:06:46.337134-07:00"
+}
