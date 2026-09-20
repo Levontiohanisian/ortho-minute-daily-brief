@@ -1,0 +1,318 @@
+{
+  "brief_date": "2026-09-20",
+  "brief_date_display": "Sunday, September 20",
+  "candidates": [
+    {
+      "pmid": "42743297",
+      "title": "Revision Risk Following Primary Anatomic and Reverse TSA with an Exactech Equinoxe Compared with Other Devices: A U.S.-Based Cohort Study.",
+      "authors": [
+        "Prentice HA",
+        "Chang RN",
+        "Yian E",
+        "Navarro RA",
+        "Singh A",
+        "Chan DP",
+        "Ding D",
+        "Elwell JA",
+        "Degrasse J",
+        "Roche C",
+        "Paxton EW"
+      ],
+      "authors_short": "Prentice HA, Chang RN, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: In 2024, Exactech issued a voluntary recall of Equinoxe devices after finding that some devices had been packaged in bags that were non-conforming because a secondary oxygen barrier layer of ethylene vinyl alcohol was missing. We sought to evaluate the revision risk following shoulder arthroplasty using an Exactech Equinoxe device compared with other eligible devices. METHODS: We conducted a cohort study using data from a U.S. health-care system's shoulder arthroplasty registry. The study included 13,901 adult patients who had undergone primary elective anatomic total shoulder arthroplasty (ATSA), elective reverse total shoulder arthroplasty (RTSA), or RTSA for fracture (2005 to 2023). The mean age for the ATSA cohort (N = 8,707) was 68 years, 53.3% were male, and 84.7% were White. Corresponding values for the elective RTSA cohort (N = 4,374) were 74 years, 41.2% male, and 79.9% White, and those for the RTSA for fracture cohort (N = 820) were 73 years, 16.3% male, and 78.4% White. Multivariable Cox regression with covariate adjustment was used to evaluate all-cause revision risk for Equinoxe devices compared with other devices. RESULTS: In adjusted analyses, a higher revision risk was observed for ATSAs with Equinoxe versus other devices (hazard ratio [HR] = 1.87, 95% confidence interval [CI] = 1.33 to 2.62). The higher revision risk was also observed in a subanalysis restricted to ATSAs with Equinoxe devices packaged in non-conforming bags (HR = 1.91, 95% CI = 1.34 to 2.72). No differences were observed in elective RTSAs (HR = 0.71, 95% CI = 0.33 to 1.49) or RTSAs for fracture (HR = 2.30, 95% CI = 0.84 to 6.28) with Equinoxe compared with other devices. CONCLUSIONS: We observed a higher revision risk with the use of Equinoxe devices in ATSA, but no difference for Equinoxe devices in elective RTSA compared with other devices. While all Equinoxe devices packaged in non-conforming bags were recalled worldwide in 2024, clinicians should be mindful of these findings when a patient had previously received an Equinoxe ATSA device. LEVEL OF EVIDENCE: Therapeutic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42743297/",
+      "score": 82,
+      "score_reasoning": "High-impact JBJS publication on Exactech Equinoxe recall with large registry cohort (13,901 patients) directly relevant to practicing shoulder arthroplasty surgeons facing an active implant recall situation.",
+      "bullets": [
+        "Patients who received an Exactech Equinoxe anatomic total shoulder arthroplasty had nearly twice the revision risk compared to those who received other devices.",
+        "The increased revision risk applied specifically to anatomic total shoulder arthroplasty, not to reverse total shoulder arthroplasty performed electively or for fracture.",
+        "Orthopaedic surgeons should closely monitor patients who previously received an Equinoxe anatomic total shoulder arthroplasty, as the recall does not eliminate the ongoing revision risk in this population."
+      ]
+    },
+    {
+      "pmid": "42743313",
+      "title": "Cement Brand and Mixing Sequence Determine Vancomycin Elution from High-Dose PMMA Spacers: An in Vitro Comparative Study.",
+      "authors": [
+        "Hammad M",
+        "Chao CA",
+        "Bostrom MP",
+        "Carli AV"
+      ],
+      "authors_short": "Hammad M, Chao CA, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: High-dose vancomycin is routinely mixed into polymethylmethacrylate (PMMA) spacers for chronic periprosthetic joint infection (PJI). The precise manner by which to maximize elution remains unknown, and the impact of PMMA-antibiotic mixing sequences remains unexplored. METHODS: Sixty PMMA discs (5 formulations consisting of 2 PMMA brands, 2 viscosities, presence or absence of premixed gentamicin) were mixed with 4 g of vancomycin using either a polymer-first or monomer-first sequence. Vancomycin elution was quantified over 28 days, antimicrobial activity against methicillin-sensitive Staphylococcus aureus was tested, and micro-computed tomography scans were performed to assess porosity. Elution amounts were compared with Holm-corrected t tests and are reported as the mean \u00b1 standard error. RESULTS: Vancomycin retained bactericidal activity across all formulations. Monomer-first mixing of Palacos MV (medium-viscosity) yielded the greatest cumulative elution (2,897 \u00b1 64 \u00b5g/mL), 120% greater than monomer-first mixing of Simplex P. A monomer-first sequence increased vancomycin elution from medium-viscosity Palacos MV by 57% compared with high-viscosity Palacos R. Polymer-first mixing of Simplex P yielded the greatest immediate elution over the first hour (415 \u00b1 33 \u00b5g/mL), as well as a 52% greater cumulative elution amount over 28 days versus its monomer-first sequence. Premixed gentamicin only increased vancomycin elution for high-viscosity formulations. No significant differences were seen in porosity. CONCLUSIONS: The cement brand and mixing sequence significantly influenced elution of high-dose vancomycin from PMMA. Palacos MV mixed monomer-first produced the greatest cumulative antibiotic delivery, whereas polymer-first Simplex P maximized initial release. The mixing methods did not deleteriously affect PMMA integrity or antimicrobial activity. CLINICAL RELEVANCE: Clinicians should consider their choice of PMMA brand, viscosity, and mixing sequence when preparing high-dose spacers in revision arthroplasty for PJI. Maximizing cumulative elution may be a clinically favorable strategy to improve PJI eradication.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42743313/",
+      "score": 80,
+      "score_reasoning": "Large propensity-matched cohort (181,464 patients) in a high-relevance journal quantifying PAD-associated complication risks after THA with directly actionable preoperative risk stratification data.",
+      "bullets": [
+        "Cement brand and mixing sequence significantly affect how much vancomycin elutes from a PMMA spacer over 28 days, with up to 120% difference between formulations.",
+        "For surgeons treating periprosthetic joint infection with a two-stage revision, Palacos MV mixed monomer-first gives the highest cumulative vancomycin release, while Simplex P mixed polymer-first gives the highest early release.",
+        "Changing mixing sequence or cement brand does not compromise spacer integrity or vancomycin bactericidal activity, so optimizing elution carries no structural downside."
+      ]
+    },
+    {
+      "pmid": "42748364",
+      "title": "Formal consensus on fast-track hip and knee arthroplasty: ESSKA/EKA, EHS and APAS recommendations for optimised recovery pathways in joint replacement surgeries.",
+      "authors": [
+        "Totlis T",
+        "Kort N",
+        "Kort R",
+        "Budhiparama NC",
+        "Carulli C",
+        "Clarius M",
+        "Coden G",
+        "Gamie Z",
+        "Gomberg B",
+        "Grant A",
+        "Guenther D",
+        "Haddad FS",
+        "Kayani B",
+        "Kenanidis E",
+        "Kr\u00f3likowska A",
+        "Liu D",
+        "Lumban-Gaol I",
+        "Machado L",
+        "Nandi S",
+        "P\u00e9rez-Prieto D",
+        "Prill R",
+        "Smith E",
+        "Tandogan R",
+        "Tsiridis E",
+        "Beek RV"
+      ],
+      "authors_short": "Totlis T, Kort N, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: This international formal consensus aims to establish a unified, evidence-based approach to perioperative care by promoting the adoption of fast-track surgery or enhanced recovery after surgery (ERAS) protocols, informing healthcare professionals and administrators about optimal perioperative management of arthroplasty and facilitating broader implementation. METHODS: A multidisciplinary panel of 106 experts contributed across a Steering Group (n\u2009=\u200922), a Rating Group (n\u2009=\u200935) and a Peer Review group (n\u2009=\u200949). The Steering Group developed 37 questions and corresponding statements based on the literature review and expert opinion. Statements were graded from A (high-level evidence) to D (expert opinion). An independent Rating Group evaluated each statement on a 1-9 Likert scale across two rounds using the Formal Consensus methodology. Statements were iteratively revised and finalised through consensus and joint discussion. The final document was assessed by an international Peer Review Group to ensure transnational applicability. RESULTS: Out of 37 questions, a total of 63 statements were developed. Following a set of general statements outlining the principles and overall goals of fast-track total knee arthroplasty (TKA) and total hip arthroplasty (THA), the recommendations addressed and optimised the three key phases of perioperative care: preoperative, intraoperative and postoperative management. Of the 63 statements, 39 were graded A or B and 24 as C or D. Mean agreement scores ranged from 7.7 to 8.9. Overall, 56 statements were considered appropriate with strong agreement and 7 with relative agreement. The Peer Review Group supported the overall statements, providing feedback to clarify specific recommendations and to highlight regional differences in implementation, which were incorporated into the final document. CONCLUSIONS: This consensus endorses the adoption of structured fast-track or enhanced recovery programs as a patient-centred approach to perioperative care in total hip and knee arthroplasty. The aim is to improve the quality of care by reducing morbidity, optimising pain management, shortening hospital stay and enhancing patient satisfaction. While not intended to replace clinical judgement, it provides a pragmatic framework to guide decision-making, promote consistency and facilitate safe early mobilisation and discharge. LEVEL OF EVIDENCE: Level I.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42748364/",
+      "score": 76,
+      "score_reasoning": "JBJS review on reimplantation timing in 2-stage revision for PJI challenges the widely-practiced antibiotic holiday with evidence supporting continuous therapy, directly affecting a common clinical protocol.",
+      "bullets": [
+        "A 106-expert international consensus across three societies confirmed that structured enhanced recovery protocols reduce morbidity, shorten hospital stay, and improve outcomes in total hip and knee arthroplasty.",
+        "The consensus applies to all patients undergoing primary THA or TKA and covers preoperative, intraoperative, and postoperative care across 63 recommendations, most supported by high-quality evidence.",
+        "Surgeons can use this framework to standardise perioperative care, support early mobilisation, and guide safe early discharge without replacing individual clinical judgment."
+      ]
+    },
+    {
+      "pmid": "42762834",
+      "title": "Sobering Outcomes after Two-Stage Revision for Periprosthetic Joint Infection Among Patients Who Have Revision Total Knee Arthroplasty Components.",
+      "authors": [
+        "Ball JR",
+        "Palmer RC",
+        "Telang SS",
+        "Aron A",
+        "Bruce D",
+        "Jones-L\u00f3pez EC",
+        "Longjohn DB",
+        "Oakes DA",
+        "Lieberman JR",
+        "Heckmann ND"
+      ],
+      "authors_short": "Ball JR, Palmer RC, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Periprosthetic joint infection (PJI) following revision total knee arthroplasty (TKA) is a major complication leading to substantial morbidity. Despite ongoing efforts, PJI remains the most common reason for failure following revision TKA. This study aimed to assess outcomes following the explantation of infected revision TKA components. METHODS: A retrospective assessment was performed of patients treated with complete implant removal of a revision TKA construct for the diagnosis of PJI at a single tertiary academic center. Patient demographics, implants, intraoperative data, postoperative outcomes, and radiographic images were assessed. Revision components were defined as long stems, cones or sleeves, hinged components, or megaprosthetic components. RESULTS: In total, 62 knees were evaluated with a mean follow-up of 3.4 \u00b1 2.8 years. Construct features included long cemented stems in 44 (70.9%), hinged implants in 17 (27.4%), cones or sleeves in 15 (24.2%), and megaprosthetic components in 10 (16.1%). Mean operative time was 273.8 \u00b1 91.5 minutes. Following explantation, 15 (24.2%) patients required intensive care unit admission, 16 (25.8%) required readmission within 90 days, 19 (30.6%) underwent unplanned reoperation, and 2 (3.2%) died within 1 year. Among the 48 (77.4%) replanted patients, 16 (33.3%) underwent subsequent reoperation, 9 (56.2%) for recurrent infection. At the last follow-up, 39 patients (62.9%) had re-revision implants in situ. There were seven patients (11.3%) who retained a static spacer, and 5 patients (8.1%) underwent above-knee amputation. Kaplan-Meier survivorship analysis demonstrated a 10-year survivorship estimate free from all-cause reoperation of 34.9% (95% Confidence Interval (CI): 17.2-71.0%) and survivorship free from reinfection of 63.9% (95% CI: 43.2-94.7%). CONCLUSION: The management of PJI following revision TKA is a challenging surgical problem that is associated with significant patient morbidity when resection arthroplasty and spacer placement are performed. When considering explantation of revision TKA components, surgeons and patients should be aware of the substantial risk of postoperative complications.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42762834/",
+      "score": 74,
+      "score_reasoning": "Large propensity-matched database study (14,786 patients) in JSES providing clinically actionable organism-specific and time-stratified complication data for shoulder arthroplasty surgeons evaluating high-risk patients.",
+      "bullets": [
+        "In patients undergoing two-stage revision for infected revision total knee arthroplasty components, only 63% had a functioning implant at final follow-up, with 8% requiring above-knee amputation.",
+        "Roughly one in three patients who received a new implant needed another reoperation, and more than half of those reoperations were for recurrent infection.",
+        "Ten-year survivorship free from any reoperation was under 35%, meaning surgeons should counsel patients that successful eradication of infection in this setting is the exception, not the rule."
+      ]
+    },
+    {
+      "pmid": "42757086",
+      "title": "Medial Unicompartmental Knee Arthroplasty Is Associated With Significant Reduction in Pain and Opioid Prescribing Patterns Compared to Total Knee Arthroplasty: A Retrospective Cohort Study of 9595 Knees.",
+      "authors": [
+        "Neitzke CC",
+        "Bhatti P",
+        "Lan R",
+        "Mayman DJ",
+        "Sculco PK",
+        "Chalmers BP"
+      ],
+      "authors_short": "Neitzke CC, Bhatti P, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Total knee arthroplasty (TKA) and medial unicompartmental knee arthroplasty (mUKA) are successful operations to treat knee osteoarthritis. While mUKA is associated with less postoperative pain, there is a paucity of literature exploring postoperative opioid consumption and prescribing patterns between these procedures. The objective of this study was to evaluate in-hospital opioid consumption and postoperative opioid prescribing patterns, in milligram morphine equivalents (MMEs), between patients undergoing primary unilateral mUKA vs TKA. METHODS: A single-institution retrospective review of patients undergoing primary mUKA or TKA from 2019 to 2022 was performed. Patients were excluded if they lacked 90-day follow-up, used narcotics preoperatively, had a history of anxiety/depression, or underwent additional procedures within 90 days. Multivariable regression analysis assessed inpatient MME consumption, as well as discharge +90-day total MME prescribing patterns. RESULTS: A total of 9595 patients were analyzed (720 mUKA; 8875 TKA). The mUKA cohort had an adjusted length of stay 25.4 hours shorter than the TKA cohort (P < .001). The mUKA cohort was associated with consuming 0.17 MMEs/hour fewer while inpatient (P = .005). Regression analysis found mUKA to be associated with 275.4 fewer MMEs in the first 90 days (P < .001) when combining discharge plus 90-day refill MMEs. CONCLUSIONS: In this large contemporary series, mUKA was associated with significantly shorter length of stay, statistically significant but clinically similar hourly inpatient MME consumption, and decreased 90-day MME prescribing patterns compared to TKA. These findings highlight favorable perioperative opioid and resource utilization associated with mUKA within its established indications and may contribute to patient counseling regarding expected postoperative recovery.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42757086/",
+      "score": 73,
+      "score_reasoning": "Large JBJS registry cohort study (13,901 patients) on Exactech Equinoxe revision risk is highly timely given the active recall, with strong study design and major clinical implications for shoulder surgeons.",
+      "bullets": [
+        "In 9595 knees, medial unicompartmental knee arthroplasty patients received roughly 275 fewer milligram morphine equivalents in the 90 days after surgery compared to total knee arthroplasty patients.",
+        "Unicompartmental knee arthroplasty was also associated with a hospital stay about 25 hours shorter than total knee arthroplasty.",
+        "For appropriately selected medial compartment arthritis patients, unicompartmental arthroplasty offers a meaningful reduction in postoperative opioid burden, which can inform preoperative counseling on expected recovery."
+      ]
+    },
+    {
+      "pmid": "42735046",
+      "title": "Not all previous surgeries are the same: Procedure-specific infection risk in total knee arthroplasty patients with a history of previous knee surgery.",
+      "authors": [
+        "Elsheikh R",
+        "Amsler F",
+        "Brand C",
+        "Christen B",
+        "Hirschmann MT"
+      ],
+      "authors_short": "Elsheikh R, Amsler F, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: While patient-level factors for prosthetic joint infections (PJIs) following total knee arthroplasty (TKA) are well-established, prior ipsilateral knee procedures are typically treated as a uniform risk factor despite likely variation in risk profile across procedure types. This study aimed to evaluate the procedure-specific risk of revision for infection in patients undergoing primary TKA with a history of one or more prior ipsilateral knee surgeries. METHODS: A retrospective nationwide cohort study using data from the Swiss Implant Registry analysed all primary TKAs performed between 2015 and December 2022. The primary outcome was revision for infection, whereas secondary outcomes included all-cause revision and all-cause mortality at 2 years. Multivariable logistic regression adjusted for age, sex, body mass index and American Society of Anesthesiologists classification, with individual prior procedures entered in a second block. Cumulative surgical burden was analysed as a categorical variable. RESULTS: Among 121,692 TKAs, 40,535 (33.3%) had a history of at least one ipsilateral knee intervention. All-cause revision occurred in 4232 patients (3.5%) and revision for PJI in 803 (0.7%). Any prior surgery was independently associated with higher rates of all-cause revision (odds ratio [OR] 1.33, 95% confidence interval [CI] 1.25-1.42; p\u2009<\u20090.001) and revision for PJI (OR 1.22, 95% CI 1.06-1.42; p\u2009=\u20090.005). On procedure-specific analysis, prior surgery for knee infection was associated with the highest risk of PJI revision (OR 3.30, 95% CI 1.56-6.96; p\u2009=\u20090.002), followed by tibial osteotomy (OR 2.12, 95% CI 1.60-2.82), synovectomy (OR 2.18, 95% CI 1.27-3.73), tibial osteosynthesis (OR 1.71, 95% CI 1.10-2.68) and anterior cruciate ligament reconstruction (OR 1.44, 95% CI 1.10-1.90; all p\u2009<\u20090.05). Infection risk was significantly elevated only in patients with more than two prior procedures (OR 2.01, 95% CI 1.51-2.68, p\u2009<\u20090.001). CONCLUSION: Prior ipsilateral knee surgery is associated with procedure-specific and cumulative risk of revision for infection after TKA, supporting the integration of prior surgical history into preoperative risk stratification protocols. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42735046/",
+      "score": 72,
+      "score_reasoning": "Large nationwide Swiss registry study (121,692 TKAs) providing procedure-specific PJI risk stratification for prior ipsilateral surgery, offering nuanced preoperative counseling data beyond existing generalized risk factors.",
+      "bullets": [
+        "Prior ipsilateral knee surgery raises the risk of infection after TKA, with previous knee infection carrying the highest risk, followed by tibial osteotomy, synovectomy, tibial osteosynthesis, and ACL reconstruction.",
+        "Infection risk is significantly elevated only when a patient has had more than two prior ipsilateral procedures, so cumulative surgical burden matters as much as procedure type.",
+        "For any TKA patient with a history of ipsilateral knee surgery, the specific procedures performed and total number of prior surgeries should be factored into preoperative infection risk counseling and planning."
+      ]
+    },
+    {
+      "pmid": "42744006",
+      "title": "Biological Age Acceleration Predicts Functional Decline and Surgical Risk in Knee Arthroplasty.",
+      "authors": [
+        "Watanabe N",
+        "Yagi M",
+        "Naito Y",
+        "Ohtani S",
+        "Fujita R"
+      ],
+      "authors_short": "Watanabe N, Yagi M, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Chronological age is widely used in perioperative risk assessment, but does not adequately capture interindividual differences in physiological reserve. Recently developed phenotypic biological aging measures quantify biological age using clinical biomarkers and may better reflect frailty and surgical vulnerability. This study compared the predictive value of biological and chronological age for functional and perioperative outcomes in patients undergoing total knee arthroplasty (TKA). METHODS: We retrospectively analyzed 173 consecutive adults who had osteoarthritis undergoing TKA. Biological aging metrics were calculated from nine standard blood biomarkers using a previously validated algorithm. Outcomes included total and limb skeletal muscle mass, 10-meter gait time, and overall and symptomatic perioperative complications. Associations were assessed using multivariable linear and logistic regression models adjusted for sex, body mass index (BMI), body weight, frailty status using the 11-item modified frailty index, diabetes mellitus, and hypertension. Predictive performance was evaluated using adjusted R2 and area under the curve (AUC) with 95% confidence intervals. RESULTS: Biological age acceleration was associated with slower gait time (\u03b2 = 0.48 seconds/year, P < 0.001; R2 = 0.19), outperforming chronological age (R2 = 0.05). In adjusted logistic regressions, biological age acceleration was associated with increased odds of overall perioperative complications, including asymptomatic deep vein thrombosis detected by routine ultrasonography (odds ratio [OR] = 1.20 per one-year increase, 95% confidence interval [CI] 1.10 to 1.30, P < 0.001), with good discrimination (AUC = 0.77). This association persisted for symptomatic complications (OR = 1.11, 95% CI 1.04 to 1.19, P = 0.003). Chronological age was not associated with complications (P = 0.34). Daily alcohol consumption and smoking were modifiable correlates of accelerated biological aging. CONCLUSION: Biological aging metrics better reflected perioperative vulnerability than chronological age in patients undergoing TKA and may support individualized risk stratification and lifestyle optimization.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42744006/",
+      "score": 70,
+      "score_reasoning": "High-impact JBJS vancomycin elution study with rigorous in vitro methodology directly informing how surgeons should mix antibiotic spacers for PJI, with 120% difference in elution based on modifiable technique variables.",
+      "bullets": [
+        "In TKA patients, biological age calculated from nine standard blood biomarkers predicted perioperative complications and slower gait speed far better than chronological age, which showed no significant association with complications.",
+        "Each one-year increase in biological age acceleration raised the odds of perioperative complications by 20%, making this metric a useful preoperative risk tool for patients undergoing total knee arthroplasty.",
+        "Smoking and daily alcohol use were the main modifiable drivers of accelerated biological aging, giving surgeons a concrete counseling target before elective knee replacement."
+      ]
+    },
+    {
+      "pmid": "42757086",
+      "title": "Medial Unicompartmental Knee Arthroplasty Is Associated With Significant Reduction in Pain and Opioid Prescribing Patterns Compared to Total Knee Arthroplasty: A Retrospective Cohort Study of 9595 Knees.",
+      "authors": [
+        "Neitzke CC",
+        "Bhatti P",
+        "Lan R",
+        "Mayman DJ",
+        "Sculco PK",
+        "Chalmers BP"
+      ],
+      "authors_short": "Neitzke CC, Bhatti P, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Total knee arthroplasty (TKA) and medial unicompartmental knee arthroplasty (mUKA) are successful operations to treat knee osteoarthritis. While mUKA is associated with less postoperative pain, there is a paucity of literature exploring postoperative opioid consumption and prescribing patterns between these procedures. The objective of this study was to evaluate in-hospital opioid consumption and postoperative opioid prescribing patterns, in milligram morphine equivalents (MMEs), between patients undergoing primary unilateral mUKA vs TKA. METHODS: A single-institution retrospective review of patients undergoing primary mUKA or TKA from 2019 to 2022 was performed. Patients were excluded if they lacked 90-day follow-up, used narcotics preoperatively, had a history of anxiety/depression, or underwent additional procedures within 90 days. Multivariable regression analysis assessed inpatient MME consumption, as well as discharge +90-day total MME prescribing patterns. RESULTS: A total of 9595 patients were analyzed (720 mUKA; 8875 TKA). The mUKA cohort had an adjusted length of stay 25.4 hours shorter than the TKA cohort (P < .001). The mUKA cohort was associated with consuming 0.17 MMEs/hour fewer while inpatient (P = .005). Regression analysis found mUKA to be associated with 275.4 fewer MMEs in the first 90 days (P < .001) when combining discharge plus 90-day refill MMEs. CONCLUSIONS: In this large contemporary series, mUKA was associated with significantly shorter length of stay, statistically significant but clinically similar hourly inpatient MME consumption, and decreased 90-day MME prescribing patterns compared to TKA. These findings highlight favorable perioperative opioid and resource utilization associated with mUKA within its established indications and may contribute to patient counseling regarding expected postoperative recovery.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42757086/",
+      "score": 67,
+      "score_reasoning": "Retrospective cohort study with competing risk analysis addressing a common clinical dilemma\u2014whether lateral compartment MRI changes should preclude medial UKR\u2014with 9.6-year mean follow-up providing long-term guidance.",
+      "bullets": [
+        "In 9595 knees, medial unicompartmental arthroplasty was associated with 275 fewer morphine milligram equivalents prescribed in the 90 days after surgery compared to total knee arthroplasty.",
+        "Unicompartmental arthroplasty patients were discharged 25 hours earlier than total knee arthroplasty patients on average.",
+        "For appropriately selected patients with isolated medial compartment arthritis, unicompartmental arthroplasty offers meaningfully lower opioid burden and shorter hospital stays, which supports its use in patient counseling about postoperative recovery."
+      ]
+    },
+    {
+      "pmid": "42747027",
+      "title": "Ligament Advanced Reinforcement System (LARS) Augmented Repair vs Autograft Reconstruction for Chronic Lateral Ankle Instability: A Retrospective Comparative Study.",
+      "authors": [
+        "Wu T",
+        "Li Z",
+        "Zhao J",
+        "Hao C",
+        "Xie W",
+        "Fu K",
+        "Jia S",
+        "Fang Z"
+      ],
+      "authors_short": "Wu T, Li Z, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Both autograft reconstruction and Ligament Advanced Reinforcement System (LARS) augmented repair are used for chronic ankle instability (CAI), but comparative evidence regarding postoperative recovery remains limited. This study compared recovery trajectories and functional outcomes between these techniques over 24\u2009months. METHODS: A total of 112 patients with CAI undergoing LARS augmented repair (n\u2009=\u200954) or autograft reconstruction (n\u2009=\u200958) were retrospectively analyzed. Primary outcomes were the Foot and Ankle Outcome Score Sport and Recreation subscale (FAOS-Sport) and Tegner activity score. Secondary outcomes included other FAOS subscales and visual analog scale (VAS) pain scores. Outcomes were assessed preoperatively and at 1, 3, 6, 12, and 24\u2009months postoperatively; VAS was not assessed at 24\u2009months. Longitudinal recovery trajectories were analyzed using generalized estimating equations, and an exploratory FAOS-based minimal clinically important difference (MCID) responder analysis was performed. RESULTS: All outcomes improved significantly over time (all P\u2009<\u2009.001). Compared with the autograft group, the LARS group demonstrated higher FAOS-Sport and Tegner scores at 1, 3, and 6\u2009months (all P\u2009<\u2009.001), indicating faster early functional recovery. Similar early advantages were observed in secondary outcomes, but between-group differences were no longer evident at 12 and 24\u2009months. In the exploratory MCID analysis, a greater proportion of LARS patients achieved the FAOS MCID at 3\u2009months, whereas all available patients in both groups reached the threshold by 6\u2009months. CONCLUSION: Both LARS augmented repair and autograft reconstruction were associated with improved functional outcomes over time. LARS was associated with faster early recovery, whereas differences diminished over time and no significant between-group difference could be detected in the outcomes available by 24\u2009months. LARS may be considered for patients prioritizing early functional recovery. LEVEL OF EVIDENCE: Level III, retrospective comparative study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42747027/",
+      "score": 60,
+      "score_reasoning": "Large ankle arthroplasty survivorship study (71 ankles, minimum 10-year follow-up) of the transfibular trabecular metal TAA provides critical long-term data as utilization continues to increase.",
+      "bullets": [
+        "LARS augmented repair for chronic lateral ankle instability produced faster functional recovery than autograft reconstruction at 1, 3, and 6 months postoperatively.",
+        "By 12 and 24 months, functional outcomes were equivalent between the two techniques, with no detectable difference at final follow-up.",
+        "LARS is a reasonable option for patients with chronic lateral ankle instability who need to return to activity quickly, but long-term results are the same as autograft."
+      ]
+    },
+    {
+      "pmid": "42747020",
+      "title": "Outcomes of AO/OTA 43C Pilon Fractures Treated With Open Reduction Internal Fixation or Tibiotalocalcaneal Nailing.",
+      "authors": [
+        "Litten RM",
+        "Sankey MT",
+        "Harris CS",
+        "McIlwain RN",
+        "Spitler CA",
+        "Johnson JP",
+        "Johnson MD"
+      ],
+      "authors_short": "Litten RM, Sankey MT, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: AO/OTA 43C pilon fractures are severe intra-articular distal tibia injuries associated with high complication rates. Although open reduction internal fixation (ORIF) remains the standard treatment, tibiotalocalcaneal (TTC) nailing has been used in select patients; this study compared characteristics and outcomes of patients treated with ORIF or TTC nailing. METHODS: A retrospective cohort study was performed of adult patients (\u226518\u2009years) with AO/OTA 43C pilon fractures and \u226590\u2009days of follow-up treated operatively at a single level 1 trauma center between 2020 and 2025. Patients treated with TTC nailing were matched 1:1 to patients treated with ORIF based on open vs closed fracture status, with open fractures further matched by Gustilo-Anderson classification. Primary outcomes included fracture-related infection (FRI), reoperation, fracture nonunion, amputation, and hospital length of stay (LOS). RESULTS: In the unmatched cohort (n\u2009=\u2009436), TTC patients had higher rates of open fractures (58.6% vs 38.8%, P\u2009=\u2009.002), higher Injury Severity Scores (ISSs) (15.8 vs 11.3, P\u2009=\u2009.001), and higher rates of polytrauma (42.9% vs 22.4%, P\u2009<\u2009.001). TTC nailing was associated with higher rates of FRI (25.7% vs 13.7%, P\u2009=\u2009.011), longer hospital LOS (13.0 vs 9.4\u2009days, P\u2009=\u2009.004), and more frequent intensive care unit (ICU) admission (31.4% vs 20.2%, P\u2009=\u2009.038). After matching, the cohort included 70 TTC and 70 ORIF patients. TTC patients continued to have higher ISS (15.8 vs 11.4, P\u2009=\u2009.009), higher polytrauma rates (42.9% vs 20.0%, P\u2009=\u2009.004), more blood transfusions (48.6% vs 17.1%, P\u2009<\u2009.001), and more frequent ICU admission (31.4% vs 17.1%, P\u2009=\u2009.049). However, rates of FRI, reoperation, fracture nonunion, and amputation were similar between groups. CONCLUSION: With the numbers available, rates of postoperative complications showed no significant difference that could be detected between TTC nailing and ORIF after matching, supporting its use as a viable limb salvage strategy in patients with pilon fractures characterized by severe articular comminution, poor bone quality, or compromised soft tissues limiting conventional reconstruction. LEVEL OF EVIDENCE: Level III, retrospective cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42747020/",
+      "score": 59,
+      "score_reasoning": "Prospective cohort study from JBJS on immediate weight-bearing after hip fracture surgery with international Delphi consensus provides globally actionable guidance for a high-mortality patient population.",
+      "bullets": [
+        "In matched patients with severe AO/OTA 43C pilon fractures, tibiotalocalcaneal nailing had similar rates of infection, reoperation, nonunion, and amputation compared to standard ORIF.",
+        "TTC nailing patients were sicker overall, with higher injury severity, more polytrauma, and more transfusions, reflecting its use in the most complex cases.",
+        "For pilon fractures with severe articular comminution, poor bone quality, or compromised soft tissue, TTC nailing is a reasonable limb salvage alternative to ORIF."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-09-20T06:57:31.501514-07:00"
+}
