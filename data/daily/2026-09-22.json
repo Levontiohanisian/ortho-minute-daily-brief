@@ -1,0 +1,334 @@
+{
+  "brief_date": "2026-09-22",
+  "brief_date_display": "Tuesday, September 22",
+  "candidates": [
+    {
+      "pmid": "42767524",
+      "title": "There Is No One-Size-Fits-All: Surgical Approach Dictates Optimal Bearing Surface Configuration Choice in 30,000 Total Hip Arthroplasties Over 25 Years.",
+      "authors": [
+        "Cochrane NH",
+        "Panos JA",
+        "Khela MS",
+        "Mabry TM",
+        "Perry KI",
+        "Pagnano MW",
+        "Taunton MJ",
+        "Wyles CC",
+        "Abdel MP"
+      ],
+      "authors_short": "Cochrane NH, Panos JA, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Dislocation remains a consequential complication following primary total hip arthroplasty (THA). Both surgical approach and bearing surface configuration individually influence dislocation risk. This study assessed the dislocation risk stratified by both surgical approach and bearing surface configuration to develop approach-specific recommendations for bearing selection. METHODS: We identified 30,246 primary THAs performed from 1998 to 2022 at a single academic institution. Hips were stratified by bearing surface configuration, including flat/neutral polyethylene (PE) liners, elevated rim/face-changing (elevated) PE liners, and dual-mobility (DM) constructs. There were 14,611 posterior hips (8,587 flat/neutral, 5,207 elevated, and 816 DM), 8,968 antero-lateral (AL, 7,433 flat/neutral, 1,358 elevated, and 171 DM), and 6,667 direct anterior (DA, 6,541 flat/neutral, 91 elevated, and 35 DM). The mean age was 65 years (range, 18 to 100), the mean body mass index was 30 (range, 13 to 66), and 52% were women. The mean follow-up was six years (range, two to 26). RESULTS: The survivorship free of dislocation at 10 years in the posterior, AL, and DA approach THAs were 96, 98, 99%, respectively. In posterior THAs, DM constructs reduced the relative risk of dislocation (RR [risk ratio] < 0.5, P < 0.01). In AL THAs, flat/neutral PE liners had a 99% survivorship free of dislocation, whereas elevated PE liners had double the relative risk of dislocation (RR 2, P < 0.01). In DA THAs, the bearing surface configuration had no discernible impact on the relative risk of dislocation. CONCLUSION: A one-size-fits-all approach to bearing surface configuration is not supported, and a surgical approach should guide bearing selection in primary THAs. For posterior approach THA, DM constructs should be considered in high-risk cases. For the AL approach THA, flat/neutral PE liners had the lowest absolute dislocation risk. Direct anterior THA had the lowest risk of dislocation risk, regardless of bearing selection.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42767524/",
+      "score": 82,
+      "score_reasoning": "Large 30,000-case single-institution study from a high-impact journal providing actionable, approach-specific bearing surface selection recommendations for THA surgeons to minimize dislocation risk.",
+      "bullets": [
+        "In posterior approach THA, dual-mobility constructs cut dislocation risk by more than half compared to standard liners, making them the preferred choice in high-risk patients.",
+        "In anterolateral approach THA, elevated rim liners doubled the dislocation risk, and flat or neutral liners achieved 99% survivorship free of dislocation at 10 years.",
+        "In direct anterior THA, bearing surface choice did not affect dislocation risk, giving surgeons flexibility in liner selection without compromising stability."
+      ]
+    },
+    {
+      "pmid": "42767527",
+      "title": "Increased Risk of Periprosthetic Joint Infection Following Aseptic Revision Hip and Knee Arthroplasty With the Use of Non-Cefazolin Alternative Antibiotics.",
+      "authors": [
+        "Panos JA",
+        "Mallinger BD",
+        "Virk A",
+        "Sierra RJ",
+        "Abdel MP",
+        "Wyles CC"
+      ],
+      "authors_short": "Panos JA, Mallinger BD, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Although perioperative cefazolin antibiotic prophylaxis is associated with a reduced risk of periprosthetic joint infection (PJI) in primary total joint arthroplasty (TJA) compared to non-cefazolin alternatives, its relative efficacy in the aseptic revision setting is less defined. Furthermore, the roles of postoperative oral antibiotic prophylaxis and the management of unexpected positive cultures (UPC) remain controversial. Therefore, we examined PJI in aseptic revision TJA based on (1) perioperative antibiotic prophylaxis, (2) postoperative oral antibiotic regimen, and (3) UPC status. METHODS: We evaluated all patients undergoing aseptic revision total knee arthroplasty (TKA) and total hip arthroplasty (THA) at a single academic institution between January 2000 and March 2024, yielding 5,993 revision arthroplasties (n = 3,429 THA, n = 2,564 TKA). Cases were analyzed based on perioperative antibiotic type (cefazolin versus non-cefazolin), postoperative oral antibiotic regimen, and intraoperative culture results. Cox proportional hazards regressions were used to determine survivorship free from PJI. RESULTS: Among this cohort, 94% received cefazolin perioperative prophylaxis. In total, 234 cases (4%) subsequently developed PJI. Cefazolin perioperative prophylaxis was associated with significantly higher survivorship free from PJI compared to non-cefazolin alternatives (hazard ratio (HR): 0.5; P = 0.006). In patients receiving perioperative cefazolin, the addition of oral antibiotics with either cefadroxil or cephalexin did not significantly reduce PJI risk compared to no oral antibiotics. The incidence of UPCs was 4%, most commonly coagulase-negative Staphylococcus (44%), and was not significantly associated with subsequent PJI (HR: 1.5; P = 0.21). CONCLUSION: Perioperative cefazolin prophylaxis is a critical modifiable risk factor, providing a substantial protective effect against PJI in aseptic revision TJA. In contrast, extended oral antibiotic prophylaxis provided no additional benefit for culture-negative patients. While UPCs occurred in 4% of cases, only one case subsequently developed PJI with a concordant microorganism. These findings reinforce the importance of standardized cefazolin prophylaxis over alternative agents in aseptic revision TJA.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42767527/",
+      "score": 80,
+      "score_reasoning": "High-quality network meta-analysis of 691 fungal PJI cases addressing a rare but devastating complication with clear clinical guidance favoring one- and two-stage revision over DAIR, published in a strong arthroplasty journal.",
+      "bullets": [
+        "In nearly 6,000 aseptic revision hip and knee arthroplasties, patients who received non-cefazolin perioperative prophylaxis had twice the risk of periprosthetic joint infection compared to those who received cefazolin.",
+        "Adding oral cephalosporin antibiotics after surgery did not reduce infection risk in revision arthroplasty patients who were already covered with perioperative cefazolin and had negative intraoperative cultures.",
+        "Unexpected positive intraoperative cultures occurred in 4% of cases but were not associated with subsequent periprosthetic joint infection, suggesting routine culture-directed treatment changes may not be warranted."
+      ]
+    },
+    {
+      "pmid": "42766437",
+      "title": "Fourfold higher graft failure risk with isolated BPTB versus hamstring ACL reconstruction with ALL in patients under 25 years: A prespecified subgroup analysis of a randomized controlled trial.",
+      "authors": [
+        "Santamaria F",
+        "Carrozzo A",
+        "Pioger C",
+        "Vieira TD",
+        "Sonnery-Cottet V",
+        "Fayard JM",
+        "Thaunat M",
+        "Sonnery-Cottet B"
+      ],
+      "authors_short": "Santamaria F, Carrozzo A, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To compare 5-year graft failure rates between isolated bone-patellar tendon-bone anterior cruciate ligament reconstruction (BPTB-ACLR) and hamstring tendon (HT)-ACLR combined with anterolateral ligament reconstruction (ALLR) in patients younger than 25 years. METHODS: A prespecified subgroup analysis was performed on patients younger than 25 years enroled in a prospective comparative study. Patients underwent either isolated ACLR using a BPTB-ACLR or hamstring ACLR combined with ALLR (HT-ACLR\u2009+\u2009ALLR). The primary outcome was graft failure at 5 years. Secondary outcomes included patient-reported outcome measures (Knee injury and Osteoarthritis Outcome Score [KOOS], International Knee Documentation Committee [IKDC], Lysholm and Tegner scores). Survival analysis was performed using Kaplan-Meier estimates and log-rank testing. Multivariate logistic regression and Cox proportional hazards models were used to identify independent risk factors for graft failure. RESULTS: The analysis included 281 patients younger than 25 years, with 134 undergoing isolated BPTB-ACLR and 147 undergoing HT-ACLR\u2009+\u2009ALLR. At 5 years, graft failure occurred in 22 patients (16.4%) in the isolated BPTB-ACLR group and in 7 patients (4.8%) in the HT-ACLR\u2009+\u2009ALLR group (p\u2009=\u20090.0013). Kaplan-Meier analysis demonstrated significantly improved graft survival in the HT-ACLR\u2009+\u2009ALLR group (log-rank p\u2009=\u20090.0008). On multivariate analysis, isolated BPTB-ACLR was independently associated with a higher risk of graft failure compared with HT-ACLR\u2009+\u2009ALLR (odds ratio 4.2; 95% confidence interval [CI] 1.8-11.3; p\u2009=\u20090.0007; hazard ratio 4.2; 95% CI 1.9-10.7; p\u2009=\u20090.0002). Clinical outcome scores were comparable between groups at follow-up across all patient-reported measures. CONCLUSION: This secondary analysis of a RCT with 5-year follow-up showed that, in patients younger than 25 years, HT-ACLR combined with ALLR was associated with a significantly lower risk of graft failure compared with isolated BPTB-ACLR, whereas patient-reported clinical outcomes were comparable between groups. LEVEL OF EVIDENCE: Level I, randomized controlled trial.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42766437/",
+      "score": 78,
+      "score_reasoning": "Subgroup analysis of an RCT with 281 patients under 25 years showing fourfold higher graft failure with isolated BPTB versus hamstring plus ALL reconstruction, a clinically important finding for ACL graft selection in young patients.",
+      "bullets": [
+        "In patients under 25 undergoing ACL reconstruction, graft failure at 5 years was 16.4% with bone-patellar tendon-bone alone versus 4.8% with hamstring plus anterolateral ligament reconstruction.",
+        "Isolated bone-patellar tendon-bone reconstruction carried a fourfold higher graft failure risk compared to hamstring reconstruction combined with anterolateral ligament reconstruction in young patients.",
+        "Functional outcomes were equivalent between techniques, so the choice of graft and anterolateral ligament augmentation affects durability, not recovery, in patients under 25."
+      ]
+    },
+    {
+      "pmid": "42748364",
+      "title": "Formal consensus on fast-track hip and knee arthroplasty: ESSKA/EKA, EHS and APAS recommendations for optimised recovery pathways in joint replacement surgeries.",
+      "authors": [
+        "Totlis T",
+        "Kort N",
+        "Kort R",
+        "Budhiparama NC",
+        "Carulli C",
+        "Clarius M",
+        "Coden G",
+        "Gamie Z",
+        "Gomberg B",
+        "Grant A",
+        "Guenther D",
+        "Haddad FS",
+        "Kayani B",
+        "Kenanidis E",
+        "Kr\u00f3likowska A",
+        "Liu D",
+        "Lumban-Gaol I",
+        "Machado L",
+        "Nandi S",
+        "P\u00e9rez-Prieto D",
+        "Prill R",
+        "Smith E",
+        "Tandogan R",
+        "Tsiridis E",
+        "Beek RV"
+      ],
+      "authors_short": "Totlis T, Kort N, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: This international formal consensus aims to establish a unified, evidence-based approach to perioperative care by promoting the adoption of fast-track surgery or enhanced recovery after surgery (ERAS) protocols, informing healthcare professionals and administrators about optimal perioperative management of arthroplasty and facilitating broader implementation. METHODS: A multidisciplinary panel of 106 experts contributed across a Steering Group (n\u2009=\u200922), a Rating Group (n\u2009=\u200935) and a Peer Review group (n\u2009=\u200949). The Steering Group developed 37 questions and corresponding statements based on the literature review and expert opinion. Statements were graded from A (high-level evidence) to D (expert opinion). An independent Rating Group evaluated each statement on a 1-9 Likert scale across two rounds using the Formal Consensus methodology. Statements were iteratively revised and finalised through consensus and joint discussion. The final document was assessed by an international Peer Review Group to ensure transnational applicability. RESULTS: Out of 37 questions, a total of 63 statements were developed. Following a set of general statements outlining the principles and overall goals of fast-track total knee arthroplasty (TKA) and total hip arthroplasty (THA), the recommendations addressed and optimised the three key phases of perioperative care: preoperative, intraoperative and postoperative management. Of the 63 statements, 39 were graded A or B and 24 as C or D. Mean agreement scores ranged from 7.7 to 8.9. Overall, 56 statements were considered appropriate with strong agreement and 7 with relative agreement. The Peer Review Group supported the overall statements, providing feedback to clarify specific recommendations and to highlight regional differences in implementation, which were incorporated into the final document. CONCLUSIONS: This consensus endorses the adoption of structured fast-track or enhanced recovery programs as a patient-centred approach to perioperative care in total hip and knee arthroplasty. The aim is to improve the quality of care by reducing morbidity, optimising pain management, shortening hospital stay and enhancing patient satisfaction. While not intended to replace clinical judgement, it provides a pragmatic framework to guide decision-making, promote consistency and facilitate safe early mobilisation and discharge. LEVEL OF EVIDENCE: Level I.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42748364/",
+      "score": 77,
+      "score_reasoning": "Large formal ESSKA/EKA consensus with 106 experts and 63 graded statements on fast-track TKA/THA perioperative care, providing comprehensive, immediately applicable protocol guidance across the entire surgical episode.",
+      "bullets": [
+        "A 106-expert international consensus endorsed structured enhanced recovery protocols for total hip and knee arthroplasty across all three perioperative phases, with most recommendations supported by grade A or B evidence.",
+        "The guidelines apply to all patients undergoing primary THA or TKA and prioritise early mobilisation, optimised pain control, and shortened hospital stay as core recovery targets.",
+        "Surgeons can use this framework to standardise perioperative care and support safe early discharge without replacing individual clinical judgement."
+      ]
+    },
+    {
+      "pmid": "42748210",
+      "title": "Reimplantation in 2-Stage Exchange: Breaking the Dogma of the 2-Week Antibiotic Holiday.",
+      "authors": [
+        "Ascione T",
+        "Balato G",
+        "Pagliano P",
+        "Parvizi J"
+      ],
+      "authors_short": "Ascione T, Balato G, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "\u27a2 The optimal timing for reimplantation in patients with periprosthetic joint infection undergoing 2-stage exchange revision is challenging. The metrics used to determine reimplantation timing, such as serum inflammatory markers and culture results, often have low predictive value and can be misleading or discordant.\u27a2 A combination of clinical signs indicating infection resolution together with declining serological and synovial markers may be used to guide the timing of reimplantation.\u27a2 The rationale for an antibiotic holiday is to allow for a persistent infection to \"resurface\" in that period, prior to reimplantation.\u27a2 Available data have shown no clear evidence of improved outcomes when an antibiotic holiday is implemented.\u27a2 However, continuous antibiotic therapy offers important advantages, including a shorter overall treatment duration and higher cure rates, particularly in immunocompromised patients. There is a dire need to develop a tool to guide the optimal timing of reimplantation.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42748210/",
+      "score": 74,
+      "score_reasoning": "Reimplantation timing in two-stage PJI exchange is a daily clinical challenge; this JBJS current concepts piece challenges the dogma of the antibiotic holiday with evidence favoring continuous antibiotic therapy, particularly relevant for a high-stakes decision.",
+      "bullets": [
+        "No clear evidence supports an antibiotic holiday before reimplantation in two-stage exchange for periprosthetic joint infection.",
+        "Continuous antibiotic therapy through reimplantation shortens total treatment duration and improves cure rates, especially in immunocompromised patients.",
+        "Current markers used to time reimplantation, including serum inflammatory markers and joint cultures, have low predictive value and should not be used in isolation."
+      ]
+    },
+    {
+      "pmid": "42757944",
+      "title": "Letter to the Editor: Synovial Fluid Leukocyte Count and Differential Are Poor Standalone Rule-in Tests for Periprosthetic Joint Infection: Results of a Methodological Audit and Reanalysis of the 2025 Meta-analysis Underpinning the Unified Periprosthetic Joint Infection Criteria.",
+      "authors": [
+        "Sousa R",
+        "Clauss M",
+        "Ribau A",
+        "Sabater-Martos M"
+      ],
+      "authors_short": "Sousa R, Clauss M, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Letter"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42757944/",
+      "score": 70,
+      "score_reasoning": "JBJS current concepts review on fragility fractures of the pelvis and vertebrae addresses a growing epidemic with practical diagnostic and management guidance, broadly relevant to most orthopaedic surgeons.",
+      "bullets": [
+        "Synovial fluid white cell count and differential perform poorly as standalone rule-in tests for periprosthetic joint infection, contradicting how they are used in the 2025 Unified PJI Criteria.",
+        "A methodological audit of the supporting meta-analysis found significant flaws in how diagnostic accuracy was calculated and interpreted for these two tests.",
+        "Orthopaedic surgeons should not rely on synovial WBC count or differential alone to confirm PJI, and must use them alongside other diagnostic markers."
+      ]
+    },
+    {
+      "pmid": "42750288",
+      "title": "International Delphi Consensus on the Diagnosis and Management of Septic Arthritis of the Hip in Prewalking Children.",
+      "authors": [
+        "Shah H",
+        "Belthur MV",
+        "Ranade A",
+        "Ganjwala D",
+        "Agarwal A",
+        "Monsell F",
+        "Carpenter C",
+        "Thacker MM",
+        "Malone J",
+        "Crawford H",
+        "Chand S",
+        "Sampath JS",
+        "Eastwood D",
+        "Wijayasinghe S",
+        "Sanghrajka A",
+        "Singh KA",
+        "Marangoz S",
+        "Khot A",
+        "Hamdy R",
+        "Bhaskar A",
+        "Gopinathan NR",
+        "Gahukamble A",
+        "Gupta P",
+        "Sheth B",
+        "Challawar N",
+        "Chandankere V",
+        "Tennakoon D",
+        "Fernandes JA",
+        "Horn A",
+        "Baar Z A",
+        "Rabbi Q",
+        "Shrestha A",
+        "Alam Q"
+      ],
+      "authors_short": "Shah H, Belthur MV, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Septic arthritis of the hip in infants and prewalking children is a surgical emergency that can lead to rapid joint destruction and long-term sequelae. Despite its urgency, diagnostic and management practices vary considerably, and high-quality comparative evidence remains limited. This study aimed to develop expert consensus on the key principles of diagnosis and management using a modified Delphi methodology. METHODS: A working group of 3 pediatric orthopaedic surgeons developed 20 statements addressing clinical diagnosis, imaging, medical and surgical management, postoperative care, and follow-up. Forty-five fellowship-trained pediatric orthopaedic surgeons from 12 countries, including 15 from high-resource and 30 from low-resource countries, were invited to participate. Thirty-five completed round 1, and 32 completed round 2. Consensus was defined a priori as \u226570% agreement. Statements that did not reach consensus were revised and redistributed in round 2. RESULTS: Eight statements reached consensus in round 1, including universal laboratory testing, avoidance of antibiotic-only treatment, preference for anterior arthrotomy, and early surgical decompression. Twelve statements were revised for round 2, of which 7 subsequently achieved consensus. The final consensus emphasized: (1) pseudoparalysis with pain on passive movement as the most important clinical sign; (2) selective but important use of MRI in cases of diagnostic uncertainty or suspected osteomyelitis; (3) open anterior arthrotomy as the preferred surgical approach; (4) immobilization only for unstable hips; (5) an antibiotic duration of \u22644 weeks for isolated septic arthritis; and (6) a minimum follow-up of 2 years. Five statements did not reach consensus. CONCLUSION: This international Delphi study provides expert-derived recommendations for the diagnosis and management of septic arthritis of the hip in prewalking children. These consensus statements offer a practical framework for clinical decision-making and identify key areas requiring further research, including the role of routine ultrasound, synovial fluid analysis, and postoperative care. LEVEL OF EVIDENCE: Level V (expert opinion/consensus statement).",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42750288/",
+      "score": 64,
+      "score_reasoning": "Two-part ESSKA-ESA formal consensus on partial-thickness posterosuperior rotator cuff tears provides grade-A through D recommendations on treatment, rehabilitation, and return to sport from an authoritative multicenter panel.",
+      "bullets": [
+        "In prewalking children with suspected hip septic arthritis, pseudoparalysis with pain on passive movement is the most important clinical sign, and antibiotic-only treatment should be avoided.",
+        "Open anterior arthrotomy is the preferred surgical approach, should be performed early, and antibiotics should be continued for no more than 4 weeks in isolated septic arthritis.",
+        "These children require at least 2 years of follow-up given the risk of long-term joint damage, and MRI should be used selectively when the diagnosis is uncertain or osteomyelitis is suspected."
+      ]
+    },
+    {
+      "pmid": "42766293",
+      "title": "Art in Science: Horus Has Been Bitten.",
+      "authors": [
+        "Green SA"
+      ],
+      "authors_short": "Green SA",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42766293/",
+      "score": 60,
+      "score_reasoning": "Retrospective cohort of 319 ACLR patients demonstrating that increased medial posterior tibial slope is associated with greater postoperative anterior tibial translation over time, with implications for slope-modifying procedures.",
+      "bullets": [
+        "The paper uses the myth of Horus being bitten by a scorpion to explore the historical intersection of art and medicine in orthopaedic literature.",
+        "This article is relevant to orthopaedic surgeons with an interest in the cultural and historical context of their specialty.",
+        "No clinical practice recommendations are made, as this is a humanities piece rather than a clinical or outcomes study."
+      ]
+    },
+    {
+      "pmid": "42768960",
+      "title": "Low Sensitivity of Neurological Examination, Curve Laterality, and Thoracic Kyphosis for Detecting Chiari I Malformation and Syrinx in Operative Pediatric Scoliosis.",
+      "authors": [
+        "Budd LR",
+        "Strahle JM",
+        "Vorhies JS",
+        "Kelly BA",
+        "Chen L",
+        "Tang SY",
+        "Montgomery BK"
+      ],
+      "authors_short": "Budd LR, Strahle JM, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: For pediatric patients with presumed adolescent idiopathic scoliosis, surgeons rely on abnormal neurological exam, left-sided thoracic curve, or thoracic hyperkyphosis to initiate preoperative magnetic resonance imaging; however, the sensitivity of these screening criteria for detecting neural axis anomalies of Chiari malformation type I (CM1) and syrinx is not well understood. We aim to determine the frequency of abnormal neurological exam, left-sided thoracic curve, and hyperkyphosis of thoracic curves in patients with operative scoliosis and CM1 and/or syrinx. METHODS: A retrospective analysis was conducted with patients who underwent surgical management for pediatric scoliosis and were diagnosed with either CM1 (n=4), syrinx (n=23), or both conditions (n=20). Neurological exams before surgery were reviewed and screened for abnormal deep tendon reflexes, abnormal abdominal reflexes, motor disturbance, sensory disturbance, muscle mass asymmetry, spasticity/contracture, abnormal gait, abnormal balance, and ankle clonus. Thoracic curvature direction, T2-T5 kyphosis, and T5-T12 kyphosis were also obtained. RESULTS: Across all patients with CM1 and/or syrinx that underwent surgery for scoliosis, 9 of 47 (19%) had an abnormal preoperative neurological exam, 11 of 43 (26%) had a left-sided thoracic curve, 5 of 41 (12%) had a T2-T5 hyperkyphosis, and 9 of 41 (22%) had a T5-T12 hyperkyphosis. The T1-T12 kyphosis across the whole cohort averaged 38 degrees. In patients with known CM1 and/or syrinx, the sensitivity of neurological exam abnormality, left-sided curve, or hyperkyphosis was 27 of 41 (66%). Patients with both CM1 and syrinx were not more likely to have an abnormality on imaging or physical exam compared to patients with isolated CM1 or syrinx conditions. CONCLUSIONS: These results indicate that neurological exam abnormalities, left-sided thoracic curve, and thoracic hyperkyphosis have a relatively low sensitivity when used as a screening metric for detecting CM1 and/or syrinx in patients with scoliosis. Thirty-four percent of patients with CM1/syrinx and operative scoliosis had a normal neurological exam, right-sided curve, and a normal amount of kyphosis. Surgeons should consider the sensitivity of these screening metrics when determining which patients should obtain a preoperative MRI before scoliosis surgery. LEVELS OF EVIDENCE: Diagnostic studies-investigating a diagnostic test level III with a retrospective analysis.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42768960/",
+      "score": 59,
+      "score_reasoning": "Retrospective multicenter study demonstrating low sensitivity of standard screening criteria for Chiari malformation and syrinx in operative pediatric scoliosis, raising important questions about current MRI screening algorithms before scoliosis surgery.",
+      "bullets": [
+        "One in three children with confirmed Chiari I malformation or syrinx who needed scoliosis surgery had a normal neurological exam, right-sided curve, and normal kyphosis.",
+        "Standard screening criteria, including abnormal neuro exam, left thoracic curve, and hyperkyphosis, missed 34% of neural axis anomalies in operative paediatric scoliosis patients.",
+        "Orthopaedic surgeons should have a lower threshold for ordering preoperative MRI in children with operative scoliosis, as current clinical screening tools alone are insufficient to rule out neural axis pathology."
+      ]
+    },
+    {
+      "pmid": "42766781",
+      "title": "Periacetabular Osteotomy and Combined Open Femoral Head-Neck Junction Osteochondroplasty: A Concise Follow-up of a Previous Report at a Mean 10-Year Follow-up.",
+      "authors": [
+        "Shah VP",
+        "O'Connor KP",
+        "Harris M",
+        "Nepple JJ",
+        "Pascual-Garrido C",
+        "Clohisy JC"
+      ],
+      "authors_short": "Shah VP, O'Connor KP, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Hip dysplasia is a well-established cause of hip dysfunction and secondary osteoarthritis in young adults. Periacetabular osteotomy (PAO) is a common surgical treatment for symptomatic acetabular dysplasia. Recent awareness of concomitant impingement in dysplastic hips has led to inclusion of osteochondroplasty (OCP) for femoral head-neck abnormalities in select cases to improve survivorship and clinical outcomes. PURPOSE: To compare outcomes, reoperation rates, radiography, survivorship, and complications at a mean of 10 years after PAO with and without femoral head-neck OCP. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: The authors conducted a retrospective review of the data of 38 patients (38 hips) who underwent PAO with OCP compared to a matched control group of 42 patients (42 hips) who underwent PAO only between 2000 and 2007. Outcomes included the modified Harris Hip Score (mHHS) and Western Ontario and McMaster Universities Osteoarthritis Index score. Failure was defined as clinical failure (failure to meet mHHS minimal clinically important difference [MCID] or Patient Acceptable Symptom State [PASS]), conversion to total hip arthroplasty (THA), reoperation, and composite failure (either clinical failure or reoperation). RESULTS: The mean follow-up was 10.6 years (range, 6.9-16.3 years) for the PAO+OCP cohort and 11.8 years (range, 7.2-17.2 years) for the PAO-only cohort. Both groups showed similar improvements in outcomes, MCID, PASS, and rates of clinical failure (P > .05). The PAO-only group had a higher reoperation rate (33%) compared to the PAO+OCP group (8%) (P = .005), with 4 reoperations in the PAO-only group due to secondary femoroacetabular impingement and included OCP and labral repair. THA conversion rates were 14% in the PAO-only group and 3% in the PAO+OCP group (P = .07). The Kaplan-Meier (KM) 10-year survivorship estimations from clinical failure were 93.8% and 89.2% for the PAO+OCP and PAO-only groups, respectively. The KM 10-year survivorship estimations from reoperation were 97.4% and 72.9%, respectively. The KM 10-year survivorship estimations from composite failure were 93.8% and 89.7%, respectively. CONCLUSION: At a mean follow-up of 10 years, PAO+OCP and PAO-only procedures demonstrated similar outcome improvements. However, the PAO-only group had a higher reoperation rate, primarily due to residual impingement. These findings suggest that concurrent OCP may reduce the need for secondary procedures without compromising clinical outcomes. Further long-term studies are needed to investigate the effect of residual impingement on joint health after PAO.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42766781/",
+      "score": 56,
+      "score_reasoning": "Retrospective cohort of 375 ream-and-run arthroplasty patients identifying early postoperative pain at rest and with sleep as predictors of 2-year satisfaction, offering practical counseling tools for a procedure with difficult rehabilitation.",
+      "bullets": [
+        "In young adults with hip dysplasia and concurrent cam impingement, adding femoral head-neck osteochondroplasty to periacetabular osteotomy reduced the reoperation rate from 33% to 8% at 10 years.",
+        "Total hip arthroplasty conversion trended lower in the combined procedure group (3% vs 14%), with most reoperations in the osteotomy-only group driven by residual impingement.",
+        "For orthopaedic surgeons treating dysplastic hips with a cam lesion, addressing the femoral head-neck junction at the time of periacetabular osteotomy appears to reduce the need for secondary surgery without compromising functional outcomes."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-09-22T07:21:13.905636-07:00"
+}
