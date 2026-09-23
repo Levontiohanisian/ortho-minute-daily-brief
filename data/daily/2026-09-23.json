@@ -1,0 +1,288 @@
+{
+  "brief_date": "2026-09-23",
+  "brief_date_display": "Wednesday, September 23",
+  "candidates": [
+    {
+      "pmid": "42766437",
+      "title": "Fourfold higher graft failure risk with isolated BPTB versus hamstring ACL reconstruction with ALL in patients under 25 years: A prespecified subgroup analysis of a randomized controlled trial.",
+      "authors": [
+        "Santamaria F",
+        "Carrozzo A",
+        "Pioger C",
+        "Vieira TD",
+        "Sonnery-Cottet V",
+        "Fayard JM",
+        "Thaunat M",
+        "Sonnery-Cottet B"
+      ],
+      "authors_short": "Santamaria F, Carrozzo A, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To compare 5-year graft failure rates between isolated bone-patellar tendon-bone anterior cruciate ligament reconstruction (BPTB-ACLR) and hamstring tendon (HT)-ACLR combined with anterolateral ligament reconstruction (ALLR) in patients younger than 25 years. METHODS: A prespecified subgroup analysis was performed on patients younger than 25 years enroled in a prospective comparative study. Patients underwent either isolated ACLR using a BPTB-ACLR or hamstring ACLR combined with ALLR (HT-ACLR\u2009+\u2009ALLR). The primary outcome was graft failure at 5 years. Secondary outcomes included patient-reported outcome measures (Knee injury and Osteoarthritis Outcome Score [KOOS], International Knee Documentation Committee [IKDC], Lysholm and Tegner scores). Survival analysis was performed using Kaplan-Meier estimates and log-rank testing. Multivariate logistic regression and Cox proportional hazards models were used to identify independent risk factors for graft failure. RESULTS: The analysis included 281 patients younger than 25 years, with 134 undergoing isolated BPTB-ACLR and 147 undergoing HT-ACLR\u2009+\u2009ALLR. At 5 years, graft failure occurred in 22 patients (16.4%) in the isolated BPTB-ACLR group and in 7 patients (4.8%) in the HT-ACLR\u2009+\u2009ALLR group (p\u2009=\u20090.0013). Kaplan-Meier analysis demonstrated significantly improved graft survival in the HT-ACLR\u2009+\u2009ALLR group (log-rank p\u2009=\u20090.0008). On multivariate analysis, isolated BPTB-ACLR was independently associated with a higher risk of graft failure compared with HT-ACLR\u2009+\u2009ALLR (odds ratio 4.2; 95% confidence interval [CI] 1.8-11.3; p\u2009=\u20090.0007; hazard ratio 4.2; 95% CI 1.9-10.7; p\u2009=\u20090.0002). Clinical outcome scores were comparable between groups at follow-up across all patient-reported measures. CONCLUSION: This secondary analysis of a RCT with 5-year follow-up showed that, in patients younger than 25 years, HT-ACLR combined with ALLR was associated with a significantly lower risk of graft failure compared with isolated BPTB-ACLR, whereas patient-reported clinical outcomes were comparable between groups. LEVEL OF EVIDENCE: Level I, randomized controlled trial.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42766437/",
+      "score": 82,
+      "score_reasoning": "RCT-based subgroup analysis with 262 matched patients showing fourfold higher graft failure with isolated BPTB versus HT+ALLR in patients under 25, directly changing surgical decision-making for a high-risk population.",
+      "bullets": [
+        "In ACL patients under 25, isolated patellar tendon reconstruction failed four times more often at 5 years than hamstring reconstruction combined with anterolateral ligament reconstruction (16.4% vs 4.8%).",
+        "Adding an anterolateral ligament reconstruction to a hamstring graft significantly reduced graft failure in young patients without any difference in knee function scores between groups.",
+        "For high-risk young ACL patients, hamstring graft with anterolateral ligament reconstruction should be considered over isolated patellar tendon reconstruction to lower re-rupture risk."
+      ]
+    },
+    {
+      "pmid": "42772427",
+      "title": "Preoperative Pain Sensitivity Has a Greater Impact on Clinical Outcomes Than Coronal Alignment Strategy in Robotic-Assisted Total Knee Arthroplasty.",
+      "authors": [
+        "Kawaguchi K",
+        "Tay ML",
+        "Farrington WJ",
+        "van Rooyen R",
+        "Bayan A",
+        "Young SW"
+      ],
+      "authors_short": "Kawaguchi K, Tay ML, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Both preoperative pain sensitivity and coronal alignment philosophy may influence patient-reported outcome measures (PROMs) after total knee arthroplasty (TKA). This study investigated whether pain sensitivity predicts PROMs in robotic-assisted TKAs randomized to functional alignment (FA) or mechanical alignment (MA) and whether high pain sensitivity obscures differences between strategies. METHODS: This was a substudy of a prospective, single-blinded randomized controlled trial. A total of 244 patients were allocated to FA (n = 123) or MA (n = 121). Pain sensitivity was assessed preoperatively using the Pain Sensitivity Questionnaire (PSQ). The Forgotten Joint Score (FJS) and Oxford Knee Score (OKS) were collected two years postoperatively. Multivariable stepwise regressions evaluated the influence of PSQ on PROMs, with adjustment for demographic and radiographic factors. Patients were stratified into high (PSQ \u2265 5.2) and low (PSQ less than 5.2) pain sensitivity groups, and FA and MA outcomes were compared. Baseline PSQ did not differ between FA and MA groups (5.7 \u00b1 1.9 versus 5.6 \u00b1 1.8; P = 0.58). RESULTS: The PSQ was a negative predictor of both FJS (P = 0.02) and OKS (P < 0.01), whereas alignment strategy was not. Among low pain sensitivity patients, FA yielded a higher FJS than MA (74.9 \u00b1 25.8 versus 61.9 \u00b1 31.4; P = 0.03). In high pain sensitivity patients, FJS did not differ (FA 66.8 \u00b1 25.0 versus MA 65.8 \u00b1 29.5; P = 0.80). CONCLUSIONS: Preoperative pain sensitivity exerted a stronger influence on PROMs than coronal alignment strategy in TKA. Alignment philosophy had no discernible effect on outcomes in patients who have high pain sensitivity, whereas patients who have low pain sensitivity showed higher FJS with FA than with MA. As these findings were derived from exploratory subgroup analyses, they should be interpreted cautiously and require confirmation in future prospective studies. Level of evidence Level I (Prospective randomized study).",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42772427/",
+      "score": 80,
+      "score_reasoning": "High-quality RCT substudy (244 patients) published in a strong journal showing preoperative pain sensitivity outweighs coronal alignment strategy in predicting TKA outcomes, with direct implications for patient selection and expectation management.",
+      "bullets": [
+        "In robotic-assisted TKA, preoperative pain sensitivity predicted two-year patient-reported outcomes more strongly than whether functional or mechanical alignment was used.",
+        "Patients with low pain sensitivity scored better with functional alignment than mechanical alignment, but in high pain sensitivity patients, alignment choice made no difference in outcomes.",
+        "Screening for pain sensitivity before TKA may help identify which patients will benefit from alignment strategy selection and which will not, regardless of technique used."
+      ]
+    },
+    {
+      "pmid": "42767524",
+      "title": "There Is No One-Size-Fits-All: Surgical Approach Dictates Optimal Bearing Surface Configuration Choice in 30,000 Total Hip Arthroplasties Over 25 Years.",
+      "authors": [
+        "Cochrane NH",
+        "Panos JA",
+        "Khela MS",
+        "Mabry TM",
+        "Perry KI",
+        "Pagnano MW",
+        "Taunton MJ",
+        "Wyles CC",
+        "Abdel MP"
+      ],
+      "authors_short": "Cochrane NH, Panos JA, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Dislocation remains a consequential complication following primary total hip arthroplasty (THA). Both surgical approach and bearing surface configuration individually influence dislocation risk. This study assessed the dislocation risk stratified by both surgical approach and bearing surface configuration to develop approach-specific recommendations for bearing selection. METHODS: We identified 30,246 primary THAs performed from 1998 to 2022 at a single academic institution. Hips were stratified by bearing surface configuration, including flat/neutral polyethylene (PE) liners, elevated rim/face-changing (elevated) PE liners, and dual-mobility (DM) constructs. There were 14,611 posterior hips (8,587 flat/neutral, 5,207 elevated, and 816 DM), 8,968 antero-lateral (AL, 7,433 flat/neutral, 1,358 elevated, and 171 DM), and 6,667 direct anterior (DA, 6,541 flat/neutral, 91 elevated, and 35 DM). The mean age was 65 years (range, 18 to 100), the mean body mass index was 30 (range, 13 to 66), and 52% were women. The mean follow-up was six years (range, two to 26). RESULTS: The survivorship free of dislocation at 10 years in the posterior, AL, and DA approach THAs were 96, 98, 99%, respectively. In posterior THAs, DM constructs reduced the relative risk of dislocation (RR [risk ratio] < 0.5, P < 0.01). In AL THAs, flat/neutral PE liners had a 99% survivorship free of dislocation, whereas elevated PE liners had double the relative risk of dislocation (RR 2, P < 0.01). In DA THAs, the bearing surface configuration had no discernible impact on the relative risk of dislocation. CONCLUSION: A one-size-fits-all approach to bearing surface configuration is not supported, and a surgical approach should guide bearing selection in primary THAs. For posterior approach THA, DM constructs should be considered in high-risk cases. For the AL approach THA, flat/neutral PE liners had the lowest absolute dislocation risk. Direct anterior THA had the lowest risk of dislocation risk, regardless of bearing selection.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42767524/",
+      "score": 78,
+      "score_reasoning": "Large single-institution study (30,246 THAs over 25 years) in a high-impact journal demonstrating approach-specific bearing surface recommendations, providing immediately actionable guidance for reducing dislocation risk.",
+      "bullets": [
+        "In posterior approach THA, dual-mobility constructs cut dislocation risk by more than half, making them the preferred choice for high-risk patients.",
+        "In anterolateral approach THA, elevated rim liners doubled the dislocation risk compared to flat or neutral liners, which achieved 99% survivorship free of dislocation at 10 years.",
+        "In direct anterior approach THA, bearing surface choice did not affect dislocation risk, giving surgeons flexibility in implant selection for this approach."
+      ]
+    },
+    {
+      "pmid": "42770603",
+      "title": "Clinical outcomes and complication rates following medial collateral ligament reconstruction using Achilles tendon allograft or hamstring tendon autograft: A systematic review.",
+      "authors": [
+        "Sian R",
+        "See A",
+        "Alqeisi T",
+        "Meena A",
+        "Dalgleish S",
+        "de Sa D",
+        "Davies P",
+        "D'Alessandro P",
+        "Ng J",
+        "Malik SS"
+      ],
+      "authors_short": "Sian R, See A, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: The medial collateral ligament (MCL) is the most commonly injured knee ligament, yet indications for reconstruction remain debated. Although consensus statements support allograft and hamstring autograft, comparative evidence regarding graft superiority is limited. This systematic review evaluated patient-reported outcome measures (PROMs) and complication rates following MCL reconstruction using Achilles tendon (AT) allograft or hamstring autograft. METHODS: A systematic review was undertaken according to the preferred reporting items for systematic reviews and meta-analyses (PRISMA) guidelines. PubMed, Cochrane, Google Scholar and Scopus were searched on 11th February 2026. Studies published within the previous 20 years that included patients aged \u226516 years undergoing MCL reconstruction with hamstring autograft or AT allograft and reporting clinical, functional and patient-reported outcomes were included. Data extraction and risk of bias assessment were performed. Due to heterogeneity, findings were narratively synthesised. RESULTS: Sixteen studies were included: six AT allograft studies (n\u2009=\u2009107; four using a bone block) and ten hamstring autograft studies (n\u2009=\u2009275). Mean age was 33.9 and 31.3 years, with mean follow-up of 37 and 29.1 months, respectively. Mean postoperative international knee documentation committee (IKDC) and Lysholm scores were 81.1 and 86.8 for allograft and 78.8 and 87.2, respectively, for autograft. Three allograft and six hamstring autograft studies reported preoperative and postoperative PROMs, all demonstrated significant improvement (p\u2009<\u20090.05). Complication rates were 11.2% for AT allograft and 4.0% for hamstring autograft. AT allograft complications included two graft failures, four cases of residual asymptomatic valgus instability, three infections and three other complications. Hamstring autograft complications included one graft failure, four cases of asymptomatic valgus instability, three manipulations, one infection and two removals of hardware. CONCLUSION: Both AT allograft and hamstring tendon autograft significantly improve PROMs following MCL reconstruction. AT allografts demonstrated a numerically higher complication rate; however, the evidence is indirect and insufficient to determine the superiority of either graft type. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42770603/",
+      "score": 71,
+      "score_reasoning": "Multicenter retrospective study (1,012 patients) in a high-impact journal developing and validating the FNF-ON8 scoring system for predicting osteonecrosis after femoral neck fracture fixation in young adults, filling a critical clinical gap.",
+      "bullets": [
+        "Both Achilles tendon allograft and hamstring autograft improve knee function scores significantly after MCL reconstruction, with comparable postoperative IKDC and Lysholm results.",
+        "Achilles tendon allograft had a complication rate of 11.2% versus 4.0% for hamstring autograft, driven mainly by infection and residual valgus instability in the allograft group.",
+        "Current evidence is insufficient to recommend one graft over the other for MCL reconstruction, and surgeons should weigh individual patient factors when choosing graft type."
+      ]
+    },
+    {
+      "pmid": "42771714",
+      "title": "Ability of Deep Learning to Predict Surgical Recommendations for Distal Radial Fractures: A Feasibility Study.",
+      "authors": [
+        "Shareef O",
+        "Huddleston H",
+        "Jang SJ",
+        "Smolev E",
+        "Fufa DT"
+      ],
+      "authors_short": "Shareef O, Huddleston H, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Distal radial fractures (DRFs) are extremely common, and decisions regarding operative intervention rely on clinical judgment and radiographic parameters at and after injury. Understanding whether a recommendation will be made for operative versus nonoperative management in an initial point-of-care setting can assist in patient counseling and reinforce timely follow-up with general orthopaedic or hand specialists. This study investigated the feasibility of using artificial intelligence (AI) to predict whether a fellowship-trained hand surgeon would recommend operative intervention using pre-reduction radiographs and clinical and demographic data. METHODS: A convolutional neural network (CNN) model was trained on pre-reduction injury radiographs, and its outputs were combined with clinical and demographic data in a random forest (RF) model. The final model was evaluated on a hold-out test data set. To enhance interpretability, gradient-weighted class activation mapping (Grad-CAM) heatmaps and SHapley Additive exPlanations (SHAP) were employed to identify image regions and clinical features contributing to model predictions. RESULTS: Of 1,040 included patients, 884 were used for training and 156 for testing model performance. On the test data set, the combined model achieved an accuracy of 87.14%, sensitivity of 97%, specificity of 73%, area under the receiver operating characteristic curve of 0.96, and Brier score of 0.10. Grad-CAM visualizations indicated that the CNN focused on clinically relevant features, such as fracture displacement, and SHAP analysis of the RF model highlighted age and lateral wrist radiographs as key contributors to predictions. CONCLUSIONS: This pilot study demonstrates the feasibility of using AI to predict the recommendations of a group of fellowship-trained hand surgeons at 1 institution regarding operative versus nonoperative treatment for a DRF on the basis of pre-reduction injury radiographs and clinical and demographic data. Future work will focus on external validation, expanding data sets, and incorporating additional imaging features to optimize performance and generalizability. LEVEL OF EVIDENCE: Prognostic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42771714/",
+      "score": 70,
+      "score_reasoning": "Authoritative review in JBJS American on the impending epidemic of periprosthetic fractures after THA with actionable prevention strategies, highly relevant given rising arthroplasty volumes and aging implant populations.",
+      "bullets": [
+        "A deep learning model trained on pre-reduction wrist radiographs and basic patient data predicted hand surgeon operative recommendations for distal radius fractures with 87% accuracy and 97% sensitivity.",
+        "The model applies to adult patients presenting acutely with distal radius fractures, using only information available at the initial point of care before any reduction attempt.",
+        "If validated externally, this tool could help emergency and primary care providers counsel patients on likely surgical need and prioritize timely orthopaedic referral."
+      ]
+    },
+    {
+      "pmid": "42770973",
+      "title": "ArtiFacts: The Surgeon Who Hated Rust and Dirt Like the Black Death.",
+      "authors": [
+        "Drost A"
+      ],
+      "authors_short": "Drost A",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42770973/",
+      "score": 65,
+      "score_reasoning": "Large single-institution cohort (665 PAO patients) in CORR providing time-to-threshold probability data for MCID, SCB, and PASS after PAO, enabling more precise preoperative counseling for acetabular dysplasia patients.",
+      "bullets": [
+        "This paper is a historical article and contains no clinical study data or patient outcomes to summarize.",
+        "No findings, patient population, or treatment comparisons are reported in this publication.",
+        "Orthopaedic surgeons seeking clinical evidence should refer to primary research studies rather than this historical piece."
+      ]
+    },
+    {
+      "pmid": "42771467",
+      "title": "Letter to the Editor: How Is Lumbar Fusion Associated With Compensatory Hip Motion After THA?",
+      "authors": [
+        "Yang S",
+        "Zhang H"
+      ],
+      "authors_short": "Yang S, Zhang H",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42771467/",
+      "score": 64,
+      "score_reasoning": "Feasibility study using AI/deep learning to predict surgical recommendations for distal radius fractures with 87% accuracy in JBJS, representing a novel and clinically promising application of machine learning at the point of care.",
+      "bullets": [
+        "Prior lumbar fusion alters pelvic mobility, which changes hip cup orientation dynamically during sitting and standing after total hip arthroplasty.",
+        "Patients with lumbar fusion undergoing total hip arthroplasty are at higher risk for impingement and dislocation due to reduced compensatory pelvic motion.",
+        "Surgeons should account for lumbar fusion status when planning cup position in total hip arthroplasty to reduce instability risk."
+      ]
+    },
+    {
+      "pmid": "42770555",
+      "title": "Lateral Tibial Posterior Slope Induces Anterior Tibial Translation While Lateral-Medial Slope Difference Induces Internal Rotation: A Cadaveric Biomechanical Study.",
+      "authors": [
+        "Nejima S",
+        "Holt J",
+        "van Arkel R",
+        "Metcalfe A",
+        "Smith N",
+        "Amis A"
+      ],
+      "authors_short": "Nejima S, Holt J, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Posterior tibial slope (PTS) influences tibiofemoral kinematics and anterior cruciate ligament (ACL) function. While previous studies have evaluated symmetrical slope modifications, the isolated influences of the medial or lateral PTS remain unclear. This study investigated the influence of medial and lateral PTS changes on anterior tibial translation (ATT) and internal rotation (IR) under axial loading, using unicondylar slope-changing osteotomies. HYPOTHESIS: Increased lateral PTS increases ATT, while a greater delta PTS (lateral minus medial PTS) increases IR. STUDY DESIGN: Controlled laboratory study. METHODS: Eight fresh-frozen knee specimens were mounted in a custom-built fixture in a compression/torsion loading machine. Tibiofemoral translation/rotation kinematics were measured under a 500-N axial compression load at 0\u00b0 and 20\u00b0 of knee flexion using optical motion tracking. Unicondylar tibial slope-changing osteotomies were performed on the medial and lateral tibial plateaus with a custom cutting guide, preserving key ligament and meniscus root attachments. Medial and lateral PTS were independently adjusted to -5\u00b0, 0\u00b0, +5\u00b0, and +10\u00b0, resulting in medial and lateral PTS ranging from -5\u00b0 to +10\u00b0, using 3-dimensionally printed wedges. Repeated-measures analyses of variance, post hoc t tests, and Pearson correlations were used for analysis. RESULTS: An increase of +10\u00b0 in lateral PTS significantly increased ATT (P = .012), while increasing medial PTS did not (P > .99). IR was most influenced by delta PTS. At 0\u00b0 of flexion, altering lateral or medial PTS alone was insufficient to significantly change rotation, but changing delta PTS +10\u00b0 produced 7.6\u00b0 more rotation (P = .015). At 20\u00b0 of flexion, changing individual slopes \u00b110\u00b0 significantly increased/decreased rotation (P < .036). The largest rotational differences correlated with opposing delta PTS values (r = 0.960; P = .0006). CONCLUSION: Lateral PTS was the principal determinant of ATT, whereas delta PTS was the principal determinant of IR under axial loading. CLINICAL RELEVANCE: Understanding the independent biomechanical roles of the medial and lateral PTS provides insight into mechanisms of anterior and rotational instability in ACL injury and reconstruction. These findings suggest the potential utility of differential correction of PTS as a novel surgical approach for optimizing tibiofemoral rotational kinematics.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42770555/",
+      "score": 63,
+      "score_reasoning": "CORR study of 665 PAO patients identifying factors associated with clinically meaningful outcome achievement, providing actionable preoperative counseling benchmarks for hip preservation surgeons.",
+      "bullets": [
+        "Increasing lateral tibial posterior slope drives anterior tibial translation, while the difference between lateral and medial slope drives internal tibial rotation.",
+        "This applies to patients with ACL injury or recurrent instability where tibial slope geometry may be contributing to persistent anterior or rotational laxity.",
+        "Corrective osteotomy targeting the lateral slope alone may not address rotational instability, which may require independently adjusting the medial and lateral slopes to reduce their difference."
+      ]
+    },
+    {
+      "pmid": "42770535",
+      "title": "Indications for Isolated Arthroscopic Bankart Repair in the Adolescent Shoulder May Be Limited: Bipolar Bone Loss and Low Distance to Dislocation Found Commonly in an Adolescent Population With Glenohumeral Instability.",
+      "authors": [
+        "Arvesen JE",
+        "Ellis HB",
+        "Do DH",
+        "Todesco C",
+        "Dinulescu AL",
+        "Van Pelt RL",
+        "Wyatt CW",
+        "Wilson PL"
+      ],
+      "authors_short": "Arvesen JE, Ellis HB, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Bone loss is an established risk factor for recurrent anterior shoulder instability and failure of isolated arthroscopic Bankart repair; however, its prevalence and clinical significance at initial presentation in adolescents remains poorly characterized. PURPOSE/HYPOTHESIS: The purpose of this study was to evaluate the prevalence of bone loss and the factors that correlate with bipolar bone loss in adolescent patients evaluated with anterior shoulder instability. It was hypothesized that male sex, older age, higher number of dislocations, and contact sports participation would be associated with bipolar bone loss at initial presentation. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: A retrospective institutional review board-approved study of 181 patients aged 10 to 19 years diagnosed with anterior shoulder instability from January 2022 to March 2024 was performed at a single tertiary referral center. Glenoid bone loss, Hill-Sachs interval, on-track versus off-track status, and distance to dislocation (DTD) were measured on magnetic resonance imaging. The association between bipolar bone loss and patient characteristics, sports participation, and prior dislocation history was evaluated using chi-square and Mann-Whitney U tests with univariate and multivariate logistic regression. RESULTS: Overall, 74.6% of patients exhibited bone loss; 34.3% had bipolar bone loss, 7.2% were off-track, and 41.4% had a DTD <10 mm. Among those with first-time dislocation, 69.2% presented with bone loss and 37.4% had a DTD <10 mm. Bipolar bone loss was significantly associated with older age (16.29 vs 15.61 years; P = .012), male sex (96.8% vs 69.7%; P < .001), high-impact/collision sports participation (94.6% vs 73.6%; P = .001), and \u22655 prior dislocations (28.8% vs 9.9%; P = .003). On multivariate analysis, male sex (OR, 14.20; P = .011) and \u22655 prior dislocations (OR, 3.22; P = .026) were independent predictors of bipolar bone loss. CONCLUSION: One-third of adolescents in our series presenting with anterior shoulder instability had bipolar bone loss at the initial evaluation, with male sex and \u22655 prior dislocations as independent predictors. The high prevalence of off-track lesions and DTD <10 mm suggests that isolated Bankart repair may be insufficient for many adolescent patients.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42770535/",
+      "score": 62,
+      "score_reasoning": "Cadaveric biomechanical study in AJSM clarifying the independent roles of medial versus lateral posterior tibial slope on anterior tibial translation and internal rotation, with direct relevance to ACL reconstruction and osteotomy planning.",
+      "bullets": [
+        "One-third of adolescents presenting with anterior shoulder instability already have bipolar bone loss at initial evaluation, and over 40% have a distance to dislocation under 10 mm.",
+        "Male sex and five or more prior dislocations are independent predictors of bipolar bone loss in adolescent patients with anterior shoulder instability.",
+        "Given the high rate of off-track lesions and significant bone loss at first presentation, isolated Bankart repair is likely insufficient for a large proportion of adolescent patients with this condition."
+      ]
+    },
+    {
+      "pmid": "42757715",
+      "title": "After Nearly 15 Years, Is It Time We Pay Attention to the Outcomes of the Zimmer TM Total Ankle?",
+      "authors": [
+        "Demetracopoulos CA"
+      ],
+      "authors_short": "Demetracopoulos CA",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42757715/",
+      "score": 56,
+      "score_reasoning": "Retrospective review of prospectively followed patients (71 ankles, minimum 10-year follow-up) providing much-needed long-term survivorship data for transfibular trabecular metal total ankle arthroplasty.",
+      "bullets": [
+        "The Zimmer Trabecular Metal total ankle replacement has been in clinical use for nearly 15 years with limited long-term outcome data published.",
+        "Surgeons implanting this device in patients with end-stage ankle arthritis should be aware that survivorship and functional data remain sparse compared to other total ankle systems.",
+        "The editorial calls for systematic outcome reporting on this implant to guide informed patient selection and surgical decision-making."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-09-23T07:40:35.048778-07:00"
+}
