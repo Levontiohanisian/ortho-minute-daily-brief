@@ -1,0 +1,296 @@
+{
+  "brief_date": "2026-09-25",
+  "brief_date_display": "Friday, September 25",
+  "candidates": [
+    {
+      "pmid": "42777069",
+      "title": "Diagnostic Performance and Clinical Outcomes of Intraoperative Neuromonitoring in Adolescent Idiopathic Scoliosis: A Comprehensive Analysis of 5,206 Patients.",
+      "authors": [
+        "CreveCoeur TS",
+        "Samdani AF",
+        "Sch\u00fcpper AJ",
+        "Ishmael TG",
+        "Miyanji F",
+        "Shah SA",
+        "Lonner BS",
+        "Yaszay B",
+        "Newton PO",
+        "Pahys JM",
+        "Hwang SW"
+      ],
+      "authors_short": "CreveCoeur TS, Samdani AF, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Curve-specific risk factors for intraoperative neuromonitoring (IONM) alerts during surgery for adolescent idiopathic scoliosis (AIS) remain unclear. METHODS: We identified 5,206 patients with AIS who underwent spinal fusion with multimodal IONM from a prospective database. Alerts were defined as \u226550% amplitude decrease in somatosensory evoked potentials (SSEPs) and/or transcranial motor evoked potentials (TcMEPs), or >10% SSEP latency increase. Demographics, radiographic parameters, surgical variables, triggering events, interventions, and outcomes were compared between the 252 patients with and 4,954 without an alert. RESULTS: IONM alerts occurred in 5% of patients. Alert rates varied by Lenke classification, with Type-4 curves demonstrating the highest risk (8%; relative risk [RR] = 1.61, 95% confidence interval [CI], 1.15 to 2.24) and Type 5 demonstrating the lowest risk (2%; RR = 0.45, 95% CI, 0.25 to 0.82). Patients with an alert had a larger mean preoperative major Cobb angle (66.7\u00b0 \u00b1 15.0\u00b0 versus 56.1\u00b0 \u00b1 12.1\u00b0, p < 0.001) and more frequent use of Ponte osteotomies (79% versus 66%, p < 0.001). Multivariable analysis demonstrated the major Cobb angle to be the leading independent risk factor for alerts (p < 0.001). Hypotension was the leading triggering event (23%), and raising blood pressure was the most common intervention overall (52%). Neurologic deficits occurred in 4% of patients with an alert versus <1% of those without an alert (p < 0.001). Only 12 patients (<1%) experienced neurologic deficits, with 2 having permanent deficits. At 2-year follow-up, the major Cobb angle correction did not differ significantly between the groups with and without alerts, alert status did not independently affect correction (p = 0.058), and the groups achieved similar outcomes (73% versus 71% correction, respectively). CONCLUSIONS: IONM alerts occurred in 5% of patients with AIS and were independently associated with a larger major Cobb angle. Fewer than 1% of patients sustained a permanent neurologic injury, and alerts did not appear to compromise 2-year correction. LEVEL OF EVIDENCE: Prognostic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42777069/",
+      "score": 88,
+      "score_reasoning": "Large prospective database of 5,206 AIS patients with multimodal IONM providing curve-specific risk factors and actionable clinical guidance published in JBJS, the highest-impact orthopaedic journal.",
+      "bullets": [
+        "In 5,206 adolescent idiopathic scoliosis fusions, neuromonitoring alerts occurred in 5% of patients, with larger Cobb angles and Lenke Type 4 curves carrying the highest risk.",
+        "Neurologic deficits occurred in 4% of alerted patients, but permanent deficits were rare, affecting only 2 of 5,206 patients total.",
+        "Patients who triggered alerts achieved equivalent 2-year curve correction to those who did not, meaning an intraoperative alert does not predict a worse surgical outcome."
+      ]
+    },
+    {
+      "pmid": "42767527",
+      "title": "Increased Risk of Periprosthetic Joint Infection Following Aseptic Revision Hip and Knee Arthroplasty With the Use of Non-Cefazolin Alternative Antibiotics.",
+      "authors": [
+        "Panos JA",
+        "Mallinger BD",
+        "Virk A",
+        "Sierra RJ",
+        "Abdel MP",
+        "Wyles CC"
+      ],
+      "authors_short": "Panos JA, Mallinger BD, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Although perioperative cefazolin antibiotic prophylaxis is associated with a reduced risk of periprosthetic joint infection (PJI) in primary total joint arthroplasty (TJA) compared to non-cefazolin alternatives, its relative efficacy in the aseptic revision setting is less defined. Furthermore, the roles of postoperative oral antibiotic prophylaxis and the management of unexpected positive cultures (UPC) remain controversial. Therefore, we examined PJI in aseptic revision TJA based on (1) perioperative antibiotic prophylaxis, (2) postoperative oral antibiotic regimen, and (3) UPC status. METHODS: We evaluated all patients undergoing aseptic revision total knee arthroplasty (TKA) and total hip arthroplasty (THA) at a single academic institution between January 2000 and March 2024, yielding 5,993 revision arthroplasties (n = 3,429 THA, n = 2,564 TKA). Cases were analyzed based on perioperative antibiotic type (cefazolin versus non-cefazolin), postoperative oral antibiotic regimen, and intraoperative culture results. Cox proportional hazards regressions were used to determine survivorship free from PJI. RESULTS: Among this cohort, 94% received cefazolin perioperative prophylaxis. In total, 234 cases (4%) subsequently developed PJI. Cefazolin perioperative prophylaxis was associated with significantly higher survivorship free from PJI compared to non-cefazolin alternatives (hazard ratio (HR): 0.5; P = 0.006). In patients receiving perioperative cefazolin, the addition of oral antibiotics with either cefadroxil or cephalexin did not significantly reduce PJI risk compared to no oral antibiotics. The incidence of UPCs was 4%, most commonly coagulase-negative Staphylococcus (44%), and was not significantly associated with subsequent PJI (HR: 1.5; P = 0.21). CONCLUSION: Perioperative cefazolin prophylaxis is a critical modifiable risk factor, providing a substantial protective effect against PJI in aseptic revision TJA. In contrast, extended oral antibiotic prophylaxis provided no additional benefit for culture-negative patients. While UPCs occurred in 4% of cases, only one case subsequently developed PJI with a concordant microorganism. These findings reinforce the importance of standardized cefazolin prophylaxis over alternative agents in aseptic revision TJA.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42767527/",
+      "score": 85,
+      "score_reasoning": "High clinical relevance from JBJS with large 30,000-case dataset establishing approach-specific bearing surface recommendations for THA dislocation prevention, directly applicable to daily practice.",
+      "bullets": [
+        "In nearly 6,000 aseptic revision hip and knee arthroplasties, patients who received non-cefazolin perioperative prophylaxis had twice the risk of developing periprosthetic joint infection compared to those who received cefazolin.",
+        "Adding oral cephalosporin antibiotics after surgery did not reduce infection risk in patients who already received cefazolin perioperative prophylaxis.",
+        "Unexpected positive intraoperative cultures occurred in 4% of cases but were not associated with subsequent periprosthetic joint infection, suggesting routine culture-directed treatment changes may not be warranted."
+      ]
+    },
+    {
+      "pmid": "42770960",
+      "title": "A Novel Scoring System Can Estimate the Risk of Posttraumatic Osteonecrosis After Femoral Neck Fracture Fixation in Adults Younger Than 65 Years.",
+      "authors": [
+        "Bian Y",
+        "Jiang D",
+        "Lin S",
+        "He S",
+        "Su H",
+        "Jia W"
+      ],
+      "authors_short": "Bian Y, Jiang D, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Femoral neck fractures in patients under age 65 years remain challenging because up to 21% of them will develop osteonecrosis of the femoral head (ONFH) after internal fixation, which can be painful and may result in conversion to arthroplasty. This complication is particularly burdensome for patients who still are employed. However, preoperative parameters associated with ONFH remain unclear, and no reliable risk-stratification tool is currently available. QUESTIONS/PURPOSES: (1) Which preoperative clinical and radiographic variables were retained in a risk-stratification model? (2) What were the discrimination and calibration of the 8-point Femoral Neck Fracture Osteonecrosis (FNF-ON8) scoring system developed from these variables? (3) Does this scoring system remain effective in patients with displaced fractures, and how did this system perform compared with the Garden system? METHODS: In this retrospective, multicenter, comparative study, seven surgeons at three centers in China treated 1288 patients age 18 to 65 years with femoral neck fractures using three cannulated screws between January 2012 and January 2023. At these centers, three cannulated screws generally were used in younger patients when femoral head preservation was intended and acceptable reduction with stable fixation was considered achievable. We excluded 14% (184 of 1288) because of incomplete preoperative imaging data and 7% (92 of 1288) because of < 2 years of follow-up, leaving 79% (1012 of 1288) for analysis. Of these, 47% (476) were male, 53% (536) were female, 74% (753) were age \u2265 45 years, and 21% (208) developed ONFH. Fifteen candidate variables were assessed using least absolute shrinkage and selection operator (LASSO)-penalized logistic regression, and retained variables underwent multivariable logistic regression refitting to estimate ORs and 95% CIs and derive the FNF-ON8 score. For exploratory risk stratification, the lower cutoff of 4 was selected to achieve approximately 95% negative predictive value (NPV), with scores of 0 to 3 points classified as low risk. The upper threshold of \u2265 6 points was selected by maximizing the Youden index, with scores of 6 to 8 points classified as high risk; scores of 4 to 5 points were classified as intermediate risk. Sensitivity, specificity, positive predictive value (PPV), and NPV were calculated for both thresholds. The area under the curve (AUC) of the FNF-ON8 score was compared with that of the Garden classification. RESULTS: Five variables retained by LASSO regression were assigned points based on the multivariable logistic regression to construct the FNF-ON8 scoring system: age \u2265 45 years (OR 2.1 [95% confidence interval (CI) 1.4 to 3.2]; 1 point), displaced fracture (OR 7.9 [95% CI 5.1 to 12.1]; 3 points), comminution (OR 2.4 [95% CI 1.7 to 3.5]; 1 point), a superior subcapital fracture line (OR 3.5 [95% CI 2.0 to 6.1]; 2 points), and an inferior subcapital fracture line (OR 3.0 [95% CI 2.1 to 4.4]; 1 point; all p < 0.001). At the lower threshold of \u2265 4 points, sensitivity, specificity, PPV, and NPV were 0.95, 0.34, 0.27, and 0.96; at the upper threshold of \u2265 6 points, they were 0.75, 0.74, 0.42, and 0.92, respectively. Among patients with displaced fractures, scores of \u2265 6 were associated with greater odds of ONFH than scores of 0 to 5 (OR 5.5 [95% CI 3.2 to 9.5]; p < 0.001). The FNF-ON8 showed greater discrimination for ONFH than the Garden classification (AUC 0.80 [95% CI 0.77 to 0.83] versus 0.70 [95% CI 0.67 to 0.73]). CONCLUSION: Among 1012 patients age 18 to 65 years treated with three cannulated screws under general anesthesia at three centers in China, ONFH developed in 4% (11 of 283) of patients with FNF-ON8 scores of 0 to 3 and in 42% (155 of 367) of those with scores of 6 to 8. That being so, the score may complement existing fracture classifications in preoperative risk counseling and follow-up planning. A prospective, multicenter study should externally validate the FNF-ON8 in an independent population and using standardized clinical and imaging follow-up for at least 2 years. LEVEL OF EVIDENCE: Level III, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42770960/",
+      "score": 84,
+      "score_reasoning": "Large single-institution retrospective cohort (5,993 revisions) in JBJS demonstrating that cefazolin superiority in primary TJA extends to the aseptic revision setting, with directly actionable prophylaxis guidance.",
+      "bullets": [
+        "In adults under 65 with femoral neck fractures fixed with cannulated screws, a five-variable preoperative scoring tool (FNF-ON8) predicted osteonecrosis with an AUC of 0.80, outperforming Garden classification alone.",
+        "Patients scoring 6 to 8 points developed osteonecrosis in 42% of cases, while those scoring 0 to 3 had only a 4% rate, giving clinicians a concrete risk split before surgery.",
+        "The five scored factors are age 45 or older, fracture displacement, comminution, superior subcapital fracture line, and inferior subcapital fracture line, all assessable on standard preoperative imaging."
+      ]
+    },
+    {
+      "pmid": "42785699",
+      "title": "Early Surgical Management of Periprosthetic Hip Fracture Does Not Reduce Mortality or Cardiopulmonary Complications: A Propensity-Matched Analysis.",
+      "authors": [
+        "Papalia AG",
+        "Ricotti RG",
+        "Frappa N",
+        "Alben MG",
+        "Ozdag Y",
+        "Sutton R"
+      ],
+      "authors_short": "Papalia AG, Ricotti RG, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Whether early surgery reduces mortality in revision total hip arthroplasty (THA) for periprosthetic proximal femur fractures (PPFF) remains unclear. The aim of this study was to evaluate the association between time to surgery and short- and long-term outcomes following PPFF. METHODS: Using a large national database, adult patients undergoing revision THA for PPFF were identified. Cohorts were defined by time from diagnosis to surgery: two days versus greater than two days. Propensity score matching (1:1) was performed on demographics and comorbidities, yielding 2,098 patients per cohort. The primary outcome was mortality at 30 days, 90 days, and one year. The secondary outcomes included myocardial infarction (MI), deep venous thrombosis (DVT), pulmonary embolism (PE), pneumonia (PNA), acute kidney injury (AKI), sepsis, surgical site infection (SSI), wound dehiscence, and transfusion. RESULTS: The 30-day mortality did not differ between early and delayed cohorts (2.4 versus 2.5%, P = 0.842). Similarly, 90-day mortality (4.8 versus 4.4%) and 1-year mortality (7.7 versus 7.9%) were equivocal. Rates of MI, DVT, PE, PNA, AKI, sepsis, SSI, and wound dehiscence were not significantly different across time windows. However, early surgery was associated with significantly higher transfusion rates at 30 (19.7 versus 16.4%, P = 0.006) and 90 days (19.9 versus 17.5%, P = 0.045). CONCLUSION: Early operative intervention (two days) for PPFF does not significantly reduce mortality or cardiopulmonary complications compared with delayed surgery (greater than two days). In contrast, early surgery was associated with higher rates of blood transfusion; however, this difference may not be clinically meaningful and should not be interpreted as a reason for unnecessary surgical delay. These findings indicate that delay to surgery beyond two days does not appear to adversely affect short-term mortality or complication rates, allowing additional time for preoperative planning and appropriate allocation of specialized resources.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42785699/",
+      "score": 82,
+      "score_reasoning": "Clinically impactful propensity-matched analysis of 2,098 patients per cohort in Journal of Arthroplasty challenging the assumed mortality benefit of early surgery for periprosthetic proximal femur fractures.",
+      "bullets": [
+        "Operating within two days versus waiting longer for periprosthetic hip fractures around a THA showed no difference in mortality at 30 days, 90 days, or one year.",
+        "Early surgery was associated with higher transfusion rates, but complication rates including MI, PE, DVT, and sepsis were equal between groups.",
+        "For periprosthetic proximal femur fractures, surgeons can safely take additional time for preoperative planning and resource allocation without increasing patient risk."
+      ]
+    },
+    {
+      "pmid": "42766437",
+      "title": "Fourfold higher graft failure risk with isolated BPTB versus hamstring ACL reconstruction with ALL in patients under 25 years: A prespecified subgroup analysis of a randomized controlled trial.",
+      "authors": [
+        "Santamaria F",
+        "Carrozzo A",
+        "Pioger C",
+        "Vieira TD",
+        "Sonnery-Cottet V",
+        "Fayard JM",
+        "Thaunat M",
+        "Sonnery-Cottet B"
+      ],
+      "authors_short": "Santamaria F, Carrozzo A, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To compare 5-year graft failure rates between isolated bone-patellar tendon-bone anterior cruciate ligament reconstruction (BPTB-ACLR) and hamstring tendon (HT)-ACLR combined with anterolateral ligament reconstruction (ALLR) in patients younger than 25 years. METHODS: A prespecified subgroup analysis was performed on patients younger than 25 years enroled in a prospective comparative study. Patients underwent either isolated ACLR using a BPTB-ACLR or hamstring ACLR combined with ALLR (HT-ACLR\u2009+\u2009ALLR). The primary outcome was graft failure at 5 years. Secondary outcomes included patient-reported outcome measures (Knee injury and Osteoarthritis Outcome Score [KOOS], International Knee Documentation Committee [IKDC], Lysholm and Tegner scores). Survival analysis was performed using Kaplan-Meier estimates and log-rank testing. Multivariate logistic regression and Cox proportional hazards models were used to identify independent risk factors for graft failure. RESULTS: The analysis included 281 patients younger than 25 years, with 134 undergoing isolated BPTB-ACLR and 147 undergoing HT-ACLR\u2009+\u2009ALLR. At 5 years, graft failure occurred in 22 patients (16.4%) in the isolated BPTB-ACLR group and in 7 patients (4.8%) in the HT-ACLR\u2009+\u2009ALLR group (p\u2009=\u20090.0013). Kaplan-Meier analysis demonstrated significantly improved graft survival in the HT-ACLR\u2009+\u2009ALLR group (log-rank p\u2009=\u20090.0008). On multivariate analysis, isolated BPTB-ACLR was independently associated with a higher risk of graft failure compared with HT-ACLR\u2009+\u2009ALLR (odds ratio 4.2; 95% confidence interval [CI] 1.8-11.3; p\u2009=\u20090.0007; hazard ratio 4.2; 95% CI 1.9-10.7; p\u2009=\u20090.0002). Clinical outcome scores were comparable between groups at follow-up across all patient-reported measures. CONCLUSION: This secondary analysis of a RCT with 5-year follow-up showed that, in patients younger than 25 years, HT-ACLR combined with ALLR was associated with a significantly lower risk of graft failure compared with isolated BPTB-ACLR, whereas patient-reported clinical outcomes were comparable between groups. LEVEL OF EVIDENCE: Level I, randomized controlled trial.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42766437/",
+      "score": 80,
+      "score_reasoning": "Subgroup analysis from a prospective RCT in KSSTA showing fourfold higher graft failure with isolated BPTB versus HT+ALLR reconstruction in patients under 25, highly relevant for ACL graft selection in young patients.",
+      "bullets": [
+        "In patients under 25 years old, isolated patellar tendon ACL reconstruction failed at 16.4% versus 4.8% for hamstring reconstruction combined with anterolateral ligament reconstruction at 5 years.",
+        "Adding anterolateral ligament reconstruction to a hamstring graft reduced graft failure risk fourfold compared to isolated patellar tendon grafts in young, high-risk patients.",
+        "Functional outcome scores were equivalent between groups, so the benefit of adding anterolateral ligament reconstruction in patients under 25 is in graft survival, not subjective knee function."
+      ]
+    },
+    {
+      "pmid": "42775682",
+      "title": "Ceftriaxone versus cefazolin plus gentamicin for antibiotic prophylaxis in Gustilo-Anderson type III open lower extremity fractures.",
+      "authors": [
+        "Foster C",
+        "Richardson L",
+        "Pegg B",
+        "Garg V",
+        "Kye B",
+        "Lu X",
+        "Young P"
+      ],
+      "authors_short": "Foster C, Richardson L, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To compare fracture related infection (FRI) rates and outcomes between ceftriaxone (CTX) and cefazolin plus gentamicin (C+G) for antibiotic prophylaxis in Gustilo-Anderson (GA) type III open lower extremity fractures. METHODS: Design: Retrospective cohort study. SETTING: Single, academic level one trauma center. PATIENT SELECTION CRITERIA: Included were patients age 18-89 years with GA type III open lower extremity fractures (AO/OTA 32,33,41,42,43,4F3, 44) from 2013 to 2024 with at least 6 weeks follow-up. OUTCOME MEASUREMENTS AND COMPARISONS: The primary outcome was FRI. Secondary outcomes included acute kidney injury (AKI), nonunion, and other complications. Cox proportional hazards models and multivariable logistic regression adjusted for confounding variables. RESULTS: Of 3,334 lower extremity fractures reviewed, 307 met inclusion criteria: 229 C+G and 78 CTX. Mean age (40.4 [range 18-88] vs 41.2 [range 18-81] years, p=0.7) and sex (75.1% vs 64.1% male, p=0.084) were similar between the C+G and CTX cohorts. Mean follow-up was 23.8 months (C+G) and 14.0 months (CTX) (P=0.002). The C+G cohort had more tibial shaft fractures (34.1% vs 19.2%, P=0.014) and type IIIB injuries (19.7% vs 7.7%, P=0.014). On unadjusted analysis, there was no significant difference in FRI (18.3% vs 12.8%, P=0.343) or AKI (11.4% vs 12.8%, P=0.728) or organisms cultured. After adjusting for GA type, fracture location, time to debridement and time to antibiotics there remained no significant difference in FRI (HR=1.26, 95% CI: 0.59-2.68, P=0.545), AKI (OR=1.51, 95% CI: 0.62-3.49, P=0.349) or other complications between antibiotic regimens. Tibial shaft fractures trended towards higher risk of FRI compared to femur fractures (HR=2.15, P=0.052). GA type IIIB/C fractures (HR=3.05, p<0.001) and time to antibiotics of >60min (HR=2.56, p=0.003) were associated with higher odds of FRI. CONCLUSIONS: Ceftriaxone monotherapy demonstrated similar rate of FRI and complications compared to cefazolin plus gentamicin for Gustilo-Anderson type III open lower extremity fractures. Severity of the open fracture and time to antibiotics were independently associated with higher infection risk regardless of antibiotic regimen. LEVEL OF EVIDENCE: Therapeutic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42775682/",
+      "score": 74,
+      "score_reasoning": "Retrospective cohort study of 307 GA type III open fractures in Journal of Orthopaedic Trauma comparing ceftriaxone vs cefazolin+gentamicin prophylaxis with adjusted analysis showing no significant difference in FRI.",
+      "bullets": [
+        "In Gustilo-Anderson type III open lower extremity fractures, ceftriaxone alone produced the same infection rate as cefazolin plus gentamicin after adjusting for fracture severity and timing.",
+        "For type IIIB/C injuries and cases where antibiotics were delayed beyond 60 minutes, infection risk was significantly higher regardless of which antibiotic regimen was used.",
+        "Ceftriaxone monotherapy is a reasonable single-drug alternative to the traditional two-drug regimen for prophylaxis in severe open lower extremity fractures."
+      ]
+    },
+    {
+      "pmid": "42770981",
+      "title": "How Does the Achievement of Minimum Clinically Important Difference, Substantial Clinical Benefit, and Patient Acceptable Symptom State Change Over Time After Periacetabular Osteotomy?",
+      "authors": [
+        "Trotzky ZA",
+        "Owens CE",
+        "Jochl OM",
+        "Merckaert SR",
+        "Sink EL"
+      ],
+      "authors_short": "Trotzky ZA, Owens CE, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Anchor-based thresholds of the minimum clinically important difference (MCID), substantial clinical benefit (SCB), and patient acceptable symptom state (PASS) were recently defined for the modified Harris hip score (mHHS) and the International Hip Outcome Tool 12 (iHOT-12) among patients undergoing periacetabular osteotomy (PAO). However, the likelihood of meeting these thresholds and the amount of time it takes for patients to achieve them remain unknown. Understanding the probability of achieving the MCID, SCB, and PASS throughout the postoperative course is important for fair preoperative counseling. QUESTIONS/PURPOSES: (1) For patients treated with PAO, what is the probability of achieving the MCID, SCB, and PASS for the mHHS and iHOT-12 at 1, 2, 5, and 10 years postoperatively using threshold values that accurately characterize the perceptions of patients undergoing PAO? (2) Which factors are associated with time to achieving the MCID, SCB, or PASS? METHODS: Between March 2011 and February 2025, a total of 784 patients underwent PAO for symptomatic acetabular dysplasia at one institution. Of these, 0.4% (3 of 784) who underwent conversion THA were excluded, yielding 781 patients as potentially eligible. Patients without minimum 1-year postoperative PROMs were also excluded, leaving 85% (665 of 781) of patients for analysis. The study cohort (in which 94% [622 of 665] were women, with a mean \u00b1 SD age at time of surgery of 26 \u00b1 8 years) included 24% (158 of 665) of patients with prior ipsilateral hip surgery and 37% (246 of 665) of patients with a psychiatric diagnosis. Cumulative probabilities were determined using a parametric survival model under a Weibull distribution with interval censoring. Outcome changes of the mHHS and iHOT-12 were evaluated against the anchor-based MCID and SCB thresholds from prior work. Postoperative scores were evaluated against PASS thresholds from prior work. Intervals were constructed for each patient, ranging from the last known point at which a threshold was not achieved to the earliest time point at which a threshold was met. Weibull regression models were used to identify variables associated (p < 0.05) with the time to achieving each outcome threshold. RESULTS: For the mHHS, the cumulative probability of achieving the MCID, SCB, and PASS was as follows: 61% at 1 year, 71% at 2 years, 83% at 5 years, and 90% at 10 years for the MCID; 53% at 1 year, 63% at 2 years, 76% at 5 years, and 85% at 10 years for the SCB; and 78% at 1 year, 85% at 2 years, 92% at 5 years, and 96% at 10 years for the PASS. For the iHOT-12, the cumulative probability of achieving the MCID, SCB, and PASS was as follows: 69% at 1 year, 78% at 2 years, 88% at 5 years, and 93% at 10 years for the MCID; 52% at 1 year, 63% at 2 years, 76% at 5 years, and 85% at 10 years for the SCB; and 65% at 1 year, 74% at 2 years, 85% at 5 years, and 91% at 10 years for the PASS. Prior ipsilateral hip surgery was associated with a substantially longer time to reach all thresholds. Having a psychiatric diagnosis was associated with a moderately longer time to reach the MCID, and undergoing bilateral surgery was associated with a substantially longer time to reach the MCID and moderately longer time to reach the SCB. Each 1-point increase in preoperative mHHS and iHOT-12 scores was associated with a slightly longer time to achieve the MCID and SCB and a slightly shorter time to achieve the PASS. CONCLUSION: We found that at 1 year, the probability of achieving the MCID, SCB, and PASS\u00a0(61%, 53%, 78% and 69%, 52%, 65% for the mHHS and iHOT-12, respectively) was lower than previously reported rates, indicating that prior research may have minimized the duration of PAO recovery. Thus, patients can be counseled that by 1 year, they may not experience perceptible improvement in their hip pain and function. The probability of achieving all thresholds increased at each subsequent time point, although even at 10 years, 15% of patients were unlikely to consider their improvement to be substantial, and loss to follow-up may cause our estimates of achieving an MCID, SCB, or PASS to be optimistic. Still, the preoperative discussion can also convey that achieving clinically meaningful benefit becomes more likely throughout the postoperative course. Prior ipsilateral surgery, psychological comorbidities, and bilateral surgery were associated with a moderate to substantially longer time to achieve the MCID, SCB, and PASS. These probabilities and factors provide a foundation for setting realistic patient expectations regarding time frames for improvements in pain and function. LEVEL OF EVIDENCE: Level III, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42770981/",
+      "score": 72,
+      "score_reasoning": "Retrospective cohort of 141 periprosthetic femur fractures across three Level I centers in Journal of Orthopaedic Trauma showing cerclage for reduction is not associated with nonunion, addressing a common intraoperative concern.",
+      "bullets": [
+        "After periacetabular osteotomy, only about half to two-thirds of patients reach meaningful improvement by one year, and 15% never achieve substantial benefit even at ten years.",
+        "Young women with acetabular dysplasia are the typical patient, and those with prior ipsilateral hip surgery, psychiatric diagnoses, or bilateral procedures take significantly longer to reach clinical improvement thresholds.",
+        "Surgeons should counsel patients that meaningful pain and function gains after periacetabular osteotomy often take several years, and full recovery expectations set at one year are likely premature."
+      ]
+    },
+    {
+      "pmid": "42771714",
+      "title": "Ability of Deep Learning to Predict Surgical Recommendations for Distal Radial Fractures: A Feasibility Study.",
+      "authors": [
+        "Shareef O",
+        "Huddleston H",
+        "Jang SJ",
+        "Smolev E",
+        "Fufa DT"
+      ],
+      "authors_short": "Shareef O, Huddleston H, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Distal radial fractures (DRFs) are extremely common, and decisions regarding operative intervention rely on clinical judgment and radiographic parameters at and after injury. Understanding whether a recommendation will be made for operative versus nonoperative management in an initial point-of-care setting can assist in patient counseling and reinforce timely follow-up with general orthopaedic or hand specialists. This study investigated the feasibility of using artificial intelligence (AI) to predict whether a fellowship-trained hand surgeon would recommend operative intervention using pre-reduction radiographs and clinical and demographic data. METHODS: A convolutional neural network (CNN) model was trained on pre-reduction injury radiographs, and its outputs were combined with clinical and demographic data in a random forest (RF) model. The final model was evaluated on a hold-out test data set. To enhance interpretability, gradient-weighted class activation mapping (Grad-CAM) heatmaps and SHapley Additive exPlanations (SHAP) were employed to identify image regions and clinical features contributing to model predictions. RESULTS: Of 1,040 included patients, 884 were used for training and 156 for testing model performance. On the test data set, the combined model achieved an accuracy of 87.14%, sensitivity of 97%, specificity of 73%, area under the receiver operating characteristic curve of 0.96, and Brier score of 0.10. Grad-CAM visualizations indicated that the CNN focused on clinically relevant features, such as fracture displacement, and SHAP analysis of the RF model highlighted age and lateral wrist radiographs as key contributors to predictions. CONCLUSIONS: This pilot study demonstrates the feasibility of using AI to predict the recommendations of a group of fellowship-trained hand surgeons at 1 institution regarding operative versus nonoperative treatment for a DRF on the basis of pre-reduction injury radiographs and clinical and demographic data. Future work will focus on external validation, expanding data sets, and incorporating additional imaging features to optimize performance and generalizability. LEVEL OF EVIDENCE: Prognostic Level III . See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42771714/",
+      "score": 70,
+      "score_reasoning": "JBJS paper with strong novel finding from a retrospective cohort of 1,012 femoral neck fracture patients developing an 8-point scoring system predicting post-fixation osteonecrosis in patients under 65.",
+      "bullets": [
+        "A deep learning model trained on pre-reduction wrist radiographs and basic patient data predicted hand surgeon operative recommendations for distal radial fractures with 87% accuracy and 97% sensitivity.",
+        "The model applies to adult patients with distal radial fractures presenting at initial point of care, where early triage toward operative versus nonoperative management is needed.",
+        "This tool could support non-specialist providers in counseling patients and ensuring timely orthopaedic referral, though external validation is still required before clinical use."
+      ]
+    },
+    {
+      "pmid": "42763504",
+      "title": "Patient Preferences for Tracker Pin-Related Incision Configurations in Robotic-Assisted Total Knee Arthroplasty.",
+      "authors": [
+        "Yuenyongviwat V",
+        "Anusitviwat C",
+        "Hongnaparak T",
+        "Tuntarattanapong P",
+        "Iamthanaporn K"
+      ],
+      "authors_short": "Yuenyongviwat V, Anusitviwat C, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Robotic-assisted total knee arthroplasty (TKA) requires tracker pin placement, which may result in different incision configurations. Although clinical outcomes across pin placement strategies appear comparable, patient preferences regarding incision design remain unclear. METHODS: This cross-sectional observational study included 101 patients with knee osteoarthritis who were recruited consecutively at a tertiary university hospital. Three tracker pin-related incision configurations were presented using standardized lower-limb models: (A) all-inside, consisting of the longest single midline incision; (B) femoral pin in-tibial pin out, consisting of a medium-length midline incision plus two tibial stab incisions; and (C) pin outside, consisting of the shortest midline incision plus four stab incisions. Participants rated each design using a 5-point Likert scale and selected a single preferred option. Cosmetic and recovery concerns were assessed using five Likert-scale items. RESULTS: Postoperative scarring received the highest concern ratings, followed by recovery time, whereas concern about incision length and the number of incisions was lower. Preference scores showed a numerical ranking: all-inside 4.0 [interquartile range (IQR), 3.0-4.0]; femoral pin in-tibial pin out 3.0 [IQR, 2.0-4.0]; and pin outside 3.0 [IQR, 2.0-3.0], without a statistically significant difference (Friedman \u03c7\u00b2 = 5.52, P = .063). When selecting a single preferred option, 46.5% chose all-inside, 25.7% femoral pin in-tibial pin out, and 27.7% pin outside. CONCLUSIONS: No clear differences in overall preference were observed among the three incision configurations. Preoperative counseling should address expectations regarding scar appearance, wound care, and recovery trajectory rather than emphasizing incision configuration alone in robotic-assisted TKA.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42763504/",
+      "score": 69,
+      "score_reasoning": "Large retrospective cohort study of 100 UKR patients with mean 9.6-year follow-up in KSSTA demonstrating that lateral compartment MRI changes should not automatically preclude medial UKR, directly affecting patient selection.",
+      "bullets": [
+        "When shown three incision options for robotic knee replacement, nearly half of patients preferred the single longer midline incision over shorter cuts with additional stab wounds.",
+        "Overall preference scores did not differ significantly across the three incision configurations, so no single approach is clearly superior from the patient perspective.",
+        "Preoperative counseling for robotic total knee arthroplasty should focus on scar appearance and recovery expectations rather than debating incision configuration."
+      ]
+    },
+    {
+      "pmid": "42762871",
+      "title": "Preoperative Sepsis Is Associated With Increased 90-Day and 2-Year Complications Following Total Shoulder Arthroplasty: A Time-Stratified and Organism-Specific Analysis.",
+      "authors": [
+        "Castano AA",
+        "Holle AM",
+        "Renfree SP",
+        "Koschmeder KT",
+        "Zeller AM",
+        "Hassebrock JD"
+      ],
+      "authors_short": "Castano AA, Holle AM, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "PURPOSE: To evaluate the association between preoperative sepsis and 90-day and 2-year complications following total shoulder arthroplasty, with particular attention to the timing and causative organism of sepsis in relation to postoperative outcomes. METHODS: A retrospective cohort study was conducted using the PearlDiver M170 national administrative claims database. Patients undergoing shoulder arthroplasty with at least four years of data were included. Those with sepsis within two years prior to surgery were propensity score matched 1:3 to controls based on age, sex, year of surgery, Elixhauser Comorbidity Index, and comorbidities. Patients were stratified by timing of sepsis (<3 months, 3-6 months, 6-12 months, 12-18 months, 18-24 months preoperative) and by organism (gram-positive, gram-negative, Staphylococcal, Streptococcal, Escherichia coli). Complications were compared at 90 days and 2 years postoperatively. P values were Bonferroni-adjusted within each outcome period and subgroup. RESULTS: The cohort included 14,786 patients (3,742 with preoperative sepsis; 11,044 controls). At 90 days, preoperative sepsis was strongly associated with postoperative sepsis (OR 3.89, 95% CI 2.75-5.50), and moderately associated with pneumonia (OR 2.08, 95% CI 1.70-2.54), acute kidney injury (OR 1.57, 95% CI 1.30-1.90), deep vein thrombosis (OR 1.69, 95% CI 1.17-2.46), urinary tract infection (OR 1.76, 95% CI 1.53-2.03), readmission (OR 1.49, 95% CI 1.28-1.75), and wound dehiscence (OR 1.92, 95% CI 1.12-3.28). At two years, preoperative sepsis was moderately associated with periprosthetic joint infection (OR 2.04, 95% CI 1.61-2.59), and weakly associated with implant loosening (OR 1.29, 95% CI 1.03-1.62) and postoperative stiffness (OR 1.28, 95% CI 1.07-1.52). The highest odds of complications occurred when sepsis was documented within three months before surgery and declined as the interval increased. Gram-positive sepsis was strongly associated with periprosthetic joint infection (OR 3.27, 95% CI 1.87-5.70), whereas gram-negative sepsis was strongly associated with wound dehiscence (OR 5.17, 95% CI 2.01-13.32) and moderately associated with acute kidney injury (OR 2.28, 95% CI 1.45-3.60), urinary tract infection (OR 2.79, 95% CI 1.99-3.90). Staphylococcal sepsis was strongly associated with periprosthetic joint infection at two years (OR 5.98, 95% CI 3.39-10.56). CONCLUSION: Preoperative sepsis within two years of TSA was associated with increased odds of 90-day and 2-year complications, with the highest odds when surgery occurred within three months of sepsis. Prior sepsis and its temporal proximity may be relevant to preoperative risk assessment and patient counseling. LEVEL OF EVIDENCE: Level III, Retrospective Cohort Comparison Using Large Database, Prognosis Study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42762871/",
+      "score": 67,
+      "score_reasoning": "Retrospective cohort of 1,462 TKA/THA patients from Australia in Journal of Arthroplasty confirming that psychological distress is longitudinally associated with poorer outcomes and dissatisfaction, supporting international generalizability.",
+      "bullets": [
+        "Patients with sepsis in the two years before total shoulder arthroplasty have roughly double the risk of periprosthetic joint infection at two years, with the highest complication rates when surgery occurs within three months of the sepsis episode.",
+        "Prior Staphylococcal sepsis carries nearly a sixfold increased odds of periprosthetic joint infection, making organism identification an important part of preoperative risk stratification for shoulder arthroplasty candidates.",
+        "Orthopaedic surgeons should document sepsis history, timing, and causative organism when counseling patients before total shoulder arthroplasty, as waiting beyond three months from a sepsis episode appears to reduce but not eliminate procedural risk."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-09-25T08:00:35.448331-07:00"
+}
