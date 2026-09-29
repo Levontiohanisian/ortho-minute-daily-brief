@@ -1,0 +1,308 @@
+{
+  "brief_date": "2026-09-29",
+  "brief_date_display": "Tuesday, September 29",
+  "candidates": [
+    {
+      "pmid": "42777066",
+      "title": "Extra-Articular Malunions and Nonunions of the Scapular Body and Neck: A Comparison of Functional Outcomes Before and After Reconstruction.",
+      "authors": [
+        "Cole PA",
+        "Xu JL",
+        "Huaco AA",
+        "LaRoque MC",
+        "Winter JD"
+      ],
+      "authors_short": "Cole PA, Xu JL, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Malunions and nonunions of scapular neck and body fractures can cause considerable pain and disability. This study reports outcomes regarding functional measures, range of motion, and strength before and after reconstruction. METHODS: This retrospective case series at a Level-1 trauma center between 2003 and 2024 identified 50 consecutive patients (mean age, 50.3 years; 82% male; 80% White) with symptomatic malunion or nonunion of a scapular neck and/or body fracture who were referred to a single surgeon. Medial-lateral displacement and angular deformity were corrected through surgical reconstruction and malunion osteotomy. The Disabilities of the Arm, Shoulder and Hand (DASH) score, range of motion, strength, and postoperative procedures requiring a return to the operating room were recorded. RESULTS: Fifty patients were included in the study; 5 patients were lost to follow-up before 12 months, leaving 45 patients (40 with malunion and 5 with nonunion) with >1-year outcomes. Eleven patients underwent reconstruction between 6 weeks and 3 months after injury because of the severity of the injury, their symptoms, and/or the necessity of an osteotomy. The median time from injury to reconstruction was 10 months (interquartile range [IQR] width, 16 months), and the median follow-up was 28.9 months (IQR width, 23.2 months). All patients achieved radiographic evidence of union. No intraoperative complications occurred. There was a mean 30.7-point improvement between the preoperative and final postoperative DASH scores (p < 0.001). The mean postoperative DASH score was 14.1 in patients who underwent reconstruction between 6 weeks and 3 months and was 23.2 in those who underwent reconstruction after 3 months. Forward flexion and abduction demonstrated significant increases in both range of motion and strength from preoperatively to postoperatively. External rotation range of motion and strength showed no significant increases. Subsequent procedures were performed in 12 patients: 8 patients underwent symptomatic implant removal (1 also underwent concurrent manipulation under anesthesia), 1 patient underwent open reduction and internal fixation for a new fracture, 2 patients underwent implant revision (1 also underwent concurrent manipulation under anesthesia), and 1 patient underwent manipulation under anesthesia for shoulder contracture. CONCLUSIONS: Extra-articular scapular malunions and nonunions can be associated with considerable pain and disability. Deformity correction improved range of motion and strength and reduced disability in this cohort. A principled reconstruction can be successful in addressing the sequelae of displaced scapular fractures. LEVEL OF EVIDENCE: Therapeutic Level IV. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42777066/",
+      "score": 88,
+      "score_reasoning": "Large prospective database of 5,206 AIS patients provides highly clinically relevant data on IONM alert rates, curve-specific risk factors, and neurologic outcomes directly applicable to every spine surgeon performing scoliosis surgery, published in JBJS with excellent study design and sample size.",
+      "bullets": [
+        "Surgical reconstruction of scapular neck and body malunions and nonunions produced a mean 30-point improvement in DASH scores and significant gains in forward flexion and abduction strength.",
+        "Early reconstruction before 3 months led to better final DASH scores (14 points) than reconstruction after 3 months (23 points), suggesting earlier intervention benefits symptomatic patients.",
+        "All 45 patients achieved radiographic union with no intraoperative complications, though 12 required return to the operating room, most commonly for implant removal."
+      ]
+    },
+    {
+      "pmid": "42805713",
+      "title": "Preoperative Contralateral Joint And/Or Back Pain Impact on Achieving the Substantial Clinical Benefit for Hip Disability and Osteoarthritis Outcome Score-Joint Replacement.",
+      "authors": [
+        "Elmenawi KA",
+        "Jevnikar BE",
+        "Oyem PC",
+        "Jin Y",
+        "Krebs VE",
+        "Molloy RM",
+        "Deren ME",
+        "Piuzzi NS"
+      ],
+      "authors_short": "Elmenawi KA, Jevnikar BE, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: The Centers for Medicare & Medicaid Services recently mandated reporting of patient-reported outcome measures following primary total hip arthroplasty (THA), with emphasis on the substantial clinical benefit (SCB) threshold for the Hip Disability and Osteoarthritis Outcome Score-Joint Replacement (HOOS-JR). The impact of preoperative back and/or contralateral hip pain on achieving SCB and other validated patient-reported outcome measure thresholds remains unclear. METHODS: We retrospectively analyzed a prospective cohort of 4,412 Medicare primary elective unilateral THAs (2016 to 2023). Patients were stratified by preoperative back and/or contralateral hip pain and severity. Outcomes included achievement of SCB (22-point improvement in HOOS-JR), minimal clinically important difference, patient-acceptable symptom state, and satisfaction at one year. Multivariable logistic regression was adjusted for demographic, clinical, and socioeconomic factors. RESULTS: Patients who had both back and contralateral hip pain had the highest odds of failing to achieve SCB (odds ratio (OR) 3.1, 95% confidence interval (CI) 2.4 to 4.1; P < 0.001), followed by isolated contralateral hip pain (OR 1.7, 95% CI 1.1 to 2.6; P = 0.01) and isolated back pain (OR 1.6, 95% CI 1.2 to 2.0; P = 0.002). Risk increased proportionally with pain severity (mild/moderate back pain: OR 1.7; severe back pain: OR 2.8; both P < 0.001). Similar, though less pronounced, patterns were observed for minimal clinically important difference and patient-acceptable symptom state thresholds across HOOS domains. Patients who have both pain sources also reported the highest risk of dissatisfaction (OR 2.1, 95% CI 1.5 to 3.0; P < 0.001). CONCLUSIONS: Preoperative back and contralateral hip pain, particularly when severe or concurrent, strongly and independently reduce the likelihood of achieving SCB for HOOS-JR following primary THA. These findings underscore the need for risk adjustment under the Centers for Medicare & Medicaid Services patient-reported outcome performance measure framework and highlight the value of multidisciplinary management of comorbid pain to optimize outcomes and ensure equitable benchmarking in value-based care. LEVEL OF EVIDENCE: II (Prospective).",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42805713/",
+      "score": 82,
+      "score_reasoning": "Large Medicare cohort (4,412 THAs) with multivariable analysis addressing CMS-mandated HOOS-JR reporting requirements; directly actionable for patient selection and counseling regarding comorbid pain conditions, published in Journal of Arthroplasty.",
+      "bullets": [
+        "Patients undergoing primary THA who have both back pain and contralateral hip pain preoperatively are three times more likely to miss the one-year HOOS-JR improvement threshold compared to those with neither condition.",
+        "The risk of failing to meet outcome benchmarks and reporting dissatisfaction rises with pain severity and the number of concurrent pain sources, affecting Medicare-age patients undergoing elective unilateral THA.",
+        "Surgeons should document and account for preoperative back and contralateral hip pain when counseling patients and when outcomes are used for CMS performance reporting, as these factors independently predict worse results."
+      ]
+    },
+    {
+      "pmid": "42771718",
+      "title": "From Fragmented Aid to Coordinated Orthopaedic Humanitarian Trauma Response: The Coordinated Orthopaedic Humanitarian Response Framework.",
+      "authors": [
+        "Smadi Z",
+        "Saleh KJ"
+      ],
+      "authors_short": "Smadi Z, Saleh KJ",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42771718/",
+      "score": 81,
+      "score_reasoning": "RCT substudy with 244 patients directly comparing functional vs. mechanical alignment in robotic TKA while demonstrating pain sensitivity outweighs alignment strategy in predicting outcomes, highly novel and immediately practice-relevant finding published in Journal of Arthroplasty.",
+      "bullets": [
+        "Orthopaedic humanitarian trauma care is currently delivered in fragmented, uncoordinated ways that reduce effectiveness in disaster and conflict settings.",
+        "The Coordinated Orthopaedic Humanitarian Response Framework proposes a structured system to align resources, personnel, and timing across responding organisations.",
+        "Orthopaedic surgeons deploying to humanitarian missions should expect and advocate for coordinated frameworks rather than independent, siloed responses."
+      ]
+    },
+    {
+      "pmid": "42766425",
+      "title": "The 2026 ESSKA-ESA formal consensus on partial-thickness posterosuperior rotator cuff tears (Part 2): Treatment strategies, rehabilitation, return to sport and complications.",
+      "authors": [
+        "Kany J",
+        "Iban MR",
+        "Calvo E",
+        "Rosso C",
+        "Peach C",
+        "Dias CM",
+        "M\u00e9tais P",
+        "Saccomanno MF",
+        "B\u00f8e B",
+        "Brilakis E",
+        "Bilsel K",
+        "Kovacic L",
+        "Raebroeckx AV",
+        "Gomes N",
+        "Martetschl\u00e4ger F",
+        "Beaufils P",
+        "Dyrna F"
+      ],
+      "authors_short": "Kany J, Iban MR, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To establish evidence-based consensus recommendations for the management of partial-thickness posterosuperior rotator cuff tears (PT-PS-RCTs). This second part addresses treatment strategies, rehabilitation, return to sport and complications. METHODS: This European Society for Sports Traumatology, Knee Surgery and Arthroscopy-European Shoulder Associates (ESSKA-ESA) Formal Consensus was conducted according to the ESSKA Formal Consensus Methodology. A Steering Group (13 shoulder surgeons) developed 33 questions and statements based on a standardized literature review and assigned recommendation grades (A-D) according to the level of evidence. Statements were evaluated by an independent Rating Group (20 shoulder surgeons) through a three-round consensus process. RESULTS: Twenty-one Question-Statement (Q-S) pairs achieved strong agreement, generating 30 individual recommendations (1 Grade A, 6 Grade B, 10 Grade C and 13 Grade D). Grade A evidence identified an increased risk of postoperative stiffness after trans-tendon repair of articular-sided PT-PS-RCTs compared with tear completion. Grade B evidence supported conservative treatment for at least 6 months, platelet-rich plasma injections and management of stiffness before surgery; both trans-tendon/in-situ repair and tear-completion-and-repair showed similar return-to-sport rates, although tear-completion-and-repair had slightly higher retear rates. The most commonly reported patient-reported outcome measures were the American Shoulder and Elbow Surgeons, Constant-Murley and visual analogue scale scores. CONCLUSION: Management should be individualized according to patient characteristics (activity level, sports participation), symptoms, tear morphology and tissue quality rather than based on a single treatment algorithm. Non-surgical treatment is the preferred initial approach, whereas no surgical technique has demonstrated consistent superiority across all clinical scenarios. These recommendations provide clinicians with a practical framework to guide treatment decisions and standardize the management of PT-PS-RCTs in daily clinical practice. LEVEL OF EVIDENCE: Level I, formal consensus.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42766425/",
+      "score": 80,
+      "score_reasoning": "Prespecified subgroup analysis of an RCT showing fourfold higher graft failure with isolated BPTB vs. hamstring+ALL reconstruction in patients under 25 years is a highly novel, practice-changing finding in KSSTA with robust methodology.",
+      "bullets": [
+        "For partial-thickness posterosuperior rotator cuff tears, conservative treatment for at least 6 months is the recommended first-line approach before considering surgery.",
+        "Trans-tendon repair carries a higher risk of postoperative stiffness than completing the tear and repairing it, though both techniques produce similar return-to-sport rates.",
+        "Treatment decisions should be individualized based on patient activity level, symptoms, tear morphology, and tissue quality rather than a single fixed algorithm."
+      ]
+    },
+    {
+      "pmid": "42767527",
+      "title": "Increased Risk of Periprosthetic Joint Infection Following Aseptic Revision Hip and Knee Arthroplasty With the Use of Non-Cefazolin Alternative Antibiotics.",
+      "authors": [
+        "Panos JA",
+        "Mallinger BD",
+        "Virk A",
+        "Sierra RJ",
+        "Abdel MP",
+        "Wyles CC"
+      ],
+      "authors_short": "Panos JA, Mallinger BD, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Although perioperative cefazolin antibiotic prophylaxis is associated with a reduced risk of periprosthetic joint infection (PJI) in primary total joint arthroplasty (TJA) compared to non-cefazolin alternatives, its relative efficacy in the aseptic revision setting is less defined. Furthermore, the roles of postoperative oral antibiotic prophylaxis and the management of unexpected positive cultures (UPC) remain controversial. Therefore, we examined PJI in aseptic revision TJA based on (1) perioperative antibiotic prophylaxis, (2) postoperative oral antibiotic regimen, and (3) UPC status. METHODS: We evaluated all patients undergoing aseptic revision total knee arthroplasty (TKA) and total hip arthroplasty (THA) at a single academic institution between January 2000 and March 2024, yielding 5,993 revision arthroplasties (n = 3,429 THA, n = 2,564 TKA). Cases were analyzed based on perioperative antibiotic type (cefazolin versus non-cefazolin), postoperative oral antibiotic regimen, and intraoperative culture results. Cox proportional hazards regressions were used to determine survivorship free from PJI. RESULTS: Among this cohort, 94% received cefazolin perioperative prophylaxis. In total, 234 cases (4%) subsequently developed PJI. Cefazolin perioperative prophylaxis was associated with significantly higher survivorship free from PJI compared to non-cefazolin alternatives (hazard ratio (HR): 0.5; P = 0.006). In patients receiving perioperative cefazolin, the addition of oral antibiotics with either cefadroxil or cephalexin did not significantly reduce PJI risk compared to no oral antibiotics. The incidence of UPCs was 4%, most commonly coagulase-negative Staphylococcus (44%), and was not significantly associated with subsequent PJI (HR: 1.5; P = 0.21). CONCLUSION: Perioperative cefazolin prophylaxis is a critical modifiable risk factor, providing a substantial protective effect against PJI in aseptic revision TJA. In contrast, extended oral antibiotic prophylaxis provided no additional benefit for culture-negative patients. While UPCs occurred in 4% of cases, only one case subsequently developed PJI with a concordant microorganism. These findings reinforce the importance of standardized cefazolin prophylaxis over alternative agents in aseptic revision TJA.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42767527/",
+      "score": 79,
+      "score_reasoning": "Large single-institution study of 30,246 primary THAs over 25 years provides strong evidence for approach-specific bearing surface selection to minimize dislocation risk, directly actionable for every hip arthroplasty surgeon.",
+      "bullets": [
+        "In nearly 6,000 aseptic revision hip and knee arthroplasties, patients who received non-cefazolin perioperative prophylaxis had twice the risk of developing periprosthetic joint infection compared to those who received cefazolin.",
+        "Adding oral cephalosporin antibiotics postoperatively did not reduce infection risk in revision arthroplasty patients who were already covered with perioperative cefazolin and had negative intraoperative cultures.",
+        "Unexpected positive intraoperative cultures occurred in 4% of aseptic revisions but were not associated with subsequent periprosthetic joint infection, suggesting routine treatment of these findings may not be warranted."
+      ]
+    },
+    {
+      "pmid": "42770603",
+      "title": "Clinical outcomes and complication rates following medial collateral ligament reconstruction using Achilles tendon allograft or hamstring tendon autograft: A systematic review.",
+      "authors": [
+        "Sian R",
+        "See A",
+        "Alqeisi T",
+        "Meena A",
+        "Dalgleish S",
+        "de Sa D",
+        "Davies P",
+        "D'Alessandro P",
+        "Ng J",
+        "Malik SS"
+      ],
+      "authors_short": "Sian R, See A, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: The medial collateral ligament (MCL) is the most commonly injured knee ligament, yet indications for reconstruction remain debated. Although consensus statements support allograft and hamstring autograft, comparative evidence regarding graft superiority is limited. This systematic review evaluated patient-reported outcome measures (PROMs) and complication rates following MCL reconstruction using Achilles tendon (AT) allograft or hamstring autograft. METHODS: A systematic review was undertaken according to the preferred reporting items for systematic reviews and meta-analyses (PRISMA) guidelines. PubMed, Cochrane, Google Scholar and Scopus were searched on 11th February 2026. Studies published within the previous 20 years that included patients aged \u226516 years undergoing MCL reconstruction with hamstring autograft or AT allograft and reporting clinical, functional and patient-reported outcomes were included. Data extraction and risk of bias assessment were performed. Due to heterogeneity, findings were narratively synthesised. RESULTS: Sixteen studies were included: six AT allograft studies (n\u2009=\u2009107; four using a bone block) and ten hamstring autograft studies (n\u2009=\u2009275). Mean age was 33.9 and 31.3 years, with mean follow-up of 37 and 29.1 months, respectively. Mean postoperative international knee documentation committee (IKDC) and Lysholm scores were 81.1 and 86.8 for allograft and 78.8 and 87.2, respectively, for autograft. Three allograft and six hamstring autograft studies reported preoperative and postoperative PROMs, all demonstrated significant improvement (p\u2009<\u20090.05). Complication rates were 11.2% for AT allograft and 4.0% for hamstring autograft. AT allograft complications included two graft failures, four cases of residual asymptomatic valgus instability, three infections and three other complications. Hamstring autograft complications included one graft failure, four cases of asymptomatic valgus instability, three manipulations, one infection and two removals of hardware. CONCLUSION: Both AT allograft and hamstring tendon autograft significantly improve PROMs following MCL reconstruction. AT allografts demonstrated a numerically higher complication rate; however, the evidence is indirect and insufficient to determine the superiority of either graft type. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42770603/",
+      "score": 78,
+      "score_reasoning": "Multicenter retrospective study of 1,012 patients developing a validated 8-point scoring system for osteonecrosis risk after femoral neck fracture fixation in younger patients addresses a common high-stakes clinical decision with novel, immediately applicable risk stratification.",
+      "bullets": [
+        "Both Achilles tendon allograft and hamstring autograft improve knee function after MCL reconstruction, with similar postoperative IKDC and Lysholm scores across graft types.",
+        "Achilles tendon allograft had a complication rate of 11.2% versus 4.0% for hamstring autograft, driven largely by infection and residual valgus instability in the allograft group.",
+        "For surgeons reconstructing the MCL, current evidence does not establish one graft as superior, so graft choice should be guided by patient factors and surgeon familiarity."
+      ]
+    },
+    {
+      "pmid": "42767360",
+      "title": "Early Postoperative Predictors of Two-Year Satisfaction after Ream and Run Arthroplasty.",
+      "authors": [
+        "Levins JG",
+        "Yamaguchi JT",
+        "Whitson AJ",
+        "Matsen FA",
+        "Schiffman CJ",
+        "Hsu JE"
+      ],
+      "authors_short": "Levins JG, Yamaguchi JT, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Treatment of glenohumeral arthritis in the young, active patient is challenging. The ream-and-run (RnR) arthroplasty allows for unrestricted activity but in some patients can include difficult and longer post-operative rehabilitation and a higher early revision rate. Improvement can occur up to 2 years after surgery, but counseling on expectations in the early postoperative period is uncertain. The objective of this study was to determine if shoulder pain at rest and with sleep in the early post-operative period were predictive of satisfaction at 2 years post-operatively. METHODS: This study included 375 patients from a longitudinally maintained shoulder arthroplasty database who underwent RnR with minimum 2-year follow-up. Preoperative Simple Shoulder Test (SST) scores, baseline characteristics, and postoperative SST scores were collected at regular intervals. Satisfaction was assessed at 24 months. We specifically examined responses to the SST Questions 1 (SST-1) and 2 (SST-2): \"is your shoulder comfortable at rest?\" and \"does your shoulder allow you to sleep comfortably at night?\" at 3 and 6 months postoperative in patients who were or were not satisfied at 24 months. Positive and negative predictive values (PPV and NPV) were calculated. A multivariate binomial logistic regression was performed to control for age, sex, prior surgery, and baseline SST to determine whether patient responses of SST-1 and SST-2 at 3 and 6 months were associated with 2-year satisfaction. RESULTS: Male sex (satisfied 96.6% vs. dissatisfied 84.5%, p<0.018) and nondiabetic status (satisfied diabetics 2.1% vs dissatisfied diabetics 8.3%, p=0.036) were patient factors associated with 2-year satisfaction. The PPV of SST-1 was nearly 80% at every time point, and the NPV of SST-1 reached 80% at 3 months and 1 year. The PPV of SST-2 was greater than 80% at every postoperative time point, while the NPV rose to 50.6% at 6 months and 63.6% at 12 months. From the multivariable analysis at 3 months, a positive response to SST-1 was associated with a 15.7 times increased odds of 2-year satisfaction (95% CI 4.09-60.41, p<0.001). At 6 months, a positive response to SST-2 was associated with a 6.2 times increased odds of satisfaction (95% CI 3.42-11.06, p<0.001). CONCLUSIONS: Shoulder comfort at rest at 3 months and shoulder comfort during sleep at 6 months are independent predictors of 2-year satisfaction after RnR. These data can be considered in determining prognosis for patients in the early recovery after ream and run arthroplasty. LEVEL OF EVIDENCE: Level IV, Case Series, Prognosis Study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42767360/",
+      "score": 76,
+      "score_reasoning": "Systematic review of 78 RCTs with 8,515 patients on periarticular injection cocktails for TKA provides high-quality synthesized evidence directly guiding postoperative pain management protocols in one of the most commonly performed orthopaedic procedures.",
+      "bullets": [
+        "Patients who report comfortable rest pain at 3 months and comfortable sleep at 6 months after ream-and-run arthroplasty are highly likely to be satisfied at 2 years.",
+        "Male sex and no diabetes are patient-level factors associated with 2-year satisfaction after ream-and-run arthroplasty.",
+        "Two simple yes/no questions about rest and sleep comfort at routine early follow-up visits can help surgeons counsel active patients on expected outcomes after ream-and-run arthroplasty."
+      ]
+    },
+    {
+      "pmid": "42770973",
+      "title": "ArtiFacts: The Surgeon Who Hated Rust and Dirt Like the Black Death.",
+      "authors": [
+        "Drost A"
+      ],
+      "authors_short": "Drost A",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42770973/",
+      "score": 66,
+      "score_reasoning": "Large single-institution PAO cohort (665 patients) with up to 10-year follow-up detailing probability and timeline of achieving MCID/SCB/PASS thresholds provides critical preoperative counseling benchmarks for hip preservation surgeons.",
+      "bullets": [
+        "This paper is a historical or commentary piece with no clinical study data or patient outcomes to summarize.",
+        "No findings, patient population, or treatment comparisons are reported in the abstract.",
+        "Orthopaedic surgeons seeking clinical guidance cannot extract practice-changing information from this article."
+      ]
+    },
+    {
+      "pmid": "42775681",
+      "title": "Cerclage for Fracture Reduction is Not Associated with Nonunion in Vancouver B or C Periprosthetic Femur Fractures with Stable Implants: A Multicenter Retrospective Study.",
+      "authors": [
+        "Leland CR",
+        "Wong AW",
+        "Lehle CH",
+        "Wagner RK",
+        "Grisdela PT",
+        "Borgida JS",
+        "Aneja A",
+        "Ly TV",
+        "Suneja N",
+        "Wixted JJ",
+        "Appleton PT",
+        "Rodriguez EK",
+        "Harris MB",
+        "Weaver MJ",
+        "von Keudell AG",
+        "Stenquist DS"
+      ],
+      "authors_short": "Leland CR, Wong AW, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To determine whether circumferential cerclage wiring for fracture reduction during lateral locked plating (LLP) of Vancouver B1 and C periprosthetic femur fractures is associated with nonunion. METHODS: Design: Retrospective cohort study. SETTING: Three academic Level I trauma centers. PATIENT SELECTION CRITERIA: Patients aged >50 years with a Vancouver B1 or C periprosthetic femur fracture (OTA/AO IV.3B1 and IV.3C) who underwent open reduction and internal fixation with a single LLP with or without circumferential cerclage for fracture reduction from 2010-2023 were included. OUTCOME MEASURES AND COMPARISONS: The primary outcome was nonunion. The association between cerclage use and nonunion was assessed using multivariable logistic regression controlling for age, sex, ASA classification, and Vancouver classification. Secondary outcomes included deep infection and implant revision. RESULTS: 141 patients were included: 102 patients (72%; median age 78 years [IQR, 70-87]; 67% female) were treated with cerclage for fracture reduction and 39 patients (28%; median age 82 years [IQR, 70-89]; 85% female) were not. More patients treated with cerclage sustained a Vancouver B1 than Vancouver C fracture (n=78/102 [76%] vs. n=24/39 [24%]; P<0.001). Plates were longer (16 holes [IQR, 13-18] vs. 14 holes [IQR, 13-16]; P=0.02), stainless steel (n=91/102 [89%] vs. n=27/39 [69%]; P<0.01), and used in neutralization mode (n=96/102 [94%] vs. n=28/39 [72%]; P=0.001) in patients treated with cerclage. Nonunion occurred in 4 patients (4%) treated with cerclage and 4 patients (10%) without (P=0.30). Cerclage use was not associated with developing nonunion in multivariable regression (adjusted odds ratio, 0.3; 95% CI, 0.1-1.8; P=0.19). Infection occurred in 6 patients (6%) treated with cerclage and 0 patients (0%) without (P=0.28). Implant revision occurred in 8 patients (8%) treated with cerclage and 6 patients (15%) without (P=0.31). CONCLUSIONS: While baseline between-group differences were noted in Vancouver classification, the judicious use of circumferential cerclage wiring for fracture reduction and stabilization in Vancouver B and C periprosthetic femur fractures with stable implants was not associated with nonunion. No differences were noted in incidence of deep infection or implant revision following cerclage use in this population. LEVEL OF EVIDENCE: Therapeutic Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42775681/",
+      "score": 64,
+      "score_reasoning": "Retrospective cohort of 307 type III open lower extremity fractures comparing ceftriaxone vs. cefazolin plus gentamicin prophylaxis addresses a clinically controversial antibiotic selection question with relevant infection and AKI outcomes.",
+      "bullets": [
+        "Cerclage wiring used for fracture reduction during lateral locked plating of Vancouver B1 and C periprosthetic femur fractures did not increase nonunion rates compared to plating without cerclage.",
+        "Nonunion occurred in 4% of patients treated with cerclage versus 10% without, and cerclage use was not associated with higher rates of deep infection or implant revision.",
+        "Surgeons can use cerclage wires to aid reduction in periprosthetic femur fractures around stable implants without concern that the wires themselves are contributing to healing failure."
+      ]
+    },
+    {
+      "pmid": "42803213",
+      "title": "Comparable Survivorship and Clinically Significant Outcome Achievement With Both Interportal and T-Type Capsulotomy in Contemporary Hip Arthroscopy: A Propensity Score-Matched Analysis.",
+      "authors": [
+        "Brinkman JC",
+        "Monty TL",
+        "Sparks CA",
+        "Kunze KN",
+        "Nho SJ"
+      ],
+      "authors_short": "Brinkman JC, Monty TL, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Interportal and T-type capsulotomy are the most common capsulotomy techniques in contemporary hip arthroscopy. Given the critical role of the hip capsule in maintaining joint stability, the extent and configuration of capsulotomy may have meaningful implications for postoperative outcomes. However, investigations directly comparing clinical outcomes of capsulotomy types in a contemporary study population are lacking. PURPOSE: To compare patient-reported outcomes (PROs), achievement of clinically significant outcomes, and reoperation-free survival between interportal and T-capsulotomy in patients undergoing hip arthroscopy at a minimum 2-year follow-up. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: Patients who underwent hip arthroscopy between October 2020 and November 2022 with \u22652-year follow-up were included. Patients with interportal capsulotomy were propensity score matched to patients with T-capsulotomy by age, sex, and body mass index. All patients underwent capsular closure. PROs included the Hip Outcome Score-Activities of Daily Living (HOS-ADL), Hip Outcome Score-Sports Specific Subscale (HOS-SSS), 12-item International Hip Outcome Tool (iHOT-12) score, Patient-Reported Outcomes Measurement Information System-Pain Interference (PROMIS-PI) score, and Patient-Reported Outcomes Measurement Information System-Physical Function (PROMIS-PF) score. Achievement of the minimal clinically important difference (MCID), patient acceptable symptom state (PASS), and substantial clinical benefit (SCB) and reoperation rates were compared. RESULTS: A total of 52 patients with interportal capsulotomy were matched 1:4 to 206 patients with T-capsulotomy (mean age, 32.7 \u00b1 13.8 years; female sex, 85.3%). The mean preoperative alpha angles were not different between groups (interportal: 54.1\u00b0\u00b1 9.6\u00b0; T-type: 56.5\u00b0\u00b1 9.2\u00b0; P = .18). Preoperatively, the interportal group exhibited a higher mean PROMIS-PI score (63.1 \u00b1 5.4 vs 61.0 \u00b1 6.2; P = .02), but similar HOS-ADL, HOS-SSS, and iHOT-12 score (P\u2265 .24). Postoperatively, there was no difference in alpha angles between the cohorts (interportal: 40.7\u00b0\u00b1 3.3\u00b0; T-type: 40.9\u00b0\u00b1 4.2\u00b0; P = .92). There was also no difference in any postoperative PROs (P\u2265 .10). The interportal group exhibited a larger decrease in PROMIS-PI score (-15.8 vs -11.8; P = .03), but no differences were found for any other PRO (P\u2265 .11). There were no differences in rates of achieving the MCID (93.5% and 92.8%, respectively; P > .99), PASS (88.2% and 83.0%, respectively; P = .52), or SCB (78.4% and 77.5%, respectively ; P > .99) between the interportal and T-type cohorts for any PRO. The 2 cohorts demonstrated similar reoperation-free survivorship (98% and 98%, respectively; P = .81). CONCLUSION: Interportal and T-capsulotomy result in comparable PROs, rates of clinically meaningful improvement, and reoperation-free survivorship at a minimum follow-up of 2 years. These findings suggest that when combined with appropriate capsular closure, either capsulotomy technique provides comparable clinical outcomes for patients not requiring the additional visualization afforded by a T-capsulotomy.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42803213/",
+      "score": 62,
+      "score_reasoning": "Prospective controlled study of 151 pediatric forearm fractures demonstrating that vitamin D deficiency significantly impairs healing and high-dose supplementation accelerates union is novel and clinically relevant to pediatric orthopaedists.",
+      "bullets": [
+        "At 2 years after hip arthroscopy with capsular closure, interportal and T-type capsulotomy produce equivalent patient-reported outcomes across all measured hip function and pain scores.",
+        "Roughly 93% of patients in both groups reached the minimal clinically important difference, and reoperation-free survival was 98% in each group.",
+        "For patients not requiring extra joint visualization, surgeons can choose either capsulotomy technique without compromising outcomes, provided the capsule is closed."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-09-29T09:20:55.641962-07:00"
+}
