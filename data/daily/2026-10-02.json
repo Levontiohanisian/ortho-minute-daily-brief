@@ -1,0 +1,310 @@
+{
+  "brief_date": "2026-10-02",
+  "brief_date_display": "Friday, October 02",
+  "candidates": [
+    {
+      "pmid": "42821763",
+      "title": "Does Early Surgery Reduce Mortality Compared With Delayed Surgery Among Patients With Periprosthetic Hip Fracture? A Target Trial Emulation.",
+      "authors": [
+        "Yoshiyama T",
+        "Fukasawa T",
+        "Anno T",
+        "Masuda S",
+        "Matsuda S",
+        "Kawakami K"
+      ],
+      "authors_short": "Yoshiyama T, Fukasawa T, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Previous observational studies comparing early versus delayed surgery for periprosthetic hip fractures may yield inaccurate estimates because they did not account for immortal time. Immortal time refers here to the period during which patients had to remain alive to be classified in the delayed surgery group. Patients who died before delayed surgery could not enter that group, potentially making delayed surgery appear safer than it truly was. Although early surgery is recommended for native hip fractures, whether it improves survival after periprosthetic hip fracture remains uncertain because prior null findings may reflect either no true effect or bias arising from immortal time. We therefore used a target trial emulation framework to estimate the effect of early versus delayed surgery strategies on short-term mortality. QUESTIONS/PURPOSES: (1) When immortal time is appropriately addressed, what is the estimated effect of an early surgery strategy (within 2 days after admission) compared with a delayed surgery strategy (3 to 10 days after admission) on 30- and 90-day mortality risks? (2) How do mortality estimates from a conventional analysis based on observed surgical timing, which is susceptible to immortal time, compare with those from the target trial emulation? METHODS: Using 2014 to 2024 data from a Japanese hospital administrative database, we identified 4626 potentially eligible patients who were hospitalized with periprosthetic hip fractures. The database captured admission dates, procedure dates, and mortality across many hospitals, enabling analysis of surgical timing and short-term mortality for this relatively uncommon fracture. We excluded 1.3% (62 of 4626): 0.3% (14) who were younger than 45 years, 0.2% (11) who had pathologic fractures, and 0.8% (37) who were treated at institutions where data submission was temporarily suspended during the 90-day follow-up window, leaving 4564 eligible patients. We used the clone-censor-weight approach to emulate a randomized trial and estimate the observational analog of the per-protocol effect. On day 0 (admission), each patient was cloned, and one clone was assigned to each strategy. Thus, both strategies included the same patients at baseline (mean age 84 years; 80% female), and all baseline characteristics were identical by design. Clones were artificially censored for nonadherence to the assigned strategy, and inverse probability weighting was used to adjust for selection bias from artificial censoring and loss to follow-up. Of 4564 clones assigned to each strategy, 11% (510) in the early surgery strategy and 34% (1564) in the delayed surgery strategy were not artificially censored for nonadherence. Loss to follow-up before 30 days occurred in 2.9% (132) and 7.5% (341), respectively; before 90 days, it occurred in 4.1% (189) and 11.8% (538), respectively. Weighted pooled logistic regression estimated mortality risks, risk differences, and risk ratios at 30 and 90 days; 95% confidence intervals (CIs) were obtained from 500 bootstrap samples. As a methodologic benchmark, we also estimated mortality using a conventional classification based on observed surgical timing (days 0 to 2 versus days 3 to 10), recognizing that this postbaseline classification was susceptible to immortal time. RESULTS: At 30 days, there was no clear evidence of a difference in mortality risk between the strategies, although the estimates were higher under the early strategy (1.72% versus 0.83%; risk difference 0.89% [95% CI -0.32% to 1.72%]; risk ratio 2.06 [95% CI 0.64 to 3.73]). At 90 days, there was no clear evidence of a difference, and the effect estimates were near the null (2.35% versus 2.31%; risk difference 0.04% [95% CI -1.08% to 1.24%]; risk ratio 1.01 [95% CI 0.59 to 1.68]). Complete-case estimates were similar, and subgroup estimates were imprecise, with no consistent evidence of effect modification by age or sex. Compared with the emulation, the benchmark analysis yielded lower estimated 30-day mortality risks in both surgical timing groups: 1.10% in the early surgery group and 0.48% in the delayed-surgery group (risk difference 0.62% [95% CI -0.20% to 1.80%]; risk ratio 2.27 [95% CI 0.74 to 14.10]); the estimated 90-day mortality risks were 2.08% and 2.05%, respectively (risk difference 0.03% [95% CI -1.55% to 1.83%]; risk ratio 1.01 [95% CI 0.36 to 2.22]). CONCLUSION: Our findings do not support assuming that the 48-hour standard for native hip fractures applies to periprosthetic hip fractures solely to reduce short-term mortality. Surgeons may consider the time required for medical stabilization and operative planning, although our findings do not justify avoidable delay because other outcomes were not evaluated. The lower 30-day estimates obtained using observed surgical timing highlight potential bias from postbaseline classification, including immortal time and selection based on eventual surgery; the 90-day estimates were similar. Because causal interpretation relies on unverifiable assumptions, and residual bias from unmeasured factors remains possible, future observational studies should emulate target trials and incorporate fracture severity, operative complexity, and surgical resources to evaluate complications, reoperation, and functional recovery. LEVEL OF EVIDENCE: Level \u2162, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42821763/",
+      "score": 72,
+      "score_reasoning": "High-quality target trial emulation from CORR addressing immortal time bias in periprosthetic hip fracture surgical timing\u2014a clinically important and methodologically sophisticated study with a large sample (4626 patients) directly relevant to practicing surgeons.",
+      "bullets": [
+        "In periprosthetic hip fractures, surgery within 48 hours did not clearly reduce 30-day or 90-day mortality compared with surgery at 3 to 10 days after admission.",
+        "The 48-hour rule established for native hip fractures should not be automatically applied to periprosthetic hip fractures based on short-term survival data alone.",
+        "Surgeons can reasonably take time for medical optimization and operative planning before fixing a periprosthetic hip fracture without evidence of mortality harm from short delays."
+      ]
+    },
+    {
+      "pmid": "42805713",
+      "title": "Preoperative Contralateral Joint And/Or Back Pain Impact on Achieving the Substantial Clinical Benefit for Hip Disability and Osteoarthritis Outcome Score-Joint Replacement.",
+      "authors": [
+        "Elmenawi KA",
+        "Jevnikar BE",
+        "Oyem PC",
+        "Jin Y",
+        "Krebs VE",
+        "Molloy RM",
+        "Deren ME",
+        "Piuzzi NS"
+      ],
+      "authors_short": "Elmenawi KA, Jevnikar BE, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: The Centers for Medicare & Medicaid Services recently mandated reporting of patient-reported outcome measures following primary total hip arthroplasty (THA), with emphasis on the substantial clinical benefit (SCB) threshold for the Hip Disability and Osteoarthritis Outcome Score-Joint Replacement (HOOS-JR). The impact of preoperative back and/or contralateral hip pain on achieving SCB and other validated patient-reported outcome measure thresholds remains unclear. METHODS: We retrospectively analyzed a prospective cohort of 4,412 Medicare primary elective unilateral THAs (2016 to 2023). Patients were stratified by preoperative back and/or contralateral hip pain and severity. Outcomes included achievement of SCB (22-point improvement in HOOS-JR), minimal clinically important difference, patient-acceptable symptom state, and satisfaction at one year. Multivariable logistic regression was adjusted for demographic, clinical, and socioeconomic factors. RESULTS: Patients who had both back and contralateral hip pain had the highest odds of failing to achieve SCB (odds ratio (OR) 3.1, 95% confidence interval (CI) 2.4 to 4.1; P < 0.001), followed by isolated contralateral hip pain (OR 1.7, 95% CI 1.1 to 2.6; P = 0.01) and isolated back pain (OR 1.6, 95% CI 1.2 to 2.0; P = 0.002). Risk increased proportionally with pain severity (mild/moderate back pain: OR 1.7; severe back pain: OR 2.8; both P < 0.001). Similar, though less pronounced, patterns were observed for minimal clinically important difference and patient-acceptable symptom state thresholds across HOOS domains. Patients who have both pain sources also reported the highest risk of dissatisfaction (OR 2.1, 95% CI 1.5 to 3.0; P < 0.001). CONCLUSIONS: Preoperative back and contralateral hip pain, particularly when severe or concurrent, strongly and independently reduce the likelihood of achieving SCB for HOOS-JR following primary THA. These findings underscore the need for risk adjustment under the Centers for Medicare & Medicaid Services patient-reported outcome performance measure framework and highlight the value of multidisciplinary management of comorbid pain to optimize outcomes and ensure equitable benchmarking in value-based care. LEVEL OF EVIDENCE: II (Prospective).",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42805713/",
+      "score": 70,
+      "score_reasoning": "Large prospective registry study (4412 Medicare THAs) from JBJS examining how preoperative contralateral joint/back pain affects achievement of CMS-mandated HOOS-JR SCB threshold\u2014directly actionable for preoperative counseling in a high-volume practice.",
+      "bullets": [
+        "Patients with both back pain and contralateral hip pain before THA are three times more likely to miss the HOOS-JR improvement threshold at one year compared to those with neither condition.",
+        "The risk of missing meaningful outcome benchmarks rises with pain severity and number of pain sources, and dissatisfaction is twice as common when both pain sources are present preoperatively.",
+        "Orthopaedic surgeons should document back and contralateral hip pain before THA, as these factors independently predict worse outcomes and support the case for risk-adjusted CMS reporting."
+      ]
+    },
+    {
+      "pmid": "42777066",
+      "title": "Extra-Articular Malunions and Nonunions of the Scapular Body and Neck: A Comparison of Functional Outcomes Before and After Reconstruction.",
+      "authors": [
+        "Cole PA",
+        "Xu JL",
+        "Huaco AA",
+        "LaRoque MC",
+        "Winter JD"
+      ],
+      "authors_short": "Cole PA, Xu JL, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Malunions and nonunions of scapular neck and body fractures can cause considerable pain and disability. This study reports outcomes regarding functional measures, range of motion, and strength before and after reconstruction. METHODS: This retrospective case series at a Level-1 trauma center between 2003 and 2024 identified 50 consecutive patients (mean age, 50.3 years; 82% male; 80% White) with symptomatic malunion or nonunion of a scapular neck and/or body fracture who were referred to a single surgeon. Medial-lateral displacement and angular deformity were corrected through surgical reconstruction and malunion osteotomy. The Disabilities of the Arm, Shoulder and Hand (DASH) score, range of motion, strength, and postoperative procedures requiring a return to the operating room were recorded. RESULTS: Fifty patients were included in the study; 5 patients were lost to follow-up before 12 months, leaving 45 patients (40 with malunion and 5 with nonunion) with >1-year outcomes. Eleven patients underwent reconstruction between 6 weeks and 3 months after injury because of the severity of the injury, their symptoms, and/or the necessity of an osteotomy. The median time from injury to reconstruction was 10 months (interquartile range [IQR] width, 16 months), and the median follow-up was 28.9 months (IQR width, 23.2 months). All patients achieved radiographic evidence of union. No intraoperative complications occurred. There was a mean 30.7-point improvement between the preoperative and final postoperative DASH scores (p < 0.001). The mean postoperative DASH score was 14.1 in patients who underwent reconstruction between 6 weeks and 3 months and was 23.2 in those who underwent reconstruction after 3 months. Forward flexion and abduction demonstrated significant increases in both range of motion and strength from preoperatively to postoperatively. External rotation range of motion and strength showed no significant increases. Subsequent procedures were performed in 12 patients: 8 patients underwent symptomatic implant removal (1 also underwent concurrent manipulation under anesthesia), 1 patient underwent open reduction and internal fixation for a new fracture, 2 patients underwent implant revision (1 also underwent concurrent manipulation under anesthesia), and 1 patient underwent manipulation under anesthesia for shoulder contracture. CONCLUSIONS: Extra-articular scapular malunions and nonunions can be associated with considerable pain and disability. Deformity correction improved range of motion and strength and reduced disability in this cohort. A principled reconstruction can be successful in addressing the sequelae of displaced scapular fractures. LEVEL OF EVIDENCE: Therapeutic Level IV. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42777066/",
+      "score": 69,
+      "score_reasoning": "Large prospective database study of 5206 AIS patients from JBJS providing comprehensive analysis of IONM alert rates, curve-specific risk factors, and neurologic outcomes\u2014highly relevant for spine surgeons performing AIS surgery.",
+      "bullets": [
+        "Surgical reconstruction of symptomatic scapular neck and body malunions or nonunions produced a mean 31-point improvement in DASH scores and achieved union in all 45 patients with over one year of follow-up.",
+        "Forward flexion and abduction improved significantly after surgery, but external rotation range of motion and strength did not, which is important to set realistic expectations with patients preoperatively.",
+        "Earlier reconstruction between 6 weeks and 3 months yielded better final DASH scores than delayed surgery, suggesting symptomatic displaced scapular fractures should be referred for specialist evaluation promptly."
+      ]
+    },
+    {
+      "pmid": "42814846",
+      "title": "Global Projection of Revision Total Hip and Knee Arthroplasty Through 2060: A 17-Country Analysis Using Worldwide Registry Data.",
+      "authors": [
+        "Adolf J",
+        "Karl\u0131da\u011f T",
+        "Citak M"
+      ],
+      "authors_short": "Adolf J, Karl\u0131da\u011f T, Citak M",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: The expanding pool of primary hip and knee arthroplasty implants in situ will generate a growing burden of revision arthroplasty. Projections for several individual countries have been published, but heterogeneous methods and time horizons prevent direct aggregation. We used a uniform method to estimate annual revision total hip arthroplasty (rTHA) and revision total knee arthroplasty (rTKA) volumes through 2060 for 17 registry-equipped countries. METHODS: Annual rTHA and rTKA counts were extracted from each country's most recent register annual report or registry-based publications. Adult (\u226525 years) population denominators were taken from the UN World Population Prospects 2024 medium variant. For each country and procedure, we fitted a log-linear Poisson generalized linear model with the year as a covariate and ln(population) as an offset; each fitted trend was partially pooled across countries, bounded at \u00b12.0% per year, and damped over the projection horizon. Three sensitivity analyses (demographic-only, half-trend Poisson, logistic saturation) were also performed to bracket modeling uncertainty. RESULTS: In 2024, the modeled 17-country aggregate was 185,921 rTHA and 189,689 rTKA procedures. Under the primary capped Poisson model, the 2060 aggregate reached 243,404 rTHAs and 267,456 rTKAs, corresponding to increases of 31% and 41%, respectively, relative to 2024. Country-level volume trajectories were heterogeneous: the United States and People's Republic of China drove most absolute growth, while Germany, the United Kingdom, and Sweden approached plateaus by mid-century and Japan was projected to have a decline. The 4 projection methods spanned 2060 combined volumes of \u2053461,000 (demographic-only) to \u2053511,000 (primary model) procedures. CONCLUSIONS: Across 17 countries that perform most of the world's hip and knee arthroplasties, annual revision volumes are projected to grow by approximately one-third (36% in aggregate; 31% for rTHA and 41% for rTKA) by 2060 under the primary model. The United States and China account for the largest absolute growth; mature European systems flatten, and Japan declines. These projections have direct implications for revision-fellowship pipelines, perioperative infection-prevention programs, and registry infrastructure. LEVEL OF EVIDENCE: Prognostic Level IV. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42814846/",
+      "score": 68,
+      "score_reasoning": "Large multicenter global projection study from JBJS using 17-country registry data to forecast revision THA/TKA volumes through 2060\u2014critical health-system planning data with direct implications for arthroplasty surgeons.",
+      "bullets": [
+        "Across 17 countries, annual revision hip and knee arthroplasty volumes are projected to grow by roughly one-third by 2060, with revision TKA rising 41% and revision THA rising 31%.",
+        "The United States and China drive most of the absolute increase, while Germany, the UK, and Sweden plateau and Japan is projected to decline.",
+        "Orthopaedic systems should anticipate this growth now by expanding revision fellowship training, infection prevention capacity, and registry infrastructure."
+      ]
+    },
+    {
+      "pmid": "42809367",
+      "title": "Improved function and patient satisfaction with fewer residual symptoms following kinematically versus mechanically aligned total knee arthroplasty: A retrospective study from FP-UCBM Knee Study Group.",
+      "authors": [
+        "Campi S",
+        "Giurazza G",
+        "Franceschetti E",
+        "Hirschmann MT",
+        "Tanzilli A",
+        "Paciotti M",
+        "Zampogna B",
+        "Pepe M",
+        "Gregori P",
+        "Longo UG",
+        "Papalia R"
+      ],
+      "authors_short": "Campi S, Giurazza G, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To compare residual symptoms, function and patient satisfaction following unrestricted kinematic alignment (KA) versus mechanical alignment (MA) in primary total knee arthroplasty (TKA). It was hypothesized that KA would reduce residual symptoms and improve function and satisfaction. METHODS: A retrospective cohort study was conducted on 622 patients undergoing primary TKA (315 KAs and 307 MAs) for end-stage osteoarthritis between 2022 and 2024, with a minimum 1-year follow-up. All procedures used the same implant design and standardized perioperative protocols. Outcomes included patient satisfaction, functional performance, residual symptoms and joint perception, assessed using the Forgotten Joint Score (FJS) and Joint Awareness Score (JAS). Groups were compared using t tests and \u03c72 tests (p\u2009<\u20090.05). RESULTS: KA demonstrated significantly higher overall satisfaction compared with MA (94.0% vs. 81.1%; p\u2009<\u20090.001), as well as greater satisfaction with activities of daily living (92.7% vs. 83.1%; p\u2009<\u20090.001) and pain relief (90.2% vs. 82.1%; p\u2009=\u20090.005). Functional outcomes favoured KA, with fewer patients reporting difficulty getting in/out of a car (8.6% vs. 18.9%; p\u2009<\u20090.001) or chair (9.8% vs. 18.9%; p\u2009<\u20090.001), higher absence of limp (86.0% vs. 73.0%; p\u2009<\u20090.001) and greater return to activity (91.7% vs. 80.1%; p\u2009<\u20090.001). Residual symptoms were less frequent in the KA group, including pain (11.7% vs. 24.1%; p\u2009<\u20090.001) and popping (7.3% vs. 17.9%; p\u2009<\u20090.001), with a higher proportion of patients reporting a 'normal' knee (89.8% vs. 79.2%; p\u2009<\u20090.001). FJS (91.7 vs. 82.7; p\u2009<\u20090.001) and JAS (92.3 vs. 83.5; p\u2009<\u20090.001) were both significantly higher in the KA group. No statistically significant differences were observed in stair-climbing ability, swelling or stiffness. CONCLUSION: Unrestricted KA in TKA is associated with fewer residual symptoms, improved function and higher patient satisfaction compared with MA at 1 year. These findings support KA as a potential strategy to reduce the prevalence of the 'unhappy knee' after TKA. LEVEL OF EVIDENCE: Level III, retrospective comparative study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42809367/",
+      "score": 67,
+      "score_reasoning": "High-impact JBJS study from a large prospective cohort (n=4412) with clear clinical relevance to Medicare-mandated outcome reporting, examining preoperative pain predictors of SCB after THA.",
+      "bullets": [
+        "In 622 primary TKA patients at one year, kinematic alignment produced higher overall satisfaction than mechanical alignment (94% vs 81%) with less residual pain (12% vs 24%) and fewer patients reporting a limp (14% vs 27%).",
+        "Patients treated with kinematic alignment were more likely to report their knee felt normal (90% vs 79%) and had better scores on both the Forgotten Joint Score and Joint Awareness Score.",
+        "For orthopaedic surgeons performing primary TKA, kinematic alignment appears to reduce the 'unhappy knee' phenotype and may be a reasonable alignment strategy to improve patient-reported outcomes at one year."
+      ]
+    },
+    {
+      "pmid": "42822694",
+      "title": "Failure Patterns Leading to Revision After Distal Humerus Fracture Fixation: A Multicenter Study.",
+      "authors": [
+        "Elze M",
+        "Ellwein A",
+        "B\u00fclow HJ",
+        "Hollinger B",
+        "Burkhart K",
+        "Schmalzl J",
+        "Nowotny J",
+        "Cucchi D",
+        "Mader K",
+        "Maier D",
+        "Voss A",
+        "Greiner S",
+        "Leschinger T",
+        "Hackl M"
+      ],
+      "authors_short": "Elze M, Ellwein A, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Distal humerus fractures are associated with substantial complication and revision rates following operative fixation. Although overall complication frequencies are well documented, the specific mechanisms leading to revision surgery and their associated risk factors remain insufficiently characterized. PURPOSE: To analyze mechanism-specific patterns and determinants of revision surgery after operative treatment of distal humerus fractures, focusing on infectious, mechanical, and functional failure pathways. METHODS: This multicenter retrospective cohort study included 491 adult patients undergoing revision surgery after distal humerus fracture fixation across 11 specialized centers. The full cohort was used for descriptive characterization of all recorded revision causes, allowing overlapping complication categories. For the primary inferential analysis, 411 patients were included in a three-category outcome variable comprising infectious, mechanical, and functional leading revision pathways. Biological and degenerative complications were retained for descriptive characterization. Univariate and multivariable multinomial logistic regression analyses were performed to identify patient-, injury-, and treatment-related factors associated with specific revision mechanisms, using mechanical complications as the reference category. Time to revision was compared between groups. RESULTS: Mechanical complications occurred in 177 patients (43.1%), functional complications in 170 (41.4%), and infectious complications in 64 (15.6%). In the complete descriptive cohort (n = 491), functional complications represented the most frequently recorded indication for revision surgery overall. The combined category of implant malposition/secondary implant dislocation accounted for the majority of mechanical failure mechanisms. Open fractures were independently associated with infectious complications (OR 5.88, 95% CI 2.19-15.80; p < 0.001). Revision surgery for functional impairment showed a statistically significant but weak association with younger patient age (OR 0.96 per year, 95% CI 0.94-0.98; p < 0.001), whereas fracture morphology and treatment-related variables were not independently associated with functional revision pathways after adjustment. Median time to revision differed significantly between groups, occurring earliest in infectious complications (3.5 months), followed by mechanical (6.0 months) and functional complications (10.0 months). CONCLUSIONS: Revision surgery after distal humerus fracture fixation follows distinct mechanism-specific pathways rather than a uniform pattern of failure. Open fractures are strongly associated with infectious complications, whereas younger age showed only a weak association with functional revision pathways. Mechanical complications are predominantly characterized by implant malposition and secondary implant dislocation. These findings support a differentiated approach to postoperative surveillance, patient counselling, and mechanism-specific assessment.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42822694/",
+      "score": 65,
+      "score_reasoning": "Large multicenter retrospective cohort (491 revision patients across 11 centers) from JSES characterizing mechanism-specific failure patterns after distal humerus fracture fixation\u2014directly useful for surgical planning and risk counseling.",
+      "bullets": [
+        "Among 491 patients revised after distal humerus fracture fixation, failures split into three pathways: mechanical implant failure (43%), functional impairment (41%), and infection (16%).",
+        "Open fractures carried nearly six times the odds of infectious revision, which occurred earliest at a median of 3.5 months versus 6 months for mechanical and 10 months for functional failures.",
+        "Revision timing and mechanism follow predictable patterns, so surveillance after distal humerus fixation should be front-loaded for infection in open fractures and extended for functional complications in younger patients."
+      ]
+    },
+    {
+      "pmid": "42813241",
+      "title": "The Incidence and Breadth of Postoperative Pudendal Nerve Palsy and Its Relationship to Table Traction During Hip Arthroscopy With a Perineal Post.",
+      "authors": [
+        "Hoit G",
+        "Dwyer T",
+        "Chahal J",
+        "Burkhart TA",
+        "Curd E",
+        "Docter S",
+        "Farag J",
+        "Theodoropoulos J",
+        "Whelan DB"
+      ],
+      "authors_short": "Hoit G, Dwyer T, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Pudendal nerve palsy (PNP) is a poorly characterized and underreported postoperative complication of hip arthroscopy (HA) with a perineal post. PNP may result in external genital numbness and sexual dysfunction in both men and women. PURPOSE: To describe the incidence, breadth, and duration of postoperative PNP symptoms and to evaluate the relationship between PNP and intraoperative limb traction. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: All patients underwent primary unilateral HA in a supine position with a perineal post. Patients with preexisting PNP symptoms, including sexual dysfunction, were excluded. Intraoperative traction duration and force were recorded using a sensor applied to the perineal post. A PNP screening questionnaire and validated sexual function questionnaires were administered confidentially at 2 weeks, 6 weeks, 3 months, 6 months, and 12 months postoperatively. Patient-reported hip outcomes (International Hip Outcome Tool-33 [iHOT-33]) were completed preoperatively and at 6 and 12 months. RESULTS: A total of 93 patients were included (mean age, 36.4 years [SD, 9.2 years]; 55% male). The mean traction duration was 80 minutes (SD, 19 minutes). In the acute postoperative period, 77 (83%) patients experienced symptoms consistent with PNP. The most common symptoms were perineal numbness (75%), paresthesia (26%), and pain (18%). Urogenital or sexual dysfunction occurred in 39%, including erectile dysfunction in 22% of men and reduced sexual lubrication in 19% of women. At 3 months postoperatively, 26% of patients continued to have PNP symptoms, with 14% persisting to at least 6 months; all symptoms resolved by 12 months. Patients with PNP had greater traction force (MD, 18.1 kg; 95% CI, 0.3 to 37.1 kg) and longer traction time (MD, 15.4 minutes; 95% CI, 5.5 to 25.3 minutes). Longer traction duration was associated with increased odds of PNP (OR per additional 10 minutes, 1.59; 95% CI, 1.12 to 2.37). Persistence of symptoms beyond 6 weeks was associated with lower iHOT-33 scores at 6 months (MD, -14.4; 95% CI, -24.2 to -4.5). CONCLUSION: PNP symptoms were common after HA performed with perineal post traction, but most resolved within 6 months and all by 1 year. Increased traction duration and perineal pressure were significant predictors of symptom development, and persistent dysfunction correlated with lower hip-specific outcome scores.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42813241/",
+      "score": 64,
+      "score_reasoning": "Important AJSM cohort study prospectively documenting an 83% rate of pudendal nerve palsy symptoms after hip arthroscopy with perineal post including significant sexual dysfunction\u2014highly novel, underreported complication with immediate informed consent implications.",
+      "bullets": [
+        "Pudendal nerve palsy occurred in 83% of patients after hip arthroscopy with a perineal post, causing perineal numbness, erectile dysfunction in 22% of men, and reduced lubrication in 19% of women.",
+        "Longer traction time and higher perineal post force both increased the risk of pudendal nerve palsy, giving surgeons two modifiable intraoperative targets to reduce this complication.",
+        "Most symptoms resolved by 6 months and all by 12 months, but patients with symptoms persisting past 6 weeks had meaningfully worse hip outcome scores at 6 months."
+      ]
+    },
+    {
+      "pmid": "42775682",
+      "title": "Ceftriaxone versus cefazolin plus gentamicin for antibiotic prophylaxis in Gustilo-Anderson type III open lower extremity fractures.",
+      "authors": [
+        "Foster C",
+        "Richardson L",
+        "Pegg B",
+        "Garg V",
+        "Kye B",
+        "Lu X",
+        "Young P"
+      ],
+      "authors_short": "Foster C, Richardson L, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To compare fracture related infection (FRI) rates and outcomes between ceftriaxone (CTX) and cefazolin plus gentamicin (C+G) for antibiotic prophylaxis in Gustilo-Anderson (GA) type III open lower extremity fractures. METHODS: Design: Retrospective cohort study. SETTING: Single, academic level one trauma center. PATIENT SELECTION CRITERIA: Included were patients age 18-89 years with GA type III open lower extremity fractures (AO/OTA 32,33,41,42,43,4F3, 44) from 2013 to 2024 with at least 6 weeks follow-up. OUTCOME MEASUREMENTS AND COMPARISONS: The primary outcome was FRI. Secondary outcomes included acute kidney injury (AKI), nonunion, and other complications. Cox proportional hazards models and multivariable logistic regression adjusted for confounding variables. RESULTS: Of 3,334 lower extremity fractures reviewed, 307 met inclusion criteria: 229 C+G and 78 CTX. Mean age (40.4 [range 18-88] vs 41.2 [range 18-81] years, p=0.7) and sex (75.1% vs 64.1% male, p=0.084) were similar between the C+G and CTX cohorts. Mean follow-up was 23.8 months (C+G) and 14.0 months (CTX) (P=0.002). The C+G cohort had more tibial shaft fractures (34.1% vs 19.2%, P=0.014) and type IIIB injuries (19.7% vs 7.7%, P=0.014). On unadjusted analysis, there was no significant difference in FRI (18.3% vs 12.8%, P=0.343) or AKI (11.4% vs 12.8%, P=0.728) or organisms cultured. After adjusting for GA type, fracture location, time to debridement and time to antibiotics there remained no significant difference in FRI (HR=1.26, 95% CI: 0.59-2.68, P=0.545), AKI (OR=1.51, 95% CI: 0.62-3.49, P=0.349) or other complications between antibiotic regimens. Tibial shaft fractures trended towards higher risk of FRI compared to femur fractures (HR=2.15, P=0.052). GA type IIIB/C fractures (HR=3.05, p<0.001) and time to antibiotics of >60min (HR=2.56, p=0.003) were associated with higher odds of FRI. CONCLUSIONS: Ceftriaxone monotherapy demonstrated similar rate of FRI and complications compared to cefazolin plus gentamicin for Gustilo-Anderson type III open lower extremity fractures. Severity of the open fracture and time to antibiotics were independently associated with higher infection risk regardless of antibiotic regimen. LEVEL OF EVIDENCE: Therapeutic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42775682/",
+      "score": 63,
+      "score_reasoning": "Large multicenter JBJS retrospective cohort (n=10,040) from NSQIP demonstrating that adding hypoalbuminemia to the mFI-5 significantly improves discrimination for 30-day adverse outcomes in revision THA\u2014practical preoperative risk stratification tool.",
+      "bullets": [
+        "In Gustilo-Anderson type III open lower extremity fractures, ceftriaxone alone produced similar infection rates to cefazolin plus gentamicin, with no significant difference in fracture-related infection or kidney injury after adjusting for confounders.",
+        "For surgeons choosing prophylactic antibiotics in type III open leg fractures, ceftriaxone monotherapy appears to be an acceptable alternative to the traditional dual-agent regimen.",
+        "Regardless of antibiotic choice, type IIIB/C injury severity and antibiotic administration delayed beyond 60 minutes were each independently associated with higher infection risk, reinforcing the importance of rapid treatment."
+      ]
+    },
+    {
+      "pmid": "42785699",
+      "title": "Early Surgical Management of Periprosthetic Hip Fracture Does Not Reduce Mortality or Cardiopulmonary Complications: A Propensity-Matched Analysis.",
+      "authors": [
+        "Papalia AG",
+        "Ricotti RG",
+        "Frappa N",
+        "Alben MG",
+        "Ozdag Y",
+        "Sutton R"
+      ],
+      "authors_short": "Papalia AG, Ricotti RG, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Whether early surgery reduces mortality in revision total hip arthroplasty (THA) for periprosthetic proximal femur fractures (PPFF) remains unclear. The aim of this study was to evaluate the association between time to surgery and short- and long-term outcomes following PPFF. METHODS: Using a large national database, adult patients undergoing revision THA for PPFF were identified. Cohorts were defined by time from diagnosis to surgery: two days versus greater than two days. Propensity score matching (1:1) was performed on demographics and comorbidities, yielding 2,098 patients per cohort. The primary outcome was mortality at 30 days, 90 days, and one year. The secondary outcomes included myocardial infarction (MI), deep venous thrombosis (DVT), pulmonary embolism (PE), pneumonia (PNA), acute kidney injury (AKI), sepsis, surgical site infection (SSI), wound dehiscence, and transfusion. RESULTS: The 30-day mortality did not differ between early and delayed cohorts (2.4 versus 2.5%, P = 0.842). Similarly, 90-day mortality (4.8 versus 4.4%) and 1-year mortality (7.7 versus 7.9%) were equivocal. Rates of MI, DVT, PE, PNA, AKI, sepsis, SSI, and wound dehiscence were not significantly different across time windows. However, early surgery was associated with significantly higher transfusion rates at 30 (19.7 versus 16.4%, P = 0.006) and 90 days (19.9 versus 17.5%, P = 0.045). CONCLUSION: Early operative intervention (two days) for PPFF does not significantly reduce mortality or cardiopulmonary complications compared with delayed surgery (greater than two days). In contrast, early surgery was associated with higher rates of blood transfusion; however, this difference may not be clinically meaningful and should not be interpreted as a reason for unnecessary surgical delay. These findings indicate that delay to surgery beyond two days does not appear to adversely affect short-term mortality or complication rates, allowing additional time for preoperative planning and appropriate allocation of specialized resources.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42785699/",
+      "score": 61,
+      "score_reasoning": "Retrospective cohort of 622 primary TKAs comparing kinematic vs. mechanical alignment from KSTA showing significantly higher satisfaction and fewer residual symptoms with KA\u2014large sample and directly relevant to a major ongoing debate in arthroplasty.",
+      "bullets": [
+        "Surgical timing within two days versus beyond two days for periprosthetic hip fractures did not change mortality at 30 days, 90 days, or one year.",
+        "Early surgery was associated with higher transfusion rates, but no difference was seen in cardiac, pulmonary, renal, or infectious complications.",
+        "For patients with periprosthetic hip fractures requiring revision THA, delaying surgery beyond two days to allow proper planning and resource allocation appears safe."
+      ]
+    },
+    {
+      "pmid": "42801272",
+      "title": "ACL Graft Type Effects on Outcomes Were Not Significantly Modified by Medial Collateral Ligament Status in Combined ACL-MCL Injuries: A Multicenter Registry Study From the French Arthroscopic Society.",
+      "authors": [
+        "Bouguennec N",
+        "Neri T",
+        "Carrozzo A",
+        "Freychet B",
+        "Hardy A",
+        "Herce C",
+        "Kajetanek C",
+        "Ollivier M",
+        "Lutz C",
+        "Cavaignac E"
+      ],
+      "authors_short": "Bouguennec N, Neri T, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Combined anterior cruciate ligament (ACL) and medial collateral ligament (MCL) injuries are common in pivoting sport athletes and may affect postoperative stability and recovery. Although hamstring autografts are widely used, concerns persist that harvesting the semitendinosus-gracilis complex could impair medial dynamic stabilization in knees with concomitant MCL injury. HYPOTHESIS/PURPOSE: The purpose was to determine whether MCL status modifies the association between ACL graft type and postoperative patient-reported outcomes. It was hypothesized that MCL status would not significantly modify this relationship. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: This prospective multicenter registry study included patients undergoing primary ACL reconstruction between January 2020 and June 2022 in French Arthroscopy Society centers. Patients were categorized by medial injury status (isolated ACL, combined ACL-MCL treated nonoperatively, or operatively) and graft type (hamstring vs nonhamstring). The primary outcome was the International Knee Documentation Committee (IKDC) subjective score. Secondary outcomes included Anterior Cruciate Ligament-Return to Sport after Injury (ACL-RSI), Subjective Knee Value (SKV), and Tegner activity level. Inverse probability weighting based on propensity scores was used to reduce allocation bias. Weighted multivariable regression models included graft type, MCL status, and a Graft \u00d7 MCL interaction term. RESULTS: Of 722 eligible patients, 489 (67.7%) had complete outcome and covariate data and were included in the primary analysis. Nonhamstring grafts were associated with higher IKDC scores (\u03b2 = 7.89; 95% CI, 3.45-12.33; P < .001). Isolated ACL injuries showed higher IKDC scores than combined ACL-MCL injuries treated nonoperatively (\u03b2 = 10.41; 95% CI, 6.48-14.34; P < .001). The Graft \u00d7 MCL interaction was not statistically significant (operative MCL: \u03b2 = -7.02; 95% CI, -15.26 to 1.22; P = .095), providing no statistically significant evidence that MCL status modified the association between graft type and IKDC score. Nonhamstring grafts were also associated with higher ACL-RSI (\u03b2 = 6.15; 95% CI, 0.02-12.28; P = .049) and SKV (\u03b2 = 8.87; 95% CI, 4.53-13.21; P < .001), whereas no association was observed for Tegner activity level. CONCLUSION: Nonhamstring grafts were associated with higher patient-reported outcome scores overall; however, no statistically significant evidence was found that MCL status modified the association between graft type and outcomes after ACL reconstruction.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42801272/",
+      "score": 60,
+      "score_reasoning": "Prospective CORR study (102 pediatric patients) reassessing Kocher criteria diagnostic performance, finding limited discriminatory ability\u2014directly impacts clinical decision-making in pediatric MSK infection triage.",
+      "bullets": [
+        "Nonhamstring grafts (patellar tendon, quadriceps) produced better knee function and psychological readiness scores than hamstring grafts after ACL reconstruction, regardless of MCL involvement.",
+        "Combined ACL and MCL injuries had worse patient-reported outcomes than isolated ACL tears, but MCL status did not change which graft type performed better.",
+        "Surgeons do not need to avoid hamstring grafts specifically because of a concomitant MCL injury, as the graft choice effect on outcomes was the same with or without MCL damage."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-10-02T09:06:18.061818-07:00"
+}
