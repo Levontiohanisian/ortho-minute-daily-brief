@@ -1,0 +1,298 @@
+{
+  "brief_date": "2026-10-03",
+  "brief_date_display": "Saturday, October 03",
+  "candidates": [
+    {
+      "pmid": "42821763",
+      "title": "Does Early Surgery Reduce Mortality Compared With Delayed Surgery Among Patients With Periprosthetic Hip Fracture? A Target Trial Emulation.",
+      "authors": [
+        "Yoshiyama T",
+        "Fukasawa T",
+        "Anno T",
+        "Masuda S",
+        "Matsuda S",
+        "Kawakami K"
+      ],
+      "authors_short": "Yoshiyama T, Fukasawa T, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Previous observational studies comparing early versus delayed surgery for periprosthetic hip fractures may yield inaccurate estimates because they did not account for immortal time. Immortal time refers here to the period during which patients had to remain alive to be classified in the delayed surgery group. Patients who died before delayed surgery could not enter that group, potentially making delayed surgery appear safer than it truly was. Although early surgery is recommended for native hip fractures, whether it improves survival after periprosthetic hip fracture remains uncertain because prior null findings may reflect either no true effect or bias arising from immortal time. We therefore used a target trial emulation framework to estimate the effect of early versus delayed surgery strategies on short-term mortality. QUESTIONS/PURPOSES: (1) When immortal time is appropriately addressed, what is the estimated effect of an early surgery strategy (within 2 days after admission) compared with a delayed surgery strategy (3 to 10 days after admission) on 30- and 90-day mortality risks? (2) How do mortality estimates from a conventional analysis based on observed surgical timing, which is susceptible to immortal time, compare with those from the target trial emulation? METHODS: Using 2014 to 2024 data from a Japanese hospital administrative database, we identified 4626 potentially eligible patients who were hospitalized with periprosthetic hip fractures. The database captured admission dates, procedure dates, and mortality across many hospitals, enabling analysis of surgical timing and short-term mortality for this relatively uncommon fracture. We excluded 1.3% (62 of 4626): 0.3% (14) who were younger than 45 years, 0.2% (11) who had pathologic fractures, and 0.8% (37) who were treated at institutions where data submission was temporarily suspended during the 90-day follow-up window, leaving 4564 eligible patients. We used the clone-censor-weight approach to emulate a randomized trial and estimate the observational analog of the per-protocol effect. On day 0 (admission), each patient was cloned, and one clone was assigned to each strategy. Thus, both strategies included the same patients at baseline (mean age 84 years; 80% female), and all baseline characteristics were identical by design. Clones were artificially censored for nonadherence to the assigned strategy, and inverse probability weighting was used to adjust for selection bias from artificial censoring and loss to follow-up. Of 4564 clones assigned to each strategy, 11% (510) in the early surgery strategy and 34% (1564) in the delayed surgery strategy were not artificially censored for nonadherence. Loss to follow-up before 30 days occurred in 2.9% (132) and 7.5% (341), respectively; before 90 days, it occurred in 4.1% (189) and 11.8% (538), respectively. Weighted pooled logistic regression estimated mortality risks, risk differences, and risk ratios at 30 and 90 days; 95% confidence intervals (CIs) were obtained from 500 bootstrap samples. As a methodologic benchmark, we also estimated mortality using a conventional classification based on observed surgical timing (days 0 to 2 versus days 3 to 10), recognizing that this postbaseline classification was susceptible to immortal time. RESULTS: At 30 days, there was no clear evidence of a difference in mortality risk between the strategies, although the estimates were higher under the early strategy (1.72% versus 0.83%; risk difference 0.89% [95% CI -0.32% to 1.72%]; risk ratio 2.06 [95% CI 0.64 to 3.73]). At 90 days, there was no clear evidence of a difference, and the effect estimates were near the null (2.35% versus 2.31%; risk difference 0.04% [95% CI -1.08% to 1.24%]; risk ratio 1.01 [95% CI 0.59 to 1.68]). Complete-case estimates were similar, and subgroup estimates were imprecise, with no consistent evidence of effect modification by age or sex. Compared with the emulation, the benchmark analysis yielded lower estimated 30-day mortality risks in both surgical timing groups: 1.10% in the early surgery group and 0.48% in the delayed-surgery group (risk difference 0.62% [95% CI -0.20% to 1.80%]; risk ratio 2.27 [95% CI 0.74 to 14.10]); the estimated 90-day mortality risks were 2.08% and 2.05%, respectively (risk difference 0.03% [95% CI -1.55% to 1.83%]; risk ratio 1.01 [95% CI 0.36 to 2.22]). CONCLUSION: Our findings do not support assuming that the 48-hour standard for native hip fractures applies to periprosthetic hip fractures solely to reduce short-term mortality. Surgeons may consider the time required for medical stabilization and operative planning, although our findings do not justify avoidable delay because other outcomes were not evaluated. The lower 30-day estimates obtained using observed surgical timing highlight potential bias from postbaseline classification, including immortal time and selection based on eventual surgery; the 90-day estimates were similar. Because causal interpretation relies on unverifiable assumptions, and residual bias from unmeasured factors remains possible, future observational studies should emulate target trials and incorporate fracture severity, operative complexity, and surgical resources to evaluate complications, reoperation, and functional recovery. LEVEL OF EVIDENCE: Level \u2162, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42821763/",
+      "score": 82,
+      "score_reasoning": "High-quality target trial emulation addressing immortal time bias in a clinically important question about periprosthetic hip fracture surgical timing with a large database of 4626 patients, directly applicable to trauma practice.",
+      "bullets": [
+        "In patients with periprosthetic hip fractures (mean age 84, 80% female), surgery within 48 hours did not clearly reduce 30-day or 90-day mortality compared with surgery at 3 to 10 days.",
+        "The 48-hour rule established for native hip fractures does not appear to translate directly to periprosthetic hip fractures when short-term mortality is the outcome of interest.",
+        "Surgeons can reasonably use available time for medical optimization and operative planning without clear mortality penalty, though avoidable delay remains unjustified as functional outcomes were not assessed."
+      ]
+    },
+    {
+      "pmid": "42777066",
+      "title": "Extra-Articular Malunions and Nonunions of the Scapular Body and Neck: A Comparison of Functional Outcomes Before and After Reconstruction.",
+      "authors": [
+        "Cole PA",
+        "Xu JL",
+        "Huaco AA",
+        "LaRoque MC",
+        "Winter JD"
+      ],
+      "authors_short": "Cole PA, Xu JL, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Malunions and nonunions of scapular neck and body fractures can cause considerable pain and disability. This study reports outcomes regarding functional measures, range of motion, and strength before and after reconstruction. METHODS: This retrospective case series at a Level-1 trauma center between 2003 and 2024 identified 50 consecutive patients (mean age, 50.3 years; 82% male; 80% White) with symptomatic malunion or nonunion of a scapular neck and/or body fracture who were referred to a single surgeon. Medial-lateral displacement and angular deformity were corrected through surgical reconstruction and malunion osteotomy. The Disabilities of the Arm, Shoulder and Hand (DASH) score, range of motion, strength, and postoperative procedures requiring a return to the operating room were recorded. RESULTS: Fifty patients were included in the study; 5 patients were lost to follow-up before 12 months, leaving 45 patients (40 with malunion and 5 with nonunion) with >1-year outcomes. Eleven patients underwent reconstruction between 6 weeks and 3 months after injury because of the severity of the injury, their symptoms, and/or the necessity of an osteotomy. The median time from injury to reconstruction was 10 months (interquartile range [IQR] width, 16 months), and the median follow-up was 28.9 months (IQR width, 23.2 months). All patients achieved radiographic evidence of union. No intraoperative complications occurred. There was a mean 30.7-point improvement between the preoperative and final postoperative DASH scores (p < 0.001). The mean postoperative DASH score was 14.1 in patients who underwent reconstruction between 6 weeks and 3 months and was 23.2 in those who underwent reconstruction after 3 months. Forward flexion and abduction demonstrated significant increases in both range of motion and strength from preoperatively to postoperatively. External rotation range of motion and strength showed no significant increases. Subsequent procedures were performed in 12 patients: 8 patients underwent symptomatic implant removal (1 also underwent concurrent manipulation under anesthesia), 1 patient underwent open reduction and internal fixation for a new fracture, 2 patients underwent implant revision (1 also underwent concurrent manipulation under anesthesia), and 1 patient underwent manipulation under anesthesia for shoulder contracture. CONCLUSIONS: Extra-articular scapular malunions and nonunions can be associated with considerable pain and disability. Deformity correction improved range of motion and strength and reduced disability in this cohort. A principled reconstruction can be successful in addressing the sequelae of displaced scapular fractures. LEVEL OF EVIDENCE: Therapeutic Level IV. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42777066/",
+      "score": 81,
+      "score_reasoning": "Large prospective database of 5206 AIS patients providing comprehensive IONM diagnostic performance data with direct intraoperative applicability for spine surgeons treating adolescent scoliosis.",
+      "bullets": [
+        "Surgical reconstruction of scapular neck and body malunions and nonunions produced a mean 30-point improvement in DASH scores and significant gains in forward flexion and abduction strength.",
+        "Earlier surgery (6 weeks to 3 months after injury) yielded better final DASH scores than delayed reconstruction, suggesting symptomatic patients should not wait indefinitely.",
+        "All 45 patients achieved radiographic union with no intraoperative complications, though 1 in 4 needed a return to the operating room, most commonly for implant removal."
+      ]
+    },
+    {
+      "pmid": "42821659",
+      "title": "What's New in Musculoskeletal Tumor Surgery.",
+      "authors": [
+        "Ruggieri P",
+        "Breda A",
+        "Angelini A"
+      ],
+      "authors_short": "Ruggieri P, Breda A, Angelini A",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42821659/",
+      "score": 80,
+      "score_reasoning": "Well-designed multicenter retrospective cohort of 491 distal humerus fracture revision cases characterizing mechanism-specific failure patterns with direct relevance to elbow fracture surgeons.",
+      "bullets": [
+        "Limb salvage surgery continues to expand for bone and soft tissue sarcomas, with advances in implants and reconstruction allowing joint preservation in more patients.",
+        "Targeted therapies and immunotherapy are increasingly integrated with surgery for musculoskeletal tumors, changing how orthopaedic oncologists plan multimodal care.",
+        "Improved imaging and intraoperative navigation are helping surgeons achieve cleaner margins in complex tumors near critical neurovascular structures."
+      ]
+    },
+    {
+      "pmid": "42809367",
+      "title": "Improved function and patient satisfaction with fewer residual symptoms following kinematically versus mechanically aligned total knee arthroplasty: A retrospective study from FP-UCBM Knee Study Group.",
+      "authors": [
+        "Campi S",
+        "Giurazza G",
+        "Franceschetti E",
+        "Hirschmann MT",
+        "Tanzilli A",
+        "Paciotti M",
+        "Zampogna B",
+        "Pepe M",
+        "Gregori P",
+        "Longo UG",
+        "Papalia R"
+      ],
+      "authors_short": "Campi S, Giurazza G, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To compare residual symptoms, function and patient satisfaction following unrestricted kinematic alignment (KA) versus mechanical alignment (MA) in primary total knee arthroplasty (TKA). It was hypothesized that KA would reduce residual symptoms and improve function and satisfaction. METHODS: A retrospective cohort study was conducted on 622 patients undergoing primary TKA (315 KAs and 307 MAs) for end-stage osteoarthritis between 2022 and 2024, with a minimum 1-year follow-up. All procedures used the same implant design and standardized perioperative protocols. Outcomes included patient satisfaction, functional performance, residual symptoms and joint perception, assessed using the Forgotten Joint Score (FJS) and Joint Awareness Score (JAS). Groups were compared using t tests and \u03c72 tests (p\u2009<\u20090.05). RESULTS: KA demonstrated significantly higher overall satisfaction compared with MA (94.0% vs. 81.1%; p\u2009<\u20090.001), as well as greater satisfaction with activities of daily living (92.7% vs. 83.1%; p\u2009<\u20090.001) and pain relief (90.2% vs. 82.1%; p\u2009=\u20090.005). Functional outcomes favoured KA, with fewer patients reporting difficulty getting in/out of a car (8.6% vs. 18.9%; p\u2009<\u20090.001) or chair (9.8% vs. 18.9%; p\u2009<\u20090.001), higher absence of limp (86.0% vs. 73.0%; p\u2009<\u20090.001) and greater return to activity (91.7% vs. 80.1%; p\u2009<\u20090.001). Residual symptoms were less frequent in the KA group, including pain (11.7% vs. 24.1%; p\u2009<\u20090.001) and popping (7.3% vs. 17.9%; p\u2009<\u20090.001), with a higher proportion of patients reporting a 'normal' knee (89.8% vs. 79.2%; p\u2009<\u20090.001). FJS (91.7 vs. 82.7; p\u2009<\u20090.001) and JAS (92.3 vs. 83.5; p\u2009<\u20090.001) were both significantly higher in the KA group. No statistically significant differences were observed in stair-climbing ability, swelling or stiffness. CONCLUSION: Unrestricted KA in TKA is associated with fewer residual symptoms, improved function and higher patient satisfaction compared with MA at 1 year. These findings support KA as a potential strategy to reduce the prevalence of the 'unhappy knee' after TKA. LEVEL OF EVIDENCE: Level III, retrospective comparative study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42809367/",
+      "score": 79,
+      "score_reasoning": "Prospective cohort study with strong methodology examining the critical clinical question of early versus delayed surgery effect on mortality in periprosthetic hip fractures using target trial emulation to address bias.",
+      "bullets": [
+        "In 622 primary TKA patients, kinematic alignment produced higher overall satisfaction than mechanical alignment at one year (94% vs. 81%).",
+        "Patients with kinematically aligned knees reported less residual pain, less limp, and higher rates of return to activity compared to mechanically aligned controls.",
+        "For surgeons performing primary TKA in end-stage knee arthritis, kinematic alignment may reduce the proportion of patients left with an unsatisfying knee at one year."
+      ]
+    },
+    {
+      "pmid": "42809313",
+      "title": "Reply to the Letter to the Editor: A Novel Classification System for Fifth Metatarsal Base Fractures Is Reliable and Clinically Validated.",
+      "authors": [
+        "Marcus RE",
+        "Rascoe AS",
+        "Pasternack J",
+        "Guyton GP"
+      ],
+      "authors_short": "Marcus RE, Rascoe AS, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Letter"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42809313/",
+      "score": 78,
+      "score_reasoning": "Large retrospective cohort of 622 TKA patients comparing kinematic versus mechanical alignment with clinically meaningful outcomes including satisfaction, residual symptoms, and functional performance directly applicable to arthroplasty surgeons.",
+      "bullets": [
+        "A new classification system for fifth metatarsal base fractures has been shown to have reliable inter- and intra-rater agreement among orthopaedic surgeons.",
+        "The system applies to patients presenting with acute fifth metatarsal base fractures and helps distinguish fracture types that guide operative versus non-operative management.",
+        "Orthopaedic surgeons can use this classification at initial assessment to support consistent treatment decisions across providers."
+      ]
+    },
+    {
+      "pmid": "42826054",
+      "title": "Intravenous Dexamethasone Prolongs Opioid-Free Analgesia After Pediatric Hand Surgery: A Randomized Triple-Blind Trial.",
+      "authors": [
+        "Marsza\u0142ek-Buko J",
+        "Reysner T",
+        "Perek A",
+        "Pietraszek P",
+        "Rosada-Kurasi\u0144ska J",
+        "Batkowska-\u015aniatkowska A",
+        "Wieczorowska-Tobis K",
+        "Daroszewki P",
+        "Grelowska E",
+        "Reysner M"
+      ],
+      "authors_short": "Marsza\u0142ek-Buko J, Reysner T, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Postoperative pain control after pediatric hand surgery remains challenging despite the increasing use of regional anesthesia. This randomized triple-blind trial evaluated whether adjunctive intravenous dexamethasone prolongs postoperative opioid-free analgesia after pediatric supraclavicular brachial plexus block. METHODS: Ninety children undergoing elective hand or wrist surgery were randomized to receive intravenous placebo, dexamethasone 0.1\u00a0mg/kg, or dexamethasone 0.2\u00a0mg/kg before ultrasound-guided supraclavicular brachial plexus block (30 patients/group). The primary outcome was time to first postoperative opioid administration within 48 hours. Secondary outcomes included opioid consumption, postoperative pain scores, time to first documented spontaneous finger movement, and adverse events. RESULTS: Intravenous dexamethasone significantly prolonged postoperative opioid-free analgesia compared with placebo. Median time to first rescue opioid administration was 8.9 hours in the placebo group, 14.3 hours in the dexamethasone 0.1\u00a0mg/kg group, and 17.3 hours in the dexamethasone 0.2\u00a0mg/kg group (P<0.0001). Patients receiving dexamethasone also demonstrated lower postoperative opioid consumption and lower pain scores during the 48-hour follow-up period. The time to first documented spontaneous finger movement was delayed in dexamethasone-treated patients. No serious adverse events were observed. CONCLUSIONS: Adjunctive intravenous dexamethasone prolonged opioid-free analgesia and reduced postoperative opioid requirements after pediatric hand surgery. Although analgesic outcomes improved in a dose-dependent manner, higher dexamethasone doses were associated with longer time to first documented spontaneous finger movement. LEVEL OF EVIDENCE: Level I-therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42826054/",
+      "score": 77,
+      "score_reasoning": "Well-designed RCT of 90 pediatric patients demonstrating that IV dexamethasone significantly prolongs opioid-free analgesia after pediatric hand surgery, offering immediately applicable pain management guidance.",
+      "bullets": [
+        "In children having hand or wrist surgery under supraclavicular nerve block, adding IV dexamethasone extended the time before any opioid was needed from 9 hours to up to 17 hours depending on dose.",
+        "Children who received dexamethasone also used less opioid overall across the first 48 hours, with no serious adverse events recorded.",
+        "Higher dexamethasone doses delayed the return of finger movement, so surgeons should factor in motor block duration when planning postoperative neurovascular checks in paediatric hand patients."
+      ]
+    },
+    {
+      "pmid": "42785699",
+      "title": "Early Surgical Management of Periprosthetic Hip Fracture Does Not Reduce Mortality or Cardiopulmonary Complications: A Propensity-Matched Analysis.",
+      "authors": [
+        "Papalia AG",
+        "Ricotti RG",
+        "Frappa N",
+        "Alben MG",
+        "Ozdag Y",
+        "Sutton R"
+      ],
+      "authors_short": "Papalia AG, Ricotti RG, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Whether early surgery reduces mortality in revision total hip arthroplasty (THA) for periprosthetic proximal femur fractures (PPFF) remains unclear. The aim of this study was to evaluate the association between time to surgery and short- and long-term outcomes following PPFF. METHODS: Using a large national database, adult patients undergoing revision THA for PPFF were identified. Cohorts were defined by time from diagnosis to surgery: two days versus greater than two days. Propensity score matching (1:1) was performed on demographics and comorbidities, yielding 2,098 patients per cohort. The primary outcome was mortality at 30 days, 90 days, and one year. The secondary outcomes included myocardial infarction (MI), deep venous thrombosis (DVT), pulmonary embolism (PE), pneumonia (PNA), acute kidney injury (AKI), sepsis, surgical site infection (SSI), wound dehiscence, and transfusion. RESULTS: The 30-day mortality did not differ between early and delayed cohorts (2.4 versus 2.5%, P = 0.842). Similarly, 90-day mortality (4.8 versus 4.4%) and 1-year mortality (7.7 versus 7.9%) were equivocal. Rates of MI, DVT, PE, PNA, AKI, sepsis, SSI, and wound dehiscence were not significantly different across time windows. However, early surgery was associated with significantly higher transfusion rates at 30 (19.7 versus 16.4%, P = 0.006) and 90 days (19.9 versus 17.5%, P = 0.045). CONCLUSION: Early operative intervention (two days) for PPFF does not significantly reduce mortality or cardiopulmonary complications compared with delayed surgery (greater than two days). In contrast, early surgery was associated with higher rates of blood transfusion; however, this difference may not be clinically meaningful and should not be interpreted as a reason for unnecessary surgical delay. These findings indicate that delay to surgery beyond two days does not appear to adversely affect short-term mortality or complication rates, allowing additional time for preoperative planning and appropriate allocation of specialized resources.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42785699/",
+      "score": 76,
+      "score_reasoning": "Prospective multicenter registry study of 722 patients evaluating ACL graft type in combined ACL-MCL injuries with propensity weighting, providing practical guidance for a common clinical scenario.",
+      "bullets": [
+        "In a propensity-matched analysis of over 4,000 patients, operating within two days for periprosthetic hip fracture did not reduce 30-day, 90-day, or one-year mortality compared to delayed surgery.",
+        "Rates of cardiac, pulmonary, renal, and infectious complications were equivalent regardless of surgical timing, but early surgery was associated with higher transfusion rates at 30 and 90 days.",
+        "For patients with periprosthetic proximal femur fractures requiring revision THA, surgeons can delay beyond two days to allow for preoperative planning and resource coordination without worsening patient outcomes."
+      ]
+    },
+    {
+      "pmid": "42805713",
+      "title": "Preoperative Contralateral Joint And/Or Back Pain Impact on Achieving the Substantial Clinical Benefit for Hip Disability and Osteoarthritis Outcome Score-Joint Replacement.",
+      "authors": [
+        "Elmenawi KA",
+        "Jevnikar BE",
+        "Oyem PC",
+        "Jin Y",
+        "Krebs VE",
+        "Molloy RM",
+        "Deren ME",
+        "Piuzzi NS"
+      ],
+      "authors_short": "Elmenawi KA, Jevnikar BE, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: The Centers for Medicare & Medicaid Services recently mandated reporting of patient-reported outcome measures following primary total hip arthroplasty (THA), with emphasis on the substantial clinical benefit (SCB) threshold for the Hip Disability and Osteoarthritis Outcome Score-Joint Replacement (HOOS-JR). The impact of preoperative back and/or contralateral hip pain on achieving SCB and other validated patient-reported outcome measure thresholds remains unclear. METHODS: We retrospectively analyzed a prospective cohort of 4,412 Medicare primary elective unilateral THAs (2016 to 2023). Patients were stratified by preoperative back and/or contralateral hip pain and severity. Outcomes included achievement of SCB (22-point improvement in HOOS-JR), minimal clinically important difference, patient-acceptable symptom state, and satisfaction at one year. Multivariable logistic regression was adjusted for demographic, clinical, and socioeconomic factors. RESULTS: Patients who had both back and contralateral hip pain had the highest odds of failing to achieve SCB (odds ratio (OR) 3.1, 95% confidence interval (CI) 2.4 to 4.1; P < 0.001), followed by isolated contralateral hip pain (OR 1.7, 95% CI 1.1 to 2.6; P = 0.01) and isolated back pain (OR 1.6, 95% CI 1.2 to 2.0; P = 0.002). Risk increased proportionally with pain severity (mild/moderate back pain: OR 1.7; severe back pain: OR 2.8; both P < 0.001). Similar, though less pronounced, patterns were observed for minimal clinically important difference and patient-acceptable symptom state thresholds across HOOS domains. Patients who have both pain sources also reported the highest risk of dissatisfaction (OR 2.1, 95% CI 1.5 to 3.0; P < 0.001). CONCLUSIONS: Preoperative back and contralateral hip pain, particularly when severe or concurrent, strongly and independently reduce the likelihood of achieving SCB for HOOS-JR following primary THA. These findings underscore the need for risk adjustment under the Centers for Medicare & Medicaid Services patient-reported outcome performance measure framework and highlight the value of multidisciplinary management of comorbid pain to optimize outcomes and ensure equitable benchmarking in value-based care. LEVEL OF EVIDENCE: II (Prospective).",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42805713/",
+      "score": 75,
+      "score_reasoning": "Large retrospective cohort of 622 TKA patients with propensity-matched analysis comparing kinematic versus mechanical alignment on validated patient-reported outcomes from a high-impact journal.",
+      "bullets": [
+        "Patients undergoing primary THA who have both back pain and contralateral hip pain preoperatively are three times more likely to miss the meaningful improvement threshold on the HOOS-JR at one year.",
+        "Having either back pain or contralateral hip pain alone roughly doubles the risk of failing to reach meaningful improvement, and that risk rises with pain severity.",
+        "Surgeons should document and address comorbid back and contralateral hip pain before THA, as these patients skew outcomes data and may be unfairly penalized under CMS value-based reporting."
+      ]
+    },
+    {
+      "pmid": "42812042",
+      "title": "Isotension Versus Low-Tension Fixation in Arthroscopic Biceps Tenodesis: A Comparative Study of Clinical Outcomes.",
+      "authors": [
+        "Zhang JM",
+        "Zhou CH",
+        "Hao SY",
+        "Yang YT",
+        "Idiris Ali M",
+        "Wang Z",
+        "Deng XH",
+        "Long Y",
+        "Yang R"
+      ],
+      "authors_short": "Zhang JM, Zhou CH, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: It remains uncertain whether anatomic or reduced tension provides superior clinical outcomes in tendon-to-bone fixation for long head of the biceps tendon (LHBT) tenodesis. HYPOTHESIS/PURPOSE: The purpose was to compare clinical outcomes between isotension and low-tension fixation techniques for LHBT tenodesis. The authors hypothesized that isotension fixation would yield superior clinical outcomes compared to low-tension fixation. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: A retrospective analysis was conducted on the data of patients who underwent arthroscopic LHBT tenodesis for either LHBT lesions or LHBT lesions combined with rotator cuff tears between May 2019 and June 2024 with \u22651 year of follow-up. Patients were divided into 2 groups based on different tension after tenodesis: isotension group (tenodesis in situ at the bicipital groove followed by resection of proximal tendon insertion) and low-tension group (resection of proximal tendon transection followed by tenodesis of the residual tendon stump in the bicipital groove). Shear wave elastography (SWE) was used to measure the elastic modulus of the LHBT preoperatively and postoperatively at 1 week to evaluate the effects of the 2 fixation methods on the tension of the LHBT. Functional outcome scores (including the American Shoulder and Elbow Surgeons [ASES] score, Constant-Murley score [CMS], visual analog scale [VAS] score, and long head of the biceps [LHB] score) were collected, and the minimal clinically important difference (MCID) for each functional score was calculated. RESULTS: A total of 50 patients in the isotension group (mean follow-up, 26.5 \u00b1 4.7 months) and 73 patients in the low-tension group (mean follow-up, 26.0 \u00b1 6.4 months) were included in this study. SWE showed no preoperative to postoperative stiffness change in the isotension group (6.75 \u00b1 1.07 m/s to 6.70 \u00b1 1.01 m/s; P = .930) but reduced stiffness in the low-tension group (5.88 \u00b1 1.30 m/s postoperatively vs 6.79 \u00b1 1.35 m/s preoperatively; P = .001). Both groups achieved significant postoperative improvement compared with preoperative baseline (P < .05). At the final follow-up, the isotension group demonstrated superior functional scores to the low-tension group regarding ASES score (93.2 \u00b1 5.5 vs 87.7 \u00b1 8.0; P = .001), CMS (94.2 \u00b1 4.5 vs 91.2 \u00b1 6.6; P = .003), and LHB score (97.6 \u00b1 3.7 vs 91.4 \u00b1 7.8; P = .001). However, VAS improvement showed no significant difference between the 2 groups (P = .129). Regarding the LHB score subcategories, the isotension group showed significantly better results for elbow flexion strength than the low-tension group (19.3 \u00b1 3.7 points vs 15.7 \u00b1 7.8 points; P = .001). The percentage of patients reaching the MCID differed only in LHB score (86.0% for isotension vs 56.2% for low tension; P = .001), not in ASES score (P = .238), CMS (P = .706), or VAS score (P = .783). The Popeye sign incidence was similar between to 2 groups (2.0% for isotension and 2.7% for low tension; P > .999). CONCLUSION: Both maintained physiological tension (isotension) and reduced tension (low tension) tenodesis achieved satisfactory outcomes. However, tenodesis maintaining physiological tension demonstrated superior biceps strength recovery and functional score (LHB score) compared to tenodesis with reduced tension.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42812042/",
+      "score": 74,
+      "score_reasoning": "Prospective cohort study revealing an alarming 83% rate of pudendal nerve palsy after hip arthroscopy with perineal post, including sexual dysfunction, directly impacting informed consent and surgical technique.",
+      "bullets": [
+        "Biceps tenodesis fixed at native tension restores elbow flexion strength better than low-tension fixation, with higher biceps-specific functional scores at two years.",
+        "Both techniques relieve pain equally and carry the same low Popeye sign rate near 2%, so low-tension repair remains acceptable when anatomy limits isotension fixation.",
+        "For active patients where biceps strength recovery matters, surgeons should prioritize restoring physiological tendon tension at the time of arthroscopic tenodesis."
+      ]
+    },
+    {
+      "pmid": "42781773",
+      "title": "Age-Dependent Variations in Knee Synovial Fluid Biomarker Type and Concentration Predict 5- to 10-Year Outcomes After Anterior Cruciate Ligament Reconstruction.",
+      "authors": [
+        "Ehlers M",
+        "Kurtz JL",
+        "Montgomery SR",
+        "Kaplan DJ",
+        "Strauss EJ"
+      ],
+      "authors_short": "Ehlers M, Kurtz JL, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Synovial fluid biomarkers reflect the intra-articular response to an anterior cruciate ligament (ACL) rupture and may provide insight into biological processes associated with posttraumatic joint degeneration. While increasing age has been associated with inferior clinical outcomes after ACL reconstruction, age-dependent differences in biomarker expression and their relationship to longer term outcomes remain unclear. PURPOSE/HYPOTHESIS: The purpose of this study was to evaluate the association between patient age and preoperative synovial biomarker concentrations after an ACL injury to determine whether age modifies biomarker-outcome relationships at longer term follow-up. The authors hypothesized that increasing age would be associated with an elevated inflammatory response and modify biomarker-outcome associations. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: Patients undergoing ACL reconstruction between July 2011 and December 2020 were prospectively enrolled. Synovial fluid was aspirated before incision, and concentrations of proinflammatory and anti-inflammatory biomarkers were quantified. Patients completed patient-reported outcome (PRO) measures, including the visual analog scale for pain, Lysholm scale, Tegner Activity Scale, and Knee injury and Osteoarthritis Outcome Score-Physical Function Short Form, at a minimum of 5 years postoperatively. Multivariable regression assessed associations between age and biomarker concentrations. Conditional process analysis evaluated moderation by symptom duration and mediation by cartilage injury severity. Associations between age and long-term PROs were assessed using multivariable regression and minimal clinically important difference analyses. RESULTS: A total of 100 patients were included (mean age, 30.8 \u00b1 9.5 years). Increasing age was independently associated with lower preoperative synovial TIMP-1 concentrations (\u03b2 = -0.0775; P = .014). This association was moderated by symptom duration, with significant effects at <3.0 and >8.5 months. Cartilage injury severity did not mediate age-biomarker associations. Increasing age was associated with worse long-term PROs and the decreased likelihood of achieving the minimal clinically important difference for pain, function, and activity. After adjusting for age, higher MIP-1\u03b2 concentrations were associated with worse functional outcomes, higher MMP-3 concentrations were associated with greater pain, higher TIMP-2 concentrations were associated with lower activity levels, and higher bFGF concentrations were associated with improved physical function. Significant age-dependent interactions were observed for TIMP-1, TIMP-2, and MIP-1\u03b2 with selected PROs. Age-stratified analysis demonstrated heterogeneous biomarker-outcome associations. CONCLUSION: Patient age at the time of ACL reconstruction was associated with selective alterations in synovial biomarker expression and long-term clinical outcomes. Age modified the prognostic significance of key biomarkers, highlighting the importance of incorporating age into biomarker interpretation and risk stratification after an ACL injury.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42781773/",
+      "score": 73,
+      "score_reasoning": "Cadaveric biomechanical study demonstrating superior native laxity restoration with a novel double-bundle retensionable MCL reconstruction technique, relevant given growing interest in medial knee stabilization.",
+      "bullets": [
+        "Older patients undergoing ACL reconstruction had lower preoperative synovial TIMP-1 levels and worse pain, function, and activity scores at 5 to 10 years follow-up.",
+        "Several synovial fluid biomarkers predicted long-term outcomes after ACL reconstruction, but their prognostic value differed by patient age, meaning the same biomarker level carries a different clinical meaning in a 20-year-old versus a 40-year-old.",
+        "Age should be factored into biomarker-based risk stratification after ACL injury, as a single reference range for synovial biomarkers will not reliably identify which patients are at risk for poor outcomes."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-10-03T07:34:54.817247-07:00"
+}
