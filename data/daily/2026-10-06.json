@@ -1,0 +1,304 @@
+{
+  "brief_date": "2026-10-06",
+  "brief_date_display": "Tuesday, October 06",
+  "candidates": [
+    {
+      "pmid": "42832596",
+      "title": "Meniscal Root Tears: Epidemiology, Diagnosis, Management, and Outcomes.",
+      "authors": [
+        "Livingston M",
+        "Ross P",
+        "Saraf SM",
+        "Christiansen M",
+        "Miller JR",
+        "Mulcahey MK"
+      ],
+      "authors_short": "Livingston M, Ross P, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "\u27a2 Meniscal root tears compromise load distribution within the knee, accelerating cartilage degeneration and leading to knee osteoarthritis.\u27a2 Diagnosis relies on clinical suspicion supported by magnetic resonance imaging (MRI), with arthroscopy serving as the gold standard for confirmation.\u27a2 Management decisions should be tailored to patient-specific factors, including age, activity level, tear characteristics, and the severity of degenerative chondral wear evident on preoperative imaging, including weight-bearing radiographs and MRI.\u27a2 Root repair is associated with better long-term outcomes compared with partial meniscectomy and nonoperative management in appropriately selected patients.\u27a2 There is currently no universally accepted postoperative rehabilitation protocol following meniscal root repair; however, most strategies limit weight-bearing in the early postoperative period and restrict loaded flexion, such as deep squatting, for up to 4 to 5 months. Further research is needed to guide standardized recovery pathways.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42832596/",
+      "score": 82,
+      "score_reasoning": "Highly clinically relevant review of meniscal root tears in JBJS covering diagnosis, management, and outcomes with clear practice-changing guidance on repair versus meniscectomy from a prestigious journal.",
+      "bullets": [
+        "Meniscal root tears disrupt knee load distribution and accelerate cartilage loss, progressing to osteoarthritis if untreated.",
+        "In appropriately selected patients, root repair produces better long-term outcomes than partial meniscectomy or nonoperative management.",
+        "Most postoperative protocols restrict weight-bearing early and limit loaded flexion for up to 4 to 5 months, though no standardized rehabilitation pathway exists yet."
+      ]
+    },
+    {
+      "pmid": "42831579",
+      "title": "Outcomes Following Early Weight Bearing in Syndesmotic Injuries: A Randomized Controlled Trial.",
+      "authors": [
+        "Khaleel M",
+        "Durante E",
+        "Hawkins S",
+        "Stannard JP",
+        "Della Rocca GJ",
+        "Crist B",
+        "Cook JL",
+        "Schweser K"
+      ],
+      "authors_short": "Khaleel M, Durante E, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To compare outcomes of early weight bearing (EWB) at 2-weeks versus delayed weight bearing (DWB) at 6-weeks following operative ankle fracture fixation with syndesmotic stabilization. METHODS: Design: Prospective randomized controlled clinical trial. SETTING: Single Level 1 Trauma Center. PATIENT SELECTION CRITERIA: Adult patients with operative rotational ankle fractures (OTA/AO 44A-C) and an intraoperative finding of syndesmotic injury following fracture fixation between September 2019 and September 2022 were included. All underwent dynamic syndesmotic stabilization utilizing a single suture button. Exclusion criteria were fibular fractures not amenable to length-stable fixation (e.g., Maisonneuve injuries), neuropathic diabetes, body weight \u2265147.4 kg (325 lbs), imprisonment, pregnancy, lactation, end-stage renal disease, cognitive dysfunction, or polytrauma. OUTCOME MEASURES AND COMPARISONS: Maintenance of syndesmotic reduction at 1 year comparing immediate postoperative and 1-year CT scans of both ankles was the primary outcome. Secondary outcomes: pain (VAS), surgical satisfaction (SSQ-8), functional scores (AAOS Foot and Ankle), ankle range of motion, and complications. RESULTS: 106 patients were enrolled: 40 underwent syndesmotic fixation and were randomized. 16 patients (mean age 41 (21-80), 9 female, 7 male) randomized to EWB and 23 (mean age 43 (23-85), 12 female, 11 male) to DWB completed the study. Fracture types included lateral malleolar (OTA/AO 44A), bimalleolar and bimalleolar equivalent (OTA/AO 44B), and trimalleolar (OTA/AO 44C) fractures, with similar distribution between groups (p=0.96). EWB group had significantly higher pain scores (4.6 \u00b1 2.8 vs 2.8 \u00b1 2.3, p = 0.039) at the 2-week visit compared to DWB. At 1 year, dorsiflexion in the EWB group was significantly higher (14.2\u00b0 \u00b1 3.9\u00b0 vs 7.7\u00b0 \u00b1 4.4\u00b0) than the DWB (p = 0.017). No significant difference in syndesmotic malreduction (p>0.99), loss of reduction (p>0.89), PROs, development of arthritis (p>1.0) or complication rates (p>0.37) at any other timepoint. CONCLUSIONS: Early weight bearing at 2-weeks was noninferior to delayed weight bearing at 6-weeks following rotational ankle fracture fixation with a syndesmotic injury stabilized with flexible fixation. LEVEL OF EVIDENCE: Level I.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42831579/",
+      "score": 80,
+      "score_reasoning": "RCT comparing early versus delayed weight bearing after syndesmotic stabilization addresses a common clinical decision point with strong study design, level 1 trauma journal, and adequate sample size.",
+      "bullets": [
+        "In adults with operative ankle fractures and syndesmotic injury fixed with a suture button, early weight bearing at 2 weeks did not cause more syndesmotic malreduction or complications compared to delayed weight bearing at 6 weeks.",
+        "Patients allowed to bear weight at 2 weeks had more pain at that visit but gained significantly more dorsiflexion at one year (14 degrees vs 8 degrees) than those kept non-weight bearing until 6 weeks.",
+        "For stable syndesmotic fixation with flexible constructs, early weight bearing at 2 weeks is a safe option that may improve long-term ankle motion without increasing the risk of fixation failure."
+      ]
+    },
+    {
+      "pmid": "42814846",
+      "title": "Global Projection of Revision Total Hip and Knee Arthroplasty Through 2060: A 17-Country Analysis Using Worldwide Registry Data.",
+      "authors": [
+        "Adolf J",
+        "Karl\u0131da\u011f T",
+        "Citak M"
+      ],
+      "authors_short": "Adolf J, Karl\u0131da\u011f T, Citak M",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: The expanding pool of primary hip and knee arthroplasty implants in situ will generate a growing burden of revision arthroplasty. Projections for several individual countries have been published, but heterogeneous methods and time horizons prevent direct aggregation. We used a uniform method to estimate annual revision total hip arthroplasty (rTHA) and revision total knee arthroplasty (rTKA) volumes through 2060 for 17 registry-equipped countries. METHODS: Annual rTHA and rTKA counts were extracted from each country's most recent register annual report or registry-based publications. Adult (\u226525 years) population denominators were taken from the UN World Population Prospects 2024 medium variant. For each country and procedure, we fitted a log-linear Poisson generalized linear model with the year as a covariate and ln(population) as an offset; each fitted trend was partially pooled across countries, bounded at \u00b12.0% per year, and damped over the projection horizon. Three sensitivity analyses (demographic-only, half-trend Poisson, logistic saturation) were also performed to bracket modeling uncertainty. RESULTS: In 2024, the modeled 17-country aggregate was 185,921 rTHA and 189,689 rTKA procedures. Under the primary capped Poisson model, the 2060 aggregate reached 243,404 rTHAs and 267,456 rTKAs, corresponding to increases of 31% and 41%, respectively, relative to 2024. Country-level volume trajectories were heterogeneous: the United States and People's Republic of China drove most absolute growth, while Germany, the United Kingdom, and Sweden approached plateaus by mid-century and Japan was projected to have a decline. The 4 projection methods spanned 2060 combined volumes of \u2053461,000 (demographic-only) to \u2053511,000 (primary model) procedures. CONCLUSIONS: Across 17 countries that perform most of the world's hip and knee arthroplasties, annual revision volumes are projected to grow by approximately one-third (36% in aggregate; 31% for rTHA and 41% for rTKA) by 2060 under the primary model. The United States and China account for the largest absolute growth; mature European systems flatten, and Japan declines. These projections have direct implications for revision-fellowship pipelines, perioperative infection-prevention programs, and registry infrastructure. LEVEL OF EVIDENCE: Prognostic Level IV. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42814846/",
+      "score": 78,
+      "score_reasoning": "Large retrospective study in JBJS projecting 30-40% increases in revision THA/TKA through 2060 using 17-country registry data with directly actionable workforce and capacity planning implications.",
+      "bullets": [
+        "Across 17 countries, annual revision hip and knee arthroplasty volumes are projected to grow by roughly one-third by 2060, with revision TKA rising 41% and revision THA rising 31%.",
+        "The United States and China will drive most of the absolute increase in revision cases, while established European systems like Germany, the UK, and Sweden will plateau and Japan will see a decline.",
+        "Orthopaedic programs should plan now for expanded revision fellowship training, infection prevention capacity, and registry infrastructure to handle this growing caseload."
+      ]
+    },
+    {
+      "pmid": "42809313",
+      "title": "Reply to the Letter to the Editor: A Novel Classification System for Fifth Metatarsal Base Fractures Is Reliable and Clinically Validated.",
+      "authors": [
+        "Marcus RE",
+        "Rascoe AS",
+        "Pasternack J",
+        "Guyton GP"
+      ],
+      "authors_short": "Marcus RE, Rascoe AS, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Letter"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42809313/",
+      "score": 75,
+      "score_reasoning": "Large retrospective cohort of 622 TKA patients in KSSTA comparing kinematic versus mechanical alignment demonstrates significantly higher satisfaction and function with KA, directly relevant to a widely debated surgical decision.",
+      "bullets": [
+        "A new classification system for fifth metatarsal base fractures has been shown to be reliable across orthopaedic surgeons.",
+        "The system applies to patients with acute fifth metatarsal base fractures and helps distinguish fracture patterns that guide treatment decisions.",
+        "Surgeons can use this classification to standardize communication and management of fifth metatarsal base fractures in clinical practice."
+      ]
+    },
+    {
+      "pmid": "42805713",
+      "title": "Preoperative Contralateral Joint And/Or Back Pain Impact on Achieving the Substantial Clinical Benefit for Hip Disability and Osteoarthritis Outcome Score-Joint Replacement.",
+      "authors": [
+        "Elmenawi KA",
+        "Jevnikar BE",
+        "Oyem PC",
+        "Jin Y",
+        "Krebs VE",
+        "Molloy RM",
+        "Deren ME",
+        "Piuzzi NS"
+      ],
+      "authors_short": "Elmenawi KA, Jevnikar BE, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: The Centers for Medicare & Medicaid Services recently mandated reporting of patient-reported outcome measures following primary total hip arthroplasty (THA), with emphasis on the substantial clinical benefit (SCB) threshold for the Hip Disability and Osteoarthritis Outcome Score-Joint Replacement (HOOS-JR). The impact of preoperative back and/or contralateral hip pain on achieving SCB and other validated patient-reported outcome measure thresholds remains unclear. METHODS: We retrospectively analyzed a prospective cohort of 4,412 Medicare primary elective unilateral THAs (2016 to 2023). Patients were stratified by preoperative back and/or contralateral hip pain and severity. Outcomes included achievement of SCB (22-point improvement in HOOS-JR), minimal clinically important difference, patient-acceptable symptom state, and satisfaction at one year. Multivariable logistic regression was adjusted for demographic, clinical, and socioeconomic factors. RESULTS: Patients who had both back and contralateral hip pain had the highest odds of failing to achieve SCB (odds ratio (OR) 3.1, 95% confidence interval (CI) 2.4 to 4.1; P < 0.001), followed by isolated contralateral hip pain (OR 1.7, 95% CI 1.1 to 2.6; P = 0.01) and isolated back pain (OR 1.6, 95% CI 1.2 to 2.0; P = 0.002). Risk increased proportionally with pain severity (mild/moderate back pain: OR 1.7; severe back pain: OR 2.8; both P < 0.001). Similar, though less pronounced, patterns were observed for minimal clinically important difference and patient-acceptable symptom state thresholds across HOOS domains. Patients who have both pain sources also reported the highest risk of dissatisfaction (OR 2.1, 95% CI 1.5 to 3.0; P < 0.001). CONCLUSIONS: Preoperative back and contralateral hip pain, particularly when severe or concurrent, strongly and independently reduce the likelihood of achieving SCB for HOOS-JR following primary THA. These findings underscore the need for risk adjustment under the Centers for Medicare & Medicaid Services patient-reported outcome performance measure framework and highlight the value of multidisciplinary management of comorbid pain to optimize outcomes and ensure equitable benchmarking in value-based care. LEVEL OF EVIDENCE: II (Prospective).",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42805713/",
+      "score": 74,
+      "score_reasoning": "Prospective study in JBJS evaluating growth hormone therapy effects on tibial tubercle physeal microstructure via DTI-MRI is novel, multicenter, and has direct implications for monitoring skeletally immature patients on rhGH.",
+      "bullets": [
+        "Patients with both back and contralateral hip pain before THA are three times more likely to miss the HOOS-JR substantial clinical benefit threshold at one year compared to those with neither condition.",
+        "The risk of failing to reach meaningful outcome thresholds after THA scales with pain severity and number of comorbid pain sites, applying to Medicare-age patients undergoing elective primary THA.",
+        "Surgeons should document preoperative back and contralateral hip pain carefully, as these factors independently predict worse outcomes and need to be accounted for in CMS value-based performance benchmarking."
+      ]
+    },
+    {
+      "pmid": "42821763",
+      "title": "Does Early Surgery Reduce Mortality Compared With Delayed Surgery Among Patients With Periprosthetic Hip Fracture? A Target Trial Emulation.",
+      "authors": [
+        "Yoshiyama T",
+        "Fukasawa T",
+        "Anno T",
+        "Masuda S",
+        "Matsuda S",
+        "Kawakami K"
+      ],
+      "authors_short": "Yoshiyama T, Fukasawa T, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Previous observational studies comparing early versus delayed surgery for periprosthetic hip fractures may yield inaccurate estimates because they did not account for immortal time. Immortal time refers here to the period during which patients had to remain alive to be classified in the delayed surgery group. Patients who died before delayed surgery could not enter that group, potentially making delayed surgery appear safer than it truly was. Although early surgery is recommended for native hip fractures, whether it improves survival after periprosthetic hip fracture remains uncertain because prior null findings may reflect either no true effect or bias arising from immortal time. We therefore used a target trial emulation framework to estimate the effect of early versus delayed surgery strategies on short-term mortality. QUESTIONS/PURPOSES: (1) When immortal time is appropriately addressed, what is the estimated effect of an early surgery strategy (within 2 days after admission) compared with a delayed surgery strategy (3 to 10 days after admission) on 30- and 90-day mortality risks? (2) How do mortality estimates from a conventional analysis based on observed surgical timing, which is susceptible to immortal time, compare with those from the target trial emulation? METHODS: Using 2014 to 2024 data from a Japanese hospital administrative database, we identified 4626 potentially eligible patients who were hospitalized with periprosthetic hip fractures. The database captured admission dates, procedure dates, and mortality across many hospitals, enabling analysis of surgical timing and short-term mortality for this relatively uncommon fracture. We excluded 1.3% (62 of 4626): 0.3% (14) who were younger than 45 years, 0.2% (11) who had pathologic fractures, and 0.8% (37) who were treated at institutions where data submission was temporarily suspended during the 90-day follow-up window, leaving 4564 eligible patients. We used the clone-censor-weight approach to emulate a randomized trial and estimate the observational analog of the per-protocol effect. On day 0 (admission), each patient was cloned, and one clone was assigned to each strategy. Thus, both strategies included the same patients at baseline (mean age 84 years; 80% female), and all baseline characteristics were identical by design. Clones were artificially censored for nonadherence to the assigned strategy, and inverse probability weighting was used to adjust for selection bias from artificial censoring and loss to follow-up. Of 4564 clones assigned to each strategy, 11% (510) in the early surgery strategy and 34% (1564) in the delayed surgery strategy were not artificially censored for nonadherence. Loss to follow-up before 30 days occurred in 2.9% (132) and 7.5% (341), respectively; before 90 days, it occurred in 4.1% (189) and 11.8% (538), respectively. Weighted pooled logistic regression estimated mortality risks, risk differences, and risk ratios at 30 and 90 days; 95% confidence intervals (CIs) were obtained from 500 bootstrap samples. As a methodologic benchmark, we also estimated mortality using a conventional classification based on observed surgical timing (days 0 to 2 versus days 3 to 10), recognizing that this postbaseline classification was susceptible to immortal time. RESULTS: At 30 days, there was no clear evidence of a difference in mortality risk between the strategies, although the estimates were higher under the early strategy (1.72% versus 0.83%; risk difference 0.89% [95% CI -0.32% to 1.72%]; risk ratio 2.06 [95% CI 0.64 to 3.73]). At 90 days, there was no clear evidence of a difference, and the effect estimates were near the null (2.35% versus 2.31%; risk difference 0.04% [95% CI -1.08% to 1.24%]; risk ratio 1.01 [95% CI 0.59 to 1.68]). Complete-case estimates were similar, and subgroup estimates were imprecise, with no consistent evidence of effect modification by age or sex. Compared with the emulation, the benchmark analysis yielded lower estimated 30-day mortality risks in both surgical timing groups: 1.10% in the early surgery group and 0.48% in the delayed-surgery group (risk difference 0.62% [95% CI -0.20% to 1.80%]; risk ratio 2.27 [95% CI 0.74 to 14.10]); the estimated 90-day mortality risks were 2.08% and 2.05%, respectively (risk difference 0.03% [95% CI -1.55% to 1.83%]; risk ratio 1.01 [95% CI 0.36 to 2.22]). CONCLUSION: Our findings do not support assuming that the 48-hour standard for native hip fractures applies to periprosthetic hip fractures solely to reduce short-term mortality. Surgeons may consider the time required for medical stabilization and operative planning, although our findings do not justify avoidable delay because other outcomes were not evaluated. The lower 30-day estimates obtained using observed surgical timing highlight potential bias from postbaseline classification, including immortal time and selection based on eventual surgery; the 90-day estimates were similar. Because causal interpretation relies on unverifiable assumptions, and residual bias from unmeasured factors remains possible, future observational studies should emulate target trials and incorporate fracture severity, operative complexity, and surgical resources to evaluate complications, reoperation, and functional recovery. LEVEL OF EVIDENCE: Level \u2162, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42821763/",
+      "score": 73,
+      "score_reasoning": "Large retrospective cohort of 4,412 Medicare THAs identifying that preoperative back and contralateral hip pain substantially reduce odds of achieving SCB is highly relevant given CMS-mandated HOOS-JR reporting requirements.",
+      "bullets": [
+        "In patients with periprosthetic hip fractures (mean age 84, 80% female), operating within 48 hours did not clearly reduce 30-day or 90-day mortality compared to surgery on days 3 to 10.",
+        "The 48-hour rule established for native hip fractures should not be automatically applied to periprosthetic hip fractures on the basis of short-term mortality alone.",
+        "Surgeons can allow time for medical optimization and operative planning without evidence of mortality harm, though avoidable delays remain unjustified as complications and function were not assessed."
+      ]
+    },
+    {
+      "pmid": "42831041",
+      "title": "Efficacy of Noninvasive Interventions for Reducing Postoperative Kinesiophobia in Patients Undergoing Primary Total Knee Arthroplasty: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+      "authors": [
+        "Hajiaghajani S",
+        "Bahrami O",
+        "Dadgostar A",
+        "Hasanvand Y",
+        "Mohammadzadeh S",
+        "Habibzade M",
+        "Mehrvar A",
+        "Poursalehian M"
+      ],
+      "authors_short": "Hajiaghajani S, Bahrami O, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Excessive fear of movement (kinesiophobia) hinders functional recovery after total knee arthroplasty. We evaluated the efficacy of noninvasive interventions in reducing postoperative kinesiophobia. METHODS: We systematically searched PubMed, Embase, Scopus, and Web of Science for randomized controlled trials comparing noninvasive strategies with usual care, from inception to December 10, 2025. Risk of bias was evaluated using the Cochrane Risk of Bias 2 (RoB 2) tool. We pooled data using a random-effects meta-analysis to calculate mean differences (MD). The primary outcome was the Tampa Scale of Kinesiophobia (TSK). The certainty of evidence was appraised via the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach. RESULTS: Sixteen randomized controlled trials (n = 1373) were included. Interventions were categorized into rehabilitation, cognitive-behavioral therapy (CBT), patient education, and adjunctive modalities. Meta-analysis indicated that rehabilitation and exercise programs significantly reduced TSK scores (MD = -7.95; 95% confidence interval: -13.15 to -2.74; P = .003) with moderate certainty. CBT interventions also produced significant reductions (MD = -6.12; 95% confidence interval: -10.79 to -1.45; P = .01) with low certainty. Both pooled effect sizes were close to the range of published anchor-based minimal clinically important difference estimates for the TSK (6.2-6.4 points). Educational and adjunctive approaches (eg, virtual reality, reflexology) consistently improved TSK and secondary outcomes, though heterogeneity precluded pooling. CONCLUSIONS: Structured rehabilitation and exercise programs and CBT-based interventions were associated with significant reductions in kinesiophobia after total knee arthroplasty, although the certainty of evidence was moderate for rehabilitation and exercise and low for psychotherapy and CBT. Emerging modalities also showed favorable results, but the available evidence remains limited. LEVEL OF EVIDENCE: I.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42831041/",
+      "score": 72,
+      "score_reasoning": "Systematic review and meta-analysis of 16 RCTs on kinesiophobia interventions after TKA provides moderate-certainty evidence for rehabilitation and CBT with effect sizes near published MCID thresholds.",
+      "bullets": [
+        "In TKA patients, structured rehabilitation and exercise programs reduced fear of movement to a degree that met the threshold for a meaningful clinical improvement.",
+        "Cognitive behavioral therapy also reduced fear of movement past the clinically meaningful threshold, though the supporting evidence is weaker than for exercise.",
+        "For TKA patients slow to mobilize postoperatively, adding supervised exercise or a CBT referral is supported by the current best evidence and may improve functional recovery."
+      ]
+    },
+    {
+      "pmid": "42814471",
+      "title": "Two-year follow-up of postcommercialisation cohort of 100 bridge-enhanced anterior cruciate ligament restorations shows low retear rate and good patient-reported outcomes.",
+      "authors": [
+        "Wittstein J",
+        "Strickland S",
+        "Gomoll A",
+        "Sherman S",
+        "Lau B",
+        "Taylor D",
+        "Kramer D",
+        "Sean Keyes",
+        "Meininger AK",
+        "Pietropaoli M",
+        "McMillan S",
+        "Brady J"
+      ],
+      "authors_short": "Wittstein J, Strickland S, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To review adverse events and outcomes 2 years postoperatively from the Bridge Enhanced anterior cruciate ligament (ACL) Restoration (BEAR) procedure in the first 100 subjects of the Bridge registry, a postcommercialisation prospective cohort. METHODS: Technique modifications (repair and bridging suture type, femoral and tibial fixation), adverse events and reoperations were recorded. Physical examinations were reported at 0, 6, 9 and 12 months and patient-reported outcomes (International Knee Documentation Committee, knee injury and osteoarthritis outcome score, Marx, return to sport index) were reported at 0, 6, 9, 12 and 24 months. Adverse events were compared between the original and modified technique groups using Fisher's Exact test. Paired t-tests were used to compare patient-reported outcomes at 1 and 2 years. RESULTS: Mean follow-up was 22.3\u2009\u00b1\u20095.5 months, range 3-32.7 months, with five subjects exiting early. Mean age was 31.8\u2009\u00b1\u200914.3 years (range 7.7-69.6). Sixty-seven per cent were female. Fifty-five underwent a BEAR procedure using the original technique, while 45 had a modified surgical technique. The overall rates of adverse events with reoperations at 2 years included: two ACL retears with meniscus injury, two ACL retears without meniscus injury, two contralateral tears, five meniscus injuries without ACL retear (one medial, three lateral, one both medial and lateral), two manipulations under anaesthesia, one lysis of adhesions/cyclops removal and four removals of retained suture. Overall reoperation rate was 18.9% (17/90) at 2 years (28.0% with original technique, 7.5% with modified technique; p\u2009=\u20090.02) with 5.6% (5/90) ipsilateral ACL retear rate. There were no significant differences in ACL retear rates between the original technique and modified technique groups. From 1 to 2 years, there were statistically significant improvements in IKDC and three of the five KOOS scales. CONCLUSION: The rates of ACL retear status post BEAR with and without modification are low at 2 years, with five retears occurring between 14 and 28 months. Excellent stability and range of motion are attained at 1 year, with good patient reported outcomes measures at 2 years. LEVEL OF EVIDENCE: Level II, cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42814471/",
+      "score": 70,
+      "score_reasoning": "RCT in Journal of Shoulder and Elbow Surgery comparing LP-PRP vs LR-PRP vs saline for lateral epicondylitis over 12 months finds no clinically meaningful between-group differences, providing practice-clarifying evidence.",
+      "bullets": [
+        "The BEAR ACL repair procedure had a 5.6% retear rate at two years across 90 patients with a mean age of 32, which is comparable to published ACL reconstruction rates.",
+        "A modified surgical technique reduced the overall reoperation rate from 28% to 7.5%, driven largely by fewer retained suture removals and meniscus reoperations, not by a difference in retear rate.",
+        "Patient-reported knee function scores continued to improve between one and two years, suggesting surgeons should counsel patients that recovery extends well beyond the first postoperative year."
+      ]
+    },
+    {
+      "pmid": "42813241",
+      "title": "The Incidence and Breadth of Postoperative Pudendal Nerve Palsy and Its Relationship to Table Traction During Hip Arthroscopy With a Perineal Post.",
+      "authors": [
+        "Hoit G",
+        "Dwyer T",
+        "Chahal J",
+        "Burkhart TA",
+        "Curd E",
+        "Docter S",
+        "Farag J",
+        "Theodoropoulos J",
+        "Whelan DB"
+      ],
+      "authors_short": "Hoit G, Dwyer T, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Pudendal nerve palsy (PNP) is a poorly characterized and underreported postoperative complication of hip arthroscopy (HA) with a perineal post. PNP may result in external genital numbness and sexual dysfunction in both men and women. PURPOSE: To describe the incidence, breadth, and duration of postoperative PNP symptoms and to evaluate the relationship between PNP and intraoperative limb traction. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: All patients underwent primary unilateral HA in a supine position with a perineal post. Patients with preexisting PNP symptoms, including sexual dysfunction, were excluded. Intraoperative traction duration and force were recorded using a sensor applied to the perineal post. A PNP screening questionnaire and validated sexual function questionnaires were administered confidentially at 2 weeks, 6 weeks, 3 months, 6 months, and 12 months postoperatively. Patient-reported hip outcomes (International Hip Outcome Tool-33 [iHOT-33]) were completed preoperatively and at 6 and 12 months. RESULTS: A total of 93 patients were included (mean age, 36.4 years [SD, 9.2 years]; 55% male). The mean traction duration was 80 minutes (SD, 19 minutes). In the acute postoperative period, 77 (83%) patients experienced symptoms consistent with PNP. The most common symptoms were perineal numbness (75%), paresthesia (26%), and pain (18%). Urogenital or sexual dysfunction occurred in 39%, including erectile dysfunction in 22% of men and reduced sexual lubrication in 19% of women. At 3 months postoperatively, 26% of patients continued to have PNP symptoms, with 14% persisting to at least 6 months; all symptoms resolved by 12 months. Patients with PNP had greater traction force (MD, 18.1 kg; 95% CI, 0.3 to 37.1 kg) and longer traction time (MD, 15.4 minutes; 95% CI, 5.5 to 25.3 minutes). Longer traction duration was associated with increased odds of PNP (OR per additional 10 minutes, 1.59; 95% CI, 1.12 to 2.37). Persistence of symptoms beyond 6 weeks was associated with lower iHOT-33 scores at 6 months (MD, -14.4; 95% CI, -24.2 to -4.5). CONCLUSION: PNP symptoms were common after HA performed with perineal post traction, but most resolved within 6 months and all by 1 year. Increased traction duration and perineal pressure were significant predictors of symptom development, and persistent dysfunction correlated with lower hip-specific outcome scores.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42813241/",
+      "score": 69,
+      "score_reasoning": "Hip arthroscopy cohort study revealing 83% incidence of pudendal nerve palsy symptoms with detailed characterization of risk factors and duration addresses a poorly recognized complication with significant patient counseling implications.",
+      "bullets": [
+        "Pudendal nerve palsy occurred in 83% of patients after hip arthroscopy with a perineal post, causing perineal numbness, erectile dysfunction in 22% of men, and reduced lubrication in 19% of women.",
+        "Longer traction time and higher perineal post force directly increased the risk of pudendal nerve palsy, giving surgeons two modifiable factors to reduce this complication.",
+        "Most symptoms resolved by 6 months and all by 12 months, but patients with symptoms persisting beyond 6 weeks had meaningfully worse hip outcome scores at 6 months."
+      ]
+    },
+    {
+      "pmid": "42802642",
+      "title": "Reassessing the Kocher Criteria: A Prospective Evaluation of Diagnostic Performance in Pediatric Musculoskeletal Infection.",
+      "authors": [
+        "Rogie GA",
+        "Barksdale EM",
+        "Braithwaite HC",
+        "Mo M",
+        "Clever D",
+        "Enata N",
+        "Brouillet K",
+        "Quayle K",
+        "Luhmann SJ"
+      ],
+      "authors_short": "Rogie GA, Barksdale EM, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: The Kocher criteria are widely used to differentiate septic arthritis (SA) from transient synovitis (TS) in children. However, diagnostic performance has since been proven to be inconsistent. Furthermore, the criteria were originally developed to distinguish SA from TS and have not been validated for differentiating osteomyelitis (OM), which frequently presents with overlapping clinical features. The purpose of this prospective study was to evaluate the diagnostic performance of the Kocher criteria and other clinical variables in differentiating SA from both TS and OM. METHODS: A prospective cohort study of 102 pediatric patients (ages 0 to 18\u00a0y) presenting with suspected musculoskeletal infection was performed. Patients were categorized into 3 groups: TS (n=42), OM (n=30), and SA (n=30). Clinical variables, laboratory biomarkers (C-reactive protein, erythrocyte sedimentation rate, white blood cell count), and Kocher criteria were analyzed. Clinical, laboratory, and Kocher variables were compared across groups using appropriate univariate analyses and linear regression modeling, with P<0.05 being considered significant. RESULTS: Patients with SA and OM demonstrated significantly elevated inflammatory markers compared with TS, including C-reactive protein and erythrocyte sedimentation rate (both P<0.001). White blood cell count demonstrated weaker discriminatory ability (P=0.041). Tenderness to palpation and erythema were significantly more common in SA and OM than in TS (both P<0.001). Among patients with SA and TS only, the probability of SA increased from 9.5% with 0 criteria to 65% with 2 criteria, then plateaued at 66.7% with 3 or 4 criteria. When OM was included in the analysis, substantial overlap in the Kocher score distribution was observed between SA and OM. Notably, among patients meeting two criteria, SA and OM each accounted for 39.4% of diagnoses. No significant difference in Kocher criteria burden was identified between SA and OM cohorts (P=0.874). Hip-specific subgroup analysis demonstrated improved discriminatory performance, with no cases of SA or OM identified among patients meeting zero criteria. CONCLUSIONS: The Kocher criteria demonstrated moderate utility in distinguishing SA from TS but poor specificity for differentiating SA from OM because of substantial overlap in clinical presentation and inflammatory markers. The historically reported predictive performance of the Kocher criteria was not reproducible in this prospective cohort. The identified diagnostic plateau at \u22652 criteria suggests these scores should serve as an indicator for advanced imaging (magnetic resonance imaging) rather than a definitive surgical algorithm. LEVEL OF EVIDENCE: Level III (prospective cohort study).",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42802642/",
+      "score": 67,
+      "score_reasoning": "Prospective cohort study in JBJS using DTI-MRI to detect physeal microstructural changes after growth hormone therapy in children is novel, multicenter, and clinically significant for pediatric orthopaedic surgeons.",
+      "bullets": [
+        "The Kocher criteria reliably separate septic arthritis from transient synovitis but cannot distinguish septic arthritis from osteomyelitis, with both diagnoses equally likely once two criteria are met.",
+        "In children presenting with suspected musculoskeletal infection, a Kocher score of two or more should prompt MRI rather than direct surgical decision-making.",
+        "CRP and ESR are the most useful labs for ruling out infection in this population, while white blood cell count adds little discriminatory value."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-10-06T09:30:20.190362-07:00"
+}
