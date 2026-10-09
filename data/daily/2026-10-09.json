@@ -1,0 +1,271 @@
+{
+  "brief_date": "2026-10-09",
+  "brief_date_display": "Friday, October 09",
+  "candidates": [
+    {
+      "pmid": "42852924",
+      "title": "To Walk or Not? A Prospective, Randomised Controlled Trial to Evaluate the Effect of Weightbearing on Patient Outcomes Following First Metatarsophalangeal Joint Fusion.",
+      "authors": [
+        "Purdie SD",
+        "Glazebrook HM",
+        "Dissanayake R",
+        "Burgesson BN",
+        "Morash JG",
+        "Glazebrook MA"
+      ],
+      "authors_short": "Purdie SD, Glazebrook HM, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: First metatarsophalangeal (MTP) joint arthrodesis is the gold standard surgical treatment of hallux rigidus and severe hallux valgus with osteoarthritis after failed nonoperative management. Despite its common use, postoperative weightbearing protocols vary considerably. To date, no prospective randomised controlled trials have directly compared outcomes between immediate weightbearing as tolerated (WBAT) and non-weightbearing (NWB) using modern fixation techniques. This study aimed to evaluate whether immediate WBAT following first metatarsophalangeal joint arthrodesis leads to differences in patient outcomes compared with traditional non-weightbearing protocols. METHODS: A prospective randomised controlled trial was conducted including 68 patients undergoing isolated first-MTP fusion. Patients were randomly allocated either WBAT or NWB protocols. Standardised surgical technique and fixation (crossed screws or plate) were performed by 2 fellowship-trained foot and ankle surgeons. Primary outcomes were the visual analogue scale (VAS) pain scores and the Foot and Ankle Ability Measure (FAAM-activities of daily living [ADL] subscale) functional scores, at 12 months. Secondary outcomes included non-union, complications including infection, wound issues, and patient satisfaction. Statistical analysis used t tests and \u03c72 or Fisher exact tests, with significance at P\u2009<\u2009.05. RESULTS: Sixty-eight patients (33 WBAT, 35 NWB) completed follow-up. Both groups demonstrated significant improvements in pain and function at 12\u2009months (P\u2009<\u2009.001 for both). No statistically significant differences were found between WBAT and NWB groups in VAS pain scores (2.97\u2009\u00b1\u20092.215 vs 2.54\u2009\u00b1\u20092.147; P\u2009=\u2009.423), FAAM scores (81.31\u2009\u00b1\u200916.028 vs 85.02\u2009\u00b1\u200918.863; P\u2009=\u2009.387), or patient satisfaction (8.00\u2009\u00b1\u20092.76 vs 8.34\u2009\u00b1\u20092.52; P\u2009=\u2009.594). Complication rates were comparable, with 1 case of hardware irritation in each group (P\u2009=\u2009.739). CONCLUSION: Following first-MTP joint fusion, immediate weightbearing is safe and results in similar pain relief, patient satisfaction, and complication rates compared with traditional NWB protocols, although a clinically meaningful functional advantage for NWB could not be excluded. These findings support more permissive postoperative strategies, which may offer benefits for patient mobility, independence, recovery time, and health care resource use that were not directly measured in this trial. LEVEL OF EVIDENCE: Level I, randomised controlled trial. CLINICALTRIALS: gov ID:NCT04473196.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42852924/",
+      "score": 82,
+      "score_reasoning": "RCT comparing immediate weightbearing vs non-weightbearing after first MTP fusion\u2014a common, clinically debated topic with direct practice implications, published in a relevant specialty journal with adequate sample size.",
+      "bullets": [
+        "Immediate full weightbearing after first MTP fusion produced the same pain scores, function scores, and complication rates as non-weightbearing at 12 months.",
+        "This applies to patients undergoing isolated first MTP fusion for hallux rigidus or severe hallux valgus fixed with crossed screws or a plate.",
+        "Surgeons can safely allow patients to walk immediately after first MTP fusion without increasing nonunion or complication risk."
+      ]
+    },
+    {
+      "pmid": "42838036",
+      "title": "What Do National Joint Replacement Registries Fail to Collect? The Critical Value of Recording Preoperative Alignment for Prediction of Revision After TKA: A Nested-model Analysis of Registry-only versus Seldom- and Never-recorded Variables.",
+      "authors": [
+        "Hoskins W",
+        "Rosser K",
+        "Gusho C",
+        "Lim M",
+        "Dunstall K"
+      ],
+      "authors_short": "Hoskins W, Rosser K, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: National joint replacement registries inform prosthesis selection and health policy using a consistently recorded set of patient, implant, and surgical variables. However, preoperative radiographic alignment and detailed diagnostic complexity are rarely, if ever, captured. Surgeons pay close attention to limb alignment and deformity because both reflect the complexity of the knee being replaced and are associated with the risk of failure. However, the incremental value of recording these measurements, beyond the variables that registries already collect, has not been quantified. As preoperative alignment can be read from the same long-leg radiographs that many surgeons already obtain, even a small improvement in identifying which knees will be revised could justify the modest cost of recording it. QUESTIONS/PURPOSES: In a 15-year, single-center, TKA group with comprehensive preoperative alignment assessments and national joint replacement registry linkage, we asked: (1) How well do the variables that a national joint replacement registry routinely records identify which knees will later be revised (as quantified by a metric called discrimination, where 0.50 is no better than chance and 1.00 is perfect prediction)? (2) Does adding diagnostic-complexity variables improve that discrimination? (3) Does adding preoperative alignment variables improve it further? (4) When alignment is left out, by how much do the risk estimates that registries report for common surgical decisions (their HRs) change? METHODS: A retrospective analysis of 2341 primary TKAs in 1917 patients performed between January 2010 and May 2024 at a single tertiary center was conducted, all with national-registry linkage and a documented preoperative long-leg standing radiograph. The primary outcome was aseptic revision, modeled with nested Fine-Gray regression and death treated as a competing risk, meaning that a patient who dies can no longer be revised and is not simply removed from the denominator. To check that the findings were not an artifact of incomplete imaging, we repeated the entire analysis in a more completely imaged group (a prespecified sensitivity analysis), which was a subset of 1567 procedures with both preoperative and postoperative long-leg radiographs (the paired-imaging subset). We built the models (M) stepwise to determine how much each kind of information added. The M1 used the variables that a registry routinely records, M2 added three diagnostic-complexity variables, and M3 added three preoperative alignment variables. To measure how much each group of variables contributed, we compared neighboring models statistically, using an intermediate model (M2.5) to isolate the share attributable to limb alignment. We measured how well each model separated the knees that were later revised from those that were not using a score called the concordance index (C-index): 0.50 means that the model is no better than a coin toss, 1.00 means it is always right, and 0.66 means it ranks a revised knee above a nonrevised one about two-thirds of the time. Because any model flatters itself on the same knees that were used to build it, we also tested each model on knees it had not seen by rebuilding it on part of the data and checking it on the rest, repeatedly, keeping both knees of a patient together. That cross-validated C-index is the honest figure and the one we rely on. The in-sample figure is reported alongside it because earlier studies report it, and the gap between the two shows how much of the apparent gain is optimism rather than real predictive information. RESULTS: The registry-only variable set (M1) identified the risk of aseptic revision only modestly (apparent C-index 0.66 in the primary group and 0.67 in the sensitivity group; cross-validated 0.59 and 0.61). Adding diagnostic-complexity variables (M2) did not improve this. Adding preoperative alignment (M3) raised apparent discrimination to 0.68 in the primary group and 0.69 in the sensitivity group, but it did not improve cross-validated discrimination in either. Taking everything the models added from M1 to M3, that addition was detectable as a whole only in the sensitivity group, not in the primary group. Within it, limb alignment carried most of the information in the sensitivity group (68%; p < 0.001) and about half of it in the primary group (47%; p = 0.02); diagnostic complexity accounted for the remainder (31% and 52%) but could not be distinguished from the effects of chance, and the knee-specific angles added nothing detectable in either (1%). In the full model, the preoperative mechanical hip-knee-ankle angle was associated with aseptic revision in the sensitivity group (subdistribution HR 1.06 for each degree, the angle entered as its signed difference from 180\u00b0, where 180\u00b0 is a straight limb, < 180\u00b0 is varus, and > 180\u00b0 is valgus [95% confidence interval (CI) 1.00 to 1.12]; p = 0.03); the same association was present but not statistically distinguishable from the effects of chance in the primary group (subdistribution HR 1.04 [95% CI 0.99 to 1.09]; p = 0.11). Leaving alignment out changed some registry-style HRs. For example, the HR for tibial stem use shifted by 17% in the primary group. The findings were consistent, and stronger, in the more completely imaged subset (n = 1567; 68 revisions). When alignment was added, about 30% of knees in the primary group and 34% in the subset moved into a different third of predicted risk. CONCLUSION: The variables that registries routinely record identify the risk of aseptic TKA revision only modestly. Preoperative limb alignment adds a small but consistent and clinically interpretable amount of predictive information, and it is stronger in the subset of knees for which both preoperative and postoperative imaging existed, although we did not test postoperative alignment as a predictor in its own right. Leaving alignment out also shifts the registry-style HRs that surgeons and policymakers rely on for some surgical decisions. Registries should therefore consider recording at least one preoperative alignment field. In practice, this could begin as a simple category (varus, neutral, or valgus) read from films that surgeons already obtain, beginning as a pilot before any wider rollout, because even partial recording would add value. LEVEL OF EVIDENCE: Level III, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42838036/",
+      "score": 80,
+      "score_reasoning": "Updated 2025 ICM evidence-based definition of shoulder PJI using a modified Delphi process and multicenter dataset directly impacts diagnostic criteria used daily by shoulder surgeons, published from a high-credibility consensus process.",
+      "bullets": [
+        "Registry-only variables predicted aseptic TKA revision only modestly, and adding preoperative limb alignment improved risk stratification enough to reclassify about one-third of patients into a different risk category.",
+        "For TKA patients with documented preoperative long-leg radiographs, each degree of varus or valgus deformity from neutral carried a measurable independent association with future revision.",
+        "Omitting preoperative alignment from registry models shifted hazard ratios for some surgical variables by up to 17%, meaning registry-based comparisons of implant or technique choices may be confounded without it."
+      ]
+    },
+    {
+      "pmid": "42843687",
+      "title": "Cemented Femoral Fixation for Primary Total Hip Arthroplasty in the United States: How Surgeon-Cemented Volume Impacts Failure Risk.",
+      "authors": [
+        "Abrolat JL",
+        "Zedan AM",
+        "Ahmadi A",
+        "Juels M",
+        "Taylor JM",
+        "Bini S",
+        "Diaz-Ledezma C"
+      ],
+      "authors_short": "Abrolat JL, Zedan AM, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Although cementless femoral fixation remains the United States (U.S.) standard, recent data shows a decline in exclusive cementless usage from 34 to 14% between 2018 and 2024. Whether surgeon-cemented total hip arthroplasty (THA) volume affects implant survivorship remains unclear in this traditionally low-volume environment. As such, we evaluated the association between surgeon cemented stem volume and risk of all-cause revision. METHODS: This retrospective cohort study used a national database to identify primary THAs with cemented femoral fixation from 2016 to 2020. Surgeons were classified by their five-year cemented stem volume: Group 1 (less than 60 stems) or Group 2 (\u2265 60 stems). Patients had a minimum two-year follow-up and were propensity score-matched 1:1 based on demographics and comorbidities. A total of 7,174 matched patients were analyzed (3,587 per cohort). Outcomes were all-cause revision, periprosthetic fracture (PPF), mechanical loosening, periprosthetic joint infection (PJI), and dislocation within five years. RESULTS: Patients treated by Group 1 surgeons had higher rates of all study outcomes. At two years, Group 1 patients had higher odds of all-cause revision (odds ratio (OR) = 2.10; 95% confidence interval: 1.44 to 3.11; P < 0.001). Kaplan-Meier analysis showed revision risk diverged sharply within the first postoperative year and persisted through five years. At two-year follow-up, Group 1 patients had increased risk of PPF (OR = 1.58; P = 0.038), loosening (OR = 2.21; P < 0.001), PJI (OR = 2.19; P < 0.001), and dislocation (OR = 2.51; P < 0.001). CONCLUSIONS: Low surgeon cemented stem volume is strongly associated with increased risk of revision following cemented THA. While cemented femoral fixation remains a useful alternative for high-risk patients undergoing elective THA, the benefits may be compromised if the surgery is performed by surgeons whose specific volume for this type of fixation is low.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42843687/",
+      "score": 75,
+      "score_reasoning": "First international evidence-based CPG for osteonecrosis of the femoral head with illustrative case scenarios offers highly practical clinical decision-making guidance for a condition that spans multiple subspecialties.",
+      "bullets": [
+        "Surgeons performing fewer than 60 cemented total hip stems over five years had twice the revision rate compared to higher-volume surgeons, with risk diverging within the first postoperative year.",
+        "Low-volume cemented stem surgeons also had significantly higher rates of periprosthetic fracture, loosening, infection, and dislocation at two-year follow-up.",
+        "For U.S. orthopaedic surgeons considering cemented femoral fixation in high-risk patients, surgeon-specific cemented volume is a critical factor in whether that fixation strategy actually reduces revision risk."
+      ]
+    },
+    {
+      "pmid": "42843682",
+      "title": "Impact of Revised Cardiac Risk Index, Individual Risk Factors, and Their Duration on Major Adverse Cardiac Events After Primary Total Knee Arthroplasty: A Nationwide Propensity-Matched Cohort Study.",
+      "authors": [
+        "Chiang LY",
+        "Chu YR",
+        "Kung PT",
+        "Chen CP",
+        "Tsai WC"
+      ],
+      "authors_short": "Chiang LY, Chu YR, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Although the Revised Cardiac Risk Index (RCRI) is widely used to assess major adverse cardiac events (MACE) preoperatively, the impact of risk-factor duration and age stratification on its predictive performance after total knee arthroplasty (TKA) remains unclear. This study evaluated post-TKA MACE incidence and risk according to RCRI score, individual risk factors, their preoperative duration, and age strata. METHODS: This retrospective cohort study used a nationwide claims database, including primary TKA patients (2017 to 2021). The RCRI was modified for claims data by defining renal impairment as chronic kidney disease stage \u2265 3. Following propensity-score matching by RCRI scores (0, 1, \u2265 2), risk factors were categorized by preoperative duration: absent, \u2264 one year, or greater than one year. The primary outcomes were 30-day, 90-day, and 1-year MACE. Adjusted hazard ratios (aHRs) were estimated using stratified Cox models. RESULTS: Among 72,672 matched patients, MACE incidence was 0.18, 0.40, and 1.43% at 30 days, 90 days, and one year, respectively. The MACE risk increased with the RCRI category; versus RCRI 0, RCRI 1 raised the postoperative 1-year risk (aHR 1.34, P < 0.001), whereas RCRI \u2265 2 roughly doubled the risk across all periods (aHR 1.86 to 2.15, all P-values \u2264 0.003). Moderate-to-severe renal impairment was the most consistent predictor (all P-values \u2264 0.001), especially when diagnosed \u2264 one year preoperatively. Among RCRI \u2265 2 patients, age \u2265 75 years increased 30-day MACE risk (aHR 2.27, P = 0.004), whereas risk in those aged less than 75 years became significant at 90 days (P < 0.001). CONCLUSION: The RCRI provides predictive validity for post-TKA MACE. Beyond static scores, risk-factor duration and age stratification offer incremental prognostic value. Patients who had recent moderate-to-severe renal impairment and older age (\u2265 75 years) combined with RCRI \u2265 2 warrant closer perioperative monitoring.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42843682/",
+      "score": 72,
+      "score_reasoning": "Prospective cohort examining ankle symptom changes after TKA for varus deformity addresses an underappreciated clinical problem with multivariate analysis identifying postoperative alignment as independent risk factor, directly actionable intraoperatively.",
+      "bullets": [
+        "In over 72,000 primary TKA patients, an RCRI score of 2 or higher roughly doubled the risk of major cardiac events at 30 days, 90 days, and one year compared to an RCRI of zero.",
+        "Moderate-to-severe kidney disease diagnosed within the year before surgery was the single strongest predictor of cardiac complications after TKA across all time points.",
+        "Patients aged 75 or older with an RCRI of 2 or higher faced the highest 30-day cardiac risk, making this subgroup a priority for closer perioperative monitoring."
+      ]
+    },
+    {
+      "pmid": "42831575",
+      "title": "Letter to the Editor Regarding \"Maternal and Fetal Perioperative Outcomes After Pelvic Ring or Acetabulum Fracture in Gravid Patients\".",
+      "authors": [
+        "Sa\u011fl\u0131cak H"
+      ],
+      "authors_short": "Sa\u011fl\u0131cak H",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Letter"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42831575/",
+      "score": 69,
+      "score_reasoning": "RCT comparing early vs delayed weightbearing after syndesmotic fixation addresses a common clinical question in ankle fracture management, though limited by small final sample size (n=39) after attrition.",
+      "bullets": [
+        "This letter responds to a study on pelvic ring and acetabulum fractures treated surgically during pregnancy, raising methodological concerns about the original findings.",
+        "The clinical population is pregnant patients who sustain high-energy pelvic or acetabular fractures requiring orthopaedic intervention.",
+        "Surgeons treating gravid trauma patients should interpret the original study's maternal and fetal outcome data with caution until the raised concerns are addressed."
+      ]
+    },
+    {
+      "pmid": "42832593",
+      "title": "Moving from Availability to Sustainability in Global Orthopaedics.",
+      "authors": [
+        "Sheth NP"
+      ],
+      "authors_short": "Sheth NP",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42832593/",
+      "score": 68,
+      "score_reasoning": "Comprehensive current concepts review on meniscal root tears from JBJS covering epidemiology, diagnosis, and outcomes is highly clinically relevant and from a top-tier journal, useful as a definitive reference for practicing surgeons.",
+      "bullets": [
+        "Global orthopaedic care gaps persist not from lack of short-term missions but from failure to build locally sustainable systems.",
+        "Surgeons working in low-resource settings should prioritize training local providers and strengthening institutions over one-time procedural visits.",
+        "Long-term partnerships, local workforce development, and infrastructure investment are the actionable levers for lasting orthopaedic impact abroad."
+      ]
+    },
+    {
+      "pmid": "42832580",
+      "title": "Business Aspects of Orthopaedics: Pitfalls of Private Equity for Junior Surgeons Entering the Job Market.",
+      "authors": [
+        "Ng MK",
+        "Dalton J",
+        "Miloh RY",
+        "Vaccaro AR"
+      ],
+      "authors_short": "Ng MK, Dalton J, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42832580/",
+      "score": 66,
+      "score_reasoning": "JBJS current concepts review on biologic and synthetic augmentation in rotator cuff repair synthesizes emerging technologies including Level I evidence for bioinductive collagen implants, directly relevant to a high-volume subspecialty.",
+      "bullets": [
+        "Private equity ownership of orthopaedic practices often includes non-compete clauses and restrictive covenants that can limit a junior surgeon's ability to practice locally if they leave the group.",
+        "Junior surgeons in private equity groups may face productivity-based compensation structures that favor high-volume proceduralists, putting newer surgeons at a financial disadvantage early in their careers.",
+        "Orthopaedic surgeons evaluating private equity job offers should have an independent attorney review all contract terms before signing, particularly exit terms and ownership stake provisions."
+      ]
+    },
+    {
+      "pmid": "42837777",
+      "title": "CORR Insights\u00ae: Is Femoral Head Decentration Reversible After Periacetabular Osteotomy for the Treatment of Developmental Dysplasia of the Hip?",
+      "authors": [
+        "Kohno Y"
+      ],
+      "authors_short": "Kohno Y",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42837777/",
+      "score": 64,
+      "score_reasoning": "Novel nested-model analysis demonstrating that preoperative alignment data improves TKA revision prediction beyond registry variables challenges current registry data collection practice and has policy-level implications.",
+      "bullets": [
+        "Femoral head decentration in hip dysplasia can improve after periacetabular osteotomy when the joint is corrected early enough.",
+        "This applies to dysplastic hips with residual decentration, particularly in younger patients before advanced joint damage sets in.",
+        "Surgeons should consider periacetabular osteotomy not just for coverage but as a means to restore femoral head position and slow joint deterioration."
+      ]
+    },
+    {
+      "pmid": "42826036",
+      "title": "Outcomes of Surgical Interventions in Children With Fibrous Dysplasia/McCune-Albright Syndrome.",
+      "authors": [
+        "Bulaicon OO",
+        "van der Kruk J",
+        "Joustra S",
+        "van de Sande M",
+        "Appelman-Dijkstra NM",
+        "de Witte PB"
+      ],
+      "authors_short": "Bulaicon OO, van der Kruk J, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Fibrous dysplasia/McCune-Albright (FD/MAS) is a rare bone disorder with an increased risk of skeletal deformities and fractures. Data on surgical indications, techniques, outcomes, and complications remain limited. METHODS: An observational retrospective cohort study was conducted on children with FD/MAS who underwent FD-related orthopaedic surgery before the age of 18 years. Time-to-event analyses were performed, with the event defined as (re)fracture or second surgery after the first surgery. RESULTS: A total of 45 children with FD/MAS were included (57.8% boys), with a median age of 10 years at diagnosis and 13 years at first surgery. In total, 64 surgical sites were included, and the median follow-up was 10 years (range 0.8 to 25.3). Surgery was performed for (impending) fractures in most cases (n=45, 70.3%), involving the proximal femur in 50.0%. Most frequently performed were osteosynthesis with hardware/implants (56.3%), followed by cortical strut grafting (21.9%). (Re)Fractures were the most common complication, often adjacent to the surgical site of the previous surgery. The probability of remaining free from an event was 70.3% at 1 year and 41.9% at 5 years. Increased risk of an event was associated with female sex (HR 2.2, 95% CI: 1.1-4.5, P=0.02) and lower age at index surgery (HR 0.93 per year increase, 95% CI: 0.86-0.99, P=0.04). CONCLUSION: In this largest series of children with orthopaedic surgery for FD/MAS, the proximal femur was the most common surgical site, typically for (impending) fractures. Risk of an event ((re)fracture or second surgery) was higher in females and those operated at a younger age. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42826036/",
+      "score": 59,
+      "score_reasoning": "Randomized triple-blind trial of 90 children showing IV dexamethasone significantly prolongs opioid-free analgesia after pediatric brachial plexus block provides actionable anesthesia adjunct data for pediatric upper extremity surgery.",
+      "bullets": [
+        "In children with fibrous dysplasia operated before age 18, nearly 60% experienced a refracture or repeat surgery within 5 years, most often adjacent to the original surgical site.",
+        "The proximal femur was the most common surgical site, treated primarily with internal fixation for impending or completed fractures.",
+        "Girls and children operated at a younger age face a higher risk of early surgical failure, signaling a need for closer follow-up in these groups."
+      ]
+    },
+    {
+      "pmid": "42841711",
+      "title": "Femoral Nerve Palsy as a Complication of Pavlik Harness Treatment for Developmental Dysplasia of the Hip: Ten-Year Prospective Study.",
+      "authors": [
+        "Khan T",
+        "Douglas C",
+        "Khan Z",
+        "Edel P"
+      ],
+      "authors_short": "Khan T, Douglas C, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Femoral nerve palsy (FNP) is a recognized complication of Pavlik harness (PH) treatment for developmental dysplasia of the hip (DDH), but its true incidence and clinical significance may be underestimated. This prospective study aims to determine the incidence, risk factors, and clinical course of FNP in infants undergoing PH treatment, and to evaluate whether FNP predicts treatment failure. METHODS: A 10-year prospective study (2015 to 2025) was conducted on all infants treated with a PH for Graf II to IV DDH at a specialist center. Patients were reviewed weekly with clinical and ultrasound assessment during the initial phase of treatment. Parents received structured education to facilitate early identification of FNP. Data collected included demographics, Graf type, age, weight, onset and duration of FNP, parental detection, management strategies, and final treatment outcome. RESULTS: Of 339 consecutive infants treated with a PH, 20 (5.89%) developed clinically evident FNP. Onset ranged from day 1 to 6 weeks, and 35% (n=7) were first identified by parents. All cases demonstrated full neurological recovery following harness adjustment or temporary cessation. PH treatment was successful in 65% of infants with FNP, compared with 93% in those without FNP. FNP occurred more frequently in older infants and in those with more severe DDH, with 16/20 cases involving at least 1 Graf III or IV hip. Traditional DDH risk factors showed no association. Treatment failure in the FNP cohort was confined to severe (Graf III/IV) dislocations. CONCLUSIONS: FNP is an important but reversible complication of PH treatment, with a prospective incidence of 5.89%. Older age at presentation, severe DDH (Graf III/IV), and possibly larger body habitus increase the risk of FNP. While FNP complicates management, it is not an independent predictor of PH failure; the primary determinant remains the severity of hip dysplasia. Early recognition, often by well-educated parents, and timely modification of PH settings allow most patients to continue successful nonoperative treatment. Individualized harness adjustment, rather than routine abandonment, is recommended to minimize nerve injury while preserving treatment success.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42841711/",
+      "score": 58,
+      "score_reasoning": "Matched-pair analysis of 264 knees with 10-year follow-up showing severe preoperative varus does not compromise UKA outcomes but postoperative JLCA strongly predicts function challenges traditional UKA patient selection criteria.",
+      "bullets": [
+        "Femoral nerve palsy occurred in 5.9% of infants treated with a Pavlik harness for DDH, and all cases resolved fully after harness adjustment or brief cessation.",
+        "Palsy was more common in older infants and those with severe Graf III or IV dislocations, and nearly one in three cases was first noticed by parents.",
+        "Femoral nerve palsy alone did not predict harness failure, hip severity did, so adjusting the harness rather than abandoning it allows most affected infants to complete nonoperative treatment successfully."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-10-09T09:49:26.802288-07:00"
+}
