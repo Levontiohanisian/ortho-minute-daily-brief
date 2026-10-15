@@ -1,0 +1,301 @@
+{
+  "brief_date": "2026-10-15",
+  "brief_date_display": "Thursday, October 15",
+  "candidates": [
+    {
+      "pmid": "42873990",
+      "title": "A Prospective Randomized Trial to Assess Early versus Delayed Weight Bearing Following Operatively Treated Ankle Fractures in the United States.",
+      "authors": [
+        "Obremskey WT",
+        "Archer KR",
+        "Gaski GE",
+        "Gitajn IL",
+        "Natoli RM",
+        "Spitler CA",
+        "Levy JF",
+        "Thompson RE",
+        "Wysocki E",
+        "Reider L"
+      ],
+      "authors_short": "Obremskey WT, Archer KR, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To determine the safety of early versus delayed weight bearing and effectiveness for improving return-to-work following ankle fracture repair. METHODS: Design: Prospective randomized study. SETTING: 19 United States Trauma Centers. PATIENT SELECTION CRITERIA: Adult patients (\u226518 years) with ankle fracture (OTA/AO 44 A, B or C) undergoing surgical fixation were included. Open Gustilo-Anderson (G-A) Type IIIB, IIIC, syndesmotic injuries with fixation, and injuries with arterial impaction that surgeons felt unsafe to weight were excluded. OUTCOME MEASURES AND COMPARISONS: The co-primary outcomes were (1) non-inferiority of early versus delayed weight bearing for reoperation for complications of hardware failure, non-union, loss of reduction, infection, or fusion; and (2) gated superiority of early versus delayed weight bearing for time to return-to-work, both within 365 days of randomization. Reoperation and time to return-to-work was compared between patients assigned to early (2 weeks post-operatively) versus delayed (6 weeks post-operatively) weight bearing. RESULTS: The modified intent to treat sample included 418 patients enrolled between January 2020 through October 2023; 214 early (mean age: 47; SD (15) range (18-84); 35% male); 204 delayed (mean age: 43; SD (15); 36% male). Reoperation for complication occurred in 5 early (2.3%, 95% Confidence Interval (CI): 0.3%, 4.4%), and 7 delayed patients (3.4%, 95% CI: 0.9%, 5.9%). Median time to return-to-work (95% CI) was 54 (42, 77) days and 69 (47, 89) days for the early and delayed groups, respectively. Early weight bearing was non-inferior to delayed weight bearing for reoperation (difference in complication free survival (early - delayed): 1.5 percentage points; 90% two sided CI: -1.7%, 4.8% which excluded the non-inferiority tolerance of -5.0%) and not superior for return-to-work (Hazard Ratio 1.1, 95% CI: 0.8, 1.6, p=0.475). CONCLUSIONS: Trial findings add to the growing evidence demonstrating the safety of early weight bearing after fixation of bimalleolar and trimalleolar ankle fracture without syndesmotic disruption, a key concern for both clinicians and patients. However, no statistically significant benefit of earlier return-to-work was found. LEVEL OF EVIDENCE: I.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42873990/",
+      "score": 82,
+      "score_reasoning": "High-quality multicenter RCT from 19 US trauma centers with 418 patients directly answering a common clinical question about weight-bearing timing after ankle ORIF, published in a strong trauma journal.",
+      "bullets": [
+        "Early weight bearing at 2 weeks after surgical ankle fracture fixation carries the same low reoperation rate as waiting 6 weeks, around 2 to 3 percent in both groups.",
+        "This applies to adults with operatively fixed bimalleolar or trimalleolar ankle fractures without syndesmotic injury or severe open wounds.",
+        "Surgeons can allow weight bearing at 2 weeks post-op without increased hardware failure, infection, or loss of reduction, though earlier return to work was not statistically confirmed."
+      ]
+    },
+    {
+      "pmid": "42838219",
+      "title": "Proceedings from the 2025 International Consensus Meeting on Orthopedic Infections: the definition of Shoulder Periprosthetic Joint infection.",
+      "authors": [
+        "Namdari S",
+        "Zmistowski B",
+        "Hsu J",
+        "Tashjian RZ",
+        "Nicholson T"
+      ],
+      "authors_short": "Namdari S, Zmistowski B, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Periprosthetic joint infection (PJI) remains one of the greatest diagnostic and treatment challenges facing shoulder surgeons and their patients. A definition for shoulder PJI was established by the 2018 International Consensus Meeting (ICM) on Orthopedic Infections, but the selection and weighting of its minor criteria relied largely on expert opinion. The purpose of this study was to present an updated, evidence-based definition of shoulder PJI generated by the 2025 ICM Shoulder Group. METHODS: The 2025 ICM Shoulder Group, an international panel of shoulder surgeons and infectious disease specialists, used a modified Delphi process informed by 86 systematic reviews and by a predictive statistical model derived from the American Shoulder and Elbow Surgeons (ASES) Multicenter Revision Arthroplasty and PJI Group dataset to reconsider the 2018 ICM definition of shoulder PJI, including its major criteria, minor criteria, and diagnostic categories. RESULTS: The delegates voted to eliminate organism virulence from the definition and to retain gross intra-articular purulence and presence of a sinus tract as the two criteria defining Definite PJI. The Minor Criteria were revised to include erythema, unexpected wound drainage, elevated erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP), elevated synovial neutrophil percentage, positive frozen section, radiographic humeral osteolysis, intraoperative humeral loosening, and positive culture, each statistically weighted using the predictive model. Non-definite PJI was categorized by summed minor criteria score as High likelihood (\u226513 points), Moderate likelihood (7-12 points), Unknown (1-6 points), or No PJI (0 points). The final definition achieved unanimous delegate consensus (51 of 51 delegates; 100% agreement; super majority, strong consensus). CONCLUSIONS: The 2025 ICM definition of shoulder PJI represents an evidence-informed evolution of the 2018 definition, combining statistical modeling of prospective multicenter data with structured expert consensus. The definition is expected to continue to evolve as further shoulder-specific data become available.",
+      "pub_types": [
+        "Conference Proceedings"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42838219/",
+      "score": 78,
+      "score_reasoning": "ICM consensus proceedings from 2025 with international panel using modified Delphi and 86 systematic reviews to produce an updated evidence-based shoulder PJI definition, directly impacting diagnosis and management across shoulder arthroplasty practice.",
+      "bullets": [
+        "The 2025 ICM updated the shoulder PJI definition, keeping purulence and sinus tract as definite criteria while removing organism virulence and adding weighted minor criteria including ESR, CRP, synovial neutrophil percentage, frozen section, osteolysis, and culture.",
+        "Non-definite cases are now scored and categorized as high likelihood (13+ points), moderate likelihood (7 to 12 points), unknown (1 to 6 points), or no PJI (0 points), giving surgeons a structured diagnostic framework.",
+        "This applies to any patient undergoing revision shoulder arthroplasty where infection is on the differential, and gives orthopaedic surgeons an evidence-based scoring system rather than relying on expert opinion alone."
+      ]
+    },
+    {
+      "pmid": "42852924",
+      "title": "To Walk or Not? A Prospective, Randomised Controlled Trial to Evaluate the Effect of Weightbearing on Patient Outcomes Following First Metatarsophalangeal Joint Fusion.",
+      "authors": [
+        "Purdie SD",
+        "Glazebrook HM",
+        "Dissanayake R",
+        "Burgesson BN",
+        "Morash JG",
+        "Glazebrook MA"
+      ],
+      "authors_short": "Purdie SD, Glazebrook HM, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: First metatarsophalangeal (MTP) joint arthrodesis is the gold standard surgical treatment of hallux rigidus and severe hallux valgus with osteoarthritis after failed nonoperative management. Despite its common use, postoperative weightbearing protocols vary considerably. To date, no prospective randomised controlled trials have directly compared outcomes between immediate weightbearing as tolerated (WBAT) and non-weightbearing (NWB) using modern fixation techniques. This study aimed to evaluate whether immediate WBAT following first metatarsophalangeal joint arthrodesis leads to differences in patient outcomes compared with traditional non-weightbearing protocols. METHODS: A prospective randomised controlled trial was conducted including 68 patients undergoing isolated first-MTP fusion. Patients were randomly allocated either WBAT or NWB protocols. Standardised surgical technique and fixation (crossed screws or plate) were performed by 2 fellowship-trained foot and ankle surgeons. Primary outcomes were the visual analogue scale (VAS) pain scores and the Foot and Ankle Ability Measure (FAAM-activities of daily living [ADL] subscale) functional scores, at 12 months. Secondary outcomes included non-union, complications including infection, wound issues, and patient satisfaction. Statistical analysis used t tests and \u03c72 or Fisher exact tests, with significance at P\u2009<\u2009.05. RESULTS: Sixty-eight patients (33 WBAT, 35 NWB) completed follow-up. Both groups demonstrated significant improvements in pain and function at 12\u2009months (P\u2009<\u2009.001 for both). No statistically significant differences were found between WBAT and NWB groups in VAS pain scores (2.97\u2009\u00b1\u20092.215 vs 2.54\u2009\u00b1\u20092.147; P\u2009=\u2009.423), FAAM scores (81.31\u2009\u00b1\u200916.028 vs 85.02\u2009\u00b1\u200918.863; P\u2009=\u2009.387), or patient satisfaction (8.00\u2009\u00b1\u20092.76 vs 8.34\u2009\u00b1\u20092.52; P\u2009=\u2009.594). Complication rates were comparable, with 1 case of hardware irritation in each group (P\u2009=\u2009.739). CONCLUSION: Following first-MTP joint fusion, immediate weightbearing is safe and results in similar pain relief, patient satisfaction, and complication rates compared with traditional NWB protocols, although a clinically meaningful functional advantage for NWB could not be excluded. These findings support more permissive postoperative strategies, which may offer benefits for patient mobility, independence, recovery time, and health care resource use that were not directly measured in this trial. LEVEL OF EVIDENCE: Level I, randomised controlled trial. CLINICALTRIALS: gov ID:NCT04473196.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42852924/",
+      "score": 75,
+      "score_reasoning": "Prospective RCT with 68 patients comparing immediate versus non-weightbearing after first MTP fusion, addressing a directly practice-relevant controversy with strong study design in a specialty-focused journal.",
+      "bullets": [
+        "Immediate full weightbearing after first MTP fusion produced the same pain scores, function, and satisfaction at 12 months as traditional non-weightbearing in a randomised trial of 68 patients.",
+        "Complication and non-union rates were equivalent between groups, with one hardware irritation case in each arm.",
+        "Surgeons can safely offer immediate weightbearing after first MTP fusion, removing the need to routinely restrict patients postoperatively."
+      ]
+    },
+    {
+      "pmid": "42853908",
+      "title": "Defining Long-Term Success After Anatomic Total Shoulder Arthroplasty: Survivorship and Clinically Important Outcomes.",
+      "authors": [
+        "Kucharik MP",
+        "Hung V",
+        "Jones T",
+        "Patel R",
+        "Ranson WA",
+        "Schmidt CM",
+        "Christmas KN",
+        "Frankle MA"
+      ],
+      "authors_short": "Kucharik MP, Hung V, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Long-term success after anatomic total shoulder arthroplasty (aTSA) is frequently defined by implant survivorship, but revision-free survival may not reflect durable clinical benefit. METHODS: A retrospective cohort study of 791 consecutive aTSAs performed between 2003 and 2015 was conducted. Implant survivorship was assessed using Kaplan-Meier analysis. Clinical outcomes were evaluated at a 10-year landmark, and clinically important thresholds for the American Shoulder and Elbow Surgeons (ASES) score were derived using patient satisfaction as the anchor. Multivariable regression identified predictors of revision and substantial clinical benefit (SCB). RESULTS: Kaplan-Meier survivorship was 96.1% at 10 years and 93.7% at 15 years. Walch B glenoid morphology and younger age were independently associated with revision. Clinical outcomes remained improved at long-term follow-up despite gradual attenuation over time. At 10 years, the patient acceptable symptom state (PASS) threshold for the ASES score was 68.1, and 69.5% of shoulders achieved it. The minimal clinically important difference (MCID) and SCB thresholds for the change in ASES score were 14.0 and 39.2, achieved by 79.9% and 55.8% of shoulders, respectively. Younger age, primary glenohumeral osteoarthritis, and lower preoperative ASES score were independently associated with achievement of SCB. CONCLUSIONS: aTSA demonstrated excellent long-term implant survivorship and modest patient-reported outcomes, although shoulder function gradually attenuated over extended follow-up. Despite the gradual functional decline, most patients maintained clinically meaningful benefit at 10 years. Younger age and Walch B morphology increased revision risk. Long-term clinically important thresholds provide patient-centered benchmarks for defining durable success. LEVEL OF EVIDENCE: Prognostic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42853908/",
+      "score": 72,
+      "score_reasoning": "Large retrospective registry-based cohort of 1,970 patients comparing PFNA vs TFNA cephalomedullary nails for pertrochanteric fractures, providing clinically important implant selection data for a very common operation.",
+      "bullets": [
+        "Anatomic total shoulder arthroplasty showed 96% implant survival at 10 years and 94% at 15 years, but about 30% of patients did not reach an acceptable symptom state by 10 years.",
+        "Younger patients and those with Walch B glenoid morphology face higher revision risk and should be counseled accordingly before surgery.",
+        "Functional gains after anatomic total shoulder arthroplasty gradually decline over time, so long-term follow-up and realistic patient expectations are clinically important."
+      ]
+    },
+    {
+      "pmid": "42843687",
+      "title": "Cemented Femoral Fixation for Primary Total Hip Arthroplasty in the United States: How Surgeon-Cemented Volume Impacts Failure Risk.",
+      "authors": [
+        "Abrolat JL",
+        "Zedan AM",
+        "Ahmadi A",
+        "Juels M",
+        "Taylor JM",
+        "Bini S",
+        "Diaz-Ledezma C"
+      ],
+      "authors_short": "Abrolat JL, Zedan AM, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Although cementless femoral fixation remains the United States (U.S.) standard, recent data shows a decline in exclusive cementless usage from 34 to 14% between 2018 and 2024. Whether surgeon-cemented total hip arthroplasty (THA) volume affects implant survivorship remains unclear in this traditionally low-volume environment. As such, we evaluated the association between surgeon cemented stem volume and risk of all-cause revision. METHODS: This retrospective cohort study used a national database to identify primary THAs with cemented femoral fixation from 2016 to 2020. Surgeons were classified by their five-year cemented stem volume: Group 1 (less than 60 stems) or Group 2 (\u2265 60 stems). Patients had a minimum two-year follow-up and were propensity score-matched 1:1 based on demographics and comorbidities. A total of 7,174 matched patients were analyzed (3,587 per cohort). Outcomes were all-cause revision, periprosthetic fracture (PPF), mechanical loosening, periprosthetic joint infection (PJI), and dislocation within five years. RESULTS: Patients treated by Group 1 surgeons had higher rates of all study outcomes. At two years, Group 1 patients had higher odds of all-cause revision (odds ratio (OR) = 2.10; 95% confidence interval: 1.44 to 3.11; P < 0.001). Kaplan-Meier analysis showed revision risk diverged sharply within the first postoperative year and persisted through five years. At two-year follow-up, Group 1 patients had increased risk of PPF (OR = 1.58; P = 0.038), loosening (OR = 2.21; P < 0.001), PJI (OR = 2.19; P < 0.001), and dislocation (OR = 2.51; P < 0.001). CONCLUSIONS: Low surgeon cemented stem volume is strongly associated with increased risk of revision following cemented THA. While cemented femoral fixation remains a useful alternative for high-risk patients undergoing elective THA, the benefits may be compromised if the surgery is performed by surgeons whose specific volume for this type of fixation is low.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42843687/",
+      "score": 70,
+      "score_reasoning": "Large population-based cohort study (72,672 matched patients) evaluating cardiac risk stratification before TKA using RCRI with granular risk factor duration analysis, highly relevant for preoperative counseling.",
+      "bullets": [
+        "Surgeons who performed fewer than 60 cemented total hip stems over five years had twice the revision rate compared to higher-volume surgeons at two-year follow-up.",
+        "Low-volume cemented stem surgeons also had significantly higher rates of periprosthetic fracture, loosening, infection, and dislocation within five years.",
+        "When choosing cemented femoral fixation for high-risk patients, surgeon-specific experience with cemented technique matters as much as implant selection."
+      ]
+    },
+    {
+      "pmid": "42853909",
+      "title": "To Lengthen or Revise: Reevaluating Anterior Acetabular Overhang Thresholds in Iliopsoas Impingement After Total Hip Arthroplasty.",
+      "authors": [
+        "Clark DS",
+        "Kelly JJ",
+        "Yanamala SR",
+        "Helgeson EE",
+        "Trousdale RT",
+        "Levy BA",
+        "Taunton MJ",
+        "Hevesi M"
+      ],
+      "authors_short": "Clark DS, Kelly JJ, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Iliopsoas impingement (IPI) is a known cause of persistent anterior hip pain following total hip arthroplasty (THA). Management of IPI has often relied on an 8-mm anterior acetabular overhang threshold to guide operative treatment, favoring acetabular revision for greater overhang and iliopsoas tenotomy for lesser overhang. These thresholds were initially established on the basis of the outcomes of open tenotomy, and now, with an improved understanding of IPI and the advent of arthroscopic iliopsoas fractional lengthening (IPFL), a review of the 8-mm threshold is warranted. METHODS: A retrospective review was performed to identify patients who underwent arthroscopic IPFL following primary THA between 2017 and 2024, with a minimum follow-up of 1 year. Acetabular overhang was measured for all patients using cross-table lateral radiographs, and patients were stratified into <8-mm and \u22658-mm cohorts. Patient-reported outcome measures, reoperations, revisions, and complications were collected and analyzed on the basis of both the classic 8-mm threshold and continuous statistical methods. RESULTS: We evaluated 86 hips undergoing IPFL. There were 83 patients (30 men and 53 women), with a mean age of 63.0 \u00b1 11.2 years; with regard to race, 80 patients were White, 1 patient was Black or African American, and 2 patients listed other race or chose not to disclose. The acetabular overhang was <8 mm for 67 hips and \u22658 mm for 19 hips. The mean follow-up was 2.5 \u00b1 1.6 years (range, 1 to 7.5 years). When comparing patients with <8-mm and \u22658-mm acetabular overhang, we observed no significant differences (p > 0.06) in the preoperative and postoperative visual analog scale (VAS) pain scores, modified Harris hip score, Single Assessment Numeric Evaluation (SANE) score, Tegner activity level, subjective groin pain improvement, subjective hip flexion strength improvement, and overall satisfaction. Reoperation (2.9% compared with 10.5%; p = 0.210) and acetabular revision rates (1.5% compared with 5%; p = 0.387) were not significantly different between the <8-mm and \u22658-mm overhang groups. CONCLUSIONS: Arthroscopic IPFL provided satisfactory outcomes for patients with IPI, independent of the magnitude of acetabular overhang. IPFL should be considered for first-line surgical management of IPI refractory to nonoperative management, even in the setting of substantial acetabular overhang, given positive outcomes and low rates of subsequent acetabular revision. LEVEL OF EVIDENCE: Therapeutic Level IV. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42853909/",
+      "score": 68,
+      "score_reasoning": "JBJS review/current concepts article on iliopsoas impingement after THA with a 86-patient retrospective cohort challenging the established 8-mm overhang threshold, directly applicable to a common postoperative pain problem.",
+      "bullets": [
+        "Arthroscopic iliopsoas fractional lengthening relieved anterior hip pain after total hip arthroplasty regardless of how much the acetabular cup overhung anteriorly, including cases with 8 mm or more of overhang.",
+        "Patients with large acetabular overhang who underwent lengthening alone had low rates of subsequent cup revision, similar to those with minimal overhang.",
+        "The traditional 8 mm threshold used to decide between lengthening and cup revision no longer holds, and lengthening should be the first surgical option for refractory iliopsoas impingement after total hip arthroplasty."
+      ]
+    },
+    {
+      "pmid": "42843685",
+      "title": "Systemic Exposure and Renal Safety After Intrawound Vancomycin Powder in Primary Total Knee Arthroplasty: A Prospective Comparative Cohort Study.",
+      "authors": [
+        "Bingol O",
+        "Karlidag T",
+        "Ozsoy HE",
+        "Aydin T",
+        "Keskin OH",
+        "Ozkurt B"
+      ],
+      "authors_short": "Bingol O, Karlidag T, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Periprosthetic joint infection (PJI) is a devastating complication after total knee arthroplasty (TKA). Intrawound vancomycin powder has been proposed as a local prophylactic measure, but concerns remain regarding systemic absorption and nephrotoxicity. This study evaluated systemic absorption, renal safety, and postoperative infection outcomes after intrawound vancomycin use in primary TKA. METHODS: This prospective comparative cohort study included 260 patients who underwent primary TKA at a single tertiary care center: 130 in the vancomycin cohort and 130 in the control cohort. The vancomycin cohort received one gram of intrawound vancomycin powder before closure. Serum vancomycin levels were measured 12 hours postoperatively. Serial renal function and kidney disease: Improving Global Outcomes (KDIGO)-defined acute kidney injury (AKI) was analyzed in all patients. Infection and wound-complication outcomes were assessed in patients who completed at least six months of follow-up. RESULTS: The 12-hour serum vancomycin levels were below the laboratory reporting threshold (less than 1.00 mg/L) in 104 of 130 patients (80.0%). Among the remaining 26 patients who had numerical values, the median concentration was 0.28 mg/L (interquartile range [IQR], 0.21 to 1.26; range, 0.01 to 2.76 mg/L), which was well below systemic therapeutic levels. Serum vancomycin concentration was not correlated with early changes in serum creatinine or estimated glomerular filtration rate (Spearman \u03c1 range, -0.08 to -0.03; all P \u2265 0.720). AKI occurred in nine patients (6.9%) in the vancomycin group and eight patients (6.2%) in the control group (odds ratio, 1.13; 95% confidence interval [CI], 0.42 to 3.04; P = 1.000). All AKI events in the vancomycin group were stage 1. Surgery-related complication rates were similar between groups, with no statistically significant differences in PJI, superficial infection, or wound dehiscence. CONCLUSION: Intrawound administration of one gram of vancomycin powder in primary TKA resulted in minimal systemic exposure and showed no clinically meaningful nephrotoxicity signal. However, it was not associated with a statistically significant reduction in infection or wound-complication outcomes; therefore, these data do not support its routine prophylactic use in primary TKA.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42843685/",
+      "score": 67,
+      "score_reasoning": "Nationwide propensity-matched cohort of 7,174 cemented THA patients demonstrating significantly higher revision risk with low-volume cemented stem surgeons, with important implications as cemented fixation resurges in the US.",
+      "bullets": [
+        "One gram of intrawound vancomycin powder in primary TKA produced negligible systemic absorption, with serum levels undetectable in 80% of patients at 12 hours.",
+        "Kidney injury rates were identical between vancomycin and control groups, meaning renal toxicity is not a meaningful concern with this dose in standard TKA patients.",
+        "Intrawound vancomycin did not reduce infection or wound complications compared to controls, so routine use in primary TKA is not supported by this evidence."
+      ]
+    },
+    {
+      "pmid": "42863562",
+      "title": "Predictive Modeling of Clinically Apparent Shoulder Periprosthetic Joint Infection (PJI).",
+      "authors": [
+        "Hsu JE",
+        "Ricchetti ET",
+        "Tashjian R",
+        "Namdari S",
+        "Collins AP",
+        "Fedorka C",
+        "Kim HM",
+        "Zhang C",
+        "Presson AP",
+        "Whiston AJ"
+      ],
+      "authors_short": "Hsu JE, Ricchetti ET, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: The first International Consensus Meeting (ICM) definition of shoulder periprosthetic joint infection (PJI) introduced a tiered framework of PJI categories based on weighting of minor criteria for those cases not having major criteria of Definite infection. The selection of minor criteria and weightings was based on expert opinion and limited available evidence. The purpose of this study was to use prospective, multicenter data to develop a predictive model for clinically apparent shoulder PJI to inform a more evidence-based understanding of minor criteria and PJI categories. METHODS: Prospective data were collected on 861 consecutive revision shoulder arthroplasty cases within the American Shoulder and Elbow Surgeons (ASES) Revision Shoulder Arthroplasty and PJI Multicenter Research Group. Presence of a sinus tract communicating with the prosthesis and intra-articular purulence were identified as pathognomonic indicators of infection (major criteria) and used as the primary outcome for multivariable analysis. Logistic regression modeling was performed, with model specification guided by information criteria. Variable selection emphasized optimal model fit while balancing complexity, focusing on: (1) markers of host inflammatory response, (2) universally available and commonly utilized diagnostic tests, (3) minimizing the total number of variables, and (4) preserving model usability despite missing data. RESULTS: Among 861 cases, 97 shoulders (11%) met the outcome of interest (sinus tract or intra-articular purulence). The final model incorporated seven variables spanning clinical findings, laboratory values, imaging, intraoperative assessment, and microbiology. These variables were erythema, unexpected wound drainage, elevated erythrocyte sedimentation rate (ESR) or C-reactive protein (CRP), radiographic humeral osteolysis, synovial neutrophils \u226570% or positive frozen section (\u22655 polymorphonuclear cells in \u22655 high-powered fields), intraoperative humeral loosening, and \u22652 positive cultures with the same organism. The apparent concordance statistic in the development cohort was 0.90 (95% CI 0.87-0.94). A nomogram was subsequently developed to estimate the probability of PJI, defined by the presence of a sinus tract or intra-articular purulence. CONCLUSION: Using prospective, multicenter data, this study proposes a seven-factor nomogram to estimate the probability of clinically apparent shoulder PJI. The model showed strong apparent discrimination for clinically apparent infection in the development cohort. External validation will be necessary to confirm performance, and consensus will be required to establish weighting and diagnostic thresholds for tiers of non-definite shoulder PJI.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42863562/",
+      "score": 66,
+      "score_reasoning": "Prospective multicenter study from ASES multicenter group with 861 revision shoulder arthroplasty cases developing an evidence-based predictive model for shoulder PJI minor criteria, directly informing the 2025 ICM definition.",
+      "bullets": [
+        "A seven-factor model using erythema, wound drainage, elevated ESR or CRP, humeral osteolysis, synovial neutrophils, intraoperative humeral loosening, and positive cultures accurately predicted confirmed shoulder periprosthetic joint infection in 861 revision cases.",
+        "The model applies to patients undergoing revision shoulder arthroplasty where infection is on the differential, giving surgeons a structured, evidence-based framework rather than relying on expert opinion alone.",
+        "A nomogram built from these seven variables can help quantify infection probability before and during revision surgery, though external validation is still needed before broad clinical adoption."
+      ]
+    },
+    {
+      "pmid": "42854671",
+      "title": "Headless Compression Screws May Reduce Symptomatic Hardware After Medial Malleolus Fixation: A Comparative Cohort Study.",
+      "authors": [
+        "Rechter GR",
+        "Langford JR",
+        "Shaath MK",
+        "Baker TB",
+        "Page BE",
+        "Yawman J",
+        "Haidukewych GJ"
+      ],
+      "authors_short": "Rechter GR, Langford JR, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To compare rates of medial-sided symptomatic hardware, hardware removal, and fracture union following medial malleolus fixation using partially threaded, headless compression screws versus traditional partially threaded, headed screws. METHODS: Design: Retrospective cohort. SETTING: Single, academic, Level I trauma center. PATIENT SELECTION CRITERIA: Skeletally mature patients who underwent operative fixation of a medial malleolus fracture [OTA/AO 44A-C] between 2021 and 2025 and had a minimum of 3 months follow-up were included. OUTCOME MEASURES AND COMPARISONS: Demographics, injury characteristics, and surgical management was collected for the headless and headed screw cohort. The primary outcome was medial-sided symptomatic hardware. Secondary outcomes included removal of hardware from the medial malleolus, medial malleolus fracture union, and infection of the medial aspect of the ankle. A comparison between the medial malleolus screw type used was undertaken. RESULTS: Of 306 patients, 195 (63.7%) received headed screws (mean age 56.0 years, range 18-92; 72.3% female; mean follow-up 15.1 months) and 111 (36.3%) received headless compression screws (mean age 51.0 years, range 18-95; 58.6% female; mean follow-up 13.2 months). Symptomatic hardware occurred in 34.8% of patients in the headed screw group compared with 20.7% in the headless screw group (p = 0.01), corresponding to an absolute risk reduction of 14.1%. Hardware removal rates did not differ between groups (30.8% vs 23.4%, p = 0.17). There were no differences in nonunion (3.6% vs 3.6%, p = 0.99) or infection rates (4.6% vs 5.4%, p = 0.97). On multivariable analysis, headless screw fixation was independently associated with a decreased likelihood of symptomatic hardware (odds ratio 0.55, 95% CI 0.32-0.96, p = 0.04). No independent association was observed between screw type and hardware removal. CONCLUSIONS: Headless compression screws may be associated with a lower rate of symptomatic hardware at a mean of one year following medial malleolus fixation without compromising fracture healing or increasing infection risk. The lower observed incidence of symptomatic implants may suggest a clinically meaningful benefit of implant selection in this subcutaneous anatomic region. LEVEL OF EVIDENCE: Level III, retrospective cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42854671/",
+      "score": 64,
+      "score_reasoning": "Retrospective cohort of 791 consecutive aTSAs with 10-15 year follow-up establishing clinically important outcome thresholds (PASS, MCID, SCB) and survivorship data, highly relevant for long-term patient counseling.",
+      "bullets": [
+        "Headless compression screws reduced symptomatic medial malleolus hardware from 35% to 21% compared with headed screws in adults undergoing ankle fracture fixation.",
+        "Union rates, infection rates, and actual hardware removal rates were similar between screw types, so the benefit is symptom reduction without added risk.",
+        "For medial malleolus fixation in any skeletally mature patient, headless screws are a reasonable default choice to lower the chance of painful implant prominence."
+      ]
+    },
+    {
+      "pmid": "42841867",
+      "title": "Payment Model Evolution for Spinal Fusions.",
+      "authors": [
+        "Rubin I",
+        "Bruggeman A",
+        "Bozic KJ"
+      ],
+      "authors_short": "Rubin I, Bruggeman A, Bozic KJ",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "Value-based payment reform in the United States is rapidly evolving, with new models from the Centers for Medicare & Medicaid Services targeting a range of inpatient and outpatient procedures. To trace this evolution, we examine spinal fusion-a procedure consistently included in past and emerging models-as a lens to compare model characteristics, payment structure, quality measurement, and primary care integration. We analyze Bundled Payments for Care Improvement-Advanced (BPCI-A, 2018 to 2025), Transforming Episode Accountability Model (TEAM, launched in 2026), Advancing Chronic Care with Effective, Scalable Solutions (ACCESS, launching in July 2026), Ambulatory Specialty Model (ASM, launching in 2027), and proposed condition-based bundled payments. BPCI-A laid the groundwork for bundled spinal fusion payments but was voluntary and lacked integration with primary care. TEAM and ASM mandate participation from inpatient and outpatient specialists, respectively; TEAM also requires primary care referrals after discharge. ACCESS incorporates technology tools into specialty care, while condition-based bundles embed specialty care within Accountable Care Organizations; both prioritize longitudinal care integration. We conclude that future reforms should combine aspects of the aforementioned models, prioritizing primary care-specialist collaboration, integration of acute and chronic care pathways, and quality metrics that reflect patient outcomes.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42841867/",
+      "score": 56,
+      "score_reasoning": "Registry-based study identifying preoperative alignment variables not routinely captured that significantly improve revision prediction after TKA, with implications for registry design and risk-adjusted reporting.",
+      "bullets": [
+        "CMS has launched or is launching four new payment models covering spinal fusion from 2026 onward, moving from the voluntary BPCI-A bundle toward mandatory participation for both inpatient and outpatient spine specialists.",
+        "TEAM requires primary care follow-up after discharge, and newer models like ACCESS and condition-based bundles tie spine care into broader chronic care and accountable care frameworks.",
+        "Spine surgeons should expect mandatory bundled payment participation, increased accountability for post-discharge outcomes, and closer coordination requirements with primary care going forward."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-10-15T07:40:39.611626-07:00"
+}
