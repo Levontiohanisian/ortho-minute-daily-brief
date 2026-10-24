@@ -1,0 +1,308 @@
+{
+  "brief_date": "2026-10-24",
+  "brief_date_display": "Saturday, October 24",
+  "candidates": [
+    {
+      "pmid": "42873990",
+      "title": "A Prospective Randomized Trial to Assess Early versus Delayed Weight Bearing Following Operatively Treated Ankle Fractures in the United States.",
+      "authors": [
+        "Obremskey WT",
+        "Archer KR",
+        "Gaski GE",
+        "Gitajn IL",
+        "Natoli RM",
+        "Spitler CA",
+        "Levy JF",
+        "Thompson RE",
+        "Wysocki E",
+        "Reider L"
+      ],
+      "authors_short": "Obremskey WT, Archer KR, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To determine the safety of early versus delayed weight bearing and effectiveness for improving return-to-work following ankle fracture repair. METHODS: Design: Prospective randomized study. SETTING: 19 United States Trauma Centers. PATIENT SELECTION CRITERIA: Adult patients (\u226518 years) with ankle fracture (OTA/AO 44 A, B or C) undergoing surgical fixation were included. Open Gustilo-Anderson (G-A) Type IIIB, IIIC, syndesmotic injuries with fixation, and injuries with arterial impaction that surgeons felt unsafe to weight were excluded. OUTCOME MEASURES AND COMPARISONS: The co-primary outcomes were (1) non-inferiority of early versus delayed weight bearing for reoperation for complications of hardware failure, non-union, loss of reduction, infection, or fusion; and (2) gated superiority of early versus delayed weight bearing for time to return-to-work, both within 365 days of randomization. Reoperation and time to return-to-work was compared between patients assigned to early (2 weeks post-operatively) versus delayed (6 weeks post-operatively) weight bearing. RESULTS: The modified intent to treat sample included 418 patients enrolled between January 2020 through October 2023; 214 early (mean age: 47; SD (15) range (18-84); 35% male); 204 delayed (mean age: 43; SD (15); 36% male). Reoperation for complication occurred in 5 early (2.3%, 95% Confidence Interval (CI): 0.3%, 4.4%), and 7 delayed patients (3.4%, 95% CI: 0.9%, 5.9%). Median time to return-to-work (95% CI) was 54 (42, 77) days and 69 (47, 89) days for the early and delayed groups, respectively. Early weight bearing was non-inferior to delayed weight bearing for reoperation (difference in complication free survival (early - delayed): 1.5 percentage points; 90% two sided CI: -1.7%, 4.8% which excluded the non-inferiority tolerance of -5.0%) and not superior for return-to-work (Hazard Ratio 1.1, 95% CI: 0.8, 1.6, p=0.475). CONCLUSIONS: Trial findings add to the growing evidence demonstrating the safety of early weight bearing after fixation of bimalleolar and trimalleolar ankle fracture without syndesmotic disruption, a key concern for both clinicians and patients. However, no statistically significant benefit of earlier return-to-work was found. LEVEL OF EVIDENCE: I.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42873990/",
+      "score": 78,
+      "score_reasoning": "Large multicenter RCT (418 patients, 19 centers) from JBJS examining early vs delayed weight bearing after ankle fracture fixation with co-primary outcomes directly relevant to practice, published in a high-impact journal with robust methodology.",
+      "bullets": [
+        "Early weight bearing at 2 weeks after operative ankle fracture fixation carries the same reoperation risk as waiting 6 weeks, with complication rates of 2.3% versus 3.4%.",
+        "This applies to adults with bimalleolar or trimalleolar fractures fixed without syndesmotic repair, excluding open type IIIB/IIIC injuries.",
+        "Surgeons can safely allow weight bearing at 2 weeks post-op, though patients should not expect a meaningfully faster return to work."
+      ]
+    },
+    {
+      "pmid": "42918277",
+      "title": "Porous Tantalum Acetabular Components in Complex Revision Total Hip Arthroplasty: The Influence of Defect Severity and Intraoperative Fixation.",
+      "authors": [
+        "D'Apollonio TM",
+        "Oteman BPH",
+        "Hopman MLT",
+        "Abrahams JM",
+        "Sheth NP",
+        "Solomon LB",
+        "Ramasamy B",
+        "Callary SA"
+      ],
+      "authors_short": "D'Apollonio TM, Oteman BPH, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Porous tantalum acetabular components are widely used in revision total hip arthroplasty (rTHA) to manage acetabular bone loss. Re-revision risk according to defect severity and intraoperative fixation is poorly characterized. METHODS: Between 2003 and 2024, 316 patients (345 hips) underwent rTHA surgery, who were treated with a porous tantalum acetabular component. Of these hips, 212 (61.4%) were in women. Mean age at surgery was 71 years (range, 26 to 95), and mean follow-up was 6.5 years (range, zero to 21.9). The primary endpoint was acetabular re-revision for aseptic loosening; the secondary endpoint was all-cause acetabular re-revision. Cumulative incidence functions estimated risk at two, five, and 10 years; associations were assessed using subdistribution hazard ratios (sHR). Analyses were stratified by Paprosky defect, pelvic discontinuity (PD), and intraoperative fixation (press-fit and/or three-point). Paprosky grades were 2A (n = 36), 2B (n = 68), 2C (n = 82), 3A (n = 105), and 3B (n = 54); 82 hips had PD (23.8%). RESULTS: Cumulative incidence of re-revision for aseptic loosening was 0.87, 1.84, and 2.72% at two, five, and 10 years, respectively; corresponding all-cause re-revision estimates were 5.52, 7.40, and 9.23%. Paprosky grade was not associated with re-revision risk. Undergoing a third or greater rTHA was associated with increased failure risk (sHR 2.69, P = 0.03). Press-fit and/or three-point fixation were associated with reduced re-revision risk in univariable analysis; however, only three-point fixation remained independently associated with reduced re-revision risk (sHR 0.37, P = 0.04), whereas press-fit fixation was not independently associated with re-revision after adjustment. CONCLUSION: Porous tantalum acetabular components achieve excellent re-revision outcomes from two to 10 years after rTHA, with low rates of aseptic loosening across all defect grades. Greater prior revision burden and failure to achieve three-point fixation were independently associated with increased re-revision risk.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42918277/",
+      "score": 76,
+      "score_reasoning": "Large registry-based retrospective cohort (345 hips) from Journal of Arthroplasty examining porous tantalum acetabular components in complex revision THA with detailed Paprosky stratification and long follow-up, offering directly actionable surgical guidance.",
+      "bullets": [
+        "Porous tantalum acetabular cups showed low aseptic loosening rates across all bone defect severities at 10 years, meaning defect grade alone should not discourage use of this construct in revision hip arthroplasty.",
+        "Achieving three-point fixation independently reduced re-revision risk, while press-fit fixation alone did not, so surgeons should prioritize screw and structural support when implanting these cups.",
+        "Patients undergoing a third or greater revision hip arthroplasty had significantly higher failure risk, which should prompt earlier intervention and more aggressive fixation strategies in multiply revised hips."
+      ]
+    },
+    {
+      "pmid": "42918537",
+      "title": "Polyethylene glenospheres in reverse total shoulder arthroplasty have greater long-term implant survivorship than metallic glenospheres: A New Zealand Joint Registry Study.",
+      "authors": [
+        "Bayley S",
+        "Boyle AB",
+        "Frampton C",
+        "Poon P",
+        "Dalgleish A",
+        "Gao R"
+      ],
+      "authors_short": "Bayley S, Boyle AB, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Reverse total shoulder arthroplasty (rTSA) is increasingly common and clinically effective. Conventional-bearing rTSA (CB-rTSA) employs a metallic glenosphere articulating with a polyethylene humeral liner. Inverted-bearing rTSA (IB-rTSA), using a polyethylene glenosphere with a metallic or ceramic humeral liner, was developed to eliminate polyethylene wear debris at the scapular neck and thereby reduce polyethylene-induced osteolysis and the severity of scapular notching. Comparative data on survivorship and patient-reported outcomes between these configurations remain limited. This study compared implant survival, revision risk and functional outcomes between CB-rTSA and IB-rTSA designs. METHODS: This retrospective comparative cohort study identified all primary rTSA procedures performed in New Zealand between January 2007 and December 2024 from the New Zealand Joint Registry. Revision-free implant survival and postoperative function, measured by the Oxford Shoulder Score (OSS), were analysed. Patients were grouped by bearing configuration: polyethylene glenosphere (IB-rTSA) and metal glenosphere (CB-rTSA). Subgroup analyses compared SMR Reverse Polyethylene and SMR Reverse Metal (LimaCorporate, Italy) with other CB-rTSA designs, predominantly Delta Xtend (DePuy Synthes, USA). Revision rates per 100 component-years were calculated, and multivariable Cox proportional hazards models compared revision risk, adjusting for age, sex and diagnosis. RESULTS: A total of 8,601 rTSA procedures were included: 3,437 (40.0%) using a polyethylene glenosphere and 5,164 (60.0%) a metallic glenosphere. Indications for surgery were comparable between groups, whereas the sex distribution differed significantly. Unadjusted revision rates per 100 component-years were higher for the metal group (0.71) than the polyethylene group (0.46) (P = .001). The adjusted hazard ratio for polyethylene compared with metal was 0.57 (95% CI 0.43 - 0.75), representing a 43% lower revision rate. In secondary, unadjusted cause-specific analyses, polyethylene glenospheres were associated with fewer revisions for deep infection (0.11 vs 0.20 per 100 component-years; P = .031) and dislocation (0.09 vs 0.16; P = .045). Mean OSS at 6 months, 5 years and 10 years were similar between groups, with no statistically or clinically significant differences. CONCLUSION: In this large national registry study, IB-rTSA using a polyethylene glenosphere was associated with significantly lower revision rates than conventional metal glenosphere designs, with no statistically or clinically significant differences in patient-reported functional outcomes. In secondary, unadjusted cause-specific analyses, polyethylene glenospheres were also associated with lower rates of revision for deep infection and dislocation. Although it could not be examined using registry data, this lower revision burden may relate to the absence of polyethylene-induced osteolysis and consequently less pronounced scapular notching.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42918537/",
+      "score": 75,
+      "score_reasoning": "Large New Zealand Joint Registry study comparing polyethylene vs metallic glenospheres in rTSA with long-term survivorship data, multivariable Cox modeling, and direct implant selection implications for shoulder arthroplasty surgeons.",
+      "bullets": [
+        "In 8,601 reverse shoulder replacements from the New Zealand Joint Registry, polyethylene glenospheres had a 43% lower revision rate than metal glenospheres.",
+        "Polyethylene glenosphere designs also had fewer revisions for deep infection and dislocation, with shoulder function scores equivalent at 6 months, 5 years, and 10 years.",
+        "For surgeons selecting implants for reverse shoulder arthroplasty, a polyethylene glenosphere construct appears to offer a durability advantage without sacrificing patient outcomes."
+      ]
+    },
+    {
+      "pmid": "42918276",
+      "title": "Custom Triflange Acetabular Components in Revision Total Hip Arthroplasty: Survivorship, Clinical Outcomes and Risk Factors for Failure.",
+      "authors": [
+        "Kayani B",
+        "Drummond I",
+        "Merchant AA",
+        "Donaldson J",
+        "Stammers JG",
+        "Sabah SA",
+        "Skinner JA"
+      ],
+      "authors_short": "Kayani B, Drummond I, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: The objectives of this study were to assess survivorship, functional outcomes, radiographic osseointegration, complications, and risk factors for failure in revision total hip arthroplasty (THA) with custom triflange acetabular components (CTAC) at mid-term follow-up. METHODS: This study included 56 non-oncological patients who had advanced acetabular bone defects undergoing revision THAs using CTACs. Implant survivorship, the Oxford Hip Score (OHS), the Harris Hip Score (HHS), the University of California at Los Angeles (UCLA) activity score, the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC), the Forgotten Joint (FJS) Score, plain radiographic evidence of osseointegration, and any complications were recorded at the most recent follow-up. The mean follow-up time was 44.8 months (range, 13.7 to 63.4). RESULTS: Survivorship of the CTAC was 94.3% (95% confidence interval (CI): 82.6 to 98.2) with CTAC revision for aseptic loosening as the end point. In total, five CTACs were revised: three for aseptic loosening and two for prosthetic joint infections. The median OHS improved from 12 (interquartile range(IQR), 10 to 14) preoperatively to 36 (IQR, 34 to 38) at final follow-up (P < 0.001). The median HHS was 64 (IQR, 60 to 72), the median UCLA score was 6 (IQR, 5 to 7), the median WOMAC score was 34 (IQR, 40 to 26), and the median FJS was 28 (IQR, 22 to 34) at final follow-up. Radiographic osseointegration at the bone-implant interface was observed in 42 patients (75.0%). Risk factors for radiographic failure included more than four previous hip operations (P < 0.001) and greater than two-thirds of ischial osteolysis (P < 0.001). DISCUSSION: The reconstruction of advanced acetabular bone defects with CTACs is associated with excellent component survivorship, low risk of aseptic loosening, satisfactory functional outcomes, and good radiographic evidence of osseointegration. Multiple previous hip operations and extensive ischial osteolysis were associated with increased risk of radiographic failure.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42918276/",
+      "score": 74,
+      "score_reasoning": "Single-center case series of 56 custom triflange acetabular components with multiple validated PROMs and mid-term survivorship data providing useful benchmarks for complex revision THA reconstruction.",
+      "bullets": [
+        "Custom triflange acetabular components showed 94.3% survival at roughly four years in patients with severe acetabular bone loss undergoing revision total hip arthroplasty.",
+        "Patients with more than four prior hip operations or greater than two-thirds ischial osteolysis were at significantly higher risk of radiographic failure.",
+        "For orthopaedic surgeons managing complex acetabular defects, custom triflange components are a reliable option, but heavily operated hips with extensive ischial bone loss warrant realistic counseling about implant longevity."
+      ]
+    },
+    {
+      "pmid": "42886821",
+      "title": "Comparison of Shoulder Field Anesthesia (SFA) with Interscalene Block (ISB) for Analgesia After Arthroscopic Shoulder Surgery: A Randomized Noninferiority Trial.",
+      "authors": [
+        "Qawasmi F",
+        "Gazit T",
+        "Mahamid A",
+        "Khatib M",
+        "Safadi H",
+        "Robinson D",
+        "Yehia L",
+        "Murad H",
+        "Yassin M"
+      ],
+      "authors_short": "Qawasmi F, Gazit T, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: An interscalene brachial plexus block (ISB) is commonly used for analgesia after shoulder surgery but is associated with neurologic and respiratory complications, including hemidiaphragmatic paralysis. Surgeon-performed shoulder field anesthesia (SFA) is a landmark-guided, phrenic nerve-sparing technique that may provide effective analgesia with fewer complications. The purpose of this study was to compare SFA with ISB for pain control after arthroscopic shoulder surgery. We investigated whether SFA would provide noninferior analgesia as measured by cumulative 48-hour postoperative pain scores. METHODS: In this randomized trial, patients undergoing arthroscopic shoulder surgery were assigned to SFA or ISB. Postoperative pain was assessed using the numeric rating scale (NRS) at 2, 4, 8, 24, and 48 hours. Patient satisfaction was assessed at 48 hours. Other secondary outcomes included opioid consumption, hospital stay, and block-related complications. RESULTS: Eighty patients (mean age, 47.7 \u00b1 15.7 years; 53 men) completed the study. All patients were classified as White; 80% were of Middle Eastern ethnicity. Baseline characteristics were comparable between the SFA and ISB groups. The primary outcome analysis demonstrated a mean difference in the cumulative 48-hour NRS pain score of -0.824 (ISB - SFA), with a 95% confidence interval of -1.853 to 0.206. The upper limit of the confidence interval remained below the prespecified noninferiority margin of 1.5 NRS points, demonstrating noninferiority of SFA. ISB provided lower pain scores during the early postoperative period (4 to 8 hours), and pain scores converged thereafter. Hospital stay was shorter in the SFA group. Opioid consumption, patient satisfaction, and oxygen desaturation rates were similar between groups. Two cases of Horner syndrome and 1 respiratory event requiring intensive care occurred in the ISB group; none occurred in the SFA group. CONCLUSIONS: SFA was noninferior to ISB for the prespecified cumulative 48-hour pain end point. ISB provided superior pain relief during the first 4 to 8 hours, but SFA offered a lung-sparing alternative with similar cumulative opioid requirements and patient satisfaction, fewer clinically apparent block-related complications, and a shorter hospital stay. These findings support a risk-benefit framework to guide individualized analgesic selection. LEVEL OF EVIDENCE: Therapeutic Level I. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42886821/",
+      "score": 68,
+      "score_reasoning": "Randomized noninferiority trial (80 patients) in JBJS comparing surgeon-performed shoulder field anesthesia to interscalene block for arthroscopic shoulder surgery, with direct anesthetic decision-making implications and phrenic nerve-sparing advantage.",
+      "bullets": [
+        "Surgeon-performed shoulder field anesthesia matched interscalene block for total pain control over 48 hours after arthroscopic shoulder surgery, though the interscalene block provided better pain relief in the first 4 to 8 hours.",
+        "The interscalene block group had two cases of Horner syndrome and one respiratory event requiring intensive care, while the shoulder field anesthesia group had none, and hospital stay was shorter with shoulder field anesthesia.",
+        "For patients undergoing arthroscopic shoulder surgery, shoulder field anesthesia is a viable lung-sparing alternative to interscalene block, particularly in patients with respiratory risk factors where phrenic nerve involvement is a concern."
+      ]
+    },
+    {
+      "pmid": "42890386",
+      "title": "Total Hip Arthroplasty Is Associated With Lower 90-Day Inpatient Readmission Than Hemiarthroplasty for Femoral Neck Fracture in Patients Aged 65-75 Years: A Propensity Score-Matched Nationwide Readmissions Database Study.",
+      "authors": [
+        "Maman D",
+        "Steinfeld Y",
+        "Berkovich Y"
+      ],
+      "authors_short": "Maman D, Steinfeld Y, Berkovich Y",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Comparative early hospital-based outcomes of hemiarthroplasty and total hip arthroplasty (THA) for femoral neck fracture remain uncertain in patients aged 65-75 years. METHODS: Using the 2022 Nationwide Readmissions Database, we identified patients aged 65-75 years admitted with an acute femoral neck fracture who underwent hemiarthroplasty or THA. Patients were matched 1:1 using exact matching on age, Hospital Frailty Risk Score category, and mental-disorder status, plus propensity-score matching with a 0.20-standard-deviation caliper. The primary outcome was all-cause inpatient readmission within 90 days. RESULTS: Among 8,012 eligible admissions, 5,108 patients underwent hemiarthroplasty and 2,904 underwent THA. Matching yielded 2,702 patients per group, with all postmatch absolute standardized mean differences <0.10. THA was associated with a lower observed 90-day inpatient readmission rate than hemiarthroplasty (10.1% vs 15.7%; odds ratio, 0.60; 95% confidence interval, 0.51-0.71; P < .001). Death during the first readmission was also less frequent after THA (0.1% vs 0.7%; P = .002). A narrowly defined inpatient principal-diagnosis dislocation indicator did not differ significantly between groups and should not be interpreted as overall dislocation incidence. Index and total 90-day hospital charges were higher with THA. CONCLUSIONS: In this observational claims-based study, THA was associated with a lower observed 90-day inpatient readmission rate than hemiarthroplasty. Residual selection bias may partly explain this association, and these findings do not establish a causal benefit of THA. LEVEL OF EVIDENCE: Level III, Retrospective comparative study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42890386/",
+      "score": 67,
+      "score_reasoning": "Large propensity-matched claims database study (77,958 THA patients) demonstrating dose-independent SSRI-associated increased risk of PJI, dislocation, periprosthetic fracture, and revision, with important preoperative counseling implications.",
+      "bullets": [
+        "In patients aged 65 to 75 with femoral neck fracture, THA was associated with a lower 90-day readmission rate than hemiarthroplasty (10.1% vs 15.7%).",
+        "Death at first readmission was also less frequent after THA (0.1% vs 0.7%), though index hospital charges were higher with THA.",
+        "For otherwise healthy patients aged 65 to 75 with femoral neck fracture, THA may be the preferred implant choice, though selection bias in this observational study limits definitive conclusions."
+      ]
+    },
+    {
+      "pmid": "42901231",
+      "title": "Myocardial Infarction Within 6 Months before Total Shoulder Arthroplasty is Strongly Associated with Postoperative Complications.",
+      "authors": [
+        "Parmar RP",
+        "Sahni VS",
+        "Holle AM",
+        "Amini MH",
+        "McKee M",
+        "Lederman E",
+        "Patel M"
+      ],
+      "authors_short": "Parmar RP, Sahni VS, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: As total shoulder arthroplasty (TSA) is increasing in volume, limited data exist regarding how recent myocardial infarction (MI) influences postoperative outcomes. This study aimed to evaluate the impact of MI timing, type, treatment, and anatomical location on rates of postoperative cardiac, medical, and surgical complications following TSA. METHODS: A national insurance database, PearlDiver, was queried to identify patients with a history of MI within two years prior to TSA. These patients were propensity-matched 1:4 to controls without prior MI based on demographics and comorbidities. The MI cohort was stratified by timing (0-6 months, 6-12 months, 12-18 months, 18-24 months), and subgroup analyses were performed by MI type (Type 1 vs. Type 2), ST-Segment Elevation Myocardial Infarction (STEMI) vs Non-ST-Elevation Myocardial Infarction (NSTEMI) classification, percutaneous coronary intervention (PCI), guideline-directed medical therapy (GDMT), and infarct location. RESULTS: A history of MI within 2 years preceding TSA had a strong association with higher odds of postoperative MI (OR 5.67; 95% CI, 3.86-8.32). The strongest association was observed when MI occurred within 6 months of TSA (OR 9.95; 95% CI, 6.50-15.24). Type 1 MI was strongly associated with postoperative MI, particularly within 6 months (OR 10.86; 95% CI, 6.96-16.95). Type 2 MI within 6 months was strongly associated with postoperative MI (OR 10.69; 95% CI, 2.50-45.63), DVT (OR 9.81; 95% CI, 2.30-41.79), and PJI (OR 5.24; 95% CI, 1.60-17.18). Both STEMI (OR = 6.17) and NSTEMI (OR = 5.77) were strongly associated with postoperative MI. Anterior MI was strongly associated with postoperative MI (OR 7.22; 95% CI, 3.36-15.49), whereas inferior MI was strongly associated with 90-day mortality (OR 6.46; 95% CI, 1.85-22.60). CONCLUSION: MI within 2 years and specifically 6 months of TSA was associated with higher odds of postoperative complications. MI timing, subtype, treatment, and location should be carefully weighed when considering TSA in this high-risk population.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42901231/",
+      "score": 65,
+      "score_reasoning": "Large retrospective cohort (232 professional soccer players) with mean 100-month follow-up reporting low graft failure rates after primary ACLR and evaluating lateral extra-articular augmentation in a high-stakes athletic population.",
+      "bullets": [
+        "Patients who had a heart attack within 6 months before total shoulder arthroplasty were nearly 10 times more likely to suffer a postoperative heart attack than matched controls.",
+        "Risk remained elevated up to 2 years after the index heart attack, and inferior wall infarcts carried a 6-fold increase in 90-day mortality after total shoulder arthroplasty.",
+        "For any patient with a recent heart attack, surgeons should carefully consider delaying elective total shoulder arthroplasty beyond 6 months and weigh infarct type and location before proceeding."
+      ]
+    },
+    {
+      "pmid": "42897444",
+      "title": "Posterolateral corner deficiency amplifies varus-related anterior cruciate ligament forces under dynamic loading: A biomechanical study.",
+      "authors": [
+        "Gellhaus F",
+        "Deichsel A",
+        "Stening J",
+        "Albert A",
+        "Peez C",
+        "Behrendt P",
+        "Seekamp A",
+        "Raschke MJ",
+        "Horst K",
+        "Kittl C"
+      ],
+      "authors_short": "Gellhaus F, Deichsel A, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: This study examined the influence of varus alignment, posterolateral corner (PLC) insufficiency, and PLC reconstruction on forces acting on the anterior cruciate ligament (ACL). It was hypothesized that increasing varus would increase ACL force, PLC transection would amplify this increase, and reconstruction would restore force toward PLC-intact values. METHODS: Eight cadaveric knees (mean age 62\u2009\u00b1\u200912 years) underwent dynamic testing at 0\u00b0, 10\u00b0, 20\u00b0, 30\u00b0 and 40\u00b0 flexion under 200\u2009N axial load in a materials testing machine with a custom five-degree-of-freedom setup. The ACL was tibially detached and refixated with 80\u2009N using a custom tensioner. Lateral opening-wedge distal femoral osteotomy with external fixation and three-dimensionally printed wedges established 0\u00b0, 3\u00b0, 5\u00b0 and 8\u00b0 varus. Three conditions were tested: (1) native, (2) PLC transection (lateral collateral ligament and popliteus tendon) and (3) PLC reconstruction in Arciero technique. RESULTS: Axial loading caused ACL forces in PLC-intact knees ranging from 77.1\u2009\u00b1\u20097.3\u2009N (neutral alignment in 20\u00b0 flexion) to 109.9\u2009\u00b1\u200946.8\u2009N (8\u00b0 varus at 40\u00b0 flexion). Significant increases in ACL forces were observed at 30\u00b0 (p\u2009=\u20090.006) and 40\u00b0 (p\u2009=\u20090.001) of flexion with 8\u00b0 varus. Following PLC transection, significant increases in ACL forces occurred at 5\u00b0 varus and higher from 10\u00b0 of flexion onwards, with a notable increase from 80.0\u2009\u00b1\u200912.3 (neutral) to 153.2\u2009\u00b1\u200958.4\u2009N (8\u00b0 varus, 40\u00b0 flexion, p\u2009<\u20090.001). After PLC reconstruction, no significant effects of varus alignment or flexion on ACL forces were observed (p\u2009>\u20090.05). CONCLUSION: Under axial compression and simulated varus-thrust loading conditions, varus alignment of 5\u00b0 or less did not significantly increase ACL forces in PLC-intact knees, whereas 8\u00b0 varus resulted in significantly increased ACL loading at selected flexion angles. PLC deficiency was associated with greater increases in ACL force with increasing varus alignment. LEVEL OF EVIDENCE: NA.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42897444/",
+      "score": 63,
+      "score_reasoning": "Prospective multicenter cohort (91 skeletally immature patients) from AJSM examining alignment changes after transphyseal ACLR within 2 years of skeletal maturity, directly addressing a common clinical concern about growth disturbance.",
+      "bullets": [
+        "In cadaveric knees with an intact posterolateral corner, varus alignment up to 5 degrees did not significantly raise ACL forces, but 8 degrees of varus did at higher flexion angles.",
+        "When the posterolateral corner was cut, ACL forces rose significantly at 5 degrees of varus or more, nearly doubling at 8 degrees of varus compared to the intact state.",
+        "Posterolateral corner reconstruction restored ACL forces to near-normal across all varus and flexion conditions, supporting its importance in varus knee ACL management."
+      ]
+    },
+    {
+      "pmid": "42885503",
+      "title": "Lateral Opening-Wedge Versus Medial Closing-Wedge Distal Femoral Osteotomy for Adolescent Idiopathic Genu Valgum: A Randomised Controlled Trial.",
+      "authors": [
+        "Khatri JP",
+        "Ghosh AK",
+        "Parmar RS",
+        "Gopinathan NR",
+        "Sudesh P",
+        "Rangasamy K",
+        "Kanwat H"
+      ],
+      "authors_short": "Khatri JP, Ghosh AK, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Distal femoral osteotomy is used to correct symptomatic genu valgum after distal femoral physeal closure, but comparative evidence between lateral opening-wedge osteotomy (LOW) and medial closing-wedge osteotomy (MCW) in adolescents is limited. We compared radiographic correction, recovery, and complications between the techniques. METHODS: In this prospective randomised trial, 65 adolescents aged 12 to 18 years with idiopathic genu valgum and radiographic closure of the distal femoral physis were allocated 1:1 to LOW or MCW. Three participants were lost to follow-up, leaving 62 participants for the available-case analysis (LOW, n=32; MCW, n=30). In bilateral cases, only the first operated limb was analyzed. The primary outcome was signed mechanical axis deviation (MAD) at radiographic union; unadjusted comparisons were the primary focus, and covariate-adjusted analyses were supportive. RESULTS: MAD at union was 6.8\u00b16.2\u00a0mm after LOW and 2.4\u00b15.3\u00a0mm after MCW (LOW minus MCW, 4.4\u00a0mm; 95% CI: 1.5-7.3; P=0.003). The supportive adjusted difference was 3.0\u00a0mm (95% CI: -0.4 to 6.5; P=0.08). Absolute deviation from neutral was 6.8\u00b16.2 versus 4.0\u00b14.1\u00a0mm (difference, 2.8\u00a0mm; 95% CI: 0.2-5.5; P=0.04). At union, mLDFA did not differ significantly; aLDFA favored MCW in the unadjusted analysis, but neither adjusted angular difference was significant. One-year Pedi-IKDC scores, pain, satisfaction, union time, hospital stay, and return to activity did not differ between groups. Unique symptomatic lateral plate/iliotibial-band irritation occurred in 4 of 32 LOW participants (13%) and 3 of 30 MCW participants (10%; P=1.00). CONCLUSIONS: MAD at radiographic union favored MCW, but the trial did not establish clinically meaningful superiority. The adjusted estimate was smaller and nonsignificant, and no sustained functional advantage was detected. Both techniques produced substantial correction with favorable short- to mid-term outcomes. LEVEL OF EVIDENCE: Level I-therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42885503/",
+      "score": 62,
+      "score_reasoning": "Retrospective cohort study (1,226 patients) identifying female sex, patellar tendon autograft, and lateral meniscus repair as predictors of subsequent surgery for loss of motion after ACLR, with actionable intraoperative planning implications.",
+      "bullets": [
+        "In adolescents with idiopathic genu valgum, medial closing-wedge distal femoral osteotomy achieved slightly better mechanical axis alignment at union than lateral opening-wedge, but the difference was small and lost significance after adjustment.",
+        "Functional outcomes, pain, satisfaction, union time, and return to activity were equivalent between both techniques at one year.",
+        "Either technique is a reasonable choice for adolescents requiring distal femoral osteotomy after physeal closure, with no clinically meaningful advantage established for one over the other."
+      ]
+    },
+    {
+      "pmid": "42891655",
+      "title": "The use of patellar tendon autograft and lateral meniscus repair are associated with loss of motion of the knee among female patients undergoing anterior cruciate ligament reconstruction.",
+      "authors": [
+        "Dadoo S",
+        "Nash AE",
+        "Yang Z",
+        "Aycardi N",
+        "Bhardwaj N",
+        "Vyas D",
+        "Hughes JD",
+        "Musahl V",
+        "Irrgang JJ",
+        "Lesniak BP"
+      ],
+      "authors_short": "Dadoo S, Nash AE, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To conduct a sex-stratified analysis of factors associated with subsequent surgery for loss of motion after anterior cruciate ligament reconstruction (ACLR), including meniscus repair and graft type. METHODS: All individuals age \u226514 years who underwent primary ACLR between 2014 and 2021 were reviewed. Exclusion criteria included <6 months follow-up and concomitant meniscal root, multiligament, osteochondral or osteotomy procedures. The primary outcome was subsequent surgery for loss of motion. Demographic and surgical variables were compared between individuals who underwent subsequent surgery for loss of motion versus not, for the full cohort and among females and males separately. Significance was set to p\u2009<\u20090.050. RESULTS: A total of 1226 individuals (age: 25\u2009\u00b1\u200910 years; 49% female) were included at a mean follow-up of 2.3 years. The rate of subsequent surgery for loss of motion was 9.0% for the full cohort, 12.3% for females and 5.9% for males. Among the full cohort, female sex (OR: 2.31; p\u2009<\u20090.001) and lateral meniscus (LM) repair (OR: 1.62; p\u2009=\u20090.048) were predictors of subsequent surgery for loss of motion. Among females, bone-patellar tendon-bone (BPTB) autograft use (OR: 1.91; p\u2009=\u20090.034) and LM repair (OR: 1.72; p\u2009=\u20090.046) were predictors of subsequent surgery for loss of motion, with combined BPTB autograft use and LM repair resulting in a significantly higher rate of subsequent surgery for loss of motion (32% vs. 12%; p\u2009=\u20090.004). Among males, graft type and meniscus repair were not associated with subsequent surgery for loss of motion (both p\u2009>\u20090.050). CONCLUSION: In this sex-stratified analysis, BPTB autograft use and LM repair were identified as factors predictive of subsequent surgery for loss of motion after primary ACLR when analysing females independently, while no predictive factors were identified when analysing males independently. Understanding factors associated with loss of motion after primary ACLR among males and females separately may guide individualised surgical decision-making and patient counselling. LEVEL OF EVIDENCE: Level III, retrospective cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42891655/",
+      "score": 61,
+      "score_reasoning": "Retrospective cohort (316 patients, 345 hips) comparing porous tantalum acetabular components in complex revision THA with detailed analysis of re-revision risk by defect severity and intraoperative fixation technique.",
+      "bullets": [
+        "Female patients undergoing ACL reconstruction had twice the rate of subsequent surgery for stiffness compared to males (12% vs. 6%).",
+        "In female patients, patellar tendon autograft combined with lateral meniscus repair carried a 32% rate of return to surgery for stiffness, compared to 12% without that combination.",
+        "Graft type and meniscus repair did not predict stiffness-related reoperation in male patients, suggesting sex-specific counselling is warranted before ACL reconstruction."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-10-24T06:50:52.676319-07:00"
+}
