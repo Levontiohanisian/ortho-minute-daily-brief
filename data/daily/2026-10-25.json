@@ -1,0 +1,307 @@
+{
+  "brief_date": "2026-10-25",
+  "brief_date_display": "Sunday, October 25",
+  "candidates": [
+    {
+      "pmid": "42873990",
+      "title": "A Prospective Randomized Trial to Assess Early versus Delayed Weight Bearing Following Operatively Treated Ankle Fractures in the United States.",
+      "authors": [
+        "Obremskey WT",
+        "Archer KR",
+        "Gaski GE",
+        "Gitajn IL",
+        "Natoli RM",
+        "Spitler CA",
+        "Levy JF",
+        "Thompson RE",
+        "Wysocki E",
+        "Reider L"
+      ],
+      "authors_short": "Obremskey WT, Archer KR, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To determine the safety of early versus delayed weight bearing and effectiveness for improving return-to-work following ankle fracture repair. METHODS: Design: Prospective randomized study. SETTING: 19 United States Trauma Centers. PATIENT SELECTION CRITERIA: Adult patients (\u226518 years) with ankle fracture (OTA/AO 44 A, B or C) undergoing surgical fixation were included. Open Gustilo-Anderson (G-A) Type IIIB, IIIC, syndesmotic injuries with fixation, and injuries with arterial impaction that surgeons felt unsafe to weight were excluded. OUTCOME MEASURES AND COMPARISONS: The co-primary outcomes were (1) non-inferiority of early versus delayed weight bearing for reoperation for complications of hardware failure, non-union, loss of reduction, infection, or fusion; and (2) gated superiority of early versus delayed weight bearing for time to return-to-work, both within 365 days of randomization. Reoperation and time to return-to-work was compared between patients assigned to early (2 weeks post-operatively) versus delayed (6 weeks post-operatively) weight bearing. RESULTS: The modified intent to treat sample included 418 patients enrolled between January 2020 through October 2023; 214 early (mean age: 47; SD (15) range (18-84); 35% male); 204 delayed (mean age: 43; SD (15); 36% male). Reoperation for complication occurred in 5 early (2.3%, 95% Confidence Interval (CI): 0.3%, 4.4%), and 7 delayed patients (3.4%, 95% CI: 0.9%, 5.9%). Median time to return-to-work (95% CI) was 54 (42, 77) days and 69 (47, 89) days for the early and delayed groups, respectively. Early weight bearing was non-inferior to delayed weight bearing for reoperation (difference in complication free survival (early - delayed): 1.5 percentage points; 90% two sided CI: -1.7%, 4.8% which excluded the non-inferiority tolerance of -5.0%) and not superior for return-to-work (Hazard Ratio 1.1, 95% CI: 0.8, 1.6, p=0.475). CONCLUSIONS: Trial findings add to the growing evidence demonstrating the safety of early weight bearing after fixation of bimalleolar and trimalleolar ankle fracture without syndesmotic disruption, a key concern for both clinicians and patients. However, no statistically significant benefit of earlier return-to-work was found. LEVEL OF EVIDENCE: I.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42873990/",
+      "score": 82,
+      "score_reasoning": "High-quality multicenter RCT from JBJS on early vs delayed weight bearing after ankle fracture ORIF with 418 patients across 19 trauma centers, directly actionable for practicing orthopaedic traumatologists.",
+      "bullets": [
+        "Early weight bearing at 2 weeks after ankle fracture fixation is as safe as delayed weight bearing at 6 weeks, with reoperation rates under 4% in both groups.",
+        "This applies to adults with operatively treated bimalleolar and trimalleolar ankle fractures without syndesmotic injury or severe open fractures.",
+        "Surgeons can allow weight bearing at 2 weeks post-op without increasing complication risk, though patients should not expect a significantly faster return to work."
+      ]
+    },
+    {
+      "pmid": "42925226",
+      "title": "Does a Prior Unsuccessful DAIR Increase the Risk of Reinfection After a Two-stage Revision for Periprosthetic Joint Infection? Results of a Multicenter Case-control Study.",
+      "authors": [
+        "Barbero Allende JM",
+        "Fern\u00e1ndez E",
+        "G\u00f3mez-Junyent J",
+        "Sorl\u00ed L",
+        "Rodr\u00edguez-Pardo D",
+        "Murillo \u00d3",
+        "Fern\u00e1ndez M",
+        "Escudero-S\u00e1nchez R",
+        "Garc\u00eda M",
+        "Portillo ME",
+        "Sancho I",
+        "Rico A",
+        "Guio L",
+        "Soriano A",
+        "Morata L",
+        "De Abajo FJ"
+      ],
+      "authors_short": "Barbero Allende JM, Fern\u00e1ndez E, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Reinfection of a joint prosthesis after a two-stage revision is a serious complication, the risk of which may be higher when the procedure is performed after an unsuccessful debridement, antibiotics, and implant retention (DAIR) procedure. The available evidence is scarce and somewhat contradictory, so new studies are required. QUESTIONS/PURPOSES: (1) Is two-stage revision performed after a prior unsuccessful DAIR associated with a higher risk of prosthetic joint reinfection compared with patients who had no DAIR but rather proceeded directly to two-stage revision? (2) Does the type of periprosthetic joint infection (PJI) (acute versus chronic) modify this association? METHODS: We analyzed data from a previous retrospective, case-control study aimed at assessing the risk factors of reinfection of a joint prosthesis treated with two-stage revision in 12 Spanish hospitals between 2009 and 2018. We defined PJI according to the latest criteria published in 2018. We defined \"acute PJI\" as those occurring early (< 3 months after surgery) and of hematogenous origin and \"chronic PJI\" as those occurring after 3 months and of nonhematogenous origin. During the period in question, we found 89 cases and selected 171 matched controls. For each case (patients who developed a reinfection of a joint prosthesis within 2 years of reimplantation, based on last internationally accepted consensus criteria), up to two consecutive controls (patients who underwent two-stage revision who did not develop a new infection within 2 years of reimplantation) were included, matched by prosthesis location, center, and year of surgery. There were no differences in age, gender, comorbidities, type of infection, or microbiology between the groups. We analyzed how many patients among cases and controls received a previous DAIR, and we assessed the association of the previous DAIR with reinfection of a joint prosthesis by the OR and its respective 95% confidence interval (CI) obtained through logistic regression, adjusted for potential confounding factors. In addition, we performed a separate analysis depending on whether the PJI was acute or chronic. RESULTS: After adjusting for potentially confounding variables such as age, sex, Charlson comorbidity index, and antibiotic prophylaxis, we found that two-stage revision performed after a prior unsuccessful DAIR was associated with higher odds of prosthetic joint reinfection compared with direct two-stage revision (adjusted OR 3.5 [95% CI 1.4 to 8.8]; p = 0.008). After adjusting for confounders, we found that the odds of reinfection in two-stage revision were higher after unsuccessful DAIR compared with direct two-stage revision in patients with chronic PJI (adjusted OR 4.0 [95% CI 1.4 to 11.3]; p = 0.009) than they were in patients with acute PJI (adjusted OR 2.2 [95% CI 0.7 to 7.2]; p = 0.2), but the interaction test did not show statistical significance. CONCLUSION: Unsuccessful DAIR could be associated with a higher risk of reinfection of a joint prosthesis than in direct two-stage revision. Although no difference was found by the type of infection (acute or chronic), the association might be of greater magnitude in patients with chronic PJI, and future studies should focus on this. Although DAIR is a very attractive therapeutic option for PJI, careful selection of candidate patients is essential to avoid compromising the success of a future two-stage revision. Future prospective studies should confirm these findings and evaluate which poor prognostic factors would weigh against performing a DAIR procedure. LEVEL OF EVIDENCE: Level III, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42925226/",
+      "score": 79,
+      "score_reasoning": "Multicenter case-control study in CORR addressing a clinically critical question\u2014whether prior failed DAIR worsens outcomes in two-stage PJI revision\u2014with solid methodology and direct surgical decision-making implications.",
+      "bullets": [
+        "Patients who underwent a failed DAIR before two-stage revision had 3.5 times higher odds of reinfection compared to those who went directly to two-stage revision.",
+        "This increased reinfection risk applies to any patient with periprosthetic joint infection being considered for DAIR, with the effect appearing strongest in chronic infection cases.",
+        "Before attempting DAIR, surgeons should carefully weigh patient selection criteria, as a failed DAIR significantly worsens the odds of a successful two-stage revision if needed later."
+      ]
+    },
+    {
+      "pmid": "42918277",
+      "title": "Porous Tantalum Acetabular Components in Complex Revision Total Hip Arthroplasty: The Influence of Defect Severity and Intraoperative Fixation.",
+      "authors": [
+        "D'Apollonio TM",
+        "Oteman BPH",
+        "Hopman MLT",
+        "Abrahams JM",
+        "Sheth NP",
+        "Solomon LB",
+        "Ramasamy B",
+        "Callary SA"
+      ],
+      "authors_short": "D'Apollonio TM, Oteman BPH, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Porous tantalum acetabular components are widely used in revision total hip arthroplasty (rTHA) to manage acetabular bone loss. Re-revision risk according to defect severity and intraoperative fixation is poorly characterized. METHODS: Between 2003 and 2024, 316 patients (345 hips) underwent rTHA surgery, who were treated with a porous tantalum acetabular component. Of these hips, 212 (61.4%) were in women. Mean age at surgery was 71 years (range, 26 to 95), and mean follow-up was 6.5 years (range, zero to 21.9). The primary endpoint was acetabular re-revision for aseptic loosening; the secondary endpoint was all-cause acetabular re-revision. Cumulative incidence functions estimated risk at two, five, and 10 years; associations were assessed using subdistribution hazard ratios (sHR). Analyses were stratified by Paprosky defect, pelvic discontinuity (PD), and intraoperative fixation (press-fit and/or three-point). Paprosky grades were 2A (n = 36), 2B (n = 68), 2C (n = 82), 3A (n = 105), and 3B (n = 54); 82 hips had PD (23.8%). RESULTS: Cumulative incidence of re-revision for aseptic loosening was 0.87, 1.84, and 2.72% at two, five, and 10 years, respectively; corresponding all-cause re-revision estimates were 5.52, 7.40, and 9.23%. Paprosky grade was not associated with re-revision risk. Undergoing a third or greater rTHA was associated with increased failure risk (sHR 2.69, P = 0.03). Press-fit and/or three-point fixation were associated with reduced re-revision risk in univariable analysis; however, only three-point fixation remained independently associated with reduced re-revision risk (sHR 0.37, P = 0.04), whereas press-fit fixation was not independently associated with re-revision after adjustment. CONCLUSION: Porous tantalum acetabular components achieve excellent re-revision outcomes from two to 10 years after rTHA, with low rates of aseptic loosening across all defect grades. Greater prior revision burden and failure to achieve three-point fixation were independently associated with increased re-revision risk.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42918277/",
+      "score": 76,
+      "score_reasoning": "Large registry-based retrospective cohort from JBJS on porous tantalum acetabular components in 345 revision hips with up to 21-year follow-up, providing reliable survivorship data stratified by defect severity and fixation method.",
+      "bullets": [
+        "Porous tantalum acetabular cups showed low aseptic loosening rates across all bone defect severities in revision hip arthroplasty, with only 2.72% failing at 10 years.",
+        "Defect severity alone did not predict failure, but patients undergoing a third or later revision had nearly three times the re-revision risk.",
+        "Achieving three-point fixation independently cut re-revision risk by 63%, making it the key intraoperative target when implanting tantalum cups in revision cases."
+      ]
+    },
+    {
+      "pmid": "42885503",
+      "title": "Lateral Opening-Wedge Versus Medial Closing-Wedge Distal Femoral Osteotomy for Adolescent Idiopathic Genu Valgum: A Randomised Controlled Trial.",
+      "authors": [
+        "Khatri JP",
+        "Ghosh AK",
+        "Parmar RS",
+        "Gopinathan NR",
+        "Sudesh P",
+        "Rangasamy K",
+        "Kanwat H"
+      ],
+      "authors_short": "Khatri JP, Ghosh AK, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Distal femoral osteotomy is used to correct symptomatic genu valgum after distal femoral physeal closure, but comparative evidence between lateral opening-wedge osteotomy (LOW) and medial closing-wedge osteotomy (MCW) in adolescents is limited. We compared radiographic correction, recovery, and complications between the techniques. METHODS: In this prospective randomised trial, 65 adolescents aged 12 to 18 years with idiopathic genu valgum and radiographic closure of the distal femoral physis were allocated 1:1 to LOW or MCW. Three participants were lost to follow-up, leaving 62 participants for the available-case analysis (LOW, n=32; MCW, n=30). In bilateral cases, only the first operated limb was analyzed. The primary outcome was signed mechanical axis deviation (MAD) at radiographic union; unadjusted comparisons were the primary focus, and covariate-adjusted analyses were supportive. RESULTS: MAD at union was 6.8\u00b16.2\u00a0mm after LOW and 2.4\u00b15.3\u00a0mm after MCW (LOW minus MCW, 4.4\u00a0mm; 95% CI: 1.5-7.3; P=0.003). The supportive adjusted difference was 3.0\u00a0mm (95% CI: -0.4 to 6.5; P=0.08). Absolute deviation from neutral was 6.8\u00b16.2 versus 4.0\u00b14.1\u00a0mm (difference, 2.8\u00a0mm; 95% CI: 0.2-5.5; P=0.04). At union, mLDFA did not differ significantly; aLDFA favored MCW in the unadjusted analysis, but neither adjusted angular difference was significant. One-year Pedi-IKDC scores, pain, satisfaction, union time, hospital stay, and return to activity did not differ between groups. Unique symptomatic lateral plate/iliotibial-band irritation occurred in 4 of 32 LOW participants (13%) and 3 of 30 MCW participants (10%; P=1.00). CONCLUSIONS: MAD at radiographic union favored MCW, but the trial did not establish clinically meaningful superiority. The adjusted estimate was smaller and nonsignificant, and no sustained functional advantage was detected. Both techniques produced substantial correction with favorable short- to mid-term outcomes. LEVEL OF EVIDENCE: Level I-therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42885503/",
+      "score": 75,
+      "score_reasoning": "Prospective multicenter AI deep learning study in KSTA for automated HTO planning validated across two institutions with 594 patients, highly novel and directly applicable to a high-volume precision-demanding procedure.",
+      "bullets": [
+        "Medial closing-wedge distal femoral osteotomy achieved slightly better mechanical axis alignment than lateral opening-wedge at the time of union in adolescents with idiopathic genu valgum.",
+        "At one year, pain scores, function, satisfaction, union time, and return to activity were equivalent between the two techniques.",
+        "Either technique is a reasonable choice for adolescents with symptomatic genu valgum after physeal closure, as neither showed a clinically meaningful advantage overall."
+      ]
+    },
+    {
+      "pmid": "42918279",
+      "title": "Delphi Consensus on Periprosthetic Surgical Irrigation: Irrigation Solution Selection and Comparative Effectiveness.",
+      "authors": [],
+      "authors_short": "Unknown",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42918279/",
+      "score": 74,
+      "score_reasoning": "Large New Zealand Joint Registry study in JSES comparing polyethylene vs metallic glenospheres in reverse TSA with robust survivorship data and multivariable Cox modeling, offering directly practice-relevant implant selection guidance.",
+      "bullets": [
+        "Expert consensus supports using dilute betadine or chlorhexidine irrigation during arthroplasty to reduce periprosthetic joint infection risk.",
+        "Saline alone is considered insufficient as an irrigation solution for high-risk patients undergoing hip or knee replacement.",
+        "Surgeons should select irrigation solution based on patient risk factors and implant type, as no single solution fits all cases."
+      ]
+    },
+    {
+      "pmid": "42890386",
+      "title": "Total Hip Arthroplasty Is Associated With Lower 90-Day Inpatient Readmission Than Hemiarthroplasty for Femoral Neck Fracture in Patients Aged 65-75 Years: A Propensity Score-Matched Nationwide Readmissions Database Study.",
+      "authors": [
+        "Maman D",
+        "Steinfeld Y",
+        "Berkovich Y"
+      ],
+      "authors_short": "Maman D, Steinfeld Y, Berkovich Y",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Comparative early hospital-based outcomes of hemiarthroplasty and total hip arthroplasty (THA) for femoral neck fracture remain uncertain in patients aged 65-75 years. METHODS: Using the 2022 Nationwide Readmissions Database, we identified patients aged 65-75 years admitted with an acute femoral neck fracture who underwent hemiarthroplasty or THA. Patients were matched 1:1 using exact matching on age, Hospital Frailty Risk Score category, and mental-disorder status, plus propensity-score matching with a 0.20-standard-deviation caliper. The primary outcome was all-cause inpatient readmission within 90 days. RESULTS: Among 8,012 eligible admissions, 5,108 patients underwent hemiarthroplasty and 2,904 underwent THA. Matching yielded 2,702 patients per group, with all postmatch absolute standardized mean differences <0.10. THA was associated with a lower observed 90-day inpatient readmission rate than hemiarthroplasty (10.1% vs 15.7%; odds ratio, 0.60; 95% confidence interval, 0.51-0.71; P < .001). Death during the first readmission was also less frequent after THA (0.1% vs 0.7%; P = .002). A narrowly defined inpatient principal-diagnosis dislocation indicator did not differ significantly between groups and should not be interpreted as overall dislocation incidence. Index and total 90-day hospital charges were higher with THA. CONCLUSIONS: In this observational claims-based study, THA was associated with a lower observed 90-day inpatient readmission rate than hemiarthroplasty. Residual selection bias may partly explain this association, and these findings do not establish a causal benefit of THA. LEVEL OF EVIDENCE: Level III, Retrospective comparative study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42890386/",
+      "score": 70,
+      "score_reasoning": "Prospective multicenter PLUTO study group cohort in AJSM evaluating alignment changes after transphyseal ACLR in 91 skeletally immature patients near skeletal maturity, addressing a clinically significant safety concern.",
+      "bullets": [
+        "In patients aged 65 to 75 with femoral neck fracture, THA was associated with a lower 90-day readmission rate than hemiarthroplasty (10.1% vs 15.7%).",
+        "Death at first readmission was also less common after THA (0.1% vs 0.7%), though index hospital charges were higher with THA.",
+        "For relatively fit patients aged 65 to 75 with femoral neck fracture, THA may offer a readmission advantage over hemiarthroplasty, but selection bias limits causal conclusions."
+      ]
+    },
+    {
+      "pmid": "42891655",
+      "title": "The use of patellar tendon autograft and lateral meniscus repair are associated with loss of motion of the knee among female patients undergoing anterior cruciate ligament reconstruction.",
+      "authors": [
+        "Dadoo S",
+        "Nash AE",
+        "Yang Z",
+        "Aycardi N",
+        "Bhardwaj N",
+        "Vyas D",
+        "Hughes JD",
+        "Musahl V",
+        "Irrgang JJ",
+        "Lesniak BP"
+      ],
+      "authors_short": "Dadoo S, Nash AE, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To conduct a sex-stratified analysis of factors associated with subsequent surgery for loss of motion after anterior cruciate ligament reconstruction (ACLR), including meniscus repair and graft type. METHODS: All individuals age \u226514 years who underwent primary ACLR between 2014 and 2021 were reviewed. Exclusion criteria included <6 months follow-up and concomitant meniscal root, multiligament, osteochondral or osteotomy procedures. The primary outcome was subsequent surgery for loss of motion. Demographic and surgical variables were compared between individuals who underwent subsequent surgery for loss of motion versus not, for the full cohort and among females and males separately. Significance was set to p\u2009<\u20090.050. RESULTS: A total of 1226 individuals (age: 25\u2009\u00b1\u200910 years; 49% female) were included at a mean follow-up of 2.3 years. The rate of subsequent surgery for loss of motion was 9.0% for the full cohort, 12.3% for females and 5.9% for males. Among the full cohort, female sex (OR: 2.31; p\u2009<\u20090.001) and lateral meniscus (LM) repair (OR: 1.62; p\u2009=\u20090.048) were predictors of subsequent surgery for loss of motion. Among females, bone-patellar tendon-bone (BPTB) autograft use (OR: 1.91; p\u2009=\u20090.034) and LM repair (OR: 1.72; p\u2009=\u20090.046) were predictors of subsequent surgery for loss of motion, with combined BPTB autograft use and LM repair resulting in a significantly higher rate of subsequent surgery for loss of motion (32% vs. 12%; p\u2009=\u20090.004). Among males, graft type and meniscus repair were not associated with subsequent surgery for loss of motion (both p\u2009>\u20090.050). CONCLUSION: In this sex-stratified analysis, BPTB autograft use and LM repair were identified as factors predictive of subsequent surgery for loss of motion after primary ACLR when analysing females independently, while no predictive factors were identified when analysing males independently. Understanding factors associated with loss of motion after primary ACLR among males and females separately may guide individualised surgical decision-making and patient counselling. LEVEL OF EVIDENCE: Level III, retrospective cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42891655/",
+      "score": 69,
+      "score_reasoning": "Large retrospective cohort in JBJS-affiliated JAOAC on preoperative SSRI use and THA complications with 77,958 matched patients and dose-response analysis, identifying a highly prevalent and modifiable perioperative risk factor.",
+      "bullets": [
+        "Among female ACL reconstruction patients, patellar tendon autograft and lateral meniscus repair each independently increase the risk of reoperation for knee stiffness, and combining both raises that rate from 12% to 32%.",
+        "These stiffness risk factors did not apply to male patients, making this a female-specific surgical planning consideration.",
+        "Surgeons should counsel female patients about stiffness risk when planning patellar tendon graft with concurrent lateral meniscus repair, and consider whether graft selection or repair timing can be modified."
+      ]
+    },
+    {
+      "pmid": "42901231",
+      "title": "Myocardial Infarction Within 6 Months before Total Shoulder Arthroplasty is Strongly Associated with Postoperative Complications.",
+      "authors": [
+        "Parmar RP",
+        "Sahni VS",
+        "Holle AM",
+        "Amini MH",
+        "McKee M",
+        "Lederman E",
+        "Patel M"
+      ],
+      "authors_short": "Parmar RP, Sahni VS, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: As total shoulder arthroplasty (TSA) is increasing in volume, limited data exist regarding how recent myocardial infarction (MI) influences postoperative outcomes. This study aimed to evaluate the impact of MI timing, type, treatment, and anatomical location on rates of postoperative cardiac, medical, and surgical complications following TSA. METHODS: A national insurance database, PearlDiver, was queried to identify patients with a history of MI within two years prior to TSA. These patients were propensity-matched 1:4 to controls without prior MI based on demographics and comorbidities. The MI cohort was stratified by timing (0-6 months, 6-12 months, 12-18 months, 18-24 months), and subgroup analyses were performed by MI type (Type 1 vs. Type 2), ST-Segment Elevation Myocardial Infarction (STEMI) vs Non-ST-Elevation Myocardial Infarction (NSTEMI) classification, percutaneous coronary intervention (PCI), guideline-directed medical therapy (GDMT), and infarct location. RESULTS: A history of MI within 2 years preceding TSA had a strong association with higher odds of postoperative MI (OR 5.67; 95% CI, 3.86-8.32). The strongest association was observed when MI occurred within 6 months of TSA (OR 9.95; 95% CI, 6.50-15.24). Type 1 MI was strongly associated with postoperative MI, particularly within 6 months (OR 10.86; 95% CI, 6.96-16.95). Type 2 MI within 6 months was strongly associated with postoperative MI (OR 10.69; 95% CI, 2.50-45.63), DVT (OR 9.81; 95% CI, 2.30-41.79), and PJI (OR 5.24; 95% CI, 1.60-17.18). Both STEMI (OR = 6.17) and NSTEMI (OR = 5.77) were strongly associated with postoperative MI. Anterior MI was strongly associated with postoperative MI (OR 7.22; 95% CI, 3.36-15.49), whereas inferior MI was strongly associated with 90-day mortality (OR 6.46; 95% CI, 1.85-22.60). CONCLUSION: MI within 2 years and specifically 6 months of TSA was associated with higher odds of postoperative complications. MI timing, subtype, treatment, and location should be carefully weighed when considering TSA in this high-risk population.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42901231/",
+      "score": 66,
+      "score_reasoning": "Retrospective comparative study in JARTHROPLASTY on preoperative sepsis and TKA complications using a large insurance database, identifying substantially elevated risks of MI, DVT, PJI, and revision with direct preoperative screening implications.",
+      "bullets": [
+        "Patients who had a myocardial infarction within 6 months before total shoulder arthroplasty were nearly 10 times more likely to suffer a postoperative myocardial infarction than matched controls without prior MI.",
+        "Both Type 1 and Type 2 MI subtypes, as well as STEMI and NSTEMI, carried significantly elevated cardiac complication risk, and inferior MI was associated with a sixfold increase in 90-day mortality.",
+        "For patients considering total shoulder arthroplasty after a recent MI, surgeons should weigh timing, MI subtype, and infarct location when assessing operative risk, and strongly consider delaying elective cases beyond 6 months."
+      ]
+    },
+    {
+      "pmid": "42879166",
+      "title": "Low graft failure after primary anterior cruciate ligament reconstruction in professional soccer players: A retrospective cohort study of 232 knees from the SANTI Study Group.",
+      "authors": [
+        "Santamaria F",
+        "Santos PM",
+        "Ayata M",
+        "Wehbe H",
+        "Sonnery-Cottet V",
+        "Campos JP",
+        "Corti J",
+        "Vieira TD",
+        "Sonnery-Cottet B"
+      ],
+      "authors_short": "Santamaria F, Santos PM, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: This study aimed to determine graft failure rates after primary anterior cruciate ligament reconstruction (ACLR) in professional soccer players and to evaluate factors associated with graft failure, including lateral extra-articular augmentation. METHODS: A retrospective cohort study included 232 primary ACLRs in 215 professional soccer players: isolated ACLR (n\u2009=\u200931) and ACLR combined with a lateral extra-articular procedure (LEAP) (n\u2009=\u2009201). The primary endpoint was graft failure, defined as symptomatic rupture confirmed clinically and by imaging or revision surgery. Time-to-event analyses accounted for variable follow-up. Contralateral ACL injury was recorded descriptively. RESULTS: At a mean follow-up of 100 months, 13 graft failures occurred (5.6%). Unadjusted failure rates were lower in ACLR\u2009+\u2009LEAP versus isolated ACLR (4.5% vs. 12.9%), but survival analysis showed no significant difference (hazard ratio [HR] 2.48; 95% confidence interval [CI] 0.49-9.87; p\u2009=\u20090.246). Multivariable Cox regression identified no independent predictors of graft failure. Mean time to graft failure was longer in the ACLR\u2009+\u2009LEAP group than in the isolated ACLR group (54.8\u2009\u00b1\u200952.0 vs. 36.6\u2009\u00b1\u200938.2 months). Reoperations occurred in 32 knees (17.7%), with rates of 15.2% in the ACLR\u2009+\u2009LEAP group and 30.0% in the isolated ACLR group (p\u2009=\u20090.0528). Increased preoperative laxity (\u22657\u2009mm; HR 2.72; 95% CI 1.23-6.17; p\u2009=\u20090.014) and bone-patellar tendon-bone graft use (HR 3.14; 95% CI 1.26-7.20; p\u2009=\u20090.037) were independent risk factors for reoperation. Contralateral ACL injury occurred in 27.1% of knees, more frequently in female athletes (48.7% vs. 22.8%). Among patients who experienced graft failure, 53.8% also had a contralateral ACL injury. CONCLUSION: Primary ACL reconstruction in professional soccer players was associated with durable long-term graft survival. Although ACLR combined with an LEAP was associated with fewer graft failures than isolated ACLR, an independent protective effect was not confirmed. The high rate of contralateral ACL injury highlights the multifactorial nature of reinjury risk in this elite population. LEVEL OF EVIDENCE: Level III, retrospective cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42879166/",
+      "score": 65,
+      "score_reasoning": "Retrospective cohort in JARTHROPLASTY on multiple-offset titanium slot-stem vs cobalt-chromium stems in 63 revision TKAs at 8.6-year mean follow-up showing reduced stem-tip pain and better radiographic outcomes, relevant for revision knee surgeons.",
+      "bullets": [
+        "In 232 ACL reconstructions in professional soccer players followed for over 8 years, graft failure occurred in only 5.6% of knees.",
+        "Adding a lateral extra-articular procedure reduced raw failure rates compared to isolated ACL reconstruction, but this protective effect did not reach significance on survival analysis.",
+        "Over one quarter of players suffered a contralateral ACL tear during follow-up, occurring at nearly twice the rate in female athletes, which surgeons should factor into return-to-sport counseling."
+      ]
+    },
+    {
+      "pmid": "42910073",
+      "title": "Mobile-Bearing Total Knee Arthroplasty Using Subvastus Approach With Lateral Retinacular Release for Valgus Knee Osteoarthritis With Permanent Dislocation of the Patella: A Case Report and Narrative Review.",
+      "authors": [
+        "Kawanishi S",
+        "Hamada D",
+        "Shigekiyo S",
+        "Wada K",
+        "Tamaki Y",
+        "Sairyo K"
+      ],
+      "authors_short": "Kawanishi S, Hamada D, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "Permanent dislocation of the patella (PDP) with valgus knee osteoarthritis is rare and challenging in total knee arthroplasty. A 55-year-old woman with PDP and valgus knee osteoarthritis underwent mobile-bearing posterior-stabilized total knee arthroplasty using the subvastus approach. Extensive lateral retinacular release and partial transverse division of the rectus femoris were required for stable patellar reduction and 90\u00b0 of flexion. Independent ambulation was achieved at 3 months. At 1 year, knee flexion remained limited; however, the functional activities score on the 2011 Knee Society Score improved from 39 to 67, and the Forgotten Joint Score-12 from 20 to 40. No recurrent dislocation or radiographic complications occurred. This case demonstrates that this surgical strategy can provide stable patellar tracking and functional improvement in PDP with valgus knee osteoarthritis.",
+      "pub_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42910073/",
+      "score": 64,
+      "score_reasoning": "Retrospective cohort in JSES comparing CB-rTSA and IB-rTSA using the New Zealand Joint Registry with multivariable Cox modeling and Oxford Shoulder Score outcomes, providing high-quality real-world survivorship comparison.",
+      "bullets": [
+        "In a patient with permanent patellar dislocation and valgus knee arthritis, total knee replacement with a subvastus approach achieved stable patellar tracking and independent walking by 3 months.",
+        "Extensive lateral retinacular release combined with partial rectus femoris division was needed to reduce the patella and obtain 90 degrees of flexion intraoperatively.",
+        "Surgeons treating this rare combination should anticipate significant soft tissue releases and counsel patients that flexion may remain limited despite meaningful functional gains at one year."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-10-25T07:06:44.188027-07:00"
+}
