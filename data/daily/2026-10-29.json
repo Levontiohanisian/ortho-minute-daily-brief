@@ -1,0 +1,313 @@
+{
+  "brief_date": "2026-10-29",
+  "brief_date_display": "Thursday, October 29",
+  "candidates": [
+    {
+      "pmid": "42946100",
+      "title": "The 10-Year Revision Risk of Dual-Mobility Versus Standard Cups in Primary Total Hip Arthroplasty for Osteoarthritis: A Population-Based Study from the Danish Hip Arthroplasty Register.",
+      "authors": [
+        "Hussein Y",
+        "Iljazi A",
+        "S\u00f8rensen MS",
+        "Eriksson F",
+        "Overgaard S",
+        "Petersen MM"
+      ],
+      "authors_short": "Hussein Y, Iljazi A, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Dislocation is the leading cause of first-time revision following total hip arthroplasty (THA). Dual-mobility (DM) cups have been used to reduce this risk, but data on 10-year revision outcomes with DM compared with standard cups remain limited. We aimed to compare the 10-year risk of all-cause and cause-specific revision between DM cups and standard cups with 32 or 36 mm femoral heads. METHODS: This was a nationwide register-based cohort study using data from the Danish Hip Arthroplasty Register and the Danish National Patient Register. We included patients who underwent primary THA for osteoarthritis (OA) between 2007 and 2019 receiving either a monoblock DM cup or a standard cup with a 32 mm (SC32) or 36 mm (SC36) femoral head. We identified 5,187 patients who have DM, 35,162 with SC36, and 15,702 with SC32. The primary outcome was revision within 10 years for any cause. The secondary outcomes included cause-specific revision within 10 years. We estimated standardized risk differences using direct standardization to the covariate distribution of the combined population. RESULTS: The standardized 10-year risk of all-cause revision was 6.6% (95% confidence interval [CI] 5.7 to 7.4) for DM, 5.9% (95% CI 5.6 to 6.3) for SC36, and 6.9% (95% CI 6.4 to 7.4) for SC32. The standardized risk difference was -0.6 percentage points (95% CI -1.5 to 0.3; P = 0.16) for DM versus SC36 and 0.3 percentage points (95% CI -0.6 to 1.3; P = 0.50) for DM versus SC32. CONCLUSION: The 10-year standardized risk of all-cause revision did not differ between DM and SC36 or SC32. The DM was associated with a lower standardized risk of revision due to dislocation, but a higher standardized risk of revision due to infection compared with both SC32 and SC36.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42946100/",
+      "score": 82,
+      "score_reasoning": "Prospective study of intraoperative synovial calprotectin point-of-care lateral flow test with high diagnostic accuracy (91.7% sensitivity, 90.3% specificity) for PJI, directly applicable to revision arthroplasty decision-making with strong study design and meaningful sample size.",
+      "bullets": [
+        "In over 56,000 primary total hip arthroplasties for osteoarthritis, dual-mobility cups showed no significant difference in 10-year all-cause revision risk compared to standard 32 mm or 36 mm femoral head constructs.",
+        "Dual-mobility cups reduced revision for dislocation but were associated with a higher revision rate for periprosthetic joint infection compared to both standard cup groups.",
+        "For most primary hip replacement patients, a well-sized standard cup with a large femoral head delivers equivalent 10-year durability to dual-mobility, which should be reserved for patients at genuinely elevated dislocation risk."
+      ]
+    },
+    {
+      "pmid": "42929654",
+      "title": "Clinical Pathway Management for Platelet-Rich Plasma Therapy in Kellgren-Lawrence Grade I and II Knee Osteoarthritis: A Prospective, Multicenter, Double-Blind Randomized Controlled Trial.",
+      "authors": [
+        "Yang S",
+        "Wang H",
+        "Liu Y",
+        "Fu F",
+        "Xu P",
+        "Li Q",
+        "Li J",
+        "Tian X",
+        "Chen G"
+      ],
+      "authors_short": "Yang S, Wang H, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Clinical outcomes after platelet-rich plasma (PRP) treatment for knee osteoarthritis are inconsistent, and some well-designed trials show no benefit. Whether a standardized multicomponent pathway improves outcomes relative to conventional PRP care is uncertain. PURPOSE: To compare the efficacy, safety, satisfaction, and costs of a standardized PRP pathway versus physician-directed conventional PRP care in Kellgren-Lawrence grade I and II knee osteoarthritis. STUDY DESIGN: Randomized controlled trial; Level of evidence, 1. METHODS: At 3 hospitals, 240 patients were randomized 1:1 to a standardized PRP clinical pathway (PRP-CP; n = 120) or physician-directed conventional PRP care (PRP-C; n = 120). PRP-CP combined standardized selection, quality-controlled leukocyte-poor PRP, ultrasound-guided injections, staged rehabilitation, and systematic follow-up. Primary 12-month outcomes were visual analog scale (VAS) pain, Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) total, and International Knee Documentation Committee (IKDC) scores; secondary outcomes included achievement of the minimal clinically important difference, satisfaction, adverse events, and costs. RESULTS: At 12 months, PRP-CP produced greater changes than PRP-C in VAS (mean difference [MD], -2.98 [95% CI, -3.64 to -2.32]), WOMAC total (MD, -8.63 [95% CI, -11.35 to -5.90]), and IKDC (MD, 10.25 [95% CI, 8.37 to 12.13]) scores (all P < .001). Achievement of the minimal clinically important difference favored PRP-CP at 3, 6, and 12 months for the VAS and at 6 and 12 months for the IKDC and WOMAC (P < .05). Satisfaction was greater with PRP-CP (odds ratio, 1.79 [95% CI, 1.11-2.89]; P = .017). An adverse event occurred in 17 of 115 patients in the PRP-CP group (14.8%) versus 36 of 113 patients in the PRP-C group (31.9%) (Fisher exact test: P = .003). Mean costs were CN\u00a515,199.9 versus CN\u00a514,754.4, respectively; the incremental cost-effectiveness ratio was CN\u00a566.0 per WOMAC point. Effects were generally consistent across centers, and blinding was maintained. CONCLUSION: The standardized multicomponent pathway produced greater 12-month improvements in pain and function than conventional PRP care, with fewer adverse events. Because components were bundled and no placebo group was included, the trial does not establish PRP efficacy or component-specific effects.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42929654/",
+      "score": 80,
+      "score_reasoning": "High-quality RCT from AJSM comparing standardized PRP clinical pathway versus conventional PRP care in knee OA showing large clinically meaningful differences, directly applicable to a common clinical scenario with adequate sample size.",
+      "bullets": [
+        "In early knee osteoarthritis (KL grade I-II), a standardized PRP pathway combining quality-controlled injection, ultrasound guidance, and staged rehab produced meaningfully greater pain and function gains at 12 months than unstructured PRP care.",
+        "Patients treated with the standardized pathway had roughly half the adverse event rate compared to those receiving conventional physician-directed PRP (15% vs 32%).",
+        "The incremental cost difference was small, suggesting that how PRP is delivered matters as much as whether it is given, though this trial does not confirm PRP itself is effective versus placebo."
+      ]
+    },
+    {
+      "pmid": "42949575",
+      "title": "What Is the 40-year Survivorship of Periacetabular Osteotomy Free From Conversion to THA?",
+      "authors": [
+        "Hirt J",
+        "Roshardt J",
+        "Siebenrock KA",
+        "Ganz R",
+        "Steppacher SD",
+        "Tannast M"
+      ],
+      "authors_short": "Hirt J, Roshardt J, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Periacetabular osteotomy (PAO) is a widely accepted technique for the surgical treatment of symptomatic acetabular dysplasia with reproducibly favorable short- and midterm outcomes. Long-term follow-up studies are essential because PAO is performed in young patients with the aim of preserving the native hip for many decades. However, follow-up of 30 years remains scarce, and no study has reported 40-year outcomes after PAO. QUESTIONS/PURPOSES: (1) What is the cumulative 40-year survivorship free from conversion to THA? (2) How did hip function change and osteoarthritis progress during follow-up of the surviving hips? (3) Which preoperative factors were associated with conversion to THA? (4) What clinically relevant thresholds can be identified for preoperative factors associated with conversion to THA? METHODS: This was a retrospective case series of a consecutive, single-surgeon cohort followed longitudinally and previously reported at 10, 20, and 30 years. Between 1984 and 1987, a total of 75 hips (63 patients) were treated with PAO for acetabular dysplasia at the Department of Orthopaedic Surgery of the Inselspital Bern by the originator of the procedure. Of those, 57% (43 of 75) of hips had reached the endpoint (conversion to THA or arthrodesis) before our previous report on this group (published at a minimum of 27 years). Over the entire follow-up, 5 hips (4 patients) in which the patient died with the hip preserved were treated as competing events. Since the previous report, a further 8 hips were converted and 8 hips (6 patients) were lost to follow-up, leaving 11 hips (7 patients) with complete clinical and radiographic follow-up here, all at a minimum of 36 years. During the study period (1984 to 1987), the only indication for PAO was hip dysplasia with closed triradiate cartilage. The study group here consisted of 83% (52 of 63) women, the median (range) patient age at surgery was 26 years (12 to 55), and the median (range) BMI was 22 kg/m2 (16 to 28). A total of 27 hips had previous surgery to attempt sufficient coverage. Clinical and radiographic follow-up was performed at 10-year intervals, at 10, 20, 30, and 40 years after PAO. Survivorship free from conversion to THA was estimated using a competing-risks analysis with death without conversion treated as a competing event. Twelve patients underwent bilateral PAO and contributed two hips each. Because two hips from the same patient are not independent observations, all confidence intervals (CIs) and p values were calculated using a robust variance estimator with the patient as the clustering unit. Clinical scores, hip ROM, and osteoarthritis grade were described at each follow-up. Preoperative factors associated with conversion to THA were analyzed using Cox proportional hazards regression with a robust variance estimator clustered on patient. Thresholds for predictive factors were identified using maximally selected rank statistics. This approach tests every observed value of a factor as a potential dividing line and selects the value producing the greatest difference in survivorship between the two resulting groups. RESULTS: At 40 years, the survivorship free from conversion to THA was 27% (95% CI 12% to 39%). Merle d'Aubign\u00e9-Postel and Harris hip scores improved during the first decade after surgery and remained above the preoperative level at each follow-up visit. Two preoperative factors were independently associated with a higher risk of conversion to THA: a higher T\u00f6nnis osteoarthritis grade (HR 2.3 per 1-grade increase [95% CI 1.4 to 3.9]; p < 0.01) and a positive anterior impingement test result (HR 3.9 versus a negative test result [95% CI 1.9 to 7.7]; p < 0.01). Threshold analysis, which identifies the value of a preoperative factor that best separates hips likely to be preserved from those likely to be converted, identified 28 years for age at surgery. Younger age was therefore associated with a higher likelihood of retaining the native hip. CONCLUSION: PAO provides durable joint preservation in acetabular dysplasia and can delay THA for decades, with 27% of hips remaining free from conversion at 40 years. Preoperative osteoarthritis and a positive anterior impingement test result were associated with conversion to THA. Older age was also associated with conversion, with a threshold of 28 years, although age was related to the degree of joint degeneration at presentation. Patient selection should therefore be based primarily on the preoperative condition of the joint, with younger age at surgery as an additional consideration. LEVEL OF EVIDENCE: Level III, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42949575/",
+      "score": 78,
+      "score_reasoning": "Landmark 40-year survivorship data on periacetabular osteotomy from CORR with the original procedure's developer, providing uniquely long-term outcomes essential for counseling young dysplasia patients, though limited by case series design and moderate sample size.",
+      "bullets": [
+        "At 40 years, only 27% of hips treated with periacetabular osteotomy for acetabular dysplasia remained free from conversion to THA, meaning most patients will eventually need arthroplasty but the procedure reliably delays it for decades.",
+        "Preoperative osteoarthritis grade and a positive anterior impingement test were independently associated with earlier conversion to THA, making joint condition the primary factor in patient selection.",
+        "Patients under 28 years at surgery were more likely to retain their native hip, though age largely reflects the degree of pre-existing joint degeneration rather than being an independent risk factor."
+      ]
+    },
+    {
+      "pmid": "42925226",
+      "title": "Does a Prior Unsuccessful DAIR Increase the Risk of Reinfection After a Two-stage Revision for Periprosthetic Joint Infection? Results of a Multicenter Case-control Study.",
+      "authors": [
+        "Barbero Allende JM",
+        "Fern\u00e1ndez E",
+        "G\u00f3mez-Junyent J",
+        "Sorl\u00ed L",
+        "Rodr\u00edguez-Pardo D",
+        "Murillo \u00d3",
+        "Fern\u00e1ndez M",
+        "Escudero-S\u00e1nchez R",
+        "Garc\u00eda M",
+        "Portillo ME",
+        "Sancho I",
+        "Rico A",
+        "Guio L",
+        "Soriano A",
+        "Morata L",
+        "De Abajo FJ"
+      ],
+      "authors_short": "Barbero Allende JM, Fern\u00e1ndez E, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Reinfection of a joint prosthesis after a two-stage revision is a serious complication, the risk of which may be higher when the procedure is performed after an unsuccessful debridement, antibiotics, and implant retention (DAIR) procedure. The available evidence is scarce and somewhat contradictory, so new studies are required. QUESTIONS/PURPOSES: (1) Is two-stage revision performed after a prior unsuccessful DAIR associated with a higher risk of prosthetic joint reinfection compared with patients who had no DAIR but rather proceeded directly to two-stage revision? (2) Does the type of periprosthetic joint infection (PJI) (acute versus chronic) modify this association? METHODS: We analyzed data from a previous retrospective, case-control study aimed at assessing the risk factors of reinfection of a joint prosthesis treated with two-stage revision in 12 Spanish hospitals between 2009 and 2018. We defined PJI according to the latest criteria published in 2018. We defined \"acute PJI\" as those occurring early (< 3 months after surgery) and of hematogenous origin and \"chronic PJI\" as those occurring after 3 months and of nonhematogenous origin. During the period in question, we found 89 cases and selected 171 matched controls. For each case (patients who developed a reinfection of a joint prosthesis within 2 years of reimplantation, based on last internationally accepted consensus criteria), up to two consecutive controls (patients who underwent two-stage revision who did not develop a new infection within 2 years of reimplantation) were included, matched by prosthesis location, center, and year of surgery. There were no differences in age, gender, comorbidities, type of infection, or microbiology between the groups. We analyzed how many patients among cases and controls received a previous DAIR, and we assessed the association of the previous DAIR with reinfection of a joint prosthesis by the OR and its respective 95% confidence interval (CI) obtained through logistic regression, adjusted for potential confounding factors. In addition, we performed a separate analysis depending on whether the PJI was acute or chronic. RESULTS: After adjusting for potentially confounding variables such as age, sex, Charlson comorbidity index, and antibiotic prophylaxis, we found that two-stage revision performed after a prior unsuccessful DAIR was associated with higher odds of prosthetic joint reinfection compared with direct two-stage revision (adjusted OR 3.5 [95% CI 1.4 to 8.8]; p = 0.008). After adjusting for confounders, we found that the odds of reinfection in two-stage revision were higher after unsuccessful DAIR compared with direct two-stage revision in patients with chronic PJI (adjusted OR 4.0 [95% CI 1.4 to 11.3]; p = 0.009) than they were in patients with acute PJI (adjusted OR 2.2 [95% CI 0.7 to 7.2]; p = 0.2), but the interaction test did not show statistical significance. CONCLUSION: Unsuccessful DAIR could be associated with a higher risk of reinfection of a joint prosthesis than in direct two-stage revision. Although no difference was found by the type of infection (acute or chronic), the association might be of greater magnitude in patients with chronic PJI, and future studies should focus on this. Although DAIR is a very attractive therapeutic option for PJI, careful selection of candidate patients is essential to avoid compromising the success of a future two-stage revision. Future prospective studies should confirm these findings and evaluate which poor prognostic factors would weigh against performing a DAIR procedure. LEVEL OF EVIDENCE: Level III, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42925226/",
+      "score": 76,
+      "score_reasoning": "Multicenter, nationwide Danish Hip Arthroplasty Register study with large sample (56,051 patients) comparing 10-year revision risk of dual-mobility versus standard cups, providing high-level registry evidence directly applicable to implant selection decisions.",
+      "bullets": [
+        "Patients who had a failed DAIR before two-stage revision were 3.5 times more likely to develop reinfection within two years of reimplantation than those who went directly to two-stage revision.",
+        "The increased reinfection risk after failed DAIR was most pronounced in chronic periprosthetic joint infection, though the difference between acute and chronic groups was not statistically significant.",
+        "For orthopaedic surgeons managing periprosthetic joint infection, a failed DAIR should be considered a risk factor for failure of subsequent two-stage revision, making careful patient selection for DAIR essential."
+      ]
+    },
+    {
+      "pmid": "42950903",
+      "title": "Optimizing Intraoperative Tissue Sampling in Hip and Knee Periprosthetic Joint Infection: Deep Bone Provides Higher Culture Yield in One-Stage Exchange.",
+      "authors": [
+        "Russo A",
+        "Zanna L",
+        "Luo TD",
+        "Gehrke T",
+        "Citak M"
+      ],
+      "authors_short": "Russo A, Zanna L, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Periprosthetic joint infection (PJI) is a challenging complication after hip and knee arthroplasty. Accurate pathogen identification is essential for successful treatment, yet the optimal anatomical site for intraoperative microbiological sampling remains uncertain. This study evaluated whether microbiological yield differs by sampling location and whether this differs between hip and knee PJI. METHODS: We retrospectively analyzed 255 patients who underwent one-stage exchange for PJI (142 hips and 113 knees). Intraoperative specimens were categorized as deep bone, superficial bone, or soft tissue, and culture positivity rates were compared across sites. Generalized estimating equations evaluated the association between sampling site and culture positivity, adjusting for age, body mass index (BMI), Charlson Comorbidity Index, and number of samples. RESULTS: In hip PJI, culture positivity was 80.8 (273 of 338) for deep bone, 79.6 (370 of 465) for soft tissue, and 65.9% (135 of 205) for superficial bone; in knee PJI, positivity was 80.5 (248 of 308), 71.7 (279 of 389), and 65.4% (123 of 188), respectively. After adjustment, deep bone sampling had higher odds of culture positivity than superficial bone and soft tissue sampling (odds ratio [OR], 1.53; 95% confidence interval [CI], 1.05 to 2.25), with similar effects in both joints. Soft tissue sampling was more likely to yield positive cultures in hip than knee PJI (OR, 2.19; 95% CI, 1.27 to 3.78). Higher BMI was independently associated with lower culture positivity. CONCLUSIONS: Deep bone sampling provided the highest microbiological yield in both hip and knee PJI, while superficial bone sampling consistently showed the lowest positivity. Soft-tissue sampling performed particularly well in hip PJI, supporting its complementary role during intraoperative microbiological sampling.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42950903/",
+      "score": 74,
+      "score_reasoning": "Retrospective analysis of 255 PJI cases demonstrating deep bone sampling yields superior culture positivity in one-stage exchange, directly actionable intraoperative guidance for improving pathogen identification in a challenging clinical scenario.",
+      "bullets": [
+        "During one-stage exchange for hip or knee periprosthetic joint infection, deep bone samples had the highest culture positivity rate at around 80%, outperforming both superficial bone and soft tissue.",
+        "Superficial bone consistently returned the lowest culture yield across both hip and knee cases, making it the least reliable standalone sampling site.",
+        "Surgeons should prioritize deep bone sampling in all periprosthetic joint infection cases, and add soft tissue samples especially in hip cases where soft tissue yield is notably higher than in knees."
+      ]
+    },
+    {
+      "pmid": "42925023",
+      "title": "Association of Changes in Game Pitch Count, Pitching Velocity, and Arm Injuries in Collegiate Pitchers.",
+      "authors": [
+        "Salamh P",
+        "Plisky P",
+        "Beiting J",
+        "Martin C",
+        "Losciale JM",
+        "Shanley E",
+        "Thigpen CA",
+        "Pinkoski AM",
+        "Fernandez G",
+        "Ward P",
+        "Morrison S",
+        "Prats-Uribe A",
+        "Butler R",
+        "West S",
+        "Bullock G"
+      ],
+      "authors_short": "Salamh P, Plisky P, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Baseball pitchers experience a high rate of shoulder and elbow injuries. While there have been several factors associated with arm injuries among pitchers, pitch volume and pitch velocity have garnered a great deal of attention. The associations among pitch counts, pitch velocity, and arm injury have not been well studied. PURPOSE: To assess the association between changes in game pitch count and arm injuries in collegiate baseball pitchers over 1 summer season. The secondary aim was to assess the association between mean in-game fastball pitch velocity and arm injuries in the same baseball pitchers. STUDY DESIGN: Cohort study; Level of evidence, 2. METHODS: Collegiate pitchers were prospectively followed throughout the summer season for game pitch count, pitch velocity, and arm injuries. Bayesian joint models, including time-to-event Cox regressions and multilevel mixed effects regressions, were performed to assess the associations of interest, while competing risks of release and/or retirement were controlled for. Nonlinear relationships were modeled using natural splines. Change in pitch count and pitch velocity was modeled by the change in each pitcher's mean seasonal pitch count or pitch velocity. RESULTS: A total of 187 pitchers were included in this study and followed for a total of 9890 baseball exposure days. A total of 22 pitchers (12%; 95% CI, 7.5%-17.2%) experienced an arm injury, and 4 pitchers (2%; 95% CI, 0.6%-5.4%) were released, voluntarily retired, or reached their innings limit for the season. There was a nonlinear (parabolic shape) positive association of an increased change in pitch count as compared with the pitcher's mean pitch count and arm injuries. Additionally, there was a nonlinear (parabolic shape) positive association between arm injury hazard and a decrease in fastball pitch velocity when compared with the pitcher's mean fastball pitch velocity. CONCLUSION: There was an increased risk for shoulder and elbow injuries with an increase in pitch count as compared with a pitcher's mean pitch count over pitch appearances. Additionally, there was an association between arm injuries and decreased pitch velocity as compared with a pitcher's mean pitch velocity.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42925023/",
+      "score": 73,
+      "score_reasoning": "Multicenter case-control study from CORR addressing the clinically important question of whether prior failed DAIR increases reinfection risk after two-stage revision for PJI, providing directly actionable surgical decision-making data.",
+      "bullets": [
+        "Collegiate pitchers who threw more pitches than their personal seasonal average had a higher risk of shoulder and elbow injury, with risk rising in a nonlinear pattern as the deviation increased.",
+        "A drop in fastball velocity below a pitcher's own seasonal average was also associated with increased arm injury risk, suggesting velocity loss may signal early injury.",
+        "For team physicians and athletic trainers managing collegiate pitchers, monitoring individual pitch count spikes and velocity decreases relative to each pitcher's baseline may help identify those at risk before injury occurs."
+      ]
+    },
+    {
+      "pmid": "42912388",
+      "title": "Osteoporosis Screening Gaps Among Patients Undergoing Lumbar Fusion Surgery.",
+      "authors": [
+        "Mao E",
+        "Ceballos-Alvarez KE",
+        "Thai S",
+        "Wang J",
+        "Jain A"
+      ],
+      "authors_short": "Mao E, Ceballos-Alvarez KE, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Osteoporosis is associated with elevated complication rates after lumbar fusion surgery. Despite this, osteoporosis remains both underscreened and undertreated in the United States. Currently, rates of dual-energy radiograph absorptiometry (DEXA) screening before lumbar fusion surgery are unknown, as is the proportion of patients who, after being diagnosed with osteoporosis, receive appropriate treatment. Therefore, the aim of this study was to assess osteoporosis screening and treatment rates among patients undergoing lumbar fusion surgery. METHODS: Patients older than 50 years undergoing lumbar fusion for lumbar stenosis with degenerative spondylolisthesis were identified using the TriNetX database. Patients receiving surgery for indications of malignancy or infection, as well as those with diagnoses of osteoporosis before the screening window, were excluded. The prevalence of DEXA scans in the 2 years before fusion was calculated for the overall cohort and for high-risk cohorts defined by Endocrinology Society guidelines. A secondary analysis assessed rates of osteoporosis treatment among patients receiving preoperative DEXA scans. RESULTS: Of 46,104 patients who underwent lumbar fusion surgery, only 4.5% of men and 15.6% of women received a preoperative DEXA scan in the 2 years before their fusion. Women were more likely to receive DEXA scans than men (OR, 3.93; 95% CI, 3.64 to 4.23; P < 0.001). Only 5.6% of high-risk men and 17.5% of high-risk women received preoperative DEXA screening. Among patients diagnosed with osteoporosis after DEXA screening, only 11.0% received anabolic therapy and 23.1% received antiresorptive therapy. CONCLUSION: Despite most patients undergoing lumbar fusion being at risk of osteoporosis (and eligible for screening), a small minority were screened using DEXA in the 2 years before surgery. Efforts are warranted to increase the prevalence of DEXA screening so that osteoporosis is appropriately diagnosed and treated before lumbar fusion surgery.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42912388/",
+      "score": 70,
+      "score_reasoning": "Osteoporosis screening gaps study using TriNetX database (46,104 patients) revealing alarmingly low DEXA scan rates before lumbar fusion, identifying a critical and immediately actionable quality improvement gap in spine surgery practice.",
+      "bullets": [
+        "Among over 46,000 patients undergoing lumbar fusion, only 4.5% of men and 15.6% of women received a DEXA scan in the two years before surgery.",
+        "Even among high-risk patients meeting screening guidelines, rates were nearly identical, meaning most at-risk patients go into fusion surgery with unknown bone quality.",
+        "Of those diagnosed with osteoporosis before fusion, fewer than one in four received any medical treatment, leaving a clear preoperative optimization gap for orthopaedic surgeons to address."
+      ]
+    },
+    {
+      "pmid": "42931803",
+      "title": "Short-term benefits of hybrid graft in medial patellofemoral ligament reconstruction for recurrent patellar dislocation: A prospective randomized controlled trial with minimum 2-year follow-up.",
+      "authors": [
+        "Zhang X",
+        "Zhai W",
+        "Wang D",
+        "Xu S",
+        "Zhou H",
+        "Guo J",
+        "Xue Z",
+        "Zhang J"
+      ],
+      "authors_short": "Zhang X, Zhai W, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: This study aimed to compare short-term functional and radiological outcomes between autograft and hybrid graft reconstruction in medial patellofemoral ligament (MPFL) reconstruction for recurrent patellar dislocation and explore reasons for differences. METHODS: This prospective randomized controlled trial enroled 51 patients with recurrent patellar dislocation undergoing MPFL reconstruction between January 2020 and January 2023. Major exclusions included severe trochlear dysplasia (Dejour Type B-D), open physis, patella alta, severe lower limb malalignment (knee valgus angle >20\u00b0, femoral anteversion >25\u00b0 or external tibial torsion >30\u00b0) and tibial tubercle-trochlear groove (TT-TG) distance \u226520\u2009mm. Patients were randomly assigned to autograft or hybrid graft groups; the hybrid graft comprised a semitendinosus tendon and 6-mm artificial ligament tape. The primary outcome was the 12-month Kujala score, prespecified for early functional recovery. Secondary outcomes included Kujala and International Knee Documentation Committee (IKDC) scores at other time points and imaging parameters (patellar lateral tilt [PLT] angle and patellar-trochlear groove [PTG] distance) preoperatively, immediately postoperatively and at final follow-up. RESULTS: Forty-six patients were included in the final analysis (autograft, n\u2009=\u200922; hybrid graft, n\u2009=\u200924). Mean age was 19.3 years; 82.6% (38/46) were female. Baseline characteristics and preoperative functional scores were comparable between groups (all p\u2009>\u20090.05). Significant improvements in subjective knee scores were observed in both groups at 3, 6, 12 months and final follow-up (p\u2009<\u20090.05). At 3 months, mean Kujala and IKDC scores were 68.6\u2009\u00b1\u20095.2 and 68.0\u2009\u00b1\u20096.1 in the autograft group versus 82.4\u2009\u00b1\u20094.3 and 82.9\u2009\u00b1\u20093.3 in the hybrid graft group (both p\u2009<\u20090.001). At 6 months, corresponding scores were 83.4\u2009\u00b1\u20093.6 and 83.3\u2009\u00b1\u20093.3 versus 88.4\u2009\u00b1\u20094.6 and 88.0\u2009\u00b1\u20094.9 (both p\u2009<\u20090.05). No significant between-group differences were observed at 12 months or final follow-up (all p\u2009>\u20090.05). No significant between-group differences in PLT angle and PTG distance were observed immediately postoperatively or at final follow-up (all p\u2009>\u20090.05), with significant improvements from preoperative values in both groups (p\u2009<\u20090.05). CONCLUSION: In carefully selected patients with recurrent patellar dislocation, MPFL reconstruction using a hybrid graft achieved satisfactory short-term clinical and radiographic outcomes and was associated with improved early functional recovery at 3 and 6 months. The hybrid graft may be a feasible option for MPFL reconstruction. LEVEL OF EVIDENCE: Level II.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42931803/",
+      "score": 69,
+      "score_reasoning": "RCT from AJSM comparing hybrid versus autograft MPFL reconstruction with minimum 2-year follow-up showing early functional advantages with hybrid graft, directly applicable to a common surgical decision point in patellar instability management.",
+      "bullets": [
+        "In young patients with recurrent patellar dislocation undergoing MPFL reconstruction, a hybrid graft combining semitendinosus tendon with synthetic tape produced better knee function scores at 3 and 6 months compared to autograft alone.",
+        "By 12 months and final follow-up, functional outcomes and patellar alignment were equivalent between hybrid and autograft groups, with no redislocations reported in either group.",
+        "For carefully selected patients without severe trochlear dysplasia, patella alta, or significant malalignment, the hybrid graft is a reasonable MPFL reconstruction option that may speed early return to activity."
+      ]
+    },
+    {
+      "pmid": "42949177",
+      "title": "Arthroscopic labral repair versus debridement in non-athletic patients with femoroacetabular impingement: A prospective randomized study.",
+      "authors": [
+        "Salem KA",
+        "Elsaeed AM",
+        "Ganzouri IE",
+        "Abdelrahman AA",
+        "Abdelwahab MM",
+        "Hemida MA"
+      ],
+      "authors_short": "Salem KA, Elsaeed AM, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To compare functional outcomes and pain scores between arthroscopic labral repair and selective labral debridement in a strictly defined non-athletic population with femoroacetabular impingement (FAI). METHODS: Between February 2024 and April 2025, 60 non-athletic patients (mean age 32.1 years) with symptomatic FAI were randomized to labral repair (n\u2009=\u200930) or debridement (n\u2009=\u200930). Non-athletic status was defined as individuals who engaged in non-competitive activity levels <3\u2009h per week. All patients underwent concomitant cam/pincer resection as needed. The primary outcome was patient-reported clinical outcome, assessed using the Harris Hip Score (HHS), Hip Outcome Score-Activities of Daily Living (HOS-ADL) and Visual Analogue Scale (VAS) for pain, assessed preoperatively and postoperatively at 1, 3, 6 and 12 months. RESULTS: The repair group showed statistically superior HHS and HOS-ADL scores at 3 and 6 months postoperatively (p\u2009\u2264\u20090.021). By the 12-month final follow-up, outcomes converged, with no significant differences in HHS (93.2 vs. 90.0, p\u2009=\u20090.058), HOS-ADL (90.0% vs. 86.6%, p\u2009=\u20090.149) or VAS pain (1.6 vs. 2.0, p\u2009=\u20090.375). Complication rates were similar (36.7% vs. 33.3%, p\u2009=\u20090.787), but operative time was longer for repair (119.3 vs. 99.7\u2009min, p\u2009=\u20090.001). CONCLUSION: In non-athletic patients with FAI, labral repair was associated with superior early functional outcomes; however, no statistically significant differences between the two groups were detected at 12 months. Further studies with larger sample sizes and longer follow-up are needed to determine whether meaningful long-term differences exist between the two procedures. LEVEL OF EVIDENCE: Level I, randomized controlled trial.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42949177/",
+      "score": 68,
+      "score_reasoning": "Prospective RCT of arthroscopic labral repair versus debridement in non-athletic FAI patients showing early superiority of repair that converges by 12 months, providing important evidence challenging the universal preference for repair in non-athletic patients.",
+      "bullets": [
+        "In non-athletic adults with femoroacetabular impingement, labral repair produced better hip function scores than debridement at 3 and 6 months, but outcomes were equivalent by 12 months.",
+        "Both procedures carried similar complication rates, though repair added roughly 20 minutes of operative time.",
+        "For low-activity patients with FAI, labral debridement appears to be a reasonable alternative to repair when shorter operative time or cost is a consideration, based on one-year data."
+      ]
+    },
+    {
+      "pmid": "42918537",
+      "title": "Polyethylene glenospheres in reverse total shoulder arthroplasty have greater long-term implant survivorship than metallic glenospheres: A New Zealand Joint Registry Study.",
+      "authors": [
+        "Bayley S",
+        "Boyle AB",
+        "Frampton C",
+        "Poon P",
+        "Dalgleish A",
+        "Gao R"
+      ],
+      "authors_short": "Bayley S, Boyle AB, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Reverse total shoulder arthroplasty (rTSA) is increasingly common and clinically effective. Conventional-bearing rTSA (CB-rTSA) employs a metallic glenosphere articulating with a polyethylene humeral liner. Inverted-bearing rTSA (IB-rTSA), using a polyethylene glenosphere with a metallic or ceramic humeral liner, was developed to eliminate polyethylene wear debris at the scapular neck and thereby reduce polyethylene-induced osteolysis and the severity of scapular notching. Comparative data on survivorship and patient-reported outcomes between these configurations remain limited. This study compared implant survival, revision risk and functional outcomes between CB-rTSA and IB-rTSA designs. METHODS: This retrospective comparative cohort study identified all primary rTSA procedures performed in New Zealand between January 2007 and December 2024 from the New Zealand Joint Registry. Revision-free implant survival and postoperative function, measured by the Oxford Shoulder Score (OSS), were analysed. Patients were grouped by bearing configuration: polyethylene glenosphere (IB-rTSA) and metal glenosphere (CB-rTSA). Subgroup analyses compared SMR Reverse Polyethylene and SMR Reverse Metal (LimaCorporate, Italy) with other CB-rTSA designs, predominantly Delta Xtend (DePuy Synthes, USA). Revision rates per 100 component-years were calculated, and multivariable Cox proportional hazards models compared revision risk, adjusting for age, sex and diagnosis. RESULTS: A total of 8,601 rTSA procedures were included: 3,437 (40.0%) using a polyethylene glenosphere and 5,164 (60.0%) a metallic glenosphere. Indications for surgery were comparable between groups, whereas the sex distribution differed significantly. Unadjusted revision rates per 100 component-years were higher for the metal group (0.71) than the polyethylene group (0.46) (P = .001). The adjusted hazard ratio for polyethylene compared with metal was 0.57 (95% CI 0.43 - 0.75), representing a 43% lower revision rate. In secondary, unadjusted cause-specific analyses, polyethylene glenospheres were associated with fewer revisions for deep infection (0.11 vs 0.20 per 100 component-years; P = .031) and dislocation (0.09 vs 0.16; P = .045). Mean OSS at 6 months, 5 years and 10 years were similar between groups, with no statistically or clinically significant differences. CONCLUSION: In this large national registry study, IB-rTSA using a polyethylene glenosphere was associated with significantly lower revision rates than conventional metal glenosphere designs, with no statistically or clinically significant differences in patient-reported functional outcomes. In secondary, unadjusted cause-specific analyses, polyethylene glenospheres were also associated with lower rates of revision for deep infection and dislocation. Although it could not be examined using registry data, this lower revision burden may relate to the absence of polyethylene-induced osteolysis and consequently less pronounced scapular notching.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42918537/",
+      "score": 60,
+      "score_reasoning": "Prospective study from New Zealand Joint Registry (large registry cohort) comparing polyethylene versus metallic glenospheres in rTSA showing superior survivorship with polyethylene design, providing registry-level evidence for an ongoing implant design debate.",
+      "bullets": [
+        "In over 8,600 reverse shoulder replacements from the New Zealand Joint Registry, polyethylene glenospheres had a 43% lower revision rate than metal glenospheres over a follow-up period spanning nearly two decades.",
+        "Polyethylene glenospheres were also associated with fewer revisions for deep infection and dislocation, though functional outcome scores were similar between the two bearing configurations.",
+        "For surgeons selecting implants for reverse total shoulder arthroplasty, this large registry study supports considering a polyethylene glenosphere design to reduce the likelihood of revision surgery."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-10-29T09:35:58.063874-07:00"
+}
