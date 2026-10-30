@@ -1,0 +1,311 @@
+{
+  "brief_date": "2026-10-30",
+  "brief_date_display": "Friday, October 30",
+  "candidates": [
+    {
+      "pmid": "42929654",
+      "title": "Clinical Pathway Management for Platelet-Rich Plasma Therapy in Kellgren-Lawrence Grade I and II Knee Osteoarthritis: A Prospective, Multicenter, Double-Blind Randomized Controlled Trial.",
+      "authors": [
+        "Yang S",
+        "Wang H",
+        "Liu Y",
+        "Fu F",
+        "Xu P",
+        "Li Q",
+        "Li J",
+        "Tian X",
+        "Chen G"
+      ],
+      "authors_short": "Yang S, Wang H, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Clinical outcomes after platelet-rich plasma (PRP) treatment for knee osteoarthritis are inconsistent, and some well-designed trials show no benefit. Whether a standardized multicomponent pathway improves outcomes relative to conventional PRP care is uncertain. PURPOSE: To compare the efficacy, safety, satisfaction, and costs of a standardized PRP pathway versus physician-directed conventional PRP care in Kellgren-Lawrence grade I and II knee osteoarthritis. STUDY DESIGN: Randomized controlled trial; Level of evidence, 1. METHODS: At 3 hospitals, 240 patients were randomized 1:1 to a standardized PRP clinical pathway (PRP-CP; n = 120) or physician-directed conventional PRP care (PRP-C; n = 120). PRP-CP combined standardized selection, quality-controlled leukocyte-poor PRP, ultrasound-guided injections, staged rehabilitation, and systematic follow-up. Primary 12-month outcomes were visual analog scale (VAS) pain, Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) total, and International Knee Documentation Committee (IKDC) scores; secondary outcomes included achievement of the minimal clinically important difference, satisfaction, adverse events, and costs. RESULTS: At 12 months, PRP-CP produced greater changes than PRP-C in VAS (mean difference [MD], -2.98 [95% CI, -3.64 to -2.32]), WOMAC total (MD, -8.63 [95% CI, -11.35 to -5.90]), and IKDC (MD, 10.25 [95% CI, 8.37 to 12.13]) scores (all P < .001). Achievement of the minimal clinically important difference favored PRP-CP at 3, 6, and 12 months for the VAS and at 6 and 12 months for the IKDC and WOMAC (P < .05). Satisfaction was greater with PRP-CP (odds ratio, 1.79 [95% CI, 1.11-2.89]; P = .017). An adverse event occurred in 17 of 115 patients in the PRP-CP group (14.8%) versus 36 of 113 patients in the PRP-C group (31.9%) (Fisher exact test: P = .003). Mean costs were CN\u00a515,199.9 versus CN\u00a514,754.4, respectively; the incremental cost-effectiveness ratio was CN\u00a566.0 per WOMAC point. Effects were generally consistent across centers, and blinding was maintained. CONCLUSION: The standardized multicomponent pathway produced greater 12-month improvements in pain and function than conventional PRP care, with fewer adverse events. Because components were bundled and no placebo group was included, the trial does not establish PRP efficacy or component-specific effects.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42929654/",
+      "score": 82,
+      "score_reasoning": "High-quality RCT from AJSM evaluating a standardized PRP clinical pathway versus conventional PRP care for knee OA with robust 240-patient sample, double-blind design, and clinically meaningful outcome differences directly applicable to practice.",
+      "bullets": [
+        "In patients with grade I or II knee osteoarthritis, a standardized PRP pathway combining quality-controlled leukocyte-poor PRP, ultrasound guidance, and staged rehab produced meaningfully greater pain and function gains at 12 months than routine PRP care.",
+        "Adverse events occurred in roughly half as many patients in the standardized pathway group compared to conventional PRP care (15% vs 32%), with similar overall costs between groups.",
+        "The trial does not prove PRP works, only that how it is delivered matters, so surgeons should not interpret this as evidence for PRP over placebo in early knee osteoarthritis."
+      ]
+    },
+    {
+      "pmid": "42946100",
+      "title": "The 10-Year Revision Risk of Dual-Mobility Versus Standard Cups in Primary Total Hip Arthroplasty for Osteoarthritis: A Population-Based Study from the Danish Hip Arthroplasty Register.",
+      "authors": [
+        "Hussein Y",
+        "Iljazi A",
+        "S\u00f8rensen MS",
+        "Eriksson F",
+        "Overgaard S",
+        "Petersen MM"
+      ],
+      "authors_short": "Hussein Y, Iljazi A, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Dislocation is the leading cause of first-time revision following total hip arthroplasty (THA). Dual-mobility (DM) cups have been used to reduce this risk, but data on 10-year revision outcomes with DM compared with standard cups remain limited. We aimed to compare the 10-year risk of all-cause and cause-specific revision between DM cups and standard cups with 32 or 36 mm femoral heads. METHODS: This was a nationwide register-based cohort study using data from the Danish Hip Arthroplasty Register and the Danish National Patient Register. We included patients who underwent primary THA for osteoarthritis (OA) between 2007 and 2019 receiving either a monoblock DM cup or a standard cup with a 32 mm (SC32) or 36 mm (SC36) femoral head. We identified 5,187 patients who have DM, 35,162 with SC36, and 15,702 with SC32. The primary outcome was revision within 10 years for any cause. The secondary outcomes included cause-specific revision within 10 years. We estimated standardized risk differences using direct standardization to the covariate distribution of the combined population. RESULTS: The standardized 10-year risk of all-cause revision was 6.6% (95% confidence interval [CI] 5.7 to 7.4) for DM, 5.9% (95% CI 5.6 to 6.3) for SC36, and 6.9% (95% CI 6.4 to 7.4) for SC32. The standardized risk difference was -0.6 percentage points (95% CI -1.5 to 0.3; P = 0.16) for DM versus SC36 and 0.3 percentage points (95% CI -0.6 to 1.3; P = 0.50) for DM versus SC32. CONCLUSION: The 10-year standardized risk of all-cause revision did not differ between DM and SC36 or SC32. The DM was associated with a lower standardized risk of revision due to dislocation, but a higher standardized risk of revision due to infection compared with both SC32 and SC36.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42946100/",
+      "score": 80,
+      "score_reasoning": "Prospective study of a point-of-care calprotectin lateral flow test for intraoperative PJI diagnosis with strong diagnostic accuracy metrics (AUC 0.894), directly actionable in revision arthroplasty settings, published in a high-volume arthroplasty journal.",
+      "bullets": [
+        "In over 56,000 primary total hip arthroplasties for osteoarthritis, dual-mobility cups and standard cups with 32mm or 36mm heads had equivalent 10-year all-cause revision rates of roughly 6 to 7 percent.",
+        "Dual-mobility cups were revised less often for dislocation but more often for infection compared to both standard cup sizes.",
+        "For most osteoarthritis patients undergoing primary total hip arthroplasty, choosing a 36mm standard head achieves similar overall implant survival to dual-mobility without the apparent infection risk trade-off."
+      ]
+    },
+    {
+      "pmid": "42956088",
+      "title": "Implant Choice Impacts Initial Tibial Component Micromotion in Total Ankle Replacement: A Biomechanical Analysis.",
+      "authors": [
+        "Henry JK",
+        "Hoffman J",
+        "Villar R",
+        "Lu K",
+        "Kim S",
+        "Steineman BD",
+        "Demetracopoulos C"
+      ],
+      "authors_short": "Henry JK, Hoffman J, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Total ankle replacements (TARs) have a risk of early mechanical failure. Clinical studies have shown that implants with more robust tibial fixation-i.e., stemmed designs-have a lower early mechanical failure risk. We aimed to compare the micromotion between 2 tibial components with different fixation features, using a cadaveric robotic gait simulator. We hypothesized that more robust fixation accommodates loads more effectively, resulting in less micromotion at the bone-implant interface for stemmed tibial implants when compared to low-profile tibial implants. METHODS: Specimens from 10 cadaveric matched pairs (from 6 men and 4 women, age: 48 \u00b1 11 years) were implanted with either a low-profile or stemmed TAR. Post-TAR, gait was simulated using a validated 6-degrees-of-freedom robot. A digital image correlation camera system captured the relative motion between the tibial bone and the implant via surface markers. Implant micromotion was calculated by performing rigid-body transformations on segmented geometries of the tibia and implant derived from computed tomography imaging. Peak and mean micromotion were defined as the maximum and mean nodal displacement, respectively, on the implant surface across all time points in stance. Wilcoxon signed-rank tests compared micromotion of stemmed and low-profile implants between matched pairs. RESULTS: On average, peak and mean micromotion values were greater for low-profile implants by 150 \u00b5m (95% confidence interval [CI]: 98 to 203 \u00b5m) and 30 \u00b5m (95% CI: 9 to 52 \u00b5m), respectively, compared with the matched stemmed implants (p < 0.001 for both). Peak micromotion of low-profile implants typically occurred at the posterior aspect of the implant. In contrast, stemmed implants demonstrated a more evenly distributed pattern with peak micromotion located at the tip of the stem. CONCLUSIONS: This study identified significantly greater time-zero micromotion of low-profile tibial implants compared with stemmed implants. The micromotion distribution suggests that the stemmed implants were further compressed into bone, whereas the low-profile implants demonstrated a rocking motion. Our data support the notion that early mechanical failures of low-profile tibial implants may be due to excessive early micromotion. LEVEL OF EVIDENCE: Therapeutic Level IV. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42956088/",
+      "score": 78,
+      "score_reasoning": "Secondary analysis of a registered RCT with 183 TKA patients comparing restricted kinematic versus mechanical alignment over 3 years, providing high-quality evidence on a hotly debated alignment strategy with functional outcome data.",
+      "bullets": [
+        "Stemmed total ankle tibial components produce significantly less bone-implant micromotion during simulated gait than low-profile designs, with peak motion averaging 150 \u00b5m lower in stemmed implants.",
+        "Low-profile tibial components showed a posterior rocking pattern during stance, while stemmed designs distributed motion more evenly and compressed further into bone.",
+        "For surgeons choosing a total ankle replacement implant, this biomechanical data supports stemmed tibial fixation as a way to reduce early micromotion and potentially lower mechanical failure risk."
+      ]
+    },
+    {
+      "pmid": "42946099",
+      "title": "Effect of Horizontal Medialization of the Hip Center of Rotation on Clinical Outcomes After Total Hip Arthroplasty in Crowe Types I and II Developmental Hip Dysplasia.",
+      "authors": [
+        "Duan Z",
+        "Huang X",
+        "Zhang Y",
+        "Huang H",
+        "Ma M",
+        "Tian C",
+        "Liu J",
+        "Geng B"
+      ],
+      "authors_short": "Duan Z, Huang X, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: The objective of our study was to investigate the effect of horizontal medialization of the hip center of rotation (COR) on clinical outcomes after primary unilateral total hip arthroplasty (THA) in patients who had Crowe types I and II developmental dysplasia of the hip (DDH). METHODS: A total of 189 patients who had Crowe types I and II DDH and underwent primary unilateral THA between January 2017 and December 2024 were retrospectively included. According to the postoperative horizontal COR difference, patients were divided into a horizontal COR reconstruction group (-five millimeters (mm) \u2264 horizontal COR difference \u2264 five mm, n = 108) and a COR medialization group (horizontal COR difference < -five mm, n = 81). Clinical scores, pain, postoperative limping, and radiographic parameters were compared between groups, whereas complications were summarized descriptively. RESULTS: Harris Hip Score (HHS), Oxford Hip Score (OHS), and Visual Analog Scale (VAS) pain scores improved significantly after surgery in both groups. There were no significant differences observed between groups in postoperative HHS, OHS, VAS score, or limping. Radiographic analysis showed no significant differences in vertical COR difference, leg-length difference, or femoral offset difference. There was no statistically significant difference in the proportion of patients who had a global offset difference within \u00b1 five mm. There were three dislocations in the horizontal COR reconstruction group and two in the medialization group, and no nerve injury, aseptic loosening, periprosthetic fracture, or periprosthetic joint infection was observed. CONCLUSION: In patients who have Crowe types I and II DDH, when the acetabular cup remained within the true acetabulum, a certain degree of horizontal COR medialization after THA was not observed to be associated with poorer clinical outcomes. With adequate cup coverage and initial stability, a certain degree of horizontal COR medialization may be a clinically acceptable reconstruction strategy.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42946099/",
+      "score": 77,
+      "score_reasoning": "Large population-based registry study (56,000+ patients) from the Danish Hip Arthroplasty Register with 10-year follow-up directly comparing dual-mobility versus standard cups, providing high-level evidence for a common implant decision.",
+      "bullets": [
+        "In Crowe I and II hip dysplasia, medializing the hip center of rotation beyond 5 mm did not worsen pain, function scores, or limp compared to anatomic reconstruction.",
+        "This applies to dysplastic hips where the cup remains within the true acetabulum with adequate coverage and initial fixation stability.",
+        "Surgeons can accept a degree of horizontal cup medialization in mild to moderate dysplasia without expecting inferior clinical results."
+      ]
+    },
+    {
+      "pmid": "42912388",
+      "title": "Osteoporosis Screening Gaps Among Patients Undergoing Lumbar Fusion Surgery.",
+      "authors": [
+        "Mao E",
+        "Ceballos-Alvarez KE",
+        "Thai S",
+        "Wang J",
+        "Jain A"
+      ],
+      "authors_short": "Mao E, Ceballos-Alvarez KE, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Osteoporosis is associated with elevated complication rates after lumbar fusion surgery. Despite this, osteoporosis remains both underscreened and undertreated in the United States. Currently, rates of dual-energy radiograph absorptiometry (DEXA) screening before lumbar fusion surgery are unknown, as is the proportion of patients who, after being diagnosed with osteoporosis, receive appropriate treatment. Therefore, the aim of this study was to assess osteoporosis screening and treatment rates among patients undergoing lumbar fusion surgery. METHODS: Patients older than 50 years undergoing lumbar fusion for lumbar stenosis with degenerative spondylolisthesis were identified using the TriNetX database. Patients receiving surgery for indications of malignancy or infection, as well as those with diagnoses of osteoporosis before the screening window, were excluded. The prevalence of DEXA scans in the 2 years before fusion was calculated for the overall cohort and for high-risk cohorts defined by Endocrinology Society guidelines. A secondary analysis assessed rates of osteoporosis treatment among patients receiving preoperative DEXA scans. RESULTS: Of 46,104 patients who underwent lumbar fusion surgery, only 4.5% of men and 15.6% of women received a preoperative DEXA scan in the 2 years before their fusion. Women were more likely to receive DEXA scans than men (OR, 3.93; 95% CI, 3.64 to 4.23; P < 0.001). Only 5.6% of high-risk men and 17.5% of high-risk women received preoperative DEXA screening. Among patients diagnosed with osteoporosis after DEXA screening, only 11.0% received anabolic therapy and 23.1% received antiresorptive therapy. CONCLUSION: Despite most patients undergoing lumbar fusion being at risk of osteoporosis (and eligible for screening), a small minority were screened using DEXA in the 2 years before surgery. Efforts are warranted to increase the prevalence of DEXA screening so that osteoporosis is appropriately diagnosed and treated before lumbar fusion surgery.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42912388/",
+      "score": 75,
+      "score_reasoning": "JBJS study with strong design using matched cadaveric pairs and robotic gait simulation demonstrating significantly greater micromotion with low-profile versus stemmed TAR tibial components, providing biomechanical rationale for implant selection.",
+      "bullets": [
+        "Among over 46,000 patients undergoing lumbar fusion, only 4.5% of men and 15.6% of women had a bone density scan in the two years before surgery.",
+        "Even high-risk patients were largely missed, and of those diagnosed with osteoporosis preoperatively, fewer than one in four received any bone-protective treatment.",
+        "Surgeons planning lumbar fusion in patients over 50 should actively order preoperative bone density screening rather than relying on referring providers to have done so."
+      ]
+    },
+    {
+      "pmid": "42949177",
+      "title": "Arthroscopic labral repair versus debridement in non-athletic patients with femoroacetabular impingement: A prospective randomized study.",
+      "authors": [
+        "Salem KA",
+        "Elsaeed AM",
+        "Ganzouri IE",
+        "Abdelrahman AA",
+        "Abdelwahab MM",
+        "Hemida MA"
+      ],
+      "authors_short": "Salem KA, Elsaeed AM, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To compare functional outcomes and pain scores between arthroscopic labral repair and selective labral debridement in a strictly defined non-athletic population with femoroacetabular impingement (FAI). METHODS: Between February 2024 and April 2025, 60 non-athletic patients (mean age 32.1 years) with symptomatic FAI were randomized to labral repair (n\u2009=\u200930) or debridement (n\u2009=\u200930). Non-athletic status was defined as individuals who engaged in non-competitive activity levels <3\u2009h per week. All patients underwent concomitant cam/pincer resection as needed. The primary outcome was patient-reported clinical outcome, assessed using the Harris Hip Score (HHS), Hip Outcome Score-Activities of Daily Living (HOS-ADL) and Visual Analogue Scale (VAS) for pain, assessed preoperatively and postoperatively at 1, 3, 6 and 12 months. RESULTS: The repair group showed statistically superior HHS and HOS-ADL scores at 3 and 6 months postoperatively (p\u2009\u2264\u20090.021). By the 12-month final follow-up, outcomes converged, with no significant differences in HHS (93.2 vs. 90.0, p\u2009=\u20090.058), HOS-ADL (90.0% vs. 86.6%, p\u2009=\u20090.149) or VAS pain (1.6 vs. 2.0, p\u2009=\u20090.375). Complication rates were similar (36.7% vs. 33.3%, p\u2009=\u20090.787), but operative time was longer for repair (119.3 vs. 99.7\u2009min, p\u2009=\u20090.001). CONCLUSION: In non-athletic patients with FAI, labral repair was associated with superior early functional outcomes; however, no statistically significant differences between the two groups were detected at 12 months. Further studies with larger sample sizes and longer follow-up are needed to determine whether meaningful long-term differences exist between the two procedures. LEVEL OF EVIDENCE: Level I, randomized controlled trial.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42949177/",
+      "score": 74,
+      "score_reasoning": "Prospective RCT from KSSTA comparing labral repair versus debridement in non-athletic FAI patients with 60 patients showing superior early but converging 12-month outcomes, directly informing surgical decision-making for a common procedure.",
+      "bullets": [
+        "In non-athletic adults with FAI, labral repair produced better hip function scores than debridement at 3 and 6 months, but outcomes were equal by 12 months.",
+        "This applies to low-activity patients under 35 exercising less than 3 hours per week, not athletes or high-demand individuals.",
+        "For non-athletic FAI patients, debridement may be a reasonable option, avoiding the added operative time of repair without sacrificing one-year outcomes."
+      ]
+    },
+    {
+      "pmid": "42925226",
+      "title": "Does a Prior Unsuccessful DAIR Increase the Risk of Reinfection After a Two-stage Revision for Periprosthetic Joint Infection? Results of a Multicenter Case-control Study.",
+      "authors": [
+        "Barbero Allende JM",
+        "Fern\u00e1ndez E",
+        "G\u00f3mez-Junyent J",
+        "Sorl\u00ed L",
+        "Rodr\u00edguez-Pardo D",
+        "Murillo \u00d3",
+        "Fern\u00e1ndez M",
+        "Escudero-S\u00e1nchez R",
+        "Garc\u00eda M",
+        "Portillo ME",
+        "Sancho I",
+        "Rico A",
+        "Guio L",
+        "Soriano A",
+        "Morata L",
+        "De Abajo FJ"
+      ],
+      "authors_short": "Barbero Allende JM, Fern\u00e1ndez E, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Reinfection of a joint prosthesis after a two-stage revision is a serious complication, the risk of which may be higher when the procedure is performed after an unsuccessful debridement, antibiotics, and implant retention (DAIR) procedure. The available evidence is scarce and somewhat contradictory, so new studies are required. QUESTIONS/PURPOSES: (1) Is two-stage revision performed after a prior unsuccessful DAIR associated with a higher risk of prosthetic joint reinfection compared with patients who had no DAIR but rather proceeded directly to two-stage revision? (2) Does the type of periprosthetic joint infection (PJI) (acute versus chronic) modify this association? METHODS: We analyzed data from a previous retrospective, case-control study aimed at assessing the risk factors of reinfection of a joint prosthesis treated with two-stage revision in 12 Spanish hospitals between 2009 and 2018. We defined PJI according to the latest criteria published in 2018. We defined \"acute PJI\" as those occurring early (< 3 months after surgery) and of hematogenous origin and \"chronic PJI\" as those occurring after 3 months and of nonhematogenous origin. During the period in question, we found 89 cases and selected 171 matched controls. For each case (patients who developed a reinfection of a joint prosthesis within 2 years of reimplantation, based on last internationally accepted consensus criteria), up to two consecutive controls (patients who underwent two-stage revision who did not develop a new infection within 2 years of reimplantation) were included, matched by prosthesis location, center, and year of surgery. There were no differences in age, gender, comorbidities, type of infection, or microbiology between the groups. We analyzed how many patients among cases and controls received a previous DAIR, and we assessed the association of the previous DAIR with reinfection of a joint prosthesis by the OR and its respective 95% confidence interval (CI) obtained through logistic regression, adjusted for potential confounding factors. In addition, we performed a separate analysis depending on whether the PJI was acute or chronic. RESULTS: After adjusting for potentially confounding variables such as age, sex, Charlson comorbidity index, and antibiotic prophylaxis, we found that two-stage revision performed after a prior unsuccessful DAIR was associated with higher odds of prosthetic joint reinfection compared with direct two-stage revision (adjusted OR 3.5 [95% CI 1.4 to 8.8]; p = 0.008). After adjusting for confounders, we found that the odds of reinfection in two-stage revision were higher after unsuccessful DAIR compared with direct two-stage revision in patients with chronic PJI (adjusted OR 4.0 [95% CI 1.4 to 11.3]; p = 0.009) than they were in patients with acute PJI (adjusted OR 2.2 [95% CI 0.7 to 7.2]; p = 0.2), but the interaction test did not show statistical significance. CONCLUSION: Unsuccessful DAIR could be associated with a higher risk of reinfection of a joint prosthesis than in direct two-stage revision. Although no difference was found by the type of infection (acute or chronic), the association might be of greater magnitude in patients with chronic PJI, and future studies should focus on this. Although DAIR is a very attractive therapeutic option for PJI, careful selection of candidate patients is essential to avoid compromising the success of a future two-stage revision. Future prospective studies should confirm these findings and evaluate which poor prognostic factors would weigh against performing a DAIR procedure. LEVEL OF EVIDENCE: Level III, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42925226/",
+      "score": 73,
+      "score_reasoning": "Large retrospective study (255 patients) from CORR with 40-year survivorship data on PAO, providing unique long-term outcome benchmarks essential for counseling young dysplasia patients about hip preservation.",
+      "bullets": [
+        "Patients who failed DAIR and then underwent two-stage revision had 3.5 times higher odds of reinfection compared to those who went directly to two-stage revision.",
+        "This increased reinfection risk applies to all periprosthetic joint infection patients requiring two-stage revision after failed DAIR, with the association appearing strongest in chronic infection cases.",
+        "Surgeons should select DAIR candidates carefully, as a failed attempt may meaningfully compromise the outcome of subsequent two-stage revision."
+      ]
+    },
+    {
+      "pmid": "42931803",
+      "title": "Short-term benefits of hybrid graft in medial patellofemoral ligament reconstruction for recurrent patellar dislocation: A prospective randomized controlled trial with minimum 2-year follow-up.",
+      "authors": [
+        "Zhang X",
+        "Zhai W",
+        "Wang D",
+        "Xu S",
+        "Zhou H",
+        "Guo J",
+        "Xue Z",
+        "Zhang J"
+      ],
+      "authors_short": "Zhang X, Zhai W, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: This study aimed to compare short-term functional and radiological outcomes between autograft and hybrid graft reconstruction in medial patellofemoral ligament (MPFL) reconstruction for recurrent patellar dislocation and explore reasons for differences. METHODS: This prospective randomized controlled trial enroled 51 patients with recurrent patellar dislocation undergoing MPFL reconstruction between January 2020 and January 2023. Major exclusions included severe trochlear dysplasia (Dejour Type B-D), open physis, patella alta, severe lower limb malalignment (knee valgus angle >20\u00b0, femoral anteversion >25\u00b0 or external tibial torsion >30\u00b0) and tibial tubercle-trochlear groove (TT-TG) distance \u226520\u2009mm. Patients were randomly assigned to autograft or hybrid graft groups; the hybrid graft comprised a semitendinosus tendon and 6-mm artificial ligament tape. The primary outcome was the 12-month Kujala score, prespecified for early functional recovery. Secondary outcomes included Kujala and International Knee Documentation Committee (IKDC) scores at other time points and imaging parameters (patellar lateral tilt [PLT] angle and patellar-trochlear groove [PTG] distance) preoperatively, immediately postoperatively and at final follow-up. RESULTS: Forty-six patients were included in the final analysis (autograft, n\u2009=\u200922; hybrid graft, n\u2009=\u200924). Mean age was 19.3 years; 82.6% (38/46) were female. Baseline characteristics and preoperative functional scores were comparable between groups (all p\u2009>\u20090.05). Significant improvements in subjective knee scores were observed in both groups at 3, 6, 12 months and final follow-up (p\u2009<\u20090.05). At 3 months, mean Kujala and IKDC scores were 68.6\u2009\u00b1\u20095.2 and 68.0\u2009\u00b1\u20096.1 in the autograft group versus 82.4\u2009\u00b1\u20094.3 and 82.9\u2009\u00b1\u20093.3 in the hybrid graft group (both p\u2009<\u20090.001). At 6 months, corresponding scores were 83.4\u2009\u00b1\u20093.6 and 83.3\u2009\u00b1\u20093.3 versus 88.4\u2009\u00b1\u20094.6 and 88.0\u2009\u00b1\u20094.9 (both p\u2009<\u20090.05). No significant between-group differences were observed at 12 months or final follow-up (all p\u2009>\u20090.05). No significant between-group differences in PLT angle and PTG distance were observed immediately postoperatively or at final follow-up (all p\u2009>\u20090.05), with significant improvements from preoperative values in both groups (p\u2009<\u20090.05). CONCLUSION: In carefully selected patients with recurrent patellar dislocation, MPFL reconstruction using a hybrid graft achieved satisfactory short-term clinical and radiographic outcomes and was associated with improved early functional recovery at 3 and 6 months. The hybrid graft may be a feasible option for MPFL reconstruction. LEVEL OF EVIDENCE: Level II.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42931803/",
+      "score": 70,
+      "score_reasoning": "Large prospective cohort (482 patients) with registry-level data showing contact ACL injury mechanism independently associated with greater structural injury severity, with implications for surgical planning and patient counseling.",
+      "bullets": [
+        "In young patients with recurrent patellar dislocation and no major anatomic risk factors, hybrid graft MPFL reconstruction produced better functional scores at 3 and 6 months compared to autograft alone.",
+        "By 12 months and at final follow-up, functional outcomes and patellar alignment were equivalent between hybrid and autograft groups, with no dislocations reported in either group.",
+        "For surgeons performing MPFL reconstruction, a hybrid semitendinosus plus ligament tape construct may accelerate early recovery without sacrificing longer-term results."
+      ]
+    },
+    {
+      "pmid": "42954460",
+      "title": "Association of Preoperative Psychiatric Medication Use With Complication Rates After Total Ankle Arthroplasty.",
+      "authors": [
+        "Martino JA",
+        "Pottanat P",
+        "Cave S",
+        "Hashioka H",
+        "Chao M",
+        "Gross CE",
+        "Scott DJ"
+      ],
+      "authors_short": "Martino JA, Pottanat P, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Psychiatric medications are widely used in the United States, yet their effect on outcomes in patients undergoing total ankle arthroplasty (TAA) remains unclear. The purpose of this study was to determine the effect of preoperative psychiatric medication use on postoperative medical and surgical complications after TAA. METHODS: The TriNetX database (2005 to 2023) was queried to retrospectively identify patients who underwent TAA. Patients were stratified into two cohorts: one with preoperative psychiatric medication use within 1 year before operation (C1) and one without preoperative psychiatric medication use (C2). Propensity score matching was conducted using a 1:1 ratio to control for demographics and comorbidities. After matching, the psychiatry medication cohort consisted of 1,164 patients ,of whom 42.8% were female, with a mean age of 58.9 years, body mass index (BMI) of 30.8 kg/m2, and follow-up duration of 828.0 days (range, 730 to 1,095 days). The control cohort consisted of 1,164 patients, of whom 40.9% were female, with a mean age of 59.0 years, BMI of 30.5 kg/m2, and follow-up duration of 790.5 days (range, 730 to 1,095 days). RESULTS: At 6 months, patients in the psychiatric medication cohort had a significantly higher risk of acute respiratory failure compared with control subjects (risk differences [RD] = 0.009; 95% confidence intervals [CI], 0.003 to 0.014; P = 0.002). Conversely, treatment for wound dehiscence was more frequent among control subjects (RD = -0.009; 95% CI, -0.014 to -0.003; P = 0.002). At 2 years, the psychiatric medication cohort demonstrated higher risks of mechanical loosening (RD = 0.086; 95% CI, 0.060 to 0.112; P < 0.001), implant-related pain (RD = 0.021; 95% CI, 0.005 to 0.036; P = 0.008), and periprosthetic fracture (RD = 0.009; 95% CI, 0.003 to 0.014; P = 0.002). CONCLUSION: Preoperative psychiatric medication use is associated with markedly higher rates of long-term implant-related complications after TAA. Additional research is needed to elucidate mechanisms underlying these associations. LEVEL OF EVIDENCE: Level III, Retrospective Cohort Study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42954460/",
+      "score": 68,
+      "score_reasoning": "Large propensity-matched database study (1,164 per group) from JAAOS assessing psychiatric medication effects on TAA complications, providing clinically relevant risk stratification data for a growing procedure.",
+      "bullets": [
+        "Patients on psychiatric medications before total ankle arthroplasty had significantly higher rates of mechanical loosening, implant-related pain, and periprosthetic fracture at two years compared to matched controls.",
+        "This applies to any TAA candidate currently taking psychiatric medications, a common patient population that may carry underappreciated implant-related risk.",
+        "Orthopaedic surgeons should factor preoperative psychiatric medication use into TAA risk counseling and may need closer long-term implant surveillance in this group."
+      ]
+    },
+    {
+      "pmid": "42924504",
+      "title": "Beyond Initial Correction: Recurrence Patterns After Ponseti Treatment in 257 Children.",
+      "authors": [
+        "Rajjoub R",
+        "Murata A",
+        "Slyepkan I",
+        "DeVilbiss A",
+        "Shobode MA",
+        "Wani M",
+        "Tulchin-Francis K",
+        "Tabaie S"
+      ],
+      "authors_short": "Rajjoub R, Murata A, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Recurrence remains a major challenge after Ponseti treatment for idiopathic clubfoot, and the long-term outcomes of treatment for recurrent deformity are incompletely characterized. This study evaluated recurrence, associated factors, and management outcomes, including the association between tibialis anterior tendon transfer (TATT) and repeat recurrence. METHODS: We retrospectively reviewed 257 children treated with the Ponseti method for idiopathic clubfoot from 2007 to 2025, collecting demographic, perinatal, treatment, brace-adherence (full-time and part-time phases), and neighborhood socioeconomic data. Recurrence was defined as the reappearance of any component of the deformity after initial correction that prompted a change in management. Odds ratios (ORs) were estimated by univariable and multivariable logistic regression, and recurrence-free survival by the Kaplan-Meier analysis. RESULTS: At least 1 recurrence occurred in 150 children (58.4%). Children with recurrence more frequently had prenatal or birth complications (OR=2.32; 95% CI: 1.34-4.01), less frequently underwent initial Achilles tenotomy (OR=0.50; 95% CI: 0.28-0.90), and had lower Child Opportunity Index percentiles (P=0.032). Partial or absent adherence during full-time bracing was the strongest factor (adjusted OR=5.23; 95% CI: 2.53-10.84 for partial adherence), and among 171 children who reached part-time bracing, recurrence after the transition occurred in 70.3% with incomplete part-time adherence versus 29.0% with full adherence (OR=5.81; 95% CI: 2.94-11.46). Casting alone corrected 78% of first recurrences but was followed by further recurrence in 65%, compared with 25% after surgery alone. Younger age at first recurrence predicted repeat recurrence (OR=0.68 per year), and repeat recurrence was less frequent after surgery, including TATT (11.1% vs. 50.5%, P<0.0001). CONCLUSIONS: Recurrence after Ponseti treatment was common and was most strongly associated with incomplete brace adherence during both the full-time and part-time phases. Repeat casting frequently restored correction but was often followed by further recurrence, particularly after recurrence before 12 months of age, whereas TATT was associated with more durable correction. Adherence support should extend through the entire bracing period, with timely treatment of persistent muscle imbalance. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42924504/",
+      "score": 66,
+      "score_reasoning": "Retrospective cohort of 255 patients undergoing one-stage PJI exchange demonstrating deep bone sampling yields higher culture positivity than superficial bone, directly changing intraoperative sampling practice.",
+      "bullets": [
+        "Brace non-adherence was the single strongest predictor of clubfoot recurrence, with partial adherence during full-time bracing carrying a fivefold higher recurrence risk than full adherence.",
+        "Repeat casting corrected most first recurrences but led to further recurrence in 65% of cases, compared to 25% after surgery, and recurrence before age 12 months predicted a particularly high repeat recurrence rate.",
+        "Tibialis anterior tendon transfer was associated with durable correction, with repeat recurrence in only 11% of surgical patients versus 51% managed without surgery, supporting earlier operative intervention for persistent muscle imbalance."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-10-30T09:32:51.941592-07:00"
+}
