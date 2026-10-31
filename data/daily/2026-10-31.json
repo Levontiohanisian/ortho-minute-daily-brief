@@ -1,0 +1,311 @@
+{
+  "brief_date": "2026-10-31",
+  "brief_date_display": "Saturday, October 31",
+  "candidates": [
+    {
+      "pmid": "42929654",
+      "title": "Clinical Pathway Management for Platelet-Rich Plasma Therapy in Kellgren-Lawrence Grade I and II Knee Osteoarthritis: A Prospective, Multicenter, Double-Blind Randomized Controlled Trial.",
+      "authors": [
+        "Yang S",
+        "Wang H",
+        "Liu Y",
+        "Fu F",
+        "Xu P",
+        "Li Q",
+        "Li J",
+        "Tian X",
+        "Chen G"
+      ],
+      "authors_short": "Yang S, Wang H, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Clinical outcomes after platelet-rich plasma (PRP) treatment for knee osteoarthritis are inconsistent, and some well-designed trials show no benefit. Whether a standardized multicomponent pathway improves outcomes relative to conventional PRP care is uncertain. PURPOSE: To compare the efficacy, safety, satisfaction, and costs of a standardized PRP pathway versus physician-directed conventional PRP care in Kellgren-Lawrence grade I and II knee osteoarthritis. STUDY DESIGN: Randomized controlled trial; Level of evidence, 1. METHODS: At 3 hospitals, 240 patients were randomized 1:1 to a standardized PRP clinical pathway (PRP-CP; n = 120) or physician-directed conventional PRP care (PRP-C; n = 120). PRP-CP combined standardized selection, quality-controlled leukocyte-poor PRP, ultrasound-guided injections, staged rehabilitation, and systematic follow-up. Primary 12-month outcomes were visual analog scale (VAS) pain, Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) total, and International Knee Documentation Committee (IKDC) scores; secondary outcomes included achievement of the minimal clinically important difference, satisfaction, adverse events, and costs. RESULTS: At 12 months, PRP-CP produced greater changes than PRP-C in VAS (mean difference [MD], -2.98 [95% CI, -3.64 to -2.32]), WOMAC total (MD, -8.63 [95% CI, -11.35 to -5.90]), and IKDC (MD, 10.25 [95% CI, 8.37 to 12.13]) scores (all P < .001). Achievement of the minimal clinically important difference favored PRP-CP at 3, 6, and 12 months for the VAS and at 6 and 12 months for the IKDC and WOMAC (P < .05). Satisfaction was greater with PRP-CP (odds ratio, 1.79 [95% CI, 1.11-2.89]; P = .017). An adverse event occurred in 17 of 115 patients in the PRP-CP group (14.8%) versus 36 of 113 patients in the PRP-C group (31.9%) (Fisher exact test: P = .003). Mean costs were CN\u00a515,199.9 versus CN\u00a514,754.4, respectively; the incremental cost-effectiveness ratio was CN\u00a566.0 per WOMAC point. Effects were generally consistent across centers, and blinding was maintained. CONCLUSION: The standardized multicomponent pathway produced greater 12-month improvements in pain and function than conventional PRP care, with fewer adverse events. Because components were bundled and no placebo group was included, the trial does not establish PRP efficacy or component-specific effects.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42929654/",
+      "score": 82,
+      "score_reasoning": "High-quality RCT from AJSM evaluating a standardized PRP pathway versus conventional PRP care for knee OA with 240 patients and clinically meaningful outcomes at 12 months, directly applicable to sports medicine and arthroplasty-adjacent practice.",
+      "bullets": [
+        "In early knee osteoarthritis (KL grade I and II), patients treated with a standardized PRP pathway, including quality-controlled preparation, ultrasound guidance, and structured rehab, had meaningfully better pain and function scores at 12 months than those receiving routine PRP care.",
+        "The standardized pathway also cut adverse event rates roughly in half (15% vs 32%) with only a marginal cost difference, making it a safer option for appropriate candidates.",
+        "This trial does not prove PRP works better than placebo, but it does show that how PRP is delivered matters, and surgeons offering PRP injections should consider standardizing their process rather than leaving it to individual physician preference."
+      ]
+    },
+    {
+      "pmid": "42946100",
+      "title": "The 10-Year Revision Risk of Dual-Mobility Versus Standard Cups in Primary Total Hip Arthroplasty for Osteoarthritis: A Population-Based Study from the Danish Hip Arthroplasty Register.",
+      "authors": [
+        "Hussein Y",
+        "Iljazi A",
+        "S\u00f8rensen MS",
+        "Eriksson F",
+        "Overgaard S",
+        "Petersen MM"
+      ],
+      "authors_short": "Hussein Y, Iljazi A, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Dislocation is the leading cause of first-time revision following total hip arthroplasty (THA). Dual-mobility (DM) cups have been used to reduce this risk, but data on 10-year revision outcomes with DM compared with standard cups remain limited. We aimed to compare the 10-year risk of all-cause and cause-specific revision between DM cups and standard cups with 32 or 36 mm femoral heads. METHODS: This was a nationwide register-based cohort study using data from the Danish Hip Arthroplasty Register and the Danish National Patient Register. We included patients who underwent primary THA for osteoarthritis (OA) between 2007 and 2019 receiving either a monoblock DM cup or a standard cup with a 32 mm (SC32) or 36 mm (SC36) femoral head. We identified 5,187 patients who have DM, 35,162 with SC36, and 15,702 with SC32. The primary outcome was revision within 10 years for any cause. The secondary outcomes included cause-specific revision within 10 years. We estimated standardized risk differences using direct standardization to the covariate distribution of the combined population. RESULTS: The standardized 10-year risk of all-cause revision was 6.6% (95% confidence interval [CI] 5.7 to 7.4) for DM, 5.9% (95% CI 5.6 to 6.3) for SC36, and 6.9% (95% CI 6.4 to 7.4) for SC32. The standardized risk difference was -0.6 percentage points (95% CI -1.5 to 0.3; P = 0.16) for DM versus SC36 and 0.3 percentage points (95% CI -0.6 to 1.3; P = 0.50) for DM versus SC32. CONCLUSION: The 10-year standardized risk of all-cause revision did not differ between DM and SC36 or SC32. The DM was associated with a lower standardized risk of revision due to dislocation, but a higher standardized risk of revision due to infection compared with both SC32 and SC36.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42946100/",
+      "score": 80,
+      "score_reasoning": "Prospective study from a high-impact journal evaluating intraoperative synovial calprotectin lateral flow assay for PJI diagnosis with strong sensitivity/specificity data directly applicable to revision arthroplasty decision-making.",
+      "bullets": [
+        "In over 56,000 primary total hip arthroplasties for osteoarthritis, dual-mobility cups showed no difference in 10-year all-cause revision risk compared to standard 32mm or 36mm femoral head constructs.",
+        "Dual-mobility cups reduced revision for dislocation but were associated with higher revision rates for infection compared to both standard cup sizes.",
+        "For most osteoarthritis patients undergoing primary total hip arthroplasty, a standard 36mm head provides comparable overall implant survival to dual-mobility, without the added infection risk."
+      ]
+    },
+    {
+      "pmid": "42956976",
+      "title": "Restricted Kinematic Alignment Improves Function, But Does Not Reduce Kinesiophobia After Total Knee Arthroplasty: A 3-Year Follow-Up Study.",
+      "authors": [
+        "Chen Z",
+        "Xiao M",
+        "Luo F",
+        "Luo J",
+        "Chen L",
+        "Xu J"
+      ],
+      "authors_short": "Chen Z, Xiao M, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Whether surgical alignment strategy influences postoperative kinesiophobia after total knee arthroplasty (TKA) remains unclear. This study aimed to compare the effects of restricted kinematic alignment (rKA) and mechanical alignment (MA) on postoperative kinesiophobia and functional recovery over a 3-year follow-up. METHODS: This secondary analysis of a registered prospective randomized controlled trial included 183 patients undergoing TKA. Kinesiophobia was assessed using the Tampa Scale for Kinesiophobia-11 (TSK-11), and functional outcomes were evaluated using the Oxford Knee Score (OKS) and Forgotten Joint Score (FJS) at multiple postoperative time points. Longitudinal outcomes were analyzed using mixed-effects models. Associations between 6-month changes in kinesiophobia and functional outcomes were evaluated using Spearman correlation analyses and Fisher's z-tests. RESULTS: The TSK-11 scores did not differ significantly between groups at any follow-up time point, and the overall group effect was not significant (P = 0.153). Exploratory time-specific comparisons showed higher OKS scores in the rKA group at one year (P = 0.045) and higher FJS scores at six months (P = 0.026). Overall group effects were also significant for OKS (P = 0.004) and FJS (P = 0.007), with higher scores in the rKA group. Changes in TSK-11 were correlated with changes in OKS and FJS in both groups, without significant between-group differences in the correlation coefficients. CONCLUSION: The rKA was associated with modest improvements in longitudinal functional outcomes, but did not reduce postoperative kinesiophobia. Kinesiophobia improvement was associated with functional recovery independent of alignment strategy, supporting targeted psychological and rehabilitation interventions.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42956976/",
+      "score": 78,
+      "score_reasoning": "Secondary analysis of a prospective RCT comparing restricted kinematic vs. mechanical alignment in TKA with 183 patients and 3-year follow-up, providing clinically relevant alignment strategy data from a reputable journal.",
+      "bullets": [
+        "Restricted kinematic alignment produced modestly better knee function scores than mechanical alignment at 6 months and 1 year after TKA, but the difference narrowed by 3 years.",
+        "Neither alignment strategy reduced fear of movement after TKA, meaning kinesiophobia persists regardless of how the implant is positioned.",
+        "Because kinesiophobia improvement tracked with functional recovery in both groups, targeted psychological and rehabilitation interventions should be considered routine after TKA independent of alignment technique."
+      ]
+    },
+    {
+      "pmid": "42961352",
+      "title": "Is Undiagnosed Dysglycemia Common in Orthopaedic Surgery and Is it Associated With 30-day Outcomes? A Large-database Study.",
+      "authors": [
+        "Schaschinger T",
+        "Munzinger R",
+        "Niederegger T",
+        "Brandt J",
+        "Marcela FO",
+        "Knoedler L",
+        "Rendenbach C",
+        "Heiland M",
+        "Matar DY",
+        "Egloff C",
+        "Nolte PC",
+        "Orgill DP",
+        "Panayi AC",
+        "Hundeshagen G"
+      ],
+      "authors_short": "Schaschinger T, Munzinger R, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Given that patients undergoing orthopaedic surgery frequently share risk factors that are associated with metabolic syndrome, the patients orthopaedic surgeons treat may be especially likely to have undiagnosed dysglycemia. Although its broader impact is documented in other specialties, its specific prevalence and association with postoperative outcomes after orthopaedic procedures remains incompletely defined. Quantifying this hidden burden is important to developing individual risk profiles, refining perioperative decision-making, and establishing targeted preoperative medical management strategies for patients considering orthopaedic surgery. QUESTIONS/PURPOSES: In a large-database study, we asked: (1) In adults who underwent orthopaedic surgery, what proportion of patients had previously undiagnosed dysglycemia? (2) Was undiagnosed dysglycemia associated with increased odds of 30-day readmission and reoperation compared with patients with normoglycemia? (3) What was the relationship between preoperative HbA1c levels and the 30-day risk of complications in patients who underwent orthopaedic surgery? METHODS: Among the 2,990,063 procedures recorded in the American College of Surgeons National Surgical Quality Improvement Program database (2021-2023), 25% (735,259 of 2,990,063) were orthopaedic. After excluding 75% (2,254,804 of 2,990,063) of nonorthopaedic procedures and 16% (493,272 of 2,990,063) of orthopaedic procedures without documented preoperative HbA1c, 8% (241,987 of 2,990,063) of all procedures were analyzed. Patients were assigned to one of eight glycemic groups (normoglycemic, undiagnosed prediabetes, undiagnosed diabetes, or diagnosed diabetes with near-normal, very good, good, poor, and very poor glycemic control) based on diabetes diagnosis and HbA1c level. The study cohort included patients undergoing a range of procedures, primarily consisting of total joint arthroplasty, fracture fixation, and spine surgery. The mean \u00b1 SD patient age was 66 \u00b1 12 years and 56% [134,741 of 241,987] of patients were female. To address the first research question, the percentage of patients with previously undiagnosed dysglycemia in each cohort was measured, supplemented by a best-case sensitivity analysis to provide a conservative estimate for the entire surgical population. The second and third research questions investigated the association of undiagnosed dysglycemia on 30-day odds of readmission and reoperation and the relationship between preoperative HbA1c and 30-day odds of complications, using multivariable logistic regression adjusted for demographic, comorbidity, and procedural factors. To illustrate variation across operations, the 30-day complication rate of patients across HbA1c strata was evaluated for the 10 most frequent primary Current Procedural Terminology-coded procedures. RESULTS: We found that 22% (52,609 of 241,987) of patients with a recorded preoperative HbA1c had undiagnosed prediabetes and 4% (10,690 of 241,987) of patients met the criteria for undiagnosed diabetes. In a best-case sensitivity analysis in which we assumed that all patients without an HbA1c measurement did not have diabetes and had normoglycemia, the smallest percentage of patients with previously undiagnosed dysglycemia would have been 9% (63,299) across all 735,259 patients who underwent orthopaedic surgery. After adjusting for potentially confounding variables, neither prediabetes nor diabetes was independently associated with increased odds of 30-day readmission (adjusted OR 0.95 [95% CI 0.88 to 1.0]; p = 0.12 and adjusted OR 0.99 [95% CI 0.84 to 1.2]; p = 0.94) or reoperation (adjusted OR 0.94 [95% CI 0.85 to 1.0]; p = 0.25 and adjusted OR 0.99 [95% CI 0.84 to 1.2]; p = 0.94) compared with patients with normoglycemia. The adjusted ORs for any 30-day complication were higher in patients with undiagnosed diabetes (adjusted OR 1.1 [95% CI 1.0 to 1.2]; p = 0.03) and increased across HbA1c strata in those with diagnosed diabetes (adjusted OR 1.2, 1.1, 1.2, 1.4, and 2.0; all p \u2264 0.009) compared with patients with normoglycemia. Procedure-level analyses showed consistent patterns with variable magnitude: 30-day rates of any complication in THA rose from 5% (1425 of 27,812) to 17% (49 of 294) across HbA1c strata, whereas 30-day complication rates peaked at 30% (203 of 675) in hinged TKA and at 22% (11 of 49) in revision TKA. On the other hand, 30-day complication rates in shoulder procedures and knee arthroscopy remained uniformly low (< 6%) with minimal variation by HbA1c. CONCLUSION: Unrecognized dysglycemia is common among patients undergoing orthopaedic surgery and is associated with postoperative morbidity. Selective preoperative HbA1c assessment and procedure-specific targets may improve perioperative risk stratification. Examining these effects in clinical studies with procedure-specific preoperative HbA1c screening to identify and appropriately treat patients at risk could help to further validate these findings. LEVEL OF EVIDENCE: Level III, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42961352/",
+      "score": 77,
+      "score_reasoning": "Large database study (>240,000 orthopaedic patients) from CORR examining undiagnosed dysglycemia prevalence and its association with 30-day postoperative outcomes, directly actionable for perioperative risk stratification.",
+      "bullets": [
+        "In a review of over 240,000 orthopaedic surgery patients with preoperative HbA1c data, 22% had undiagnosed prediabetes and 4% had undiagnosed diabetes at the time of their procedure.",
+        "Undiagnosed dysglycemia was associated with higher 30-day complication rates, and risk rose steadily with worsening HbA1c in patients with known diabetes, reaching a twofold increase in those with very poor control.",
+        "Complication rates varied markedly by procedure, rising from 5% to 17% across HbA1c strata in THA but remaining below 6% in shoulder and knee arthroscopy cases, supporting a procedure-specific approach to preoperative HbA1c screening."
+      ]
+    },
+    {
+      "pmid": "42962064",
+      "title": "Internal Brace Augmentation for Scapholunate Interosseous Ligament Injuries Is Supported by Limited Evidence and Is Associated With Early Failures: A Systematic Review.",
+      "authors": [
+        "Roh YT",
+        "Lee JY",
+        "Im JH",
+        "Park JW",
+        "Park IJ"
+      ],
+      "authors_short": "Roh YT, Lee JY, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Internal brace augmentation, a recently introduced technique using synthetic suture tape, has emerged as an adjunct to scapholunate ligament repair or reconstruction that provides immediate biomechanical stability and may facilitate earlier rehabilitation. Although early case reports have demonstrated rapid pain relief and functional recovery, recent mid- to long-term studies have raised concerns regarding perianchor osteolysis and late structural failure. To date, no systematic review of which we are aware has evaluated the discrepancy between favorable short-term clinical outcomes and emerging long-term concerns (perianchor osteolysis and structural failure). QUESTIONS/PURPOSES: (1) Does internal brace augmentation improve pain, function, and disability in patients with scapholunate interosseous ligament (SLIL) injury? (2) Does internal brace augmentation achieve durable radiographic correction of carpal alignment? (3) What proportion of patients had perianchor osteolysis and structural failure? METHODS: We performed a systematic review according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 guidelines and registered the protocol in PROSPERO (CRD420261355353). PubMed, Embase, Web of Science Core Collection, the Cochrane Central Register of Controlled Trials, and Google Scholar were searched from inception through April 3, 2026. We included studies reporting clinical or radiographic outcomes of internal brace augmentation for SLIL injury in adults, with at least five patients and a minimum follow-up of 12 months, and excluded cadaver studies, technique descriptions without patient outcomes, review articles, and case reports with fewer than five patients. Methodological quality was assessed using the Methodological Index for Non-Randomized Studies (MINORS). Owing to clinical and methodological heterogeneity, no meta-analysis was performed; results were synthesized narratively. Eleven studies (161 wrists, 160 patients) were included. Of these, two were comparative studies and nine were single-arm series; four studies assessed perianchor osteolysis and seven did not. Follow-up ranged from 12 to 50 months. RESULTS: In the two comparative studies, adding the internal brace did not improve pain, function, or disability compared with reconstruction or fixation without it. Across the single-arm series, pain and function consistently improved (preoperative VAS pain of 6 to 8 improved to 0 to 4; grip strength 62% to 98% of the contralateral side). Radiographically, the scapholunate gap decreased from 4 to 6 mm preoperatively to 2 to 3 mm at most recent follow-up, and the scapholunate angle improved from a preoperative range of 65\u00b0 to 84\u00b0 to a postoperative range of 52\u00b0 to 67\u00b0. However, the longest follow-up study (mean 50 months, n = 18) reported structural failure (loss of reduction or attritional rupture of the construct) in 44% of patients. Among the studies that assessed osteolysis, the proportion of patients with perianchor osteolysis was 47% at 14 months, 36% at 16 months, and 59% at 50 months, whereas a single all-arthroscopic study reported 0% at 16 months. One comparative study reported osteolysis in 36% of the internal brace cohort versus 0% in the reduction and association of the scaphoid and lunate (RASL) control group, suggesting that this complication may be related to the internal brace construct. Most studies had short and often incomplete follow-up, less rigorous (unblinded, nonindependent) outcome assessment, and probable selection bias. These limitations most likely overestimated the apparent benefit and underestimated the harm of the technique. CONCLUSION: Most of the included studies lacked suitable comparator groups, did not assess key endpoints such as patient-reported outcomes and structural failure (including osteolysis), or did not follow patients long enough to detect all relevant harms; the apparent benefits of internal brace augmentation are therefore likely overstated. In the only study with follow-up beyond 4 years, structural failure of the anchor construct occurred in nearly one-half of patients, and osteolysis was already evident, both of which are concerning. Surgeons should counsel patients about the risks of late structural failure and perianchor osteolysis. Prospective studies with regular radiographic surveillance and a minimum follow-up of 5 years are needed before this technique is routinely adopted. LEVEL OF EVIDENCE: Level IV, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42962064/",
+      "score": 75,
+      "score_reasoning": "Systematic review in CORR evaluating internal brace augmentation for SLIL injuries with PRISMA methodology, highlighting discrepancy between short-term benefits and long-term failure rates directly relevant to hand surgeons.",
+      "bullets": [
+        "Internal brace augmentation for scapholunate ligament injuries does not improve pain or function compared to reconstruction without it, based on the only two comparative studies available.",
+        "In the longest follow-up study (mean 50 months), 44% of patients had structural failure of the construct and up to 59% developed perianchor osteolysis.",
+        "Surgeons should counsel patients on the real risks of late hardware failure and bone loss before offering this technique, as current evidence likely overstates benefit and underestimates harm."
+      ]
+    },
+    {
+      "pmid": "42925023",
+      "title": "Association of Changes in Game Pitch Count, Pitching Velocity, and Arm Injuries in Collegiate Pitchers.",
+      "authors": [
+        "Salamh P",
+        "Plisky P",
+        "Beiting J",
+        "Martin C",
+        "Losciale JM",
+        "Shanley E",
+        "Thigpen CA",
+        "Pinkoski AM",
+        "Fernandez G",
+        "Ward P",
+        "Morrison S",
+        "Prats-Uribe A",
+        "Butler R",
+        "West S",
+        "Bullock G"
+      ],
+      "authors_short": "Salamh P, Plisky P, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Baseball pitchers experience a high rate of shoulder and elbow injuries. While there have been several factors associated with arm injuries among pitchers, pitch volume and pitch velocity have garnered a great deal of attention. The associations among pitch counts, pitch velocity, and arm injury have not been well studied. PURPOSE: To assess the association between changes in game pitch count and arm injuries in collegiate baseball pitchers over 1 summer season. The secondary aim was to assess the association between mean in-game fastball pitch velocity and arm injuries in the same baseball pitchers. STUDY DESIGN: Cohort study; Level of evidence, 2. METHODS: Collegiate pitchers were prospectively followed throughout the summer season for game pitch count, pitch velocity, and arm injuries. Bayesian joint models, including time-to-event Cox regressions and multilevel mixed effects regressions, were performed to assess the associations of interest, while competing risks of release and/or retirement were controlled for. Nonlinear relationships were modeled using natural splines. Change in pitch count and pitch velocity was modeled by the change in each pitcher's mean seasonal pitch count or pitch velocity. RESULTS: A total of 187 pitchers were included in this study and followed for a total of 9890 baseball exposure days. A total of 22 pitchers (12%; 95% CI, 7.5%-17.2%) experienced an arm injury, and 4 pitchers (2%; 95% CI, 0.6%-5.4%) were released, voluntarily retired, or reached their innings limit for the season. There was a nonlinear (parabolic shape) positive association of an increased change in pitch count as compared with the pitcher's mean pitch count and arm injuries. Additionally, there was a nonlinear (parabolic shape) positive association between arm injury hazard and a decrease in fastball pitch velocity when compared with the pitcher's mean fastball pitch velocity. CONCLUSION: There was an increased risk for shoulder and elbow injuries with an increase in pitch count as compared with a pitcher's mean pitch count over pitch appearances. Additionally, there was an association between arm injuries and decreased pitch velocity as compared with a pitcher's mean pitch velocity.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42925023/",
+      "score": 73,
+      "score_reasoning": "Multicenter case-control study examining whether prior failed DAIR increases reinfection risk after two-stage revision for PJI across 12 hospitals, addressing a clinically important and unresolved question in arthroplasty.",
+      "bullets": [
+        "In collegiate pitchers, throwing more pitches than their personal seasonal average in a given outing increased the risk of shoulder and elbow injury.",
+        "A drop in fastball velocity below a pitcher's personal seasonal average was also associated with increased arm injury risk, suggesting velocity decline is a warning sign.",
+        "Tracking each pitcher's individual pitch count and velocity baselines, rather than using fixed thresholds, may help clinicians and coaches identify injury risk earlier in the season."
+      ]
+    },
+    {
+      "pmid": "42949177",
+      "title": "Arthroscopic labral repair versus debridement in non-athletic patients with femoroacetabular impingement: A prospective randomized study.",
+      "authors": [
+        "Salem KA",
+        "Elsaeed AM",
+        "Ganzouri IE",
+        "Abdelrahman AA",
+        "Abdelwahab MM",
+        "Hemida MA"
+      ],
+      "authors_short": "Salem KA, Elsaeed AM, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To compare functional outcomes and pain scores between arthroscopic labral repair and selective labral debridement in a strictly defined non-athletic population with femoroacetabular impingement (FAI). METHODS: Between February 2024 and April 2025, 60 non-athletic patients (mean age 32.1 years) with symptomatic FAI were randomized to labral repair (n\u2009=\u200930) or debridement (n\u2009=\u200930). Non-athletic status was defined as individuals who engaged in non-competitive activity levels <3\u2009h per week. All patients underwent concomitant cam/pincer resection as needed. The primary outcome was patient-reported clinical outcome, assessed using the Harris Hip Score (HHS), Hip Outcome Score-Activities of Daily Living (HOS-ADL) and Visual Analogue Scale (VAS) for pain, assessed preoperatively and postoperatively at 1, 3, 6 and 12 months. RESULTS: The repair group showed statistically superior HHS and HOS-ADL scores at 3 and 6 months postoperatively (p\u2009\u2264\u20090.021). By the 12-month final follow-up, outcomes converged, with no significant differences in HHS (93.2 vs. 90.0, p\u2009=\u20090.058), HOS-ADL (90.0% vs. 86.6%, p\u2009=\u20090.149) or VAS pain (1.6 vs. 2.0, p\u2009=\u20090.375). Complication rates were similar (36.7% vs. 33.3%, p\u2009=\u20090.787), but operative time was longer for repair (119.3 vs. 99.7\u2009min, p\u2009=\u20090.001). CONCLUSION: In non-athletic patients with FAI, labral repair was associated with superior early functional outcomes; however, no statistically significant differences between the two groups were detected at 12 months. Further studies with larger sample sizes and longer follow-up are needed to determine whether meaningful long-term differences exist between the two procedures. LEVEL OF EVIDENCE: Level I, randomized controlled trial.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42949177/",
+      "score": 71,
+      "score_reasoning": "Prospective RCT from KSSTA comparing labral repair vs. debridement in non-athletic FAI patients with 12-month follow-up, showing convergence of outcomes that has direct implications for surgical decision-making.",
+      "bullets": [
+        "In non-athletic adults with femoroacetabular impingement, labral repair produced better hip function scores at 3 and 6 months compared to debridement, but outcomes were equal by 12 months.",
+        "This applies to low-activity patients under 35 exercising less than 3 hours per week, not athletes or high-demand individuals.",
+        "For non-athletic patients, debridement may be a reasonable alternative to repair, saving roughly 20 minutes of operative time without sacrificing one-year outcomes."
+      ]
+    },
+    {
+      "pmid": "42956088",
+      "title": "Implant Choice Impacts Initial Tibial Component Micromotion in Total Ankle Replacement: A Biomechanical Analysis.",
+      "authors": [
+        "Henry JK",
+        "Hoffman J",
+        "Villar R",
+        "Lu K",
+        "Kim S",
+        "Steineman BD",
+        "Demetracopoulos C"
+      ],
+      "authors_short": "Henry JK, Hoffman J, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Total ankle replacements (TARs) have a risk of early mechanical failure. Clinical studies have shown that implants with more robust tibial fixation-i.e., stemmed designs-have a lower early mechanical failure risk. We aimed to compare the micromotion between 2 tibial components with different fixation features, using a cadaveric robotic gait simulator. We hypothesized that more robust fixation accommodates loads more effectively, resulting in less micromotion at the bone-implant interface for stemmed tibial implants when compared to low-profile tibial implants. METHODS: Specimens from 10 cadaveric matched pairs (from 6 men and 4 women, age: 48 \u00b1 11 years) were implanted with either a low-profile or stemmed TAR. Post-TAR, gait was simulated using a validated 6-degrees-of-freedom robot. A digital image correlation camera system captured the relative motion between the tibial bone and the implant via surface markers. Implant micromotion was calculated by performing rigid-body transformations on segmented geometries of the tibia and implant derived from computed tomography imaging. Peak and mean micromotion were defined as the maximum and mean nodal displacement, respectively, on the implant surface across all time points in stance. Wilcoxon signed-rank tests compared micromotion of stemmed and low-profile implants between matched pairs. RESULTS: On average, peak and mean micromotion values were greater for low-profile implants by 150 \u00b5m (95% confidence interval [CI]: 98 to 203 \u00b5m) and 30 \u00b5m (95% CI: 9 to 52 \u00b5m), respectively, compared with the matched stemmed implants (p < 0.001 for both). Peak micromotion of low-profile implants typically occurred at the posterior aspect of the implant. In contrast, stemmed implants demonstrated a more evenly distributed pattern with peak micromotion located at the tip of the stem. CONCLUSIONS: This study identified significantly greater time-zero micromotion of low-profile tibial implants compared with stemmed implants. The micromotion distribution suggests that the stemmed implants were further compressed into bone, whereas the low-profile implants demonstrated a rocking motion. Our data support the notion that early mechanical failures of low-profile tibial implants may be due to excessive early micromotion. LEVEL OF EVIDENCE: Therapeutic Level IV. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42956088/",
+      "score": 70,
+      "score_reasoning": "High-quality cadaveric study from JBJS comparing tibial component micromotion between stemmed and low-profile total ankle replacements using robotic gait simulation, providing biomechanical rationale for implant selection.",
+      "bullets": [
+        "Stemmed tibial implants in total ankle replacement show 150 \u00b5m less peak micromotion at the bone-implant interface compared to low-profile designs during simulated gait.",
+        "Low-profile tibial components tend to rock at the posterior edge rather than compress into bone, a pattern consistent with early mechanical failure seen clinically.",
+        "For patients undergoing total ankle replacement, stemmed tibial fixation provides meaningfully better initial implant stability and may reduce early failure risk."
+      ]
+    },
+    {
+      "pmid": "42912388",
+      "title": "Osteoporosis Screening Gaps Among Patients Undergoing Lumbar Fusion Surgery.",
+      "authors": [
+        "Mao E",
+        "Ceballos-Alvarez KE",
+        "Thai S",
+        "Wang J",
+        "Jain A"
+      ],
+      "authors_short": "Mao E, Ceballos-Alvarez KE, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Osteoporosis is associated with elevated complication rates after lumbar fusion surgery. Despite this, osteoporosis remains both underscreened and undertreated in the United States. Currently, rates of dual-energy radiograph absorptiometry (DEXA) screening before lumbar fusion surgery are unknown, as is the proportion of patients who, after being diagnosed with osteoporosis, receive appropriate treatment. Therefore, the aim of this study was to assess osteoporosis screening and treatment rates among patients undergoing lumbar fusion surgery. METHODS: Patients older than 50 years undergoing lumbar fusion for lumbar stenosis with degenerative spondylolisthesis were identified using the TriNetX database. Patients receiving surgery for indications of malignancy or infection, as well as those with diagnoses of osteoporosis before the screening window, were excluded. The prevalence of DEXA scans in the 2 years before fusion was calculated for the overall cohort and for high-risk cohorts defined by Endocrinology Society guidelines. A secondary analysis assessed rates of osteoporosis treatment among patients receiving preoperative DEXA scans. RESULTS: Of 46,104 patients who underwent lumbar fusion surgery, only 4.5% of men and 15.6% of women received a preoperative DEXA scan in the 2 years before their fusion. Women were more likely to receive DEXA scans than men (OR, 3.93; 95% CI, 3.64 to 4.23; P < 0.001). Only 5.6% of high-risk men and 17.5% of high-risk women received preoperative DEXA screening. Among patients diagnosed with osteoporosis after DEXA screening, only 11.0% received anabolic therapy and 23.1% received antiresorptive therapy. CONCLUSION: Despite most patients undergoing lumbar fusion being at risk of osteoporosis (and eligible for screening), a small minority were screened using DEXA in the 2 years before surgery. Efforts are warranted to increase the prevalence of DEXA screening so that osteoporosis is appropriately diagnosed and treated before lumbar fusion surgery.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42912388/",
+      "score": 67,
+      "score_reasoning": "CORR study evaluating osteoporosis screening rates before lumbar fusion in over 46,000 patients, revealing critically low screening rates with immediate implications for preoperative optimization protocols.",
+      "bullets": [
+        "Among over 46,000 patients undergoing lumbar fusion, only 4.5% of men and 15.6% of women received a DEXA scan in the two years before surgery.",
+        "Even among high-risk patients flagged by Endocrinology Society criteria, screening rates remained similarly low, meaning most at-risk patients went to surgery with undetected osteoporosis.",
+        "Of those diagnosed with osteoporosis before fusion, fewer than one in four received any bone-strengthening treatment, leaving a clear opportunity to reduce fixation failure and revision risk."
+      ]
+    },
+    {
+      "pmid": "42931800",
+      "title": "Contact injury mechanism is independently associated with greater Anterior Cruciate Ligament Injury Severity Scale severity in patients undergoing primary anterior cruciate ligament reconstruction.",
+      "authors": [
+        "Malham\u00e9 ZM",
+        "Hardy A",
+        "Bouch\u00e9 PA",
+        "Santoli A",
+        "Miele A",
+        "Seil R",
+        "Pioger C"
+      ],
+      "authors_short": "Malham\u00e9 ZM, Hardy A, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To determine whether injury mechanism and sport category were independently associated with overall structural injury severity after sport-related primary anterior cruciate ligament (ACL) rupture, as quantified by the Anterior Cruciate Ligament Injury Severity Scale (ACLISS). METHODS: This retrospective analysis of prospectively collected data included consecutive patients undergoing primary ACL reconstruction between November 2022 and November 2024. Eligible patients had sustained a complete primary ACL rupture during sport, undergone magnetic resonance imaging within 8 weeks of injury and had complete imaging and arthroscopic documentation. Injury mechanism was classified as contact or non-contact, and sports as pivoting-contact, pivoting-non-contact or non-pivoting. Associations with severity grade were assessed using proportional-odds ordinal logistic regression adjusted for age, sex, body mass index and injury-to-surgery interval. Models evaluated injury mechanism, sport category and both exposures simultaneously. The continuous score was examined in sensitivity analyses. RESULTS: Among 482 patients, 175 (36.3%) sustained contact injuries and 307 (63.7%) sustained non-contact injuries. Contact injuries had higher ACLISS mean scores than non-contact injuries (4.6 vs. 3.8; p\u2009<\u20090.001) and were more frequently classified in higher severity grades. In the fully adjusted model, contact injury remained independently associated with greater severity (odds ratio, 2.68; 95% confidence interval [CI], 1.68-4.27; p\u2009<\u20090.001), whereas sport category was no longer associated with severity. Adding injury mechanism improved model fit, whereas adding sport category to a model already containing injury mechanism did not. Continuous-score analysis confirmed the principal finding (adjusted mean difference, 0.60 points; 95% CI, 0.29-0.91; p\u2009<\u20090.001). CONCLUSION: Among patients undergoing primary ACL reconstruction after a sport-related ACL rupture, contact injury mechanism was independently associated with greater structural injury severity. This association persisted after adjustment for sport category, whereas the association with sport category was attenuated. Injury mechanism should therefore be documented when characterizing injury severity. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42931800/",
+      "score": 65,
+      "score_reasoning": "Prospective RCT from KSSTA comparing hybrid vs. autograft MPFL reconstruction in 46 patients with recurrent patellar dislocation, showing early functional advantages of the hybrid construct relevant to sports surgeons.",
+      "bullets": [
+        "In 482 patients undergoing primary ACL reconstruction, contact injuries produced significantly more severe structural damage than non-contact injuries on a validated imaging and arthroscopic severity scale.",
+        "This applies to any athlete sustaining an ACL rupture during sport, regardless of sport type, age, sex, or BMI.",
+        "Surgeons should routinely document contact versus non-contact mechanism at the time of injury, as contact mechanism independently predicts greater structural severity and should inform surgical planning and counseling."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-10-31T08:37:23.629316-07:00"
+}
