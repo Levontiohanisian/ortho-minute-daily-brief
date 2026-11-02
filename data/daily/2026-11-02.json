@@ -1,0 +1,299 @@
+{
+  "brief_date": "2026-11-02",
+  "brief_date_display": "Monday, November 02",
+  "candidates": [
+    {
+      "pmid": "42969186",
+      "title": "Casting Without Reduction Versus Reduction With or Without Fixation for Mildly Displaced Pediatric Distal Radius Metaphyseal Fractures: A Randomized Noninferiority Trial.",
+      "authors": [
+        "Garc\u00eda-Rueda MF",
+        "Mendoza-Pulido C",
+        "Gil-Laverde JFA"
+      ],
+      "authors_short": "Garc\u00eda-Rueda MF, Mendoza-Pulido C, Gil-Laverde JFA",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "OBJECTIVE: To determine whether immobilization without reduction is noninferior to closed reduction under general anesthesia, with or without fixation, with respect to upper-extremity function at 6 months in children with mildly displaced distal radius metaphyseal fractures. METHODS: We conducted a randomized, open-label, noninferiority trial at a tertiary pediatric orthopaedic hospital. Children aged 5 to 10 years with unilateral mildly displaced distal radius metaphyseal fractures were assigned to immobilization without reduction or closed reduction under general anesthesia, with or without fixation. The primary outcome was the PROMIS Pediatric Upper Extremity T-score at 6 months. The prespecified noninferiority margin was -5 points for the between-group difference. RESULTS: Sixty children were randomized: 29 to immobilization without reduction and 31 to reduction under general anesthesia. Primary outcome data were available for 59 children. The mean PROMIS scores were 45.59 (SD=9.62) in the immobilization-without-reduction group and 45.62 (SD=8.24) in the reduction-under-anesthesia group. The mean between-group difference was -0.03 points (95% CI: -4.71 to 4.65), meeting the prespecified criterion for noninferiority. No serious adverse events occurred in the immobilization-without-reduction group; 2 anesthetic-related complications occurred in the reduction-under-anesthesia group. CONCLUSIONS: In children with mildly displaced distal radius metaphyseal fractures, immobilization without reduction was noninferior to reduction under general anesthesia with respect to upper-extremity function at 6 months. These findings suggest that routine reduction under anesthesia may not be necessary in children aged 5 to 10 years with isolated distal radius metaphyseal fractures with shortening \u226410\u00a0mm and/or angulation of 10 to 20 degrees. LEVEL OF EVIDENCE: Level I-randomized controlled trial.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42969186/",
+      "score": 88,
+      "score_reasoning": "High-impact RCT directly addressing a common clinical decision (casting vs. reduction for pediatric distal radius fractures) with clear noninferiority findings that can immediately change practice, published in a relevant journal with adequate sample size.",
+      "bullets": [
+        "In children aged 5 to 10 with mildly displaced distal radius fractures, casting alone produced the same upper-extremity function at 6 months as closed reduction under general anesthesia.",
+        "This applies to isolated distal radius metaphyseal fractures with shortening up to 10 mm or angulation between 10 and 20 degrees.",
+        "Routine reduction under anaesthesia can be avoided in this age group and fracture pattern, eliminating anaesthetic risk without sacrificing functional outcomes."
+      ]
+    },
+    {
+      "pmid": "42929654",
+      "title": "Clinical Pathway Management for Platelet-Rich Plasma Therapy in Kellgren-Lawrence Grade I and II Knee Osteoarthritis: A Prospective, Multicenter, Double-Blind Randomized Controlled Trial.",
+      "authors": [
+        "Yang S",
+        "Wang H",
+        "Liu Y",
+        "Fu F",
+        "Xu P",
+        "Li Q",
+        "Li J",
+        "Tian X",
+        "Chen G"
+      ],
+      "authors_short": "Yang S, Wang H, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Clinical outcomes after platelet-rich plasma (PRP) treatment for knee osteoarthritis are inconsistent, and some well-designed trials show no benefit. Whether a standardized multicomponent pathway improves outcomes relative to conventional PRP care is uncertain. PURPOSE: To compare the efficacy, safety, satisfaction, and costs of a standardized PRP pathway versus physician-directed conventional PRP care in Kellgren-Lawrence grade I and II knee osteoarthritis. STUDY DESIGN: Randomized controlled trial; Level of evidence, 1. METHODS: At 3 hospitals, 240 patients were randomized 1:1 to a standardized PRP clinical pathway (PRP-CP; n = 120) or physician-directed conventional PRP care (PRP-C; n = 120). PRP-CP combined standardized selection, quality-controlled leukocyte-poor PRP, ultrasound-guided injections, staged rehabilitation, and systematic follow-up. Primary 12-month outcomes were visual analog scale (VAS) pain, Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) total, and International Knee Documentation Committee (IKDC) scores; secondary outcomes included achievement of the minimal clinically important difference, satisfaction, adverse events, and costs. RESULTS: At 12 months, PRP-CP produced greater changes than PRP-C in VAS (mean difference [MD], -2.98 [95% CI, -3.64 to -2.32]), WOMAC total (MD, -8.63 [95% CI, -11.35 to -5.90]), and IKDC (MD, 10.25 [95% CI, 8.37 to 12.13]) scores (all P < .001). Achievement of the minimal clinically important difference favored PRP-CP at 3, 6, and 12 months for the VAS and at 6 and 12 months for the IKDC and WOMAC (P < .05). Satisfaction was greater with PRP-CP (odds ratio, 1.79 [95% CI, 1.11-2.89]; P = .017). An adverse event occurred in 17 of 115 patients in the PRP-CP group (14.8%) versus 36 of 113 patients in the PRP-C group (31.9%) (Fisher exact test: P = .003). Mean costs were CN\u00a515,199.9 versus CN\u00a514,754.4, respectively; the incremental cost-effectiveness ratio was CN\u00a566.0 per WOMAC point. Effects were generally consistent across centers, and blinding was maintained. CONCLUSION: The standardized multicomponent pathway produced greater 12-month improvements in pain and function than conventional PRP care, with fewer adverse events. Because components were bundled and no placebo group was included, the trial does not establish PRP efficacy or component-specific effects.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42929654/",
+      "score": 84,
+      "score_reasoning": "Well-designed RCT from AJSM comparing PRP clinical pathway vs. conventional PRP care in knee OA with 240 patients and robust 12-month primary outcomes showing clinically meaningful differences, directly applicable to sports medicine practice.",
+      "bullets": [
+        "In early knee osteoarthritis (KL grade I-II), a standardized PRP pathway combining quality-controlled injection, ultrasound guidance, and staged rehab produced meaningfully greater pain and function gains at 12 months than routine PRP care.",
+        "Patients treated with the standardized pathway had roughly half the adverse event rate of those receiving conventional PRP care (15% vs 32%).",
+        "This trial does not prove PRP itself works, only that a structured delivery pathway outperforms unstructured care, so surgeons should not cite it as evidence for PRP efficacy alone."
+      ]
+    },
+    {
+      "pmid": "42946100",
+      "title": "The 10-Year Revision Risk of Dual-Mobility Versus Standard Cups in Primary Total Hip Arthroplasty for Osteoarthritis: A Population-Based Study from the Danish Hip Arthroplasty Register.",
+      "authors": [
+        "Hussein Y",
+        "Iljazi A",
+        "S\u00f8rensen MS",
+        "Eriksson F",
+        "Overgaard S",
+        "Petersen MM"
+      ],
+      "authors_short": "Hussein Y, Iljazi A, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Dislocation is the leading cause of first-time revision following total hip arthroplasty (THA). Dual-mobility (DM) cups have been used to reduce this risk, but data on 10-year revision outcomes with DM compared with standard cups remain limited. We aimed to compare the 10-year risk of all-cause and cause-specific revision between DM cups and standard cups with 32 or 36 mm femoral heads. METHODS: This was a nationwide register-based cohort study using data from the Danish Hip Arthroplasty Register and the Danish National Patient Register. We included patients who underwent primary THA for osteoarthritis (OA) between 2007 and 2019 receiving either a monoblock DM cup or a standard cup with a 32 mm (SC32) or 36 mm (SC36) femoral head. We identified 5,187 patients who have DM, 35,162 with SC36, and 15,702 with SC32. The primary outcome was revision within 10 years for any cause. The secondary outcomes included cause-specific revision within 10 years. We estimated standardized risk differences using direct standardization to the covariate distribution of the combined population. RESULTS: The standardized 10-year risk of all-cause revision was 6.6% (95% confidence interval [CI] 5.7 to 7.4) for DM, 5.9% (95% CI 5.6 to 6.3) for SC36, and 6.9% (95% CI 6.4 to 7.4) for SC32. The standardized risk difference was -0.6 percentage points (95% CI -1.5 to 0.3; P = 0.16) for DM versus SC36 and 0.3 percentage points (95% CI -0.6 to 1.3; P = 0.50) for DM versus SC32. CONCLUSION: The 10-year standardized risk of all-cause revision did not differ between DM and SC36 or SC32. The DM was associated with a lower standardized risk of revision due to dislocation, but a higher standardized risk of revision due to infection compared with both SC32 and SC36.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42946100/",
+      "score": 82,
+      "score_reasoning": "Prospective study in JBJS evaluating a novel point-of-care calprotectin lateral flow test for PJI diagnosis with high sensitivity/specificity in 80 patients, offering immediate practical diagnostic utility for revision arthroplasty surgeons.",
+      "bullets": [
+        "In over 56,000 primary total hip arthroplasties for osteoarthritis, dual-mobility cups and standard cups with 32mm or 36mm heads had equivalent 10-year all-cause revision rates near 6 to 7 percent.",
+        "Dual-mobility cups reduced revision for dislocation compared to both standard cup sizes, but carried a higher revision rate for periprosthetic joint infection.",
+        "For surgeons choosing between dual-mobility and large femoral heads to prevent dislocation, the tradeoff is a lower dislocation revision risk offset by a higher infection revision risk with dual-mobility."
+      ]
+    },
+    {
+      "pmid": "42956088",
+      "title": "Implant Choice Impacts Initial Tibial Component Micromotion in Total Ankle Replacement: A Biomechanical Analysis.",
+      "authors": [
+        "Henry JK",
+        "Hoffman J",
+        "Villar R",
+        "Lu K",
+        "Kim S",
+        "Steineman BD",
+        "Demetracopoulos C"
+      ],
+      "authors_short": "Henry JK, Hoffman J, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Total ankle replacements (TARs) have a risk of early mechanical failure. Clinical studies have shown that implants with more robust tibial fixation-i.e., stemmed designs-have a lower early mechanical failure risk. We aimed to compare the micromotion between 2 tibial components with different fixation features, using a cadaveric robotic gait simulator. We hypothesized that more robust fixation accommodates loads more effectively, resulting in less micromotion at the bone-implant interface for stemmed tibial implants when compared to low-profile tibial implants. METHODS: Specimens from 10 cadaveric matched pairs (from 6 men and 4 women, age: 48 \u00b1 11 years) were implanted with either a low-profile or stemmed TAR. Post-TAR, gait was simulated using a validated 6-degrees-of-freedom robot. A digital image correlation camera system captured the relative motion between the tibial bone and the implant via surface markers. Implant micromotion was calculated by performing rigid-body transformations on segmented geometries of the tibia and implant derived from computed tomography imaging. Peak and mean micromotion were defined as the maximum and mean nodal displacement, respectively, on the implant surface across all time points in stance. Wilcoxon signed-rank tests compared micromotion of stemmed and low-profile implants between matched pairs. RESULTS: On average, peak and mean micromotion values were greater for low-profile implants by 150 \u00b5m (95% confidence interval [CI]: 98 to 203 \u00b5m) and 30 \u00b5m (95% CI: 9 to 52 \u00b5m), respectively, compared with the matched stemmed implants (p < 0.001 for both). Peak micromotion of low-profile implants typically occurred at the posterior aspect of the implant. In contrast, stemmed implants demonstrated a more evenly distributed pattern with peak micromotion located at the tip of the stem. CONCLUSIONS: This study identified significantly greater time-zero micromotion of low-profile tibial implants compared with stemmed implants. The micromotion distribution suggests that the stemmed implants were further compressed into bone, whereas the low-profile implants demonstrated a rocking motion. Our data support the notion that early mechanical failures of low-profile tibial implants may be due to excessive early micromotion. LEVEL OF EVIDENCE: Therapeutic Level IV. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42956088/",
+      "score": 81,
+      "score_reasoning": "Secondary analysis of a registered RCT in JBJS comparing stemmed vs. low-profile tibial components in TAR using cadaveric robotic gait simulation, directly informing implant selection with biomechanical evidence for a clinically relevant failure mechanism.",
+      "bullets": [
+        "Stemmed tibial components in total ankle replacement produce significantly less bone-implant micromotion during simulated gait than low-profile designs, with peak motion averaging 150 \u00b5m greater in low-profile implants.",
+        "Low-profile tibial implants show a rocking motion pattern concentrated at the posterior implant edge, while stemmed implants distribute load more evenly and compress into bone.",
+        "For patients undergoing total ankle replacement, stemmed tibial fixation offers a biomechanical advantage that likely explains the lower early mechanical failure rates seen clinically with these designs."
+      ]
+    },
+    {
+      "pmid": "42956976",
+      "title": "Restricted Kinematic Alignment Improves Function, But Does Not Reduce Kinesiophobia After Total Knee Arthroplasty: A 3-Year Follow-Up Study.",
+      "authors": [
+        "Chen Z",
+        "Xiao M",
+        "Luo F",
+        "Luo J",
+        "Chen L",
+        "Xu J"
+      ],
+      "authors_short": "Chen Z, Xiao M, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Whether surgical alignment strategy influences postoperative kinesiophobia after total knee arthroplasty (TKA) remains unclear. This study aimed to compare the effects of restricted kinematic alignment (rKA) and mechanical alignment (MA) on postoperative kinesiophobia and functional recovery over a 3-year follow-up. METHODS: This secondary analysis of a registered prospective randomized controlled trial included 183 patients undergoing TKA. Kinesiophobia was assessed using the Tampa Scale for Kinesiophobia-11 (TSK-11), and functional outcomes were evaluated using the Oxford Knee Score (OKS) and Forgotten Joint Score (FJS) at multiple postoperative time points. Longitudinal outcomes were analyzed using mixed-effects models. Associations between 6-month changes in kinesiophobia and functional outcomes were evaluated using Spearman correlation analyses and Fisher's z-tests. RESULTS: The TSK-11 scores did not differ significantly between groups at any follow-up time point, and the overall group effect was not significant (P = 0.153). Exploratory time-specific comparisons showed higher OKS scores in the rKA group at one year (P = 0.045) and higher FJS scores at six months (P = 0.026). Overall group effects were also significant for OKS (P = 0.004) and FJS (P = 0.007), with higher scores in the rKA group. Changes in TSK-11 were correlated with changes in OKS and FJS in both groups, without significant between-group differences in the correlation coefficients. CONCLUSION: The rKA was associated with modest improvements in longitudinal functional outcomes, but did not reduce postoperative kinesiophobia. Kinesiophobia improvement was associated with functional recovery independent of alignment strategy, supporting targeted psychological and rehabilitation interventions.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42956976/",
+      "score": 79,
+      "score_reasoning": "Large prospective RCT (183 patients) in a high-impact arthroplasty journal comparing restricted kinematic vs. mechanical alignment in TKA with 3-year follow-up, providing durable functional outcome data relevant to alignment strategy decisions.",
+      "bullets": [
+        "Restricted kinematic alignment produced better knee function scores than mechanical alignment at 6 months and 1 year after TKA, but the difference was modest.",
+        "Neither alignment strategy reduced fear of movement after TKA, with kinesiophobia scores equal between groups at all time points out to 3 years.",
+        "Because kinesiophobia improvement tracked with functional recovery regardless of alignment technique, targeted psychological and rehabilitation support is warranted for all TKA patients."
+      ]
+    },
+    {
+      "pmid": "42962064",
+      "title": "Internal Brace Augmentation for Scapholunate Interosseous Ligament Injuries Is Supported by Limited Evidence and Is Associated With Early Failures: A Systematic Review.",
+      "authors": [
+        "Roh YT",
+        "Lee JY",
+        "Im JH",
+        "Park JW",
+        "Park IJ"
+      ],
+      "authors_short": "Roh YT, Lee JY, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Internal brace augmentation, a recently introduced technique using synthetic suture tape, has emerged as an adjunct to scapholunate ligament repair or reconstruction that provides immediate biomechanical stability and may facilitate earlier rehabilitation. Although early case reports have demonstrated rapid pain relief and functional recovery, recent mid- to long-term studies have raised concerns regarding perianchor osteolysis and late structural failure. To date, no systematic review of which we are aware has evaluated the discrepancy between favorable short-term clinical outcomes and emerging long-term concerns (perianchor osteolysis and structural failure). QUESTIONS/PURPOSES: (1) Does internal brace augmentation improve pain, function, and disability in patients with scapholunate interosseous ligament (SLIL) injury? (2) Does internal brace augmentation achieve durable radiographic correction of carpal alignment? (3) What proportion of patients had perianchor osteolysis and structural failure? METHODS: We performed a systematic review according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 guidelines and registered the protocol in PROSPERO (CRD420261355353). PubMed, Embase, Web of Science Core Collection, the Cochrane Central Register of Controlled Trials, and Google Scholar were searched from inception through April 3, 2026. We included studies reporting clinical or radiographic outcomes of internal brace augmentation for SLIL injury in adults, with at least five patients and a minimum follow-up of 12 months, and excluded cadaver studies, technique descriptions without patient outcomes, review articles, and case reports with fewer than five patients. Methodological quality was assessed using the Methodological Index for Non-Randomized Studies (MINORS). Owing to clinical and methodological heterogeneity, no meta-analysis was performed; results were synthesized narratively. Eleven studies (161 wrists, 160 patients) were included. Of these, two were comparative studies and nine were single-arm series; four studies assessed perianchor osteolysis and seven did not. Follow-up ranged from 12 to 50 months. RESULTS: In the two comparative studies, adding the internal brace did not improve pain, function, or disability compared with reconstruction or fixation without it. Across the single-arm series, pain and function consistently improved (preoperative VAS pain of 6 to 8 improved to 0 to 4; grip strength 62% to 98% of the contralateral side). Radiographically, the scapholunate gap decreased from 4 to 6 mm preoperatively to 2 to 3 mm at most recent follow-up, and the scapholunate angle improved from a preoperative range of 65\u00b0 to 84\u00b0 to a postoperative range of 52\u00b0 to 67\u00b0. However, the longest follow-up study (mean 50 months, n = 18) reported structural failure (loss of reduction or attritional rupture of the construct) in 44% of patients. Among the studies that assessed osteolysis, the proportion of patients with perianchor osteolysis was 47% at 14 months, 36% at 16 months, and 59% at 50 months, whereas a single all-arthroscopic study reported 0% at 16 months. One comparative study reported osteolysis in 36% of the internal brace cohort versus 0% in the reduction and association of the scaphoid and lunate (RASL) control group, suggesting that this complication may be related to the internal brace construct. Most studies had short and often incomplete follow-up, less rigorous (unblinded, nonindependent) outcome assessment, and probable selection bias. These limitations most likely overestimated the apparent benefit and underestimated the harm of the technique. CONCLUSION: Most of the included studies lacked suitable comparator groups, did not assess key endpoints such as patient-reported outcomes and structural failure (including osteolysis), or did not follow patients long enough to detect all relevant harms; the apparent benefits of internal brace augmentation are therefore likely overstated. In the only study with follow-up beyond 4 years, structural failure of the anchor construct occurred in nearly one-half of patients, and osteolysis was already evident, both of which are concerning. Surgeons should counsel patients about the risks of late structural failure and perianchor osteolysis. Prospective studies with regular radiographic surveillance and a minimum follow-up of 5 years are needed before this technique is routinely adopted. LEVEL OF EVIDENCE: Level IV, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42962064/",
+      "score": 78,
+      "score_reasoning": "Systematic review in CORR evaluating internal brace augmentation for SLIL injuries with critical findings of perianchor osteolysis and early structural failure, directly challenging a rapidly adopted technique with important safety implications.",
+      "bullets": [
+        "Internal brace augmentation for scapholunate ligament injuries did not improve pain or function over standard repair in comparative studies, and early gains seen in single-arm series are likely overstated due to study limitations.",
+        "In the longest follow-up study at 50 months, 44% of wrists had structural failure of the construct and up to 59% developed perianchor osteolysis, raising serious durability concerns.",
+        "Surgeons treating scapholunate instability should counsel patients about late failure and bone loss around anchors, and avoid routine adoption of this technique until prospective data with at least 5 years of follow-up are available."
+      ]
+    },
+    {
+      "pmid": "42949575",
+      "title": "What Is the 40-year Survivorship of Periacetabular Osteotomy Free From Conversion to THA?",
+      "authors": [
+        "Hirt J",
+        "Roshardt J",
+        "Siebenrock KA",
+        "Ganz R",
+        "Steppacher SD",
+        "Tannast M"
+      ],
+      "authors_short": "Hirt J, Roshardt J, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Periacetabular osteotomy (PAO) is a widely accepted technique for the surgical treatment of symptomatic acetabular dysplasia with reproducibly favorable short- and midterm outcomes. Long-term follow-up studies are essential because PAO is performed in young patients with the aim of preserving the native hip for many decades. However, follow-up of 30 years remains scarce, and no study has reported 40-year outcomes after PAO. QUESTIONS/PURPOSES: (1) What is the cumulative 40-year survivorship free from conversion to THA? (2) How did hip function change and osteoarthritis progress during follow-up of the surviving hips? (3) Which preoperative factors were associated with conversion to THA? (4) What clinically relevant thresholds can be identified for preoperative factors associated with conversion to THA? METHODS: This was a retrospective case series of a consecutive, single-surgeon cohort followed longitudinally and previously reported at 10, 20, and 30 years. Between 1984 and 1987, a total of 75 hips (63 patients) were treated with PAO for acetabular dysplasia at the Department of Orthopaedic Surgery of the Inselspital Bern by the originator of the procedure. Of those, 57% (43 of 75) of hips had reached the endpoint (conversion to THA or arthrodesis) before our previous report on this group (published at a minimum of 27 years). Over the entire follow-up, 5 hips (4 patients) in which the patient died with the hip preserved were treated as competing events. Since the previous report, a further 8 hips were converted and 8 hips (6 patients) were lost to follow-up, leaving 11 hips (7 patients) with complete clinical and radiographic follow-up here, all at a minimum of 36 years. During the study period (1984 to 1987), the only indication for PAO was hip dysplasia with closed triradiate cartilage. The study group here consisted of 83% (52 of 63) women, the median (range) patient age at surgery was 26 years (12 to 55), and the median (range) BMI was 22 kg/m2 (16 to 28). A total of 27 hips had previous surgery to attempt sufficient coverage. Clinical and radiographic follow-up was performed at 10-year intervals, at 10, 20, 30, and 40 years after PAO. Survivorship free from conversion to THA was estimated using a competing-risks analysis with death without conversion treated as a competing event. Twelve patients underwent bilateral PAO and contributed two hips each. Because two hips from the same patient are not independent observations, all confidence intervals (CIs) and p values were calculated using a robust variance estimator with the patient as the clustering unit. Clinical scores, hip ROM, and osteoarthritis grade were described at each follow-up. Preoperative factors associated with conversion to THA were analyzed using Cox proportional hazards regression with a robust variance estimator clustered on patient. Thresholds for predictive factors were identified using maximally selected rank statistics. This approach tests every observed value of a factor as a potential dividing line and selects the value producing the greatest difference in survivorship between the two resulting groups. RESULTS: At 40 years, the survivorship free from conversion to THA was 27% (95% CI 12% to 39%). Merle d'Aubign\u00e9-Postel and Harris hip scores improved during the first decade after surgery and remained above the preoperative level at each follow-up visit. Two preoperative factors were independently associated with a higher risk of conversion to THA: a higher T\u00f6nnis osteoarthritis grade (HR 2.3 per 1-grade increase [95% CI 1.4 to 3.9]; p < 0.01) and a positive anterior impingement test result (HR 3.9 versus a negative test result [95% CI 1.9 to 7.7]; p < 0.01). Threshold analysis, which identifies the value of a preoperative factor that best separates hips likely to be preserved from those likely to be converted, identified 28 years for age at surgery. Younger age was therefore associated with a higher likelihood of retaining the native hip. CONCLUSION: PAO provides durable joint preservation in acetabular dysplasia and can delay THA for decades, with 27% of hips remaining free from conversion at 40 years. Preoperative osteoarthritis and a positive anterior impingement test result were associated with conversion to THA. Older age was also associated with conversion, with a threshold of 28 years, although age was related to the degree of joint degeneration at presentation. Patient selection should therefore be based primarily on the preoperative condition of the joint, with younger age at surgery as an additional consideration. LEVEL OF EVIDENCE: Level III, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42949575/",
+      "score": 77,
+      "score_reasoning": "Large registry-based cohort study from CORR comparing 10-year revision risk of dual-mobility vs. standard cups in over 56,000 primary THAs, providing high-quality population-level evidence for implant selection.",
+      "bullets": [
+        "At 40 years, only 27% of hips treated with periacetabular osteotomy for acetabular dysplasia remained free from conversion to THA, though function stayed above preoperative levels throughout follow-up.",
+        "Preoperative osteoarthritis grade and a positive anterior impingement test were the strongest predictors of eventual THA conversion in these patients.",
+        "Patient selection should prioritize joint condition over age, though patients under 28 at the time of surgery had better odds of retaining their native hip long term."
+      ]
+    },
+    {
+      "pmid": "42924504",
+      "title": "Beyond Initial Correction: Recurrence Patterns After Ponseti Treatment in 257 Children.",
+      "authors": [
+        "Rajjoub R",
+        "Murata A",
+        "Slyepkan I",
+        "DeVilbiss A",
+        "Shobode MA",
+        "Wani M",
+        "Tulchin-Francis K",
+        "Tabaie S"
+      ],
+      "authors_short": "Rajjoub R, Murata A, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Recurrence remains a major challenge after Ponseti treatment for idiopathic clubfoot, and the long-term outcomes of treatment for recurrent deformity are incompletely characterized. This study evaluated recurrence, associated factors, and management outcomes, including the association between tibialis anterior tendon transfer (TATT) and repeat recurrence. METHODS: We retrospectively reviewed 257 children treated with the Ponseti method for idiopathic clubfoot from 2007 to 2025, collecting demographic, perinatal, treatment, brace-adherence (full-time and part-time phases), and neighborhood socioeconomic data. Recurrence was defined as the reappearance of any component of the deformity after initial correction that prompted a change in management. Odds ratios (ORs) were estimated by univariable and multivariable logistic regression, and recurrence-free survival by the Kaplan-Meier analysis. RESULTS: At least 1 recurrence occurred in 150 children (58.4%). Children with recurrence more frequently had prenatal or birth complications (OR=2.32; 95% CI: 1.34-4.01), less frequently underwent initial Achilles tenotomy (OR=0.50; 95% CI: 0.28-0.90), and had lower Child Opportunity Index percentiles (P=0.032). Partial or absent adherence during full-time bracing was the strongest factor (adjusted OR=5.23; 95% CI: 2.53-10.84 for partial adherence), and among 171 children who reached part-time bracing, recurrence after the transition occurred in 70.3% with incomplete part-time adherence versus 29.0% with full adherence (OR=5.81; 95% CI: 2.94-11.46). Casting alone corrected 78% of first recurrences but was followed by further recurrence in 65%, compared with 25% after surgery alone. Younger age at first recurrence predicted repeat recurrence (OR=0.68 per year), and repeat recurrence was less frequent after surgery, including TATT (11.1% vs. 50.5%, P<0.0001). CONCLUSIONS: Recurrence after Ponseti treatment was common and was most strongly associated with incomplete brace adherence during both the full-time and part-time phases. Repeat casting frequently restored correction but was often followed by further recurrence, particularly after recurrence before 12 months of age, whereas TATT was associated with more durable correction. Adherence support should extend through the entire bracing period, with timely treatment of persistent muscle imbalance. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42924504/",
+      "score": 71,
+      "score_reasoning": "Prospective cohort in Journal of Arthroplasty evaluating intraoperative synovial calprotectin POC lateral flow test for PJI with high diagnostic accuracy, offering immediate point-of-care diagnostic potential for revision surgery.",
+      "bullets": [
+        "Brace non-adherence was the strongest driver of clubfoot recurrence, with partial adherence during full-time bracing increasing recurrence odds more than fivefold.",
+        "Repeat casting corrected most first recurrences but led to further recurrence in 65% of cases, compared to 25% after surgery.",
+        "Tibialis anterior tendon transfer was associated with more durable correction, with repeat recurrence in only 11% versus 51% without surgery, making it a strong option for persistent muscle imbalance."
+      ]
+    },
+    {
+      "pmid": "42931803",
+      "title": "Short-term benefits of hybrid graft in medial patellofemoral ligament reconstruction for recurrent patellar dislocation: A prospective randomized controlled trial with minimum 2-year follow-up.",
+      "authors": [
+        "Zhang X",
+        "Zhai W",
+        "Wang D",
+        "Xu S",
+        "Zhou H",
+        "Guo J",
+        "Xue Z",
+        "Zhang J"
+      ],
+      "authors_short": "Zhang X, Zhai W, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: This study aimed to compare short-term functional and radiological outcomes between autograft and hybrid graft reconstruction in medial patellofemoral ligament (MPFL) reconstruction for recurrent patellar dislocation and explore reasons for differences. METHODS: This prospective randomized controlled trial enroled 51 patients with recurrent patellar dislocation undergoing MPFL reconstruction between January 2020 and January 2023. Major exclusions included severe trochlear dysplasia (Dejour Type B-D), open physis, patella alta, severe lower limb malalignment (knee valgus angle >20\u00b0, femoral anteversion >25\u00b0 or external tibial torsion >30\u00b0) and tibial tubercle-trochlear groove (TT-TG) distance \u226520\u2009mm. Patients were randomly assigned to autograft or hybrid graft groups; the hybrid graft comprised a semitendinosus tendon and 6-mm artificial ligament tape. The primary outcome was the 12-month Kujala score, prespecified for early functional recovery. Secondary outcomes included Kujala and International Knee Documentation Committee (IKDC) scores at other time points and imaging parameters (patellar lateral tilt [PLT] angle and patellar-trochlear groove [PTG] distance) preoperatively, immediately postoperatively and at final follow-up. RESULTS: Forty-six patients were included in the final analysis (autograft, n\u2009=\u200922; hybrid graft, n\u2009=\u200924). Mean age was 19.3 years; 82.6% (38/46) were female. Baseline characteristics and preoperative functional scores were comparable between groups (all p\u2009>\u20090.05). Significant improvements in subjective knee scores were observed in both groups at 3, 6, 12 months and final follow-up (p\u2009<\u20090.05). At 3 months, mean Kujala and IKDC scores were 68.6\u2009\u00b1\u20095.2 and 68.0\u2009\u00b1\u20096.1 in the autograft group versus 82.4\u2009\u00b1\u20094.3 and 82.9\u2009\u00b1\u20093.3 in the hybrid graft group (both p\u2009<\u20090.001). At 6 months, corresponding scores were 83.4\u2009\u00b1\u20093.6 and 83.3\u2009\u00b1\u20093.3 versus 88.4\u2009\u00b1\u20094.6 and 88.0\u2009\u00b1\u20094.9 (both p\u2009<\u20090.05). No significant between-group differences were observed at 12 months or final follow-up (all p\u2009>\u20090.05). No significant between-group differences in PLT angle and PTG distance were observed immediately postoperatively or at final follow-up (all p\u2009>\u20090.05), with significant improvements from preoperative values in both groups (p\u2009<\u20090.05). CONCLUSION: In carefully selected patients with recurrent patellar dislocation, MPFL reconstruction using a hybrid graft achieved satisfactory short-term clinical and radiographic outcomes and was associated with improved early functional recovery at 3 and 6 months. The hybrid graft may be a feasible option for MPFL reconstruction. LEVEL OF EVIDENCE: Level II.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42931803/",
+      "score": 69,
+      "score_reasoning": "KSSTA systematic review and meta-analysis comparing double-level osteotomy vs. HTO for varus knee malalignment across 805 knees, providing pooled data on radiographic and clinical outcomes for a technically demanding procedure.",
+      "bullets": [
+        "In young patients with recurrent patellar dislocation and no major anatomic risk factors, hybrid graft MPFL reconstruction produced better knee function scores at 3 and 6 months compared to autograft alone.",
+        "By 12 months and at final follow-up, functional outcomes and patellar alignment were equal between hybrid and autograft groups, so the hybrid advantage is limited to the early recovery period.",
+        "For patients who need faster return to activity after MPFL reconstruction, a hybrid semitendinosus plus synthetic tape graft is a viable alternative to standard autograft."
+      ]
+    },
+    {
+      "pmid": "42931031",
+      "title": "A Translational Approach for Treatment of Posterior Cruciate Ligament Injuries: From Foundational Anatomic and Biomechanical Studies to Validated Surgical Outcomes.",
+      "authors": [
+        "LaPrade RF",
+        "Tollefson LV",
+        "Engebretsen L",
+        "Kennedy NI",
+        "Chahla J",
+        "LaPrade CM",
+        "Moatshe G",
+        "DePhillipo NN",
+        "Monson JK",
+        "Bernhardson AS"
+      ],
+      "authors_short": "LaPrade RF, Tollefson LV, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "Posterior cruciate ligament (PCL) injuries were historically managed nonsurgically or with primary repairs, owing to limited anatomic knowledge, subjective diagnostic techniques, and nonvalidated reconstructions that frequently failed. We describe a two-decade, bench-to-bedside PCL research pyramid that progressively addressed these deficiencies. Foundational cadaveric work characterized the quantitative anatomy of the PCL, including the anterolateral and posteromedial bundles, yielding reproducible femoral and tibial osseous landmarks for tunnel placement. Robotic biomechanical testing established the codominant contribution of both bundles, optimal graft fixation angles, and the destabilizing influence of posterolateral corner injuries and flat tibial slope. Objective diagnostic methods, such as kneeling PCL stress radiography and posterior tibial translation on MRI, were validated to quantify laxity and detect chronic tears. These insights informed an anatomically grounded double-bundle reconstruction, complemented by multiligament tunnel convergence-avoidance strategies, evidence-based tensioning sequences, and a refined rehabilitation and bracing treatment protocol. Prospective outcome studies confirmed restoration of stability comparable to anterior cruciate ligament reconstructions, demonstrating how integrated translational research transformed treatment of this challenging injury.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42931031/",
+      "score": 68,
+      "score_reasoning": "Five-year outcomes study in AJSM evaluating arthroscopic Bankart repair in young patients with minimal bone loss, identifying predictors of failure in a high-risk population with clinically relevant return-to-sport data.",
+      "bullets": [
+        "Anatomic double-bundle PCL reconstruction, guided by cadaveric landmark data and robotic biomechanical testing, restores posterior knee stability at rates comparable to ACL reconstruction.",
+        "Kneeling stress radiography and posterior tibial translation on MRI reliably quantify PCL laxity and should be used to objectively diagnose and grade these injuries before surgery.",
+        "Surgeons treating PCL tears must address concomitant posterolateral corner injuries and account for tibial slope, as both significantly worsen instability if left uncorrected."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-11-02T12:59:18.114988-07:00"
+}
