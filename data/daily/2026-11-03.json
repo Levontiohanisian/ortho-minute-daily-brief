@@ -1,0 +1,301 @@
+{
+  "brief_date": "2026-11-03",
+  "brief_date_display": "Tuesday, November 03",
+  "candidates": [
+    {
+      "pmid": "42971441",
+      "title": "Survivorship of Fixed-Bearing Lateral Unicompartmental Knee Arthroplasty: Minimum 10-Year Follow-up of a Single-Center Cohort.",
+      "authors": [
+        "Jager T",
+        "Winnock de Grave P",
+        "Ryckaert A",
+        "Tampere T",
+        "Luyckx T"
+      ],
+      "authors_short": "Jager T, Winnock de Grave P, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Lateral unicompartmental knee arthroplasty (UKA) accounts for only 5 to 10% of all UKA procedures, and outcome data beyond 10 years remain limited. The purpose of this study was to evaluate the survivorship of fixed-bearing lateral UKA in a consecutive cohort of patients who had a minimum follow-up of 10 years. METHODS: This retrospective single-center cohort study included 78 patients (85 knees) who underwent fixed-bearing lateral UKA from 2006 to 2015. Kaplan-Meier survival analysis was performed with revision for any reason as the endpoint. Survivorship was assessed at five, 10, and 15 years. Patients who died during follow-up without revision were censored at the time of death. RESULTS: Kaplan-Meier revision-free survivorship was 91.7% at five years and 90.6% at both 10 and 15 years. There were eight revisions (9.4%). The most common cause of failure was progression of osteoarthritis in other compartments (62.5%), followed by aseptic loosening (25.0%) and periprosthetic fracture (12.5%). Most failures occurred within the first five postoperative years. CONCLUSION: Fixed-bearing lateral UKA demonstrated excellent long-term survivorship, with revision-free survival of 90.6% at 10 and 15 years. Failures occurred predominantly during the early postoperative period and were most often related to progression of osteoarthritis in other compartments. When appropriate indications are respected, lateral UKA represents a durable and reliable alternative to total knee arthroplasty for patients who have isolated lateral compartment osteoarthritis.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42971441/",
+      "score": 82,
+      "score_reasoning": "High-quality double-blind RCT directly addressing a common clinical question about extended oral TXA in TKA with clear null findings that immediately impact practice.",
+      "bullets": [
+        "Fixed-bearing lateral UKA showed 90.6% revision-free survival at both 10 and 15 years in a cohort of 85 knees.",
+        "Most failures occurred within the first five years, with disease progression in other compartments being the leading cause of revision.",
+        "For patients with isolated lateral compartment arthritis and appropriate indications, lateral UKA offers durable long-term results comparable to total knee arthroplasty."
+      ]
+    },
+    {
+      "pmid": "42929654",
+      "title": "Clinical Pathway Management for Platelet-Rich Plasma Therapy in Kellgren-Lawrence Grade I and II Knee Osteoarthritis: A Prospective, Multicenter, Double-Blind Randomized Controlled Trial.",
+      "authors": [
+        "Yang S",
+        "Wang H",
+        "Liu Y",
+        "Fu F",
+        "Xu P",
+        "Li Q",
+        "Li J",
+        "Tian X",
+        "Chen G"
+      ],
+      "authors_short": "Yang S, Wang H, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Clinical outcomes after platelet-rich plasma (PRP) treatment for knee osteoarthritis are inconsistent, and some well-designed trials show no benefit. Whether a standardized multicomponent pathway improves outcomes relative to conventional PRP care is uncertain. PURPOSE: To compare the efficacy, safety, satisfaction, and costs of a standardized PRP pathway versus physician-directed conventional PRP care in Kellgren-Lawrence grade I and II knee osteoarthritis. STUDY DESIGN: Randomized controlled trial; Level of evidence, 1. METHODS: At 3 hospitals, 240 patients were randomized 1:1 to a standardized PRP clinical pathway (PRP-CP; n = 120) or physician-directed conventional PRP care (PRP-C; n = 120). PRP-CP combined standardized selection, quality-controlled leukocyte-poor PRP, ultrasound-guided injections, staged rehabilitation, and systematic follow-up. Primary 12-month outcomes were visual analog scale (VAS) pain, Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) total, and International Knee Documentation Committee (IKDC) scores; secondary outcomes included achievement of the minimal clinically important difference, satisfaction, adverse events, and costs. RESULTS: At 12 months, PRP-CP produced greater changes than PRP-C in VAS (mean difference [MD], -2.98 [95% CI, -3.64 to -2.32]), WOMAC total (MD, -8.63 [95% CI, -11.35 to -5.90]), and IKDC (MD, 10.25 [95% CI, 8.37 to 12.13]) scores (all P < .001). Achievement of the minimal clinically important difference favored PRP-CP at 3, 6, and 12 months for the VAS and at 6 and 12 months for the IKDC and WOMAC (P < .05). Satisfaction was greater with PRP-CP (odds ratio, 1.79 [95% CI, 1.11-2.89]; P = .017). An adverse event occurred in 17 of 115 patients in the PRP-CP group (14.8%) versus 36 of 113 patients in the PRP-C group (31.9%) (Fisher exact test: P = .003). Mean costs were CN\u00a515,199.9 versus CN\u00a514,754.4, respectively; the incremental cost-effectiveness ratio was CN\u00a566.0 per WOMAC point. Effects were generally consistent across centers, and blinding was maintained. CONCLUSION: The standardized multicomponent pathway produced greater 12-month improvements in pain and function than conventional PRP care, with fewer adverse events. Because components were bundled and no placebo group was included, the trial does not establish PRP efficacy or component-specific effects.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42929654/",
+      "score": 78,
+      "score_reasoning": "High-impact RCT in AJSM comparing PRP clinical pathway versus conventional care for knee OA with 240 patients showing clinically meaningful differences, directly actionable for surgeons offering biologic injections.",
+      "bullets": [
+        "In early knee OA (KL grade I and II), patients receiving PRP through a standardized pathway combining patient selection, leukocyte-poor PRP, ultrasound guidance, and structured rehab had meaningfully better pain and function scores at 12 months than those receiving standard physician-directed PRP care.",
+        "The structured pathway group had roughly half the adverse event rate compared to conventional PRP care (15% vs 32%), with higher patient satisfaction and only marginally higher cost.",
+        "This trial does not prove PRP works, as there was no placebo group, but it does suggest that how PRP is delivered matters as much as the injection itself for patients with mild to moderate knee OA."
+      ]
+    },
+    {
+      "pmid": "42946101",
+      "title": "Prospective Evaluation of an Intraoperative Synovial Calprotectin Point-of-Care Lateral Flow Test for Periprosthetic Joint Infection in Hip and Knee Revisions.",
+      "authors": [
+        "Giatroudakis K",
+        "Iliopoulos E",
+        "Kateros K",
+        "Giannikas K",
+        "Patsiogiannis N",
+        "Oikonomou L",
+        "Ververidis A"
+      ],
+      "authors_short": "Giatroudakis K, Iliopoulos E, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Synovial calprotectin measured by lateral flow assay (LFT) has emerged as a promising point-of-care (POC) biomarker for periprosthetic joint infection (PJI). However, existing studies are limited by retrospective designs, frozen sample use, off-label stool test application, and small sample sizes. This prospective study evaluated the diagnostic accuracy of an intraoperative synovial calprotectin POC-LFT in hip and knee revision arthroplasty. METHODS: A consecutive cohort of 80 patients undergoing revision total hip or knee arthroplasty (THA, TKA) was prospectively enrolled between March 2022 and February 2026. The 2018 International Consensus Meeting (ICM) criteria served as the reference standard. Among 55 THA revisions, 24 patients had PJI and 31 had aseptic failure. Among 25 TKA revisions, eight had PJI and 17 aseptic failure. Synovial fluid was aspirated intraoperatively and tested fresh using a dedicated calprotectin LFT. Using a threshold of \u2265 50 mg/L, sensitivity, specificity, predictive values, and area under the receiver operating characteristic curve (AUC) were calculated. RESULTS: Median calprotectin was 138 mg/L in infected versus seven mg/L in aseptic THA patients. Sensitivity was 91.7% (95% confidence interval (CI), 73.0 to 99.0), specificity 90.3% (95% CI, 74.2 to 98.0), and AUC 0.894 (95% CI, 0.81 to 0.98). Median calprotectin was 106.5 mg/L in infected versus seven mg/L in aseptic TKA patients. Sensitivity was 87.5% (95% CI, 47.3 to 99.7), specificity 100% (95% CI, 80.5 to 100), and AUC 0.930 (95% CI, 0.84 to 1.00). There were three false-positive cases (metallosis, recent dislocation, and unexplained inflammation), while three false-negatives were associated with fungal pathogen and culture-negative PJI with sinus tract. CONCLUSION: The intraoperative synovial calprotectin POC-LFT demonstrated high diagnostic performance in both THA and TKA revisions using a threshold of 50 mg/L. Its rapid turnaround time and high negative predictive value make it a reliable adjunct for real-time surgical decision-making within a comprehensive diagnostic framework.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42946101/",
+      "score": 77,
+      "score_reasoning": "Large prospective RCT from AJSM examining longitudinal serum biomarker profiles after ACLR with matched controls, providing novel mechanistic insights into post-ACLR joint degeneration with strong study design.",
+      "bullets": [
+        "A bedside lateral flow test measuring synovial calprotectin at a 50 mg/L cutoff detected periprosthetic joint infection with roughly 90% sensitivity and 90% specificity in hip and knee revision patients.",
+        "False positives occurred with metallosis and recent dislocation, and false negatives occurred with fungal and culture-negative infection, so the test works best as part of a broader diagnostic workup.",
+        "For surgeons doing hip or knee revisions, this intraoperative point-of-care test gives a rapid infection read that can support real-time decisions without waiting for lab results."
+      ]
+    },
+    {
+      "pmid": "42969186",
+      "title": "Casting Without Reduction Versus Reduction With or Without Fixation for Mildly Displaced Pediatric Distal Radius Metaphyseal Fractures: A Randomized Noninferiority Trial.",
+      "authors": [
+        "Garc\u00eda-Rueda MF",
+        "Mendoza-Pulido C",
+        "Gil-Laverde JFA"
+      ],
+      "authors_short": "Garc\u00eda-Rueda MF, Mendoza-Pulido C, Gil-Laverde JFA",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "OBJECTIVE: To determine whether immobilization without reduction is noninferior to closed reduction under general anesthesia, with or without fixation, with respect to upper-extremity function at 6 months in children with mildly displaced distal radius metaphyseal fractures. METHODS: We conducted a randomized, open-label, noninferiority trial at a tertiary pediatric orthopaedic hospital. Children aged 5 to 10 years with unilateral mildly displaced distal radius metaphyseal fractures were assigned to immobilization without reduction or closed reduction under general anesthesia, with or without fixation. The primary outcome was the PROMIS Pediatric Upper Extremity T-score at 6 months. The prespecified noninferiority margin was -5 points for the between-group difference. RESULTS: Sixty children were randomized: 29 to immobilization without reduction and 31 to reduction under general anesthesia. Primary outcome data were available for 59 children. The mean PROMIS scores were 45.59 (SD=9.62) in the immobilization-without-reduction group and 45.62 (SD=8.24) in the reduction-under-anesthesia group. The mean between-group difference was -0.03 points (95% CI: -4.71 to 4.65), meeting the prespecified criterion for noninferiority. No serious adverse events occurred in the immobilization-without-reduction group; 2 anesthetic-related complications occurred in the reduction-under-anesthesia group. CONCLUSIONS: In children with mildly displaced distal radius metaphyseal fractures, immobilization without reduction was noninferior to reduction under general anesthesia with respect to upper-extremity function at 6 months. These findings suggest that routine reduction under anesthesia may not be necessary in children aged 5 to 10 years with isolated distal radius metaphyseal fractures with shortening \u226410\u00a0mm and/or angulation of 10 to 20 degrees. LEVEL OF EVIDENCE: Level I-randomized controlled trial.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42969186/",
+      "score": 76,
+      "score_reasoning": "Well-designed RCT on pediatric distal radius fractures showing noninferiority of casting without reduction versus anesthesia-based reduction, with direct and immediately practice-changing implications for a very common injury.",
+      "bullets": [
+        "In children aged 5 to 10 with mildly displaced distal radius metaphyseal fractures, casting alone produced the same upper-extremity function at 6 months as reduction under general anesthesia.",
+        "This applies to isolated fractures with shortening up to 10 mm or angulation between 10 and 20 degrees, and two anesthetic complications occurred in the reduction group versus none in the casting group.",
+        "Routine reduction under anaesthesia can be avoided in this fracture pattern, sparing children anaesthetic risk without sacrificing functional outcome."
+      ]
+    },
+    {
+      "pmid": "42949575",
+      "title": "What Is the 40-year Survivorship of Periacetabular Osteotomy Free From Conversion to THA?",
+      "authors": [
+        "Hirt J",
+        "Roshardt J",
+        "Siebenrock KA",
+        "Ganz R",
+        "Steppacher SD",
+        "Tannast M"
+      ],
+      "authors_short": "Hirt J, Roshardt J, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Periacetabular osteotomy (PAO) is a widely accepted technique for the surgical treatment of symptomatic acetabular dysplasia with reproducibly favorable short- and midterm outcomes. Long-term follow-up studies are essential because PAO is performed in young patients with the aim of preserving the native hip for many decades. However, follow-up of 30 years remains scarce, and no study has reported 40-year outcomes after PAO. QUESTIONS/PURPOSES: (1) What is the cumulative 40-year survivorship free from conversion to THA? (2) How did hip function change and osteoarthritis progress during follow-up of the surviving hips? (3) Which preoperative factors were associated with conversion to THA? (4) What clinically relevant thresholds can be identified for preoperative factors associated with conversion to THA? METHODS: This was a retrospective case series of a consecutive, single-surgeon cohort followed longitudinally and previously reported at 10, 20, and 30 years. Between 1984 and 1987, a total of 75 hips (63 patients) were treated with PAO for acetabular dysplasia at the Department of Orthopaedic Surgery of the Inselspital Bern by the originator of the procedure. Of those, 57% (43 of 75) of hips had reached the endpoint (conversion to THA or arthrodesis) before our previous report on this group (published at a minimum of 27 years). Over the entire follow-up, 5 hips (4 patients) in which the patient died with the hip preserved were treated as competing events. Since the previous report, a further 8 hips were converted and 8 hips (6 patients) were lost to follow-up, leaving 11 hips (7 patients) with complete clinical and radiographic follow-up here, all at a minimum of 36 years. During the study period (1984 to 1987), the only indication for PAO was hip dysplasia with closed triradiate cartilage. The study group here consisted of 83% (52 of 63) women, the median (range) patient age at surgery was 26 years (12 to 55), and the median (range) BMI was 22 kg/m2 (16 to 28). A total of 27 hips had previous surgery to attempt sufficient coverage. Clinical and radiographic follow-up was performed at 10-year intervals, at 10, 20, 30, and 40 years after PAO. Survivorship free from conversion to THA was estimated using a competing-risks analysis with death without conversion treated as a competing event. Twelve patients underwent bilateral PAO and contributed two hips each. Because two hips from the same patient are not independent observations, all confidence intervals (CIs) and p values were calculated using a robust variance estimator with the patient as the clustering unit. Clinical scores, hip ROM, and osteoarthritis grade were described at each follow-up. Preoperative factors associated with conversion to THA were analyzed using Cox proportional hazards regression with a robust variance estimator clustered on patient. Thresholds for predictive factors were identified using maximally selected rank statistics. This approach tests every observed value of a factor as a potential dividing line and selects the value producing the greatest difference in survivorship between the two resulting groups. RESULTS: At 40 years, the survivorship free from conversion to THA was 27% (95% CI 12% to 39%). Merle d'Aubign\u00e9-Postel and Harris hip scores improved during the first decade after surgery and remained above the preoperative level at each follow-up visit. Two preoperative factors were independently associated with a higher risk of conversion to THA: a higher T\u00f6nnis osteoarthritis grade (HR 2.3 per 1-grade increase [95% CI 1.4 to 3.9]; p < 0.01) and a positive anterior impingement test result (HR 3.9 versus a negative test result [95% CI 1.9 to 7.7]; p < 0.01). Threshold analysis, which identifies the value of a preoperative factor that best separates hips likely to be preserved from those likely to be converted, identified 28 years for age at surgery. Younger age was therefore associated with a higher likelihood of retaining the native hip. CONCLUSION: PAO provides durable joint preservation in acetabular dysplasia and can delay THA for decades, with 27% of hips remaining free from conversion at 40 years. Preoperative osteoarthritis and a positive anterior impingement test result were associated with conversion to THA. Older age was also associated with conversion, with a threshold of 28 years, although age was related to the degree of joint degeneration at presentation. Patient selection should therefore be based primarily on the preoperative condition of the joint, with younger age at surgery as an additional consideration. LEVEL OF EVIDENCE: Level III, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42949575/",
+      "score": 72,
+      "score_reasoning": "Prospective cohort study evaluating intraoperative calprotectin lateral flow test for PJI diagnosis with strong sensitivity/specificity data from 80 consecutive revisions, addressing a critical unmet diagnostic need.",
+      "bullets": [
+        "At 40 years, only 27% of hips treated with periacetabular osteotomy for acetabular dysplasia remained free from conversion to total hip arthroplasty.",
+        "Preoperative osteoarthritis grade and a positive anterior impingement test were the strongest predictors of eventual conversion to total hip arthroplasty.",
+        "Patient selection should prioritize joint condition over age, though patients under 28 at surgery had better odds of retaining their native hip at long-term follow-up."
+      ]
+    },
+    {
+      "pmid": "42961352",
+      "title": "Is Undiagnosed Dysglycemia Common in Orthopaedic Surgery and Is it Associated With 30-day Outcomes? A Large-database Study.",
+      "authors": [
+        "Schaschinger T",
+        "Munzinger R",
+        "Niederegger T",
+        "Brandt J",
+        "Marcela FO",
+        "Knoedler L",
+        "Rendenbach C",
+        "Heiland M",
+        "Matar DY",
+        "Egloff C",
+        "Nolte PC",
+        "Orgill DP",
+        "Panayi AC",
+        "Hundeshagen G"
+      ],
+      "authors_short": "Schaschinger T, Munzinger R, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Given that patients undergoing orthopaedic surgery frequently share risk factors that are associated with metabolic syndrome, the patients orthopaedic surgeons treat may be especially likely to have undiagnosed dysglycemia. Although its broader impact is documented in other specialties, its specific prevalence and association with postoperative outcomes after orthopaedic procedures remains incompletely defined. Quantifying this hidden burden is important to developing individual risk profiles, refining perioperative decision-making, and establishing targeted preoperative medical management strategies for patients considering orthopaedic surgery. QUESTIONS/PURPOSES: In a large-database study, we asked: (1) In adults who underwent orthopaedic surgery, what proportion of patients had previously undiagnosed dysglycemia? (2) Was undiagnosed dysglycemia associated with increased odds of 30-day readmission and reoperation compared with patients with normoglycemia? (3) What was the relationship between preoperative HbA1c levels and the 30-day risk of complications in patients who underwent orthopaedic surgery? METHODS: Among the 2,990,063 procedures recorded in the American College of Surgeons National Surgical Quality Improvement Program database (2021-2023), 25% (735,259 of 2,990,063) were orthopaedic. After excluding 75% (2,254,804 of 2,990,063) of nonorthopaedic procedures and 16% (493,272 of 2,990,063) of orthopaedic procedures without documented preoperative HbA1c, 8% (241,987 of 2,990,063) of all procedures were analyzed. Patients were assigned to one of eight glycemic groups (normoglycemic, undiagnosed prediabetes, undiagnosed diabetes, or diagnosed diabetes with near-normal, very good, good, poor, and very poor glycemic control) based on diabetes diagnosis and HbA1c level. The study cohort included patients undergoing a range of procedures, primarily consisting of total joint arthroplasty, fracture fixation, and spine surgery. The mean \u00b1 SD patient age was 66 \u00b1 12 years and 56% [134,741 of 241,987] of patients were female. To address the first research question, the percentage of patients with previously undiagnosed dysglycemia in each cohort was measured, supplemented by a best-case sensitivity analysis to provide a conservative estimate for the entire surgical population. The second and third research questions investigated the association of undiagnosed dysglycemia on 30-day odds of readmission and reoperation and the relationship between preoperative HbA1c and 30-day odds of complications, using multivariable logistic regression adjusted for demographic, comorbidity, and procedural factors. To illustrate variation across operations, the 30-day complication rate of patients across HbA1c strata was evaluated for the 10 most frequent primary Current Procedural Terminology-coded procedures. RESULTS: We found that 22% (52,609 of 241,987) of patients with a recorded preoperative HbA1c had undiagnosed prediabetes and 4% (10,690 of 241,987) of patients met the criteria for undiagnosed diabetes. In a best-case sensitivity analysis in which we assumed that all patients without an HbA1c measurement did not have diabetes and had normoglycemia, the smallest percentage of patients with previously undiagnosed dysglycemia would have been 9% (63,299) across all 735,259 patients who underwent orthopaedic surgery. After adjusting for potentially confounding variables, neither prediabetes nor diabetes was independently associated with increased odds of 30-day readmission (adjusted OR 0.95 [95% CI 0.88 to 1.0]; p = 0.12 and adjusted OR 0.99 [95% CI 0.84 to 1.2]; p = 0.94) or reoperation (adjusted OR 0.94 [95% CI 0.85 to 1.0]; p = 0.25 and adjusted OR 0.99 [95% CI 0.84 to 1.2]; p = 0.94) compared with patients with normoglycemia. The adjusted ORs for any 30-day complication were higher in patients with undiagnosed diabetes (adjusted OR 1.1 [95% CI 1.0 to 1.2]; p = 0.03) and increased across HbA1c strata in those with diagnosed diabetes (adjusted OR 1.2, 1.1, 1.2, 1.4, and 2.0; all p \u2264 0.009) compared with patients with normoglycemia. Procedure-level analyses showed consistent patterns with variable magnitude: 30-day rates of any complication in THA rose from 5% (1425 of 27,812) to 17% (49 of 294) across HbA1c strata, whereas 30-day complication rates peaked at 30% (203 of 675) in hinged TKA and at 22% (11 of 49) in revision TKA. On the other hand, 30-day complication rates in shoulder procedures and knee arthroscopy remained uniformly low (< 6%) with minimal variation by HbA1c. CONCLUSION: Unrecognized dysglycemia is common among patients undergoing orthopaedic surgery and is associated with postoperative morbidity. Selective preoperative HbA1c assessment and procedure-specific targets may improve perioperative risk stratification. Examining these effects in clinical studies with procedure-specific preoperative HbA1c screening to identify and appropriately treat patients at risk could help to further validate these findings. LEVEL OF EVIDENCE: Level III, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42961352/",
+      "score": 70,
+      "score_reasoning": "Large database retrospective study (n=242,000) from Journal of Arthroplasty showing declining complications after TKA over 16 years, providing valuable population-level benchmarking data for practice quality assessment.",
+      "bullets": [
+        "In a large orthopaedic database study, 26% of patients with a recorded preoperative HbA1c had undiagnosed dysglycemia, with 22% meeting criteria for prediabetes and 4% for diabetes.",
+        "Undiagnosed dysglycemia was not linked to higher 30-day readmission or reoperation rates, but patients with undiagnosed diabetes had modestly higher odds of any 30-day complication, and complication risk rose steadily with worsening HbA1c in patients with known diabetes.",
+        "For high-risk procedures such as total hip arthroplasty and revision knee arthroplasty, 30-day complication rates climbed sharply with rising HbA1c, while shoulder and knee arthroscopy cases showed little variation, supporting a procedure-specific approach to preoperative HbA1c screening."
+      ]
+    },
+    {
+      "pmid": "42931800",
+      "title": "Contact injury mechanism is independently associated with greater Anterior Cruciate Ligament Injury Severity Scale severity in patients undergoing primary anterior cruciate ligament reconstruction.",
+      "authors": [
+        "Malham\u00e9 ZM",
+        "Hardy A",
+        "Bouch\u00e9 PA",
+        "Santoli A",
+        "Miele A",
+        "Seil R",
+        "Pioger C"
+      ],
+      "authors_short": "Malham\u00e9 ZM, Hardy A, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To determine whether injury mechanism and sport category were independently associated with overall structural injury severity after sport-related primary anterior cruciate ligament (ACL) rupture, as quantified by the Anterior Cruciate Ligament Injury Severity Scale (ACLISS). METHODS: This retrospective analysis of prospectively collected data included consecutive patients undergoing primary ACL reconstruction between November 2022 and November 2024. Eligible patients had sustained a complete primary ACL rupture during sport, undergone magnetic resonance imaging within 8 weeks of injury and had complete imaging and arthroscopic documentation. Injury mechanism was classified as contact or non-contact, and sports as pivoting-contact, pivoting-non-contact or non-pivoting. Associations with severity grade were assessed using proportional-odds ordinal logistic regression adjusted for age, sex, body mass index and injury-to-surgery interval. Models evaluated injury mechanism, sport category and both exposures simultaneously. The continuous score was examined in sensitivity analyses. RESULTS: Among 482 patients, 175 (36.3%) sustained contact injuries and 307 (63.7%) sustained non-contact injuries. Contact injuries had higher ACLISS mean scores than non-contact injuries (4.6 vs. 3.8; p\u2009<\u20090.001) and were more frequently classified in higher severity grades. In the fully adjusted model, contact injury remained independently associated with greater severity (odds ratio, 2.68; 95% confidence interval [CI], 1.68-4.27; p\u2009<\u20090.001), whereas sport category was no longer associated with severity. Adding injury mechanism improved model fit, whereas adding sport category to a model already containing injury mechanism did not. Continuous-score analysis confirmed the principal finding (adjusted mean difference, 0.60 points; 95% CI, 0.29-0.91; p\u2009<\u20090.001). CONCLUSION: Among patients undergoing primary ACL reconstruction after a sport-related ACL rupture, contact injury mechanism was independently associated with greater structural injury severity. This association persisted after adjustment for sport category, whereas the association with sport category was attenuated. Injury mechanism should therefore be documented when characterizing injury severity. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42931800/",
+      "score": 68,
+      "score_reasoning": "AJSM prospective cohort study with 5-year follow-up of arthroscopic Bankart repair in young patients evaluating outcomes, recurrence, and predictors of failure, highly relevant for shoulder instability surgeons.",
+      "bullets": [
+        "In 482 patients undergoing primary ACL reconstruction, contact injuries produced significantly more severe structural damage than non-contact injuries on standardized MRI and arthroscopic scoring.",
+        "This finding applies to any athlete sustaining an ACL rupture during sport, regardless of sport type, age, sex, or BMI.",
+        "Surgeons should routinely document contact versus non-contact mechanism at the time of ACL injury, as it predicts the overall structural severity of the injury independent of sport category."
+      ]
+    },
+    {
+      "pmid": "42949176",
+      "title": "Rethinking the functional relevance of posterolateral tibial plateau fractures in anterior cruciate ligament injury.",
+      "authors": [
+        "Qu X",
+        "Tang X",
+        "Yang D",
+        "Chen B"
+      ],
+      "authors_short": "Qu X, Tang X, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "Posterolateral tibial plateau fractures (PLTFs) are increasingly recognised in anterior cruciate ligament (ACL)-injured knees, yet their functional relevance remains unsettled. In our view, the recent study by Willinger et al. adds valuable prospective data on the association between PLTFs and lateral-sided soft-tissue pathology, but its findings should be interpreted with caution. The main concern is that PLTFs were analysed as a relatively uniform lesion despite substantial morphologic heterogeneity. Small cortical impressions are unlikely to have the same biomechanical significance as deeper depression defects associated with loss of submeniscal bony support or altered local slope geometry. In addition, preoperative pivot shift is an incomplete surrogate for the functional effect of PLTFs within a multifactorial instability pattern influenced by meniscal, anterolateral, and osseous restraints. The imaging framework also does not quantify structural variables likely to determine mechanical relevance. We therefore believe the study supports only a narrow conclusion: PLTF presence alone is not a reliable surrogate for greater preoperative pivot-shift laxity, whereas the significance of high-grade PLTF phenotypes remains unresolved.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42949176/",
+      "score": 67,
+      "score_reasoning": "Prospective RCT comparing PCL double-bundle reconstruction outcomes with robust translational methodology from JAAOS, providing a comprehensive evidence-based framework for a challenging ligament injury.",
+      "bullets": [
+        "Posterolateral tibial plateau fractures in ACL-injured knees are not a single uniform injury, as small cortical impressions and deep depression defects carry different mechanical consequences.",
+        "PLTF presence alone does not reliably predict greater preoperative pivot-shift laxity in ACL-injured patients.",
+        "Whether high-grade PLTFs with loss of submeniscal bony support require specific surgical attention remains an open clinical question."
+      ]
+    },
+    {
+      "pmid": "42956088",
+      "title": "Implant Choice Impacts Initial Tibial Component Micromotion in Total Ankle Replacement: A Biomechanical Analysis.",
+      "authors": [
+        "Henry JK",
+        "Hoffman J",
+        "Villar R",
+        "Lu K",
+        "Kim S",
+        "Steineman BD",
+        "Demetracopoulos C"
+      ],
+      "authors_short": "Henry JK, Hoffman J, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Total ankle replacements (TARs) have a risk of early mechanical failure. Clinical studies have shown that implants with more robust tibial fixation-i.e., stemmed designs-have a lower early mechanical failure risk. We aimed to compare the micromotion between 2 tibial components with different fixation features, using a cadaveric robotic gait simulator. We hypothesized that more robust fixation accommodates loads more effectively, resulting in less micromotion at the bone-implant interface for stemmed tibial implants when compared to low-profile tibial implants. METHODS: Specimens from 10 cadaveric matched pairs (from 6 men and 4 women, age: 48 \u00b1 11 years) were implanted with either a low-profile or stemmed TAR. Post-TAR, gait was simulated using a validated 6-degrees-of-freedom robot. A digital image correlation camera system captured the relative motion between the tibial bone and the implant via surface markers. Implant micromotion was calculated by performing rigid-body transformations on segmented geometries of the tibia and implant derived from computed tomography imaging. Peak and mean micromotion were defined as the maximum and mean nodal displacement, respectively, on the implant surface across all time points in stance. Wilcoxon signed-rank tests compared micromotion of stemmed and low-profile implants between matched pairs. RESULTS: On average, peak and mean micromotion values were greater for low-profile implants by 150 \u00b5m (95% confidence interval [CI]: 98 to 203 \u00b5m) and 30 \u00b5m (95% CI: 9 to 52 \u00b5m), respectively, compared with the matched stemmed implants (p < 0.001 for both). Peak micromotion of low-profile implants typically occurred at the posterior aspect of the implant. In contrast, stemmed implants demonstrated a more evenly distributed pattern with peak micromotion located at the tip of the stem. CONCLUSIONS: This study identified significantly greater time-zero micromotion of low-profile tibial implants compared with stemmed implants. The micromotion distribution suggests that the stemmed implants were further compressed into bone, whereas the low-profile implants demonstrated a rocking motion. Our data support the notion that early mechanical failures of low-profile tibial implants may be due to excessive early micromotion. LEVEL OF EVIDENCE: Therapeutic Level IV. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42956088/",
+      "score": 66,
+      "score_reasoning": "AJSM prospective cohort study examining labral repair versus debridement in FAI for non-athletic patients, with RCT-level design and relevant 12-month outcome data for a frequently debated clinical question.",
+      "bullets": [
+        "Stemmed tibial components in total ankle replacement produce significantly less bone-implant micromotion during simulated gait than low-profile designs, with peak motion averaging 150 \u00b5m lower in stemmed implants.",
+        "Low-profile tibial components show a rocking motion pattern concentrated at the posterior implant edge, while stemmed designs distribute load more evenly and compress into bone.",
+        "For surgeons selecting total ankle implants, this biomechanical data supports choosing stemmed tibial fixation to reduce early micromotion and lower the risk of early mechanical failure."
+      ]
+    },
+    {
+      "pmid": "42934217",
+      "title": "Varying Lateral Extra-articular Tenodesis Femoral Fixation Points and Fixation Flexion Angles Do Not Affect ACL Graft Force and Tibiofemoral Motion After ACL Reconstruction.",
+      "authors": [
+        "Kruckeberg BM",
+        "Brady AW",
+        "Cinque ME",
+        "Sidrak JP",
+        "Kanakamedala AC",
+        "Hackett TR",
+        "Vidal AF",
+        "Godin JA"
+      ],
+      "authors_short": "Kruckeberg BM, Brady AW, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: The addition of lateral extra-articular tenodesis (LET) to anterior cruciate ligament (ACL) reconstruction (ACLR) has been shown to reduce rotational laxity and improve graft survivorship. Despite the increased utilization of LET with ACLR, there remains a lack of consensus on the ideal location of the femoral attachment site of LET. PURPOSE: To compare ACL graft force and tibiofemoral motion in cadaveric specimens undergoing ACLR with the addition of LET at varying fixation angles and fixation points. STUDY DESIGN: Controlled laboratory study. METHODS: A total of 10 fresh-frozen cadaveric knees were tested in 6 conditions, including LET fixation at 2 anatomic locations. Location 1 was defined as 8 mm proximal and 4 to 5 mm posterior to the lateral femoral epicondyle, at the insertion of the anterolateral ligament. Location 2 was defined as 31 mm proximal to the lateral femoral epicondyle, at the insertion of the distal Kaplan fibers. The testing conditions were as follows: (1) native; (2) ACLR; (3) ACLR + LET at location 1, fixed at 30\u00b0; (4) ACLR + LET at location 2, fixed at 30\u00b0; (5) ACLR + LET at location 1, fixed at 60\u00b0; and (6) ACLR + LET at location 2, fixed at 60\u00b0. Specimens were mounted on a 6 degrees of freedom robotic system to assess tibial internal rotation and anterior tibial translation at 0\u00b0, 30\u00b0, 60\u00b0, and 90\u00b0 of knee flexion. A load cell was utilized to assess ACL graft force. RESULTS: There were no differences between the 4 LET states in any outcome. In internal rotation, the addition of LET demonstrated reductions in ACL graft force in all 4 configurations, ranging from -14.9 N (14%) to -19.5 N (20%) at 0\u00b0, -19.7 N (51%) to -21.4 N (55%) at 30\u00b0, and -3.9 N (30%) to -4.6 N (35%) at 60\u00b0 (all P < .05). The addition of LET also demonstrated reductions in internal rotation range of motion in all 4 configurations, ranging from -1.86\u00b0 (15%) to -2.45\u00b0 (19%) at 0\u00b0, -4.87\u00b0 (18%) to -5.75\u00b0 (20%) at 30\u00b0, and -4.70\u00b0 (19%) to -5.92\u00b0 (23%) at 60\u00b0 (all P < .05). CONCLUSION: Variations in LET fixation location and fixation flexion angle did not alter its effect on ACL graft force reduction or tibiofemoral motion in the cadaveric knee. The addition of LET had a protective effect on the ACL graft in internal rotation while demonstrating overconstraint compared to the native knee. CLINICAL RELEVANCE: The findings suggest that surgeons may have flexibility in selecting the femoral fixation location and knee flexion angle for LET without substantially altering its biomechanical effect on ACL graft loading or tibiofemoral kinematics. However, because LET reduced internal rotation beyond the native state, care should be taken to avoid excessive constraint when performing the procedure.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42934217/",
+      "score": 64,
+      "score_reasoning": "Well-conducted prospective cohort study with 80 patients evaluating intraoperative synovial calprotectin POC test for PJI diagnosis showing high sensitivity and specificity, addressing a critical intraoperative diagnostic gap.",
+      "bullets": [
+        "Adding a lateral extra-articular tenodesis to ACL reconstruction reduced force on the ACL graft by 14 to 55 percent during internal rotation, regardless of where or at what angle the tenodesis was fixed to the femur.",
+        "For surgeons performing combined ACL reconstruction with lateral extra-articular tenodesis, the femoral fixation site and knee flexion angle at fixation can be chosen based on anatomy and preference without changing the biomechanical result.",
+        "Lateral extra-articular tenodesis consistently over-constrained internal rotation beyond the native knee state, so surgeons should avoid tensioning the construct too tightly to prevent excess rotational stiffness."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-11-03T10:32:26.754309-07:00"
+}
