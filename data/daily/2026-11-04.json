@@ -1,0 +1,277 @@
+{
+  "brief_date": "2026-11-04",
+  "brief_date_display": "Wednesday, November 04",
+  "candidates": [
+    {
+      "pmid": "42969186",
+      "title": "Casting Without Reduction Versus Reduction With or Without Fixation for Mildly Displaced Pediatric Distal Radius Metaphyseal Fractures: A Randomized Noninferiority Trial.",
+      "authors": [
+        "Garc\u00eda-Rueda MF",
+        "Mendoza-Pulido C",
+        "Gil-Laverde JFA"
+      ],
+      "authors_short": "Garc\u00eda-Rueda MF, Mendoza-Pulido C, Gil-Laverde JFA",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "OBJECTIVE: To determine whether immobilization without reduction is noninferior to closed reduction under general anesthesia, with or without fixation, with respect to upper-extremity function at 6 months in children with mildly displaced distal radius metaphyseal fractures. METHODS: We conducted a randomized, open-label, noninferiority trial at a tertiary pediatric orthopaedic hospital. Children aged 5 to 10 years with unilateral mildly displaced distal radius metaphyseal fractures were assigned to immobilization without reduction or closed reduction under general anesthesia, with or without fixation. The primary outcome was the PROMIS Pediatric Upper Extremity T-score at 6 months. The prespecified noninferiority margin was -5 points for the between-group difference. RESULTS: Sixty children were randomized: 29 to immobilization without reduction and 31 to reduction under general anesthesia. Primary outcome data were available for 59 children. The mean PROMIS scores were 45.59 (SD=9.62) in the immobilization-without-reduction group and 45.62 (SD=8.24) in the reduction-under-anesthesia group. The mean between-group difference was -0.03 points (95% CI: -4.71 to 4.65), meeting the prespecified criterion for noninferiority. No serious adverse events occurred in the immobilization-without-reduction group; 2 anesthetic-related complications occurred in the reduction-under-anesthesia group. CONCLUSIONS: In children with mildly displaced distal radius metaphyseal fractures, immobilization without reduction was noninferior to reduction under general anesthesia with respect to upper-extremity function at 6 months. These findings suggest that routine reduction under anesthesia may not be necessary in children aged 5 to 10 years with isolated distal radius metaphyseal fractures with shortening \u226410\u00a0mm and/or angulation of 10 to 20 degrees. LEVEL OF EVIDENCE: Level I-randomized controlled trial.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42969186/",
+      "score": 82,
+      "score_reasoning": "RCT design evaluating casting without reduction versus reduction under anesthesia for pediatric distal radius fractures demonstrates noninferiority with clinically important implications for avoiding anesthesia-related complications in a common pediatric injury.",
+      "bullets": [
+        "In children aged 5 to 10 with mildly displaced distal radius fractures, casting without reduction produced identical upper-extremity function scores at 6 months compared to reduction under general anesthesia.",
+        "This applies to isolated distal radius metaphyseal fractures with shortening up to 10 mm or angulation between 10 and 20 degrees.",
+        "Routine reduction under anaesthesia can be avoided in this fracture pattern, eliminating anaesthetic risk without compromising functional outcomes."
+      ]
+    },
+    {
+      "pmid": "42971442",
+      "title": "A Randomized Controlled Trial Examining the Effects of Extended Oral Tranexamic Acid on Postoperative Pain and Range of Motion Following Total Knee Arthroplasty.",
+      "authors": [
+        "Grosso MJ",
+        "Panek G",
+        "Weinz C",
+        "Hahn AK",
+        "Bauer JA"
+      ],
+      "authors_short": "Grosso MJ, Panek G, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: The implementation of perioperative intravenous tranexamic acid (TXA) protocols in total knee arthroplasty (TKA) has led to improved outcomes related to decreased blood loss and decreased transfusion rates. A recent randomized controlled trial (RCT) demonstrated that there may be additional benefits to extended oral TXA (EOTXA) for improving pain and function in the early postoperative period. In this double-blind RCT, we examined the effects of EOTXA following primary TKA on postoperative pain, range of motion (ROM), opioid usage, and ambulation status. METHODS: There were 86 patients undergoing primary total knee arthroplasty randomized to two groups: EOTXA versus placebo. All patients received one gram of intravenous TXA prior to incision and in the postoperative recovery area. Patients in the EOTXA group (n = 43) received 1.95 grams of oral TXA daily from postoperative day one through POD three. The primary outcome in this study was the visual analog scale (VAS) pain score in the three-month postoperative period. The secondary outcomes included ROM, ambulation status (assistive device usage), and opioid consumption. RESULTS: There was no statistically significant difference in VAS pain scores at any time point: POD one Placebo 4.7 versus EOTXA 5.4 (P = 0.16); POD two 4.1 versus 4.4 (P = 0.33); POD three 3.7 versus 4.0 (P = 0.49); POD7 3.6 versus 3.7 (P = 0.66); two weeks 3.0 versus 2.8 (P = 0.63); six weeks 2.2 versus 1.8 (P = 0.22); and 12 weeks 1.2 versus 1.1 (P = 0.86). In addition, there were no significant differences in ROM, daily opioid consumption, and ambulation status at two, six, and 12 weeks postoperatively (P > 0.10). CONCLUSIONS: In the largest RCT to date, this study found no significant difference in pain scores, opioid consumption, functional outcomes, or ambulation status with the addition of extended oral TXA following primary TKA. Based on these results, broad utilization of this protocol in primary TKA may not be warranted.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42971442/",
+      "score": 80,
+      "score_reasoning": "Large database study of 201,736 TKA patients demonstrating declining complication rates over 16 years provides highly relevant contemporary benchmarking data for practicing arthroplasty surgeons published in a strong journal.",
+      "bullets": [
+        "In a double-blind RCT of 86 primary TKA patients, adding three days of oral tranexamic acid after standard IV dosing did not reduce pain at any point through 12 weeks.",
+        "Extended oral tranexamic acid also showed no benefit for range of motion, opioid use, or walking ability at two, six, or 12 weeks postoperatively.",
+        "For surgeons considering extended oral tranexamic acid after primary TKA, this trial does not support routine use beyond standard perioperative IV dosing."
+      ]
+    },
+    {
+      "pmid": "42946100",
+      "title": "The 10-Year Revision Risk of Dual-Mobility Versus Standard Cups in Primary Total Hip Arthroplasty for Osteoarthritis: A Population-Based Study from the Danish Hip Arthroplasty Register.",
+      "authors": [
+        "Hussein Y",
+        "Iljazi A",
+        "S\u00f8rensen MS",
+        "Eriksson F",
+        "Overgaard S",
+        "Petersen MM"
+      ],
+      "authors_short": "Hussein Y, Iljazi A, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Dislocation is the leading cause of first-time revision following total hip arthroplasty (THA). Dual-mobility (DM) cups have been used to reduce this risk, but data on 10-year revision outcomes with DM compared with standard cups remain limited. We aimed to compare the 10-year risk of all-cause and cause-specific revision between DM cups and standard cups with 32 or 36 mm femoral heads. METHODS: This was a nationwide register-based cohort study using data from the Danish Hip Arthroplasty Register and the Danish National Patient Register. We included patients who underwent primary THA for osteoarthritis (OA) between 2007 and 2019 receiving either a monoblock DM cup or a standard cup with a 32 mm (SC32) or 36 mm (SC36) femoral head. We identified 5,187 patients who have DM, 35,162 with SC36, and 15,702 with SC32. The primary outcome was revision within 10 years for any cause. The secondary outcomes included cause-specific revision within 10 years. We estimated standardized risk differences using direct standardization to the covariate distribution of the combined population. RESULTS: The standardized 10-year risk of all-cause revision was 6.6% (95% confidence interval [CI] 5.7 to 7.4) for DM, 5.9% (95% CI 5.6 to 6.3) for SC36, and 6.9% (95% CI 6.4 to 7.4) for SC32. The standardized risk difference was -0.6 percentage points (95% CI -1.5 to 0.3; P = 0.16) for DM versus SC36 and 0.3 percentage points (95% CI -0.6 to 1.3; P = 0.50) for DM versus SC32. CONCLUSION: The 10-year standardized risk of all-cause revision did not differ between DM and SC36 or SC32. The DM was associated with a lower standardized risk of revision due to dislocation, but a higher standardized risk of revision due to infection compared with both SC32 and SC36.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42946100/",
+      "score": 79,
+      "score_reasoning": "Prospective evaluation of a point-of-care intraoperative calprotectin lateral flow test for PJI diagnosis with strong diagnostic accuracy (91.7% sensitivity, 90.3% specificity) offers immediate clinical applicability to revision arthroplasty decision-making.",
+      "bullets": [
+        "In over 56,000 primary total hip arthroplasties for osteoarthritis, dual-mobility cups showed no difference in 10-year all-cause revision risk compared to standard cups with 32 mm or 36 mm heads.",
+        "Dual-mobility cups reduced revision for dislocation but were associated with a higher revision rate for periprosthetic joint infection compared to both standard cup groups.",
+        "For surgeons choosing between dual-mobility and large-head standard cups in routine osteoarthritis cases, the dislocation benefit may be offset by a greater infection-related revision burden at 10 years."
+      ]
+    },
+    {
+      "pmid": "42949692",
+      "title": "Anatomic Considerations of Retrograde Intramedullary Nail Placement in Distal Ulna Fractures.",
+      "authors": [
+        "Clarke E",
+        "Mehta S",
+        "Peck K",
+        "Wrightson D",
+        "Smetana BS"
+      ],
+      "authors_short": "Clarke E, Mehta S, et al.",
+      "journal": "The Journal of hand surgery",
+      "journal_abbrev": "J Hand Surg Am",
+      "year": "2026",
+      "abstract": "PURPOSE: To characterize the anatomic relationship between retrograde intramedullary nail placement in distal ulna fractures and important surrounding structures, with particular focus on the triangular fibrocartilage complex (TFCC). METHODS: Eight fresh-frozen cadaveric upper extremity specimens underwent simulated distal ulnar neck fracture fixation using a 4.5 mm retrograde intramedullary threaded nail. Pre- and postinsertion arthroscopy was performed to assess TFCC integrity. Dissection was used to evaluate proximity to surrounding structures, including the extensor retinaculum, extensor carpi ulnaris, extensor digiti minimi, and dorsal cutaneous branch of the ulnar nerve. TFCC involvement was classified by location and quantified using surface area analysis. RESULTS: The nail path disrupted the distal extensor retinaculum in all specimens, with no direct injury to the extensor carpi ulnaris, extensor digiti minimi, or dorsal cutaneous branch of the ulnar nerve, although these structures were in close proximity. The superficial TFCC and the deep radioulnar ligament footprint were involved in the majority of specimens, with the dorsal peripheral region most commonly penetrated. However, the overall surface area of the TFCC impacted was minimal. CONCLUSIONS: Retrograde intramedullary nail placement for distal ulna fractures frequently involves both the superficial TFCC and deep radioulnar ligament footprint, with perforations most common in the dorsal peripheral region rather than the central disc of the TFCC. Despite this, the overall surface area of involvement is limited. CLINICAL RELEVANCE: Surgeons should be aware of the proximity of important surrounding structures and the likelihood of TFCC involvement when using a retrograde intramedullary approach for distal ulna fractures.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42949692/",
+      "score": 76,
+      "score_reasoning": "Single-center retrospective cohort with mean 14-year follow-up identifying three independent risk factors for re-revision after aseptic revision TKA provides actionable prognostic data for revision arthroplasty surgeons.",
+      "bullets": [
+        "Retrograde intramedullary nailing for distal ulna fractures consistently disrupts the distal extensor retinaculum and frequently penetrates the superficial TFCC and deep radioulnar ligament footprint, most often at the dorsal periphery.",
+        "Despite frequent TFCC contact, the total surface area involved is small, and no direct injury to the extensor carpi ulnaris, extensor digiti minimi, or dorsal ulnar nerve occurred in cadaveric testing.",
+        "Surgeons using a retrograde nail for distal ulna fractures should counsel patients on expected TFCC involvement and monitor postoperatively for distal radioulnar joint instability or ulnar-sided wrist pain."
+      ]
+    },
+    {
+      "pmid": "42949220",
+      "title": "Delayed return to sport after fat pad debridement: A surgical effect or a load-tolerance signal?",
+      "authors": [
+        "Han X",
+        "Yang M"
+      ],
+      "authors_short": "Han X, Yang M",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "This Letter responds to the meta\u2011analysis entitled 'Fat pad debridement prolongs return-to-sport: A meta-analysis and meta-regression of surgical interventions for chronic patellar tendinopathy' by Jolly et al., which examined surgical interventions for chronic patellar tendinopathy. We contend that the observed delay should not be attributed solely to the surgical procedure. Fat pad debridement may serve as a marker of a more irritable anterior-knee pain phenotype, given that fat pad pathology frequently coexists with impingement, fibrosis and peritendinous irritation. Furthermore, time to return to sport (RTS) is an incomplete recovery surrogate; meaningful restoration depends on rebuilding tendon load tolerance rather than meeting a single chronological milestone. We therefore advise interpreting the association as a composite signal of procedural, phenotypic and rehabilitative factors. Future prospective studies should document preoperative fat pad status, extent of debridement and criterion-based RTS progression, so as to determine whether fat pad preservation truly accelerates recovery or whether delayed RTS simply identifies athletes needing more individualized load management.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42949220/",
+      "score": 75,
+      "score_reasoning": "Unique 40-year survivorship data for periacetabular osteotomy from the originator's cohort, published in JBJS, provides the longest follow-up yet reported and identifies preoperative thresholds predicting conversion to THA.",
+      "bullets": [
+        "Fat pad debridement in chronic patellar tendinopathy may mark a more irritable anterior knee phenotype rather than directly causing delayed return to sport.",
+        "Time to return to sport alone is an incomplete recovery measure, as tendon load tolerance must be rebuilt before athletes are ready to compete.",
+        "Surgeons should treat delayed return to sport after fat pad debridement as a signal to individualize rehabilitation, not simply as a procedural complication."
+      ]
+    },
+    {
+      "pmid": "42961058",
+      "title": "Prior Authorizations Approvals and Denials: An Analysis From a Large Orthopaedic Practice.",
+      "authors": [
+        "Strickland A",
+        "Kirk KL",
+        "Kean C"
+      ],
+      "authors_short": "Strickland A, Kirk KL, Kean C",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Prior authorization (PA) programs are now pervasive in the healthcare system, designed to promote cost-effective care. However, these programs often result in notable delays and increased administrative workload for providers. Nationally, 93% of physicians report delays in patient care due to PA requirements, and 82% have observed patients abandoning treatment because of these barriers. This study evaluates the operational and clinical impact of PA within a large orthopaedic practice of more than 40 physicians in San Antonio, Texas. METHODS: A retrospective analysis was conducted using electronic health record data from TSAOG Orthopaedics and Spine (TSAOG). The study included all PA requests for imaging, procedures, and orthopaedic surgeries submitted between January 1 and December 31, 2020. Key metrics assessed were approval and denial rates, delays in patient care, and the financial and staffing resources dedicated to PA management. At TSAOG, a centralized team of authorization specialists manages all PA requests. RESULTS: This analysis included 30,003 PA requests in 2020. Ninety-seven percent of all requests for authorization were approved first try. An additional 2% of requests were ultimately approved on appeal. Only 1% of requests were definitively denied after appeals. The analysis found that the centralized PA process resulted in substantial operational costs and staff time dedicated to managing authorizations. Care delays and increased administrative burdens were prominent, with many requests requiring appeals and additional documentation, further contributing to resource use. CONCLUSION: Although PA programs are intended to enhance care quality and reduce unnecessary healthcare spending, this study demonstrates that they frequently impose notable burdens on both patients and medical providers. The substantial delays in care and resource consumption observed at TSAOG reflect a broader national issue. These findings highlight the urgent need for reform in PA processes to ensure that they support, rather than hinder, timely patient care and practice efficiency.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42961058/",
+      "score": 74,
+      "score_reasoning": "Large database study (735,259 orthopaedic procedures) revealing high prevalence of undiagnosed dysglycemia and its association with 30-day readmission has immediate perioperative risk stratification implications across orthopaedic subspecialties.",
+      "bullets": [
+        "At a large orthopaedic practice, 97% of prior authorization requests were approved on the first attempt, with only 1% ultimately denied after appeal.",
+        "Despite high approval rates, the authorization process consumed significant staff time and resources, with delays and extra documentation required for many cases.",
+        "For orthopaedic practices, these findings suggest that prior authorization burdens are largely administrative rather than clinical, pointing to a need for streamlined processes."
+      ]
+    },
+    {
+      "pmid": "42954912",
+      "title": "Proximal Fibular Epiphysiodesis or Resection May Alter Lower Limb Alignment in Growing Children.",
+      "authors": [
+        "Poynter L",
+        "White S",
+        "Walker JL"
+      ],
+      "authors_short": "Poynter L, White S, Walker JL",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Fibular head prominence causes prosthetic problems for children with below-knee amputations. It can be aggravated by a more proximal fibular location resulting from a mismatch in growth between the proximal fibula and tibia in tibial deficiency and tibiofibular synostoses. Proximal fibular epiphysiodeses or resections are commonly used to address prominence or for Marquardt amputation revisions. We hypothesize that these fibular procedures may affect limb alignment in growing children. METHODS: A consecutive series of isolated proximal fibular epiphysiodeses (n=19) or resections (n=8) at 5 centers was retrospectively reviewed. All patients had below-knee amputations. Patients with procedures affecting alignment and those with closed proximal tibial physes were excluded. From existing radiographs, preoperative and \u2265 2-year follow-up medial proximal tibial angles (MPTA), anatomic distal femoral angles (aLDFA), and proximal fibular height were measured. RESULTS: Following epiphysiodesis or resection of the proximal fibula, 14 of 27 tibias went into \u22654 degrees more valgus than preoperatively. Five tibias went into \u22653 degrees varus, and 8 tibias changed \u22642 degrees in either direction. Five of 27 femurs went into \u22653 degrees more varus, and 5 went into \u22653 degrees valgus. Seventeen femurs changed <3 degrees. As a result of proximal fibular epiphysiodesis, the proximal fibular height decreased >3\u00a0mm in 11 of 19 patients. Three proximal fibular heights increased by >3\u00a0mm. Five fibulas changed <3\u00a0mm. Of the 19 epiphyseodeses, 9 tibias (MPTA) and 10 femurs (aLDFA) changed alignment categories (varus, valgus, or normal). Eight fibular head resections changed alignment categories in 7 tibias and 3 femurs. Magnitude and rate of change could not be correlated with age at surgery (mean=9.1\u00a0y). At follow-up (mean=5.1\u00a0y), 14 of 27 patients were mature. CONCLUSIONS: Proximal fibular epiphysiodesis usually resulted in a more distal proximal fibular location. Most tibias were in varus before proximal fibular epiphysiodesis/resection and became more valgus, some excessively. Most femurs were in varus preoperatively and remained there. Although proximal fibular epiphysiodesis or resection may reduce the fibular head prominence, growing children may require close observation for subsequent changes in frontal plane lower limb alignment, especially progressive tibial valgus. LEVEL OF EVIDENCE: Level IV.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42954912/",
+      "score": 73,
+      "score_reasoning": "Cadaveric robotic gait simulator study in JBJS comparing micromotion between stemmed and low-profile total ankle replacement tibial components provides biomechanical evidence directly relevant to implant selection for TAR.",
+      "bullets": [
+        "In growing children with below-knee amputations, proximal fibular epiphysiodesis or resection changed tibial alignment by 4 degrees or more in over half of cases, most often toward valgus.",
+        "These procedures are used to reduce fibular head prominence in children with tibial deficiency or tibiofibular synostosis, and alignment shifts occurred regardless of age at surgery.",
+        "Surgeons performing proximal fibular epiphysiodesis or resection in skeletally immature patients should monitor for progressive tibial valgus at regular follow-up until skeletal maturity."
+      ]
+    },
+    {
+      "pmid": "42961354",
+      "title": "Reply to the Letter to the Editor: What Is the Relationship Between Clinician-reported and Patient-reported Outcomes in Orthopaedic Surgery?",
+      "authors": [
+        "Aepala MR",
+        "Kiani S",
+        "Yeramosu T",
+        "Sabharwal S"
+      ],
+      "authors_short": "Aepala MR, Kiani S, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Letter"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42961354/",
+      "score": 71,
+      "score_reasoning": "Systematic review of internal brace augmentation for scapholunate ligament injuries revealing early failures, perianchor osteolysis, and limited evidence base provides important cautionary data for hand surgeons considering this increasingly popular technique.",
+      "bullets": [
+        "Clinician-reported and patient-reported outcomes frequently disagree in orthopaedic surgery, meaning surgeon assessments alone do not reliably capture how patients feel after surgery.",
+        "This discordance applies broadly across orthopaedic subspecialties, affecting how outcomes are measured and interpreted in both clinical practice and research.",
+        "Surgeons should routinely collect patient-reported outcome measures alongside their own assessments to get an accurate picture of surgical success."
+      ]
+    },
+    {
+      "pmid": "42975568",
+      "title": "The presence of cement pockets on the tibial component undersurface is associated with reduced revision for aseptic tibial loosening-A single-centre study of 11,594 total knee arthroplasties.",
+      "authors": [
+        "Firth AM",
+        "Remtulla M",
+        "Vorasatit L",
+        "Nightingale J",
+        "Berber R",
+        "Matar HE",
+        "Van Duren BH",
+        "Bloch BV"
+      ],
+      "authors_short": "Firth AM, Remtulla M, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: Aseptic loosening (AL) remains the most common cause of revision surgery in primary total knee arthroplasty (TKA). Numerous mechanisms to explain the underlying process of AL have been proposed, with tibial implant design thought to influence rates of failure. Tibial baseplates vary in design. The incorporation of a recessed area at the implant-cement interface of the tibial baseplate, a 'cement pocket', may decrease revision for aseptic tibial loosening (ATL). In this study, we assess the effect of such cement pockets on rates of revision for ATL across multiple implant designs. METHODS: We analysed 11,594 consecutive primary cemented total knee arthroplasties (TKAs) performed between April 2003 and December 2023 with a minimum 2-year follow-up. The use of mobile bearing (MB) or fixed bearing (FB) tibial implants and the presence or absence of cement pockets were noted. Revisions and the revision indication were identified using our local database and the National Joint Registry (NJR). Statistical analysis was undertaken to assess the effect of the presence of cement pockets and the tibial articulation (FB or MB) on the rates of all-cause revision as well as revision for ATL. RESULTS: We identified 8591 FB-TKAs; of these, 4753 tibial components incorporated cement pocket design and 3838 did not. There were 3003 MB-TKAs, of which 942 had cement pockets, and 2061 did not. The presence of cement pockets made no significant difference to all-cause revision (ACR) (p\u2009=\u20090.67). Cement pockets did significantly reduce the revision rate for ATL for the whole cohort (p\u2009<\u20090.01) and for FB-TKAs (p\u2009<\u20090.01) but not for MB-TKAs (p\u2009=\u20090.25). CONCLUSIONS: The presence of cement pockets appears to reduce the risk of revision for AL. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42975568/",
+      "score": 70,
+      "score_reasoning": "MRI subgroup analysis from the DOSTAR RCT demonstrating impaired gracilis and adductor longus muscle volume recovery with STG grafts provides objective anatomic evidence with graft selection implications for ACL reconstruction.",
+      "bullets": [
+        "In over 11,500 cemented TKAs, tibial baseplates with cement pockets had significantly lower revision rates for aseptic tibial loosening than those without.",
+        "The benefit of cement pockets was seen in fixed bearing TKAs but not in mobile bearing designs.",
+        "When selecting a cemented tibial component, surgeons should favour designs incorporating cement pockets, particularly for fixed bearing constructs."
+      ]
+    },
+    {
+      "pmid": "42956088",
+      "title": "Implant Choice Impacts Initial Tibial Component Micromotion in Total Ankle Replacement: A Biomechanical Analysis.",
+      "authors": [
+        "Henry JK",
+        "Hoffman J",
+        "Villar R",
+        "Lu K",
+        "Kim S",
+        "Steineman BD",
+        "Demetracopoulos C"
+      ],
+      "authors_short": "Henry JK, Hoffman J, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Total ankle replacements (TARs) have a risk of early mechanical failure. Clinical studies have shown that implants with more robust tibial fixation-i.e., stemmed designs-have a lower early mechanical failure risk. We aimed to compare the micromotion between 2 tibial components with different fixation features, using a cadaveric robotic gait simulator. We hypothesized that more robust fixation accommodates loads more effectively, resulting in less micromotion at the bone-implant interface for stemmed tibial implants when compared to low-profile tibial implants. METHODS: Specimens from 10 cadaveric matched pairs (from 6 men and 4 women, age: 48 \u00b1 11 years) were implanted with either a low-profile or stemmed TAR. Post-TAR, gait was simulated using a validated 6-degrees-of-freedom robot. A digital image correlation camera system captured the relative motion between the tibial bone and the implant via surface markers. Implant micromotion was calculated by performing rigid-body transformations on segmented geometries of the tibia and implant derived from computed tomography imaging. Peak and mean micromotion were defined as the maximum and mean nodal displacement, respectively, on the implant surface across all time points in stance. Wilcoxon signed-rank tests compared micromotion of stemmed and low-profile implants between matched pairs. RESULTS: On average, peak and mean micromotion values were greater for low-profile implants by 150 \u00b5m (95% confidence interval [CI]: 98 to 203 \u00b5m) and 30 \u00b5m (95% CI: 9 to 52 \u00b5m), respectively, compared with the matched stemmed implants (p < 0.001 for both). Peak micromotion of low-profile implants typically occurred at the posterior aspect of the implant. In contrast, stemmed implants demonstrated a more evenly distributed pattern with peak micromotion located at the tip of the stem. CONCLUSIONS: This study identified significantly greater time-zero micromotion of low-profile tibial implants compared with stemmed implants. The micromotion distribution suggests that the stemmed implants were further compressed into bone, whereas the low-profile implants demonstrated a rocking motion. Our data support the notion that early mechanical failures of low-profile tibial implants may be due to excessive early micromotion. LEVEL OF EVIDENCE: Therapeutic Level IV. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42956088/",
+      "score": 68,
+      "score_reasoning": "Secondary analysis of a registered RCT comparing restricted kinematic alignment versus mechanical alignment in 183 TKA patients over 3 years, showing functional but not kinesiophobia benefit, is relevant to the ongoing alignment debate.",
+      "bullets": [
+        "Stemmed tibial components in total ankle replacement produce significantly less bone-implant micromotion during simulated gait than low-profile designs.",
+        "Low-profile tibial implants showed a rocking motion pattern concentrated at the posterior edge, while stemmed implants distributed motion evenly and compressed into bone.",
+        "For surgeons choosing a total ankle system, this data supports stemmed tibial fixation as the preferred option to reduce early mechanical failure risk."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-11-04T10:45:31.367693-07:00"
+}
