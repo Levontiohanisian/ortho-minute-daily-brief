@@ -1,0 +1,284 @@
+{
+  "brief_date": "2026-11-05",
+  "brief_date_display": "Thursday, November 05",
+  "candidates": [
+    {
+      "pmid": "42969186",
+      "title": "Casting Without Reduction Versus Reduction With or Without Fixation for Mildly Displaced Pediatric Distal Radius Metaphyseal Fractures: A Randomized Noninferiority Trial.",
+      "authors": [
+        "Garc\u00eda-Rueda MF",
+        "Mendoza-Pulido C",
+        "Gil-Laverde JFA"
+      ],
+      "authors_short": "Garc\u00eda-Rueda MF, Mendoza-Pulido C, Gil-Laverde JFA",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "OBJECTIVE: To determine whether immobilization without reduction is noninferior to closed reduction under general anesthesia, with or without fixation, with respect to upper-extremity function at 6 months in children with mildly displaced distal radius metaphyseal fractures. METHODS: We conducted a randomized, open-label, noninferiority trial at a tertiary pediatric orthopaedic hospital. Children aged 5 to 10 years with unilateral mildly displaced distal radius metaphyseal fractures were assigned to immobilization without reduction or closed reduction under general anesthesia, with or without fixation. The primary outcome was the PROMIS Pediatric Upper Extremity T-score at 6 months. The prespecified noninferiority margin was -5 points for the between-group difference. RESULTS: Sixty children were randomized: 29 to immobilization without reduction and 31 to reduction under general anesthesia. Primary outcome data were available for 59 children. The mean PROMIS scores were 45.59 (SD=9.62) in the immobilization-without-reduction group and 45.62 (SD=8.24) in the reduction-under-anesthesia group. The mean between-group difference was -0.03 points (95% CI: -4.71 to 4.65), meeting the prespecified criterion for noninferiority. No serious adverse events occurred in the immobilization-without-reduction group; 2 anesthetic-related complications occurred in the reduction-under-anesthesia group. CONCLUSIONS: In children with mildly displaced distal radius metaphyseal fractures, immobilization without reduction was noninferior to reduction under general anesthesia with respect to upper-extremity function at 6 months. These findings suggest that routine reduction under anesthesia may not be necessary in children aged 5 to 10 years with isolated distal radius metaphyseal fractures with shortening \u226410\u00a0mm and/or angulation of 10 to 20 degrees. LEVEL OF EVIDENCE: Level I-randomized controlled trial.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42969186/",
+      "score": 82,
+      "score_reasoning": "RCT comparing casting without reduction versus reduction under anesthesia for pediatric distal radius fractures with clear noninferiority findings directly applicable to daily practice, published in a relevant journal with adequate sample size.",
+      "bullets": [
+        "In children aged 5 to 10 with mildly displaced distal radius fractures, casting without reduction produced identical upper-extremity function scores at 6 months compared to reduction under general anesthesia.",
+        "This applies to isolated distal radius metaphyseal fractures with shortening up to 10 mm or angulation between 10 and 20 degrees.",
+        "Routine reduction under anaesthesia can be avoided in this fracture pattern, eliminating anaesthetic risk without compromising the clinical outcome."
+      ]
+    },
+    {
+      "pmid": "42971442",
+      "title": "A Randomized Controlled Trial Examining the Effects of Extended Oral Tranexamic Acid on Postoperative Pain and Range of Motion Following Total Knee Arthroplasty.",
+      "authors": [
+        "Grosso MJ",
+        "Panek G",
+        "Weinz C",
+        "Hahn AK",
+        "Bauer JA"
+      ],
+      "authors_short": "Grosso MJ, Panek G, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: The implementation of perioperative intravenous tranexamic acid (TXA) protocols in total knee arthroplasty (TKA) has led to improved outcomes related to decreased blood loss and decreased transfusion rates. A recent randomized controlled trial (RCT) demonstrated that there may be additional benefits to extended oral TXA (EOTXA) for improving pain and function in the early postoperative period. In this double-blind RCT, we examined the effects of EOTXA following primary TKA on postoperative pain, range of motion (ROM), opioid usage, and ambulation status. METHODS: There were 86 patients undergoing primary total knee arthroplasty randomized to two groups: EOTXA versus placebo. All patients received one gram of intravenous TXA prior to incision and in the postoperative recovery area. Patients in the EOTXA group (n = 43) received 1.95 grams of oral TXA daily from postoperative day one through POD three. The primary outcome in this study was the visual analog scale (VAS) pain score in the three-month postoperative period. The secondary outcomes included ROM, ambulation status (assistive device usage), and opioid consumption. RESULTS: There was no statistically significant difference in VAS pain scores at any time point: POD one Placebo 4.7 versus EOTXA 5.4 (P = 0.16); POD two 4.1 versus 4.4 (P = 0.33); POD three 3.7 versus 4.0 (P = 0.49); POD7 3.6 versus 3.7 (P = 0.66); two weeks 3.0 versus 2.8 (P = 0.63); six weeks 2.2 versus 1.8 (P = 0.22); and 12 weeks 1.2 versus 1.1 (P = 0.86). In addition, there were no significant differences in ROM, daily opioid consumption, and ambulation status at two, six, and 12 weeks postoperatively (P > 0.10). CONCLUSIONS: In the largest RCT to date, this study found no significant difference in pain scores, opioid consumption, functional outcomes, or ambulation status with the addition of extended oral TXA following primary TKA. Based on these results, broad utilization of this protocol in primary TKA may not be warranted.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42971442/",
+      "score": 81,
+      "score_reasoning": "Large database study of 201,736 TKA patients demonstrating declining complication rates over 16 years provides highly clinically relevant temporal benchmarking data for arthroplasty surgeons.",
+      "bullets": [
+        "In a double-blind RCT of 86 primary TKA patients, adding three days of oral tranexamic acid after surgery did not reduce pain scores at any point up to 12 weeks compared to placebo.",
+        "Extended oral tranexamic acid also showed no benefit for range of motion, opioid use, or walking ability at two, six, or 12 weeks postoperatively.",
+        "Routine use of extended oral tranexamic acid after primary TKA is not supported by this evidence, and standard intravenous dosing remains sufficient."
+      ]
+    },
+    {
+      "pmid": "42982323",
+      "title": "Diagnostic Accuracy of the Resisted Anterior Drawer (RAD) Test for Lateral Elbow Instability in Lateral Epicondylitis.",
+      "authors": [
+        "Caekebeke P",
+        "van Riet R"
+      ],
+      "authors_short": "Caekebeke P, van Riet R",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Lateral epicondylitis (LE) is increasingly recognized as a multifactorial condition in which subtle lateral elbow instability may contribute to persistent pain. However, reliable clinical tests to detect such instability are lacking. PURPOSE: To determine the diagnostic accuracy of the resisted anterior drawer (RAD) test for detecting lateral elbow instability in patients with LE. METHODS: Consecutive adult patients diagnosed with LE underwent standardized clinical examination followed by magnetic resonance imaging (MRI). The RAD test was considered positive when pain during resisted wrist extension, with the elbow in extension, decreased by at least 1 point on a visual analogue scale (VAS) with anteromedial stabilization of the radial head. MRI-defined instability was defined as the presence of lateral collateral ligament (LCL) injury, posterior sagging, or ulnohumeral joint-line opening of grade \u22651. Diagnostic indices were calculated with 95% confidence intervals and likelihood ratios, and the continuous reduction in pain was evaluated with receiver operating characteristic (ROC) analysis. RESULTS: A total of 500 elbows were analyzed (mean age: 51 years). MRI evidence of instability was present in 57.4% of elbows. The RAD test demonstrated a sensitivity of 95.8% (95% CI 92.8-97.6%), specificity of 82.2% (95% CI 76.5-86.7%), and overall accuracy of 90.0% (95% CI 87.1-92.3%), with positive and negative likelihood ratios of 5.4 and 0.05. The area under the ROC curve for the reduction in pain was 0.92 (95% CI 0.90-0.95). The magnitude of pain reduction during the RAD maneuver correlated with the severity of MRI-defined instability (Spearman \u03c1 = -0.71). Increasing MRI severity was associated with a higher number of corticosteroid infiltrations, whereas symptom duration showed only a weak association with structural instability. CONCLUSION: In this Level III diagnostic study, the RAD test showed high sensitivity and good specificity for MRI-defined lateral elbow instability in patients with LE, and the magnitude of pain reduction was correlated with MRI-defined severity. These findings suggest that the RAD test may be a useful screening maneuver for instability-related pain in patients with LE. A prospective, blinded cohort study with an independent reference standard is required to confirm its clinical utility. LEVEL OF EVIDENCE: Level III, Diagnostic Study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42982323/",
+      "score": 79,
+      "score_reasoning": "High diagnostic accuracy study (n=500) for a novel clinical test (RAD test) for lateral elbow instability with excellent sensitivity/specificity and likelihood ratios, directly changing clinical examination practice.",
+      "bullets": [
+        "In patients with lateral epicondylitis, over half had MRI evidence of lateral elbow instability, and the resisted anterior drawer test identified it with 96% sensitivity and 82% specificity.",
+        "The test works by checking whether stabilizing the radial head reduces pain during resisted wrist extension, making it practical to perform in any clinic setting.",
+        "Surgeons should consider adding this test when lateral epicondylitis is refractory to treatment, as unrecognized lateral instability may explain persistent symptoms."
+      ]
+    },
+    {
+      "pmid": "42971444",
+      "title": "Trends in Single versus Multiple Component Revision for Total Knee Arthroplasty Instability and Subsequent Revision-Free Survival: A Large Retrospective Analysis.",
+      "authors": [
+        "Magaldi RJ",
+        "Smith H",
+        "Ong W",
+        "Post ZD",
+        "Ponzio D",
+        "Ong A"
+      ],
+      "authors_short": "Magaldi RJ, Smith H, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: While multiple-component revision has historically been considered the gold standard for total knee arthroplasty (TKA) instability, technological advances and evolving alignment philosophies have generated renewed interest in single-component revision as a less morbid alternative. The purpose of this study was to characterize national trends and survivorship of single versus multiple-component revision TKA for instability. METHODS: A retrospective cohort analysis was performed using a large national database. Patients undergoing revision TKA for instability from 2010 to 2024 were stratified by single-component (current procedural terminology (CPT) 27486) versus multiple-component (CPT 27487) revision strategy. A total of 2,671 single-component and 4,773 multiple-component revision procedures were identified. Annual procedure volumes were used to characterize temporal trends. Cohorts were balanced using 1:1 propensity score matching across twelve comorbidities. The primary outcome was five-year subsequent revision-free survival, assessed by Kaplan-Meier analysis and log-rank tests. RESULTS: Single-component revision TKA, which includes isolated polyethylene exchange as well as isolated femoral component revision, accounted for 25.6% of cases in 2010 and remained stable through 2020 before rising sharply to 47.1% by 2024, approaching parity with multiple-component revision. Following propensity score matching, five-year revision-free survival was 85.4% for single-component versus 86.7% for multiple-component revision (log-rank P = 0.336; hazard ratio (HR) 1.083, 95% confidence interval (CI) 0.921 to 1.273). CONCLUSION: The single-component revision strategy for TKA instability has increased substantially over the past 15 years without a corresponding increase in re-revision rates. Though causality cannot be determined from this data, the temporal trend towards single-component revision is consistent with recent innovations in polyethylene design, robotic-assisted technology, kinematic philosophy, and press-fit fixation techniques.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42971444/",
+      "score": 78,
+      "score_reasoning": "Systematic review and meta-analysis of single versus multiple component revision TKA for instability using large national database (n=7,444) with survivorship data directly informs a common and consequential surgical decision.",
+      "bullets": [
+        "Single-component revision for TKA instability nearly doubled in use from 2010 to 2024, rising from 26% to 47% of all instability revisions nationally.",
+        "Five-year re-revision rates were equivalent between single-component and multiple-component revision, at 85.4% and 86.7% survival respectively.",
+        "For surgeons managing TKA instability, isolated polyethylene exchange or femoral component revision can be a reasonable option without increasing the risk of needing another revision."
+      ]
+    },
+    {
+      "pmid": "42949575",
+      "title": "What Is the 40-year Survivorship of Periacetabular Osteotomy Free From Conversion to THA?",
+      "authors": [
+        "Hirt J",
+        "Roshardt J",
+        "Siebenrock KA",
+        "Ganz R",
+        "Steppacher SD",
+        "Tannast M"
+      ],
+      "authors_short": "Hirt J, Roshardt J, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Periacetabular osteotomy (PAO) is a widely accepted technique for the surgical treatment of symptomatic acetabular dysplasia with reproducibly favorable short- and midterm outcomes. Long-term follow-up studies are essential because PAO is performed in young patients with the aim of preserving the native hip for many decades. However, follow-up of 30 years remains scarce, and no study has reported 40-year outcomes after PAO. QUESTIONS/PURPOSES: (1) What is the cumulative 40-year survivorship free from conversion to THA? (2) How did hip function change and osteoarthritis progress during follow-up of the surviving hips? (3) Which preoperative factors were associated with conversion to THA? (4) What clinically relevant thresholds can be identified for preoperative factors associated with conversion to THA? METHODS: This was a retrospective case series of a consecutive, single-surgeon cohort followed longitudinally and previously reported at 10, 20, and 30 years. Between 1984 and 1987, a total of 75 hips (63 patients) were treated with PAO for acetabular dysplasia at the Department of Orthopaedic Surgery of the Inselspital Bern by the originator of the procedure. Of those, 57% (43 of 75) of hips had reached the endpoint (conversion to THA or arthrodesis) before our previous report on this group (published at a minimum of 27 years). Over the entire follow-up, 5 hips (4 patients) in which the patient died with the hip preserved were treated as competing events. Since the previous report, a further 8 hips were converted and 8 hips (6 patients) were lost to follow-up, leaving 11 hips (7 patients) with complete clinical and radiographic follow-up here, all at a minimum of 36 years. During the study period (1984 to 1987), the only indication for PAO was hip dysplasia with closed triradiate cartilage. The study group here consisted of 83% (52 of 63) women, the median (range) patient age at surgery was 26 years (12 to 55), and the median (range) BMI was 22 kg/m2 (16 to 28). A total of 27 hips had previous surgery to attempt sufficient coverage. Clinical and radiographic follow-up was performed at 10-year intervals, at 10, 20, 30, and 40 years after PAO. Survivorship free from conversion to THA was estimated using a competing-risks analysis with death without conversion treated as a competing event. Twelve patients underwent bilateral PAO and contributed two hips each. Because two hips from the same patient are not independent observations, all confidence intervals (CIs) and p values were calculated using a robust variance estimator with the patient as the clustering unit. Clinical scores, hip ROM, and osteoarthritis grade were described at each follow-up. Preoperative factors associated with conversion to THA were analyzed using Cox proportional hazards regression with a robust variance estimator clustered on patient. Thresholds for predictive factors were identified using maximally selected rank statistics. This approach tests every observed value of a factor as a potential dividing line and selects the value producing the greatest difference in survivorship between the two resulting groups. RESULTS: At 40 years, the survivorship free from conversion to THA was 27% (95% CI 12% to 39%). Merle d'Aubign\u00e9-Postel and Harris hip scores improved during the first decade after surgery and remained above the preoperative level at each follow-up visit. Two preoperative factors were independently associated with a higher risk of conversion to THA: a higher T\u00f6nnis osteoarthritis grade (HR 2.3 per 1-grade increase [95% CI 1.4 to 3.9]; p < 0.01) and a positive anterior impingement test result (HR 3.9 versus a negative test result [95% CI 1.9 to 7.7]; p < 0.01). Threshold analysis, which identifies the value of a preoperative factor that best separates hips likely to be preserved from those likely to be converted, identified 28 years for age at surgery. Younger age was therefore associated with a higher likelihood of retaining the native hip. CONCLUSION: PAO provides durable joint preservation in acetabular dysplasia and can delay THA for decades, with 27% of hips remaining free from conversion at 40 years. Preoperative osteoarthritis and a positive anterior impingement test result were associated with conversion to THA. Older age was also associated with conversion, with a threshold of 28 years, although age was related to the degree of joint degeneration at presentation. Patient selection should therefore be based primarily on the preoperative condition of the joint, with younger age at surgery as an additional consideration. LEVEL OF EVIDENCE: Level III, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42949575/",
+      "score": 77,
+      "score_reasoning": "RCT with 3-year follow-up comparing restricted kinematic alignment versus mechanical alignment for TKA published in a reputable journal with functional outcomes across multiple validated scores, with moderate sample size.",
+      "bullets": [
+        "At 40 years, only 27% of hips treated with periacetabular osteotomy for acetabular dysplasia remained free from conversion to total hip arthroplasty.",
+        "Preoperative osteoarthritis grade and a positive anterior impingement test were the strongest predictors of eventual conversion to total hip arthroplasty.",
+        "Patient selection should prioritize joint condition at presentation, with surgery before age 28 offering better odds of long-term hip preservation."
+      ]
+    },
+    {
+      "pmid": "42949220",
+      "title": "Delayed return to sport after fat pad debridement: A surgical effect or a load-tolerance signal?",
+      "authors": [
+        "Han X",
+        "Yang M"
+      ],
+      "authors_short": "Han X, Yang M",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "This Letter responds to the meta\u2011analysis entitled 'Fat pad debridement prolongs return-to-sport: A meta-analysis and meta-regression of surgical interventions for chronic patellar tendinopathy' by Jolly et al., which examined surgical interventions for chronic patellar tendinopathy. We contend that the observed delay should not be attributed solely to the surgical procedure. Fat pad debridement may serve as a marker of a more irritable anterior-knee pain phenotype, given that fat pad pathology frequently coexists with impingement, fibrosis and peritendinous irritation. Furthermore, time to return to sport (RTS) is an incomplete recovery surrogate; meaningful restoration depends on rebuilding tendon load tolerance rather than meeting a single chronological milestone. We therefore advise interpreting the association as a composite signal of procedural, phenotypic and rehabilitative factors. Future prospective studies should document preoperative fat pad status, extent of debridement and criterion-based RTS progression, so as to determine whether fat pad preservation truly accelerates recovery or whether delayed RTS simply identifies athletes needing more individualized load management.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42949220/",
+      "score": 75,
+      "score_reasoning": "Landmark 40-year survivorship data for periacetabular osteotomy from the originator's cohort provides unique long-term evidence relevant to hip preservation decision-making for young patients.",
+      "bullets": [
+        "Fat pad debridement in chronic patellar tendinopathy may mark a more irritable anterior knee pain phenotype rather than directly causing delayed return to sport.",
+        "Return to sport timing alone is an incomplete recovery measure, as tendon load tolerance must be restored before athletes resume competition.",
+        "Surgeons should interpret delayed return to sport after fat pad debridement as a combined signal of surgical, phenotypic, and rehabilitation factors, not a procedural outcome in isolation."
+      ]
+    },
+    {
+      "pmid": "42961058",
+      "title": "Prior Authorizations Approvals and Denials: An Analysis From a Large Orthopaedic Practice.",
+      "authors": [
+        "Strickland A",
+        "Kirk KL",
+        "Kean C"
+      ],
+      "authors_short": "Strickland A, Kirk KL, Kean C",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Prior authorization (PA) programs are now pervasive in the healthcare system, designed to promote cost-effective care. However, these programs often result in notable delays and increased administrative workload for providers. Nationally, 93% of physicians report delays in patient care due to PA requirements, and 82% have observed patients abandoning treatment because of these barriers. This study evaluates the operational and clinical impact of PA within a large orthopaedic practice of more than 40 physicians in San Antonio, Texas. METHODS: A retrospective analysis was conducted using electronic health record data from TSAOG Orthopaedics and Spine (TSAOG). The study included all PA requests for imaging, procedures, and orthopaedic surgeries submitted between January 1 and December 31, 2020. Key metrics assessed were approval and denial rates, delays in patient care, and the financial and staffing resources dedicated to PA management. At TSAOG, a centralized team of authorization specialists manages all PA requests. RESULTS: This analysis included 30,003 PA requests in 2020. Ninety-seven percent of all requests for authorization were approved first try. An additional 2% of requests were ultimately approved on appeal. Only 1% of requests were definitively denied after appeals. The analysis found that the centralized PA process resulted in substantial operational costs and staff time dedicated to managing authorizations. Care delays and increased administrative burdens were prominent, with many requests requiring appeals and additional documentation, further contributing to resource use. CONCLUSION: Although PA programs are intended to enhance care quality and reduce unnecessary healthcare spending, this study demonstrates that they frequently impose notable burdens on both patients and medical providers. The substantial delays in care and resource consumption observed at TSAOG reflect a broader national issue. These findings highlight the urgent need for reform in PA processes to ensure that they support, rather than hinder, timely patient care and practice efficiency.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42961058/",
+      "score": 74,
+      "score_reasoning": "Large database study (735,259 orthopaedic procedures) revealing high prevalence of undiagnosed dysglycemia and its association with 30-day readmission is directly applicable to perioperative risk optimization across all orthopaedic subspecialties.",
+      "bullets": [
+        "At a large orthopaedic practice, 97% of prior authorization requests were approved on the first attempt, with 99% ultimately approved after appeals and only 1% definitively denied.",
+        "Despite near-universal approval rates, managing over 30,000 annual requests consumed significant staff time and resources, creating meaningful care delays for orthopaedic patients.",
+        "These findings suggest that prior authorization programs impose substantial administrative burden on orthopaedic practices without meaningfully filtering out inappropriate care."
+      ]
+    },
+    {
+      "pmid": "42962064",
+      "title": "Internal Brace Augmentation for Scapholunate Interosseous Ligament Injuries Is Supported by Limited Evidence and Is Associated With Early Failures: A Systematic Review.",
+      "authors": [
+        "Roh YT",
+        "Lee JY",
+        "Im JH",
+        "Park JW",
+        "Park IJ"
+      ],
+      "authors_short": "Roh YT, Lee JY, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Internal brace augmentation, a recently introduced technique using synthetic suture tape, has emerged as an adjunct to scapholunate ligament repair or reconstruction that provides immediate biomechanical stability and may facilitate earlier rehabilitation. Although early case reports have demonstrated rapid pain relief and functional recovery, recent mid- to long-term studies have raised concerns regarding perianchor osteolysis and late structural failure. To date, no systematic review of which we are aware has evaluated the discrepancy between favorable short-term clinical outcomes and emerging long-term concerns (perianchor osteolysis and structural failure). QUESTIONS/PURPOSES: (1) Does internal brace augmentation improve pain, function, and disability in patients with scapholunate interosseous ligament (SLIL) injury? (2) Does internal brace augmentation achieve durable radiographic correction of carpal alignment? (3) What proportion of patients had perianchor osteolysis and structural failure? METHODS: We performed a systematic review according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 guidelines and registered the protocol in PROSPERO (CRD420261355353). PubMed, Embase, Web of Science Core Collection, the Cochrane Central Register of Controlled Trials, and Google Scholar were searched from inception through April 3, 2026. We included studies reporting clinical or radiographic outcomes of internal brace augmentation for SLIL injury in adults, with at least five patients and a minimum follow-up of 12 months, and excluded cadaver studies, technique descriptions without patient outcomes, review articles, and case reports with fewer than five patients. Methodological quality was assessed using the Methodological Index for Non-Randomized Studies (MINORS). Owing to clinical and methodological heterogeneity, no meta-analysis was performed; results were synthesized narratively. Eleven studies (161 wrists, 160 patients) were included. Of these, two were comparative studies and nine were single-arm series; four studies assessed perianchor osteolysis and seven did not. Follow-up ranged from 12 to 50 months. RESULTS: In the two comparative studies, adding the internal brace did not improve pain, function, or disability compared with reconstruction or fixation without it. Across the single-arm series, pain and function consistently improved (preoperative VAS pain of 6 to 8 improved to 0 to 4; grip strength 62% to 98% of the contralateral side). Radiographically, the scapholunate gap decreased from 4 to 6 mm preoperatively to 2 to 3 mm at most recent follow-up, and the scapholunate angle improved from a preoperative range of 65\u00b0 to 84\u00b0 to a postoperative range of 52\u00b0 to 67\u00b0. However, the longest follow-up study (mean 50 months, n = 18) reported structural failure (loss of reduction or attritional rupture of the construct) in 44% of patients. Among the studies that assessed osteolysis, the proportion of patients with perianchor osteolysis was 47% at 14 months, 36% at 16 months, and 59% at 50 months, whereas a single all-arthroscopic study reported 0% at 16 months. One comparative study reported osteolysis in 36% of the internal brace cohort versus 0% in the reduction and association of the scaphoid and lunate (RASL) control group, suggesting that this complication may be related to the internal brace construct. Most studies had short and often incomplete follow-up, less rigorous (unblinded, nonindependent) outcome assessment, and probable selection bias. These limitations most likely overestimated the apparent benefit and underestimated the harm of the technique. CONCLUSION: Most of the included studies lacked suitable comparator groups, did not assess key endpoints such as patient-reported outcomes and structural failure (including osteolysis), or did not follow patients long enough to detect all relevant harms; the apparent benefits of internal brace augmentation are therefore likely overstated. In the only study with follow-up beyond 4 years, structural failure of the anchor construct occurred in nearly one-half of patients, and osteolysis was already evident, both of which are concerning. Surgeons should counsel patients about the risks of late structural failure and perianchor osteolysis. Prospective studies with regular radiographic surveillance and a minimum follow-up of 5 years are needed before this technique is routinely adopted. LEVEL OF EVIDENCE: Level IV, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42962064/",
+      "score": 73,
+      "score_reasoning": "Systematic review and meta-analysis of internal brace augmentation for scapholunate ligament injuries raising important concerns about early structural failures and osteolysis addresses a trending technique with high novelty and clinical relevance.",
+      "bullets": [
+        "Internal brace augmentation for scapholunate ligament injuries does not improve pain or function over standard repair or fixation when compared directly.",
+        "In the longest follow-up study at 50 months, 44% of wrists had structural failure of the construct and up to 59% developed perianchor osteolysis.",
+        "Surgeons should counsel patients on the real risk of late failure and bone resorption before offering this technique outside of a research setting."
+      ]
+    },
+    {
+      "pmid": "42982320",
+      "title": "Rotator Cuff Repair with Concomitant Biceps Tenodesis is Cost-Effective at Mid-Term Follow-up: A Systematic Review and Cost-Effective Analysis.",
+      "authors": [
+        "Berreta RS",
+        "Badin D",
+        "Koyejo LD",
+        "Chan D",
+        "Ashkar A",
+        "Siragusa J",
+        "Harris E",
+        "Fox H",
+        "Jain A",
+        "Srikumaran U"
+      ],
+      "authors_short": "Berreta RS, Badin D, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: There is limited evidence describing the cost-effectiveness of isolated rotator cuff repair (RCR) compared to rotator cuff repair with biceps tenodesis (BT) in the treatment of primary rotator cuff tears at mid-term follow-up. PURPOSE: (1) To perform a cost utility analysis comparing RCR to RCR with BT in patients with rotator cuff tears over a 5-year time horizon. METHODS: A decision tree economic model was constructed to evaluate the cost-effectiveness of RCR vs RCR with BT across a 5-year time horizon. Model transition probabilities, costs, and health utility measures, based on EQ-5D (European Quality of Life-5 Dimension) scores, were derived from the literature. Health utility was measured in quality-adjusted life years (QALYs) and cost-effectiveness was based on the incremental cost-effectiveness ratio (ICER) considering a willingness to pay (WTP) threshold of $50,000/QALY. Monte Carlo probabilistic and one-way sensitivity analysis was performed to assess for parameter uncertainty. Each cycle length was defined as 1 year, and 5-year costs and utilities were calculated with 3% annual discounting. RESULTS: Over a 5-year horizon, RCR with BT yielded 3.713 QALYs at a mean cost of $34,182 compared to 3.651 QALYs and $33,372 for RCR alone. RCR with BT was found to be cost-effective with an ICER of $13,064/QALY and a positive net monetary benefit of $2,289. RCR with BT was the preferred treatment in 88.51% of 1,000 simulations on probabilistic sensitivity analysis. One-way sensitivity analyses demonstrated cost-effectiveness for performing RCR with BT was maintained with tenodesis implant costs up to $3,048, revision rates up to 6.7%, and additional operative time up to 53.7 minutes. CONCLUSION: Despite higher upfront costs, performing biceps tenodesis at the time of index rotator cuff repair provides greater quality-adjusted life years and is cost-effective compared to isolated rotator cuff repair at mid-term follow-up. LEVEL OF EVIDENCE: Level III, Economic Study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42982320/",
+      "score": 69,
+      "score_reasoning": "Cost-effectiveness analysis comparing RCR alone versus RCR with biceps tenodesis using decision tree modeling with Monte Carlo analysis over 5-year horizon provides valuable economic evidence for a common surgical decision.",
+      "bullets": [
+        "Adding biceps tenodesis to rotator cuff repair costs roughly $800 more upfront but generates better quality-adjusted outcomes over five years at well below accepted cost-effectiveness thresholds.",
+        "This applies to patients undergoing primary rotator cuff repair where biceps pathology is present and tenodesis is being considered at the time of index surgery.",
+        "Surgeons can justify the added cost of tenodesis as long as implant cost stays under $3,048 and operative time added is under 54 minutes, keeping the procedure cost-effective."
+      ]
+    },
+    {
+      "pmid": "42975569",
+      "title": "Gracilis tendon harvest for ACL reconstruction impairs gracilis muscle volume recovery and may adversely affect adjacent thigh musculature. MRI-based outcomes from a subgroup of patients enroled in the DOSTAR randomized controlled trial.",
+      "authors": [
+        "Davies PSE",
+        "Banziger C",
+        "Lawless AM",
+        "O'Brien SS",
+        "Ebert JR",
+        "Edwards PK",
+        "Tahir M",
+        "Ranjit S",
+        "Mcewan JK",
+        "Malik SS",
+        "D'Alessandro PA"
+      ],
+      "authors_short": "Davies PSE, Banziger C, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: Segmentation of magnetic resonance imaging (MRI) allows accurate calculation of muscle volumes. The Dual Or Single Tendon Anterior cruciate ligament Reconstruction (DOSTAR) study is a prospective randomized controlled trial investigating a semitendinosus (ST) graft with adjustable button tibial fixation versus a dual tendon semitendinosus and gracilis (STG) graft with screw tibial fixation in anterior cruciate ligament reconstruction (ACLR). The purpose of the present study is to investigate differences in thigh muscle volume at 6 and 12 months between these treatment groups. METHODS: Patients were randomized and underwent ACLR using either a ST or STG graft construct. MRI of bilateral thighs was completed at 6 and 12 months post-operatively. Muscle volumes were measured in both thighs at both time points in both groups. RESULTS: A total of 38 patients underwent MRI scanning at 6 and 12 months. There was a significant difference in the interval volume change of gracilis in the STG group compared to the ST group (-1.6\u2009cm3\u2009\u00b1\u20094.6 vs. +2.8\u2009cm3\u2009\u00b1\u20096.8, p\u2009=\u20090.026). Interval gracilis hypertrophy occurred in 35% (7/20) of cases in the STG group and 67% of cases (12/18) in the ST group (p\u2009=\u20090.103). Adductor longus (AddL) also demonstrated a significant difference in interval volume change between the STG and ST group (-2.4\u2009cm3\u2009\u00b1\u200912.0 vs. +11.1\u2009cm3\u2009\u00b1\u200921.2, p\u2009=\u20090.020). AddL hypertrophy occurred in 30% of cases (6/20) in the STG group and 72% (13/18) in the ST group (p\u2009=\u20090.022). All other muscles had no significant differences noted in muscle recovery between groups. Linear regression analysis demonstrated a significant positive relationship between interval changes in gracilis and AddL volumes (p\u2009<\u20090.001). CONCLUSIONS: The present study provides MRI evidence that gracilis tendon harvest was associated with persistent impairment of gracilis muscle recovery and may also adversely affect AddL. This adds to the growing body of evidence supporting the use of ST with adjustable button graft constructs for hamstring ACLR. LEVEL OF EVIDENCE: Level II, subgroup analysis of prospective, double-blinded, randomized controlled trial.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42975569/",
+      "score": 68,
+      "score_reasoning": "Cadaveric biomechanical study comparing kinematic versus mechanical alignment in valgus TKA knees using dynamic muscle-loaded rig provides mechanistic data relevant to evolving TKA alignment philosophy debates.",
+      "bullets": [
+        "Harvesting the gracilis tendon for ACL reconstruction impairs gracilis muscle volume recovery at 12 months compared to using semitendinosus alone.",
+        "Gracilis harvest also reduces adductor longus volume recovery, suggesting the muscle deficit extends beyond the harvested tendon's own muscle belly.",
+        "For ACL reconstruction in patients where preserving thigh muscle mass matters, a semitendinosus-only graft with adjustable button fixation may be preferable to a dual-tendon construct."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-11-05T10:51:44.216428-07:00"
+}
