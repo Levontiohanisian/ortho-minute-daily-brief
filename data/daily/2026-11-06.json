@@ -1,0 +1,303 @@
+{
+  "brief_date": "2026-11-06",
+  "brief_date_display": "Friday, November 06",
+  "candidates": [
+    {
+      "pmid": "42989897",
+      "title": "A Single Intra-articular Injection of Autologous Stromal Vascular Fraction for Moderate-to-Severe Knee Osteoarthritis: Results of a Multicenter Randomized Placebo-Controlled Trial With 12-Month Follow-up.",
+      "authors": [
+        "Garza JR",
+        "Moorman CT",
+        "Baria M",
+        "Santa Maria D",
+        "Bowen J",
+        "Sparks N",
+        "Rubin JP"
+      ],
+      "authors_short": "Garza JR, Moorman CT, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: This randomized controlled trial evaluated the 12-month outcomes of a single intra-articular injection of autologous adipose-derived stromal vascular fraction (SVF), prepared and administered during the same clinical encounter, for the treatment of moderate-to-severe knee osteoarthritis (OA). PURPOSE/HYPOTHESIS: To evaluate the efficacy of a single intra-articular injection of 25 million autologous adipose-derived SVF cells for moderate-to-severe knee OA, compared with placebo, at 12 months. The authors hypothesized that SVF-treated patients would demonstrate a significantly greater responder rate based on prespecified clinically meaningful improvements in pain and function derived from composite outcomes of the index and contralateral knees. STUDY DESIGN: Randomized controlled trial; Level of evidence, 1. METHODS: Adults aged 35 to 85 years with symptomatic unilateral or bilateral knee OA were eligible if the index knee demonstrated a Western Ontario and McMaster Universities Osteoarthritis Index pain score of \u22658, an Outerbridge grade of 2 to 4 on magnetic resonance imaging (MRI), and a Kellgren-Lawrence grade of 2 to 4 on radiographs. Autologous adipose-derived SVF was prepared using a point-of-care isolation system during the same clinical encounter, assessed against predefined release criteria, and administered as a single intra-articular injection into the index knee. MRI of the index knee was obtained at baseline and at 12 months. RESULTS: A total of 618 participants were assessed for eligibility, of whom 114 were randomized (SVF, n = 83; placebo, n = 31). At 12 months, a single intra-articular injection of 25 million SVF cells demonstrated statistical superiority over placebo for the primary composite clinical endpoint. The responder rate was 51.8% (43/83) in the SVF group compared with 29% (9/31) in the placebo group (difference, 22.8% [95% CI, 3.5%-42%]; 1-sided P = .0149). No serious investigational device-related adverse events were reported. CONCLUSION: A single intra-articular injection of 25 million autologous adipose-derived SVF cells resulted in statistically superior and clinically meaningful improvements in pain and function at 12 months compared with placebo, with no serious investigational device-related adverse events reported. REGISTRATION: IDE 16734; ClinicalTrials.gov NCT04440189.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42989897/",
+      "score": 88,
+      "score_reasoning": "High-impact RCT (Level 1) in AJSM with 618 patients evaluating SVF injection for moderate-to-severe knee OA\u2014directly clinically relevant to a common condition with novel biologic treatment approach and robust study design.",
+      "bullets": [
+        "A single injection of fat-derived stromal vascular fraction cells improved pain and function at 12 months in adults with moderate-to-severe knee osteoarthritis, outperforming placebo.",
+        "About half of treated patients met the threshold for meaningful clinical improvement compared with roughly one in three placebo patients.",
+        "No serious treatment-related adverse events were reported, suggesting this same-day, single-injection approach is well tolerated in this patient group."
+      ]
+    },
+    {
+      "pmid": "42988285",
+      "title": "Total Hip Arthroplasty for Femoral Neck Fracture Has Distinct Complication and Revision Risks Compared with Osteoarthritis Through 15 Years.",
+      "authors": [
+        "Boutany M",
+        "Abdelnour D",
+        "Elnaggar A",
+        "Vaidya R",
+        "Little B",
+        "Darwiche H"
+      ],
+      "authors_short": "Boutany M, Abdelnour D, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Total hip arthroplasty (THA) is increasingly used for femoral neck fractures (FNF), but whether outcomes after FNF THA differ from those after osteoarthritis (OA) THA over extended follow-up remains incompletely defined. This study compared complications through 90 days and 15 years following primary THA for FNF versus OA. METHODS: A retrospective cohort study was performed using a large national database. After 1:1 propensity score matching, 53,814 patients who underwent FNF THA were compared with 53,814 patients who underwent OA THA. Complications through 90 days and 15 years were compared using risk differences and risk ratios (RR). Kaplan-Meier analysis evaluated survivorship. RESULTS: Within 90 days, the FNF cohort had higher mortality (6.4 versus 1.4%; RR 4.76, 95% confidence interval (CI): 4.39 to 5.17; P < 0.001) and periprosthetic fracture (PPF) (3.3 versus 1.5%; RR 2.20, 95% CI: 2.03 to 2.39; P < 0.001). Periprosthetic joint infection (PJI), dislocation, and revision THA were also more frequent after FNF THA. At 15 years, PPF remained higher after FNF THA (5.80 versus 3.4%; RR 1.71, 95% CI: 1.61 to 1.81; P < 0.001), as did PJI, dislocation, revision THA, and mortality, whereas mechanical loosening was not increased. Kaplan-Meier analysis demonstrated worse 15-year survival free from PPF (hazard ratio 2.14, 95% CI: 2.02 to 2.27; P < 0.001), revision THA, and PJI in the FNF cohort. CONCLUSION: Compared with OA, THA for FNF was associated with greater 90-day medical risk and higher rates of PJI, PPF, dislocation, revision THA, and mortality through 15 years, whereas mechanical loosening was not increased. These findings demonstrate an outcome-specific risk pattern and support considering fracture-related THA separately from OA THA in patient counseling, planning, and outcomes assessment.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42988285/",
+      "score": 85,
+      "score_reasoning": "International consensus meeting establishing a standardized definition of PJI treatment success\u2014critically important for practice standardization, research interpretation, and clinical communication across a high-impact topic affecting all arthroplasty surgeons.",
+      "bullets": [
+        "Patients who receive THA for femoral neck fracture have nearly five times the 90-day mortality and twice the periprosthetic fracture risk compared to those treated for osteoarthritis.",
+        "These elevated risks persist to 15 years, with higher rates of dislocation, infection, revision, and periprosthetic fracture, though mechanical loosening rates are similar between the two groups.",
+        "Surgeons should counsel fracture THA patients separately from osteoarthritis THA patients, as the long-term risk profile is meaningfully different and warrants distinct expectations and follow-up planning."
+      ]
+    },
+    {
+      "pmid": "42988286",
+      "title": "2025 International Consensus Meeting Definition of Success for Treatment of Periprosthetic Joint Infection.",
+      "authors": [
+        "Tarabichi S",
+        "Verhey JT",
+        "Bhandari M",
+        "Diaz-Ledezma C",
+        "Vaznaisiene D",
+        "Bingham JS",
+        "Mont MM",
+        "Spangehl MJ",
+        "Parvizi J"
+      ],
+      "authors_short": "Tarabichi S, Verhey JT, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "Periprosthetic joint infection (PJI) remains one of the most devastating complications following total joint arthroplasty (TJA). Nevertheless, a universally accepted definition of treatment success and failure has not been described to date. Current definitions each carry major limitations that fail to account for the full spectrum of clinical scenarios encountered in practice and do not adequately reflect the evolving understanding of PJI pathogenesis. Consequently, reported treatment success rates vary widely across the literature, ranging from 54.2 to 88.9%. The purpose of this initiative was to engage the orthopaedic and infectious disease communities to establish a revised, practical, and consensus-driven definition for PJI treatment outcomes. The 2025 International Consensus Meeting convened a multidisciplinary international workgroup, which defined treatment success as the absence of clinical failure following reimplantation, no revision surgery or reoperation attributable to PJI, no requirement for suppressive antibiotics beyond one year from surgical intervention, and no PJI-related mortality. Outcomes assessment initiates at the time of index surgical intervention, regardless of the procedure performed, and all subsequent revision arthroplasty must be adequately investigated to rule out an infectious etiology. The extent of this evaluation should include serologic markers, joint aspiration, and intraoperative cultures, in accordance with validated diagnostic criteria. It is hoped that adoption of this standardized definition will reduce reporting variability, facilitate more accurate assessment of emerging surgical interventions, and enable meaningful comparison of treatment efficacy across institutions and future studies.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42988286/",
+      "score": 82,
+      "score_reasoning": "Consensus-driven ICM proceedings on shoulder PJI diagnosis from a prestigious meeting published in JSES, filling a critical gap in shoulder-specific diagnostic criteria with strong clinical applicability for shoulder arthroplasty surgeons.",
+      "bullets": [
+        "The 2025 International Consensus Meeting defines PJI treatment success as no clinical failure after reimplantation, no PJI-related reoperation, no suppressive antibiotics beyond one year, and no PJI-related death.",
+        "This definition applies to all patients undergoing surgical treatment for periprosthetic joint infection, with outcomes measured from the time of the index procedure regardless of which operation was performed.",
+        "Adopting this standardized definition should reduce the wide variation in reported success rates (54 to 89%) and allow meaningful comparison of outcomes across institutions and studies."
+      ]
+    },
+    {
+      "pmid": "42987190",
+      "title": "Technology Assistance and Fixed-Bearing Design Were Associated with Higher Revision-Free Survival at 15 Years After UKA: A Cohort Study of 2,234 Consecutive Knees.",
+      "authors": [
+        "Tsukamoto I",
+        "MacInnis BR",
+        "Grimm JA",
+        "Bedard NA",
+        "Sierra RJ",
+        "Pagnano MW",
+        "Abdel MP",
+        "Hannon CP"
+      ],
+      "authors_short": "Tsukamoto I, MacInnis BR, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Unicompartmental knee arthroplasty (UKA) is an alternative to total knee arthroplasty for isolated compartment osteoarthritis; however, concerns persist regarding its long-term durability. The purpose of this study was to evaluate revision-free survivorship, risk factors for revision, and clinical outcomes in a large consecutive series of contemporary UKAs. METHODS: We retrospectively reviewed consecutive primary UKAs performed from 2000 to 2021 at a single tertiary academic center. Revision-free survivorship was estimated using a Kaplan-Meier analysis, and risk factors for revision were assessed using Cox proportional hazards modeling. Clinical outcomes were assessed using the Knee Society Score (KSS). RESULTS: A total of 2,234 UKAs were included. Fixed-bearing implants were used in 78% of UKAs. Technology assistance was used in 59% of UKAs (fluoroscopy, 43%; robotic assistance, 15%; computer navigation, 1%). The mean patient age was 65 years, the mean body mass index was 31 kg/m2, and 49% of UKAs were performed in female patients. Patient race was White in 97% of UKAs, and patient ethnicity was not Hispanic or Latino in 94%. Revision-free survivorship was 92% at 10 years and 85% at 15 years. Overall, 118 UKAs were revised, most commonly through conversion to total knee arthroplasty (97%). The most frequent indications for revision were progression of osteoarthritis in an adjacent compartment (41%), aseptic loosening (23%), unexplained pain (9%), and hardware failure (9%). Factors associated with a lower risk of revision in the univariable analysis included technology assistance (hazard ratio [HR], 0.4; p < 0.01) and high surgeon volume (HR, 0.5; p < 0.01). Mobile-bearing design (HR, 1.9; p < 0.01) was associated with an increased risk of revision in the univariable analysis. The mean KSS improved from 47 preoperatively to 75 at 5 years postoperatively (p < 0.001). CONCLUSIONS: In this large consecutive series, UKA demonstrated excellent long-term survivorship, with an approximately 1% annual risk of revision through 15 years. Technology assistance, a fixed-bearing implant design, and high surgeon volume were each associated with a lower risk of revision, underscoring the importance of operative technique and implant selection in achieving durable outcomes. LEVEL OF EVIDENCE: Therapeutic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42987190/",
+      "score": 80,
+      "score_reasoning": "Large propensity-matched retrospective cohort (n=107,628) in Journal of Arthroplasty comparing 90-day and 15-year outcomes of THA for femoral neck fracture vs. OA, providing highly clinically relevant long-term risk data with strong sample size.",
+      "bullets": [
+        "In 2,234 consecutive UKAs followed to 15 years, revision-free survival was 92% at 10 years and 85% at 15 years, with disease progression to an adjacent compartment being the most common reason for revision.",
+        "Use of technology assistance (fluoroscopy or robotics) and fixed-bearing implant design were each independently associated with a lower risk of revision, while mobile-bearing designs carried nearly twice the revision risk.",
+        "For surgeons performing UKA, implant choice and use of intraoperative technology guidance appear to meaningfully influence long-term durability, making these factors worth considering in surgical planning."
+      ]
+    },
+    {
+      "pmid": "42989881",
+      "title": "Microfracture at the Acetabular Rim as Biological Augmentation of Labral Reconstruction Improves Autograft Vascularization and Integration: A Porcine Model.",
+      "authors": [
+        "Jun H",
+        "Yiling T",
+        "Yonglie Z",
+        "Ying Z",
+        "Yang P",
+        "Lingchuan G",
+        "Ran X",
+        "Chenjun H",
+        "Yao T",
+        "Gang C",
+        "Tiao S",
+        "Guangxing C"
+      ],
+      "authors_short": "Jun H, Yiling T, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Labral reconstruction is used for irreparable acetabular labral tears, but graft incorporation is often limited by insufficient vascular ingrowth. Bone marrow stimulation at the acetabular rim may enhance revascularization and promote biological healing. PURPOSE: To determine whether acetabular rim microfracture improves vascularization and tissue integration of labral autografts compared with reconstruction alone in a porcine model. STUDY DESIGN: Controlled laboratory study. METHODS: A total of 36 skeletally mature pigs were randomized to labral reconstruction with acetabular rim microfracture (RCMC) or reconstruction alone (RC). A 10-mm segment of the acetabular labrum was resected to create a standardized defect. In the RCMC group, the acetabular rim was microfractured with multiple 2-mm holes, followed by autograft reconstruction with an Achilles tendon graft fixed to the rim. In the RC group, the same reconstruction was performed without microfracture. Hips were harvested at 6, 12, and 24 weeks for macroscopic and histological analysis. RESULTS: At 12 and 24 weeks, RCMC hips more often showed complete defect filling and smoother articular surfaces than RC hips. Histologically, RCMC grafts showed more mature fibrocartilaginous remodeling, whereas RC grafts remained predominantly fibrous on the articular side with a persistent gap from adjacent cartilage. At 6 weeks, vascular distribution was more uniform in RCMC, whereas in RC it was mainly confined to the capsular side; by 24 weeks, both groups showed a native labrum-like peripheral vascular pattern. Compared with RC, RCMC showed a progressive increase in type 2 collagen, indicating more advanced fibrocartilaginous matrix remodeling. Terminal deoxynucleotidyl transferase dUTP nick-end labeling staining showed that apoptosis was higher early in RCMC and then gradually declined, whereas RC showed delayed increases. CONCLUSION: Acetabular rim microfracture enhanced early and uniform revascularization of labral autografts and was associated with more advanced fibrocartilaginous remodeling and more labrum-like integration than reconstruction alone. CLINICAL RELEVANCE: In this porcine segmental labral reconstruction model, acetabular rim microfracture was associated with enhanced histological vascularization, matrix remodeling, and interface integration. These preclinical findings support further investigation of rim microfracture as a potential biological adjunct to labral reconstruction; however, biomechanical and clinical studies are required before its functional effectiveness or clinical applicability can be established.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42989881/",
+      "score": 77,
+      "score_reasoning": "Multicenter RCT evaluating autologous SVF injection for knee OA published in AJSM with strong study design and large sample, providing novel Level 1 evidence for a biologic treatment option with direct clinical relevance.",
+      "bullets": [
+        "In a pig model, adding acetabular rim microfracture to labral autograft reconstruction produced earlier, more uniform graft vascularization and more advanced fibrocartilaginous remodeling than reconstruction alone.",
+        "By 24 weeks, microfracture hips showed better defect filling, smoother articular surfaces, and higher type 2 collagen content, suggesting closer approximation to native labral tissue.",
+        "For patients undergoing labral reconstruction, rim microfracture may improve graft integration as a biological adjunct, but biomechanical and clinical studies are needed before routine use."
+      ]
+    },
+    {
+      "pmid": "42987172",
+      "title": "Hip Fracture Is Associated With Major Wealth Loss.",
+      "authors": [
+        "Vellala S",
+        "Paul S",
+        "Bhattacharyya T"
+      ],
+      "authors_short": "Vellala S, Paul S, Bhattacharyya T",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: The annual cost of hip fractures exceeds $6 billion in the United States. Although the direct healthcare costs related to these fractures are known, the full economic impact on individual families is not well studied. Understanding the economic impacts of disease informs policy and interventions. Therefore, we studied the socioeconomic effect of hip fractures on individual household wealth. METHODS: Data were sourced from the Health and Retirement Study, a longitudinal panel survey. Individuals who sustained a hip fracture between 2000 and 2016 were identified, and total household wealth was tracked from 2 years before the fracture to 4 years after. Cases were matched with controls using propensity score matching based on age, sex, race, and initial wealth. Wilcoxon rank-sum and Wilcoxon signed-rank tests were used to evaluate wealth changes due to the non-normal data distribution. RESULTS: Median wealth declined by 50% after hip fractures. In contrast, the controls' median wealth remained relatively stable, decreasing by 4.8%. Cases had significantly less wealth after 4 years than controls (P = 0.025) and compared with their prefracture levels (P < 0.001). Most wealth loss in cases was due to declines in cash accounts and the value of the primary residence. The middle tertile of initial wealth was most affected, experiencing an approximately 50% decrease. Cases saw decreased stability in permanent housing, and cases without spouses faced an approximately 28% greater decrease in household wealth compared with those with spouses. CONCLUSION: Hip fractures are associated with substantial household wealth reductions, comparable with the financial burden of major illnesses such as cancer. These findings highlight the enormous value of hip fracture prevention and rapid hip fracture recovery. LAY SUMMARY: Sustaining a hip fracture is associated with losing half of household wealth, comparable with the amount lost by people who have cancer.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42987172/",
+      "score": 75,
+      "score_reasoning": "Large consecutive series (n=2,234 UKAs) in JBJS with 15-year survivorship data showing technology assistance and fixed-bearing design improve outcomes, providing highly clinically actionable data for surgeons considering UKA.",
+      "bullets": [
+        "Hip fracture is associated with a 50% median decline in household wealth over four years, compared to a 4.8% decline in matched controls without fracture.",
+        "Middle-income patients are hit hardest, and those without a spouse lose roughly 28% more wealth than married patients after hip fracture.",
+        "The financial devastation of hip fracture is comparable to that of cancer, reinforcing the importance of fracture prevention and efficient orthopaedic recovery pathways."
+      ]
+    },
+    {
+      "pmid": "42975567",
+      "title": "No significant differences in complication and graft failure rates by type of surgery or osteotomy level after slope-reducing osteotomy with ACL reconstruction: A systematic review and meta-analysis.",
+      "authors": [
+        "Pineda T",
+        "Pe\u00f1a J",
+        "Arriagada G",
+        "Ugarte J",
+        "Olivieri R",
+        "Ollivier M"
+      ],
+      "authors_short": "Pineda T, Pe\u00f1a J, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To determine whether anterior cruciate ligament (ACL) graft failure and complication rates differ by type of surgery, osteotomy level, or planned surgical stages in patients undergoing anterior closing wedge high tibial osteotomy combined with ACL reconstruction. METHODS: A systematic review and meta-analysis searched MEDLINE, Scopus, Web of Science, and the Epistemonikos up to September 2026 for studies reporting complications in adults undergoing anterior closing wedge high tibial osteotomy with anterior cruciate ligament reconstruction. Paired reviewers independently screened, extracted, and assessed quality. Random-effects meta-analyses estimated overall proportions and 95% confidence intervals (CIs). Subgroup analyses evaluated differences by type of surgery (primary vs. revision ACL reconstruction), osteotomy level (supratubercular, transtubercular or infratubercular), and number of planned surgical stages (single- or two-stage procedures). RESULTS: Sixteen observational studies comprising 664 patients (673 knees) were included. The estimated graft failure proportion was 1.7% (95% CI: 0.3%-7.9%), with no significant differences by type of surgery (p\u2009=\u20090.091), osteotomy level (p\u2009=\u20090.770) or planned stages (p\u2009=\u20090.736). Frequent postoperative events included symptomatic hardware (7.8%) and complication-related reintervention (4.4%). Major complications were uncommon, including delayed union or non-union (0.4%), deep infections (0.2%), and vascular or thromboembolic events (0.1%). Complication-related reinterventions differed significantly by osteotomy level (p\u2009=\u20090.0016), being higher with multiple techniques compared to infratubercular and supratubercular approaches. Postoperative recurvatum differed significantly by type of surgery (p\u2009=\u20090.0037). The certainty of evidence was rated very low for all outcomes. CONCLUSIONS: Anterior closing wedge high tibial osteotomy combined with ACL reconstruction showed a consistent, low-complication safety profile across type of surgery, osteotomy levels, and planned stages, though very low certainty of evidence indicates insufficient power to detect differences rather than demonstrated equivalence. These findings do not inform optimal treatment strategy or timing, and further prospective comparative studies are needed to define the incremental benefit of slope correction relative to isolated reconstruction. LEVEL OF EVIDENCE: Level IV, systematic review and meta-analysis.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42975567/",
+      "score": 72,
+      "score_reasoning": "Large single-center cohort (n=11,594 TKAs) in KSSTA evaluating cement pocket tibial baseplate design effect on aseptic loosening revision rates, with strong sample size and direct implant selection implications for arthroplasty surgeons.",
+      "bullets": [
+        "In 664 patients undergoing tibial slope-reducing osteotomy combined with ACL reconstruction, the ACL graft failure rate was approximately 1.7% regardless of whether the case was primary or revision, which osteotomy level was used, or whether surgery was staged.",
+        "Symptomatic hardware requiring attention occurred in about 8% of patients, and complication-related reintervention was more common when mixed osteotomy techniques were used compared to a consistent infratubercular or supratubercular approach.",
+        "These results cannot confirm that one surgical strategy is superior to another, as the evidence quality is very low, and surgeons should await prospective comparative data before changing practice based on this review."
+      ]
+    },
+    {
+      "pmid": "42961352",
+      "title": "Is Undiagnosed Dysglycemia Common in Orthopaedic Surgery and Is it Associated With 30-day Outcomes? A Large-database Study.",
+      "authors": [
+        "Schaschinger T",
+        "Munzinger R",
+        "Niederegger T",
+        "Brandt J",
+        "Marcela FO",
+        "Knoedler L",
+        "Rendenbach C",
+        "Heiland M",
+        "Matar DY",
+        "Egloff C",
+        "Nolte PC",
+        "Orgill DP",
+        "Panayi AC",
+        "Hundeshagen G"
+      ],
+      "authors_short": "Schaschinger T, Munzinger R, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Given that patients undergoing orthopaedic surgery frequently share risk factors that are associated with metabolic syndrome, the patients orthopaedic surgeons treat may be especially likely to have undiagnosed dysglycemia. Although its broader impact is documented in other specialties, its specific prevalence and association with postoperative outcomes after orthopaedic procedures remains incompletely defined. Quantifying this hidden burden is important to developing individual risk profiles, refining perioperative decision-making, and establishing targeted preoperative medical management strategies for patients considering orthopaedic surgery. QUESTIONS/PURPOSES: In a large-database study, we asked: (1) In adults who underwent orthopaedic surgery, what proportion of patients had previously undiagnosed dysglycemia? (2) Was undiagnosed dysglycemia associated with increased odds of 30-day readmission and reoperation compared with patients with normoglycemia? (3) What was the relationship between preoperative HbA1c levels and the 30-day risk of complications in patients who underwent orthopaedic surgery? METHODS: Among the 2,990,063 procedures recorded in the American College of Surgeons National Surgical Quality Improvement Program database (2021-2023), 25% (735,259 of 2,990,063) were orthopaedic. After excluding 75% (2,254,804 of 2,990,063) of nonorthopaedic procedures and 16% (493,272 of 2,990,063) of orthopaedic procedures without documented preoperative HbA1c, 8% (241,987 of 2,990,063) of all procedures were analyzed. Patients were assigned to one of eight glycemic groups (normoglycemic, undiagnosed prediabetes, undiagnosed diabetes, or diagnosed diabetes with near-normal, very good, good, poor, and very poor glycemic control) based on diabetes diagnosis and HbA1c level. The study cohort included patients undergoing a range of procedures, primarily consisting of total joint arthroplasty, fracture fixation, and spine surgery. The mean \u00b1 SD patient age was 66 \u00b1 12 years and 56% [134,741 of 241,987] of patients were female. To address the first research question, the percentage of patients with previously undiagnosed dysglycemia in each cohort was measured, supplemented by a best-case sensitivity analysis to provide a conservative estimate for the entire surgical population. The second and third research questions investigated the association of undiagnosed dysglycemia on 30-day odds of readmission and reoperation and the relationship between preoperative HbA1c and 30-day odds of complications, using multivariable logistic regression adjusted for demographic, comorbidity, and procedural factors. To illustrate variation across operations, the 30-day complication rate of patients across HbA1c strata was evaluated for the 10 most frequent primary Current Procedural Terminology-coded procedures. RESULTS: We found that 22% (52,609 of 241,987) of patients with a recorded preoperative HbA1c had undiagnosed prediabetes and 4% (10,690 of 241,987) of patients met the criteria for undiagnosed diabetes. In a best-case sensitivity analysis in which we assumed that all patients without an HbA1c measurement did not have diabetes and had normoglycemia, the smallest percentage of patients with previously undiagnosed dysglycemia would have been 9% (63,299) across all 735,259 patients who underwent orthopaedic surgery. After adjusting for potentially confounding variables, neither prediabetes nor diabetes was independently associated with increased odds of 30-day readmission (adjusted OR 0.95 [95% CI 0.88 to 1.0]; p = 0.12 and adjusted OR 0.99 [95% CI 0.84 to 1.2]; p = 0.94) or reoperation (adjusted OR 0.94 [95% CI 0.85 to 1.0]; p = 0.25 and adjusted OR 0.99 [95% CI 0.84 to 1.2]; p = 0.94) compared with patients with normoglycemia. The adjusted ORs for any 30-day complication were higher in patients with undiagnosed diabetes (adjusted OR 1.1 [95% CI 1.0 to 1.2]; p = 0.03) and increased across HbA1c strata in those with diagnosed diabetes (adjusted OR 1.2, 1.1, 1.2, 1.4, and 2.0; all p \u2264 0.009) compared with patients with normoglycemia. Procedure-level analyses showed consistent patterns with variable magnitude: 30-day rates of any complication in THA rose from 5% (1425 of 27,812) to 17% (49 of 294) across HbA1c strata, whereas 30-day complication rates peaked at 30% (203 of 675) in hinged TKA and at 22% (11 of 49) in revision TKA. On the other hand, 30-day complication rates in shoulder procedures and knee arthroscopy remained uniformly low (< 6%) with minimal variation by HbA1c. CONCLUSION: Unrecognized dysglycemia is common among patients undergoing orthopaedic surgery and is associated with postoperative morbidity. Selective preoperative HbA1c assessment and procedure-specific targets may improve perioperative risk stratification. Examining these effects in clinical studies with procedure-specific preoperative HbA1c screening to identify and appropriately treat patients at risk could help to further validate these findings. LEVEL OF EVIDENCE: Level III, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42961352/",
+      "score": 71,
+      "score_reasoning": "Large database study in CORR identifying undiagnosed dysglycemia prevalence and its association with 30-day outcomes in orthopaedic surgery patients, providing immediately actionable perioperative screening implications for all orthopaedic surgeons.",
+      "bullets": [
+        "In a national database of over 240,000 orthopaedic surgery patients with recorded HbA1c, 22% had undiagnosed prediabetes and 4% had undiagnosed diabetes before their procedure.",
+        "Undiagnosed diabetes was associated with higher 30-day complication rates, and risk rose steadily with worsening glycemic control in patients with known diabetes, particularly in total joint arthroplasty and revision knee procedures.",
+        "Routine preoperative HbA1c screening in orthopaedic patients, especially those undergoing higher-risk procedures, may identify unrecognized dysglycemia and improve perioperative risk stratification."
+      ]
+    },
+    {
+      "pmid": "42962064",
+      "title": "Internal Brace Augmentation for Scapholunate Interosseous Ligament Injuries Is Supported by Limited Evidence and Is Associated With Early Failures: A Systematic Review.",
+      "authors": [
+        "Roh YT",
+        "Lee JY",
+        "Im JH",
+        "Park JW",
+        "Park IJ"
+      ],
+      "authors_short": "Roh YT, Lee JY, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Internal brace augmentation, a recently introduced technique using synthetic suture tape, has emerged as an adjunct to scapholunate ligament repair or reconstruction that provides immediate biomechanical stability and may facilitate earlier rehabilitation. Although early case reports have demonstrated rapid pain relief and functional recovery, recent mid- to long-term studies have raised concerns regarding perianchor osteolysis and late structural failure. To date, no systematic review of which we are aware has evaluated the discrepancy between favorable short-term clinical outcomes and emerging long-term concerns (perianchor osteolysis and structural failure). QUESTIONS/PURPOSES: (1) Does internal brace augmentation improve pain, function, and disability in patients with scapholunate interosseous ligament (SLIL) injury? (2) Does internal brace augmentation achieve durable radiographic correction of carpal alignment? (3) What proportion of patients had perianchor osteolysis and structural failure? METHODS: We performed a systematic review according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 guidelines and registered the protocol in PROSPERO (CRD420261355353). PubMed, Embase, Web of Science Core Collection, the Cochrane Central Register of Controlled Trials, and Google Scholar were searched from inception through April 3, 2026. We included studies reporting clinical or radiographic outcomes of internal brace augmentation for SLIL injury in adults, with at least five patients and a minimum follow-up of 12 months, and excluded cadaver studies, technique descriptions without patient outcomes, review articles, and case reports with fewer than five patients. Methodological quality was assessed using the Methodological Index for Non-Randomized Studies (MINORS). Owing to clinical and methodological heterogeneity, no meta-analysis was performed; results were synthesized narratively. Eleven studies (161 wrists, 160 patients) were included. Of these, two were comparative studies and nine were single-arm series; four studies assessed perianchor osteolysis and seven did not. Follow-up ranged from 12 to 50 months. RESULTS: In the two comparative studies, adding the internal brace did not improve pain, function, or disability compared with reconstruction or fixation without it. Across the single-arm series, pain and function consistently improved (preoperative VAS pain of 6 to 8 improved to 0 to 4; grip strength 62% to 98% of the contralateral side). Radiographically, the scapholunate gap decreased from 4 to 6 mm preoperatively to 2 to 3 mm at most recent follow-up, and the scapholunate angle improved from a preoperative range of 65\u00b0 to 84\u00b0 to a postoperative range of 52\u00b0 to 67\u00b0. However, the longest follow-up study (mean 50 months, n = 18) reported structural failure (loss of reduction or attritional rupture of the construct) in 44% of patients. Among the studies that assessed osteolysis, the proportion of patients with perianchor osteolysis was 47% at 14 months, 36% at 16 months, and 59% at 50 months, whereas a single all-arthroscopic study reported 0% at 16 months. One comparative study reported osteolysis in 36% of the internal brace cohort versus 0% in the reduction and association of the scaphoid and lunate (RASL) control group, suggesting that this complication may be related to the internal brace construct. Most studies had short and often incomplete follow-up, less rigorous (unblinded, nonindependent) outcome assessment, and probable selection bias. These limitations most likely overestimated the apparent benefit and underestimated the harm of the technique. CONCLUSION: Most of the included studies lacked suitable comparator groups, did not assess key endpoints such as patient-reported outcomes and structural failure (including osteolysis), or did not follow patients long enough to detect all relevant harms; the apparent benefits of internal brace augmentation are therefore likely overstated. In the only study with follow-up beyond 4 years, structural failure of the anchor construct occurred in nearly one-half of patients, and osteolysis was already evident, both of which are concerning. Surgeons should counsel patients about the risks of late structural failure and perianchor osteolysis. Prospective studies with regular radiographic surveillance and a minimum follow-up of 5 years are needed before this technique is routinely adopted. LEVEL OF EVIDENCE: Level IV, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42962064/",
+      "score": 65,
+      "score_reasoning": "Internal brace augmentation systematic review in CORR identifying limited evidence and concerning early failure rates for SLIL repair, providing critically important safety signal data for hand surgeons using this increasingly popular technique.",
+      "bullets": [
+        "Internal brace augmentation for scapholunate ligament injuries shows early pain and grip strength gains, but adds no benefit over standard repair or reconstruction in comparative studies.",
+        "In the longest follow-up study (mean 50 months), 44% of patients had structural failure of the construct and up to 59% developed perianchor osteolysis.",
+        "Surgeons treating scapholunate instability should counsel patients about meaningful rates of late hardware failure and bone resorption before choosing internal brace augmentation."
+      ]
+    },
+    {
+      "pmid": "42982323",
+      "title": "Diagnostic Accuracy of the Resisted Anterior Drawer (RAD) Test for Lateral Elbow Instability in Lateral Epicondylitis.",
+      "authors": [
+        "Caekebeke P",
+        "van Riet R"
+      ],
+      "authors_short": "Caekebeke P, van Riet R",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Lateral epicondylitis (LE) is increasingly recognized as a multifactorial condition in which subtle lateral elbow instability may contribute to persistent pain. However, reliable clinical tests to detect such instability are lacking. PURPOSE: To determine the diagnostic accuracy of the resisted anterior drawer (RAD) test for detecting lateral elbow instability in patients with LE. METHODS: Consecutive adult patients diagnosed with LE underwent standardized clinical examination followed by magnetic resonance imaging (MRI). The RAD test was considered positive when pain during resisted wrist extension, with the elbow in extension, decreased by at least 1 point on a visual analogue scale (VAS) with anteromedial stabilization of the radial head. MRI-defined instability was defined as the presence of lateral collateral ligament (LCL) injury, posterior sagging, or ulnohumeral joint-line opening of grade \u22651. Diagnostic indices were calculated with 95% confidence intervals and likelihood ratios, and the continuous reduction in pain was evaluated with receiver operating characteristic (ROC) analysis. RESULTS: A total of 500 elbows were analyzed (mean age: 51 years). MRI evidence of instability was present in 57.4% of elbows. The RAD test demonstrated a sensitivity of 95.8% (95% CI 92.8-97.6%), specificity of 82.2% (95% CI 76.5-86.7%), and overall accuracy of 90.0% (95% CI 87.1-92.3%), with positive and negative likelihood ratios of 5.4 and 0.05. The area under the ROC curve for the reduction in pain was 0.92 (95% CI 0.90-0.95). The magnitude of pain reduction during the RAD maneuver correlated with the severity of MRI-defined instability (Spearman \u03c1 = -0.71). Increasing MRI severity was associated with a higher number of corticosteroid infiltrations, whereas symptom duration showed only a weak association with structural instability. CONCLUSION: In this Level III diagnostic study, the RAD test showed high sensitivity and good specificity for MRI-defined lateral elbow instability in patients with LE, and the magnitude of pain reduction was correlated with MRI-defined severity. These findings suggest that the RAD test may be a useful screening maneuver for instability-related pain in patients with LE. A prospective, blinded cohort study with an independent reference standard is required to confirm its clinical utility. LEVEL OF EVIDENCE: Level III, Diagnostic Study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42982323/",
+      "score": 64,
+      "score_reasoning": "Systematic review and meta-analysis in JSES evaluating PRP vs. corticosteroid injections for subacromial impingement syndrome, providing Level 1 synthesized evidence for a very common clinical decision point in shoulder practice.",
+      "bullets": [
+        "In patients with lateral epicondylitis, over half had MRI-confirmed lateral elbow instability, suggesting instability is a common and underrecognized contributor to persistent elbow pain.",
+        "The resisted anterior drawer test, which checks whether stabilizing the radial head reduces pain during resisted wrist extension, identified lateral instability with 96% sensitivity and 82% specificity.",
+        "For patients with lateral epicondylitis who fail standard treatment, adding the RAD test to clinical examination may help identify those whose pain is driven by instability rather than tendon pathology alone."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-11-06T10:10:20.739476-07:00"
+}
