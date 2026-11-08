@@ -1,0 +1,294 @@
+{
+  "brief_date": "2026-11-08",
+  "brief_date_display": "Sunday, November 08",
+  "candidates": [
+    {
+      "pmid": "42994648",
+      "title": "Pericapsular Nerve Group Block Significantly Reduces Morphine Consumption and Improves Early Recovery Following Primary Total Hip Arthroplasty: A Randomized Double-Blind Sham-Controlled Trial.",
+      "authors": [
+        "Demirk\u0131ran F",
+        "\u00d6zdemir Kol \u0130",
+        "Altun O"
+      ],
+      "authors_short": "Demirk\u0131ran F, \u00d6zdemir Kol \u0130, Altun O",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: The pericapsular nerve group (PENG) block has emerged as a promising regional analgesic technique for hip surgery. However, evidence regarding its opioid-sparing efficacy following primary total hip arthroplasty remains limited. This study evaluated the effect of ultrasound-guided PENG block on postoperative opioid consumption, pain scores, and recovery outcomes following primary total hip arthroplasty. METHODS: In this prospective, randomized, double-blind, sham-controlled trial, 40 patients undergoing elective primary total hip arthroplasty under general anesthesia were randomized to receive either ultrasound-guided PENG block with one mg/kg bupivacaine diluted to 30 mL (n = 20) or a sham procedure with 30 mL saline (n = 20). The primary outcome was cumulative morphine consumption during the first 24 postoperative hours. The secondary outcomes included visual analog scale (VAS) pain scores, time to first rescue analgesia, patient satisfaction, and opioid-related adverse events. Baseline characteristics were comparable between groups. RESULTS: Cumulative morphine consumption was significantly lower in the PENG group throughout the postoperative period and at 24 hours (6.2 \u00b1 3.3 versus 30.2 \u00b1 5.6 mg, P < 0.001), representing an approximately 79% reduction in opioid requirement. The visual analog scale pain scores were significantly lower at all postoperative assessment points (all P < 0.001). Time to first rescue analgesic requirement was significantly prolonged in the PENG group (16.0 \u00b1 0.0 versus 1.4 \u00b1 0.5 hours, P < 0.001). Patient satisfaction was significantly greater in the PENG group (P < 0.001), while postoperative nausea occurred less frequently (zero versus 25%, P = 0.017). There were no block-related complications observed. CONCLUSIONS: Ultrasound-guided PENG block provided effective opioid-sparing analgesia following primary total hip arthroplasty, significantly reducing postoperative morphine consumption and pain scores while improving patient satisfaction and reducing postoperative nausea. These findings support the incorporation of PENG block into multimodal analgesic protocols for total hip arthroplasty.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42994648/",
+      "score": 88,
+      "score_reasoning": "High-quality RCT with direct clinical applicability demonstrating 79% opioid reduction with PENG block in THA, published in a reputable journal with clear practice-changing implications for perioperative pain management.",
+      "bullets": [
+        "In primary total hip arthroplasty patients, a preoperative PENG block cut 24-hour morphine use by roughly 79% compared to sham injection (6 mg vs 30 mg).",
+        "Patients who received the PENG block went about 16 hours before needing rescue analgesia, versus under 2 hours in the control group.",
+        "Adding a PENG block to your multimodal protocol after total hip arthroplasty reduces opioid consumption, lowers pain scores, and cuts postoperative nausea with no reported complications."
+      ]
+    },
+    {
+      "pmid": "42994644",
+      "title": "Comparative Effectiveness of Contemporary Alignment Strategies in Total Knee Arthroplasty: A Systematic Review and Network Meta-Analysis.",
+      "authors": [
+        "Tan GHC",
+        "Lim HA",
+        "Thorpe LR",
+        "Kon Kam King C",
+        "Moo IH"
+      ],
+      "authors_short": "Tan GHC, Lim HA, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Patient-specific alignment strategies are increasingly used in total knee arthroplasty (TKA), but comparative clinical benefit over mechanical alignment (MA) remains uncertain. We compared contemporary alignment strategies using the Forgotten Joint Score (FJS) as the primary outcome. METHODS: There were four bibliographic databases searched from January 2000 to February 2026 for randomized controlled trials (RCTs) and comparative observational studies of primary TKA. Eligible studies compared unrestricted kinematic alignment (uKA), restricted kinematic alignment (rKA), functional alignment (FA), adjusted MA, or inverse restricted kinematic alignment with MA or another strategy. Random-effects pairwise meta-analysis and frequentist network meta-analysis (NMA) were performed to synthesize sparse direct and indirect comparisons across connected alignment strategies. Secondary outcomes were Oxford Knee Score (OKS), Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC), and range of motion (ROM)/flexion. Certainty was assessed using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) framework. There were 61 studies (22 RCTs, 39 observational; 7,822 patients) that were included. RESULTS: Compared with MA, FJS improved with FA (mean difference [MD] 14.24, 95% confidence interval [CI] 3.32 to 25.16), uKA (MD 12.28, 95% CI 9.06 to 15.51), and rKA (MD 8.75, 95% CI 3.41 to 14.08). Only FA exceeded the lower FJS minimal clinically important difference threshold, but heterogeneity was high. Study-design stratification reduced several favorable estimates, including the FJS advantage of uKA over MA, which was larger in observational studies than in RCTs (MD 13.76 versus 7.49). The secondary OKS, WOMAC, and ROM/flexion effects were smaller and generally below accepted clinical thresholds. In NMA, FA and uKA ranked highest for FJS in all-study analyses, whereas RCT-only rankings were less decisive. The GRADE certainty was Low for rKA versus MA FJS and Very Low for other Tier 1 comparisons. CONCLUSION: Contemporary non-mechanical alignment strategies statistically improve FJS after TKA, but clinically meaningful and certain superiority over MA is not established. Longer, adequately powered RCTs are needed before one strategy can be preferred.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42994644/",
+      "score": 85,
+      "score_reasoning": "Large systematic review and meta-analysis of 3,037 knees providing definitive evidence on metaphyseal sleeves in revision TKA with 99.6% osseointegration rate, highly relevant for surgeons managing complex bone defects.",
+      "bullets": [
+        "Kinematic and functional alignment strategies produced statistically higher joint-awareness scores than mechanical alignment after total knee arthroplasty, but only functional alignment crossed the threshold for a clinically meaningful difference.",
+        "When analysis was restricted to randomised controlled trials only, the advantage of unrestricted kinematic alignment over mechanical alignment roughly halved, suggesting observational studies overestimate the benefit.",
+        "Until longer, adequately powered randomised trials report, no single alignment strategy has sufficient evidence to be preferred over mechanical alignment for routine primary total knee arthroplasty."
+      ]
+    },
+    {
+      "pmid": "42989897",
+      "title": "A Single Intra-articular Injection of Autologous Stromal Vascular Fraction for Moderate-to-Severe Knee Osteoarthritis: Results of a Multicenter Randomized Placebo-Controlled Trial With 12-Month Follow-up.",
+      "authors": [
+        "Garza JR",
+        "Moorman CT",
+        "Baria M",
+        "Santa Maria D",
+        "Bowen J",
+        "Sparks N",
+        "Rubin JP"
+      ],
+      "authors_short": "Garza JR, Moorman CT, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: This randomized controlled trial evaluated the 12-month outcomes of a single intra-articular injection of autologous adipose-derived stromal vascular fraction (SVF), prepared and administered during the same clinical encounter, for the treatment of moderate-to-severe knee osteoarthritis (OA). PURPOSE/HYPOTHESIS: To evaluate the efficacy of a single intra-articular injection of 25 million autologous adipose-derived SVF cells for moderate-to-severe knee OA, compared with placebo, at 12 months. The authors hypothesized that SVF-treated patients would demonstrate a significantly greater responder rate based on prespecified clinically meaningful improvements in pain and function derived from composite outcomes of the index and contralateral knees. STUDY DESIGN: Randomized controlled trial; Level of evidence, 1. METHODS: Adults aged 35 to 85 years with symptomatic unilateral or bilateral knee OA were eligible if the index knee demonstrated a Western Ontario and McMaster Universities Osteoarthritis Index pain score of \u22658, an Outerbridge grade of 2 to 4 on magnetic resonance imaging (MRI), and a Kellgren-Lawrence grade of 2 to 4 on radiographs. Autologous adipose-derived SVF was prepared using a point-of-care isolation system during the same clinical encounter, assessed against predefined release criteria, and administered as a single intra-articular injection into the index knee. MRI of the index knee was obtained at baseline and at 12 months. RESULTS: A total of 618 participants were assessed for eligibility, of whom 114 were randomized (SVF, n = 83; placebo, n = 31). At 12 months, a single intra-articular injection of 25 million SVF cells demonstrated statistical superiority over placebo for the primary composite clinical endpoint. The responder rate was 51.8% (43/83) in the SVF group compared with 29% (9/31) in the placebo group (difference, 22.8% [95% CI, 3.5%-42%]; 1-sided P = .0149). No serious investigational device-related adverse events were reported. CONCLUSION: A single intra-articular injection of 25 million autologous adipose-derived SVF cells resulted in statistically superior and clinically meaningful improvements in pain and function at 12 months compared with placebo, with no serious investigational device-related adverse events reported. REGISTRATION: IDE 16734; ClinicalTrials.gov NCT04440189.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42989897/",
+      "score": 84,
+      "score_reasoning": "Large multicenter RCT-level evidence from a network meta-analysis of 7,822 patients comparing alignment strategies in TKA with GRADE assessment, directly applicable to daily practice decisions on alignment philosophy.",
+      "bullets": [
+        "A single intra-articular injection of autologous fat-derived stromal vascular fraction improved pain and function at 12 months in roughly 52% of treated patients versus 29% with placebo.",
+        "The trial enrolled adults aged 35 to 85 with moderate-to-severe knee osteoarthritis confirmed on both MRI and plain radiographs, so findings apply to a broad symptomatic clinic population.",
+        "No serious device-related adverse events occurred, suggesting the same-day fat harvest and injection procedure carries an acceptable short-term safety profile for orthopaedic practice."
+      ]
+    },
+    {
+      "pmid": "42987190",
+      "title": "Technology Assistance and Fixed-Bearing Design Were Associated with Higher Revision-Free Survival at 15 Years After UKA: A Cohort Study of 2,234 Consecutive Knees.",
+      "authors": [
+        "Tsukamoto I",
+        "MacInnis BR",
+        "Grimm JA",
+        "Bedard NA",
+        "Sierra RJ",
+        "Pagnano MW",
+        "Abdel MP",
+        "Hannon CP"
+      ],
+      "authors_short": "Tsukamoto I, MacInnis BR, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Unicompartmental knee arthroplasty (UKA) is an alternative to total knee arthroplasty for isolated compartment osteoarthritis; however, concerns persist regarding its long-term durability. The purpose of this study was to evaluate revision-free survivorship, risk factors for revision, and clinical outcomes in a large consecutive series of contemporary UKAs. METHODS: We retrospectively reviewed consecutive primary UKAs performed from 2000 to 2021 at a single tertiary academic center. Revision-free survivorship was estimated using a Kaplan-Meier analysis, and risk factors for revision were assessed using Cox proportional hazards modeling. Clinical outcomes were assessed using the Knee Society Score (KSS). RESULTS: A total of 2,234 UKAs were included. Fixed-bearing implants were used in 78% of UKAs. Technology assistance was used in 59% of UKAs (fluoroscopy, 43%; robotic assistance, 15%; computer navigation, 1%). The mean patient age was 65 years, the mean body mass index was 31 kg/m2, and 49% of UKAs were performed in female patients. Patient race was White in 97% of UKAs, and patient ethnicity was not Hispanic or Latino in 94%. Revision-free survivorship was 92% at 10 years and 85% at 15 years. Overall, 118 UKAs were revised, most commonly through conversion to total knee arthroplasty (97%). The most frequent indications for revision were progression of osteoarthritis in an adjacent compartment (41%), aseptic loosening (23%), unexplained pain (9%), and hardware failure (9%). Factors associated with a lower risk of revision in the univariable analysis included technology assistance (hazard ratio [HR], 0.4; p < 0.01) and high surgeon volume (HR, 0.5; p < 0.01). Mobile-bearing design (HR, 1.9; p < 0.01) was associated with an increased risk of revision in the univariable analysis. The mean KSS improved from 47 preoperatively to 75 at 5 years postoperatively (p < 0.001). CONCLUSIONS: In this large consecutive series, UKA demonstrated excellent long-term survivorship, with an approximately 1% annual risk of revision through 15 years. Technology assistance, a fixed-bearing implant design, and high surgeon volume were each associated with a lower risk of revision, underscoring the importance of operative technique and implant selection in achieving durable outcomes. LEVEL OF EVIDENCE: Therapeutic Level III. See Instructions for Authors for a complete description of levels of evidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42987190/",
+      "score": 82,
+      "score_reasoning": "Large UKA cohort of 2,234 consecutive knees from JBJS with 15-year survivorship data showing technology assistance and fixed-bearing design improve outcomes, providing high-quality evidence directly applicable to implant selection.",
+      "bullets": [
+        "In 2,234 consecutive UKAs, revision-free survival was 92% at 10 years and 85% at 15 years, with disease progression in adjacent compartments being the most common reason for revision.",
+        "Fixed-bearing implants and technology assistance (fluoroscopy or robotics) were each independently associated with roughly half the revision risk compared to mobile-bearing implants used without technology assistance.",
+        "High surgeon volume also reduced revision risk, meaning implant selection, surgical technique, and case load all directly affect how long a UKA lasts."
+      ]
+    },
+    {
+      "pmid": "42988206",
+      "title": "Proceedings from the 2025 International Consensus Meeting on Orthopedic Infections: Diagnosis of Periprosthetic Shoulder Infection.",
+      "authors": [
+        "Namdari S",
+        "Zmistowski B",
+        "Fiandeiro M",
+        "Gupta S",
+        "Nicholson T"
+      ],
+      "authors_short": "Namdari S, Zmistowski B, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Prosthetic joint infection (PJI) following shoulder arthroplasty is difficult to diagnose because clinical findings are often nonspecific, conventional diagnostic tests have variable sensitivity, and Cutibacterium acnes (C. acnes) may cause indolent infection with limited systemic inflammatory response. Diagnostic criteria have also largely been adapted from hip and knee arthroplasty with limited shoulder-specific validation. This International Consensus Meeting (ICM) reviewed the available evidence and developed consensus recommendations for the diagnosis of shoulder PJI. METHODS: The Shoulder Group of the 2025 ICM on Orthopedic Infections included international shoulder surgeons, infectious disease physicians, and microbiology experts experienced in shoulder arthroplasty and PJI. Thirty-two diagnostic questions underwent question-specific literature review, presentation to the consensus group, discussion, and voting. A modified Delphi process was used to establish consensus. Delegates voted to agree, disagree, or abstain. Consensus was categorized by percentage agreement, while strength of recommendation was assessed separately based on evidence quality, consistency, and directness. RESULTS: Consensus was achieved for 31 analyzed questions, with agreement ranging from 72% to 100%; 29 resulted in recommendations for clinical practice and 2 were identified as requiring further research. Question 47, which addressed the definition of PJI, was reported separately. Humeral component loosening, erythrocyte sedimentation rate (ESR), and C-reactive protein (CRP) were supported as components of the diagnostic criteria, whereas cloudy fluid, postoperative stiffness, serum WBC count, and D-dimer were not supported as independent criteria. Arthroscopic tissue biopsy, frozen section, and selective ultrasound-guided aspiration or synovial biopsy were supported as adjuncts to diagnosis. Five intraoperative tissue specimens, prolonged aerobic and anaerobic culture incubation, and routine perioperative antibiotic prophylaxis were supported. Next-generation sequencing (NGS) and synovial neutrophil testing were supported as adjuncts; alpha-defensin was considered potentially useful but insufficiently validated for formal inclusion; and leukocyte esterase inclusion was not recommended. Routine use of bone scintigraphy, magnetic resonance imaging (MRI), computed tomography (CT), single-photon emission computed tomography (SPECT), or positron emission tomography/computed tomography (PET/CT) was not supported. Evidence remained insufficient to determine the clinical significance of polymicrobial molecular results or routine negative control samples. CONCLUSION: The 2025 ICM provides a consensus framework for the diagnosis of shoulder PJI, identifying several measures that can be incorporated into current clinical practice. However, substantial uncertainty remains because most recommendations are supported by limited evidence and several diagnostic tests lack sufficient sensitivity. Prospective, shoulder-specific studies are needed to define diagnostic thresholds and determine the role of emerging molecular, biomarker, and imaging modalities.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42988206/",
+      "score": 80,
+      "score_reasoning": "ICM consensus defining PJI treatment success with multidisciplinary international input addresses a critical gap in standardizing outcomes reporting, directly impacting how surgeons measure and report infection treatment results.",
+      "bullets": [
+        "ESR and CRP are supported diagnostic markers for periprosthetic shoulder infection, while serum WBC, D-dimer, and cloudy fluid were not endorsed as independent criteria.",
+        "For suspected shoulder prosthetic joint infection, five intraoperative tissue cultures with prolonged incubation are recommended, and next-generation sequencing and synovial neutrophil testing are accepted adjuncts.",
+        "Routine advanced imaging including MRI, CT, bone scan, and PET/CT is not supported for diagnosing periprosthetic shoulder infection, and alpha-defensin lacks sufficient validation for formal inclusion."
+      ]
+    },
+    {
+      "pmid": "42999679",
+      "title": "Femoral Stem Design Influences Early Periprosthetic Fracture Risk Following Total Hip Arthroplasty.",
+      "authors": [
+        "Krez AN",
+        "Toomey SD",
+        "Swanson KC",
+        "Herndon CL",
+        "Danoff JR"
+      ],
+      "authors_short": "Krez AN, Toomey SD, et al.",
+      "journal": "Arthroplasty today",
+      "journal_abbrev": "Arthroplast Today",
+      "year": "2026",
+      "abstract": "BACKGROUND: Periprosthetic femur fracture (PFF) is a significant complication following total hip arthroplasty (THA). Modern collared, triple-taper metaphyseal-filling stems may reduce fracture risk. This study compared a triple-taper metaphyseal stem with other cementless designs to assess early PFF risk, fracture risk by age and bone quality, and the impact of collar position. METHODS: This retrospective study analyzed 774 primary cementless THAs, including triple-taper metaphyseal (n = 311), single-wedge (n = 294), double-wedge (n = 116), and gradual taper/metadiaphyseal-filling (n = 53) stems. Triple-taper stems were implanted through a prospective multicenter trial, while comparison stems were from a single health system. Patients were stratified by stem design, age, Dorr classification, and collar position. The primary outcome was 90-day PFF. RESULTS: PFF occurred in 53 patients (6.8%), including 15 (1.9%) postoperative fractures requiring reoperation. Patients with PFF were older (P < .001) and predominantly female (P = .02). Triple-taper stems demonstrated lower PFF risk than other designs (odds ratio 0.20; 95% confidence interval, 0.08-0.48; P < .001). PFF rates were 1.9% for triple-taper, 7.8% for single-wedge, 14.7% for double-wedge, and 13.2% for gradual taper stems (all P < .001). Differences persisted across age groups and Dorr A/B femurs. Proud collar positioning increased PFF risk (6.3% vs 0.8%; P = .02). CONCLUSIONS: Collared, triple-taper metaphyseal stems were associated with lower early PFF risk across patient ages and bone quality profiles. Seating the collar on the calcar further reduced fracture incidence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42999679/",
+      "score": 79,
+      "score_reasoning": "Retrospective comparative study of 774 THAs showing triple-taper metaphyseal stems have significantly lower early PFF risk (1.9% vs up to 14.7%), with direct implant selection implications though limited by mixed data sources.",
+      "bullets": [
+        "Triple-taper metaphyseal stems had a 1.9% early periprosthetic fracture rate versus 7.8 to 14.7% for single-wedge, double-wedge, and gradual taper designs in primary cementless total hip arthroplasty.",
+        "The fracture risk advantage of triple-taper stems held across all age groups and both Dorr A and B bone quality profiles, so stem choice matters regardless of patient age or bone density.",
+        "A proud collar that did not fully seat on the calcar raised the periprosthetic fracture rate from 0.8% to 6.3%, making complete collar seating a concrete intraoperative target."
+      ]
+    },
+    {
+      "pmid": "42994101",
+      "title": "Greater eccentric hamstrings to concentric quadriceps strength ratio at 6 months after anterior cruciate ligament reconstruction is associated with reduced odds of revision within 2 years.",
+      "authors": [
+        "H\u00f6gberg J",
+        "Cristiani R",
+        "Samuelsson K",
+        "Mikkelsen C",
+        "Hamrin Senorski E"
+      ],
+      "authors_short": "H\u00f6gberg J, Cristiani R, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To investigate the association between eccentric hamstrings-to-concentric quadriceps strength ratio (mixed hamstrings to quadriceps [HQ]-strength ratio) at 6 months postoperatively and revision anterior cruciate ligament reconstruction (ACL-R) within 2 years of primary surgery. The secondary purpose was to investigate the association between the mixed HQ-strength ratio and single-leg hop for distance limb symmetry index (LSI). METHODS: Data were collected from a local registry at Capio Artro Clinic, Stockholm, Sweden. Patients aged \u226515 years, without concomitant ligament injuries and meniscal resection or repair who underwent primary ACL-R with hamstring tendon autografts between 2005 and 2021 were included. Isokinetic eccentric hamstrings and concentric quadriceps strength were assessed using a Biodex dynamometer 6 months postoperatively. Associations between mixed HQ-strength ratio on the ACL-R leg and revision ACL-R were analysed using multivariable logistic regression analysis, presented with odds ratios (ORs), 95% confidence intervals (CIs) and area under the receiver operating characteristics curve (AUC). Associations between mixed HQ-strength ratio and single-leg hop for distance LSI were analysed with linear regression. RESULTS: Of the 3458 patients included, 49.5% were female and the mean age was 28.8\u2009\u00b1\u200910.4 years. Patients who underwent revision ACL-R within 2 years had lower mixed HQ-strength ratio on the ACL-R leg 6 months postoperatively. After adjustment for age at primary ACL-R and preinjury Tegner level, each 10-unit increase in the mixed HQ-strength ratio on the ACL-R leg was associated with lower odds of revision ACL-R (OR\u2009=\u20090.81, 95% CI [0.71;0.93], p\u2009=\u20090.003). However, the discriminatory ability was poor (AUC\u2009=\u20090.64). A greater mixed HQ-strength ratio was associated with poorer single-leg hop for distance LSI, adjusted for age at primary ACL-R and preinjury Tegner level (\u03b2\u2009=\u2009-1.30, 95% CI [-1.51;-1.09], p\u2009<\u20090.001). CONCLUSION: The mixed HQ-strength ratio may complement the evaluation of muscle strength recovery after ACL-R. However, its poor discriminatory ability limits its use to identify patients who will undergo revision ACL-R. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42994101/",
+      "score": 74,
+      "score_reasoning": "Retrospective cohort of 86 MCW-DFOs demonstrating biplanar cut reduces hinge fracture rate 4-fold (19% vs 75%) with non-inferior correction, directly applicable to surgeons performing distal femoral osteotomies.",
+      "bullets": [
+        "In over 3,000 ACL reconstruction patients, a higher eccentric hamstrings to concentric quadriceps strength ratio at 6 months was associated with lower odds of revision surgery within 2 years.",
+        "This finding applies to active patients aged 15 and older who had primary hamstring tendon autograft ACL reconstruction without concurrent ligament or meniscal procedures.",
+        "The ratio adds useful information to routine strength testing after ACL reconstruction, but performs too poorly as a standalone test to reliably predict which individual patients will need revision surgery."
+      ]
+    },
+    {
+      "pmid": "42989881",
+      "title": "Microfracture at the Acetabular Rim as Biological Augmentation of Labral Reconstruction Improves Autograft Vascularization and Integration: A Porcine Model.",
+      "authors": [
+        "Jun H",
+        "Yiling T",
+        "Yonglie Z",
+        "Ying Z",
+        "Yang P",
+        "Lingchuan G",
+        "Ran X",
+        "Chenjun H",
+        "Yao T",
+        "Gang C",
+        "Tiao S",
+        "Guangxing C"
+      ],
+      "authors_short": "Jun H, Yiling T, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Labral reconstruction is used for irreparable acetabular labral tears, but graft incorporation is often limited by insufficient vascular ingrowth. Bone marrow stimulation at the acetabular rim may enhance revascularization and promote biological healing. PURPOSE: To determine whether acetabular rim microfracture improves vascularization and tissue integration of labral autografts compared with reconstruction alone in a porcine model. STUDY DESIGN: Controlled laboratory study. METHODS: A total of 36 skeletally mature pigs were randomized to labral reconstruction with acetabular rim microfracture (RCMC) or reconstruction alone (RC). A 10-mm segment of the acetabular labrum was resected to create a standardized defect. In the RCMC group, the acetabular rim was microfractured with multiple 2-mm holes, followed by autograft reconstruction with an Achilles tendon graft fixed to the rim. In the RC group, the same reconstruction was performed without microfracture. Hips were harvested at 6, 12, and 24 weeks for macroscopic and histological analysis. RESULTS: At 12 and 24 weeks, RCMC hips more often showed complete defect filling and smoother articular surfaces than RC hips. Histologically, RCMC grafts showed more mature fibrocartilaginous remodeling, whereas RC grafts remained predominantly fibrous on the articular side with a persistent gap from adjacent cartilage. At 6 weeks, vascular distribution was more uniform in RCMC, whereas in RC it was mainly confined to the capsular side; by 24 weeks, both groups showed a native labrum-like peripheral vascular pattern. Compared with RC, RCMC showed a progressive increase in type 2 collagen, indicating more advanced fibrocartilaginous matrix remodeling. Terminal deoxynucleotidyl transferase dUTP nick-end labeling staining showed that apoptosis was higher early in RCMC and then gradually declined, whereas RC showed delayed increases. CONCLUSION: Acetabular rim microfracture enhanced early and uniform revascularization of labral autografts and was associated with more advanced fibrocartilaginous remodeling and more labrum-like integration than reconstruction alone. CLINICAL RELEVANCE: In this porcine segmental labral reconstruction model, acetabular rim microfracture was associated with enhanced histological vascularization, matrix remodeling, and interface integration. These preclinical findings support further investigation of rim microfracture as a potential biological adjunct to labral reconstruction; however, biomechanical and clinical studies are required before its functional effectiveness or clinical applicability can be established.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42989881/",
+      "score": 73,
+      "score_reasoning": "Multicenter RCT of 618 patients evaluating SVF injection for knee OA published in AJSM, addressing a high-interest regenerative therapy with rigorous design though applicability depends on regulatory approval and cost.",
+      "bullets": [
+        "In a porcine model, adding acetabular rim microfracture to labral autograft reconstruction produced better graft vascularization, more fibrocartilaginous remodeling, and smoother articular surface filling than reconstruction alone.",
+        "The benefit applies to patients undergoing labral reconstruction for irreparable acetabular labral tears, where graft incorporation is a known weak point.",
+        "Drilling microfracture holes in the acetabular rim at the time of labral reconstruction is a low-cost adjunct that may improve graft healing, though clinical and biomechanical studies are still needed before routine adoption."
+      ]
+    },
+    {
+      "pmid": "42975568",
+      "title": "The presence of cement pockets on the tibial component undersurface is associated with reduced revision for aseptic tibial loosening-A single-centre study of 11,594 total knee arthroplasties.",
+      "authors": [
+        "Firth AM",
+        "Remtulla M",
+        "Vorasatit L",
+        "Nightingale J",
+        "Berber R",
+        "Matar HE",
+        "Van Duren BH",
+        "Bloch BV"
+      ],
+      "authors_short": "Firth AM, Remtulla M, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: Aseptic loosening (AL) remains the most common cause of revision surgery in primary total knee arthroplasty (TKA). Numerous mechanisms to explain the underlying process of AL have been proposed, with tibial implant design thought to influence rates of failure. Tibial baseplates vary in design. The incorporation of a recessed area at the implant-cement interface of the tibial baseplate, a 'cement pocket', may decrease revision for aseptic tibial loosening (ATL). In this study, we assess the effect of such cement pockets on rates of revision for ATL across multiple implant designs. METHODS: We analysed 11,594 consecutive primary cemented total knee arthroplasties (TKAs) performed between April 2003 and December 2023 with a minimum 2-year follow-up. The use of mobile bearing (MB) or fixed bearing (FB) tibial implants and the presence or absence of cement pockets were noted. Revisions and the revision indication were identified using our local database and the National Joint Registry (NJR). Statistical analysis was undertaken to assess the effect of the presence of cement pockets and the tibial articulation (FB or MB) on the rates of all-cause revision as well as revision for ATL. RESULTS: We identified 8591 FB-TKAs; of these, 4753 tibial components incorporated cement pocket design and 3838 did not. There were 3003 MB-TKAs, of which 942 had cement pockets, and 2061 did not. The presence of cement pockets made no significant difference to all-cause revision (ACR) (p\u2009=\u20090.67). Cement pockets did significantly reduce the revision rate for ATL for the whole cohort (p\u2009<\u20090.01) and for FB-TKAs (p\u2009<\u20090.01) but not for MB-TKAs (p\u2009=\u20090.25). CONCLUSIONS: The presence of cement pockets appears to reduce the risk of revision for AL. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42975568/",
+      "score": 71,
+      "score_reasoning": "Large retrospective database study of 17,850 TKAs quantifying tourniquet duration effects on opioid use and stiffness, providing high-power evidence for optimizing a universal surgical variable.",
+      "bullets": [
+        "In over 11,000 cemented primary total knee arthroplasties, tibial baseplates with cement pockets had significantly lower revision rates for aseptic tibial loosening than those without.",
+        "The benefit of cement pockets was seen in fixed bearing designs but not in mobile bearing designs.",
+        "When selecting a cemented tibial component, surgeons should consider preferring a fixed bearing design that incorporates cement pockets to reduce the risk of aseptic loosening revision."
+      ]
+    },
+    {
+      "pmid": "42988206",
+      "title": "Proceedings from the 2025 International Consensus Meeting on Orthopedic Infections: Diagnosis of Periprosthetic Shoulder Infection.",
+      "authors": [
+        "Namdari S",
+        "Zmistowski B",
+        "Fiandeiro M",
+        "Gupta S",
+        "Nicholson T"
+      ],
+      "authors_short": "Namdari S, Zmistowski B, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Prosthetic joint infection (PJI) following shoulder arthroplasty is difficult to diagnose because clinical findings are often nonspecific, conventional diagnostic tests have variable sensitivity, and Cutibacterium acnes (C. acnes) may cause indolent infection with limited systemic inflammatory response. Diagnostic criteria have also largely been adapted from hip and knee arthroplasty with limited shoulder-specific validation. This International Consensus Meeting (ICM) reviewed the available evidence and developed consensus recommendations for the diagnosis of shoulder PJI. METHODS: The Shoulder Group of the 2025 ICM on Orthopedic Infections included international shoulder surgeons, infectious disease physicians, and microbiology experts experienced in shoulder arthroplasty and PJI. Thirty-two diagnostic questions underwent question-specific literature review, presentation to the consensus group, discussion, and voting. A modified Delphi process was used to establish consensus. Delegates voted to agree, disagree, or abstain. Consensus was categorized by percentage agreement, while strength of recommendation was assessed separately based on evidence quality, consistency, and directness. RESULTS: Consensus was achieved for 31 analyzed questions, with agreement ranging from 72% to 100%; 29 resulted in recommendations for clinical practice and 2 were identified as requiring further research. Question 47, which addressed the definition of PJI, was reported separately. Humeral component loosening, erythrocyte sedimentation rate (ESR), and C-reactive protein (CRP) were supported as components of the diagnostic criteria, whereas cloudy fluid, postoperative stiffness, serum WBC count, and D-dimer were not supported as independent criteria. Arthroscopic tissue biopsy, frozen section, and selective ultrasound-guided aspiration or synovial biopsy were supported as adjuncts to diagnosis. Five intraoperative tissue specimens, prolonged aerobic and anaerobic culture incubation, and routine perioperative antibiotic prophylaxis were supported. Next-generation sequencing (NGS) and synovial neutrophil testing were supported as adjuncts; alpha-defensin was considered potentially useful but insufficiently validated for formal inclusion; and leukocyte esterase inclusion was not recommended. Routine use of bone scintigraphy, magnetic resonance imaging (MRI), computed tomography (CT), single-photon emission computed tomography (SPECT), or positron emission tomography/computed tomography (PET/CT) was not supported. Evidence remained insufficient to determine the clinical significance of polymicrobial molecular results or routine negative control samples. CONCLUSION: The 2025 ICM provides a consensus framework for the diagnosis of shoulder PJI, identifying several measures that can be incorporated into current clinical practice. However, substantial uncertainty remains because most recommendations are supported by limited evidence and several diagnostic tests lack sufficient sensitivity. Prospective, shoulder-specific studies are needed to define diagnostic thresholds and determine the role of emerging molecular, biomarker, and imaging modalities.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42988206/",
+      "score": 69,
+      "score_reasoning": "Retrospective cohort of 445 patients comparing suprapectoral versus subpectoral biceps tenodesis from a multicenter prospective cohort, showing higher Popeye sign with suprapectoral technique but otherwise equivalent outcomes.",
+      "bullets": [
+        "ESR and CRP are supported diagnostic markers for periprosthetic shoulder infection, but serum WBC, D-dimer, and cloudy fluid are not endorsed as standalone criteria.",
+        "For suspected shoulder prosthetic joint infection, five intraoperative tissue cultures with prolonged incubation are recommended, reflecting the indolent nature of Cutibacterium acnes.",
+        "Alpha-defensin, next-generation sequencing, and synovial neutrophil testing may assist diagnosis, but routine advanced imaging and leukocyte esterase are not currently supported."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-11-08T09:31:28.049898-07:00"
+}
