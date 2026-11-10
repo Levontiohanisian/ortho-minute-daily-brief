@@ -1,0 +1,300 @@
+{
+  "brief_date": "2026-11-10",
+  "brief_date_display": "Tuesday, November 10",
+  "candidates": [
+    {
+      "pmid": "42994648",
+      "title": "Pericapsular Nerve Group Block Significantly Reduces Morphine Consumption and Improves Early Recovery Following Primary Total Hip Arthroplasty: A Randomized Double-Blind Sham-Controlled Trial.",
+      "authors": [
+        "Demirk\u0131ran F",
+        "\u00d6zdemir Kol \u0130",
+        "Altun O"
+      ],
+      "authors_short": "Demirk\u0131ran F, \u00d6zdemir Kol \u0130, Altun O",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: The pericapsular nerve group (PENG) block has emerged as a promising regional analgesic technique for hip surgery. However, evidence regarding its opioid-sparing efficacy following primary total hip arthroplasty remains limited. This study evaluated the effect of ultrasound-guided PENG block on postoperative opioid consumption, pain scores, and recovery outcomes following primary total hip arthroplasty. METHODS: In this prospective, randomized, double-blind, sham-controlled trial, 40 patients undergoing elective primary total hip arthroplasty under general anesthesia were randomized to receive either ultrasound-guided PENG block with one mg/kg bupivacaine diluted to 30 mL (n = 20) or a sham procedure with 30 mL saline (n = 20). The primary outcome was cumulative morphine consumption during the first 24 postoperative hours. The secondary outcomes included visual analog scale (VAS) pain scores, time to first rescue analgesia, patient satisfaction, and opioid-related adverse events. Baseline characteristics were comparable between groups. RESULTS: Cumulative morphine consumption was significantly lower in the PENG group throughout the postoperative period and at 24 hours (6.2 \u00b1 3.3 versus 30.2 \u00b1 5.6 mg, P < 0.001), representing an approximately 79% reduction in opioid requirement. The visual analog scale pain scores were significantly lower at all postoperative assessment points (all P < 0.001). Time to first rescue analgesic requirement was significantly prolonged in the PENG group (16.0 \u00b1 0.0 versus 1.4 \u00b1 0.5 hours, P < 0.001). Patient satisfaction was significantly greater in the PENG group (P < 0.001), while postoperative nausea occurred less frequently (zero versus 25%, P = 0.017). There were no block-related complications observed. CONCLUSIONS: Ultrasound-guided PENG block provided effective opioid-sparing analgesia following primary total hip arthroplasty, significantly reducing postoperative morphine consumption and pain scores while improving patient satisfaction and reducing postoperative nausea. These findings support the incorporation of PENG block into multimodal analgesic protocols for total hip arthroplasty.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42994648/",
+      "score": 88,
+      "score_reasoning": "High-impact RCT-level finding from a large database study showing SSRIs independently increase transfusion and PJI risk after THA despite TXA use, with direct and immediate prescribing/risk-stratification implications for practicing arthroplasty surgeons.",
+      "bullets": [
+        "In primary total hip arthroplasty patients, a preoperative PENG block cut 24-hour morphine use by roughly 79% compared to sham (6.2 mg vs 30.2 mg).",
+        "Patients who received the PENG block went over 16 hours before needing rescue analgesia, versus about 1.4 hours in the control group.",
+        "For elective total hip arthroplasty under general anaesthesia, adding a PENG block to the multimodal regimen meaningfully reduces opioid requirements, pain scores, and postoperative nausea."
+      ]
+    },
+    {
+      "pmid": "42994647",
+      "title": "Height, Bone Quality, and Osteoarthritis Severity Predict Posterior Cruciate Ligament Footprint Injury Despite Using Robotic-Assisted Technology in Total Knee Arthroplasty.",
+      "authors": [
+        "Leggieri F",
+        "Wood JA",
+        "Sergis N",
+        "Wernecke GC",
+        "Chen DB",
+        "MacDessi SJ"
+      ],
+      "authors_short": "Leggieri F, Wood JA, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Robotic-assisted (RA) total knee arthroplasty (TKA) with haptic boundary protection allows preservation of posterior cruciate ligament (PCL) integrity to preserve native ligament function. This study aimed to identify pre- and intraoperative predictors of PCL footprint injury during RA cruciate-retaining TKA. METHODS: This prospective study analyzed 243 consecutive RA TKAs performed between January and August 2025. The PCL tibial footprint status was graded at the time of prosthetic implantation as intact or compromised. Data collection included demographics, preoperative alignment, osteoarthritis grading using International Cartilage Repair Society classification, bone quality assessment (5-point scale), and tibial resection thickness. The primary outcome was identification of independent factors predicting PCL footprint injury using multivariate logistic regressions. There were 26 patients (10.7%) who had a PCL footprint injury at the time of prosthetic implantation. RESULTS: There were five independent predictors that emerged from multivariate analyses (Chi-square = 35.0, Akaike Information Criterion (AIC) = 165.2, P = 0.014): poorest bone quality grade (odds ratio (OR) = 30.0, 95% confidence interval (CI): 2.5 to 360, P = 0.012); medial osteoarthritis severity (OR = 2.8, 95% CI: 1.2 to 6.5, P = 0.040); larger medial tibial cuts (OR = 2.2, 95% CI: 1.4 to 3.5, P = 0.010); lateral osteoarthritis severity (OR = 2.0, 95% CI: 1.4 to 2.9, P = 0.005); and patient height (OR = 0.9, 95% CI: 0.8 to 1.0, P = 0.023). A significant height \u00d7 bone quality interaction was detected (Chi-square = 9.8; AIC = 158.5; P = 0.007; OR = 1.1; 95% CI: 1.05 to 1.3; P = 0.003). Significant differences between PCL-intact and PCL-compromised groups included medial tibial cut thickness (6.1 \u00b1 1.3 versus 6.9 \u00b1 0.9 mm, P = 0.001) and lateral osteoarthritis severity (2.4 \u00b1 1.1 vs 3.0 \u00b1 1.0, P = 0.005). CONCLUSION: Patients with shorter stature, poor bone quality, and advanced osteoarthritis are at increased risk for PCL footprint injury during RA TKA. With knowledge of these factors, development of preventative strategies to protect this critical structure is now required.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42994647/",
+      "score": 87,
+      "score_reasoning": "Prospective randomized double-blind sham-controlled trial demonstrating 79% reduction in opioid consumption with PENG block after THA, highly clinically relevant to perioperative pain management in a high-volume procedure.",
+      "bullets": [
+        "PCL tibial footprint injury occurred in about 1 in 10 robotic-assisted cruciate-retaining TKAs despite haptic boundary protection.",
+        "Shorter patients with poor bone quality and advanced medial or lateral osteoarthritis face the highest risk of PCL footprint damage during tibial resection.",
+        "Surgeons should identify these risk factors preoperatively and consider protective intraoperative strategies when planning cruciate-retaining TKA in this patient profile."
+      ]
+    },
+    {
+      "pmid": "42989881",
+      "title": "Microfracture at the Acetabular Rim as Biological Augmentation of Labral Reconstruction Improves Autograft Vascularization and Integration: A Porcine Model.",
+      "authors": [
+        "Jun H",
+        "Yiling T",
+        "Yonglie Z",
+        "Ying Z",
+        "Yang P",
+        "Lingchuan G",
+        "Ran X",
+        "Chenjun H",
+        "Yao T",
+        "Gang C",
+        "Tiao S",
+        "Guangxing C"
+      ],
+      "authors_short": "Jun H, Yiling T, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Labral reconstruction is used for irreparable acetabular labral tears, but graft incorporation is often limited by insufficient vascular ingrowth. Bone marrow stimulation at the acetabular rim may enhance revascularization and promote biological healing. PURPOSE: To determine whether acetabular rim microfracture improves vascularization and tissue integration of labral autografts compared with reconstruction alone in a porcine model. STUDY DESIGN: Controlled laboratory study. METHODS: A total of 36 skeletally mature pigs were randomized to labral reconstruction with acetabular rim microfracture (RCMC) or reconstruction alone (RC). A 10-mm segment of the acetabular labrum was resected to create a standardized defect. In the RCMC group, the acetabular rim was microfractured with multiple 2-mm holes, followed by autograft reconstruction with an Achilles tendon graft fixed to the rim. In the RC group, the same reconstruction was performed without microfracture. Hips were harvested at 6, 12, and 24 weeks for macroscopic and histological analysis. RESULTS: At 12 and 24 weeks, RCMC hips more often showed complete defect filling and smoother articular surfaces than RC hips. Histologically, RCMC grafts showed more mature fibrocartilaginous remodeling, whereas RC grafts remained predominantly fibrous on the articular side with a persistent gap from adjacent cartilage. At 6 weeks, vascular distribution was more uniform in RCMC, whereas in RC it was mainly confined to the capsular side; by 24 weeks, both groups showed a native labrum-like peripheral vascular pattern. Compared with RC, RCMC showed a progressive increase in type 2 collagen, indicating more advanced fibrocartilaginous matrix remodeling. Terminal deoxynucleotidyl transferase dUTP nick-end labeling staining showed that apoptosis was higher early in RCMC and then gradually declined, whereas RC showed delayed increases. CONCLUSION: Acetabular rim microfracture enhanced early and uniform revascularization of labral autografts and was associated with more advanced fibrocartilaginous remodeling and more labrum-like integration than reconstruction alone. CLINICAL RELEVANCE: In this porcine segmental labral reconstruction model, acetabular rim microfracture was associated with enhanced histological vascularization, matrix remodeling, and interface integration. These preclinical findings support further investigation of rim microfracture as a potential biological adjunct to labral reconstruction; however, biomechanical and clinical studies are required before its functional effectiveness or clinical applicability can be established.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42989881/",
+      "score": 83,
+      "score_reasoning": "Level 1 multicenter RCT (618 patients) of SVF injection for moderate-to-severe knee OA published in AJSM, providing high-quality evidence on a rapidly growing orthobiologic intervention of broad interest.",
+      "bullets": [
+        "In a porcine model, adding acetabular rim microfracture to labral autograft reconstruction produced earlier, more uniform graft vascularization and more mature fibrocartilaginous remodeling than reconstruction alone.",
+        "By 24 weeks, grafts augmented with rim microfracture showed better defect filling, smoother articular surfaces, and higher type 2 collagen content compared to grafts fixed without marrow stimulation.",
+        "For surgeons performing labral reconstruction in patients with irreparable tears, rim microfracture is a low-cost adjunct that may improve graft integration, though biomechanical and clinical data are still needed before routine use."
+      ]
+    },
+    {
+      "pmid": "43002783",
+      "title": "Comparison of computed tomography-based tibial torsion measurement techniques reveals significant technique-dependent differences.",
+      "authors": [
+        "Benefelds M",
+        "Juen U",
+        "Kaiser P",
+        "Lindtner R",
+        "Kummann M",
+        "Mayr R"
+      ],
+      "authors_short": "Benefelds M, Juen U, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To compare commonly used computed tomography (CT)-based tibial torsion measurement discrepancies and evaluate their intra- and interobserver agreement, as measurement discrepancies between techniques have not been systematically assessed. METHODS: CT scans from 20 adult patients were retrospectively analysed. Tibial torsion was calculated using two proximal reference axes (posterior tibial plateau tangent and tibial tuberosity axis) and four distal axes (transmalleolar, ankle joint, Jend and Waidelich). Three observers performed all measurements independently and repeated them after 8-12 weeks. Differences among techniques were assessed using repeated-measures analysis of variance with Bonferroni correction. Reliability was evaluated using intraclass correlation coefficients (ICCs). RESULTS: All measurement techniques differed significantly (p\u2009<\u20090.05). Mean tibial torsion was 34.1\u00b0 (standard deviation [SD] 8.6\u00b0) for the transmalleolar axis, 31.2\u00b0 (SD 8.8\u00b0) for the ankle joint axis, 44.2\u00b0 (SD 9.8\u00b0) for the Jend axis and 34.9\u00b0 (SD 9.0\u00b0) for the Waidelich axis. Segmental values revealed a mean supratuberositary torsion of 26\u00b0 (SD 6.7\u00b0) and a mean infratuberositary torsion of 7.9\u00b0 (SD 8.8\u00b0) for the transmalleolar axis, 5.1\u00b0 (SD 8.9\u00b0) for the ankle joint axis, 18.1\u00b0 (SD 10.4\u00b0) for the Jend axis and 8.8\u00b0 (SD 9.1\u00b0) for the Waidelich axis. All techniques showed excellent intra- and interobserver reliability (ICC\u2009>\u20090.89). CONCLUSION: Tibial torsion values depended strongly on the measurement technique used. Technique-specific normative values are essential, and radiology reports should explicitly identify the technique applied. Clinicians must account for these systematic differences when interpreting torsion values and planning derotational osteotomies. LEVEL OF EVIDENCE: Level III, retrospective comparative study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43002783/",
+      "score": 80,
+      "score_reasoning": "Single-surgeon 20.5-year follow-up cohort (1,140 TKAs) demonstrating combined coronal and rotational malalignment as an independent predictor of aseptic revision, with highly clinically meaningful long-term survivorship data.",
+      "bullets": [
+        "CT-based tibial torsion measurements vary by up to 13 degrees depending on which proximal and distal reference axes are used, with the Jend axis consistently producing the highest values.",
+        "All techniques showed excellent reproducibility, so measurement error is not the problem, but technique choice alone determines whether a patient appears normal or pathological.",
+        "Surgeons planning derotational osteotomies must confirm which specific measurement technique was used and apply normative values matched to that same technique, not cross-reference between methods."
+      ]
+    },
+    {
+      "pmid": "42988205",
+      "title": "Platelet-Rich Plasma versus Corticosteroid Injections for Subacromial Impingement Syndrome: Systematic Review and Meta-analysis.",
+      "authors": [
+        "Liu L",
+        "Roemer J",
+        "Gerges PE",
+        "Lugo E",
+        "John DQ",
+        "Lima DJL",
+        "Routman HD"
+      ],
+      "authors_short": "Liu L, Roemer J, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Subacromial impingement syndrome (SAI) is a common cause of shoulder pain. Corticosteroid injection (CS) provides short-term relief, but concerns about tendon health and durability have increased interest in platelet-rich plasma (PRP) as an alternative. This meta-analysis compared pain and functional outcomes after PRP versus CS for SAI. METHODS: A systematic review was performed per PRISMA guidelines. PubMed, Embase, and the Cochrane Library were searched for randomized controlled trials comparing PRP and CS for SAI. VAS pain scores and shoulder-specific functional outcomes were extracted, and random-effects meta-analyses were performed at baseline, short-term, and mid-term follow-up. RESULTS: Eight studies (518 patients; 7 RCTs and 1 non-randomized comparative study) were included, with 259 patients per group. Baseline VAS scores were comparable (MD 0.03, 95% CI -0.09 to 0.15; I2 = 0%). Short- and mid-term VAS scores showed no significant difference between groups (short-term MD 0.47, 95% CI -0.35 to 1.29; mid-term MD 0.50, 95% CI -1.80 to 2.80), though heterogeneity was substantial (I2 = 93.6% and 98.0%), falling to 49.2% and 80.2% after excluding the non-randomized study. Functional outcomes were inconsistently reported; at 6 months, Constant score differences ranged from -13.0 to +17.2, and UCLA differences ranged from -0.6 to +0.3. CONCLUSION: PRP and CS showed no significant difference in short- or mid-term pain relief for SAI, but heterogeneity between trials was substantial. Functional outcomes were inconsistently reported across studies. Current evidence does not show it is clinically superior to CS for pain relief, and treatment choice should still weigh cost, availability, and patient preference. LEVEL OF EVIDENCE: Level II, Systematic Review.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42988205/",
+      "score": 77,
+      "score_reasoning": "ICM consensus on diagnosis of periprosthetic shoulder infection addresses a diagnostically challenging and clinically important condition with shoulder-specific recommendations not previously well-defined.",
+      "bullets": [
+        "PRP and corticosteroid injections produce equivalent pain relief at both short-term and mid-term follow-up in patients with subacromial impingement syndrome.",
+        "Functional outcomes were reported inconsistently across studies, so no reliable conclusion can be drawn about which injection better restores shoulder function.",
+        "For now, corticosteroid injection remains a reasonable first choice, with PRP reserved based on cost, availability, and patient preference rather than proven superiority."
+      ]
+    },
+    {
+      "pmid": "42987172",
+      "title": "Hip Fracture Is Associated With Major Wealth Loss.",
+      "authors": [
+        "Vellala S",
+        "Paul S",
+        "Bhattacharyya T"
+      ],
+      "authors_short": "Vellala S, Paul S, Bhattacharyya T",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: The annual cost of hip fractures exceeds $6 billion in the United States. Although the direct healthcare costs related to these fractures are known, the full economic impact on individual families is not well studied. Understanding the economic impacts of disease informs policy and interventions. Therefore, we studied the socioeconomic effect of hip fractures on individual household wealth. METHODS: Data were sourced from the Health and Retirement Study, a longitudinal panel survey. Individuals who sustained a hip fracture between 2000 and 2016 were identified, and total household wealth was tracked from 2 years before the fracture to 4 years after. Cases were matched with controls using propensity score matching based on age, sex, race, and initial wealth. Wilcoxon rank-sum and Wilcoxon signed-rank tests were used to evaluate wealth changes due to the non-normal data distribution. RESULTS: Median wealth declined by 50% after hip fractures. In contrast, the controls' median wealth remained relatively stable, decreasing by 4.8%. Cases had significantly less wealth after 4 years than controls (P = 0.025) and compared with their prefracture levels (P < 0.001). Most wealth loss in cases was due to declines in cash accounts and the value of the primary residence. The middle tertile of initial wealth was most affected, experiencing an approximately 50% decrease. Cases saw decreased stability in permanent housing, and cases without spouses faced an approximately 28% greater decrease in household wealth compared with those with spouses. CONCLUSION: Hip fractures are associated with substantial household wealth reductions, comparable with the financial burden of major illnesses such as cancer. These findings highlight the enormous value of hip fracture prevention and rapid hip fracture recovery. LAY SUMMARY: Sustaining a hip fracture is associated with losing half of household wealth, comparable with the amount lost by people who have cancer.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42987172/",
+      "score": 75,
+      "score_reasoning": "Large consecutive cohort (2,234 UKAs, 15-year follow-up) from JBJS showing technology assistance and fixed-bearing design improve revision-free survival, offering important long-term durability data for UKA decision-making.",
+      "bullets": [
+        "Hip fracture is associated with a 50% median decline in household wealth over four years, compared to a 4.8% decline in matched controls without fracture.",
+        "Middle-income patients and those without a spouse are hit hardest, with unpartnered patients losing roughly 28% more wealth than married patients.",
+        "The financial toll of hip fracture rivals that of cancer, driven mainly by losses in cash savings and home value, reinforcing the case for aggressive fracture prevention and early recovery programs."
+      ]
+    },
+    {
+      "pmid": "42994101",
+      "title": "Greater eccentric hamstrings to concentric quadriceps strength ratio at 6 months after anterior cruciate ligament reconstruction is associated with reduced odds of revision within 2 years.",
+      "authors": [
+        "H\u00f6gberg J",
+        "Cristiani R",
+        "Samuelsson K",
+        "Mikkelsen C",
+        "Hamrin Senorski E"
+      ],
+      "authors_short": "H\u00f6gberg J, Cristiani R, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To investigate the association between eccentric hamstrings-to-concentric quadriceps strength ratio (mixed hamstrings to quadriceps [HQ]-strength ratio) at 6 months postoperatively and revision anterior cruciate ligament reconstruction (ACL-R) within 2 years of primary surgery. The secondary purpose was to investigate the association between the mixed HQ-strength ratio and single-leg hop for distance limb symmetry index (LSI). METHODS: Data were collected from a local registry at Capio Artro Clinic, Stockholm, Sweden. Patients aged \u226515 years, without concomitant ligament injuries and meniscal resection or repair who underwent primary ACL-R with hamstring tendon autografts between 2005 and 2021 were included. Isokinetic eccentric hamstrings and concentric quadriceps strength were assessed using a Biodex dynamometer 6 months postoperatively. Associations between mixed HQ-strength ratio on the ACL-R leg and revision ACL-R were analysed using multivariable logistic regression analysis, presented with odds ratios (ORs), 95% confidence intervals (CIs) and area under the receiver operating characteristics curve (AUC). Associations between mixed HQ-strength ratio and single-leg hop for distance LSI were analysed with linear regression. RESULTS: Of the 3458 patients included, 49.5% were female and the mean age was 28.8\u2009\u00b1\u200910.4 years. Patients who underwent revision ACL-R within 2 years had lower mixed HQ-strength ratio on the ACL-R leg 6 months postoperatively. After adjustment for age at primary ACL-R and preinjury Tegner level, each 10-unit increase in the mixed HQ-strength ratio on the ACL-R leg was associated with lower odds of revision ACL-R (OR\u2009=\u20090.81, 95% CI [0.71;0.93], p\u2009=\u20090.003). However, the discriminatory ability was poor (AUC\u2009=\u20090.64). A greater mixed HQ-strength ratio was associated with poorer single-leg hop for distance LSI, adjusted for age at primary ACL-R and preinjury Tegner level (\u03b2\u2009=\u2009-1.30, 95% CI [-1.51;-1.09], p\u2009<\u20090.001). CONCLUSION: The mixed HQ-strength ratio may complement the evaluation of muscle strength recovery after ACL-R. However, its poor discriminatory ability limits its use to identify patients who will undergo revision ACL-R. LEVEL OF EVIDENCE: Level III.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42994101/",
+      "score": 74,
+      "score_reasoning": "Retrospective comparative study demonstrating biplanar cut reduces hinge fracture rate 4-fold in distal femoral osteotomy without compromising correction, a directly actionable technical modification for surgeons performing DFO.",
+      "bullets": [
+        "In over 3,400 ACL reconstruction patients, a higher eccentric hamstrings to concentric quadriceps strength ratio at 6 months was linked to lower odds of revision surgery within 2 years.",
+        "This applies to patients returning to activity after hamstring tendon autograft ACL reconstruction, particularly younger patients and those with higher preinjury activity levels.",
+        "The ratio adds useful information to standard strength testing after ACL reconstruction, but its poor ability to predict who will re-rupture means it should not be used alone to clear patients for return to sport."
+      ]
+    },
+    {
+      "pmid": "43007257",
+      "title": "Clinical Outcomes of Three-Dimensional Printed Implants in Bone Tumor Surgery: A Meta-Analysis.",
+      "authors": [
+        "Qureshi S",
+        "Kralovich A",
+        "Qureshi S",
+        "Zamzam ME",
+        "Moore D",
+        "Charters MA"
+      ],
+      "authors_short": "Qureshi S, Kralovich A, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: The advent of three-dimensional (3D) printing has helped to revolutionize the field of orthopaedic surgery, particularly in the realm of preoperative planning and education. Another application of 3D printing in orthopaedic surgery is the production of patient-specific prostheses for reconstruction. The goal of this study was to analyze the use of 3D-printed prostheses in the setting of orthopaedic oncologic surgical resection and reconstruction. METHODS: A systematic meta-analysis was conducted using data from previous trials comparing 3D-printed prostheses (3DPs) with historical reconstruction across multiple anatomic locations, including the spine, pelvis, and extremities, in musculoskeletal oncology. Key outcomes assessed were surgical duration, intraoperative blood loss, complication rates, dislocation rates, resection accuracy, and functional outcomes using Musculoskeletal Tumor Society scores. RESULTS: A total of eight studies involving 237 patients (113 in the 3D-printed prosthesis group and 124 in the control group) were included. Compared with historical reconstruction, 3DP use showed a significant reduction in surgical duration (mean difference -37.6 minutes; 95% confidence interval [CI], -59.3 to -15.8; P = 0.0007) and postoperative complications (Odds Ratio [OR], 0.20; 95% CI, 0.07 to 0.59; P = 0.0038). The 3DP group also demonstrated significantly lower recurrence (OR, 0.34; 95% CI, 0.13 to 0.88; P = 0.026) and higher resection accuracy in the subset of studies reporting this outcome (OR, 14.36; 95% CI, 2.22 to 92.64; P = 0.0051). Functional outcomes improved with 3DP reconstruction, with a higher Musculoskeletal Tumor Society score (mean difference +3.78; 95% CI, 2.09 to 5.48; P < 0.001). CONCLUSION: Patient-specific 3D-printed protheses were associated with improved functional outcomes and favorable perioperative and oncologic end points, including shorter surgical time, fewer complications, and lower recurrence. These findings emphasize the value of 3DP technology in enhancing patient outcomes; however, owing to substantial heterogeneity and limited study volume, additional high-quality, randomized studies are needed to validate its broader clinical influence.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43007257/",
+      "score": 72,
+      "score_reasoning": "Large propensity-matched cohort (11,392 patients) in JAAOS demonstrating ALIF carries 2-fold higher VTE odds than TLIF at all time points, directly influencing postoperative anticoagulation protocols for spine surgeons.",
+      "bullets": [
+        "In 237 patients undergoing bone tumor resection and reconstruction, custom 3D-printed implants reduced operative time by about 38 minutes and cut complication rates by 80% compared to standard reconstruction.",
+        "Patients who received 3D-printed implants had lower local recurrence rates and better functional scores, making this relevant for complex oncologic cases involving the spine, pelvis, or extremities.",
+        "Orthopaedic oncology surgeons can consider 3D-printed patient-specific implants as a viable reconstruction option, though the evidence base remains small and randomized trials are still needed."
+      ]
+    },
+    {
+      "pmid": "42998829",
+      "title": "Outcomes associated with suprapectoral versus subpectoral biceps tenodesis site after arthroscopic rotator cuff repair: a retrospective comparative cohort analysis.",
+      "authors": [
+        "Rosso C",
+        "Loske S",
+        "Audig\u00e9 L",
+        "Dao Trong ML",
+        "Weiss I",
+        "Mueller A",
+        "Selman F",
+        "Cunningham G"
+      ],
+      "authors_short": "Rosso C, Loske S, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To investigate functional outcomes, groove pain, presence of Popeye sign and complications associated with suprapectoral and subpectoral biceps tenodesis site in rotator cuff (RC) surgery. METHODS: Within the ARCR_Pred multicenter cohort study, patients from 19 centers undergoing primary arthroscopic RC repair between June 2020 and November 2021 were prospectively enrolled. Patients undergoing biceps tenodesis without preoperative Popeye sign were allocated to suprapectoral or subpectoral groups, respectively. Outcomes (range of motion, pain, strength, Subjective Shoulder Value, Constant-Murley Score, Oxford Shoulder Score, quality of life (EQ-5D-5L), groove pain, Popeye sign, Speed's test, and postoperative adverse events) were compared using adjusted mixed models. Propensity-score matching was performed as a sensitivity analysis. RESULTS: Among 445 eligible patients (242 suprapectoral, 203 subpectoral), biceps-specific outcomes were not significantly different for all parameters except for postoperative Popeye sign, being more frequent in the suprapectoral group (36 (15%) vs. 10 (5%); Odds ratio [OR] 0.20; P = 0.009). Shoulder abduction strength at 90\u00b0 was higher in the suprapectoral cohort at 12 months postoperatively (7.1 vs. 6.3 kg; adjusted difference 0.8; P = 0.024), not reaching minimal clinical important difference. All other functional outcome parameters demonstrated no clinically significant differences. Biceps specific complications were not significantly different between groups. The propensity-score matching sensitivity analysis supported these findings except for the shoulder abduction strength. CONCLUSION: Suprapectoral tenodesis was associated with a higher prevalence of postoperative Popeye sign. No significant differences were detected in postoperative groove pain. The observed strength advantage after suprapectoral tenodesis was not clinically meaningful. Procedure-specific complication rates were low in both groups.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42998829/",
+      "score": 69,
+      "score_reasoning": "Retrospective study of 774 primary cementless THAs showing triple-taper metaphyseal stems have 80% lower PFF odds than other designs, with direct implant selection implications particularly relevant given rising PFF concerns.",
+      "bullets": [
+        "In patients undergoing biceps tenodesis during rotator cuff repair, suprapectoral fixation produced a Popeye deformity three times more often than subpectoral fixation (15% vs 5%).",
+        "Groove pain, functional scores, and complication rates were similar between suprapectoral and subpectoral tenodesis at 12 months.",
+        "For surgeons counselling patients before combined rotator cuff and biceps tenodesis, subpectoral fixation significantly reduces the cosmetic risk of Popeye deformity without sacrificing clinical outcomes."
+      ]
+    },
+    {
+      "pmid": "43006815",
+      "title": "Effect of Mechanical Alignment on Clinically Significant Outcomes, Reoperation, and Failure After Osteochondral Allograft Transplantation of the Knee.",
+      "authors": [
+        "Sardesai KS",
+        "Ackermann J",
+        "Vega T",
+        "Kunze KN",
+        "Jesse JE",
+        "Alfonsi S",
+        "Caplan BE",
+        "Morgan JT",
+        "Friedman LR",
+        "Gilat R",
+        "Yanke A",
+        "Chahla J",
+        "Cole BJ"
+      ],
+      "authors_short": "Sardesai KS, Ackermann J, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Identifying and addressing mechanical malalignment is an important component of treating symptomatic osteochondral defects with osteochondral allograft (OCA) transplantation. However, little is known about how malalignment influences short- to midterm outcomes after OCA transplantation. PURPOSE: To evaluate whether mechanical alignment measurements including the hip-knee-ankle (HKA) angle, lateral distal femoral angle (LDFA), medial proximal tibial angle (MPTA), and joint line convergence angle (JLCA) predict clinically significant outcome achievement, graft failure, and reoperation after OCA transplantation with or without concomitant realignment. STUDY DESIGN: Case series; Level of evidence, 4. METHODS: Patient-reported outcome measures (PROMs) were collected preoperatively and at a minimum 2-year follow-up in patients receiving OCA from 2005 to 2023. PROMs included the International Knee Documentation Committee score and Knee injury and Osteoarthritis Outcome Score subscales. Clinically significant outcome thresholds were the minimal clinically important difference (MCID), substantial clinical benefit (SCB), and Patient Acceptable Symptom State (PASS). Preoperative full-length, weightbearing radiographs were used to measure the HKA angle, LDFA, MPTA, and JLCA. Multivariable logistic regression was used for clinically significant outcome achievement and all-cause reoperation; failure and arthroplasty were summarized descriptively because of the low number of events. RESULTS: A total of 66 patients (mean age, 34.1 \u00b1 11.5 years; mean body mass index, 27.8 \u00b1 4.8 kg/m2; 50% female) met inclusion criteria. Mean alignment measurements were 1.8\u00b0\u00b1 4.0\u00b0 for the HKA angle, 86.8\u00b0\u00b1 2.3\u00b0 for the LDFA, 86.3\u00b0\u00b1 2.3\u00b0 for the MPTA, and 1.7\u00b0\u00b1 1.0\u00b0 for the JLCA. Although PROMs improved at the final follow-up, no preoperative alignment measure was statistically associated with MCID, PASS, or SCB achievement or with all-cause reoperation (P > .05). In total, 25 (37.9%) patients underwent reoperation; graft survivorship was 93.9%, with 4 failures and 3 arthroplasty conversions. In an exploratory subanalysis, 16 patients with an HKA angle >5\u00b0 of varus or valgus (13 with concomitant realignment) did not have significantly different rates of reoperation (43.8% vs 36.0%; P = .768) or graft failure (6.3% vs 6.0%; P > .999) compared to their remaining counterparts. CONCLUSION: In this small, heterogeneous cohort, preoperative mechanical alignment measures were not statistically associated with clinically significant outcome achievement or all-cause reoperation after OCA transplantation. These hypothesis-generating findings do not establish the absence of an alignment effect or define a threshold for realignment because most patients with severe preoperative malalignment underwent concomitant realignment, which may have contributed to the favorable overall outcomes, and failure events were infrequent.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43006815/",
+      "score": 54,
+      "score_reasoning": "Meta-analysis of 8 studies (237 patients) showing 3D-printed prostheses reduce surgical duration, complications, and local recurrence in oncologic reconstruction, though limited by small sample size and heterogeneous historical controls.",
+      "bullets": [
+        "Preoperative mechanical alignment, measured by HKA angle and related parameters, did not predict patient-reported outcomes or reoperation rates after osteochondral allograft transplantation of the knee.",
+        "Most patients with significant malalignment (HKA greater than 5 degrees) received concomitant realignment procedures, and their reoperation and graft failure rates were similar to well-aligned patients.",
+        "With 94% graft survivorship at minimum two-year follow-up, these findings support addressing malalignment at the time of grafting, though the study is too small to define a firm realignment threshold."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-11-10T10:29:43.179740-07:00"
+}
