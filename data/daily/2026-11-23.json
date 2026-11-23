@@ -1,0 +1,284 @@
+{
+  "brief_date": "2026-11-23",
+  "brief_date_display": "Monday, November 23",
+  "candidates": [
+    {
+      "pmid": "43057490",
+      "title": "Intra-Articular Injection Into a Nonoperative Joint Within 90 Days Before Total Knee Arthroplasty is Associated With Increased Revision.",
+      "authors": [
+        "Liao GY",
+        "Chansky H",
+        "Manner PA",
+        "Fernando ND",
+        "Tang JE",
+        "Hernandez NM"
+      ],
+      "authors_short": "Liao GY, Chansky H, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Intra-articular injections are commonly used to manage symptomatic osteoarthritis prior to total knee arthroplasty (TKA). While injections into the operative knee have been associated with increased postoperative infection risk when performed within three months of surgery, the effect of injections into nonoperative joints remains unclear. METHODS: We conducted a retrospective cohort study using a national all-payer administrative database of patients undergoing isolated primary TKA. The primary exposure was an intra-articular injection into a nonoperative joint within 90 days before surgery. Patients who had ipsilateral knee injections were excluded from the main analysis. The final cohort comprised 1,074,331 patients, of whom 5,419 (0.5%) received a nonoperative joint injection within 90 days before TKA. The primary outcome was all-cause revision at 90 days, six months, and one year. The secondary outcomes included etiology-specific revision. Multivariable Cox proportional hazards models were used to evaluate associations. RESULTS: Injection was associated with higher unadjusted revision rates at one year (1.25 versus 0.80%) and remained associated with increased revision hazard after adjustment at one year (hazard ratio [HR], 1.43) and six months (HR, 1.52), but not at 90 days. Etiology-specific analyses demonstrated that this association was primarily driven by periprosthetic joint infection (PJI), with increased hazard at one year (HR, 1.40). There were no consistent associations observed for mechanical loosening, instability, or periprosthetic fracture after adjustment. CONCLUSIONS: Intra-articular injection into a nonoperative, non-knee joint within 90 days before TKA was associated with an increased risk of revision, driven primarily by revision for PJI. These findings suggest that recent injection into a nonoperative, non-knee joint may be relevant to perioperative risk assessment, although the underlying mechanism remains uncertain.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43057490/",
+      "score": 78,
+      "score_reasoning": "Large systematic review (2.6M patients) on sex-based TKA outcomes with direct clinical relevance to one of the most common orthopaedic procedures, published in a high-impact arthroplasty journal.",
+      "bullets": [
+        "Patients who received an intra-articular injection into any non-operative joint within 90 days before total knee arthroplasty had a 43% higher risk of revision at one year compared to those who did not.",
+        "The increased revision risk was driven almost entirely by periprosthetic joint infection, not mechanical failure, instability, or fracture.",
+        "Surgeons should consider recent injections into non-operative joints, not just the operative knee, when counselling patients on infection risk before total knee arthroplasty."
+      ]
+    },
+    {
+      "pmid": "43051503",
+      "title": "Xa Inhibitors Are Associated with an Increased Risk of Manipulation after Primary Total Knee Arthroplasty Compared to Aspirin in a Contemporary Cohort.",
+      "authors": [
+        "McGee AS",
+        "Baur AJ",
+        "Werth PM",
+        "Caprise MA",
+        "Duncan ST",
+        "Landy DC"
+      ],
+      "authors_short": "McGee AS, Baur AJ, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Aspirin is routinely used for venous thromboembolism prophylaxis following total knee arthroplasty (TKA), though some patients may require more aggressive chemoprophylaxis, now often with Xa inhibitors. There is concern Xa inhibitors may increase bleeding, leading to swelling and stiffness, which can lead to manipulation under anesthesia (MUA). This study compared rates of MUA following primary TKA for patients receiving Xa inhibitors versus aspirin and between Xa inhibitors in a contemporary cohort. METHODS: A database identified 435,789 patients undergoing unilateral primary TKA from 2021 to 2023. During the perioperative window (30 days preoperatively to 3 days postoperatively), 32,778 (7.5%) received rivaroxaban, 53,504 (12.3%) apixaban, and 349,507 (80.2%) aspirin. The incidence of MUA was determined using Current Procedural Terminology (CPT) code 27570 within 90 days following TKA. Univariable associations between chemoprophylaxis and MUA were assessed using Chi-square tests. Multivariable associations adjusted for patient demographics, Elixhauser Comorbidity Index, and body mass index were assessed using logistic regression with odds ratios (OR) and 95% confidence intervals (CI) reported. RESULTS: Overall, 13,142 (3.0%) underwent MUA, and this was more common in patients receiving Xa inhibitors versus aspirin (3.9 versus 2.8%, P < 0.001). After adjusting for patient characteristics, Xa inhibitors were associated with higher odds of MUA (OR, 1.60; 95% CI, 1.54 to 1.67). In univariable analysis, the rate of MUA was similar between rivaroxaban and apixaban (3.7 versus 3.9%, P = 0.11), though after adjusting for patient characteristics, rivaroxaban was associated with lower odds of MUA compared with apixaban (OR, 0.89; 95% CI, 0.83 to 0.95). CONCLUSION: Factor Xa inhibitors are associated with a significantly increased risk of MUA within 90 days of primary TKA compared to aspirin in a contemporary cohort. Unadjusted MUA rates were similar between rivaroxaban and apixaban. Adjusted odds were lower with rivaroxaban.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43051503/",
+      "score": 76,
+      "score_reasoning": "Prospective cohort of 350 TKAs examining sMCL release outcomes with controlled femoral rotation provides directly applicable surgical guidance for a common intraoperative decision in a high-volume procedure.",
+      "bullets": [
+        "Patients receiving factor Xa inhibitors (rivaroxaban or apixaban) after total knee arthroplasty had 60% higher adjusted odds of needing manipulation under anesthesia within 90 days compared to those on aspirin.",
+        "This finding applies to the roughly 1 in 5 TKA patients who require more aggressive chemoprophylaxis, where the trade-off between clot prevention and postoperative stiffness becomes clinically meaningful.",
+        "If a Xa inhibitor is necessary, rivaroxaban carried modestly lower adjusted odds of manipulation than apixaban, which may inform agent selection in higher-risk patients."
+      ]
+    },
+    {
+      "pmid": "43056667",
+      "title": "CORR Insights\u00ae: What Do National Joint Replacement Registries Fail to Collect? The Critical Value of Recording Preoperative Alignment for Prediction of Revision After TKA: A Nested-model Analysis of Registry-only versus Seldom- and Never-recorded Variables.",
+      "authors": [
+        "Jevsevar DS"
+      ],
+      "authors_short": "Jevsevar DS",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43056667/",
+      "score": 75,
+      "score_reasoning": "Large database study (1M+ patients) revealing that contralateral joint injections within 90 days of TKA increase PJI risk is a novel, immediately practice-changing finding for preoperative planning.",
+      "bullets": [
+        "Preoperative knee alignment is not routinely captured in national joint replacement registries, leaving a key predictor of TKA revision untracked.",
+        "Adding preoperative alignment data to registry models improves prediction of which patients will need revision after TKA.",
+        "Orthopaedic registries should collect preoperative alignment to better identify high-risk patients and guide implant and technique decisions."
+      ]
+    },
+    {
+      "pmid": "43064011",
+      "title": "Proceedings from the 2025 International Consensus Meeting on Orthopedic Infections: Management of Periprosthetic Shoulder Infection.",
+      "authors": [
+        "Namdari S",
+        "Zmistowski B",
+        "Fiandeiro M",
+        "Gupta S",
+        "Nicholson T"
+      ],
+      "authors_short": "Namdari S, Zmistowski B, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Periprosthetic joint infection (PJI) following shoulder arthroplasty remains challenging to manage because treatment strategies vary according to infection chronicity, organism, implant characteristics, and patient factors, while high-quality shoulder-specific evidence remains limited. The purpose of this International Consensus Meeting (ICM) was to review the available evidence and develop consensus recommendations regarding the management of PJI following shoulder arthroplasty. METHODS: The Shoulder Group of the 2025 ICM on Orthopedic Infections included international shoulder surgeons, infectious disease physicians, and microbiology experts with clinical and/or research experience in shoulder arthroplasty and PJI. Twenty-nine management questions underwent question-specific literature review, presentation, discussion, and voting using a modified Delphi process. Consensus was categorized according to percentage agreement, while strength of recommendation was assessed separately based on the quality, consistency, and directness of available evidence. RESULTS: Thirteen questions resulted in recommendations for clinical practice and 16 identified a need for further research. All achieved supermajority consensus, with agreement ranging from 92% to 100%. Clinically, both intravenous and oral postoperative antimicrobial strategies were supported, with treatment individualized according to infection characteristics and infectious disease consultation. Gentamicin alone was considered insufficient for Cutibacterium acnes coverage in antibiotic-loaded cement, and intraoperative antibiotic redosing was supported based on operative duration. Both custom and off-the-shelf antibiotic spacers were considered reasonable, with functional metal-based spacers appropriate in selected patients. Safely extractable retained material should generally be removed without accepting substantial morbidity solely to achieve complete removal. Well-fixed glenoid components should generally be removed in subacute or chronic PJI, whereas routine exchange of well-fixed implants without evidence of infection was not supported. Modular components should be exchanged during debridement, antibiotics, and implant retention (DAIR) when feasible. Evidence remained insufficient to establish preferred antimicrobial routes or organism-specific regimens, indications or protocols for DAIR, timing of second-stage reimplantation, routine spacer exchange, or superiority of one- versus two-stage exchange. CONCLUSIONS: The 2025 ICM provides an evidence-informed framework for management of shoulder PJI. Despite strong expert agreement across all 29 questions, substantial uncertainty remains because the supporting evidence is limited and heterogeneous. Prospective, multicenter, shoulder-specific comparative studies are needed to establish optimal management strategies. LEVEL OF EVIDENCE: Level V, Consensus Statement, Voting.",
+      "pub_types": [
+        "Conference Proceedings"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43064011/",
+      "score": 73,
+      "score_reasoning": "ICM consensus proceedings on periprosthetic shoulder infection management from an international expert panel provide high-level, directly actionable guidance for a challenging clinical problem.",
+      "bullets": [
+        "In periprosthetic shoulder infection, well-fixed glenoid components should generally be removed in subacute or chronic infection, but routine removal of well-fixed implants without evidence of infection is not supported.",
+        "Gentamicin alone does not provide adequate coverage for Cutibacterium acnes in antibiotic-loaded cement, and modular components should be exchanged during DAIR procedures when feasible.",
+        "Both oral and intravenous postoperative antibiotic strategies are acceptable, but optimal regimens, DAIR indications, and one-stage versus two-stage exchange protocols remain unsettled due to limited shoulder-specific evidence."
+      ]
+    },
+    {
+      "pmid": "43043068",
+      "title": "Timing of platelet-rich plasma administration in arthroscopic rotator cuff repair: A systematic review and meta-analysis of randomised controlled trials.",
+      "authors": [
+        "Tareen H",
+        "Mostafa OES",
+        "Kwapisz A",
+        "Barth J",
+        "Woodmass J",
+        "D'Alessandro P",
+        "Jordan RW",
+        "Malik SS"
+      ],
+      "authors_short": "Tareen H, Mostafa OES, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: Platelet-rich plasma (PRP) has been widely investigated as a biologic adjunct in arthroscopic rotator cuff repair (ARCR), yet clinical evidence remains heterogeneous. One potential source of variability is the timing of PRP administration, which may influence tendon-to-bone healing. This study aimed to evaluate the effect of PRP augmentation on structural healing and clinical outcomes following ARCR, with particular evaluation of outcomes according to the timing of PRP administration. METHODS: A systematic review was conducted in accordance with PRISMA guidelines and registered on PROSPERO. PubMed, Scopus, Cochrane CENTRAL and Web of Science were searched through 19 February 2026. Randomised controlled trials (RCTs) comparing PRP augmentation with control in adult patients undergoing ARCR were included. Trials were stratified by timing of PRP administration (intraoperative, post-operative-only or combined). The primary outcome was retears assessed by post-operative imaging at \u22656 months. Pooled risk ratios (RRs) with 95% confidence intervals (CIs) were calculated using a random-effects model. Heterogeneity was assessed using I2 statistics. RESULTS: Fifteen RCTs (1214 patients; 647 PRP and 567 control) met inclusion criteria. Overall, PRP administration at \u22656 months was associated with a reduced risk of retears (RR, 0.53; 95% CI, 0.40-0.70; p\u2009<\u20090.001; I2\u2009=\u20090%). Subgroup analysis demonstrated that intraoperative PRP significantly reduced retear rates at \u22656 months (RR, 0.49; 95% CI, 0.35-0.68; p\u2009<\u20090.001; I2\u2009=\u20090%) and \u226512 months (RR, 0.52; 95% CI, 0.30-0.91; p\u2009=\u20090.021; I2\u2009=\u20090%). Post-operative-only PRP did not demonstrate a statistically significant reduction in retears (RR, 0.35; 95% CI, 0.01-8.12; p\u2009=\u20090.54). Absolute risk reduction at \u22656 months was approximately 12%, corresponding to a number needed to treat of 8. Functional outcome scores improved in both PRP and control groups, with significant differences between groups in included studies, but pooled analyses did not demonstrate consistent between-group differences. PRP was not associated with increased complication rates. CONCLUSION: Intraoperative PRP augmentation during ARCR is associated with a statistically significant reduction in retears. The limited post-operative-only PRP protocols do not demonstrate a comparable benefit and preclude a definitive conclusion that efficacy differs according to timing. These findings suggest a potential timing-dependent structural effect of PRP. However, structural improvements did not consistently translate into superior functional outcomes. LEVEL OF EVIDENCE: Level I.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43043068/",
+      "score": 72,
+      "score_reasoning": "Registry-based meta-analysis on PFF incidence by stem type (28,854 hips) provides definitive data showing polished taper slip stems carry highest late fracture risk, directly informing implant selection.",
+      "bullets": [
+        "Intraoperative PRP during rotator cuff repair reduces retear rates by roughly half compared to controls, with a number needed to treat of 8.",
+        "Post-operative PRP injection alone did not reduce retears, suggesting delivery at the time of repair is necessary for structural benefit.",
+        "Despite lower retear rates, PRP did not consistently improve functional scores, so its role may be limited to structural protection rather than symptom gain."
+      ]
+    },
+    {
+      "pmid": "43043009",
+      "title": "Kaplan fiber tenodesis and anterolateral ligament reconstruction provide comparable functional outcomes after anterior cruciate ligament reconstruction: A propensity score-matched study at a minimum 2-year follow-up.",
+      "authors": [
+        "Brossier C",
+        "Pintore A",
+        "Vermorel PH",
+        "Boyer B",
+        "Philippot R",
+        "N\u00e9ri T"
+      ],
+      "authors_short": "Brossier C, Pintore A, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: Anterolateral augmentation is widely performed alongside anterior cruciate ligament (ACL) reconstruction to reduce residual rotational laxity and graft failure. Two strategies coexist: anterolateral ligament reconstruction (ALLR), using a free tendon graft, and lateral extra-articular tenodesis using the iliotibial band (ITB). Kaplan fibre tenodesis (KFT) uses the native ITB to reconstruct the distal Kaplan fibres at their anatomical femoral footprint. The purpose of this study was to compare functional outcomes and graft survival between these two anterolateral procedures. It was hypothesized that both techniques would provide equivalent functional outcomes at a minimum 2-year follow-up. METHODS: A retrospective comparative study was conducted using data from a prospective single-surgeon ACL reconstruction registry. Allocation to KFT or ALLR was determined intraoperatively by semitendinosus graft diameter. Propensity-score matching (1:1, nearest-neighbour) included age, sex, preoperative Tegner score, meniscal status and chondropathy, with exact matching on meniscal status. The primary outcome was functional outcome at a minimum 24-month follow-up, assessed with the Knee injury and Osteoarthritis Outcome Score (KOOS), the International Knee Documentation Committee (IKDC) subjective score, the Tegner activity scale and the Patient Acceptable Symptom State (PASS) for the IKDC, analyzed for equivalence using the two one-sided tests procedure with prespecified margins. Graft survival was secondary. RESULTS: Thirty-two pairs were matched from 106 eligible patients, with adequate covariate balance (all standardized mean differences\u2009<\u20090.13). Median follow-up was 44 months [interquartile range\u2009=\u200933-47] in the KFT group and 46 months [35-60] in the ALLR group. No significant difference was found for KOOS global (84.2 vs. 85.2; p\u2009=\u20090.153), IKDC (85.2 vs. 82.9; p\u2009=\u20090.176) or Tegner (7 vs. 7; p\u2009=\u20090.941). Equivalence was demonstrated for KOOS global (+5.21, 90% confidence interval [CI]\u2009=\u2009[+0.63 to +9.78]; p\u2009=\u20090.043) and Tegner (-0.06, 90% CI\u2009=\u2009[-0.88 to +0.76]; p\u2009=\u20090.031); for IKDC, the upper bound marginally exceeded the margin (+5.89, 90% CI\u2009=\u2009[+0.11 to +11.66]; p\u2009=\u20090.055). PASS-IKDC was reached by 27 of 32 (84.4%) versus 20 of 32 (62.5%) patients (p\u2009=\u20090.065). Graft re-rupture occurred in 2 of 43 KFT patients (4.7%) and 5 of 63 ALLR patients (7.9%) (log-rank p\u2009=\u20090.879). CONCLUSION: In patients undergoing primary ACL reconstruction, KFT provided functional outcomes equivalent to ALLR for the KOOS and Tegner scores at a minimum 2-year follow-up. Anterolateral stabilization can be achieved with an ITB-based technique at an anatomical femoral footprint, without a free tendon graft. LEVEL OF EVIDENCE: Level III, retrospective comparative study from a prospective cohort with propensity-score matching.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43043009/",
+      "score": 70,
+      "score_reasoning": "Meta-analysis of 15 RCTs showing intraoperative PRP significantly reduces rotator cuff retear rates addresses a highly debated topic with clear implications for surgical technique selection.",
+      "bullets": [
+        "In patients undergoing primary ACL reconstruction with anterolateral augmentation, Kaplan fiber tenodesis and anterolateral ligament reconstruction produced equivalent knee function scores at a median follow-up of about 4 years.",
+        "Graft re-rupture rates were low and similar between both techniques, at 4.7% for Kaplan fiber tenodesis and 7.9% for anterolateral ligament reconstruction.",
+        "Surgeons can use the native iliotibial band for anterolateral stabilization instead of a free tendon graft, preserving the semitendinosus for the ACL graft without sacrificing functional outcomes."
+      ]
+    },
+    {
+      "pmid": "43042689",
+      "title": "Operative Strategies for Treating Tibial Plateau Fractures in Patients Aged 55 Years and Older: A Five-Year Comparison of Acute Total Knee Arthroplasty with Open Reduction and Internal Fixation, Conversion Total Knee Arthroplasty, and Total Knee Arthroplasty for Osteoarthritis.",
+      "authors": [
+        "Wahid M",
+        "Bellamy J",
+        "Hoskins W",
+        "Zaidi Z",
+        "Gusho C",
+        "Scott CEH",
+        "Chen AF"
+      ],
+      "authors_short": "Wahid M, Bellamy J, et al.",
+      "journal": "Journal of orthopaedic trauma",
+      "journal_abbrev": "J Orthop Trauma",
+      "year": "2026",
+      "abstract": "OBJECTIVES: To compare outcomes of acute total knee arthroplasty (TKA) for tibial plateau fracture in patients aged 55 years and older with matched patients undergoing open reduction and internal fixation (ORIF), conversion TKA after failed ORIF, and primary TKA for osteoarthritis. METHODS: Design: Retrospective cohort study with propensity score matching. SETTING: Federated multi-institutional electronic health records database (TriNetX United States Collaborative Network). PATIENT SELECTION CRITERIA: Patients aged \u226555 years with tibial plateau fracture treated with acute TKA, ORIF, or conversion TKA after failed ORIF were identified. A separate cohort undergoing primary TKA for osteoarthritis without fracture history was identified as a non-traumatic comparator. The study period was restricted to January 1, 2005 through December 31, 2020 to ensure a minimum of five years of potential follow-up for all included patients. OUTCOME MEASURES AND COMPARISONS: The primary outcome was revision surgery at 5 years, defined as conversion to TKA after ORIF and as revision TKA after arthroplasty. Secondary outcomes were a composite \"return to the operating room (OR)\" outcome (selected major reoperations), periprosthetic joint infection (PJI), surgical site infection (SSI), aseptic loosening, manipulation under anesthesia (MUA), and periprosthetic fracture. Three 1:1 propensity score-matched comparisons were performed (acute TKA versus ORIF; acute versus conversion TKA; acute TKA versus primary TKA for osteoarthritis), with risk ratios (RR) and 95% confidence intervals (CI) calculated. Subgroup analyses were stratified by age (55-70 years; \u226570 years). RESULTS: After matching, 1,321 patients per cohort were compared in the primary acute TKA versus ORIF analysis. Mean age was 66.1 years in the acute TKA cohort and 66.6 years in the ORIF cohort (range, 55 to 90 in both), and 65.3% and 66.7%, respectively, were female. Acute TKA had higher 5-year revision rates than ORIF (7.0% versus 0.8%; RR 8.36, 95% CI 4.50-15.56; P < 0.001) and elevated PJI rates (6.2% versus 1.3%; RR 4.82, 95% CI 2.88-8.09; P < 0.001). Return to OR rates did not differ significantly between acute TKA and ORIF (25.6% versus 23.5%; RR 1.09, 95% CI 0.95-1.25; P = 0.21). Revision did not differ between acute and conversion TKA (9.0% versus 10.0%; RR 0.89, 95% CI 0.58-1.35; P = 0.589) but was higher after acute TKA than after primary TKA for osteoarthritis (7.4% versus 3.5%; RR 2.12, 95% CI 1.48-3.00; P < 0.001). Revision was higher after acute TKA than ORIF in patients aged 55-70 years (9.3% versus 1.7%; RR 5.41, 95% CI 2.80-10.48; P < 0.001) and was not reportable in those aged \u226570 years owing to small cell counts. CONCLUSIONS: In patients aged 55 years and older, acute TKA for tibial plateau fracture was associated with higher risks of revision and complications compared with ORIF. Revision and complication rates after acute TKA were comparable with those after conversion TKA following failed ORIF but higher than those after primary TKA for osteoarthritis. Acute TKA should be reserved for patients at highest risk of ORIF failure requiring subsequent conversion to TKA. LEVEL OF EVIDENCE: Level III, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43042689/",
+      "score": 67,
+      "score_reasoning": "Retrospective study of prophylactic IVC filters in high-risk hip fracture patients addresses a clinically important VTE prevention question with direct applicability to a common trauma population.",
+      "bullets": [
+        "In patients 55 and older with tibial plateau fractures, acute TKA carried a revision rate over eight times higher than ORIF at five years (7.0% vs 0.8%) and nearly five times the infection rate.",
+        "Revision rates after acute TKA were similar to those after conversion TKA for failed ORIF, meaning upfront arthroplasty does not reliably spare patients from reoperation risk.",
+        "Acute TKA for tibial plateau fracture should be reserved for patients where ORIF failure and subsequent conversion are considered near-certain, as ORIF remains the lower-risk option for most patients in this age group."
+      ]
+    },
+    {
+      "pmid": "43049737",
+      "title": "Fracture Care in Older Individuals.",
+      "authors": [
+        "Okike K",
+        "Schemitsch E"
+      ],
+      "authors_short": "Okike K, Schemitsch E",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43049737/",
+      "score": 67,
+      "score_reasoning": "Authoritative review in JBJS challenging the default surgical approach to valgus-impacted femoral neck fractures with evidence-based argument for selective nonoperative management has immediate practice-changing implications.",
+      "bullets": [
+        "Older patients sustaining fractures face higher rates of complications, mortality, and functional decline than younger patients with similar injuries.",
+        "Orthopaedic surgeons should account for bone quality, medical comorbidities, and functional baseline when selecting fixation strategies in this population.",
+        "Coordinated perioperative care, including medical comanagement and early mobilization, improves outcomes in older fracture patients."
+      ]
+    },
+    {
+      "pmid": "43043781",
+      "title": "What Are the Long-term Outcomes of Periacetabular Osteotomy in a United States Cohort?",
+      "authors": [
+        "Maroyan A",
+        "Mendola LC",
+        "De Silva S",
+        "Matheney T",
+        "Millis MB"
+      ],
+      "authors_short": "Maroyan A, Mendola LC, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Periacetabular osteotomy (PAO) is an effective and common hip-preserving procedure used to treat symptomatic acetabular dysplasia of the hip. Evidence regarding long-term outcomes after PAO remains limited. Information regarding long-term outcomes may be important in developing reasonable expectations for both patients and surgeons to facilitate effective therapeutic decision-making. QUESTIONS/PURPOSES: (1) What is the likelihood of long-term hip preservation and the level of pain at a minimum of 25 years of follow-up after PAO? (2) What clinical and radiographic factors were associated with patients having a poor result, which we defined either as having THA or a WOMAC score of \u2265 10 points at the most recent survey? (3) What were the outcome scores of patients who underwent THA after PAO, and how did these scores compare to the scores of the preserved hips and to the scores of age-related norms? METHODS: We retrospectively evaluated the cohort of the first 142 patients (171 hips) who underwent PAO performed by one surgeon to treat symptomatic dysplasia between 1991 and 1998. Twenty-three percent (33 of 142) of patients (37 hips) were lost to follow-up. This included six patients (6 hips) who had died, 23 patients (26 hips) who could not be located, and four patients (5 hips) who did not complete questionnaires. Seventy-seven percent (109 of 142) of eligible patients (134 hips) returned complete questionnaires at a median (range) of 27 years (25 to 33) after PAO. Our analyzed group included 87% female patients (95 patients, 117 hips) and 13% male patients (14 patients, 17 hips). The median (range) age at surgery was 25 years (9 to 45). The median (range) time of review after PAO was 27 years (25 to 33). The 53 hips that had undergone THA were reviewed at a median (range) of 11 years (1 to 28) after the THA. Kaplan-Meier analysis was used to assess survivorship free from conversion to THA. Hips were postoperatively evaluated using the pain subscale of the WOMAC index. We characterized a poor clinical outcome as either having a preserved hip with a WOMAC pain score of \u2265 10 or undergoing THA. All patients who were analyzed returned questionnaires; some were seen in person with images. Factors associated with a patient having a high (poor) WOMAC score for pain or undergoing THA were evaluated using a multinomial logistic regression model using generalized estimating equations. RESULTS: Of patients analyzed, 60% (81 of 134) of hips remained preserved. Forty percent (53 of 134) of hips had undergone THA at a median of 22 years after PAO. The survivorship free from conversion to THA at 25 years after PAO was 70% (95% confidence interval [CI] 62% to 78%), and the median (range) level of pain was 1 (0 to 20) of 20 points. After controlling for potentially confounding variables including sex, preoperative lateral center-edge angle and anterior center-edge angle, and postoperative lateral center-edge angle, we found that the following factors were associated with increased odds of having either a poor (\u2265 10 points) WOMAC pain score or conversion to THA: preoperative joint space width \u2264 2 mm (HR 7.3 [95% CI 2.8 to 19.2]), labral tear noted intraoperatively (HR 2.8 [95% CI 1.3 to 5.8]), age at surgery > 21 years and < 35 years (HR 2.6 [95% CI 1.1 to 5.9]), and age at surgery \u2265 35 years (HR 3.4 [95% CI 1.1 to 11.0]). In patients who underwent THA, the median (range) WOMAC score was 1 (0 to 20) (lower scores represent less pain and better function), the median (range) modified Harris hip score was 85 (7 to 91) points (higher scores represent less pain and better function), and the median (range) HOOS pain score was 95 (0 to 100). The mean University of California, Los Angeles (UCLA) activity level score for the THA group was 6. In general, these scores did not differ by clinically important margins when compared with the hips that had not undergone THA or compared with age-related score norms. CONCLUSION: While a majority of hips can be preserved with good function at a mean of 27 years after PAO, our findings suggest that surgery should be considered as soon as the diagnosis of symptomatic dysplasia is made, given that older age at the time of surgery was independently associated with later THA or a WOMAC pain score of \u2265 10. If a patient develops painful arthrosis after a PAO, THA should be offered and expected to provide function comparable to age-related norms. Prospective registry-based multicenter studies of patients treated for symptomatic hip dysplasia are indicated to improve outcomes. LEVEL OF EVIDENCE LEVEL: III, therapeutic study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43043781/",
+      "score": 67,
+      "score_reasoning": "Long-term (mean 27-year) outcomes data on PAO for acetabular dysplasia from a 142-patient cohort provides rare and valuable evidence on hip preservation durability for surgical counseling.",
+      "bullets": [
+        "At 27-year follow-up, 70% of hips treated with periacetabular osteotomy for symptomatic dysplasia remained preserved and pain levels were low in those who kept their native hip.",
+        "Older age at surgery, narrow preoperative joint space of 2 mm or less, and an intraoperative labral tear each independently predicted failure, supporting earlier intervention once symptomatic dysplasia is diagnosed.",
+        "Patients who eventually required total hip arthroplasty after periacetabular osteotomy achieved pain and function scores comparable to age-matched norms, so conversion should be offered without hesitation when arthrosis develops."
+      ]
+    },
+    {
+      "pmid": "43057648",
+      "title": "Clinical and Radiographic Outcomes of Suture Anchor Repair versus Transarticular Kirschner Wire Fixation of the Acromioclavicular Joint in Acute High-grade Dislocation: A Randomized Clinical Trial.",
+      "authors": [
+        "Hirunthanawiwat T",
+        "Benjawongsathien K",
+        "Sutthapakti B",
+        "Reingrittha P",
+        "Larpjitkusol P",
+        "Laoruengthana A"
+      ],
+      "authors_short": "Hirunthanawiwat T, Benjawongsathien K, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: For high-grade acromioclavicular (AC) joint injury, repairing the AC ligament complex in addition to coracoclavicular (CC) stabilization provides superior biomechanical and functional outcomes. Rigid AC fixation, such as transarticular wires or hook plates, yields reliable outcomes but may be offset by complications. Therefore, this study compared the clinical and radiographic outcomes of an alternative AC stabilization with Suture anchor repair versus K-wire fixation. METHODS: A prospective randomized trial was conducted in 32 patients with acute AC dislocation. Patients were randomized (16 per group) to Suture anchor repair or transarticular K-wire fixation, both with the same nonbiologic CC suspensory technique. In the Suture anchor group, a single 2.8-mm anchor was inserted into the distal clavicle to repair the superior AC capsuloligamentous complex. The primary outcome was the Constant-Murley Score (CMS); secondary outcomes were the American Shoulder and Elbow Surgeons (ASES) and University of California, Los Angeles (UCLA) shoulder scores, percentage coracoclavicular distance (%CCD) change, and complications, assessed at 4, 8, 16, 24, and 52 weeks. Repeated measurements were analyzed using multilevel Gaussian regression with Bonferroni adjustment, and differences were interpreted against published minimal clinically important difference thresholds. RESULTS: All 32 patients completed 52-week follow-up. The Suture anchor group included 3 Rockwood type IIIB and 13 type V, while the K-wire group included 8 type IIIB and 8 type V. The Suture anchor group had higher CMS at 4 weeks (mean difference, 12.7 points; 95% CI, 8.7-16.6), 8 weeks (7.9; 95% CI, 4.0-11.9), and 16 weeks (5.3; 95% CI, 1.4-9.3) (all P \u2264 .003), with no difference at 24 or 52 weeks. ASES and UCLA scores were higher in the Suture anchor group at 4 and 8 weeks only (all P < .001). The K-wire group, after wire removal at 4 weeks, showed a smaller %CCD change at every interval, with a mean loss of 4.6% versus 14.5% at 52 weeks (mean difference, 9.9%; 95% CI, 3.4-16.4; P < .001). Complications occurred in 4 K-wire patients (25.0%; 4 pin migrations, 1 with superficial pin-tract infection) and in no Suture anchor patients (P = .101). CONCLUSION: While AC stabilization with suture anchor repair provided faster early functional recovery and K-wire fixation better maintained radiographic reduction, both techniques yielded comparable functional outcomes from 24 weeks and onward. Additionally, these findings should be limited to AC joint dislocation with primarily vertical instability, and the choice between techniques should be individualized. LEVEL OF EVIDENCE: Level I, Randomized Controlled Trial, Treatment Study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43057648/",
+      "score": 66,
+      "score_reasoning": "Retrospective series of 34 TUBC fracture-dislocations with 4-year follow-up provides meaningful outcome data for a rare, technically demanding elbow injury pattern with limited existing literature.",
+      "bullets": [
+        "In adults with acute high-grade AC joint dislocation, suture anchor repair of the AC capsule produced faster shoulder function recovery than transarticular K-wire fixation, but both techniques reached equivalent functional scores by 24 weeks.",
+        "K-wire fixation maintained better radiographic reduction at one year, but carried a 25% complication rate from pin migration and infection, while suture anchor repair had zero complications.",
+        "For orthopaedic surgeons managing Rockwood type III or V AC dislocations with vertical instability, suture anchor repair is a reasonable alternative to K-wire fixation when earlier return of function is a priority."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-11-23T14:54:42.330675-07:00"
+}
