@@ -1,0 +1,331 @@
+{
+  "brief_date": "2026-11-24",
+  "brief_date_display": "Tuesday, November 24",
+  "candidates": [
+    {
+      "pmid": "43076395",
+      "title": "Effect of Concomitant Meniscectomy versus Meniscus Repair on 2-year Revision Risk After Anterior Cruciate Ligament Reconstruction: A Matched Cohort Study.",
+      "authors": [
+        "Auerbach E",
+        "Mastrokostas LE",
+        "Budin JS",
+        "Johnson M",
+        "Yusupov D",
+        "Singh R",
+        "Rajan R",
+        "Kopilak E",
+        "Tyagi A",
+        "Monas A",
+        "Rodriguez AN",
+        "Sheth B",
+        "Magruder M",
+        "Mastrokostas PG",
+        "Gilat R",
+        "Razi AE",
+        "Ng MK"
+      ],
+      "authors_short": "Auerbach E, Mastrokostas LE, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Meniscal tears frequently accompany anterior cruciate ligament (ACL) injuries, but the short-term effect of concomitant meniscal treatment on ACLR failure remains unclear. The goal of this study was to determine whether meniscectomy or meniscus repair performed during ACLR affects 2-year ACL revision risk compared with isolated ACLR and to evaluate revision surgery patterns for meniscus tears by tear location and morphology. METHODS: Adult patients undergoing ACLR in the PearlDiver Mariner database from 2015 to 2023 were included. Cohorts were isolated ACLR, ACLR with meniscectomy, or ACLR with meniscus repair. Groups were 1:1 matched on demographics/comorbidities. The primary outcome was ACL revision within 2 years. Secondary outcomes were subsequent meniscectomy or repeat meniscus repair. Results are reported as odds ratios (ORs) with 95% CIs. RESULTS: Among 105,238 ACLR patients, concomitant meniscectomy was not associated with higher 2-year ACL revision compared with isolated ACLR (4.0% vs 3.9%; OR 0.97, 95% CI, 0.90 to 1.06; P = 0.466). Similarly, meniscus repair was not associated with higher revision versus isolated ACLR (5.0% vs 4.6%; OR 0.91, 95% CI, 0.82 to 1.01; P = 0.076). When comparing meniscectomy versus repair within tear location strata, meniscectomy was associated with fewer subsequent meniscal procedures for both medial and lateral tears (all P \u2264 0.004), while ACL revision rates were similar between treatments (medial: OR 1.00, P = 0.999; lateral: OR 0.94, P = 0.603). Within tear morphology strata, meniscectomy was associated with fewer subsequent meniscectomies versus repair across bucket-handle, complex, and peripheral tears (all P \u2264 0.012) and fewer repeat repairs for complex tears (OR 0.52; P < 0.001), while ACL revision rates were similar across morphologies. CONCLUSION: Concomitant meniscal surgery at the time of ACLR did not increase 2-year ACL revision risk compared with isolated ACLR. Meniscectomy was associated with fewer subsequent meniscal procedures than repair, while tear morphology influenced revision surgery patterns.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43076395/",
+      "score": 78,
+      "score_reasoning": "Large matched cohort (105,238 patients) from PearlDiver examining concomitant meniscal treatment effect on ACLR revision risk\u2014directly practice-relevant with strong sample size published in JAAOS.",
+      "bullets": [
+        "Whether the meniscus is repaired or removed at the time of ACL reconstruction, the 2-year re-tear and revision rate is the same as for isolated ACL reconstruction.",
+        "In adult ACL reconstruction patients, meniscectomy leads to fewer return trips to the operating room for meniscal procedures than meniscus repair, regardless of tear location or morphology.",
+        "Surgeons can counsel patients that the choice between meniscectomy and repair at ACL reconstruction does not affect short-term graft survival, though repair carries a higher rate of subsequent meniscal surgery."
+      ]
+    },
+    {
+      "pmid": "43062323",
+      "title": "The Incidence of Late Periprosthetic Femoral Fractures by Implant Type-A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Brkljac M",
+        "Lovie J",
+        "Cobb J",
+        "Logishetty K"
+      ],
+      "authors_short": "Brkljac M, Lovie J, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "AIMS: Periprosthetic femoral fractures (PFF) are the leading cause of revision surgery after total hip arthroplasty when revision and fixation are combined, with morbidity and mortality akin to hip fractures. Polished taper slip (PTS) stems are increasingly seen as high risk; fracture risk of other cementation philosophies, or with noncemented stems excluding intraoperative or early postoperative fractures, remains uncertain. We compared the incidence of late PFFs (>3 months postoperatively) across different stem designs. METHODS: A systematic review of English-language studies published since 2000 was conducted. The Newcastle-Ottawa scale was used to assess study quality, with overall good ratings. A total of 28,854 hips from 27 studies were included (19,552 cemented, 9,302 noncemented). Stems were classified into subtypes to compare similar designs. Studies were excluded if early fractures (<3 months) could not be separated. RESULTS: No notable difference in late PFF risk was found between cemented and noncemented stems (incidence rate ratios: 1.00, 95% confidence interval 0.74 to 1.35). Among cemented stems, PTS designs had the highest fracture rate (0.15 per 100 person-years), markedly higher than French paradox (0.04), and composite beam stems (0.01) (P = 0.0158). Within PTS stems, CPT (0.53) and C stems (0.29) had the highest rates, whereas CPCS had the lowest (0.09). Within noncemented designs, type A stems did not show an advantage over type B (0.07 vs 0.12; P = 0.29). No difference in fracture rates between collared and noncollared noncemented implants was seen (P = 0.58 confidence interval 95% 0.53 to 1.42). CONCLUSION: Noncemented stems do not pose a higher late PFF risk than cemented stems. PTS stems show particularly high late fracture rates, with substantial variation between individual designs. By contrast, French paradox and composite beam stems appear protective and may offer a safer cemented option. No notable differences were observed among noncemented designs. Future studies should incorporate standardized methods for analyzing the relationship between the stem and femoral morphology.",
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43062323/",
+      "score": 76,
+      "score_reasoning": "High-volume registry study (34,105 knees) using validated deep learning to quantify mJSW and HKAA effect on time to TKA\u2014clinically actionable for patient counseling with strong statistical methodology in Journal of Arthroplasty.",
+      "bullets": [
+        "Polished taper slip cemented stems carry the highest late periprosthetic femoral fracture rate, up to 15 times higher than composite beam designs in the same cemented category.",
+        "Cemented and uncemented stems carry equivalent late fracture risk overall, so implant fixation method alone should not drive decision-making for fracture prevention.",
+        "Among cemented options, French paradox and composite beam stems show the lowest late fracture rates and may be preferable in patients where periprosthetic fracture risk is a concern."
+      ]
+    },
+    {
+      "pmid": "43072649",
+      "title": "Lower Geriatric Nutritional Risk Index Independently Predicts Periprosthetic Joint Infection in Elderly Patients After Primary Total Joint Arthroplasty.",
+      "authors": [
+        "Jiang B",
+        "Ai Y",
+        "Fan J",
+        "Ding Z",
+        "Liu L",
+        "Luo Z",
+        "Zhou Z"
+      ],
+      "authors_short": "Jiang B, Ai Y, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Whether low geriatric nutritional risk index (GNRI) affects risk of periprosthetic joint infection (PJI) remains unclear. The present study explored this question among elderly undergoing primary total joint arthroplasty (TJA). METHODS: This retrospective study included 5,157 patients aged 65 years or older who underwent primary total knee or hip arthroplasty (TKA/THA). The associations between preoperative GNRI and PJI were examined with Firth penalized logistic regression. The GNRI was analyzed as a continuous, binary, and quartile-based variable. Discrimination of GNRI, ratio of albumin to fibrinogen (AFR), and prognostic nutritional index (PNI) was assessed with receiver operating characteristic curve (ROC) analysis and compared with the DeLong test. Incremental predictive value beyond a baseline clinical model, restricted cubic spline analysis, and calibration assessment were also performed. RESULTS: Postoperative PJI occurred in 46 of 5,157 patients (0.9%). The absolute PJI rate was 4.39% among patients who had GNRI less than 98 and 0.30% among those who had GNRI \u2265 98. In the fully adjusted model, each 1-unit decrease in GNRI was associated with increased odds of PJI (OR [odds ratio], 1.23; 95% CI [confidence interval], 1.16 to 1.31; P < 0.001), and GNRI less than 98 was associated with higher odds of PJI (OR, 6.73; 95% CI, 2.97 to 18.60; P < 0.001). The GNRI had an area under the curve (AUC) of 0.843, compared with 0.753 for AFR and 0.646 for PNI. After bootstrap internal validation, the optimism-corrected AUC was 0.835 for the baseline clinical model and 0.903 after the addition of GNRI. Restricted cubic spline (RCS) analysis demonstrated an inverse association between GNRI and PJI risk, and calibration was acceptable. CONCLUSION: Low preoperative GNRI is independently associated with PJI after primary TJA in elderly patients. In this cohort, GNRI showed a higher observed AUC than the other nutritional indices evaluated, supporting its potential utility for preoperative risk assessment.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43072649/",
+      "score": 75,
+      "score_reasoning": "Large consecutive cohort (5,157 elderly TJA patients) demonstrating GNRI independently predicts PJI with AUC 0.843\u2014directly modifiable preoperative risk factor with strong discrimination data.",
+      "bullets": [
+        "In patients aged 65 and older undergoing primary total knee or hip arthroplasty, a preoperative GNRI below 98 was associated with a periprosthetic joint infection rate of 4.4%, compared to 0.3% in those with a GNRI of 98 or higher.",
+        "Each one-point drop in preoperative GNRI independently increased the odds of periprosthetic joint infection, making it a stronger predictor than albumin-to-fibrinogen ratio or prognostic nutritional index in this population.",
+        "Calculating GNRI before elective total joint arthroplasty in elderly patients may help identify those at elevated infection risk and prompt nutritional optimization prior to surgery."
+      ]
+    },
+    {
+      "pmid": "43051503",
+      "title": "Xa Inhibitors Are Associated with an Increased Risk of Manipulation after Primary Total Knee Arthroplasty Compared to Aspirin in a Contemporary Cohort.",
+      "authors": [
+        "McGee AS",
+        "Baur AJ",
+        "Werth PM",
+        "Caprise MA",
+        "Duncan ST",
+        "Landy DC"
+      ],
+      "authors_short": "McGee AS, Baur AJ, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Aspirin is routinely used for venous thromboembolism prophylaxis following total knee arthroplasty (TKA), though some patients may require more aggressive chemoprophylaxis, now often with Xa inhibitors. There is concern Xa inhibitors may increase bleeding, leading to swelling and stiffness, which can lead to manipulation under anesthesia (MUA). This study compared rates of MUA following primary TKA for patients receiving Xa inhibitors versus aspirin and between Xa inhibitors in a contemporary cohort. METHODS: A database identified 435,789 patients undergoing unilateral primary TKA from 2021 to 2023. During the perioperative window (30 days preoperatively to 3 days postoperatively), 32,778 (7.5%) received rivaroxaban, 53,504 (12.3%) apixaban, and 349,507 (80.2%) aspirin. The incidence of MUA was determined using Current Procedural Terminology (CPT) code 27570 within 90 days following TKA. Univariable associations between chemoprophylaxis and MUA were assessed using Chi-square tests. Multivariable associations adjusted for patient demographics, Elixhauser Comorbidity Index, and body mass index were assessed using logistic regression with odds ratios (OR) and 95% confidence intervals (CI) reported. RESULTS: Overall, 13,142 (3.0%) underwent MUA, and this was more common in patients receiving Xa inhibitors versus aspirin (3.9 versus 2.8%, P < 0.001). After adjusting for patient characteristics, Xa inhibitors were associated with higher odds of MUA (OR, 1.60; 95% CI, 1.54 to 1.67). In univariable analysis, the rate of MUA was similar between rivaroxaban and apixaban (3.7 versus 3.9%, P = 0.11), though after adjusting for patient characteristics, rivaroxaban was associated with lower odds of MUA compared with apixaban (OR, 0.89; 95% CI, 0.83 to 0.95). CONCLUSION: Factor Xa inhibitors are associated with a significantly increased risk of MUA within 90 days of primary TKA compared to aspirin in a contemporary cohort. Unadjusted MUA rates were similar between rivaroxaban and apixaban. Adjusted odds were lower with rivaroxaban.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43051503/",
+      "score": 74,
+      "score_reasoning": "Large database study (435,789 TKA patients) showing Xa inhibitors associated with 60% higher odds of MUA versus aspirin\u2014highly clinically relevant chemoprophylaxis decision with strong sample size.",
+      "bullets": [
+        "Patients on factor Xa inhibitors after primary total knee arthroplasty had 60% higher adjusted odds of needing manipulation under anesthesia within 90 days compared to those on aspirin.",
+        "This finding applies to the roughly 1 in 5 total knee arthroplasty patients who receive rivaroxaban or apixaban instead of aspirin for venous thromboembolism prophylaxis.",
+        "When Xa inhibitors are necessary, rivaroxaban carried modestly lower adjusted odds of manipulation under anesthesia than apixaban, which may inform agent selection in higher-risk patients."
+      ]
+    },
+    {
+      "pmid": "43064011",
+      "title": "Proceedings from the 2025 International Consensus Meeting on Orthopedic Infections: Management of Periprosthetic Shoulder Infection.",
+      "authors": [
+        "Namdari S",
+        "Zmistowski B",
+        "Fiandeiro M",
+        "Gupta S",
+        "Nicholson T"
+      ],
+      "authors_short": "Namdari S, Zmistowski B, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Periprosthetic joint infection (PJI) following shoulder arthroplasty remains challenging to manage because treatment strategies vary according to infection chronicity, organism, implant characteristics, and patient factors, while high-quality shoulder-specific evidence remains limited. The purpose of this International Consensus Meeting (ICM) was to review the available evidence and develop consensus recommendations regarding the management of PJI following shoulder arthroplasty. METHODS: The Shoulder Group of the 2025 ICM on Orthopedic Infections included international shoulder surgeons, infectious disease physicians, and microbiology experts with clinical and/or research experience in shoulder arthroplasty and PJI. Twenty-nine management questions underwent question-specific literature review, presentation, discussion, and voting using a modified Delphi process. Consensus was categorized according to percentage agreement, while strength of recommendation was assessed separately based on the quality, consistency, and directness of available evidence. RESULTS: Thirteen questions resulted in recommendations for clinical practice and 16 identified a need for further research. All achieved supermajority consensus, with agreement ranging from 92% to 100%. Clinically, both intravenous and oral postoperative antimicrobial strategies were supported, with treatment individualized according to infection characteristics and infectious disease consultation. Gentamicin alone was considered insufficient for Cutibacterium acnes coverage in antibiotic-loaded cement, and intraoperative antibiotic redosing was supported based on operative duration. Both custom and off-the-shelf antibiotic spacers were considered reasonable, with functional metal-based spacers appropriate in selected patients. Safely extractable retained material should generally be removed without accepting substantial morbidity solely to achieve complete removal. Well-fixed glenoid components should generally be removed in subacute or chronic PJI, whereas routine exchange of well-fixed implants without evidence of infection was not supported. Modular components should be exchanged during debridement, antibiotics, and implant retention (DAIR) when feasible. Evidence remained insufficient to establish preferred antimicrobial routes or organism-specific regimens, indications or protocols for DAIR, timing of second-stage reimplantation, routine spacer exchange, or superiority of one- versus two-stage exchange. CONCLUSIONS: The 2025 ICM provides an evidence-informed framework for management of shoulder PJI. Despite strong expert agreement across all 29 questions, substantial uncertainty remains because the supporting evidence is limited and heterogeneous. Prospective, multicenter, shoulder-specific comparative studies are needed to establish optimal management strategies. LEVEL OF EVIDENCE: Level V, Consensus Statement, Voting.",
+      "pub_types": [
+        "Conference Proceedings"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43064011/",
+      "score": 72,
+      "score_reasoning": "Registry-based multicenter study of 731 ACL-MCL injuries comparing MCL management strategies with functional and survivorship outcomes\u2014clinically relevant multiligament injury management data in a high-volume cohort.",
+      "bullets": [
+        "In periprosthetic shoulder infection, well-fixed glenoid components should generally be removed in subacute or chronic infection, but routine removal of well-fixed implants without confirmed infection is not supported.",
+        "Gentamicin alone does not adequately cover Cutibacterium acnes in antibiotic-loaded cement, and modular components should be exchanged during DAIR procedures when feasible.",
+        "Both oral and intravenous postoperative antibiotic strategies are acceptable, with the choice guided by infection characteristics and infectious disease input rather than a single preferred regimen."
+      ]
+    },
+    {
+      "pmid": "43076610",
+      "title": "Increased Lateral to Medial Posterior Tibial Slope Differential Is Associated With Increased Revision Risk After Acute ACL Reconstruction.",
+      "authors": [
+        "Beauchamp-Chalifour P",
+        "Giannakis PE",
+        "Retzky JS",
+        "Covin SE",
+        "Pechstein AE",
+        "Allen A",
+        "Dines J",
+        "Fealy S",
+        "Gomoll A",
+        "Hannafin J",
+        "Kelly A",
+        "MacGillvray J",
+        "McCarthy M",
+        "Nwachukwu B",
+        "Ranawat A",
+        "Rodeo S",
+        "Strickland S",
+        "Taylor S",
+        "Warren R",
+        "Wickiewicz T",
+        "Stein BS",
+        "Sutton K",
+        "Nawabi DH",
+        "Pearle AD",
+        "Williams RJ",
+        "Marx RG"
+      ],
+      "authors_short": "Beauchamp-Chalifour P, Giannakis PE, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Recent evidence suggests that an increased lateral posterior tibial slope (PTS) relative to the medial PTS may increase internal rotatory instability of the knee and could contribute to anterior cruciate ligament reconstruction (ACLR) failure. However, whether this slope differential is associated with an increased risk of revision ACLR remains unclear in clinical practice. PURPOSE: To determine whether an increased delta PTS, defined as lateral minus medial PTS on magnetic resonance imaging (MRI), is associated with an increased risk of revision ACLR. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: In this retrospective cohort study, a longitudinally maintained registry of consecutive patients undergoing primary ACLR at a single academic orthopaedic institution between January 2019 and December 2022 was reviewed. Lateral and medial PTSs were measured on preoperative MRI, and the delta PTS was computed. Multivariable Cox proportional hazards regression was used to evaluate the association between delta PTS and revision ACLR. A receiver operating characteristic (ROC) curve for the association of delta PTS with revision ACLR within 2 years was constructed to estimate the area under the curve (AUC). A delta PTS threshold corresponding to a specificity of 90% was identified to explore a potential threshold for ruling out an increased risk of revision ACLR. RESULTS: The cohort included 712 patients undergoing primary ACLR, of whom 52% were female. With a mean follow-up of 41 months (SD, 17 months), 31 (4.4%) patients underwent revision ACLR. The delta PTS was greater in patients who underwent revision compared with those who did not (2.9\u00b0 [SD, 2.8\u00b0] vs -0.3\u00b0 [SD, 2.8\u00b0]; P < .001). After adjustment for known clinical predictors of anterior cruciate ligament (ACL) graft failure, each 1\u00b0 increase in the delta PTS was associated with a 51% higher risk of revision ACLR over time (hazard ratio, 1.51; 95% CI, 1.31-1.75; P < .001). The ROC yielded an AUC of 0.88 (95% CI, 0.80-0.95). The threshold corresponding to a specificity of 90% was 3.1\u00b0 of the delta PTS, suggesting that patients with a delta PTS <3.1\u00b0 are at low risk for revision. CONCLUSION: An increased lateral to medial delta PTS is associated with a higher risk of revision ACLR.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43076610/",
+      "score": 71,
+      "score_reasoning": "Large retrospective cohort (712 ACLR patients) with multivariable Cox analysis showing delta PTS association with revision ACLR\u2014novel imaging predictor with direct preoperative planning implications published in AJSM.",
+      "bullets": [
+        "In ACL reconstruction patients, each 1-degree increase in lateral-minus-medial posterior tibial slope difference was associated with a 51% higher revision risk over time.",
+        "Patients with a lateral-to-medial slope difference below 3.1 degrees on preoperative MRI were at low risk for revision, while those above this threshold faced meaningfully higher failure rates.",
+        "Measuring this slope difference on routine preoperative MRI may help identify ACL reconstruction patients who need additional consideration, such as a slope-correcting osteotomy, before or at the time of reconstruction."
+      ]
+    },
+    {
+      "pmid": "43062135",
+      "title": "Task-specific Humeral Head Translation Is Associated With Neuromuscular Recruitment Deficits in Multidirectional Shoulder Instability.",
+      "authors": [
+        "Weng YH",
+        "Weng YC",
+        "Huang TS",
+        "Yang JL",
+        "Lin JJ"
+      ],
+      "authors_short": "Weng YH, Weng YC, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Multidirectional shoulder instability is a common clinical challenge, particularly in adolescents and young adult females. It can impact daily function and athletic performance. However, evidence regarding the relationship between humeral head translation and muscle recruitment patterns in this population remains unclear. QUESTIONS/PURPOSES: This study aimed to (1) compare humeral head translation between patients with multidirectional instability and controls, as well as among clinical subgroups characterized by anterior, inferior, and posterior instability; (2) examine shoulder muscle activity across groups, including variations within clinical subgroups; and (3) investigate the relationship between humeral head translation and muscle activation levels during three standardized isometric tasks. METHODS: From an initial screening of 37 patients and 35 controls, 19% (7) of patients and 14% (5) of controls were excluded based on predefined criteria (shoulder pain < 3 months, prior shoulder surgery, or adhesive capsulitis), leaving 30 eligible participants with multidirectional instability (25 female, mean \u00b1 SD age 24 \u00b1 1 years) and 30 control participants (23 female, age 25 \u00b1 4 years) who successfully completed all testing without data loss. To address our three study questions, the methodology was structured as follows: first, ultrasonography was used to calculate humeral head translation via changes in acromiohumeral and glenohumeral distances. Based on clinical relevance and patient perception thresholds, a difference of \u2265 1.4 mm in humeral head translation was defined as the minimal detectable change (MDC). Second, surface electromyography recorded muscle activities (biceps long head, infraspinatus, middle deltoid, serratus anterior, upper trapezius, and lower trapezius) across groups and clinical subgroups during three isometric tasks, including (1) isometric shoulder flexion, (2) isometric horizontal adduction, and (3) extension while holding weight. For extension while holding weight, participants lifted a standardized dumbbell (5 kg for participants with BMI \u2265 21 kg/m2 and 4 kg for those with a BMI of < 21 kg/m2). All data on muscle activity are reported as percentages of maximum voluntary isometric contraction rather than absolute values, with 20% representing the MDC. Participants were further stratified into subgroups based on predominant instability patterns, and comparative analyses were conducted to evaluate differences in humeral translation and muscle activities across these specific groups. Third, the relationship between humeral head translation and muscle activation levels was investigated using Pearson correlation coefficients, interpreted as weak for r < 0.30, moderate for r = 0.30 to 0.50, and strong for r > 0.50. RESULTS: Compared with controls, patients with multidirectional instability demonstrated greater humeral head translation across all tasks, exceeding the MDC threshold in controls versus patients for anterior translation (mean \u00b1 SD 0.4 \u00b1 0.3 mm versus 2.6 \u00b1 1.1 mm, mean difference 2.2 [95% confidence interval (CI) 1.8 to 2.6]; p < 0.001), posterior translation (0.4 \u00b1 0.2 mm versus 2.2 \u00b1 1.2 mm, mean difference 1.8 [95% CI 1.3 to 2.2]; p < 0.001), and inferior translation (0.3 \u00b1 0.2 mm versus 3.0 \u00b1 1.8 mm, mean difference 2.8 [95% CI 2.1 to 3.4]; p < 0.001). Subgroup analysis showed that patients with a predominant direction of instability experienced the greatest translation during corresponding specific tasks (mean difference 1.5 to 2.4 mm [95% CI 0.2 to 4.1]; p < 0.02). We found no clinically important difference between controls and patients in terms of infraspinatus activity during horizontal adduction (23% \u00b1 11% versus 15% \u00b1 6%, mean difference 8% [95% CI 2% to 13%]; p = 0.001). Similarly, no clinically important difference was observed in upper trapezius activity during weighted extension (32% \u00b1 19% versus 17% \u00b1 13%, mean difference 14% [95% CI 4% to 22%]; p = 0.001), nor in middle deltoid activity during weighted extension (11% \u00b1 6% versus 7% \u00b1 4%, mean difference 3% [95% CI 1% to 6%]; p = 0.009). Only the reduction in biceps long head during flexion in controls versus patients (64% \u00b1 38% versus 36% \u00b1 12%, mean difference 29% [95% CI 14% to 44%]; p < 0.001) exceeded the MDC threshold. Correlations between translation and muscle activity occurred during specific tasks, showing moderate positive associations with serratus anterior (r = 0.38; p = 0.04) and lower trapezius activity (r = 0.40; p = 0.03) during flexion and a strong positive association with middle deltoid activity during horizontal adduction (r = 0.59; p = 0.001), whereas no correlations were found during weighted extension. CONCLUSION: Patients with multidirectional instability exhibit task-specific increases in humeral head translation exceeding the MDC, driven by distinct neuromuscular deficits. Subgroup analyses show that patients experience the greatest translation during tasks corresponding to their predominant direction of instability. Future studies should evaluate the longitudinal efficacy of rehabilitation protocols in modifying abnormal translation patterns and improving clinical outcomes across different subgroups. CLINICAL RELEVANCE: From a foundational science perspective, our findings indicate that traditional, generalized shoulder strengthening is insufficient for multidirectional instability. Instead, rehabilitation should utilize direction-specific interventions tailored to each patient's predominant instability pattern, targeting underperforming muscles to mitigate abnormal joint translation and restore dynamic glenohumeral stability.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43062135/",
+      "score": 68,
+      "score_reasoning": "Systematic review and meta-analysis (28,854 hips) demonstrating polished taper slip stems have markedly higher late periprosthetic femoral fracture rates\u2014implant selection decision with major clinical implications.",
+      "bullets": [
+        "Young adults with multidirectional shoulder instability show measurable excess humeral head translation in all directions compared to controls, with the greatest translation occurring during tasks that match each patient's predominant instability direction.",
+        "Biceps long head recruitment during flexion was the only muscle deficit that exceeded the clinically meaningful threshold, suggesting most muscle activity differences are statistically present but not functionally significant.",
+        "Generic shoulder strengthening is likely insufficient for multidirectional instability, and rehabilitation should be tailored to each patient's specific instability direction to target the muscles most responsible for abnormal joint translation."
+      ]
+    },
+    {
+      "pmid": "43064013",
+      "title": "Glenoid Dysplasia is Associated with Acromial Dysplasia.",
+      "authors": [
+        "Levene S",
+        "Arroyo RA",
+        "Byrne RA",
+        "Joyce CD",
+        "Tashjian RZ",
+        "Chalmers PN"
+      ],
+      "authors_short": "Levene S, Arroyo RA, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Glenoid dysplasia is a developmental abnormality associated with pain, disability, and early onset glenohumeral osteoarthritis. Glenoid dysplasia is characterized by glenoid retroversion and posterior humeral subluxation; however, the morphology of the scapula and acromion amongst these patients is unknown. The purpose of this study was to characterize acromial differences between patients with glenoid dysplasia as compared to a normal cohort. METHODS: A group of 18 patients with glenoid dysplasia were identified and compared to a control cohort of 100 patients without history of glenoid dysplasia for which CT or MRI imaging was available. Measurements obtained included glenoid superior inclination, glenoid retroversion, acromial width in the axial plane, acromial tilt in the coronal and sagittal planes, posterior acromial coverage, anterior acromial coverage, and scapular spine angle. Measurements were performed by two evaluators and compared using intraclass correlation coefficients. Continuous variables were analyzed using Mann-Whitney U tests due to non-normal distributions. P-values < 0.05 were considered statistically significant. RESULTS: Inter-rater measurement reliability was excellent with all ICCs \u2265 0.816. The dysplastic group exhibited significantly greater glenoid retroversion (29.9\u00b0 vs 1.83\u00b0, p < 0.001), decreased superior inclination (3.2\u00b0 vs 14.3\u00b0, p < 0.001), narrower acromial width (2.1 cm vs 2.6 cm, p < 0.001), and decreased lateral tilt of the acromion (88.1\u00b0 vs 98.3\u00b0, p < 0.001). In the sagittal plane, the dysplastic group demonstrated greater acromial tilt (67.1\u00b0 vs 51.1\u00b0, p < 0.001), decreased posterior acromial coverage (59.5\u00b0 vs 81.1\u00b0, p < 0.001), greater anterior acromial coverage (-8.2\u00b0 vs 12.7\u00b0, p < 0.001), and a decreased scapular spine angle (47.5\u00b0 vs 65.3\u00b0, p < 0.001). CONCLUSION: Patients with glenoid dysplasia have substantial differences in their scapular and acromial anatomy, suggesting that this dysplasia extends to the acromion and may be more accurately described as scapular dysplasia. These differences may have implications for surgical interventions in shoulder for dysplastic patients. LEVEL OF EVIDENCE: Anatomy Study; Imaging.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43064013/",
+      "score": 67,
+      "score_reasoning": "Claims-based study (295,071 hospital discharges, 82,763 surgeon services) documenting 18-28% inflation-adjusted decline in surgeon reimbursement for revision arthroplasty over 10 years\u2014important practice economics data.",
+      "bullets": [
+        "Patients with glenoid dysplasia have significantly different acromial and scapular anatomy compared to normal shoulders, including a narrower acromion, altered tilt, and reduced posterior acromial coverage.",
+        "These findings suggest glenoid dysplasia is part of a broader scapular dysplasia affecting the entire scapula, not an isolated glenoid abnormality.",
+        "Orthopaedic surgeons planning shoulder surgery in dysplastic patients should anticipate abnormal acromial and scapular anatomy, which may affect implant sizing, positioning, and overall surgical planning."
+      ]
+    },
+    {
+      "pmid": "43076012",
+      "title": "Indications for medial unicompartmental knee arthroplasty (UKA). The 2026 ESSKA-EKA formal consensus. Part 1-Patient history and clinical principles.",
+      "authors": [
+        "Servien E",
+        "Tandogan R",
+        "Becker R",
+        "Leal-Blanquet J",
+        "Clarius M",
+        "Hirschmann MT",
+        "Plancher K",
+        "Saffarini M",
+        "Skowronek P",
+        "Vasso M",
+        "Bozkurt M",
+        "Beaufils P",
+        "Kyriakidis T",
+        "Violante B"
+      ],
+      "authors_short": "Servien E, Tandogan R, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: This consensus followed the ESKKA formal consensus methodology and aimed to provide updated, evidence\u2011based and expert\u2011opinion recommendations defining current indications for medial unicompartmental knee arthroplasty (UKA). Part I focuses on patient history, demographics and clinical assessment. METHODS: European expert surgeons and scientists were organized into a steering group (11 experts from 9 countries), a rating group (23 experts from 16 countries) and a peer-review group of representatives of the ESSKA-affiliated national societies to ensure geographic applicability and acceptance. The steering group developed 35 question-and-answer statements (20 related to Part I). The statements were graded according to the strength of scientific evidence: Grade A (high level of scientific evidence), Grade B (scientific presumption), Grade C (low level of scientific support) or Grade D (expert opinion). Following statement development, an independent rating group evaluated each recommendation according to scientific quality and clinical relevance using a 9-point Likert scale (1 = totally inappropriate and 9 = totally appropriate). Statements with a median agreement below 7 were revised, and an updated manuscript was submitted to the rating group for a second evaluation. A final combined 'face-to-face' meeting between the steering and rating groups enabled completion of the final version of the document. The final version of the manuscript was subsequently reviewed by the peer review group to produce the final consensus statement. RESULTS: In this Part I, consensus was reached on 12 questions with strong agreement (median\u2009\u2265\u20097; range: 7-9), while the remaining 8 demonstrated relative agreement (median\u2009\u2265\u20097; range: 5-9). No statements were deemed uncertain. However, the overall quality of the supporting evidence was low, with all statements classified as Grade C or D. CONCLUSIONS: This consensus was undertaken to provide the best available recommendations for medial UKA in patients with isolated medial compartment osteoarthritis or spontaneous osteonecrosis of the knee. Current evidence supports expanded indications, as factors such as anterior cruciate ligament deficiency, younger age, higher body mass index, patellofemoral arthritis, chondrocalcinosis, rheumatoid arthritis and fixed flexion deformity are no longer considered absolute contraindications. This study's clinical relevance is to provide evidence to guide patient selection and surgical planning, and to help surgeons choose appropriate treatment options. LEVEL OF EVIDENCE: Level I.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43076012/",
+      "score": 63,
+      "score_reasoning": "ESSKA-EKA formal consensus providing updated evidence-based recommendations for medial UKA indications from 34 international experts\u2014high practical utility for patient selection decisions.",
+      "bullets": [
+        "A 2026 European consensus of 34 experts concluded that medial UKA indications have expanded beyond traditional boundaries for isolated medial compartment osteoarthritis and spontaneous osteonecrosis of the knee.",
+        "ACL deficiency, younger age, elevated BMI, patellofemoral arthritis, chondrocalcinosis, rheumatoid arthritis, and fixed flexion deformity are no longer considered absolute contraindications to medial UKA.",
+        "The supporting evidence across all 20 consensus statements was graded C or D, meaning current expanded indications rest largely on expert opinion rather than high-quality trial data."
+      ]
+    },
+    {
+      "pmid": "43076035",
+      "title": "Failure after bucket-handle meniscal repair: Increased risk with medial tears and decreased risk with concomitant anterior cruciate ligament reconstruction.",
+      "authors": [
+        "Park YL",
+        "Konstantinou E",
+        "Jiang C",
+        "Giusto JD",
+        "Dadoo S",
+        "Hughes JD",
+        "Irrgang JJ",
+        "Musahl V"
+      ],
+      "authors_short": "Park YL, Konstantinou E, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To evaluate clinical outcomes following arthroscopic repair of bucket-handle meniscal tears (BHMTs) and identify risk factors for failure. METHODS: A retrospective cohort study included patients who underwent arthroscopic repair of BHMTs between 2014 and 2022 with a minimum follow-up of 2 years. Clinical and surgical variables, including meniscus laterality, repair technique, number of sutures used and concomitant anterior cruciate ligament reconstruction (ACLR), were collected. Failure was defined as any reoperation on the index meniscus or total knee arthroplasty. Kaplan-Meier survival analysis and Cox regression were performed to identify risk factors for failure. All patients were contacted to obtain final follow-up patient-reported outcomes (PROs), including International Knee Documentation Committee Subjective Knee Form (IKDC-SKF) and Visual Analogue Scale (VAS) scores. Significance was set to p\u2009<\u20090.05. RESULTS: A total of 137 patients (median age: 26 years; 32% females) were included with a median follow-up of 7 years (interquartile range [IQR]: 4-9 years). The overall failure rate was 25% (n\u2009=\u200934). Medial meniscus repair (hazard ratio [HR] 3.02, p\u2009=\u20090.04) was associated with increased risk of failure, while concomitant ACLR was protective (HR 0.49, p\u2009=\u20090.04) when adjusted for age and fibrin clot augmentation at the time of index surgery. Additionally, failure-free survival was lower among medial versus lateral repairs (p\u2009=\u20090.03) and among isolated repairs compared to concomitant ACLR (p\u2009=\u20090.04). At final follow-up, median (IQR) of IKDC-SKF and VAS scores were 90.8 (75.6-96.6) and 0 (0-2), respectively, among the total included population. CONCLUSIONS: Medial (as compared to lateral) bucket-handle meniscus tears were associated with failure (overall failure rate: 25%), while concomitant ACLR was protective. Based on the findings of this study, surgeons may want to carefully consider tear location and biologic healing to optimize meniscal preservation. LEVEL OF EVIDENCE: Level III, retrospective cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43076035/",
+      "score": 60,
+      "score_reasoning": "Systematic review and meta-analysis (13 studies, 436 patients) showing growth disturbance rate of only 1.8% after ACLR with lateral extra-articular procedures in skeletally immature patients\u2014addresses important clinical concern.",
+      "bullets": [
+        "Bucket-handle meniscal repairs fail in 1 in 4 patients at 7 years, with medial tears carrying three times the failure risk of lateral tears.",
+        "Performing concomitant ACL reconstruction at the time of meniscal repair cuts the failure risk in half compared to isolated repair.",
+        "For surgeons repairing medial bucket-handle tears without an ACL injury, counsel patients on the higher re-operation risk and consider biological augmentation strategies."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-11-24T13:30:34.497095-07:00"
+}
