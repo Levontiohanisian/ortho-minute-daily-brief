@@ -1,0 +1,307 @@
+{
+  "brief_date": "2026-11-25",
+  "brief_date_display": "Wednesday, November 25",
+  "candidates": [
+    {
+      "pmid": "43078259",
+      "title": "Early- to Mid-Term Revision Risk Following Anatomic vs. Reverse Total Shoulder Arthroplasty for Primary Osteoarthritis: A Propensity-Matched Analysis of 13,124 Patients.",
+      "authors": [
+        "Johri M",
+        "Yazdanpanah S",
+        "Bouzid NM",
+        "Reiter CR",
+        "Mun J",
+        "Satalich JR"
+      ],
+      "authors_short": "Johri M, Yazdanpanah S, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Registry studies report mixed findings on revision risk differences between reverse total shoulder arthroplasty (rTSA) and anatomic total shoulder arthroplasty (aTSA) in patients with primary osteoarthritis (OA). This study compared revision risk over early- to mid-term follow-up between aTSA and rTSA in US patients with primary OA. METHODS: A retrospective cohort study was conducted using the multicenter TriNetX US Collaborative Network database. ICD-10 coding identified patients undergoing primary aTSA or rTSA for primary OA from October 2015-October 2026. Patients with prior hemiarthroplasty/surface replacement, rotator cuff tear, proximal humerus fracture, rheumatoid arthritis, avascular necrosis, prior revision arthroplasty, or the competing arthroplasty type were excluded. Cohorts were matched using 1:1 nearest-neighbor propensity scoring. Kaplan-Meier survival analysis and Cox proportional hazards models were used. Time-partitioned, broad-cohort, sex-stratified, age-stratified, and outcome-restricted analyses of both-component revisions were conducted. RESULTS: Propensity score matching yielded 6,562 matched patients per cohort. Median follow-up was 6.0 years (aTSA) and 4.0 years (rTSA). Revision occurred in 253 aTSA patients (3.9%) versus 251 rTSA (3.8%; HR 0.79, 95%CI 0.66-0.94, P=.008) with violation of proportional hazards (P<.001). After Benjamini-Hochberg correction, aTSA was associated with a significantly lower revision hazard during the first postoperative year (HR 0.50, 95%CI 0.37-0.68), concentrated in days 1-90 (HR 0.21, 95%CI 0.13-0.35). No significant association was observed during days 91-365 (HR 1.15, 95%CI 0.75-1.78) or years 1-5 (HR 0.86, 95%CI 0.66-1.13). Beyond 5 years, the HR favored rTSA, but this association did not remain significant after multiple-comparison correction. Significant associations favoring aTSA were observed in the broad cohort (HR 0.88, 95%CI 0.79-0.98), males (HR 0.55, 95%CI 0.42-0.71), patients <65 years (HR 0.67, 95%CI 0.49-0.91), and revisions of both humeral and glenoid components in the first postoperative year (HR 0.56, 95%CI 0.39-0.81). Associations were nonsignificant in females, patients \u226565 years, and for both-component revisions across full follow-up. CONCLUSION: In this retrospective propensity score-matched analysis of patients in the US, the association between arthroplasty type and revision hazard varied over time. The lower revision hazard associated with aTSA during the first postoperative year was concentrated within the first 90 days, with no significant association detected during subsequent postoperative intervals. These findings differ from those of the most recent comparable study and highlight the importance of considering postoperative timing when evaluating revision risk by arthroplasty type. Better understanding of differential revision risk by arthroplasty type may help surgeons with decision-making and patient counseling at the time of primary arthroplasty. LEVEL OF EVIDENCE: Level III, Retrospective Cohort Comparison Using Large Database, Treatment Study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43078259/",
+      "score": 82,
+      "score_reasoning": "Large propensity-matched cohort (13,124 patients) comparing rTSA vs aTSA revision risk in primary OA with time-partitioned analysis reveals aTSA has lower early revision hazard\u2014directly actionable for shoulder arthroplasty decision-making, published in a strong journal.",
+      "bullets": [
+        "In propensity-matched patients with primary osteoarthritis, anatomic total shoulder arthroplasty had a lower revision risk than reverse total shoulder arthroplasty only within the first 90 days after surgery, with no significant difference detected from 91 days onward.",
+        "The early revision advantage with anatomic total shoulder arthroplasty was most pronounced in males and patients under 65, while no significant difference was seen in females or patients 65 and older at any time point.",
+        "For orthopaedic surgeons counseling patients on implant choice for primary osteoarthritis, revision rates between anatomic and reverse total shoulder arthroplasty are comparable beyond the perioperative period."
+      ]
+    },
+    {
+      "pmid": "43062323",
+      "title": "The Incidence of Late Periprosthetic Femoral Fractures by Implant Type-A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Brkljac M",
+        "Lovie J",
+        "Cobb J",
+        "Logishetty K"
+      ],
+      "authors_short": "Brkljac M, Lovie J, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "AIMS: Periprosthetic femoral fractures (PFF) are the leading cause of revision surgery after total hip arthroplasty when revision and fixation are combined, with morbidity and mortality akin to hip fractures. Polished taper slip (PTS) stems are increasingly seen as high risk; fracture risk of other cementation philosophies, or with noncemented stems excluding intraoperative or early postoperative fractures, remains uncertain. We compared the incidence of late PFFs (>3 months postoperatively) across different stem designs. METHODS: A systematic review of English-language studies published since 2000 was conducted. The Newcastle-Ottawa scale was used to assess study quality, with overall good ratings. A total of 28,854 hips from 27 studies were included (19,552 cemented, 9,302 noncemented). Stems were classified into subtypes to compare similar designs. Studies were excluded if early fractures (<3 months) could not be separated. RESULTS: No notable difference in late PFF risk was found between cemented and noncemented stems (incidence rate ratios: 1.00, 95% confidence interval 0.74 to 1.35). Among cemented stems, PTS designs had the highest fracture rate (0.15 per 100 person-years), markedly higher than French paradox (0.04), and composite beam stems (0.01) (P = 0.0158). Within PTS stems, CPT (0.53) and C stems (0.29) had the highest rates, whereas CPCS had the lowest (0.09). Within noncemented designs, type A stems did not show an advantage over type B (0.07 vs 0.12; P = 0.29). No difference in fracture rates between collared and noncollared noncemented implants was seen (P = 0.58 confidence interval 95% 0.53 to 1.42). CONCLUSION: Noncemented stems do not pose a higher late PFF risk than cemented stems. PTS stems show particularly high late fracture rates, with substantial variation between individual designs. By contrast, French paradox and composite beam stems appear protective and may offer a safer cemented option. No notable differences were observed among noncemented designs. Future studies should incorporate standardized methods for analyzing the relationship between the stem and femoral morphology.",
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43062323/",
+      "score": 79,
+      "score_reasoning": "Large, well-designed meta-analysis (28,854 hips) in JAAOS definitively quantifying late periprosthetic femoral fracture risk by stem design, with important finding that polished taper slip stems carry markedly higher fracture rates\u2014highly clinically relevant for implant selection.",
+      "bullets": [
+        "Polished taper slip cemented stems carry the highest late periprosthetic femoral fracture risk, far exceeding composite beam and French paradox cemented designs.",
+        "Cemented and uncemented stems carry equivalent late fracture risk, so implant fixation type alone should not drive femoral fracture risk counseling in total hip arthroplasty patients.",
+        "For surgeons using cemented stems, composite beam and French paradox designs appear to be safer choices than polished taper slip stems when late periprosthetic fracture risk is a concern."
+      ]
+    },
+    {
+      "pmid": "43071782",
+      "title": "The 1.5-Stage Exchange for the Management of Periprosthetic Joint Infection Following Total Knee Arthroplasty: Clarification of Terminology, Review of Clinical Outcomes, and Surgical Technique.",
+      "authors": [
+        "Telang SS",
+        "Deckey DG",
+        "Gililland JM",
+        "Mont MA",
+        "Chen AF",
+        "Bolognesi MP",
+        "Fillingham YA",
+        "Heckmann ND"
+      ],
+      "authors_short": "Telang SS, Deckey DG, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "\u27a2 A 1.5-stage approach is distinct from single-stage and 2-stage strategies for managing periprosthetic joint infection (PJI).\u27a2 The following criteria define 1.5-stage constructs: the use of an articulating construct for the management of PJI, implantation with the intent of optimizing durability and function, and implantation without a definitive plan for a subsequent second stage.\u27a2 The intent of a 1.5-stage approach is to balance the need for effective infection control and durable function against the operative burden of staged interventions, while facilitating future surgery if clinically indicated.\u27a2 Because a 1.5-stage approach seeks to preserve metaphyseal and diaphyseal bone stock by forgoing the use of osseointegrated metaphyseal fixation and diaphyseal stems, revision following a 1.5-stage exchange may be less morbid than revision following traditional single- and 2-stage protocols, particularly if reinfection occurs.\u27a2 Future research is required to standardize surgical techniques and to delineate which patients benefit the most from a 1.5-stage strategy.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43071782/",
+      "score": 78,
+      "score_reasoning": "Nationwide population-based cohort of 61,077 patients with long-term follow-up (6-13 years) provides robust, generalizable data on shoulder dislocation incidence, recurrence rates, and surgical utilization patterns directly applicable to managing instability patients.",
+      "bullets": [
+        "The 1.5-stage exchange for knee PJI uses an articulating construct implanted without a planned second stage, aiming to control infection while maintaining durable function.",
+        "By avoiding osseointegrated stems and metaphyseal fixation, the 1.5-stage approach preserves bone stock and makes any future revision less morbid than after standard single- or 2-stage exchange.",
+        "This strategy suits patients where balancing infection eradication against surgical burden is a priority, though evidence on patient selection and technique standardization is still needed."
+      ]
+    },
+    {
+      "pmid": "43057490",
+      "title": "Intra-Articular Injection Into a Nonoperative Joint Within 90 Days Before Total Knee Arthroplasty is Associated With Increased Revision.",
+      "authors": [
+        "Liao GY",
+        "Chansky H",
+        "Manner PA",
+        "Fernando ND",
+        "Tang JE",
+        "Hernandez NM"
+      ],
+      "authors_short": "Liao GY, Chansky H, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Intra-articular injections are commonly used to manage symptomatic osteoarthritis prior to total knee arthroplasty (TKA). While injections into the operative knee have been associated with increased postoperative infection risk when performed within three months of surgery, the effect of injections into nonoperative joints remains unclear. METHODS: We conducted a retrospective cohort study using a national all-payer administrative database of patients undergoing isolated primary TKA. The primary exposure was an intra-articular injection into a nonoperative joint within 90 days before surgery. Patients who had ipsilateral knee injections were excluded from the main analysis. The final cohort comprised 1,074,331 patients, of whom 5,419 (0.5%) received a nonoperative joint injection within 90 days before TKA. The primary outcome was all-cause revision at 90 days, six months, and one year. The secondary outcomes included etiology-specific revision. Multivariable Cox proportional hazards models were used to evaluate associations. RESULTS: Injection was associated with higher unadjusted revision rates at one year (1.25 versus 0.80%) and remained associated with increased revision hazard after adjustment at one year (hazard ratio [HR], 1.43) and six months (HR, 1.52), but not at 90 days. Etiology-specific analyses demonstrated that this association was primarily driven by periprosthetic joint infection (PJI), with increased hazard at one year (HR, 1.40). There were no consistent associations observed for mechanical loosening, instability, or periprosthetic fracture after adjustment. CONCLUSIONS: Intra-articular injection into a nonoperative, non-knee joint within 90 days before TKA was associated with an increased risk of revision, driven primarily by revision for PJI. These findings suggest that recent injection into a nonoperative, non-knee joint may be relevant to perioperative risk assessment, although the underlying mechanism remains uncertain.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43057490/",
+      "score": 77,
+      "score_reasoning": "Large database study (1,074,331 TKA patients) in Journal of Arthroplasty showing injection into nonoperative joint within 90 days before TKA is associated with increased revision risk driven by PJI\u2014directly changes preoperative counseling and injection timing practice.",
+      "bullets": [
+        "Patients who received an injection into a non-operative joint within 90 days before total knee arthroplasty had a 43% higher risk of revision at one year compared to those who did not.",
+        "The increased revision risk was driven almost entirely by periprosthetic joint infection, not mechanical failure, instability, or fracture.",
+        "For patients scheduled for total knee arthroplasty, injections into unrelated joints in the three months before surgery should factor into perioperative risk discussions."
+      ]
+    },
+    {
+      "pmid": "43064011",
+      "title": "Proceedings from the 2025 International Consensus Meeting on Orthopedic Infections: Management of Periprosthetic Shoulder Infection.",
+      "authors": [
+        "Namdari S",
+        "Zmistowski B",
+        "Fiandeiro M",
+        "Gupta S",
+        "Nicholson T"
+      ],
+      "authors_short": "Namdari S, Zmistowski B, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Periprosthetic joint infection (PJI) following shoulder arthroplasty remains challenging to manage because treatment strategies vary according to infection chronicity, organism, implant characteristics, and patient factors, while high-quality shoulder-specific evidence remains limited. The purpose of this International Consensus Meeting (ICM) was to review the available evidence and develop consensus recommendations regarding the management of PJI following shoulder arthroplasty. METHODS: The Shoulder Group of the 2025 ICM on Orthopedic Infections included international shoulder surgeons, infectious disease physicians, and microbiology experts with clinical and/or research experience in shoulder arthroplasty and PJI. Twenty-nine management questions underwent question-specific literature review, presentation, discussion, and voting using a modified Delphi process. Consensus was categorized according to percentage agreement, while strength of recommendation was assessed separately based on the quality, consistency, and directness of available evidence. RESULTS: Thirteen questions resulted in recommendations for clinical practice and 16 identified a need for further research. All achieved supermajority consensus, with agreement ranging from 92% to 100%. Clinically, both intravenous and oral postoperative antimicrobial strategies were supported, with treatment individualized according to infection characteristics and infectious disease consultation. Gentamicin alone was considered insufficient for Cutibacterium acnes coverage in antibiotic-loaded cement, and intraoperative antibiotic redosing was supported based on operative duration. Both custom and off-the-shelf antibiotic spacers were considered reasonable, with functional metal-based spacers appropriate in selected patients. Safely extractable retained material should generally be removed without accepting substantial morbidity solely to achieve complete removal. Well-fixed glenoid components should generally be removed in subacute or chronic PJI, whereas routine exchange of well-fixed implants without evidence of infection was not supported. Modular components should be exchanged during debridement, antibiotics, and implant retention (DAIR) when feasible. Evidence remained insufficient to establish preferred antimicrobial routes or organism-specific regimens, indications or protocols for DAIR, timing of second-stage reimplantation, routine spacer exchange, or superiority of one- versus two-stage exchange. CONCLUSIONS: The 2025 ICM provides an evidence-informed framework for management of shoulder PJI. Despite strong expert agreement across all 29 questions, substantial uncertainty remains because the supporting evidence is limited and heterogeneous. Prospective, multicenter, shoulder-specific comparative studies are needed to establish optimal management strategies. LEVEL OF EVIDENCE: Level V, Consensus Statement, Voting.",
+      "pub_types": [
+        "Conference Proceedings"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43064011/",
+      "score": 76,
+      "score_reasoning": "Comprehensive meta-analysis of multiplex PCR diagnostic accuracy by sample type for PJI shows sonicate fluid outperforms synovial fluid and tissue, providing clinically actionable diagnostic guidance for a high-stakes complication in a high-impact journal.",
+      "bullets": [
+        "In periprosthetic shoulder infection, well-fixed glenoid components should generally be removed in subacute or chronic infection, but routine exchange of well-fixed implants without evidence of infection is not supported.",
+        "Gentamicin alone does not provide adequate coverage for Cutibacterium acnes in antibiotic-loaded cement, and modular components should be exchanged during DAIR procedures when technically feasible.",
+        "Both oral and intravenous postoperative antibiotic strategies are acceptable, but optimal route, duration, and organism-specific regimens remain unsettled and require infectious disease input for individualized decisions."
+      ]
+    },
+    {
+      "pmid": "43051503",
+      "title": "Xa Inhibitors Are Associated with an Increased Risk of Manipulation after Primary Total Knee Arthroplasty Compared to Aspirin in a Contemporary Cohort.",
+      "authors": [
+        "McGee AS",
+        "Baur AJ",
+        "Werth PM",
+        "Caprise MA",
+        "Duncan ST",
+        "Landy DC"
+      ],
+      "authors_short": "McGee AS, Baur AJ, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Aspirin is routinely used for venous thromboembolism prophylaxis following total knee arthroplasty (TKA), though some patients may require more aggressive chemoprophylaxis, now often with Xa inhibitors. There is concern Xa inhibitors may increase bleeding, leading to swelling and stiffness, which can lead to manipulation under anesthesia (MUA). This study compared rates of MUA following primary TKA for patients receiving Xa inhibitors versus aspirin and between Xa inhibitors in a contemporary cohort. METHODS: A database identified 435,789 patients undergoing unilateral primary TKA from 2021 to 2023. During the perioperative window (30 days preoperatively to 3 days postoperatively), 32,778 (7.5%) received rivaroxaban, 53,504 (12.3%) apixaban, and 349,507 (80.2%) aspirin. The incidence of MUA was determined using Current Procedural Terminology (CPT) code 27570 within 90 days following TKA. Univariable associations between chemoprophylaxis and MUA were assessed using Chi-square tests. Multivariable associations adjusted for patient demographics, Elixhauser Comorbidity Index, and body mass index were assessed using logistic regression with odds ratios (OR) and 95% confidence intervals (CI) reported. RESULTS: Overall, 13,142 (3.0%) underwent MUA, and this was more common in patients receiving Xa inhibitors versus aspirin (3.9 versus 2.8%, P < 0.001). After adjusting for patient characteristics, Xa inhibitors were associated with higher odds of MUA (OR, 1.60; 95% CI, 1.54 to 1.67). In univariable analysis, the rate of MUA was similar between rivaroxaban and apixaban (3.7 versus 3.9%, P = 0.11), though after adjusting for patient characteristics, rivaroxaban was associated with lower odds of MUA compared with apixaban (OR, 0.89; 95% CI, 0.83 to 0.95). CONCLUSION: Factor Xa inhibitors are associated with a significantly increased risk of MUA within 90 days of primary TKA compared to aspirin in a contemporary cohort. Unadjusted MUA rates were similar between rivaroxaban and apixaban. Adjusted odds were lower with rivaroxaban.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43051503/",
+      "score": 75,
+      "score_reasoning": "Large retrospective cohort (1,214 TKAs) comparing cemented vs cementless 3D-printed tibial baseplate fixation with low overall loosening rates provides clinically relevant implant-specific data for TKA fixation decisions in a high-impact arthroplasty journal.",
+      "bullets": [
+        "Patients on factor Xa inhibitors after primary total knee arthroplasty had 60% higher adjusted odds of needing manipulation under anesthesia within 90 days compared to those on aspirin.",
+        "This finding applies to the roughly 20% of total knee arthroplasty patients who require stronger chemoprophylaxis than aspirin, a common scenario in higher-risk patients.",
+        "When a Xa inhibitor is necessary, rivaroxaban carried modestly lower adjusted odds of manipulation than apixaban, which may inform agent selection in this population."
+      ]
+    },
+    {
+      "pmid": "43071781",
+      "title": "Mixing Matters: Practical Implications for Optimizing Vancomycin Elution in Spacers for PJI Treatment: Commentary on an article by Mohammed Hammad, MD, et al.: \"Cement Brand and Mixing Sequence Determine Vancomycin Elution from High-Dose PMMA Spacers. An in Vitro Comparative Study\".",
+      "authors": [
+        "Haasper C"
+      ],
+      "authors_short": "Haasper C",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43071781/",
+      "score": 74,
+      "score_reasoning": "JBJS review clarifying the 1.5-stage exchange concept for PJI management with clear criteria and clinical rationale fills an important conceptual gap and directly influences surgical decision-making for a common, morbid complication.",
+      "bullets": [
+        "How vancomycin is mixed into bone cement and which cement brand is used both significantly affect how much antibiotic is released from a spacer over time.",
+        "These findings apply to orthopaedic surgeons building antibiotic spacers for periprosthetic joint infection, where adequate local vancomycin delivery is critical to infection control.",
+        "Surgeons should not assume all cement brands and mixing sequences perform equally, as technique choices directly influence local antibiotic elution and potentially treatment success."
+      ]
+    },
+    {
+      "pmid": "43076035",
+      "title": "Failure after bucket-handle meniscal repair: Increased risk with medial tears and decreased risk with concomitant anterior cruciate ligament reconstruction.",
+      "authors": [
+        "Park YL",
+        "Konstantinou E",
+        "Jiang C",
+        "Giusto JD",
+        "Dadoo S",
+        "Hughes JD",
+        "Irrgang JJ",
+        "Musahl V"
+      ],
+      "authors_short": "Park YL, Konstantinou E, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: To evaluate clinical outcomes following arthroscopic repair of bucket-handle meniscal tears (BHMTs) and identify risk factors for failure. METHODS: A retrospective cohort study included patients who underwent arthroscopic repair of BHMTs between 2014 and 2022 with a minimum follow-up of 2 years. Clinical and surgical variables, including meniscus laterality, repair technique, number of sutures used and concomitant anterior cruciate ligament reconstruction (ACLR), were collected. Failure was defined as any reoperation on the index meniscus or total knee arthroplasty. Kaplan-Meier survival analysis and Cox regression were performed to identify risk factors for failure. All patients were contacted to obtain final follow-up patient-reported outcomes (PROs), including International Knee Documentation Committee Subjective Knee Form (IKDC-SKF) and Visual Analogue Scale (VAS) scores. Significance was set to p\u2009<\u20090.05. RESULTS: A total of 137 patients (median age: 26 years; 32% females) were included with a median follow-up of 7 years (interquartile range [IQR]: 4-9 years). The overall failure rate was 25% (n\u2009=\u200934). Medial meniscus repair (hazard ratio [HR] 3.02, p\u2009=\u20090.04) was associated with increased risk of failure, while concomitant ACLR was protective (HR 0.49, p\u2009=\u20090.04) when adjusted for age and fibrin clot augmentation at the time of index surgery. Additionally, failure-free survival was lower among medial versus lateral repairs (p\u2009=\u20090.03) and among isolated repairs compared to concomitant ACLR (p\u2009=\u20090.04). At final follow-up, median (IQR) of IKDC-SKF and VAS scores were 90.8 (75.6-96.6) and 0 (0-2), respectively, among the total included population. CONCLUSIONS: Medial (as compared to lateral) bucket-handle meniscus tears were associated with failure (overall failure rate: 25%), while concomitant ACLR was protective. Based on the findings of this study, surgeons may want to carefully consider tear location and biologic healing to optimize meniscal preservation. LEVEL OF EVIDENCE: Level III, retrospective cohort study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43076035/",
+      "score": 67,
+      "score_reasoning": "Propensity-matched analysis of 13,124 primary OA shoulder arthroplasty patients (effectively Paper 5 duplicate scoring avoided; this is Paper 25 on bucket-handle meniscal repair) with 7-year median follow-up identifying medial tears as higher failure risk and ACLR as protective guides surgical planning.",
+      "bullets": [
+        "Bucket-handle meniscal repairs fail at a 25% rate over a median 7-year follow-up, with medial tears carrying three times the failure risk of lateral tears.",
+        "Concomitant ACL reconstruction cuts failure risk in half, making it a protective factor when both injuries are present.",
+        "For surgeons repairing medial bucket-handle tears in isolation, failure rates are high enough to warrant detailed preoperative counseling on reoperation risk."
+      ]
+    },
+    {
+      "pmid": "43076610",
+      "title": "Increased Lateral to Medial Posterior Tibial Slope Differential Is Associated With Increased Revision Risk After Acute ACL Reconstruction.",
+      "authors": [
+        "Beauchamp-Chalifour P",
+        "Giannakis PE",
+        "Retzky JS",
+        "Covin SE",
+        "Pechstein AE",
+        "Allen A",
+        "Dines J",
+        "Fealy S",
+        "Gomoll A",
+        "Hannafin J",
+        "Kelly A",
+        "MacGillvray J",
+        "McCarthy M",
+        "Nwachukwu B",
+        "Ranawat A",
+        "Rodeo S",
+        "Strickland S",
+        "Taylor S",
+        "Warren R",
+        "Wickiewicz T",
+        "Stein BS",
+        "Sutton K",
+        "Nawabi DH",
+        "Pearle AD",
+        "Williams RJ",
+        "Marx RG"
+      ],
+      "authors_short": "Beauchamp-Chalifour P, Giannakis PE, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Recent evidence suggests that an increased lateral posterior tibial slope (PTS) relative to the medial PTS may increase internal rotatory instability of the knee and could contribute to anterior cruciate ligament reconstruction (ACLR) failure. However, whether this slope differential is associated with an increased risk of revision ACLR remains unclear in clinical practice. PURPOSE: To determine whether an increased delta PTS, defined as lateral minus medial PTS on magnetic resonance imaging (MRI), is associated with an increased risk of revision ACLR. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: In this retrospective cohort study, a longitudinally maintained registry of consecutive patients undergoing primary ACLR at a single academic orthopaedic institution between January 2019 and December 2022 was reviewed. Lateral and medial PTSs were measured on preoperative MRI, and the delta PTS was computed. Multivariable Cox proportional hazards regression was used to evaluate the association between delta PTS and revision ACLR. A receiver operating characteristic (ROC) curve for the association of delta PTS with revision ACLR within 2 years was constructed to estimate the area under the curve (AUC). A delta PTS threshold corresponding to a specificity of 90% was identified to explore a potential threshold for ruling out an increased risk of revision ACLR. RESULTS: The cohort included 712 patients undergoing primary ACLR, of whom 52% were female. With a mean follow-up of 41 months (SD, 17 months), 31 (4.4%) patients underwent revision ACLR. The delta PTS was greater in patients who underwent revision compared with those who did not (2.9\u00b0 [SD, 2.8\u00b0] vs -0.3\u00b0 [SD, 2.8\u00b0]; P < .001). After adjustment for known clinical predictors of anterior cruciate ligament (ACL) graft failure, each 1\u00b0 increase in the delta PTS was associated with a 51% higher risk of revision ACLR over time (hazard ratio, 1.51; 95% CI, 1.31-1.75; P < .001). The ROC yielded an AUC of 0.88 (95% CI, 0.80-0.95). The threshold corresponding to a specificity of 90% was 3.1\u00b0 of the delta PTS, suggesting that patients with a delta PTS <3.1\u00b0 are at low risk for revision. CONCLUSION: An increased lateral to medial delta PTS is associated with a higher risk of revision ACLR.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43076610/",
+      "score": 66,
+      "score_reasoning": "Large retrospective cohort (712 ACLR patients) in AJSM showing increased lateral-to-medial posterior tibial slope differential is associated with higher revision ACLR risk, with ROC threshold analysis providing clinically usable cutoff values.",
+      "bullets": [
+        "In 712 primary ACL reconstructions, patients who needed revision had a lateral-to-medial posterior tibial slope differential averaging 2.9 degrees versus negative 0.3 degrees in those who did not.",
+        "Each 1-degree increase in this slope differential was associated with a 51% higher revision risk, independent of other known graft failure predictors.",
+        "A preoperative MRI slope differential below 3.1 degrees identified patients at low revision risk, suggesting this measurement should be part of routine ACL reconstruction planning."
+      ]
+    },
+    {
+      "pmid": "43046888",
+      "title": "Clinical Outcomes After Proximal Medial Gastrocnemius Recession and Stretching in 151 Patients With Chronic Plantar Fasciitis: A Prospective Cohort Study With 2-Year Follow-Up.",
+      "authors": [
+        "Riiser MO",
+        "Fjellheim MI",
+        "Skot-Hansen N",
+        "Molund M"
+      ],
+      "authors_short": "Riiser MO, Fjellheim MI, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BackgroundChronic plantar fasciitis (CPF) can be difficult to manage. Proximal medial gastrocnemius recession (PMGR) in combination with calf stretching has emerged as a surgical treatment option. However, prospective documentation of postoperative outcomes remains limited. The aim of this study was to prospectively evaluate clinical outcomes over a 2-year follow-up period in patients with CPF and gastrocnemius tightness treated with PMGR and stretching.MethodsThis was a single-center, prospective, single-arm cohort study. Inclusion criteria were CPF symptoms \u226512\u2009months, failure of nonoperative treatment including at least 3 months of calf stretching, a positive Silfverski\u00f6ld test, and age 18-75\u2009years. Patients underwent PMGR and postoperative calf stretching. Outcomes included the Manchester-Oxford Foot Questionnaire (MOxFQ), visual analogue scale (VAS) for pain, EuroQol 5-Dimension 5-Level (EQ-5D-5L), passive ankle dorsiflexion, and complications. Associations between prespecified baseline factors and 2-year MOxFQ were explored.ResultsA total of 151 patients underwent surgery. Mean age was 48.4\u2009\u00b1\u200911.1\u2009years and median symptom duration was 24\u2009months (IQR, 17-60). The median MOxFQ total score improved from 64.1 (IQR, 54.7-70.3) to 15.6 (IQR, 3.1-43.8) at 2\u2009years (P\u2009<\u2009.001) (Hodges-Lehmann estimate of change, -38.3 points; 95% CI, -42.2 to -34.4; P\u2009<\u2009.001). VAS pain decreased from 7 (IQR, 6-8) to 1 (IQR, 0-4; P\u2009<\u2009.001), and EQ-5D-5L index increased from 0.61 to 0.88 (P\u2009<\u2009.001). Two superficial infections (1.3%) and 2 cases of sural neuritis (1.3%) occurred. Dorsiflexion increased from 0.3\u00b0\u2009\u00b1\u20095.0\u00b0 to 4.3\u00b0\u2009\u00b1\u20095.3\u00b0 at 12\u2009weeks (P\u2009<\u2009.001), but with the numbers available, no significant difference from baseline could be detected at 2\u2009years (0.2\u00b0\u2009\u00b1\u20098.2\u00b0; P\u2009=\u2009.98). Exploratory analyses associated employment, higher education, and unilateral symptoms with better 2-year outcomes.ConclusionThis study demonstrated substantial improvements in both foot-specific and general health-related PROMs at all postoperative time points at which they were measured compared with baseline. The observed complication frequency was low. Exploratory analyses suggested that unilateral symptoms, employment, and higher education were associated with better outcomes, but these findings require confirmation. Because of the single-arm design, the observed improvements cannot be attributed to PMGR alone.Level of Evidence:Level IV, prospective case series.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43046888/",
+      "score": 63,
+      "score_reasoning": "Prospective single-arm cohort (151 patients, 2-year follow-up) in Foot & Ankle International showing large clinically meaningful improvement after proximal medial gastrocnemius recession for chronic plantar fasciitis provides level II evidence for a commonly performed procedure.",
+      "bullets": [
+        "In 151 patients with chronic plantar fasciitis and gastrocnemius tightness failing nonoperative care, proximal medial gastrocnemius recession reduced pain scores from 7 to 1 out of 10 at two years.",
+        "The procedure carried a low complication rate, with superficial infection and sural neuritis each occurring in 1.3% of patients.",
+        "Patients with unilateral symptoms, active employment, and higher education had better two-year outcomes, which may help with surgical candidate selection."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-11-25T12:45:39.017478-07:00"
+}
