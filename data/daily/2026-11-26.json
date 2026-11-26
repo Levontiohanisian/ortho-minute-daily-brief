@@ -1,0 +1,339 @@
+{
+  "brief_date": "2026-11-26",
+  "brief_date_display": "Thursday, November 26",
+  "candidates": [
+    {
+      "pmid": "43085613",
+      "title": "Structural Benefit, Selective Functional Gain: Double-Row Versus Single-Row Arthroscopic Rotator Cuff Repair - A Tear-Stratified Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Ghazy A",
+        "Marie ME",
+        "Hassan AY",
+        "Ahmed AI",
+        "Hawila AM"
+      ],
+      "authors_short": "Ghazy A, Marie ME, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Single-row (SR) and double-row (DR) fixation are common arthroscopic rotator cuff repair techniques, but whether DR's biomechanical advantages translate into improved structural, functional, or patient-reported outcomes remains unclear. Prior meta-analyses have not separately examined modern DR configurations, tear thickness, size, and follow-up. PURPOSE: To compare arthroscopic SR and DR repair across structural, functional, and patient-reported outcomes, with prespecified subgroups by DR configuration, partial- versus full-thickness retears, tear size, study design, and follow-up. STUDY DESIGN: Systematic review and meta-analysis. METHODS: Six databases were searched from inception through March 2026 for randomized trials (RCTs) and non-randomized comparative studies comparing arthroscopic SR with DR repair. Random-effects models pooled risk ratios (RRs) for retear and mean differences (MDs) or standardized mean differences (SMDs) for functional outcomes, with 95% CIs. Risk of bias (RoB 2, ROBINS-I) and certainty (GRADE) were assessed, with leave-one-out and small-study sensitivity analyses. RESULTS: Fifty-five studies (4775 shoulders; 23 RCTs) were included. DR repair reduced full-thickness retear (40 studies; RR, 0.69 [95% CI, 0.55-0.86]; number needed to treat [NNT], 21) and partial-thickness retear (12 studies; RR, 0.57 [0.43-0.75]; NNT, 10), persisting in RCTs alone (RR, 0.60 [0.45-0.80]). UCLA scores favored DR at all intervals (MD, 0.76-1.66) and ASES scores at short- and long-term follow-up (MD, 1.75-2.58), but all fell below the minimal clinically important difference; Constant-Murley and pain scores did not differ. Functional and range-of-motion advantages were concentrated in large and massive tears, with no benefit in small and medium tears. DR required longer operative time (MD, 15.95 minutes). CONCLUSION: DR repair reduces retear, with the greatest absolute reduction observed for partial-thickness retears. Functional and motion advantages are primarily evident in large and massive tears, while no clinically important differences are observed in small and medium tears. Construct selection should be guided by tear size and remnant tendon quality rather than an assumed universal superiority of DR repair. The certainty of the evidence supporting these conclusions is moderate to high.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43085613/",
+      "score": 88,
+      "score_reasoning": "High-impact meta-analysis of 55 studies (4775 shoulders, 23 RCTs) in JSES directly answering the clinically debated SR vs DR rotator cuff repair question with tear-stratified subgroups, strong study design, and actionable NNT data.",
+      "bullets": [
+        "Double-row repair reduces retear rates compared to single-row repair across all tear sizes, with the greatest absolute benefit seen in partial-thickness retears (NNT 10).",
+        "Functional and range-of-motion gains with double-row repair are limited to large and massive tears, with no clinically meaningful difference in small and medium tears.",
+        "For small and medium tears, single-row repair is a reasonable choice, as construct selection should be based on tear size and tendon quality rather than assumed superiority of double-row fixation."
+      ]
+    },
+    {
+      "pmid": "43078259",
+      "title": "Early- to Mid-Term Revision Risk Following Anatomic vs. Reverse Total Shoulder Arthroplasty for Primary Osteoarthritis: A Propensity-Matched Analysis of 13,124 Patients.",
+      "authors": [
+        "Johri M",
+        "Yazdanpanah S",
+        "Bouzid NM",
+        "Reiter CR",
+        "Mun J",
+        "Satalich JR"
+      ],
+      "authors_short": "Johri M, Yazdanpanah S, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Registry studies report mixed findings on revision risk differences between reverse total shoulder arthroplasty (rTSA) and anatomic total shoulder arthroplasty (aTSA) in patients with primary osteoarthritis (OA). This study compared revision risk over early- to mid-term follow-up between aTSA and rTSA in US patients with primary OA. METHODS: A retrospective cohort study was conducted using the multicenter TriNetX US Collaborative Network database. ICD-10 coding identified patients undergoing primary aTSA or rTSA for primary OA from October 2015-October 2026. Patients with prior hemiarthroplasty/surface replacement, rotator cuff tear, proximal humerus fracture, rheumatoid arthritis, avascular necrosis, prior revision arthroplasty, or the competing arthroplasty type were excluded. Cohorts were matched using 1:1 nearest-neighbor propensity scoring. Kaplan-Meier survival analysis and Cox proportional hazards models were used. Time-partitioned, broad-cohort, sex-stratified, age-stratified, and outcome-restricted analyses of both-component revisions were conducted. RESULTS: Propensity score matching yielded 6,562 matched patients per cohort. Median follow-up was 6.0 years (aTSA) and 4.0 years (rTSA). Revision occurred in 253 aTSA patients (3.9%) versus 251 rTSA (3.8%; HR 0.79, 95%CI 0.66-0.94, P=.008) with violation of proportional hazards (P<.001). After Benjamini-Hochberg correction, aTSA was associated with a significantly lower revision hazard during the first postoperative year (HR 0.50, 95%CI 0.37-0.68), concentrated in days 1-90 (HR 0.21, 95%CI 0.13-0.35). No significant association was observed during days 91-365 (HR 1.15, 95%CI 0.75-1.78) or years 1-5 (HR 0.86, 95%CI 0.66-1.13). Beyond 5 years, the HR favored rTSA, but this association did not remain significant after multiple-comparison correction. Significant associations favoring aTSA were observed in the broad cohort (HR 0.88, 95%CI 0.79-0.98), males (HR 0.55, 95%CI 0.42-0.71), patients <65 years (HR 0.67, 95%CI 0.49-0.91), and revisions of both humeral and glenoid components in the first postoperative year (HR 0.56, 95%CI 0.39-0.81). Associations were nonsignificant in females, patients \u226565 years, and for both-component revisions across full follow-up. CONCLUSION: In this retrospective propensity score-matched analysis of patients in the US, the association between arthroplasty type and revision hazard varied over time. The lower revision hazard associated with aTSA during the first postoperative year was concentrated within the first 90 days, with no significant association detected during subsequent postoperative intervals. These findings differ from those of the most recent comparable study and highlight the importance of considering postoperative timing when evaluating revision risk by arthroplasty type. Better understanding of differential revision risk by arthroplasty type may help surgeons with decision-making and patient counseling at the time of primary arthroplasty. LEVEL OF EVIDENCE: Level III, Retrospective Cohort Comparison Using Large Database, Treatment Study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43078259/",
+      "score": 84,
+      "score_reasoning": "Large propensity-matched retrospective cohort (13,124 patients) in JSES addressing the clinically critical question of aTSA vs rTSA revision risk for primary OA with time-partitioned Cox analysis and multiple sensitivity analyses.",
+      "bullets": [
+        "In propensity-matched patients with primary shoulder osteoarthritis, anatomic TSA had a lower revision rate than reverse TSA only within the first 90 days after surgery, with no significant difference detected from day 91 onward.",
+        "The early revision advantage of anatomic TSA was driven by males and patients under 65, with no significant difference seen in women or patients 65 and older at any time point.",
+        "Surgeons counseling patients on implant choice for primary osteoarthritis can note that beyond the perioperative window, revision risk appears similar between anatomic and reverse TSA at mid-term follow-up."
+      ]
+    },
+    {
+      "pmid": "43076395",
+      "title": "Effect of Concomitant Meniscectomy versus Meniscus Repair on 2-year Revision Risk After Anterior Cruciate Ligament Reconstruction: A Matched Cohort Study.",
+      "authors": [
+        "Auerbach E",
+        "Mastrokostas LE",
+        "Budin JS",
+        "Johnson M",
+        "Yusupov D",
+        "Singh R",
+        "Rajan R",
+        "Kopilak E",
+        "Tyagi A",
+        "Monas A",
+        "Rodriguez AN",
+        "Sheth B",
+        "Magruder M",
+        "Mastrokostas PG",
+        "Gilat R",
+        "Razi AE",
+        "Ng MK"
+      ],
+      "authors_short": "Auerbach E, Mastrokostas LE, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Meniscal tears frequently accompany anterior cruciate ligament (ACL) injuries, but the short-term effect of concomitant meniscal treatment on ACLR failure remains unclear. The goal of this study was to determine whether meniscectomy or meniscus repair performed during ACLR affects 2-year ACL revision risk compared with isolated ACLR and to evaluate revision surgery patterns for meniscus tears by tear location and morphology. METHODS: Adult patients undergoing ACLR in the PearlDiver Mariner database from 2015 to 2023 were included. Cohorts were isolated ACLR, ACLR with meniscectomy, or ACLR with meniscus repair. Groups were 1:1 matched on demographics/comorbidities. The primary outcome was ACL revision within 2 years. Secondary outcomes were subsequent meniscectomy or repeat meniscus repair. Results are reported as odds ratios (ORs) with 95% CIs. RESULTS: Among 105,238 ACLR patients, concomitant meniscectomy was not associated with higher 2-year ACL revision compared with isolated ACLR (4.0% vs 3.9%; OR 0.97, 95% CI, 0.90 to 1.06; P = 0.466). Similarly, meniscus repair was not associated with higher revision versus isolated ACLR (5.0% vs 4.6%; OR 0.91, 95% CI, 0.82 to 1.01; P = 0.076). When comparing meniscectomy versus repair within tear location strata, meniscectomy was associated with fewer subsequent meniscal procedures for both medial and lateral tears (all P \u2264 0.004), while ACL revision rates were similar between treatments (medial: OR 1.00, P = 0.999; lateral: OR 0.94, P = 0.603). Within tear morphology strata, meniscectomy was associated with fewer subsequent meniscectomies versus repair across bucket-handle, complex, and peripheral tears (all P \u2264 0.012) and fewer repeat repairs for complex tears (OR 0.52; P < 0.001), while ACL revision rates were similar across morphologies. CONCLUSION: Concomitant meniscal surgery at the time of ACLR did not increase 2-year ACL revision risk compared with isolated ACLR. Meniscectomy was associated with fewer subsequent meniscal procedures than repair, while tear morphology influenced revision surgery patterns.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43076395/",
+      "score": 82,
+      "score_reasoning": "Large database study (105,238 ACLR patients) in JAAOS providing definitive, practice-relevant data on how concomitant meniscal treatment affects 2-year ACL revision risk with well-matched cohorts.",
+      "bullets": [
+        "In over 100,000 ACL reconstruction patients, neither concomitant meniscectomy nor meniscus repair increased the 2-year ACL revision rate compared to isolated ACL reconstruction.",
+        "Meniscectomy was associated with fewer subsequent meniscal procedures than repair across all tear locations and morphologies, including bucket-handle, complex, and peripheral tears.",
+        "For surgeons treating ACL tears with concurrent meniscal pathology, the choice between meniscectomy and repair does not appear to affect short-term graft survival, though repair carries a higher rate of return to the operating room for the meniscus."
+      ]
+    },
+    {
+      "pmid": "43062323",
+      "title": "The Incidence of Late Periprosthetic Femoral Fractures by Implant Type-A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Brkljac M",
+        "Lovie J",
+        "Cobb J",
+        "Logishetty K"
+      ],
+      "authors_short": "Brkljac M, Lovie J, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "AIMS: Periprosthetic femoral fractures (PFF) are the leading cause of revision surgery after total hip arthroplasty when revision and fixation are combined, with morbidity and mortality akin to hip fractures. Polished taper slip (PTS) stems are increasingly seen as high risk; fracture risk of other cementation philosophies, or with noncemented stems excluding intraoperative or early postoperative fractures, remains uncertain. We compared the incidence of late PFFs (>3 months postoperatively) across different stem designs. METHODS: A systematic review of English-language studies published since 2000 was conducted. The Newcastle-Ottawa scale was used to assess study quality, with overall good ratings. A total of 28,854 hips from 27 studies were included (19,552 cemented, 9,302 noncemented). Stems were classified into subtypes to compare similar designs. Studies were excluded if early fractures (<3 months) could not be separated. RESULTS: No notable difference in late PFF risk was found between cemented and noncemented stems (incidence rate ratios: 1.00, 95% confidence interval 0.74 to 1.35). Among cemented stems, PTS designs had the highest fracture rate (0.15 per 100 person-years), markedly higher than French paradox (0.04), and composite beam stems (0.01) (P = 0.0158). Within PTS stems, CPT (0.53) and C stems (0.29) had the highest rates, whereas CPCS had the lowest (0.09). Within noncemented designs, type A stems did not show an advantage over type B (0.07 vs 0.12; P = 0.29). No difference in fracture rates between collared and noncollared noncemented implants was seen (P = 0.58 confidence interval 95% 0.53 to 1.42). CONCLUSION: Noncemented stems do not pose a higher late PFF risk than cemented stems. PTS stems show particularly high late fracture rates, with substantial variation between individual designs. By contrast, French paradox and composite beam stems appear protective and may offer a safer cemented option. No notable differences were observed among noncemented designs. Future studies should incorporate standardized methods for analyzing the relationship between the stem and femoral morphology.",
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43062323/",
+      "score": 80,
+      "score_reasoning": "High-quality prospective registry study in KSTA with propensity-matched comparisons evaluating 12-month outcomes after ACLR with repaired ramp lesions versus other meniscal lesion types, directly relevant to surgical decision-making.",
+      "bullets": [
+        "Polished taper slip cemented stems carry the highest late periprosthetic femoral fracture rate, up to 15 times higher than composite beam designs.",
+        "Cemented and uncemented stems carry equivalent late fracture risk overall, so implant fixation type alone should not drive implant selection on safety grounds.",
+        "Among cemented options, French paradox and composite beam stems show the lowest fracture rates and may be preferable in patients at higher fracture risk."
+      ]
+    },
+    {
+      "pmid": "43072654",
+      "title": "Comparative Diagnostic Accuracy of Multiplex PCR by Sample Type for Periprosthetic Joint Infection: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Wang L",
+        "Zhang H",
+        "Cao L",
+        "Zhao Z",
+        "Wan C",
+        "Song K"
+      ],
+      "authors_short": "Wang L, Zhang H, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: This systematic review and meta-analysis compared the diagnostic performance of multiplex polymerase chain reaction (mPCR) for periprosthetic joint infection (PJI) across three sample types: synovial fluid, periprosthetic tissue, and prosthetic sonicate fluid. METHODS: Following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, we searched PubMed, EMBASE, and the Cochrane Library up to November 10, 2025. A total of 20 studies were included. We assessed study quality using the Quality Assessment of Diagnostic Accuracy Studies-2 (QUADAS-2) tool. For each sample type, we calculated pooled sensitivity and specificity and generated summary receiver operating characteristic (SROC) curves with their area under the curve (AUC). RESULTS: Diagnostic accuracy varied substantially by sample type. Sonicate fluid performed best, with pooled sensitivity of 0.72 (95% confidence interval [CI], 0.56 to 0.84), specificity of 0.98 (95% CI, 0.95 to 0.99), and an AUC of 0.95 (95% CI, 0.83 to 0.97). Synovial fluid showed moderate sensitivity of 0.62 (95% CI, 0.54 to 0.70), high specificity of 0.95 (95% CI, 0.91 to 0.97), and an AUC of 0.89 (95% CI, 0.76 to 0.94). Periprosthetic tissue had the lowest sensitivity of 0.23 (95% CI, 0.13 to 0.38), high specificity of 0.94 (95% CI, 0.85 to 0.98), and an AUC of 0.75 (95% CI, 0.16 to 0.83). CONCLUSIONS: Sonicate fluid showed the highest diagnostic accuracy for pathogen identification after prosthesis removal, but its clinical utility is limited to the intraoperative setting. Synovial fluid remains the primary preoperative sample, though its limited sensitivity precludes its use as a standalone rule-out test. Given the limited evidence base for tissue samples, the choice of sample should be guided by clinical context. Future studies should focus on standardized protocols and further validation in larger cohorts.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43072654/",
+      "score": 78,
+      "score_reasoning": "Prospective cohort study (151 patients, 2-year follow-up) in FAI documenting significant functional improvement after proximal medial gastrocnemius recession for chronic plantar fasciitis, filling a gap in prospective data for a common surgical procedure.",
+      "bullets": [
+        "Multiplex PCR on sonicate fluid has the highest accuracy for identifying pathogens in periprosthetic joint infection, but only applies when the implant has already been removed intraoperatively.",
+        "Synovial fluid multiplex PCR is the best preoperative option, though its sensitivity is too low to rule out infection on its own.",
+        "Periprosthetic tissue performs poorly with multiplex PCR and should not be the primary sample when other options are available."
+      ]
+    },
+    {
+      "pmid": "43076610",
+      "title": "Increased Lateral to Medial Posterior Tibial Slope Differential Is Associated With Increased Revision Risk After Acute ACL Reconstruction.",
+      "authors": [
+        "Beauchamp-Chalifour P",
+        "Giannakis PE",
+        "Retzky JS",
+        "Covin SE",
+        "Pechstein AE",
+        "Allen A",
+        "Dines J",
+        "Fealy S",
+        "Gomoll A",
+        "Hannafin J",
+        "Kelly A",
+        "MacGillvray J",
+        "McCarthy M",
+        "Nwachukwu B",
+        "Ranawat A",
+        "Rodeo S",
+        "Strickland S",
+        "Taylor S",
+        "Warren R",
+        "Wickiewicz T",
+        "Stein BS",
+        "Sutton K",
+        "Nawabi DH",
+        "Pearle AD",
+        "Williams RJ",
+        "Marx RG"
+      ],
+      "authors_short": "Beauchamp-Chalifour P, Giannakis PE, et al.",
+      "journal": "The American journal of sports medicine",
+      "journal_abbrev": "Am J Sports Med",
+      "year": "2026",
+      "abstract": "BACKGROUND: Recent evidence suggests that an increased lateral posterior tibial slope (PTS) relative to the medial PTS may increase internal rotatory instability of the knee and could contribute to anterior cruciate ligament reconstruction (ACLR) failure. However, whether this slope differential is associated with an increased risk of revision ACLR remains unclear in clinical practice. PURPOSE: To determine whether an increased delta PTS, defined as lateral minus medial PTS on magnetic resonance imaging (MRI), is associated with an increased risk of revision ACLR. STUDY DESIGN: Cohort study; Level of evidence, 3. METHODS: In this retrospective cohort study, a longitudinally maintained registry of consecutive patients undergoing primary ACLR at a single academic orthopaedic institution between January 2019 and December 2022 was reviewed. Lateral and medial PTSs were measured on preoperative MRI, and the delta PTS was computed. Multivariable Cox proportional hazards regression was used to evaluate the association between delta PTS and revision ACLR. A receiver operating characteristic (ROC) curve for the association of delta PTS with revision ACLR within 2 years was constructed to estimate the area under the curve (AUC). A delta PTS threshold corresponding to a specificity of 90% was identified to explore a potential threshold for ruling out an increased risk of revision ACLR. RESULTS: The cohort included 712 patients undergoing primary ACLR, of whom 52% were female. With a mean follow-up of 41 months (SD, 17 months), 31 (4.4%) patients underwent revision ACLR. The delta PTS was greater in patients who underwent revision compared with those who did not (2.9\u00b0 [SD, 2.8\u00b0] vs -0.3\u00b0 [SD, 2.8\u00b0]; P < .001). After adjustment for known clinical predictors of anterior cruciate ligament (ACL) graft failure, each 1\u00b0 increase in the delta PTS was associated with a 51% higher risk of revision ACLR over time (hazard ratio, 1.51; 95% CI, 1.31-1.75; P < .001). The ROC yielded an AUC of 0.88 (95% CI, 0.80-0.95). The threshold corresponding to a specificity of 90% was 3.1\u00b0 of the delta PTS, suggesting that patients with a delta PTS <3.1\u00b0 are at low risk for revision. CONCLUSION: An increased lateral to medial delta PTS is associated with a higher risk of revision ACLR.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43076610/",
+      "score": 77,
+      "score_reasoning": "AJSM retrospective cohort of 712 ACLR patients demonstrating delta posterior tibial slope association with revision risk and providing a clinically applicable threshold, relevant to preoperative risk stratification.",
+      "bullets": [
+        "In 712 primary ACL reconstructions, patients who needed revision had a lateral-to-medial posterior tibial slope difference of about 3 degrees greater than those who did not.",
+        "Each 1-degree increase in this slope differential was associated with a 51% higher revision risk, independent of other known graft failure predictors.",
+        "Patients with a lateral-to-medial slope differential under 3.1 degrees are at low revision risk, making this MRI measurement a practical preoperative screening tool."
+      ]
+    },
+    {
+      "pmid": "43072649",
+      "title": "Lower Geriatric Nutritional Risk Index Independently Predicts Periprosthetic Joint Infection in Elderly Patients After Primary Total Joint Arthroplasty.",
+      "authors": [
+        "Jiang B",
+        "Ai Y",
+        "Fan J",
+        "Ding Z",
+        "Liu L",
+        "Luo Z",
+        "Zhou Z"
+      ],
+      "authors_short": "Jiang B, Ai Y, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Whether low geriatric nutritional risk index (GNRI) affects risk of periprosthetic joint infection (PJI) remains unclear. The present study explored this question among elderly undergoing primary total joint arthroplasty (TJA). METHODS: This retrospective study included 5,157 patients aged 65 years or older who underwent primary total knee or hip arthroplasty (TKA/THA). The associations between preoperative GNRI and PJI were examined with Firth penalized logistic regression. The GNRI was analyzed as a continuous, binary, and quartile-based variable. Discrimination of GNRI, ratio of albumin to fibrinogen (AFR), and prognostic nutritional index (PNI) was assessed with receiver operating characteristic curve (ROC) analysis and compared with the DeLong test. Incremental predictive value beyond a baseline clinical model, restricted cubic spline analysis, and calibration assessment were also performed. RESULTS: Postoperative PJI occurred in 46 of 5,157 patients (0.9%). The absolute PJI rate was 4.39% among patients who had GNRI less than 98 and 0.30% among those who had GNRI \u2265 98. In the fully adjusted model, each 1-unit decrease in GNRI was associated with increased odds of PJI (OR [odds ratio], 1.23; 95% CI [confidence interval], 1.16 to 1.31; P < 0.001), and GNRI less than 98 was associated with higher odds of PJI (OR, 6.73; 95% CI, 2.97 to 18.60; P < 0.001). The GNRI had an area under the curve (AUC) of 0.843, compared with 0.753 for AFR and 0.646 for PNI. After bootstrap internal validation, the optimism-corrected AUC was 0.835 for the baseline clinical model and 0.903 after the addition of GNRI. Restricted cubic spline (RCS) analysis demonstrated an inverse association between GNRI and PJI risk, and calibration was acceptable. CONCLUSION: Low preoperative GNRI is independently associated with PJI after primary TJA in elderly patients. In this cohort, GNRI showed a higher observed AUC than the other nutritional indices evaluated, supporting its potential utility for preoperative risk assessment.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43072649/",
+      "score": 76,
+      "score_reasoning": "Large consecutive cohort (1,214 primary TKAs) in JOA comparing cemented vs cementless 3D-printed tibial baseplates for early aseptic loosening with Kaplan-Meier analysis, directly relevant to implant selection decisions.",
+      "bullets": [
+        "In patients aged 65 and older undergoing primary total joint arthroplasty, a preoperative GNRI below 98 was associated with a periprosthetic joint infection rate of 4.4% versus 0.3% in those with a GNRI of 98 or above.",
+        "A lower GNRI score independently predicted periprosthetic joint infection, with each one-unit decrease in GNRI associated with meaningfully higher infection odds after adjusting for other clinical factors.",
+        "Calculating the GNRI before elective hip or knee arthroplasty in elderly patients may help identify those at elevated infection risk who could benefit from nutritional optimisation prior to surgery."
+      ]
+    },
+    {
+      "pmid": "43094122",
+      "title": "Prophylactic Fasciocutaneous Advancement in Geriatric Ankle Fractures: A Comparative Study of Wound Complications.",
+      "authors": [
+        "Ruiz-Riquelme P",
+        "Tolosa \u00c1",
+        "Castro M",
+        "Becerra E"
+      ],
+      "authors_short": "Ruiz-Riquelme P, Tolosa \u00c1, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Ankle fractures in elderly patients are common and carry substantial soft tissue risks. This study evaluated the clinical association of a prophylactic, tension-free fasciocutaneous advancement (FA) technique vs conventional closure on surgical wound outcomes. METHODS: This comparative cohort study analyzed 180 geriatric patients (age\u2009\u2265\u200960 years) undergoing open reduction and internal fixation (ORIF) for closed, unstable ankle fractures using lateral plating protocols; high-risk profiles with pre-existing necrosis, open fractures, or active infection were excluded. Group A (n\u2009=\u200960; retrospective cohort) underwent prophylactic FA maneuver with regular closure, whereas group B (n\u2009=\u2009120; concurrent and historical control cohort) received conventional closure alone. The primary outcome was total surgical wound complications, assessed until wound closure or resolution. Demographic analysis, matching between groups, and wound complications using Fisher exact test and \u03c72. Stata V.14 was used for data analysis. Sample size was estimated to be 120 patients, with 80% power and \u03b1\u2009=\u20090.05. RESULTS: Baseline characteristics, including age, sex, and comorbidities, showed no significant difference detectable with the numbers available between groups. The total incidence of surgical wound complications was significantly lower in the intervention cohort (group A: 6.7% [4/60]) compared to the conventional closure group (group B: 23.3% [28/120]; P\u2009=\u2009.0065) despite a higher proportion of fracture-dislocations in group A (P\u2009=\u2009.029). In univariate analysis, prophylactic FA was associated with a 77% reduction in the crude odds of surgical wound complications (OR\u2009=\u20090.23, 95% CI 0.08-0.70; P\u2009=\u2009.010). Multivariable logistic regression adjusting for age, sex, diabetes, smoking, and fracture-dislocation supported this association (adjusted OR\u2009=\u20090.20, 95% CI 0.06-0.63; P\u2009=\u2009.006). Only fracture-dislocation drove a 13% change in the adjusted estimate and was itself independently associated with wound complications (adjusted OR\u2009=\u20092.32, 95% CI 1.03-5.24; P\u2009=\u2009.042); the rest were not confounders. CONCLUSION: In geriatric patients undergoing plate fixation for unstable ankle fractures, prophylactic fasciocutaneous advancement was significantly associated with fewer total surgical wound complications than conventional closure. Given the retrospective, non-randomized design, prospective confirmation is warranted; nonetheless, this simple, reproducible adjunct shows clinical utility in closed fractures managed with standardized lateral plating protocols. LEVEL OF EVIDENCE: Level III, retrospective comparative study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43094122/",
+      "score": 75,
+      "score_reasoning": "Comparative cohort study (180 geriatric ankle fracture patients) in FAI showing prophylactic fasciocutaneous advancement significantly reduces wound complications (6.7% vs 23.3%), offering a highly applicable technique for high-risk patients.",
+      "bullets": [
+        "In geriatric patients undergoing ankle ORIF, prophylactic fasciocutaneous advancement closure reduced wound complications from 23% to 7% compared to standard closure.",
+        "The benefit held even though the fasciocutaneous advancement group had more fracture-dislocations, which independently increased complication risk.",
+        "For elderly patients with unstable ankle fractures requiring lateral plating, adding this tension-free soft tissue advancement at closure is a low-complexity step that may meaningfully reduce wound problems."
+      ]
+    },
+    {
+      "pmid": "43076012",
+      "title": "Indications for medial unicompartmental knee arthroplasty (UKA). The 2026 ESSKA-EKA formal consensus. Part 1-Patient history and clinical principles.",
+      "authors": [
+        "Servien E",
+        "Tandogan R",
+        "Becker R",
+        "Leal-Blanquet J",
+        "Clarius M",
+        "Hirschmann MT",
+        "Plancher K",
+        "Saffarini M",
+        "Skowronek P",
+        "Vasso M",
+        "Bozkurt M",
+        "Beaufils P",
+        "Kyriakidis T",
+        "Violante B"
+      ],
+      "authors_short": "Servien E, Tandogan R, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: This consensus followed the ESKKA formal consensus methodology and aimed to provide updated, evidence\u2011based and expert\u2011opinion recommendations defining current indications for medial unicompartmental knee arthroplasty (UKA). Part I focuses on patient history, demographics and clinical assessment. METHODS: European expert surgeons and scientists were organized into a steering group (11 experts from 9 countries), a rating group (23 experts from 16 countries) and a peer-review group of representatives of the ESSKA-affiliated national societies to ensure geographic applicability and acceptance. The steering group developed 35 question-and-answer statements (20 related to Part I). The statements were graded according to the strength of scientific evidence: Grade A (high level of scientific evidence), Grade B (scientific presumption), Grade C (low level of scientific support) or Grade D (expert opinion). Following statement development, an independent rating group evaluated each recommendation according to scientific quality and clinical relevance using a 9-point Likert scale (1 = totally inappropriate and 9 = totally appropriate). Statements with a median agreement below 7 were revised, and an updated manuscript was submitted to the rating group for a second evaluation. A final combined 'face-to-face' meeting between the steering and rating groups enabled completion of the final version of the document. The final version of the manuscript was subsequently reviewed by the peer review group to produce the final consensus statement. RESULTS: In this Part I, consensus was reached on 12 questions with strong agreement (median\u2009\u2265\u20097; range: 7-9), while the remaining 8 demonstrated relative agreement (median\u2009\u2265\u20097; range: 5-9). No statements were deemed uncertain. However, the overall quality of the supporting evidence was low, with all statements classified as Grade C or D. CONCLUSIONS: This consensus was undertaken to provide the best available recommendations for medial UKA in patients with isolated medial compartment osteoarthritis or spontaneous osteonecrosis of the knee. Current evidence supports expanded indications, as factors such as anterior cruciate ligament deficiency, younger age, higher body mass index, patellofemoral arthritis, chondrocalcinosis, rheumatoid arthritis and fixed flexion deformity are no longer considered absolute contraindications. This study's clinical relevance is to provide evidence to guide patient selection and surgical planning, and to help surgeons choose appropriate treatment options. LEVEL OF EVIDENCE: Level I.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43076012/",
+      "score": 72,
+      "score_reasoning": "ESSKA-EKA formal consensus (2026) in KSTA providing updated, evidence-based recommendations for medial UKA indications from international expert panel, directly applicable to surgical decision-making.",
+      "bullets": [
+        "A 2026 European consensus across 34 experts confirms that medial UKA is appropriate for isolated medial compartment arthritis and spontaneous osteonecrosis of the knee.",
+        "ACL deficiency, younger age, higher BMI, patellofemoral arthritis, chondrocalcinosis, rheumatoid arthritis, and fixed flexion deformity are no longer considered absolute contraindications to medial UKA.",
+        "The supporting evidence for all 20 recommendations was graded low (Grade C or D), meaning current expanded indications rest largely on expert opinion rather than high-quality trial data."
+      ]
+    },
+    {
+      "pmid": "43071779",
+      "title": "Worse Than Just the Sum of Its Parts: Polymicrobial Infection Demonstrates Synergistic Biofilm Formation and Bone Loss: A Murine Model of Periprosthetic Joint Infection.",
+      "authors": [
+        "Mamouei Z",
+        "Hamad CD",
+        "Chun RF",
+        "Lloyd T",
+        "Peterson NV",
+        "Li A",
+        "Kendal JK",
+        "Pearce J",
+        "Sobti R",
+        "Kavanaugh A",
+        "Yeaman MR",
+        "Billi F",
+        "Francis KP",
+        "Dipane MV",
+        "McPherson EJ",
+        "Bernthal NM"
+      ],
+      "authors_short": "Mamouei Z, Hamad CD, et al.",
+      "journal": "The Journal of bone and joint surgery. American volume",
+      "journal_abbrev": "J Bone Joint Surg Am",
+      "year": "2026",
+      "abstract": "BACKGROUND: Periprosthetic joint infection (PJI) remains a leading cause of implant failure, with high treatment failure and mortality rates. Polymicrobial PJIs, particularly those involving Staphylococcus aureus (SA) and Candida albicans (CA), may be more common and difficult to eradicate than previously recognized. These coinfections are associated with enhanced biofilm formation, antimicrobial resistance, and worse clinical outcomes, but their in vivo impact remains poorly understood. METHODS: We compared SA, CA, and SA + CA cocultures for biofilm formation on titanium, colony-forming units (CFUs), architecture as seen with scanning electron microscopy, and antimicrobial resistance. We then adapted a chronic murine PJI model in C57BL/6J mice to quantify longitudinal SA bioluminescence, end-point SA and CA CFUs, and femoral metadiaphyseal expansion by micro-computed tomography. RESULTS: CA coculture increased SA CFUs compared with SA monomicrobial infection and produced complex biofilm architecture on titanium. Co-biofilms showed increased resistance to vancomycin and amphotericin B. Coinfected mice had greater SA bioluminescence, 100-fold higher end-point implant CFUs of SA, and greater femoral metadiaphyseal expansion than mice with SA monomicrobial infection, without increased CA burden. CONCLUSIONS: Compared with SA monomicrobial infection, SA-CA coinfection enhanced SA biofilm formation, antimicrobial tolerance in vitro, and femoral remodeling in vivo, supporting a more severe bacterial-fungal periprosthetic joint infection phenotype. CLINICAL RELEVANCE: Polymicrobial PJI involving SA and CA may represent a distinct phenotype characterized by enhanced SA biofilm formation and femoral remodeling, supporting further study of improved diagnostics and targeted anti-biofilm strategies.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43071779/",
+      "score": 71,
+      "score_reasoning": "JBJS study using murine model demonstrating synergistic biofilm formation and bone loss in polymicrobial SA+Candida PJI, providing novel mechanistic insights with important clinical implications for one of the most challenging infection scenarios.",
+      "bullets": [
+        "In a mouse implant model, joints infected with both Staph aureus and Candida albicans together had 100-fold more bacteria on the implant than joints infected with Staph aureus alone.",
+        "The combined bacterial-fungal biofilm was more resistant to both vancomycin and amphotericin B, and caused greater bone loss around the implant than either organism alone.",
+        "Surgeons treating periprosthetic joint infection should consider that undetected Candida co-infection may be driving treatment failure in cases that appear to be straightforward staph infections."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-11-26T12:25:55.823259-07:00"
+}
