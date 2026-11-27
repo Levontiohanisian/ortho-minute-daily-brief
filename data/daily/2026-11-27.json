@@ -1,0 +1,303 @@
+{
+  "brief_date": "2026-11-27",
+  "brief_date_display": "Friday, November 27",
+  "candidates": [
+    {
+      "pmid": "43085613",
+      "title": "Structural Benefit, Selective Functional Gain: Double-Row Versus Single-Row Arthroscopic Rotator Cuff Repair - A Tear-Stratified Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Ghazy A",
+        "Marie ME",
+        "Hassan AY",
+        "Ahmed AI",
+        "Hawila AM"
+      ],
+      "authors_short": "Ghazy A, Marie ME, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Single-row (SR) and double-row (DR) fixation are common arthroscopic rotator cuff repair techniques, but whether DR's biomechanical advantages translate into improved structural, functional, or patient-reported outcomes remains unclear. Prior meta-analyses have not separately examined modern DR configurations, tear thickness, size, and follow-up. PURPOSE: To compare arthroscopic SR and DR repair across structural, functional, and patient-reported outcomes, with prespecified subgroups by DR configuration, partial- versus full-thickness retears, tear size, study design, and follow-up. STUDY DESIGN: Systematic review and meta-analysis. METHODS: Six databases were searched from inception through March 2026 for randomized trials (RCTs) and non-randomized comparative studies comparing arthroscopic SR with DR repair. Random-effects models pooled risk ratios (RRs) for retear and mean differences (MDs) or standardized mean differences (SMDs) for functional outcomes, with 95% CIs. Risk of bias (RoB 2, ROBINS-I) and certainty (GRADE) were assessed, with leave-one-out and small-study sensitivity analyses. RESULTS: Fifty-five studies (4775 shoulders; 23 RCTs) were included. DR repair reduced full-thickness retear (40 studies; RR, 0.69 [95% CI, 0.55-0.86]; number needed to treat [NNT], 21) and partial-thickness retear (12 studies; RR, 0.57 [0.43-0.75]; NNT, 10), persisting in RCTs alone (RR, 0.60 [0.45-0.80]). UCLA scores favored DR at all intervals (MD, 0.76-1.66) and ASES scores at short- and long-term follow-up (MD, 1.75-2.58), but all fell below the minimal clinically important difference; Constant-Murley and pain scores did not differ. Functional and range-of-motion advantages were concentrated in large and massive tears, with no benefit in small and medium tears. DR required longer operative time (MD, 15.95 minutes). CONCLUSION: DR repair reduces retear, with the greatest absolute reduction observed for partial-thickness retears. Functional and motion advantages are primarily evident in large and massive tears, while no clinically important differences are observed in small and medium tears. Construct selection should be guided by tear size and remnant tendon quality rather than an assumed universal superiority of DR repair. The certainty of the evidence supporting these conclusions is moderate to high.",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43085613/",
+      "score": 82,
+      "score_reasoning": "High-impact meta-analysis of 55 studies (4775 shoulders, 23 RCTs) in JSES directly answering the clinically contested SR vs DR rotator cuff repair question with tear-stratified subgroups and GRADE assessment.",
+      "bullets": [
+        "Double-row repair reduces retear rates compared to single-row across all tear sizes, with the strongest absolute reduction seen in partial-thickness retears (NNT 10).",
+        "Functional and range-of-motion gains with double-row repair are limited to large and massive tears, with no clinically meaningful difference in small and medium tears.",
+        "For small and medium tears, single-row repair is a reasonable choice, as construct selection should be based on tear size and tendon quality rather than assumed universal superiority of double-row fixation."
+      ]
+    },
+    {
+      "pmid": "43078259",
+      "title": "Early- to Mid-Term Revision Risk Following Anatomic vs. Reverse Total Shoulder Arthroplasty for Primary Osteoarthritis: A Propensity-Matched Analysis of 13,124 Patients.",
+      "authors": [
+        "Johri M",
+        "Yazdanpanah S",
+        "Bouzid NM",
+        "Reiter CR",
+        "Mun J",
+        "Satalich JR"
+      ],
+      "authors_short": "Johri M, Yazdanpanah S, et al.",
+      "journal": "Journal of shoulder and elbow surgery",
+      "journal_abbrev": "J Shoulder Elbow Surg",
+      "year": "2026",
+      "abstract": "BACKGROUND: Registry studies report mixed findings on revision risk differences between reverse total shoulder arthroplasty (rTSA) and anatomic total shoulder arthroplasty (aTSA) in patients with primary osteoarthritis (OA). This study compared revision risk over early- to mid-term follow-up between aTSA and rTSA in US patients with primary OA. METHODS: A retrospective cohort study was conducted using the multicenter TriNetX US Collaborative Network database. ICD-10 coding identified patients undergoing primary aTSA or rTSA for primary OA from October 2015-October 2026. Patients with prior hemiarthroplasty/surface replacement, rotator cuff tear, proximal humerus fracture, rheumatoid arthritis, avascular necrosis, prior revision arthroplasty, or the competing arthroplasty type were excluded. Cohorts were matched using 1:1 nearest-neighbor propensity scoring. Kaplan-Meier survival analysis and Cox proportional hazards models were used. Time-partitioned, broad-cohort, sex-stratified, age-stratified, and outcome-restricted analyses of both-component revisions were conducted. RESULTS: Propensity score matching yielded 6,562 matched patients per cohort. Median follow-up was 6.0 years (aTSA) and 4.0 years (rTSA). Revision occurred in 253 aTSA patients (3.9%) versus 251 rTSA (3.8%; HR 0.79, 95%CI 0.66-0.94, P=.008) with violation of proportional hazards (P<.001). After Benjamini-Hochberg correction, aTSA was associated with a significantly lower revision hazard during the first postoperative year (HR 0.50, 95%CI 0.37-0.68), concentrated in days 1-90 (HR 0.21, 95%CI 0.13-0.35). No significant association was observed during days 91-365 (HR 1.15, 95%CI 0.75-1.78) or years 1-5 (HR 0.86, 95%CI 0.66-1.13). Beyond 5 years, the HR favored rTSA, but this association did not remain significant after multiple-comparison correction. Significant associations favoring aTSA were observed in the broad cohort (HR 0.88, 95%CI 0.79-0.98), males (HR 0.55, 95%CI 0.42-0.71), patients <65 years (HR 0.67, 95%CI 0.49-0.91), and revisions of both humeral and glenoid components in the first postoperative year (HR 0.56, 95%CI 0.39-0.81). Associations were nonsignificant in females, patients \u226565 years, and for both-component revisions across full follow-up. CONCLUSION: In this retrospective propensity score-matched analysis of patients in the US, the association between arthroplasty type and revision hazard varied over time. The lower revision hazard associated with aTSA during the first postoperative year was concentrated within the first 90 days, with no significant association detected during subsequent postoperative intervals. These findings differ from those of the most recent comparable study and highlight the importance of considering postoperative timing when evaluating revision risk by arthroplasty type. Better understanding of differential revision risk by arthroplasty type may help surgeons with decision-making and patient counseling at the time of primary arthroplasty. LEVEL OF EVIDENCE: Level III, Retrospective Cohort Comparison Using Large Database, Treatment Study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43078259/",
+      "score": 80,
+      "score_reasoning": "Large propensity-matched registry study (13,124 patients) in JSES comparing aTSA vs rTSA revision risk for primary OA with time-partitioned Cox analysis, directly actionable for shoulder arthroplasty decision-making.",
+      "bullets": [
+        "In propensity-matched patients with primary osteoarthritis, anatomic TSA had a lower revision rate than reverse TSA only within the first 90 days after surgery, with no significant difference detected from day 91 onward.",
+        "The early revision advantage of anatomic TSA was driven by males and patients under 65, with no significant difference seen in females or patients 65 and older at any time point.",
+        "Surgeons counseling primary osteoarthritis patients on implant choice can reassure them that revision risk beyond 90 days is similar between anatomic and reverse TSA at up to 5 years of follow-up."
+      ]
+    },
+    {
+      "pmid": "43097130",
+      "title": "Risk Factors for Contralateral Slipped Capital Femoral Epiphysis: Systematic Review and Meta-Analysis of Observational Studies.",
+      "authors": [
+        "Addar A",
+        "Alrasheed K",
+        "Alorayyidh M",
+        "Alanazi S",
+        "Aldosari Z",
+        "Benfaris D"
+      ],
+      "authors_short": "Addar A, Alrasheed K, et al.",
+      "journal": "Journal of pediatric orthopedics",
+      "journal_abbrev": "J Pediatr Orthop",
+      "year": "2026",
+      "abstract": "BACKGROUND: Children presenting with unilateral slipped capital femoral epiphysis (SCFE) are at risk of subsequent contralateral disease, but the risk factors that should guide surveillance or prophylactic fixation remain uncertain. This systematic review and meta-analysis evaluated demographic, clinical, and radiographic factors for contralateral SCFE. METHODS: This systematic review and meta-analysis was conducted in accordance with the PRISMA 2020 guidelines and registered with PROSPERO (CRD420261334939). MEDLINE, Scopus, Cochrane Central Register of Controlled Trials, and Web of Science were searched from inception through February 11, 2026. Eligible observational studies compared patients who developed contralateral SCFE with those who did not and reported candidate risk factors. Two reviewers independently screened studies, extracted data, and assessed quality using the Newcastle-Ottawa Scale. Random-effects meta-analyses pooled mean differences or odds ratios with 95% CIs. RESULTS: The search identified 507 records. Overall, 41 studies, including 18,767 patients, were included, of whom 2946 developed subsequent contralateral SCFE. Contralateral slip was associated with younger age, endocrine abnormality, open triradiate cartilage, lower modified Oxford score, increased posterior sloping angle, increased alpha angle, lower Southwick slip angle, lower lateral center-edge angle, reduced epiphyseal extension ratios, and lower frontal tilt angle. Peritubercle lucency showed a significant but imprecise association based on limited data. Sex, body mass index, renal disease, side of initial slip, slip chronicity, slip stability, physeal sloping angle, T\u00f6nnis angle, acetabular depth-width ratio, and posterior epiphyseal angle were not significantly associated with contralateral involvement. CONCLUSIONS: Risk of contralateral SCFE appears multifactorial. Younger, skeletally immature patients and those with endocrine abnormalities or high-risk radiographic features may warrant closer surveillance and individualized consideration of prophylactic fixation. Because the available evidence is observational and several estimates showed heterogeneity, clinical decisions should integrate multiple risk factors rather than rely on a single measurement. LEVEL OF EVIDENCE: Level III-systematic review and meta-analysis of Level II and III observational studies.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43097130/",
+      "score": 78,
+      "score_reasoning": "PRISMA-compliant systematic review and meta-analysis of 41 studies (18,767 patients) in JPO identifying contralateral SCFE risk factors, highly relevant for prophylactic fixation decisions in daily pediatric orthopaedic practice.",
+      "bullets": [
+        "In children with unilateral SCFE, contralateral slip risk is higher in younger, skeletally immature patients and those with endocrine abnormalities.",
+        "High-risk radiographic features on the unaffected side, including increased posterior sloping angle, increased alpha angle, and reduced epiphyseal extension ratios, are associated with contralateral slip.",
+        "No single factor reliably predicts contralateral SCFE, so prophylactic fixation decisions should be based on the combination of age, endocrine status, and radiographic findings rather than any one measurement."
+      ]
+    },
+    {
+      "pmid": "43070991",
+      "title": "Effect of GLP-1 Receptor Agonist Therapy on Spinal Fusion Outcomes: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Shaikh S",
+        "Coban D",
+        "Abdelmalek G",
+        "Younis MT",
+        "Abu Awwad A",
+        "Sahai N",
+        "Sinha K",
+        "Hwang K",
+        "Emami A"
+      ],
+      "authors_short": "Shaikh S, Coban D, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "INTRODUCTION: Spinal fusion remains the benchmark procedure for degenerative spine disease, but outcomes are frequently limited by complications such as pseudarthrosis and revision surgery. With the rise in glucagon-like peptide-1 receptor agonist (GLP-1 RA) use for diabetes and weight management, interest has grown in their effects on bone metabolism and fusion healing. This study evaluated the association between GLP-1 RA therapy and outcomes after spinal fusion, including pseudarthrosis, revision surgery, perioperative complications, and length of stay. METHODS: A systematic review of PubMed, Embase, Scopus, and Cochrane Library was conducted to identify adults undergoing cervical or lumbar fusion through September 2025. Data on study design, GLP-1 exposure, spinal region, and outcomes were extracted. Risk of bias was assessed using ROBINS-I, and certainty of evidence was evaluated using GRADE. Meta-analyses were conducted for pseudarthrosis outcomes. RESULTS: Twelve retrospective cohort studies and two reviews were included. All cohort studies carried at least moderate risk of bias, with three judged at serious risk; none achieved a low ROBINS-I rating. GRADE certainty was low for pseudarthrosis and length of stay and very low for revision surgery, infection, and other complications. Most studies reported reduced pseudarthrosis and shorter length of stay among GLP-1 users, particularly in lumbar cohorts, whereas posterior cervical and TLIF cohorts demonstrated more variable outcomes. Meta-analysis of six studies suggested a possible association between GLP-1 use and lower pseudarthrosis at 1-year follow-up (OR 0.62), driven primarily by lumbar fusion cohorts. CONCLUSION: Preoperative GLP-1 RA exposure may be associated with lower pseudarthrosis rates and shorter hospitalization among adults undergoing lumbar fusion. However, evidence is limited to retrospective studies with moderate-to-serious risk of bias, heterogeneous procedures, inconsistent fusion definitions, and limited drug-exposure data. Cervical fusion cohort findings were inconsistent. These results should be considered hypothesis generating and require prospective validation with standardized radiographic fusion criteria to inform perioperative management.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43070991/",
+      "score": 75,
+      "score_reasoning": "Large retrospective cohort (5,157 elderly TJA patients) in JA identifying GNRI as an independent PJI predictor with strong AUC (0.843), offering a simple preoperative nutritional screening tool applicable to routine arthroplasty practice.",
+      "bullets": [
+        "GLP-1 receptor agonist use before lumbar fusion was associated with lower pseudarthrosis rates at one year and shorter hospital stays across most included studies.",
+        "The benefit appears most consistent in lumbar fusion patients, while cervical fusion cohorts showed variable and inconsistent results.",
+        "All evidence comes from retrospective studies with moderate to serious bias, so findings are hypothesis generating and should not yet change perioperative prescribing decisions."
+      ]
+    },
+    {
+      "pmid": "43062323",
+      "title": "The Incidence of Late Periprosthetic Femoral Fractures by Implant Type-A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Brkljac M",
+        "Lovie J",
+        "Cobb J",
+        "Logishetty K"
+      ],
+      "authors_short": "Brkljac M, Lovie J, et al.",
+      "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+      "journal_abbrev": "J Am Acad Orthop Surg",
+      "year": "2026",
+      "abstract": "AIMS: Periprosthetic femoral fractures (PFF) are the leading cause of revision surgery after total hip arthroplasty when revision and fixation are combined, with morbidity and mortality akin to hip fractures. Polished taper slip (PTS) stems are increasingly seen as high risk; fracture risk of other cementation philosophies, or with noncemented stems excluding intraoperative or early postoperative fractures, remains uncertain. We compared the incidence of late PFFs (>3 months postoperatively) across different stem designs. METHODS: A systematic review of English-language studies published since 2000 was conducted. The Newcastle-Ottawa scale was used to assess study quality, with overall good ratings. A total of 28,854 hips from 27 studies were included (19,552 cemented, 9,302 noncemented). Stems were classified into subtypes to compare similar designs. Studies were excluded if early fractures (<3 months) could not be separated. RESULTS: No notable difference in late PFF risk was found between cemented and noncemented stems (incidence rate ratios: 1.00, 95% confidence interval 0.74 to 1.35). Among cemented stems, PTS designs had the highest fracture rate (0.15 per 100 person-years), markedly higher than French paradox (0.04), and composite beam stems (0.01) (P = 0.0158). Within PTS stems, CPT (0.53) and C stems (0.29) had the highest rates, whereas CPCS had the lowest (0.09). Within noncemented designs, type A stems did not show an advantage over type B (0.07 vs 0.12; P = 0.29). No difference in fracture rates between collared and noncollared noncemented implants was seen (P = 0.58 confidence interval 95% 0.53 to 1.42). CONCLUSION: Noncemented stems do not pose a higher late PFF risk than cemented stems. PTS stems show particularly high late fracture rates, with substantial variation between individual designs. By contrast, French paradox and composite beam stems appear protective and may offer a safer cemented option. No notable differences were observed among noncemented designs. Future studies should incorporate standardized methods for analyzing the relationship between the stem and femoral morphology.",
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43062323/",
+      "score": 74,
+      "score_reasoning": "Consecutive cohort of 1,214 TKAs comparing cemented vs cementless 3D-printed tibial baseplate fixation in JA provides implant-specific early loosening data directly relevant to current fixation debates.",
+      "bullets": [
+        "Polished taper slip cemented stems carry the highest late periprosthetic femoral fracture risk, far exceeding composite beam and French paradox designs.",
+        "Cemented and uncemented stems carry equivalent late fracture risk, so implant fixation method alone should not drive decision-making for fracture prevention.",
+        "For surgeons using cemented stems, composite beam and French paradox designs appear to be safer choices than polished taper slip stems in patients at risk for periprosthetic femoral fracture."
+      ]
+    },
+    {
+      "pmid": "43072654",
+      "title": "Comparative Diagnostic Accuracy of Multiplex PCR by Sample Type for Periprosthetic Joint Infection: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Wang L",
+        "Zhang H",
+        "Cao L",
+        "Zhao Z",
+        "Wan C",
+        "Song K"
+      ],
+      "authors_short": "Wang L, Zhang H, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: This systematic review and meta-analysis compared the diagnostic performance of multiplex polymerase chain reaction (mPCR) for periprosthetic joint infection (PJI) across three sample types: synovial fluid, periprosthetic tissue, and prosthetic sonicate fluid. METHODS: Following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, we searched PubMed, EMBASE, and the Cochrane Library up to November 10, 2025. A total of 20 studies were included. We assessed study quality using the Quality Assessment of Diagnostic Accuracy Studies-2 (QUADAS-2) tool. For each sample type, we calculated pooled sensitivity and specificity and generated summary receiver operating characteristic (SROC) curves with their area under the curve (AUC). RESULTS: Diagnostic accuracy varied substantially by sample type. Sonicate fluid performed best, with pooled sensitivity of 0.72 (95% confidence interval [CI], 0.56 to 0.84), specificity of 0.98 (95% CI, 0.95 to 0.99), and an AUC of 0.95 (95% CI, 0.83 to 0.97). Synovial fluid showed moderate sensitivity of 0.62 (95% CI, 0.54 to 0.70), high specificity of 0.95 (95% CI, 0.91 to 0.97), and an AUC of 0.89 (95% CI, 0.76 to 0.94). Periprosthetic tissue had the lowest sensitivity of 0.23 (95% CI, 0.13 to 0.38), high specificity of 0.94 (95% CI, 0.85 to 0.98), and an AUC of 0.75 (95% CI, 0.16 to 0.83). CONCLUSIONS: Sonicate fluid showed the highest diagnostic accuracy for pathogen identification after prosthesis removal, but its clinical utility is limited to the intraoperative setting. Synovial fluid remains the primary preoperative sample, though its limited sensitivity precludes its use as a standalone rule-out test. Given the limited evidence base for tissue samples, the choice of sample should be guided by clinical context. Future studies should focus on standardized protocols and further validation in larger cohorts.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43072654/",
+      "score": 73,
+      "score_reasoning": "Meta-analysis in JA of 20 studies on multiplex PCR diagnostic accuracy by sample type for PJI clearly shows sonicate fluid superiority, with direct impact on intraoperative sampling decisions.",
+      "bullets": [
+        "Multiplex PCR on sonicate fluid has the highest accuracy for identifying pathogens in periprosthetic joint infection, but only applies after implant removal in the operating room.",
+        "Synovial fluid multiplex PCR misses roughly 4 in 10 true infections, so a negative result alone cannot rule out periprosthetic joint infection preoperatively.",
+        "Tissue samples perform poorly with multiplex PCR and should not be the primary sample type when other options are available."
+      ]
+    },
+    {
+      "pmid": "43076012",
+      "title": "Indications for medial unicompartmental knee arthroplasty (UKA). The 2026 ESSKA-EKA formal consensus. Part 1-Patient history and clinical principles.",
+      "authors": [
+        "Servien E",
+        "Tandogan R",
+        "Becker R",
+        "Leal-Blanquet J",
+        "Clarius M",
+        "Hirschmann MT",
+        "Plancher K",
+        "Saffarini M",
+        "Skowronek P",
+        "Vasso M",
+        "Bozkurt M",
+        "Beaufils P",
+        "Kyriakidis T",
+        "Violante B"
+      ],
+      "authors_short": "Servien E, Tandogan R, et al.",
+      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "journal_abbrev": "Knee Surg Sports Traumatol Arthrosc",
+      "year": "2026",
+      "abstract": "PURPOSE: This consensus followed the ESKKA formal consensus methodology and aimed to provide updated, evidence\u2011based and expert\u2011opinion recommendations defining current indications for medial unicompartmental knee arthroplasty (UKA). Part I focuses on patient history, demographics and clinical assessment. METHODS: European expert surgeons and scientists were organized into a steering group (11 experts from 9 countries), a rating group (23 experts from 16 countries) and a peer-review group of representatives of the ESSKA-affiliated national societies to ensure geographic applicability and acceptance. The steering group developed 35 question-and-answer statements (20 related to Part I). The statements were graded according to the strength of scientific evidence: Grade A (high level of scientific evidence), Grade B (scientific presumption), Grade C (low level of scientific support) or Grade D (expert opinion). Following statement development, an independent rating group evaluated each recommendation according to scientific quality and clinical relevance using a 9-point Likert scale (1 = totally inappropriate and 9 = totally appropriate). Statements with a median agreement below 7 were revised, and an updated manuscript was submitted to the rating group for a second evaluation. A final combined 'face-to-face' meeting between the steering and rating groups enabled completion of the final version of the document. The final version of the manuscript was subsequently reviewed by the peer review group to produce the final consensus statement. RESULTS: In this Part I, consensus was reached on 12 questions with strong agreement (median\u2009\u2265\u20097; range: 7-9), while the remaining 8 demonstrated relative agreement (median\u2009\u2265\u20097; range: 5-9). No statements were deemed uncertain. However, the overall quality of the supporting evidence was low, with all statements classified as Grade C or D. CONCLUSIONS: This consensus was undertaken to provide the best available recommendations for medial UKA in patients with isolated medial compartment osteoarthritis or spontaneous osteonecrosis of the knee. Current evidence supports expanded indications, as factors such as anterior cruciate ligament deficiency, younger age, higher body mass index, patellofemoral arthritis, chondrocalcinosis, rheumatoid arthritis and fixed flexion deformity are no longer considered absolute contraindications. This study's clinical relevance is to provide evidence to guide patient selection and surgical planning, and to help surgeons choose appropriate treatment options. LEVEL OF EVIDENCE: Level I.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43076012/",
+      "score": 72,
+      "score_reasoning": "ESSKA-EKA formal consensus on medial UKA indications from 34 international experts provides evidence-graded recommendations directly applicable to UKA patient selection in clinical practice.",
+      "bullets": [
+        "A 2026 ESSKA-EKA consensus of 34 European experts confirms that medial UKA indications have expanded beyond traditional boundaries.",
+        "ACL deficiency, younger age, higher BMI, patellofemoral arthritis, chondrocalcinosis, rheumatoid arthritis, and fixed flexion deformity are no longer absolute contraindications to medial UKA.",
+        "Surgeons evaluating patients with isolated medial compartment osteoarthritis or osteonecrosis should reassess these historically restrictive criteria, as current evidence supports broader patient selection for medial UKA."
+      ]
+    },
+    {
+      "pmid": "43051502",
+      "title": "Certain Second-Generation Antipsychotics Increase Risk of Complications Following Total Hip Arthroplasty.",
+      "authors": [
+        "Jowkar N",
+        "Ruffner M",
+        "Koltenyuk V",
+        "Chmait H",
+        "Sokolik ID",
+        "Horsley H",
+        "Rohl M",
+        "Fuller S",
+        "Goud M",
+        "Blankstein M"
+      ],
+      "authors_short": "Jowkar N, Ruffner M, et al.",
+      "journal": "The Journal of arthroplasty",
+      "journal_abbrev": "J Arthroplasty",
+      "year": "2026",
+      "abstract": "BACKGROUND: Certain second-generation antipsychotics (SGAs) are increasingly prescribed for both psychiatric disorders and off-label indications. Through dopaminergic and serotonergic pathway inhibition, SGAs may impair bone remodeling, and antipsychotic-induced hyperprolactinemia has been associated with increased fracture risk. Despite these associations, the impact of SGA use on total hip arthroplasty (THA) outcomes remains unclear. This study evaluated postoperative outcomes following THA in patients receiving SGAs. METHODS: A large national database was queried for adults undergoing primary THA between 2006 and 2024. Patients who had SGA exposure within one year before surgery were compared with non-users after propensity-score matching for demographics, comorbidities, body mass index, and medication use. After matching, 10,818 patients were included (5,409 per cohort). The primary outcome was revision THA within two years. The secondary outcomes included periprosthetic fracture (PPF), surgical site infection (SSI), and all-cause mortality. RESULTS: The SGA exposure was associated with higher risks of revision THA (relative risk (RR) 1.6, 95% confidence interval (CI) 1.3 to 2.0), PPF (RR 2.0, 95% CI 1.5 to 2.7), SSI (RR 1.40, 95% CI 1.1 to 1.8), and all-cause mortality (RR 2.0, 95% CI 1.6 to 2.5) within two years. CONCLUSION: Preoperative SGA use was associated with significantly higher risks of revision arthroplasty, periprosthetic fracture, surgical site infection, and mortality after THA. These findings support closer perioperative optimization, medication review, and postoperative surveillance in patients receiving SGAs.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43051502/",
+      "score": 70,
+      "score_reasoning": "Large database study (435,789 TKA patients) in JA demonstrating Xa inhibitors associated with 60% higher odds of MUA versus aspirin, with immediate prescribing implications for VTE prophylaxis protocols.",
+      "bullets": [
+        "Patients taking second-generation antipsychotics before total hip arthroplasty had double the risk of periprosthetic fracture and death within two years compared to non-users.",
+        "This applies to any THA candidate with preoperative antipsychotic exposure, whether prescribed for psychiatric illness or off-label use.",
+        "Surgeons should flag antipsychotic use during preoperative planning and arrange closer postoperative follow-up for this patient group."
+      ]
+    },
+    {
+      "pmid": "43094122",
+      "title": "Prophylactic Fasciocutaneous Advancement in Geriatric Ankle Fractures: A Comparative Study of Wound Complications.",
+      "authors": [
+        "Ruiz-Riquelme P",
+        "Tolosa \u00c1",
+        "Castro M",
+        "Becerra E"
+      ],
+      "authors_short": "Ruiz-Riquelme P, Tolosa \u00c1, et al.",
+      "journal": "Foot & ankle international",
+      "journal_abbrev": "Foot Ankle Int",
+      "year": "2026",
+      "abstract": "BACKGROUND: Ankle fractures in elderly patients are common and carry substantial soft tissue risks. This study evaluated the clinical association of a prophylactic, tension-free fasciocutaneous advancement (FA) technique vs conventional closure on surgical wound outcomes. METHODS: This comparative cohort study analyzed 180 geriatric patients (age\u2009\u2265\u200960 years) undergoing open reduction and internal fixation (ORIF) for closed, unstable ankle fractures using lateral plating protocols; high-risk profiles with pre-existing necrosis, open fractures, or active infection were excluded. Group A (n\u2009=\u200960; retrospective cohort) underwent prophylactic FA maneuver with regular closure, whereas group B (n\u2009=\u2009120; concurrent and historical control cohort) received conventional closure alone. The primary outcome was total surgical wound complications, assessed until wound closure or resolution. Demographic analysis, matching between groups, and wound complications using Fisher exact test and \u03c72. Stata V.14 was used for data analysis. Sample size was estimated to be 120 patients, with 80% power and \u03b1\u2009=\u20090.05. RESULTS: Baseline characteristics, including age, sex, and comorbidities, showed no significant difference detectable with the numbers available between groups. The total incidence of surgical wound complications was significantly lower in the intervention cohort (group A: 6.7% [4/60]) compared to the conventional closure group (group B: 23.3% [28/120]; P\u2009=\u2009.0065) despite a higher proportion of fracture-dislocations in group A (P\u2009=\u2009.029). In univariate analysis, prophylactic FA was associated with a 77% reduction in the crude odds of surgical wound complications (OR\u2009=\u20090.23, 95% CI 0.08-0.70; P\u2009=\u2009.010). Multivariable logistic regression adjusting for age, sex, diabetes, smoking, and fracture-dislocation supported this association (adjusted OR\u2009=\u20090.20, 95% CI 0.06-0.63; P\u2009=\u2009.006). Only fracture-dislocation drove a 13% change in the adjusted estimate and was itself independently associated with wound complications (adjusted OR\u2009=\u20092.32, 95% CI 1.03-5.24; P\u2009=\u2009.042); the rest were not confounders. CONCLUSION: In geriatric patients undergoing plate fixation for unstable ankle fractures, prophylactic fasciocutaneous advancement was significantly associated with fewer total surgical wound complications than conventional closure. Given the retrospective, non-randomized design, prospective confirmation is warranted; nonetheless, this simple, reproducible adjunct shows clinical utility in closed fractures managed with standardized lateral plating protocols. LEVEL OF EVIDENCE: Level III, retrospective comparative study.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43094122/",
+      "score": 69,
+      "score_reasoning": "Comparative cohort study (180 geriatric ankle fractures) in FAI showing prophylactic fasciocutaneous advancement reduced wound complications from 23.3% to 6.7%, offering a novel technique with strong clinical relevance for high-risk ORIF patients.",
+      "bullets": [
+        "In patients aged 60 and older undergoing ankle ORIF with lateral plating, prophylactic fasciocutaneous advancement closure reduced wound complications from 23% to 7% compared to standard closure.",
+        "The benefit held after adjusting for diabetes, smoking, and fracture-dislocation, and fracture-dislocation itself independently increased wound complication risk.",
+        "For geriatric patients with closed unstable ankle fractures, adding a tension-free fasciocutaneous advancement at closure is a low-complexity step that may meaningfully reduce wound problems, though prospective data are still needed."
+      ]
+    },
+    {
+      "pmid": "43062135",
+      "title": "Task-specific Humeral Head Translation Is Associated With Neuromuscular Recruitment Deficits in Multidirectional Shoulder Instability.",
+      "authors": [
+        "Weng YH",
+        "Weng YC",
+        "Huang TS",
+        "Yang JL",
+        "Lin JJ"
+      ],
+      "authors_short": "Weng YH, Weng YC, et al.",
+      "journal": "Clinical orthopaedics and related research",
+      "journal_abbrev": "Clin Orthop Relat Res",
+      "year": "2026",
+      "abstract": "BACKGROUND: Multidirectional shoulder instability is a common clinical challenge, particularly in adolescents and young adult females. It can impact daily function and athletic performance. However, evidence regarding the relationship between humeral head translation and muscle recruitment patterns in this population remains unclear. QUESTIONS/PURPOSES: This study aimed to (1) compare humeral head translation between patients with multidirectional instability and controls, as well as among clinical subgroups characterized by anterior, inferior, and posterior instability; (2) examine shoulder muscle activity across groups, including variations within clinical subgroups; and (3) investigate the relationship between humeral head translation and muscle activation levels during three standardized isometric tasks. METHODS: From an initial screening of 37 patients and 35 controls, 19% (7) of patients and 14% (5) of controls were excluded based on predefined criteria (shoulder pain < 3 months, prior shoulder surgery, or adhesive capsulitis), leaving 30 eligible participants with multidirectional instability (25 female, mean \u00b1 SD age 24 \u00b1 1 years) and 30 control participants (23 female, age 25 \u00b1 4 years) who successfully completed all testing without data loss. To address our three study questions, the methodology was structured as follows: first, ultrasonography was used to calculate humeral head translation via changes in acromiohumeral and glenohumeral distances. Based on clinical relevance and patient perception thresholds, a difference of \u2265 1.4 mm in humeral head translation was defined as the minimal detectable change (MDC). Second, surface electromyography recorded muscle activities (biceps long head, infraspinatus, middle deltoid, serratus anterior, upper trapezius, and lower trapezius) across groups and clinical subgroups during three isometric tasks, including (1) isometric shoulder flexion, (2) isometric horizontal adduction, and (3) extension while holding weight. For extension while holding weight, participants lifted a standardized dumbbell (5 kg for participants with BMI \u2265 21 kg/m2 and 4 kg for those with a BMI of < 21 kg/m2). All data on muscle activity are reported as percentages of maximum voluntary isometric contraction rather than absolute values, with 20% representing the MDC. Participants were further stratified into subgroups based on predominant instability patterns, and comparative analyses were conducted to evaluate differences in humeral translation and muscle activities across these specific groups. Third, the relationship between humeral head translation and muscle activation levels was investigated using Pearson correlation coefficients, interpreted as weak for r < 0.30, moderate for r = 0.30 to 0.50, and strong for r > 0.50. RESULTS: Compared with controls, patients with multidirectional instability demonstrated greater humeral head translation across all tasks, exceeding the MDC threshold in controls versus patients for anterior translation (mean \u00b1 SD 0.4 \u00b1 0.3 mm versus 2.6 \u00b1 1.1 mm, mean difference 2.2 [95% confidence interval (CI) 1.8 to 2.6]; p < 0.001), posterior translation (0.4 \u00b1 0.2 mm versus 2.2 \u00b1 1.2 mm, mean difference 1.8 [95% CI 1.3 to 2.2]; p < 0.001), and inferior translation (0.3 \u00b1 0.2 mm versus 3.0 \u00b1 1.8 mm, mean difference 2.8 [95% CI 2.1 to 3.4]; p < 0.001). Subgroup analysis showed that patients with a predominant direction of instability experienced the greatest translation during corresponding specific tasks (mean difference 1.5 to 2.4 mm [95% CI 0.2 to 4.1]; p < 0.02). We found no clinically important difference between controls and patients in terms of infraspinatus activity during horizontal adduction (23% \u00b1 11% versus 15% \u00b1 6%, mean difference 8% [95% CI 2% to 13%]; p = 0.001). Similarly, no clinically important difference was observed in upper trapezius activity during weighted extension (32% \u00b1 19% versus 17% \u00b1 13%, mean difference 14% [95% CI 4% to 22%]; p = 0.001), nor in middle deltoid activity during weighted extension (11% \u00b1 6% versus 7% \u00b1 4%, mean difference 3% [95% CI 1% to 6%]; p = 0.009). Only the reduction in biceps long head during flexion in controls versus patients (64% \u00b1 38% versus 36% \u00b1 12%, mean difference 29% [95% CI 14% to 44%]; p < 0.001) exceeded the MDC threshold. Correlations between translation and muscle activity occurred during specific tasks, showing moderate positive associations with serratus anterior (r = 0.38; p = 0.04) and lower trapezius activity (r = 0.40; p = 0.03) during flexion and a strong positive association with middle deltoid activity during horizontal adduction (r = 0.59; p = 0.001), whereas no correlations were found during weighted extension. CONCLUSION: Patients with multidirectional instability exhibit task-specific increases in humeral head translation exceeding the MDC, driven by distinct neuromuscular deficits. Subgroup analyses show that patients experience the greatest translation during tasks corresponding to their predominant direction of instability. Future studies should evaluate the longitudinal efficacy of rehabilitation protocols in modifying abnormal translation patterns and improving clinical outcomes across different subgroups. CLINICAL RELEVANCE: From a foundational science perspective, our findings indicate that traditional, generalized shoulder strengthening is insufficient for multidirectional instability. Instead, rehabilitation should utilize direction-specific interventions tailored to each patient's predominant instability pattern, targeting underperforming muscles to mitigate abnormal joint translation and restore dynamic glenohumeral stability.",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43062135/",
+      "score": 67,
+      "score_reasoning": "Systematic review and meta-analysis (28,854 hips, 27 studies) in JAAOS comparing late periprosthetic femoral fracture rates by stem design, confirming PTS stems carry highest risk and informing implant selection decisions.",
+      "bullets": [
+        "Young patients with multidirectional shoulder instability show measurable excess humeral head translation in all directions compared to controls, with the greatest translation occurring during tasks that match their predominant instability direction.",
+        "Biceps long head recruitment during flexion was the only muscle deficit large enough to be clinically meaningful, suggesting most muscle activation differences in this population fall below a detectable threshold.",
+        "Blanket shoulder strengthening programs are likely insufficient for multidirectional instability, and rehabilitation should be tailored to each patient's specific instability direction to target the muscles driving abnormal joint translation."
+      ]
+    }
+  ],
+  "picks": [
+    0
+  ],
+  "status": "sent",
+  "preview_sent_at": "2026-11-27T12:21:35.273367-07:00"
+}
